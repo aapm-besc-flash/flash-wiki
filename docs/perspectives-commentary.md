@@ -1,32 +1,8 @@
 # Perspectives & Commentary
 
-Editorials, letters, debates and opinion pieces on FLASH radiotherapy.
+Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 
-*22 records. Newest first.*
-
----
-
-### Editorial: Innovative approaches in precision radiation oncology.
-
-*Parchur AK, Yadav P* — Frontiers in medicine (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41658581/) · [DOI](https://doi.org/10.3389/fmed.2026.1776567) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12873716/)
-
-
----
-
-### Editorial: 2nd collection of special issue in innovations, advances, and challenges in precision radiation oncology physics.
-
-*Guan F, Campelo S, Jiang Z, Bronk L* — Precision radiation oncology (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41477291/) · [DOI](https://doi.org/10.1002/pro6.70039) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11934901/)
-
+*19 records. Newest first.*
 
 ---
 
@@ -38,6 +14,25 @@ Editorials, letters, debates and opinion pieces on FLASH radiotherapy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41278486/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110291) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10520273/)
+
+
+---
+
+### Retraction: Flash Therapy for Cancer: A Potentially New Radiotherapy Methodology.
+
+*Polevoy GG, Kumar DS, Daripelli S, Prasanna M* — Cureus (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
+
+
+**TL;DR.** \[This retracts the article DOI: 10.7759/cureus.46928.\].
+
+
+??? note "Abstract"
+    \[This retracts the article DOI: 10.7759/cureus.46928.\].
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41278052/) · [DOI](https://doi.org/10.7759/cureus.r201) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12630383/)
 
 
 ---
@@ -74,18 +69,6 @@ Editorials, letters, debates and opinion pieces on FLASH radiotherapy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37158121/) · [DOI](https://doi.org/10.1002/mp.16152)
-
-
----
-
-### Editorial: 365 days of progress in radiation oncology.
-
-*Kinsella TJ* — Frontiers in oncology (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37025589/) · [DOI](https://doi.org/10.3389/fonc.2023.1179316) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10072226/)
 
 
 ---
@@ -162,14 +145,14 @@ Editorials, letters, debates and opinion pieces on FLASH radiotherapy.
 
 ---
 
-### Editorial: Ionizing Radiation and Human Health: A Multifaceted Relationship.
+### Letter in Response to Doyen et al., &quot;Early Toxicities After High Dose Rate Proton Therapy in Cancer Treatments&quot;.
 
-*Manti L, Schaue D, Hamada N* — Frontiers in public health (2021)  
+*Montay-Gruel P, Vozenin MC, Limoli CL* — Frontiers in oncology (2021)  
 
 <span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34869190/) · [DOI](https://doi.org/10.3390/cancers13215344) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8582417/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34055651/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-20-0894) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7854480/)
 
 
 ---
@@ -182,18 +165,6 @@ Editorials, letters, debates and opinion pieces on FLASH radiotherapy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33548337/) · [DOI](https://doi.org/10.1016/j.ijrobp.2021.01.053)
-
-
----
-
-### Flash Survey on the Effect of COVID-19 on Radiotherapy Services in the UK - the Benefit of Social Media for Rapid Information Gathering for the Radiotherapy Community and Government.
-
-*Ashcroft S, Meeking K, Price P* — Clinical oncology (Royal College of Radiologists (Great Britain)) (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32900587/) · [DOI](https://doi.org/10.1016/j.clon.2020.08.005) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7474821/)
 
 
 ---

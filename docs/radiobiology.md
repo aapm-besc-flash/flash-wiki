@@ -2,7 +2,26 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*497 records. Newest first.*
+*454 records. Newest first.*
+
+---
+
+### Reduced corneal toxicity following whole brain irradiation in mice.
+
+*Pillai V, Landi S, Uccheddu F, Di Martino F, Cavalieri A, Paiar F et al.* — Clinical and translational radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** The emergence of focal techniques such as stereotactic radiosurgery has led to a more selective use of whole brain radiotherapy (WBRT), yet it remains an important modality for treating diffuse or multiple intracranial malignancies. During WBRT, conventional dose rate radiotherapy (CONV-RT) inadvertently exposes ocular structures to radiation, potentially leading to vision-threatening complication…
+
+
+??? note "Abstract"
+    PURPOSE: The emergence of focal techniques such as stereotactic radiosurgery has led to a more selective use of whole brain radiotherapy (WBRT), yet it remains an important modality for treating diffuse or multiple intracranial malignancies. During WBRT, conventional dose rate radiotherapy (CONV-RT) inadvertently exposes ocular structures to radiation, potentially leading to vision-threatening complications. FLASH radiotherapy (FLASH-RT) delivers ultra-high dose rates in milliseconds, compared to CONV-RT where the dose delivery is over several minutes. This study employs 9 MeV electron beams to investigate whether FLASH-RT reduces radiation-induced corneal collagen damage relative to CONV-RT, using second-harmonic generation (SHG) imaging in a murine WBRT model. We hypothesized that FLASH-RT preferentially protects anterior ocular structures from incidental radiation damage compared to CONV-RT, potentially through preservation of extracellular matrix integrity and reduced damage to long-lived structural proteins. MATERIALS AND METHODS: C57BL/6 J wild type mice were divided into three experimental cohorts: untreated controls, FLASH-RT and CONV-RT. Within the radiotherapy cohorts, subgroups received a single whole-brain fraction of 10 Gy, 15 Gy or 20 Gy delivered at an average dose rate of 240 Gy/s for FLASH-RT or 0.1 Gy/s for CONV-RT. Corneal alterations were evaluated at acute (4 days) and chronic (40 days) post-irradiation timepoints. SHG microscopy quantified collagen organization using forward-to-backward (F/B) signal ratios and corneal thickness as markers of radiation-induced damage. RESULTS: In the CONV-RT cohorts, we found significantly decreased F/B ratios compared to controls (p &lt; 0.05), indicating substantial collagen disorganization, and increased corneal thickness indicative of radiation-induced tissue edema. Conversely, FLASH-RT was associated with higher F/B ratios and reduced corneal thickening compared with CONV-RT, indicating preservation of corneal extracellular matrix organization across both timepoints. However, the tissue sparing effect on corneal thickness was not sustained at the high single fraction threshold of 20 Gy. CONCLUSION: FLASH-RT preserves corneal collagen architecture compared to CONV-RT during whole brain irradiation, demonstrating significant potential for minimizing ocular toxicity in WBRT. These findings support clinical investigation of FLASH-RT as a tissue-sparing modality for brain cancer treatment.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42541254/) · [DOI](https://doi.org/10.1016/j.ctro.2026.101235) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7027102/)
+
 
 ---
 
@@ -40,25 +59,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42467876/) · [DOI](https://doi.org/10.1101/2025.04.07.647544) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12244404/)
-
-
----
-
-### Photographic Physi-Luminescence Assay Based on a Persistent Luminescence Nanoprobe.
-
-*Zong Z, Qu C, Ding L, Ma X, Abulipizi G, Fang Y et al.* — Analytical chemistry (2026)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Chemi- or bioluminescence assays have broad applications in biomedical analysis, yet they still suffer from a flash effect or difficulty in maintaining time synchronization during high-throughput assays. Persistent luminescence (PersL) nanoprobes are able to emit photons for a rather long time without any chemical reactions and have promising applications in developing a physi-luminescence assay.
-
-
-??? note "Abstract"
-    Chemi- or bioluminescence assays have broad applications in biomedical analysis, yet they still suffer from a flash effect or difficulty in maintaining time synchronization during high-throughput assays. Persistent luminescence (PersL) nanoprobes are able to emit photons for a rather long time without any chemical reactions and have promising applications in developing a physi-luminescence assay. Herein, SiO2/Zn2SiO4:Mn,Yb,Ge nanoparticles (MYG, Zn/Si/Mn/Yb/Ge molar ratio, 2/15/0.003/0.060/0.100) were synthesized with PersL properties at 525 nm. Mesoporous silica nanoparticles were used as a nanotemplate to control the size and morphology, which allowed for gram-scale production (1.1277 g). Ge was found to be an efficient codopant to realize the enhanced PersL of MYG. A hydrophobic azo dye, Sudan III, was loaded onto the MYG surface to form a quenched MYG-S nanoprobe. Under 254 nm UV illumination, Sudan III was oxidized by H2O2, and PersL was recovered. The &quot;OFF-ON&quot; PersL property of MYG-S was applied to develop a physi-luminescence assay method for H2O2, glucose, and glucose oxidase in serum. As the PersL of the samples in a 96-well plate was activated by simultaneous UV illumination rather than by adding chemicals, high-throughput photographic luminescence analysis was realized with accuracy and repeatability. Our research indicates the promising applications of PersL nanoprobes in developing a physi-luminescence assay.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42464094/) · [DOI](https://doi.org/10.1021/acs.analchem.6c02440)
 
 
 ---
@@ -1655,6 +1655,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41202091/) · [DOI](https://doi.org/10.3389/fphy.2020.570697) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11674953/)
+
+
+---
+
+### Ultrahigh Dose Rate Irradiation Regulates Mitochondrial DNA-induced Interferon-β Secretion via Cytochrome c Leakage.
+
+*Lv J, Sun J, Luo Y, Liu J, Wu D, Fang Y et al.* — MedComm (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41179706/) · [DOI](https://doi.org/10.1002/mco2.70457) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9618056/)
 
 
 ---
@@ -3621,25 +3633,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Optical Control of TRPV1 Channels In Vitro with Tethered Photopharmacology.
-
-*Howe CL, Icka-Araki D, Viray AEG, Garza S, Frank JA* — ACS chemical biology (2024)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Transient receptor potential vanilloid 1 (TRPV1) is a nonselective cation channel that is important for nociception and inflammatory pain and is activated by a variety of nociceptive stimuli─including lipids such as capsaicin (CAP) and endocannabinoids. TRPV1&#x27;s role in physiological systems is often studied by activating it with externally perfused ligands; however, this approach is plagued by poo…
-
-
-??? note "Abstract"
-    Transient receptor potential vanilloid 1 (TRPV1) is a nonselective cation channel that is important for nociception and inflammatory pain and is activated by a variety of nociceptive stimuli─including lipids such as capsaicin (CAP) and endocannabinoids. TRPV1&#x27;s role in physiological systems is often studied by activating it with externally perfused ligands; however, this approach is plagued by poor spatiotemporal resolution. Lipid agonists are insoluble in physiological buffers and can permeate membranes to accumulate nonselectively inside cells, where they can have off-target effects. To increase the spatiotemporal precision with which we can activate lipids on cells and tissues, we previously developed optically cleavable targeted (OCT) ligands, which use protein tags (SNAP-tags) to localize a photocaged ligand on a target cellular membrane. After enrichment, the active ligand is released on a flash of light to activate nearby receptors. In our previous work, we developed an OCT-ligand to control a cannabinoid-sensitive GPCR. Here, we expand the scope of OCT-ligand technology to target TRPV1 ion channels. We synthesize a probe, OCT-CAP, that tethers to membrane-bound SNAP-tags and releases a TRPV1 agonist when triggered by UV-A irradiation. Using Ca2+ imaging and electrophysiology in HEK293T cells expressing TRPV1, we demonstrate that OCT-CAP uncaging activates TRPV1 with superior spatiotemporal precision when compared to standard diffusible ligands or photocages. This study is the first example of an OCT-ligand designed to manipulate an ion-channel target. We anticipate that these tools will find many applications in controlling lipid signaling pathways in various cells and tissues.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38904446/) · [DOI](https://doi.org/10.1021/acschembio.4c00052)
-
-
----
-
 ### Using Modularized Pin Ridge Filter in Proton FLASH Planning for Liver Stereotactic Ablative Body Radiotherapy.
 
 *Ma C, Yang X, Wang Y, Yu D, Patel P, Zhou J* — ArXiv (2024)  
@@ -4647,25 +4640,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Retrospective Analysis of the Areas Responsible for Light Flash and Odor During Proton Beam Therapy and Photon Therapy.
-
-*Oshiro Y, Mizumoto M, Miyamoto T, Sumiya T, Fujioka D, Shirataki H et al.* — Cureus (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Background Abnormal sensations were frequently experienced by patients who received irradiation of the brain or head and neck region. We have previously suggested correlations with irradiation of the nasal cavity and retina.
-
-
-??? note "Abstract"
-    Background Abnormal sensations were frequently experienced by patients who received irradiation of the brain or head and neck region. We have previously suggested correlations with irradiation of the nasal cavity and retina. Purpose We performed a retrospective dose-volume histogram analysis focused on the brain and head and neck tumor to examine the relationship between these abnormal sensations and the details of irradiation. Methods Multivariate logistic regression models were applied for the presence or absence of light flash and odor. Gender, age, radiotherapy method (proton beam therapy vs. photon radiotherapy), dose of retina, optic nerve, chiasmatic gland, pituitary, nasal cavity, oral cavity, frontal lobe, parietal lobe, occipital lobe, temporal lobe, amygdala, and hippocampus were set as candidates of explanatory variables. Results Light flash and odor during radiotherapy have been suggested to be associated with younger age and retina and nasal cavity irradiation. Multivariate analyses including dose-volume histograms indicated that light flash was related to age, chiasmatic gland irradiation, and pituitary dose, and odor was related to age and nasal cavity irradiation. Conclusion Our results indicate that light flash during radiotherapy is caused by irradiation of the visual pathway and that odor is caused by irradiation of the nasal cavity or olfactory bulb.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37809274/) · [DOI](https://doi.org/10.7759/cureus.44790) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10542110/)
-
-
----
-
 ### Evaluation of single-fraction high dose FLASH radiotherapy in a cohort of canine oral cancer patients.
 
 *Børresen B, Arendt ML, Konradsson E, Bastholm Jensen K, Bäck SÅ, Munck Af Rosenschöld P et al.* — Frontiers in oncology (2023)  
@@ -4871,25 +4845,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37427749/) · [DOI](https://doi.org/10.1002/mp.16392) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10112536/)
-
-
----
-
-### Near-infrared radiation causes sebaceous gland enlargement along with an ROS-dependent augmentation of epidermal growth factor receptor expression in hamsters.
-
-*Tanaka S, Sakaue H, Koiwai T, Okuda N, Okuyama K, Horioka Y et al.* — Experimental dermatology (2023)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** As near-infrared radiation (NIR), which is a composition of sunlight with an 780-1400 nm wavelength, is associated with skin aging such as wrinkles and slacks, the biological actions of NIR with high dermal penetration remains unclear. In the present study, we found that NIR irradiation (40 J/cm2 ) at different levels of irradiance (95-190 mW/cm2 ) using a laboratory device with a xenon flash lamp…
-
-
-??? note "Abstract"
-    As near-infrared radiation (NIR), which is a composition of sunlight with an 780-1400 nm wavelength, is associated with skin aging such as wrinkles and slacks, the biological actions of NIR with high dermal penetration remains unclear. In the present study, we found that NIR irradiation (40 J/cm2 ) at different levels of irradiance (95-190 mW/cm2 ) using a laboratory device with a xenon flash lamp (780-1700 nm) caused sebaceous gland enlargement concomitantly with skin thickening in the auricle skin of hamsters. The sebaceous gland enlargement resulted from the proliferation of sebocytes due to an increase in the number of proliferating cell nuclear antigen (PCNA)- and lamin B1-positive cells in vivo. In addition, NIR irradiation transcriptionally augmented the production of epidermal growth factor receptor (EGFR) accompanied with an increase in the reactive oxygen species (ROS) level in hamster sebocytes in vitro. Furthermore, the administration of hydrogen peroxide increased the level of EGFR mRNA in the sebocytes. Therefore, these results provide novel evidence that NIR irradiation causes the hyperplasia of sebaceous glands in hamsters by mechanisms in which EGFR production is transcriptionally augmented through ROS-dependent pathways in sebocytes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37401827/) · [DOI](https://doi.org/10.1111/exd.14878)
 
 
 ---
@@ -5161,25 +5116,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36952604/) · [DOI](https://doi.org/10.1080/09553002.2023.2194403)
-
-
----
-
-### Novel unconventional radiotherapy techniques: Current status and future perspectives - Report from the 2nd international radiation oncology online seminar.
-
-*Tubin S, Vozenin MC, Prezado Y, Durante M, Prise KM, Lara PC et al.* — Clinical and translational radiation oncology (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** •Improvement of therapeutic ratio by novel unconventional radiotherapy approaches.•Immunomodulation using high-dose spatially fractionated radiotherapy.•Boosting radiation anti-tumor effects by adding an immune-mediated cell killing.
-
-
-??? note "Abstract"
-    •Improvement of therapeutic ratio by novel unconventional radiotherapy approaches.•Immunomodulation using high-dose spatially fractionated radiotherapy.•Boosting radiation anti-tumor effects by adding an immune-mediated cell killing.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36910025/) · [DOI](https://doi.org/10.1038/s41571-022-00697-z) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8008989/)
 
 
 ---
@@ -5754,25 +5690,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Why Did Nature Choose Manganese over Cobalt to Make Oxygen Photosynthetically on the Earth?
-
-*Gates C, Ananyev G, Roy-Chowdhury S, Cullinane B, Miller M, Fromme P et al.* — The journal of physical chemistry. B (2022)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** All contemporary oxygenic phototrophs─from primitive cyanobacteria to complex multicellular plants─split water using a single invariant cluster comprising Mn4CaO5 (the water oxidation catalyst) as the catalyst within photosystem II, the universal oxygenic reaction center of natural photosynthesis. This cluster is unstable outside of PSII and can be reconstituted, both in vivo and in vitro, using e…
-
-
-??? note "Abstract"
-    All contemporary oxygenic phototrophs─from primitive cyanobacteria to complex multicellular plants─split water using a single invariant cluster comprising Mn4CaO5 (the water oxidation catalyst) as the catalyst within photosystem II, the universal oxygenic reaction center of natural photosynthesis. This cluster is unstable outside of PSII and can be reconstituted, both in vivo and in vitro, using elemental aqueous ions and light, via photoassembly. Here, we demonstrate the first functional substitution of manganese in any oxygenic reaction center by in vitro photoassembly. Following complete removal of inorganic cofactors from cyanobacterial photosystem II microcrystal (PSIIX), photoassembly with free cobalt (Co2+), calcium (Ca2+), and water (OH-) restores O2 evolution activity. Photoassembly occurs at least threefold faster using Co2+ versus Mn2+ due to a higher quantum yield for PSIIX-mediated charge separation (P*): Co2+ → P* → Co3+QA-. However, this kinetic preference for Co2+ over native Mn2+ during photoassembly is offset by significantly poorer catalytic activity (∼25% of the activity with Mn2+) and ∼3- to 30-fold faster photoinactivation rate. The resulting reconstituted Co-PSIIX oxidizes water by the standard four-flash photocycle, although they produce 4-fold less O2 per PSII, suggested to arise from faster charge recombination (Co3+QA ← Co4+QA-) in the catalytic cycle. The faster photoinactivation of reconstituted Co-PSIIX occurs under anaerobic conditions during the catalytic cycle, suggesting direct photodamage without the involvement of O2. Manganese offers two advantages for oxygenic phototrophs, which may explain its exclusive retention throughout Darwinian evolution: significantly slower charge recombination (Mn3+QA ← Mn4+QA-) permits more water oxidation at low and fluctuating solar irradiation (greater net energy conversion) and much greater tolerance to photodamage at high light intensities (Mn4+ is less oxidizing than Co4+). Future work to identify the chemical nature of the intermediates will be needed for further interpretation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35446582/) · [DOI](https://doi.org/10.1021/acs.jpcb.2c00749)
-
-
----
-
 ### Development of a portable hypoxia chamber for ultra-high dose rate laser-driven proton radiobiology applications.
 
 *Chaudhary P, Gwynne DC, Odlozilik B, McMurray A, Milluzzo G, Maiorino C et al.* — Radiation oncology (London, England) (2022)  
@@ -5902,25 +5819,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35290449/) · [DOI](https://doi.org/10.1667/RADE-21-00181.1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8121317/)
-
-
----
-
-### Stem cell differentiation with consistent lineage commitment induced by a flash of ultrafast-laser activation in vitro and in vivo.
-
-*Tang W, Wang H, Zhao X, Liu S, Kong SK, Ho A et al.* — Cell reports (2022)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Recent technological advancements on stem cell differentiation induction have been making great progress in stem cell research, regenerative medicine, and therapeutic applications. However, the risk of off-target differentiation limits the wide application of stem cell therapy strategies.
-
-
-??? note "Abstract"
-    Recent technological advancements on stem cell differentiation induction have been making great progress in stem cell research, regenerative medicine, and therapeutic applications. However, the risk of off-target differentiation limits the wide application of stem cell therapy strategies. Here, we report a non-invasive all-optical strategy to induce stem cell differentiation in vitro and in vivo that activates individual target stem cells in situ by delivering a transient 100-ms irradiation of a tightly focused femtosecond laser to a submicron cytoplasmic region of primary adipose-derived stem cells (ADSCs). The ADSCs differentiate to osteoblasts with stable lineage commitment that cannot further transdifferentiate because of simultaneous initiation of multiple signaling pathways through specific Ca2+ kinetic patterns. This method can work in vivo to direct mouse cerebellar granule neuron progenitors to granule neurons in intact mouse cerebellums through the skull. Hence, this optical method without any genetic manipulations or exogenous biomaterials holds promising potential in biomedical research and cell-based therapies.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35263591/) · [DOI](https://doi.org/10.1016/j.celrep.2022.110486)
 
 
 ---
@@ -6172,25 +6070,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Ultrasound-triggered imaging and drug delivery using microbubble-self-aggregate complexes.
-
-*Chung IJ, Moon H, Jeon SI, Lee HJ, Ahn CH* — Journal of biomaterials science. Polymer edition (2022)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Co-delivery of microbubbles (MBs) with anticancer drugs is a promising theranostic approach that can enhance both the ultrasound contrast and local extravasation of drugs with the sonoporation effect. The simultaneous administration of MBs and hydrophobic drugs, however, is still challenging due to the limitations in drug loading or undesirable stabilization of MBs.
-
-
-??? note "Abstract"
-    Co-delivery of microbubbles (MBs) with anticancer drugs is a promising theranostic approach that can enhance both the ultrasound contrast and local extravasation of drugs with the sonoporation effect. The simultaneous administration of MBs and hydrophobic drugs, however, is still challenging due to the limitations in drug loading or undesirable stabilization of MBs. In this research, MB-self-aggregate complexes (MB-SAs) were newly fabricated for the encapsulation of hydrophobic drugs, and their theranostic properties are investigated in vitro and in vivo. Glycol chitosan self-aggregates (GC-SAs) loaded with hydrophobic drugs or dyes were chemically conjugated on the surface MBs. Their conjugation ratio was determined to be 73.9%, and GC-SAs on MBs did not affect the stability of MBs. GC-SA attached MBs (GC@MBs) were successfully visualized with low-intensity insonation and showed enhanced cellular uptake via the sonoporation effect. In vivo biodistribution of GC@MBs was examined with tumor-bearing mice, confirming that their accumulation at the tumor site increased by 1.85 times after ultrasound irradiation. The anticancer drug-loaded GC@MBs also exhibited 10% higher cytotoxicity under ultrasound flash. In conclusion, it was expected that GC@MBs could be used both as an ultrasound contrast agent and a drug carrier even with conventional ultrasonic devices.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34503403/) · [DOI](https://doi.org/10.1080/09205063.2021.1976362)
-
-
----
-
 ### Radiobiology of the FLASH effect.
 
 *Friedl AA, Prise KM, Butterworth KT, Montay-Gruel P, Favaudon V* — Medical physics (2022)  
@@ -6267,25 +6146,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Effects of Ultrasound Contrast Agent-Mediated Nerve Growth Factor on Apoptosis of Retinal Ganglion Cells in Mice with Glaucoma.
-
-*Ke Y, Huang L, Chen B, Sima J, Cao J, Li Q* — Computational and mathematical methods in medicine (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** With an increasing incidence in recent years, glaucoma (GL) has gradually become a global public health problem for humans of all ages. Nerve growth factor (NGF) eye drops, with well-documented stable effect in the treatment of GL, can be potentiated by the administration of NGF drugs via ultrasound contrast agent (UCA).
-
-
-??? note "Abstract"
-    With an increasing incidence in recent years, glaucoma (GL) has gradually become a global public health problem for humans of all ages. Nerve growth factor (NGF) eye drops, with well-documented stable effect in the treatment of GL, can be potentiated by the administration of NGF drugs via ultrasound contrast agent (UCA). This study analyzed the efficacy of NGF+UCA on GL mice and the influencing mechanism on retinal ganglion cells and further explored the pathological changes of GL mice under different UCA irradiation duration. In this study, we established GL mouse models and treated the mouse with NGF+UCA. The effect of NGF+UCA on intraocular pressure in mice was observed; the flash visual evoked potential of mice was compared; the changes of retinal structure, inflammation index, and oxidative stress index were observed, and autophagic protein levels were tested. Finally, the influence of UCA irradiation duration on GL symptoms was observed. The results showed that the intraocular pressure of mice decreased greatly, while their flash visual evoked potential and nervous layer of retina increased, and their ganglion cells showed stronger proliferation activity and weaker apoptosis and autophagy, indicating that UCA-mediated NGF can strongly improve the pathological condition of GL mice. In addition, PI3K/AKT pathway-associated proteins were inhibited in retina under the intervention of NGF+UCA, which further suggests that the influence of UCA-mediated NGF on GL is achieved by inhibiting autophagy of retinal ganglion cells and enhancing their apoptosis via the PI3K/AKT signaling pathway. Moreover, we found that in the treatment of GL, three weeks of UCA irradiation and six weeks caused no significant difference in the pathological manifestations and ganglion cells of mice, while after six weeks of irradiation, the level of NLRP3 in mice increased. In conclusion, UCA-mediated NGF can significantly improve the pathological condition of GL mice and improve the apoptosis of retinal ganglion cells by inhibiting autophagy, which is associated with the inhibition of the PI3K/AKT signal pathway. In terms of selection of UCA irradiation duration, three weeks of irradiation is enough to yield good clinical results.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34873416/) · [DOI](https://doi.org/10.1177/016173461203400102) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3417718/)
-
-
----
-
 ### A new emittance selection system to maximize beam transmission for low-energy beams in cyclotron-based proton therapy facilities with gantry.
 
 *Maradia V, Meer D, Weber DC, Lomax AJ, Schippers JM, Psoroulas S* — Medical physics (2021)  
@@ -6301,25 +6161,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34655083/) · [DOI](https://doi.org/10.1016/j.semradonc.2012.11.005) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7416868/)
-
-
----
-
-### A Multi-Scale and Multi-Technique Approach for the Characterization of the Effects of Spatially Fractionated X-ray Radiation Therapies in a Preclinical Model.
-
-*Romano M, Bravin A, Mittone A, Eckhardt A, Barbone GE, Sancey L et al.* — Cancers (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The purpose of this study is to use a multi-technique approach to detect the effects of spatially fractionated X-ray Microbeam (MRT) and Minibeam Radiation Therapy (MB) and to compare them to seamless Broad Beam (BB) irradiation. Healthy- and Glioblastoma (GBM)-bearing male Fischer rats were irradiated in-vivo on the right brain hemisphere with MRT, MB and BB delivering three different doses for e…
-
-
-??? note "Abstract"
-    The purpose of this study is to use a multi-technique approach to detect the effects of spatially fractionated X-ray Microbeam (MRT) and Minibeam Radiation Therapy (MB) and to compare them to seamless Broad Beam (BB) irradiation. Healthy- and Glioblastoma (GBM)-bearing male Fischer rats were irradiated in-vivo on the right brain hemisphere with MRT, MB and BB delivering three different doses for each irradiation geometry. Brains were analyzed post mortem by multi-scale X-ray Phase Contrast Imaging-Computed Tomography (XPCI-CT), histology, immunohistochemistry, X-ray Fluorescence (XRF), Small- and Wide-Angle X-ray Scattering (SAXS/WAXS). XPCI-CT discriminates with high sensitivity the effects of MRT, MB and BB irradiations on both healthy and GBM-bearing brains producing a first-time 3D visualization and morphological analysis of the radio-induced lesions, MRT and MB induced tissue ablations, the presence of hyperdense deposits within specific areas of the brain and tumor evolution or regression with respect to the evaluation made few days post-irradiation with an in-vivo magnetic resonance imaging session. Histology, immunohistochemistry, SAXS/WAXS and XRF allowed identification and classification of these deposits as hydroxyapatite crystals with the coexistence of Ca, P and Fe mineralization, and the multi-technique approach enabled the realization, for the first time, of the map of the differential radiosensitivity of the different brain areas treated with MRT and MB. 3D XPCI-CT datasets enabled also the quantification of tumor volumes and Ca/Fe deposits and their full-organ visualization. The multi-scale and multi-technique approach enabled a detailed visualization and classification in 3D of the radio-induced effects on brain tissues bringing new essential information towards the clinical implementation of the MRT and MB radiation therapy techniques.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34638437/) · [DOI](https://doi.org/10.3390/cryst6080087) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157705/)
 
 
 ---
@@ -6415,25 +6256,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34395253/) · [DOI](https://doi.org/10.1038/s41598-020-78017-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728763/)
-
-
----
-
-### SPP1 Regulates Radiotherapy Sensitivity of Gastric Adenocarcinoma via the Wnt/Beta-Catenin Pathway.
-
-*Sun G, Shang Z, Liu W* — Journal of oncology (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Radiotherapy has been widely applied for the treatment of locally advanced and metastatic gastric adenocarcinoma (GAC). The aberrant expression of secreted phosphoprotein 1 (SPP1) is involved in radiosensitivity in a variety of cancers.
-
-
-??? note "Abstract"
-    PURPOSE: Radiotherapy has been widely applied for the treatment of locally advanced and metastatic gastric adenocarcinoma (GAC). The aberrant expression of secreted phosphoprotein 1 (SPP1) is involved in radiosensitivity in a variety of cancers. The present study aims to characterize the clinical significance of SPP1 expression in GAC and its role and underlying mechanism of radiosensitivity. METHODS: The SPP1 expression in GAC tissues and pericarcinomatous tissues was determined by QRT-PCR and immunohistochemistry, and the SPP1 expression in GAC cell lines (BGC823, AGS, and SGC7901) and normal human gastric epithelial cell line (GES-1) was determined by western blot. T-test, one-way ANOVA, Cox regression model, and Kaplan-Meier plotter were applied to further assess the association between SPP1 expression and the prognosis of the patients with GAC. After irradiation and transfection with si-SPP1 combined with or without Wnt/β-catenin pathway inhibitor (XAV939), western blot, transwell, flow cytometry, and TOP-flash reporter assay were applied to detect DNA damage, invasion, apoptosis, cell cycle, and activation of Wnt/β-catenin pathway, respectively. RESULTS: SPP1 mRNA and protein levels in GAC tissues were both dramatically higher than those in pericarcinomatous tissues. SPP1 overexpression was positively associated with tumor size, nodal status, and histological grade of GAC patients. SPP1 overexpression, depth of invasion, and nodal status were independent prognostic factors for the patients. High SPP1 expression was negatively related to the overall survival in patients with GAC. We found that SPP1 knockdown enhanced the radiosensitivity of GAC cell lines (AGS and SGC7901). Increasing H2AX phosphorylation, apoptosis and G2/M phase arrest, and decreasing invasion were observed after the administration of si-SPP1 and irradiation. Radiosensitivity of SPP1 was mainly dependent on the Wnt/β-catenin signal pathway. XAV939 could enhance these phenomena induced by irradiation combined with SPP1 knockdown. CONCLUSION: This study demonstrates that SPP1 suppresses Wnt/β-catenin signaling to enhance the radiosensitivity of GAC via inhibiting invasion and accelerating DNA damage, G2/M phase arrest, and apoptosis.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34367279/) · [DOI](https://doi.org/10.1038/onc.2010.467) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4281718/)
 
 
 ---
@@ -6742,25 +6564,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### In vitro thrombus formation and in vivo hemostasis mediated by platelets irradiated with bactericidal ultraviolet C from xenon flash under flow conditions.
-
-*Abe H, Endo K, Nogawa M, Shiba M, Miyata S, Satake M* — Transfusion (2021)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** We previously reported a flow path-ultraviolet C (UVC) irradiation system for platelet concentrates (PCs) with platelet additive solution (PAS) to minimize contamination by bacteria. Here, we investigated functionalities of irradiated platelets (PLTs) in in vitro thrombus formation and in vivo hemostasis.
-
-
-??? note "Abstract"
-    BACKGROUND: We previously reported a flow path-ultraviolet C (UVC) irradiation system for platelet concentrates (PCs) with platelet additive solution (PAS) to minimize contamination by bacteria. Here, we investigated functionalities of irradiated platelets (PLTs) in in vitro thrombus formation and in vivo hemostasis. STUDY DESIGN AND METHODS: PAS-PCs were irradiated with flash UVC using the flow path system. Their variables (PLT count, mean platelet volume, pH, glucose, lactate, glycoprotein \[GP\] Ib, and activated integrin αIIbβ3) were evaluated. Static adhesion to collagen or fibrinogen was analyzed using fluorescent microscopy. Thrombus formation under flow conditions was assessed using a collagen-coated bead column. Adenosine diphosphate (ADP)-induced Akt phosphorylation was determined by western blot. In vivo hemostasis and circulatory survival of PLTs were assessed with a rabbit bleeding model. RESULTS: All variables, except for GPIb expression, were slightly, but significantly, impaired after flash UVC irradiation throughout the 6-day storage period. No difference was observed in static adhesion to either collagen or fibrinogen between irradiated and nonirradiated PAS-PCs. In vitro thrombus formation of flash UVC-irradiated PAS-PCs was significantly greater than that of nonirradiated PAS-PCs. ADP-induced Akt phosphorylation was enhanced in irradiated PAS-PCs. In vivo hemostatic efficacy was comparable between the groups on Day 1. The efficacy declined in nonirradiated PAS-PCs on Day 5, while it was retained in flash UVC-irradiated PAS-PCs. Circulatory survival of PLTs was lower in irradiated PAS-PCs. CONCLUSIONS: PAS-PCs irradiated with UVC from xenon flash have favorable properties to achieve hemostasis compared with nonirradiated PAS-PCs.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33107611/) · [DOI](https://doi.org/10.1111/trf.16138)
-
-
----
-
 ### Ultra-high-dose-rate FLASH and Conventional-Dose-Rate Irradiation Differentially Affect Human Acute Lymphoblastic Leukemia and Normal Hematopoiesis.
 
 *Chabi S, To THV, Leavitt R, Poglio S, Jorge PG, Jaccard M et al.* — International journal of radiation oncology, biology, physics (2021)  
@@ -7051,25 +6854,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Targeting the Epigenetic Non-Coding RNA MALAT1/Wnt Signaling Axis as a Therapeutic Approach to Suppress Stemness and Metastasis in Hepatocellular Carcinoma.
-
-*Chang HL, Bamodu OA, Ong JR, Lee WH, Yeh CT, Tsai JT* — Cells (2020)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** With recorded under-performance of current standard therapeutic strategies as highlighted by high rates of post-treatment (resection or local ablation) recurrence, resistance to chemotherapy, poor overall survival, and an increasing global incidence, hepatocellular carcinoma (HCC) constitutes a medical challenge. Accumulating evidence implicates the presence of HCC stem cells (HCC-SCs) in HCC deve…
-
-
-??? note "Abstract"
-    BACKGROUND: With recorded under-performance of current standard therapeutic strategies as highlighted by high rates of post-treatment (resection or local ablation) recurrence, resistance to chemotherapy, poor overall survival, and an increasing global incidence, hepatocellular carcinoma (HCC) constitutes a medical challenge. Accumulating evidence implicates the presence of HCC stem cells (HCC-SCs) in HCC development, drug-resistance, recurrence, and progression. Therefore, treatment strategies targeting both HCC-SCs and non-CSCs are essential. METHODS: Recently, there has been an increasing suggestion of MALAT1 oncogenic activity in HCC; however, its role in HCC stemness remains unexplored. Herein, we investigated the probable role of MALAT1 in the SCs-like phenotype of HCC and explored likely molecular mechanisms by which MALAT1 modulates HCC-SCs-like and metastatic phenotypes. RESULTS: We showed that relative to normal, cirrhotic, or dysplastic liver conditions, MALAT1 was aberrantly expressed in HCC, similar to its overexpression in Huh7, Mahlavu, and SK-Hep1 HCC cells lines, compared to the normal liver cell line THLE-2. We also demonstrated a positive correlation between MALAT1 expression and poor cell differentiation status in HCC using RNAscope. Interestingly, we demonstrated that shRNA-mediated silencing of MALAT1 concomitantly downregulated the expression levels of β-catenin, Stat3, c-Myc, CK19, vimentin, and Twist1 proteins, inhibited HCC oncogenicity, and significantly suppressed the HCC-SCs-related dye-effluxing potential of HCC cells and reduced their ALDH-1 activity, partially due to inhibited MALAT1-β-catenin interaction. Additionally, using TOP/FOP (TCL/LEF-Firefly luciferase) Flash, RT-PCR, and western blot assays, we showed that silencing MALAT1 downregulates β-catenin expression, dysregulates the canonical Wnt signaling pathway, and consequently attenuates HCC tumorsphere formation efficiency, with concurrent reduction in CD133+ and CD90+ HCC cell population, and inhibits tumor growth in SK-Hep1-bearing mice. Conclusions: Taken together, our data indicate that MALAT1/Wnt is a targetable molecular candidate, and the therapeutic targeting of MALAT1/Wnt may constitute a novel promising anticancer strategy for HCC treatment.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32326045/) · [DOI](https://doi.org/10.1016/j.trsl.2014.07.009) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6417088/)
-
-
----
-
 ### Minimum dose rate estimation for pulsed FLASH radiotherapy: A dimensional analysis.
 
 *Zhou S, Zheng D, Fan Q, Yan Y, Wang S, Lei Y et al.* — Medical physics (2020)  
@@ -7097,25 +6881,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32222332/) · [DOI](https://doi.org/10.1016/S0891-5849(01)00469-5) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7254962/)
-
-
----
-
-### Flow path system of ultraviolet C irradiation from xenon flash to reduce bacteria survival in platelet products containing a platelet additive solution.
-
-*Abe H, Endo K, Shiba M, Niibe Y, Miyata S, Satake M* — Transfusion (2020)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Our previous study showed that ultraviolet C (UVC) from xenon (Xe) flash without any photoreactive compounds inactivated bacteria in platelet concentrates (PCs) with less damage to platelets (PLTs) as compared with Xe flash containing ultraviolet A, ultraviolet B, and visible light. Here, we report a UVC irradiation system for PCs under flow conditions consisting of a flow path-irradiation sheet, …
-
-
-??? note "Abstract"
-    BACKGROUND: Our previous study showed that ultraviolet C (UVC) from xenon (Xe) flash without any photoreactive compounds inactivated bacteria in platelet concentrates (PCs) with less damage to platelets (PLTs) as compared with Xe flash containing ultraviolet A, ultraviolet B, and visible light. Here, we report a UVC irradiation system for PCs under flow conditions consisting of a flow path-irradiation sheet, a peristaltic pump, and a collection bag. STUDY DESIGN AND METHODS: Platelet concentrates containing Ringer&#x27;s solution (R-PCs) inoculated with bacteria were injected into a flow path sheet using a peristaltic pump, being irradiated with UVC from Xe flash. The quality of the irradiated PCs containing platelet additive solution (PAS-PCs) was assessed based on PC variables, PLT surface markers, and aggregation ability. RESULTS: Streptococcus dysgalactiae (12 tests) and Escherichia coli (11) were all negative on bacterial culture, while Staphylococcus aureus (12) and Klebsiella pneumoniae (14) grew in one and two R-PCs, respectively. Bacillus cereus spores were inactivated in 7 of 12 R-PCs. PC variables became significantly different between irradiated and nonirradiated PAS-PCs. P-selectin, first procaspase-activating compound (PAC-1) binding, and phosphatidylserine increased by irradiation. Aggregability stimulated by adenosine diphosphate, collagen, or thromboxane A2 increased in the irradiated PAS-PCs, while that by thrombin became smaller compared with nonirradiated controls. CONCLUSION: This newly developed system inactivated bacteria including spores in R-PCs. PAS-PCs irradiated by this system retained acceptable in vitro quality and aggregability. Usage of a peristaltic pump instead of agitator during irradiation may enable this system to be directly combined with an apheresis blood cell separator.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32187695/) · [DOI](https://doi.org/10.1111/trf.15757)
 
 
 ---
@@ -7261,25 +7026,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/31427044/) · [DOI](https://doi.org/10.1016/S0891-5849(01)00469-5) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7254962/)
-
-
----
-
-### miR-504 suppresses mesenchymal phenotype of glioblastoma by directly targeting the FZD7-mediated Wnt-β-catenin pathway.
-
-*Liu Q, Guan Y, Li Z, Wang Y, Liu Y, Cui R et al.* — Journal of experimental &amp; clinical cancer research : CR (2019)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** MicroRNAs (miRNAs) play crucial roles in tumor initiation and development. Previously, we indicated that miR-504 is downregulated and suppresses tumor proliferation in glioblastoma (GBM).
-
-
-??? note "Abstract"
-    BACKGROUND: MicroRNAs (miRNAs) play crucial roles in tumor initiation and development. Previously, we indicated that miR-504 is downregulated and suppresses tumor proliferation in glioblastoma (GBM). However, the regulation and relevant mechanism of miR-504 in GBM mesenchymal (ME) transition remain unclear. METHODS: Transcriptome and clinical data were obtained from The Cancer Genome Atlas (TCGA) database. The potential functions of miR-504 were predicted using gene ontology analysis. GBM cell migration and invasion were examined using wound healing and Transwell assays. Epithelial-mesenchymal transition (EMT) progression in GBM cell lines was detected with immunofluorescence and western blotting. The stemness activity of glioma stem-like cells (GSCs) was assessed by sphere formation assay and tumor xenograft model. miR-504 binding to the FZD7 (frizzled class receptor 7) 3&#x27; untranslated region (3&#x27;UTR) was validated using dual luciferase reporter assay. TOP/FOP Flash assays were conducted to determine the effects of miR-504 on Wnt/β-catenin signaling. RESULTS: Analysis of TCGA transcriptomic data showed that low miR-504 expression correlated with ME subtype transition and poor survival in patients with GBM. Functional experiments showed that miR-504 overexpression suppressed malignant behaviors of GBM cells, such as migration, invasion, EMT, and stemness activity. Furthermore, miR-504 was a negative regulator of the Wnt-β-catenin pathway by directly repressing FZD7 expression, and FZD7 overexpression reversed the EMT inhibition caused by miR-504. Moreover, the low miR-504/FZD7 expression ratio was a ME subtype marker and could serve as a significant prognostic indicator and predict the clinical outcome of chemotherapy and radiotherapy for patients with GBM in TCGA dataset. CONCLUSIONS: Our results suggest that miR-504 suppresses the aggressive biological processes associated with the ME phenotype of GBM and could be a potential candidate for therapeutic applications in these malignant brain tumors.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31419987/) · [DOI](https://doi.org/10.1038/srep31852) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4994011/)
 
 
 ---
@@ -7467,25 +7213,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### RHBDD1 promotes colorectal cancer metastasis through the Wnt signaling pathway and its downstream target ZEB1.
-
-*Zhang M, Miao F, Huang R, Liu W, Zhao Y, Jiao T et al.* — Journal of experimental &amp; clinical cancer research : CR (2018)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** 40-50% of colorectal cancer (CRC) patients develop metastatic disease; the presence of metastasis hinders the effective treatment of cancer through surgery, chemotherapy and radiotherapy, which makes 5-year survival rate extremely low; therefore, studying CRC metastasis is crucial for disease therapy. In the present study, we investigated the role of rhomboid domain containing 1 (RHBDD1) in tumor …
-
-
-??? note "Abstract"
-    BACKGROUND: 40-50% of colorectal cancer (CRC) patients develop metastatic disease; the presence of metastasis hinders the effective treatment of cancer through surgery, chemotherapy and radiotherapy, which makes 5-year survival rate extremely low; therefore, studying CRC metastasis is crucial for disease therapy. In the present study, we investigated the role of rhomboid domain containing 1 (RHBDD1) in tumor metastasis of CRC. METHODS: The expression of RHBDD1 was analyzed in 539 colorectal tumor tissues for its correlation with lymphatic metastasis and distal metastasis. Transwell assay in vitro and pleural metastasis analysis in vivo were performed to determine the functions of RHBDD1 during CRC cells metastasis. RNA-seq analysis, TOP/FOP flash reporter assay, western blot and transwell assay were performed to investigate the underlying mechanism for the function of RHBDD1 on Wnt signaling pathway. Bioinformatics analysis was conducted to investigate epithelial-mesenchymal transition (EMT) and stemness in HCT-116 cells. Tissue microarray analysis, Q-PCR and western blot were performed to determine the correlation of RHBDD1 and Zinc Finger E-Box Binding Homeobox 1 (ZEB1). RESULTS: In this study, we found that RHBDD1 expression was positively correlated with lymphatic metastasis and distal metastasis in 539 colorectal tumor tissues. RHBDD1 expression can promote CRC cells metastasis in vitro and in vivo. RNA-Seq analysis showed that the Wnt signaling pathway played a key role in this metastatic regulation. RHBDD1 mainly regulated ser552 and ser675 phosphorylation of β-catenin to activate the Wnt signaling pathway. Rescuing ser552 and ser675 phosphorylation of β-catenin resulted in the recovery of signaling pathway activity, migration, and invasion in CRC cells. RHBDD1 promoted EMT and a stem-like phenotype of CRC cells. RHBDD1 regulated the Wnt/β-catenin target gene ZEB1, a potent EMT activator, at the RNA and protein levels. Clinically, RHBDD1 expression was positively correlated with ZEB1 at the protein level in 71 colon tumor tissues. CONCLUSIONS: Our findings therefore indicated that RHBDD1 can promote CRC metastasis through the Wnt signaling pathway and ZEB1. RHBDD1 may become a new therapeutic target or clinical biomarker for metastatic CRC.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/29426364/) · [DOI](https://doi.org/10.1016/j.cell.2009.07.011) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2731699/)
-
-
----
-
 ### Faster and safer? FLASH ultra-high dose rate in radiotherapy.
 
 *Durante M, Bräuer-Krisch E, Hill M* — The British journal of radiology (2018)  
@@ -7520,63 +7247,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28545957/) · [DOI](https://doi.org/10.1016/j.radonc.2017.05.003)
-
-
----
-
-### Parietin: an efficient photo-screening pigment in vivo with good photosensitizing and photodynamic antibacterial effects in vitro.
-
-*Comini LR, Morán Vieyra FE, Mignone RA, Páez PL, Laura Mugas M, Konigheim BS et al.* — Photochemical &amp; photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology (2017)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** The photophysical, photoinduced pro-oxidant and antibacterial properties in vitro of the natural occurring parietin (PTN; 1,8-dihydroxy-3-methoxy-6-methyl-9,10-anthraquinone) were evaluated. PTN was extracted from the lichen identified as Teloschistes flavicans (Sw.) Norm.
-
-
-??? note "Abstract"
-    The photophysical, photoinduced pro-oxidant and antibacterial properties in vitro of the natural occurring parietin (PTN; 1,8-dihydroxy-3-methoxy-6-methyl-9,10-anthraquinone) were evaluated. PTN was extracted from the lichen identified as Teloschistes flavicans (Sw.) Norm. (Telochistaceae). Results indicate that in chloroform solution, PTN presents spectroscopic features corresponding to an excited-state intramolecular proton-transfer (ESIPT) state with partial keto-enol tautomerization. In argon-saturated solutions, the singlet excited state is poorly fluorescent (ΦF = 0.03), decaying by efficient intersystem crossing to an excited triplet state 3PTN*, as detected by laser-flash photolysis experiments. In the presence of triplet molecular oxygen, the 3PTN* was fully quenched producing singlet molecular oxygen (1O2) with a quantum yield of 0.69. In addition, in buffer solutions, PTN has the ability to also generate a superoxide radical anion (O2˙-) in a human leukocyte model and its production was enhanced under UVA-Vis irradiation. Finally, the in vitro antibacterial capability of PTN in the dark and under UVA-Vis illumination was compared in microbial cultures of both Gram positive and negative bacteria. As a result, PTN showed promising photo-induced antibacterial activity through the efficient photosensitized generation of both 1O2 and O2˙- species. Thus, we have demonstrated that PTN, an efficient photo-screening pigment in lichens, is also a good photosensitizer in solution with promising applications in antibacterial photodynamic therapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27976779/) · [DOI](https://doi.org/10.1039/c6pp00334f)
-
-
----
-
-### Hiding and unveiling trans-chalcone in a constrained derivative of 4&#x27;,7-dihydroxyflavylium in water: a versatile photochromic system.
-
-*Pessêgo M, Gago S, Basílio N, Laia CA, Jorge Parola A, Lima JC et al.* — Organic &amp; biomolecular chemistry (2017)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** A structurally constrained derivative of 4&#x27;,7-dihydroxyflavylium was studied in aqueous solution and in CTAB micelles by pH jumps, flash photolysis and continuous irradiation with spectroscopic details assessed as well by theoretical calculations. In water, up to pH = 8, the compound shows only acid base chemistry with deprotonation of the flavylium cation to form a quinoidal base that further dep…
-
-
-??? note "Abstract"
-    A structurally constrained derivative of 4&#x27;,7-dihydroxyflavylium was studied in aqueous solution and in CTAB micelles by pH jumps, flash photolysis and continuous irradiation with spectroscopic details assessed as well by theoretical calculations. In water, up to pH = 8, the compound shows only acid base chemistry with deprotonation of the flavylium cation to form a quinoidal base that further deprotonates with pKas of 4.8 and 7.4. In the basic region, unprotonated trans-chalcones are formed. No neutral trans-chalcone (Ct) is formed in water preventing the establishment of the well-known photochromism involving photoisomerization of this species with subsequent formation of the flavylium cation. Addition of 0.02 M CTAB drastically changes the mole fraction distribution of species, leading to the formation of Ct (χCt = 1 at pH = 5) and unveiling a photochromic behavior with a pH-tunable colour contrast in a large pH range (2 &lt; pH &lt; 8). The Ct species can be hidden again (irreversibly) upon addition of α-cyclodextrin that disrupts the CTAB micelles, reverting the system to its initial mole fraction distribution of species. These supramolecular inputs work atop the molecular reaction networks by modifying their species&#x27; mole fraction distribution.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27778017/) · [DOI](https://doi.org/10.1039/c6ob01607c)
-
-
----
-
-### Photosensitivity to Triflusal: Formation of a Photoadduct with Ubiquitin Demonstrated by Photophysical and Proteomic Techniques.
-
-*Nuin E, Pérez-Sala D, Lhiaubet-Vallet V, Andreu I, Miranda MA* — Frontiers in pharmacology (2016)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Triflusal is a platelet aggregation inhibitor chemically related to acetylsalicylic acid, which is used for the prevention and/or treatment of vascular thromboembolisms, which acts as a prodrug. Actually, after oral administration it is absorbed primarily in the small intestine, binds to plasma proteins (99%) and is rapidly biotransformed in the liver into its deacetylated active metabolite 2-hydr…
-
-
-??? note "Abstract"
-    Triflusal is a platelet aggregation inhibitor chemically related to acetylsalicylic acid, which is used for the prevention and/or treatment of vascular thromboembolisms, which acts as a prodrug. Actually, after oral administration it is absorbed primarily in the small intestine, binds to plasma proteins (99%) and is rapidly biotransformed in the liver into its deacetylated active metabolite 2-hydroxy-4-trifluoromethylbenzoic acid (HTB). In healthy humans, the half-life of triflusal is ca. 0.5 h, whereas for HTB it is ca. 35 h. From a pharmacological point of view, it is interesting to note that HTB is itself highly active as a platelet anti-aggregant agent. Indeed, studies on the clinical profile of both drug and metabolite have shown no significant differences between them. It has been evidenced that HTB displays ability to induce photoallergy in humans. This phenomenon involves a cell-mediated immune response, which is initiated by covalent binding of a light-activated photosensitizer (or a species derived therefrom) to a protein. In this context, small proteins like ubiquitin could be appropriate models for investigating covalent binding by means of MS/MS and peptide fingerprint analysis. In previous work, it was shown that HTB forms covalent photoadducts with isolated lysine. Interestingly, ubiquitin contains seven lysine residues that could be modified by a similar reaction. With this background, the aim of the present work is to explore adduct formation between the triflusal metabolite and ubiquitin as model protein upon sunlight irradiation, combining proteomic and photophysical (fluorescence and laser flash photolysis) techniques. Photophysical and proteomic analysis demonstrates monoadduct formation as the major outcome of the reaction. Interestingly, addition can take place at any of the ε-amino groups of the lysine residues of the protein and involves replacement of the trifluoromethyl moiety with a new amide function. This process can in principle occur with other trifluoroaromatic compounds and may be responsible for the appearance of undesired photoallergic side effects.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27621705/) · [DOI](https://doi.org/10.3390/cells3030674) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4197637/)
 
 
 ---
@@ -7684,25 +7354,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25031268/) · [DOI](https://doi.org/10.1126/scitranslmed.3008973)
-
-
----
-
-### All-optical regulation of gene expression in targeted cells.
-
-*Wang Y, He H, Li S, Liu D, Lan B, Hu M et al.* — Scientific reports (2014)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Controllable gene expression is always a challenge and of great significance to biomedical research and clinical applications. Recently, various approaches based on extra-engineered light-sensitive proteins have been developed to provide optogenetic actuators for gene expression.
-
-
-??? note "Abstract"
-    Controllable gene expression is always a challenge and of great significance to biomedical research and clinical applications. Recently, various approaches based on extra-engineered light-sensitive proteins have been developed to provide optogenetic actuators for gene expression. Complicated biomedical techniques including exogenous genes engineering, transfection, and material delivery are needed. Here we present an all-optical method to regulate gene expression in targeted cells. Intrinsic or exogenous genes can be activated by a Ca(2+)-sensitive transcription factor nuclear factor of activated T cells (NFAT) driven by a short flash of femtosecond-laser irradiation. When applied to mesenchymal stem cells, expression of a differentiation regulator Osterix can be activated by this method to potentially induce differentiation of them. A laser-induced &quot;Ca(2+)-comb&quot; (LiCCo) by multi-time laser exposure is further developed to enhance gene expression efficiency. This noninvasive method hence provides an encouraging advance of gene expression regulation, with promising potential of applying in cell biology and stem-cell science.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24939233/) · [DOI](https://doi.org/10.1038/srep05346) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC169054/)
 
 
 ---
@@ -7916,25 +7567,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Implementation of a flash-photolysis system for time-resolved cryo-electron microscopy.
-
-*Shaikh TR, Barnard D, Meng X, Wagenknecht T* — Journal of structural biology (2009)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** We describe here the implementation of a flash-photolysis system for time-resolved cryo-electron microscopy. A previously designed computer-controlled cryo-plunging apparatus \[White, H.D., Thirumurugan, K., Walker, M.L., Trinick, J., 2003.
-
-
-??? note "Abstract"
-    We describe here the implementation of a flash-photolysis system for time-resolved cryo-electron microscopy. A previously designed computer-controlled cryo-plunging apparatus \[White, H.D., Thirumurugan, K., Walker, M.L., Trinick, J., 2003. A second generation apparatus for time-resolved electron cryo-microscopy using stepper motors and electrospray. J. Struct. Biol. 144, 246-252\] was used as a hardware platform, onto which a xenon flash lamp and liquid light pipe were mounted. The irradiation initiates a reaction through cleavage of the photolabile blocking group from a biologically active compound. The timespan between flashing and freezing in cryogen is on the order of milliseconds, and defines the fastest observable reaction. Blotting of excess fluid, which takes on the order of 1s, is done before irradiation and thus does not represent a rate-limiting step. A specimen-heating problem, identified by measurements with a thermocouple, was alleviated with the use of thick, aluminum-coated grids.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/19114106/) · [DOI](https://doi.org/10.1016/j.jsb.2008.11.007) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC413169/)
-
-
----
-
 ### Intraoperative radiation therapy in resected pancreatic carcinoma: long-term analysis.
 
 *Valentini V, Morganti AG, Macchia G, Mantini G, Mattiucci GC, Brizi MG et al.* — International journal of radiation oncology, biology, physics (2008)  
@@ -7969,25 +7601,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18054372/) · [DOI](https://doi.org/10.1016/j.visres.2007.10.010)
-
-
----
-
-### BINOL-amino acid conjugates as triggerable carriers of DNA-targeted potent photocytotoxic agents.
-
-*Doria F, Richter SN, Nadai M, Colloredo-Mels S, Mella M, Palumbo M et al.* — Journal of medicinal chemistry (2007)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Mild photoactivation of new BINOL-amino acid and -amino ester conjugates (BINOLAMs) yielded alkylating and DNA cross-linking agents with high photoefficiency and superior cytotoxicity. Detection of the transient electrophile, by laser flash photolysis (LFP), suggests that BINOL-quinone methides (QMs) are key intermediates in the process.
-
-
-??? note "Abstract"
-    Mild photoactivation of new BINOL-amino acid and -amino ester conjugates (BINOLAMs) yielded alkylating and DNA cross-linking agents with high photoefficiency and superior cytotoxicity. Detection of the transient electrophile, by laser flash photolysis (LFP), suggests that BINOL-quinone methides (QMs) are key intermediates in the process. QMs trapping by water, monitored in a time-dependent product distribution analysis, demonstrated that the phototriggered reactivity of BINOLAMs as bis-alkylating agents is the result of a two-step process involving sequential photogeneration of monoalkylating QMs. Light activation of the BINOL-L-amino esters produced cytotoxic QMs very effective against human tumor LoVo cells with EC50 in the 130-230 nM range. Trimethylpsoralen (PS) is about 4 times less potent than our newly tested compounds. BINOL-L-proline methyl ester showed notable photoselectivity because it displayed cytotoxic effects upon irradiation only and was able to efficiently reach the target DNA inside the cells, where it forms both alkylated and cross-linked species.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/18047263/) · [DOI](https://doi.org/10.1021/jm070828x)
 
 
 ---
@@ -8030,63 +7643,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Sensitized photoinactivation of minigramicidin channels in bilayer lipid membranes.
-
-*Dutseva EA, Antonenko YN, Kotova EA, Pfeifer JR, Koert U* — Biochimica et biophysica acta (2007)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The method of sensitized photoinactivation based on the photosensitized damage of gramicidin A (gA) molecules was applied here to study ionic channels formed by minigramicidin (the 11-residue analogue of gramicidin A) in a planar bilayer lipid membrane (BLM) of different thickness. Irradiation of BLM with a single flash of visible light in the presence of a photosensitizer (aluminum phthalocyanine…
-
-
-??? note "Abstract"
-    The method of sensitized photoinactivation based on the photosensitized damage of gramicidin A (gA) molecules was applied here to study ionic channels formed by minigramicidin (the 11-residue analogue of gramicidin A) in a planar bilayer lipid membrane (BLM) of different thickness. Irradiation of BLM with a single flash of visible light in the presence of a photosensitizer (aluminum phthalocyanine or Rose Bengal) generating singlet oxygen provoked a decrease in the minigramicidin-induced electric current across BLM, the kinetics of which had the characteristic time of several seconds, as observed with gA. For gA, there is good correlation between the characteristic time of photoinactivation and the single-channel lifetime. In contrast to the covalent dimer of gA characterized by extremely long single-channel lifetime and the absence of current relaxation upon flash excitation, the covalent head-to-head dimer of minigramicidin displayed the flash-induced current decrease with the kinetics being strongly dependent on the membrane thickness. The current decrease became slower both upon increasing the concentration of the minigramicidin covalent dimer and upon including cholesterol in the membrane composition. These data in combination with the quadratic dependence of the current on the peptide concentration can be rationalized by hypothesizing that the macroscopic current across BLM measured at high concentrations of the peptide is provided by dimers of minigramicidin covalent dimers in the double beta(5.7)-helical conformation having the lifetime of about 0.4 s, while single channels with the lifetime of 0.01 s, observed at a very low peptide concentration, correspond to the single-stranded beta(6.3)-helical conformation. Alternatively the results can be explained by clustering of channels at high concentrations of the minigramicidin covalent dimer.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17306219/) · [DOI](https://doi.org/10.1016/j.bbamem.2007.01.006)
-
-
----
-
-### Optical clearing of skin using flash lamp-induced enhancement of epidermal permeability.
-
-*Tuchin VV, Altshuler GB, Gavrilova AA, Pravdin AB, Tabatadze D, Childs J et al.* — Lasers in surgery and medicine (2006)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Strong light scattering in skin prevents precise targeting of optical energy in therapeutic and diagnostic applications. Optical immersion based on matching refractive index of scattering centers with that of surrounding matter through introduction of an exogenous index-matching agent can alleviate the problem.
-
-
-??? note "Abstract"
-    BACKGROUND AND OBJECTIVES: Strong light scattering in skin prevents precise targeting of optical energy in therapeutic and diagnostic applications. Optical immersion based on matching refractive index of scattering centers with that of surrounding matter through introduction of an exogenous index-matching agent can alleviate the problem. However, slow diffusion of the index-matching agent through skin barrier makes practical implementation of this approach difficult. We propose a method of accelerating penetration of the index-matching compounds by enhancing skin permeability through creating a lattice of micro-zones (islets) of limited thermal damage in the stratum corneum (SC). STUDY DESIGN/MATERIALS AND METHODS: A flash lamp (intense pulsed light) system and an island mask with a pattern of absorbing centers (center size approximately 75-120 microm, lattice pitch approximately 450-500 microm) were used to create the lattice of islets of damage (LID). Index-matching agents, such as glucose solution, propylene glycol solution, and glycerol solution, were applied. RESULTS: Experimental results of optical clearing ex vivo rat and pig skin, and ex vivo and in vivo human skin are presented. Optical transmission spectra of the skin samples with LID were measured during some 2 hours after application of index-matching chemical agents. In order to assess and compare the clearing rate under different treatment and clearing agents we calculated the quantity that we call &quot;relative transmittance&quot;: T(rel) = I(t)(lambda)/I(0)(lambda), were I(t)(lambda) is the intensity measured at elapsed time t. The dynamics of relative transmittance of skin samples at 470 and 650 nm shows that the implementation of limited thermal damage technique leads to a 3-10-fold increase of optical clearing (rise of transmittance) rate compared to the results obtained when the samples were treated with high-intensity light pulses but without the use of island damage mask (IDM). It was observed from the plotted spectra of relative transmittance that the maximum increase of transmitted light intensity has been obtained with glucose solution as a clearing agent. Noteworthy is the difference in the trend of spectral curves: relative transmittance spectrum for glycerol reveals, on the whole, a greater slope which may be indicative of higher extent of index matching between the scattering centers and base material for this index-matching agent. Under the transillumination of the skin sample by the wide flat beam the more effective clearing (the increase of transmitted intensity) is attained within the hemoglobin absorption bands; with the narrow quasi-collimated beam the higher relative transmittance was observed over the intervals of minimum absorption. CONCLUSIONS: The use of specially designed island mask combined with non-laser intensive pulse irradiation produces a lattice of islands of limited thermal damage in SC that substantially enhances the penetration rate of topically applied index-matching agents. The suggested technique gave comparable magnitudes of clearing dynamics enhancement for glucose solution, glycerol solution, and propylene glycol solution applied to mammalian skin.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17044094/) · [DOI](https://doi.org/10.1002/lsm.20392)
-
-
----
-
-### Relationship between the organization of the PS II super complex and the functions of the photosynthetic apparatus.
-
-*Apostolova EL, Dobrikova AG, Ivanova PI, Petkanchin IB, Taneva SG* — Journal of photochemistry and photobiology. B, Biology (2006)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The chlorophyll fluorescence and the photosynthetic oxygen evolution (flash-induced oxygen yield patterns and oxygen bursts under continuous irradiation) were investigated in the thylakoid membranes with different stoichiometry and organization of the chlorophyll-protein complexes. Data show that the alteration in the organization of the photosystem II (PS II) super complex, i.e.
-
-
-??? note "Abstract"
-    The chlorophyll fluorescence and the photosynthetic oxygen evolution (flash-induced oxygen yield patterns and oxygen bursts under continuous irradiation) were investigated in the thylakoid membranes with different stoichiometry and organization of the chlorophyll-protein complexes. Data show that the alteration in the organization of the photosystem II (PS II) super complex, i.e. the amount and the organization of the light-harvesting chlorophyll a/b protein complex (LHCII), which strongly modifies the electric properties of the membranes, influences both the energy redistribution between the two photosystems and the oxygen production reaction. The decrease of surface electric parameters (charge density and dipole moments), associated with increased degree of LHCII oligomerization, correlates with the strong reduction of the energy transfer from PS II to PSI. In the studied pea thylakoid membranes (wild types Borec, Auralia and their mutants Coeruleovireus 2/16, Costata2/133, Chlorotica XV/1422) with enhanced degree of oligomerization of LHCII was observed: (i) an increase of the S(0) populations of PS II in darkness; (ii) an increase of the misses; (iii) an alteration of the decay kinetics of the oxygen bursts under continuous irradiation. There is a strict correlation between the degree of LHCII oligomerization in the investigated pea mutants and the ratio of functionally active PS II alpha to PS II beta centers, while in thylakoid membranes without oligomeric structure of LHCII (Chlorina f2 barley mutant) the PS II alpha centers are not registered.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/16464603/) · [DOI](https://doi.org/10.1016/j.jphotobiol.2005.12.012)
-
-
----
-
 ### A dynamic fMRI study of illusory double-flash effect on human visual cortex.
 
 *Zhang N, Chen W* — Experimental brain research (2006)  
@@ -8106,21 +7662,21 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Hypoxia-selective activation of 5-fluorodeoxyuridine prodrug possessing indolequinone structure: radiolytic reduction and cytotoxicity characteristics.
+### \[Cytogenetic effect of the pulse reactor BARS-6 continuous or one-time irradiation with ultrahigh dose rate on human lymphocytes\].
 
-*Tanabe K, Makimura Y, Tachi Y, Imagawa-Sato A, Nishimoto S* — Bioorganic &amp; medicinal chemistry letters (2005)  
+*Koriakina EV, Sevan&#x27;kaev AV, Potetnia VI, Potetnia OI* — Radiatsionnaia biologiia, radioecologiia (2005)  
 
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+<span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** We synthesized a 5-fluorodeoxyuridine (5-FdUrd) derivative possessing an indolequinone structure (IQ-FdUrd) to characterize the radiolytic reduction in aqueous solution and the radiation-activated cytotoxicity against EMT6/KU cells under hypoxic conditions. IQ-FdUrd released antitumor agent 5-FdUrd upon hypoxic, but not aerobic, irradiation with the G value of 0.38 x 10(-7) mol J(-1).
+**TL;DR.** The results of the comparative study of radiation effects of the pulse reactor BARS-6 either in single pulse or continuos irradiation mode on human G0 lymphocytes are presented. Under identical doses the cytogenetic efficiency was observed to be higher for continuous irradiation (1 hour) than for single pulse irradiation with ultrahigh dose rate (0.5-3) x 106 Gy/minutes (pulse duration 65 x 10(-6)…
 
 
 ??? note "Abstract"
-    We synthesized a 5-fluorodeoxyuridine (5-FdUrd) derivative possessing an indolequinone structure (IQ-FdUrd) to characterize the radiolytic reduction in aqueous solution and the radiation-activated cytotoxicity against EMT6/KU cells under hypoxic conditions. IQ-FdUrd released antitumor agent 5-FdUrd upon hypoxic, but not aerobic, irradiation with the G value of 0.38 x 10(-7) mol J(-1). Laser flash photolysis of IQ-FdUrd in Ar-purged aqueous solution with dimethylaniline as an electron donor gave rise to a transient absorption spectrum characteristic of semiquinone radical anion, which decayed via second order kinetics. It is most likely that bimolecular disproportionation of intermediate semiquinone radicals occurs to release 5-FdUrd. IQ-FdUrd showed enhanced cytotoxicity against EMT6/KU cells in a radiation dose-dependent manner upon hypoxic irradiation. IQ-FdUrd is potentially a prototype compound for new class of radiation-activated antitumor prodrugs that are useful for radiation treatment of hypoxic tumors.
+    The results of the comparative study of radiation effects of the pulse reactor BARS-6 either in single pulse or continuos irradiation mode on human G0 lymphocytes are presented. Under identical doses the cytogenetic efficiency was observed to be higher for continuous irradiation (1 hour) than for single pulse irradiation with ultrahigh dose rate (0.5-3) x 106 Gy/minutes (pulse duration 65 x 10(-6) s). The difference averaged about 37% on total aberration frequency and 27% on the sum of dicentrics and centric rings. The influence of the dose rate and of the mixed gamma-neutron irradiation on the obtained results is discussed.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/15837317/) · [DOI](https://doi.org/10.1016/j.bmcl.2005.03.013)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/16209185/)
 
 
 ---
@@ -8163,25 +7719,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Hypoxia in the androgen-dependent Shionogi model for prostate cancer at three stages.
-
-*Skov K, Adomat H, Bowden M, Dragowska W, Gleave M, Koch CJ et al.* — Radiation research (2004)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The objective of this study was to investigate a possible relationship between androgen status and hypoxia in the Shionogi murine prostate tumor model, which is widely used to study the effects of androgen withdrawal on hormone resistance and radiation response. Binding of the nitroimidazole hypoxia marker EF5 was assessed using the Cy3-tagged monoclonal antibody ELK3-51.
-
-
-??? note "Abstract"
-    The objective of this study was to investigate a possible relationship between androgen status and hypoxia in the Shionogi murine prostate tumor model, which is widely used to study the effects of androgen withdrawal on hormone resistance and radiation response. Binding of the nitroimidazole hypoxia marker EF5 was assessed using the Cy3-tagged monoclonal antibody ELK3-51. Three hours after injection of EF5 (30 mg/kg), tumors from the following three stages were excised: androgen-dependent, regressed tumors 7 days after castration, and androgen-independent. Half of each tumor was disaggregated for analysis by flow cytometry and the remainder was flash frozen. Statistically significant differences (P &lt; 0.01) were found between androgen-dependent, regressed and androgen-dependent tumors: approximately 30, approximately 2 and approximately 50% hypoxic cells, respectively. Frozen sections from androgen-dependent tumors exhibited highly variable EF5 binding; regressed tumors showed very little or no binding; each section from androgen-dependent tumors showed high levels and uniformly distributed binding of EF5. There was no correlation between the degree of hypoxia and tumor weight (P &gt; 0.1). The results from this preliminary study indicate that hypoxia may play an important role with respect to the timing of irradiation in prostate cancer treatments and possibly may be a useful prognostic tool. In addition, hypoxia may also be relevant to progression in this disease after androgen ablation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/15624309/) · [DOI](https://doi.org/10.1667/rr3254)
-
-
----
-
 ### On various possibilities in pulsed radiation biochemistry and chemistry.
 
 *Gribkov VA, Orlova MA* — Radiation and environmental biophysics (2004)  
@@ -8197,44 +7734,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/15549348/) · [DOI](https://doi.org/10.1007/s00411-004-0259-2)
-
-
----
-
-### Focused microwave irradiation of the brain preserves in vivo protein phosphorylation: comparison with other methods of sacrifice and analysis of multiple phosphoproteins.
-
-*O&#x27;Callaghan JP, Sriram K* — Journal of neuroscience methods (2004)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** At any point in time, net protein phosphorylation represents the contribution of protein kinase and protein phosphatase activities affecting a specific site on a given substrate. Preservation of phosphorylated proteins in neural tissues has traditionally included flash-freezing or fresh tissue processing following tissue isolation.
-
-
-??? note "Abstract"
-    At any point in time, net protein phosphorylation represents the contribution of protein kinase and protein phosphatase activities affecting a specific site on a given substrate. Preservation of phosphorylated proteins in neural tissues has traditionally included flash-freezing or fresh tissue processing following tissue isolation. Rapid heat inactivation of protein kinases and phosphatases by focused microwave irradiation sacrifice represents another method to preserve, in vivo, brain protein phosphorylation state. In this study, we compared preservation of the phosphorylation state of a variety of phosphoproteins in the brain following sacrifice of mice by decapitation, decapitation into liquid nitrogen and focused microwave irradiation. We found that microwave irradiation generally provided the highest and most consistent levels of protein phosphorylation, regardless of the substrates examined in striatum and hippocampus. In general, flash-freezing resulted in the least preservation of phospho-state with ERK1/2 and CREB showing almost complete dephosphorylation. When regions of freshly decapitated brains were homogenized and incubated on ice for 30 min, ERK1/2 phosphorylation was completely lost, whereas it was well preserved in microwaved samples left at room temperature for 2 h. Loss of ERK1/2 phosphorylation in the fresh samples could not be attributed to substrate proteolysis. Our results indicate that focused microwave irradiation sacrifice may be required to achieve biologically relevant data for the in vivo protein phosphorylation state of many phosphoproteins.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/15020100/) · [DOI](https://doi.org/10.1016/j.jneumeth.2003.12.006)
-
-
----
-
-### Neo adjuvant Tamoxifen in post menopausal patients with operable breast cancer.
-
-*Salmon RJ, Remvikos Y, Campana F, Languille O, Magdalenat H, Asselain B et al.* — European journal of surgical oncology : the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology (2003)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Tamoxifen is widely used as adjuvant therapy in receptor positive post menopausal breast cancer. Little is known about its efficacy as neo adjuvant therapy in terms of breast conservation and improved survival.
-
-
-??? note "Abstract"
-    AIMS: Tamoxifen is widely used as adjuvant therapy in receptor positive post menopausal breast cancer. Little is known about its efficacy as neo adjuvant therapy in terms of breast conservation and improved survival. METHODS: We analyzed the tumour response to 20-30 mg Tamoxifen for 6 months in post menopausal patients with oestrogen receptor positive tumours. Treatment included Tamoxifen for 6 months, surgical resection, and irradiation for post menopausal patients refusing initial mastectomy; aged &gt; or =70 years; or with other factors delaying surgery. RESULTS: Between April 1994 and June 1998, 102 patients, age 73+/-87 (54-90) were studied. There were 24 T1, 56 T2, 14 T3, and 8 T4 tumours. Clinical response to Tamoxifen was observed in all patients, with a median size reduction from 31+/-15 (9-70) to 16+/-9 mm (0-50), 15 clinical and 6 complete responses. 88/102 patients were treated conservatively. Radiotherapy was given to 80 and a flash technique to 8 patients. All patients but one are still alive. CONCLUSION: Neo adjuvant Tamoxifen in operable post menopausal ER positive breast cancer is associated with a good clinical response rate and facilitates conservative surgery. Tamoxifen has a valuable role as neo-adjuvant treatment in terms of breast conservation and survival.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/14624772/) · [DOI](https://doi.org/10.1016/s0748-7983(03)00095-7)
 
 
 ---
@@ -8258,25 +7757,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### In vitro studies on the photobiological properties of aloe emodin and aloin A.
-
-*Wamer WG, Vath P, Falvey DE* — Free radical biology &amp; medicine (2003)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Plants containing aloin A, aloe emodin, and structurally related anthraquinones have long been used as traditional medicines and in the formulation of retail products such as laxatives, dietary supplements, and cosmetics. Since a recent study indicated that topically applied aloe emodin increases the sensitivity of skin to UV light, we examined the events following photoexcitation of aloin A and a…
-
-
-??? note "Abstract"
-    Plants containing aloin A, aloe emodin, and structurally related anthraquinones have long been used as traditional medicines and in the formulation of retail products such as laxatives, dietary supplements, and cosmetics. Since a recent study indicated that topically applied aloe emodin increases the sensitivity of skin to UV light, we examined the events following photoexcitation of aloin A and aloe emodin. We determined that incubation of human skin fibroblasts with 20 microM aloe emodin for 18 h followed by irradiation with UV or visible light resulted in significant photocytotoxicity. This photocytotoxicity was accompanied by oxidative damage in both cellular DNA and RNA. In contrast, no photocytotoxicity was observed following incubation with up to 500 microM aloin A and irradiation with UVA light. In an attempt to explain the different photobiological properties of aloin A and aloe emodin, laser flash photolysis experiments were performed. We determined that the triplet state of aloe emodin was readily formed following photoexcitation. However, no transient intermediates were formed following photoexcitation of aloin A. Therefore, generation of reactive oxygen species and oxidative damage after irradiation of aloin A is unlikely. Although aloin A was not directly photocytotoxic, we found that human skin fibroblasts can metabolize aloin A to aloe emodin.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/12521605/) · [DOI](https://doi.org/10.1016/s0891-5849(02)01242-x)
-
-
----
-
 ### \[Magnetic resonance imaging in the diagnosis of breast diseases\].
 
 *Boné BK, Szabó B, Palkó A, Aspelin P* — Orvosi hetilap (2001)  
@@ -8292,25 +7772,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11723831/)
-
-
----
-
-### Elevated tumor lactate concentrations predict for an increased risk of metastases in head-and-neck cancer.
-
-*Brizel DM, Schroeder T, Scher RL, Walenta S, Clough RW, Dewhirst MW et al.* — International journal of radiation oncology, biology, physics (2001)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Hypoxia shifts the balance of cellular energy production toward glycolysis with lactate generation as a by-product. Quantitative bioluminescence imaging allows for the quantitation of lactate concentrations in individual tumors.
-
-
-??? note "Abstract"
-    PURPOSE: Hypoxia shifts the balance of cellular energy production toward glycolysis with lactate generation as a by-product. Quantitative bioluminescence imaging allows for the quantitation of lactate concentrations in individual tumors. We assessed the relationship between pretreatment tumor lactate concentrations and subsequent development of metastatic disease in patients with newly diagnosed head-and-neck cancer. METHODS AND MATERIALS: At the time of biopsy of the primary site, a separate specimen was taken and flash-frozen for subsequent quantitation of lactate concentration using a luciferase bioluminescence technique. The two-dimensional spatial distribution of the bioluminescence intensity within the tissue section was registered directly using a microscope and an imaging photon counting system. Photon intensity was converted to distributions of volume-related tissue concentrations (micromol per gram wet weight). Treatment consisted of either surgery and postoperative radiotherapy or primary radiotherapy, based on presenting disease stage and institutional treatment policies. The subsequent development of metastatic disease constituted the primary clinical endpoint. RESULTS: Biopsies obtained from 40 patients were evaluable in 34. The larynx was the most frequent primary site (n = 25). Other sites included oropharynx (n = 5), hypopharynx (n = 3), and oral cavity (n = 1). Most patients (74%) presented with an advanced stage T3 or T4 primary tumor. Nodal involvement was present in 19 (54%) patients. The median tumor lactate concentration was 7.1 micromol/g. Tumors were classified as having either low or high lactate concentrations according to whether these values were below or above the median. The median follow-up time for surviving patients is 27 months. Two-year actuarial survival was 90% for patients with low-lactate-concentration tumor vs. 35% for patients with high-lactate-concentration primaries (&lt;0.0001). Two-year metastasis-free survival was adversely influenced by high tumor lactate concentrations (90% vs. 25%, p &lt; 0.0001). The median lactate concentration for tumors that subsequently metastasized was 12.9 micromol/g vs. 4.8 micromol/g for patients who remained continuously free of disease (p &lt; 0.005). Lactate concentration was not correlated with presenting T stage or N stage. DISCUSSION: Elevated tumor lactate concentrations are associated with the subsequent development of nodal or distant metastases in head-and-neck cancer patients. This more aggressive malignant phenotype is probably associated with hypoxia-mediated radioresistance and the upregulation of metastasis-associated genes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11567808/) · [DOI](https://doi.org/10.1016/s0360-3016(01)01630-3)
 
 
 ---
@@ -8334,59 +7795,21 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Origin of retinal pigment epithelium cell damage by pulsed laser irradiance in the nanosecond to microsecond time regimen.
+### \[Comparative study of chromosome aberration formation in lymphocytes culture under pulsed and continuous neutron irradiation\].
 
-*Brinkmann R, Hüttmann G, Rögener J, Roider J, Birngruber R, Lin CP* — Lasers in surgery and medicine (2000)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Selective photodamage of the retinal pigment epithelium (RPE) is a new technique to treat a variety of retinal diseases without causing adverse effects to surrounding tissues such as the neural retina including the photoreceptors and the choroid. In this study, the mechanism of cell damage after laser irradiation was investigated.
-
-
-??? note "Abstract"
-    BACKGROUND AND OBJECTIVE: Selective photodamage of the retinal pigment epithelium (RPE) is a new technique to treat a variety of retinal diseases without causing adverse effects to surrounding tissues such as the neural retina including the photoreceptors and the choroid. In this study, the mechanism of cell damage after laser irradiation was investigated. STUDY DESIGN/MATERIALS AND METHODS: Single porcine RPE-melanosomes and RPE cells were irradiated with a Nd:YLF laser (wavelength lambda = 527 nm, adjustable pulse duration tau = 250 nsec-3 microsec) and a Nd:YAG laser (lambda = 532 nm, tau = 8 nsec). Fast flash photography was applied to observe vaporization at melanosomes in suspension. A fluorescence viability assay was used to probe the cells vitality. RESULTS: The threshold radiant exposures for vaporization around individual melanosomes and for ED50 cell damage are similar at 8-nsec pulse duration. Both thresholds increase with pulse duration; however, the ED50 cell damage radiant exposure is 40% lower at 3 microsec. Temperature calculations to model the onset of vaporization around the melanosomes are in good agreement with the experimental results when assuming a surface temperature of 150 degrees C to initiate vaporization and a homogeneous melanosome absorption coefficient of 8,000 cm(-1). Increasing the number of pulses delivered to RPE cells at a repetition rate of 500 Hz, the ED50 value decreases for all pulse durations. However, the behavior does not obey scaling laws such as the N 1/4 equation. CONCLUSION: The origin of RPE cell damage for single pulse irradiation up to pulse durations of 3 microsec can be described by a damage mechanism in which microbubbles around the melanosomes cause a rupture of the cell structure. The threshold radiant exposure for RPE damage decreases with increasing number of pulses applied.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11126439/) · [DOI](https://doi.org/10.1002/1096-9101(2000)27:5<451::AID-LSM1006>3.0.CO;2-1)
-
-
----
-
-### Acute and chronic effects of transmyocardial laser revascularization in the nonischemic pig myocardium by using three laser systems.
-
-*Genyk IA, Frenz M, Ott B, Walpoth BH, Schaffner T, Carrel TP* — Lasers in surgery and medicine (2000)  
+*Pozdyshkina OV, Sevan&#x27;kaev AV, Obaturov GM* — Radiatsionnaia biologiia, radioecologiia (2000)  
 
 <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** Transmyocardial laser revascularization (TMLR) improves symptoms in patients with coronary heart disease. It is based on the hypothesis of direct perfusion of ischemic myocardium by means of laser-created channels.
+**TL;DR.** Frequencies of chromosome aberration induced by prolong (continuous) neutron radiation (dose-rate 0.17 Gy/min) and pulsed neutron radiation with ultra-high dose-rate (1-4) x 10(5) Gy/s have been studied in human blood lymphocytes at G0-stage. It was demonstrated that cytogenetic efficiency of pulsed neutrons (after the substraction of approximately 50% gamma-component from the total dose) was 2 ti…
 
 
 ??? note "Abstract"
-    BACKGROUND AND OBJECTIVE: Transmyocardial laser revascularization (TMLR) improves symptoms in patients with coronary heart disease. It is based on the hypothesis of direct perfusion of ischemic myocardium by means of laser-created channels. Three different lasers were used to study alternative effects on myocardium. STUDY DESIGN/MATERIALS AND METHODS: The present study was conducted to evaluate comprehensively and compare the short and long-term tissue effects and the basic interaction mechanisms of CO2, Ho:YAG, and Er:YAG laser radiation with myocardium. The dynamics of laser-induced impacts in gel used as tissue phantom was visualized by time-resolved flash photography. Pressure measurements performed during perforation of myocardium in vitro revealed the explosive character of the ablation process. Channels made into the left ventricle of normal pig hearts were examined immediately and 6 weeks after creation. RESULTS: Regardless of laser source, all channels became occluded within 6 weeks by scar. Minimal acute thermal damage by Er:YAG laser corresponded to smaller scars. Pulsed Ho:YAG caused stronger tissue tearing than continuous wave CO2 irradiation. An increased volume density of intramyocardial vessels was found about the scars 6 weeks after treatment with all lasers. CONCLUSION: The laser sources permitted to study outcome of pressure effects and thermal damage in vivo. There were only minor differences between the three laser systems used. Rapid channel occlusion suggests that rather than revascularization, subsidiary physiologic tissue effects elicited by the thermal, oxidative, or mechanical action of the laser impact may contribute to the beneficial clinical effects of TMLR.
+    Frequencies of chromosome aberration induced by prolong (continuous) neutron radiation (dose-rate 0.17 Gy/min) and pulsed neutron radiation with ultra-high dose-rate (1-4) x 10(5) Gy/s have been studied in human blood lymphocytes at G0-stage. It was demonstrated that cytogenetic efficiency of pulsed neutrons (after the substraction of approximately 50% gamma-component from the total dose) was 2 times higher than that of continuous neutron radiation.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11126438/) · [DOI](https://doi.org/10.1002/1096-9101(2000)27:5<438::AID-LSM1005>3.0.CO;2-3)
-
-
----
-
-### A new approach for studying fast biological reactions involving dioxygen: the reaction of fully reduced cytochrome c oxidase with O2.
-
-*Van Eps N, Szundi I, Einarsdóttir O* — Biochemistry (2000)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** We describe a new method for studying rapid biological reactions involving dioxygen. This approach is based on the photolysis of a synthetic caged dioxygen carrier, which produces dioxygen on a fast time scale.
-
-
-??? note "Abstract"
-    We describe a new method for studying rapid biological reactions involving dioxygen. This approach is based on the photolysis of a synthetic caged dioxygen carrier, which produces dioxygen on a fast time scale. The method was used to investigate the reduction of dioxygen to water by cytochrome c oxidase at room temperature following photolysis of a (mu-peroxo)(mu-hydroxo)bis\[bis(bipyridyl)c obalt(III)\] complex. The fact that dioxygen is generated in situ on a nanosecond or faster time scale avoids potential complications related to the fate of photodissociated CO in a conventional CO flow-flash experiment. The cobalt complex is stable at room temperature under anaerobic conditions and releases dioxygen upon irradiation at 355 nm with a quantum yield of 0.04. The complex does not react with reduced cytochrome oxidase or its reducing agents within the mixing time of the experiment, and its photoproducts do not interfere with the kinetics of the dioxygen reduction. The oxidation of the reduced cytochrome oxidase was monitored between 500 and 750 nm using a gated optical spectrometric multichannel analyzer following photodissociation of the cobalt complex. The data were analyzed using singular value decomposition and global exponential fitting, and two apparent lifetimes (380 +/- 50 micros and 1.7 +/- 0.2 ms) were resolved and compared to results from a conventional CO flow-flash experiment. The results show that approximately 90 microM dioxygen can be generated upon a single laser pulse and that this approach can be used to study other fast biological reactions involving O(2).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11087413/) · [DOI](https://doi.org/10.1021/bi000955u)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/11155330/)
 
 
 ---
@@ -8406,25 +7829,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10993634/) · [DOI](https://doi.org/10.1080/09553000050134465)
-
-
----
-
-### Calcium buffering capacity of neuronal cell cytosol measured by flash photolysis of calcium buffer NP-EGTA.
-
-*Fleet A, Ellis-Davies G, Bolsover S* — Biochemical and biophysical research communications (1998)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** N1E-115 mouse neuroblastoma cells were injected with a calcium buffer/indicator solution to allow both ratiometric measurement of free calcium concentration and the release of calcium ions upon UV flash. The solution contained sulforhodamine, a marker dye used to estimate the volume injected; fluo-3, a calcium indicator, and NP-EGTA, a high affinity calcium-selective buffer that is converted by UV…
-
-
-??? note "Abstract"
-    N1E-115 mouse neuroblastoma cells were injected with a calcium buffer/indicator solution to allow both ratiometric measurement of free calcium concentration and the release of calcium ions upon UV flash. The solution contained sulforhodamine, a marker dye used to estimate the volume injected; fluo-3, a calcium indicator, and NP-EGTA, a high affinity calcium-selective buffer that is converted by UV flash to products with negligible calcium affinity. The calcium increase recorded upon UV irradiation (Delta\[Ca2+\]i) was small for small injection volumes, increased with larger injection volumes, but approached a plateau at the largest injection volumes. From this relation we estimate the buffering capacity of the cytosol as 1700 ions bound per ion free.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/9784424/) · [DOI](https://doi.org/10.1006/bbrc.1998.9377)
 
 
 ---
@@ -8562,25 +7966,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Prediction of radiotherapy response of cervical carcinoma through measurement of proliferation rate.
-
-*Bolger BS, Symonds RP, Stanton PD, MacLean AB, Burnett R, Kelly P et al.* — British journal of cancer (1996)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Estimation of tumour proliferation may allow the design of individualised radiotherapy schedules to optimise response. This prospective study correlates the tumour proliferation rate of cervical carcinoma with response to conventional radiotherapy.
-
-
-??? note "Abstract"
-    Estimation of tumour proliferation may allow the design of individualised radiotherapy schedules to optimise response. This prospective study correlates the tumour proliferation rate of cervical carcinoma with response to conventional radiotherapy. The potential tumour cell doubling rate (Tpot) was estimated following flash labelling of the tumours in vivo using the DNA precursor, bromodeoxyuridine (BrdUrd); samples were analysed by flow cytometry. Tumour ploidy, DNA index and mitotic count were also assessed as was histological grade and type. Multiple biopsies from each tumour were obtained from 121 women. The median Tpot was 4.0 days, median S-phase duration 12.8 h and median adjusted labelling index 9.8%. Higher BrdUrd labelling was seen in patients who developed pelvic tumour recurrence following radiotherapy. This was the only biological/histological parameter with univariate and multivariate significance in relation to locoregional recurrence (P = 0.006 and P = 0.034 respectively). This study represents the first assessment of Tpot in relation to long-term response of cervical tumours treated by radiotherapy treatment. The association of high BrdUrd labelling and poor pelvic disease-free survival indicates the need for further research into the potential of radiotherapy schedule alteration to reflect tumour proliferation. The predictive value may be enhanced by combination with other biological parameters.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/8883408/) · [DOI](https://doi.org/10.1038/bjc.1996.520) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2075936/)
-
-
----
-
 ### \[Laser-induced interstitial induced hyperthermia of cerebral tumors with nuclear magnetic resonance tomography control\].
 
 *Kahn T, Bettag M, Harth T, Schwabe B, Schwarzmaier HJ, Mödder U* — Der Radiologe (1996)  
@@ -8596,25 +7981,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/8999448/) · [DOI](https://doi.org/10.1007/s001170050133)
-
-
----
-
-### The effects of ultraviolet irradiation on P680(+) reduction in PS II core complexes measured for individual S-states and during repetitive cycling of the oxygen-evolving complex.
-
-*Post A, Lukins PB, Walker PJ, Larkum AW* — Photosynthesis research (1996)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Flash-induced absorbance measurements at 830 nm on both nanosecond and microsecond timescales have been used to characterise the effect of ultraviolet light on Photosystem II core particles. A combination of UV-A and UV-B, closely simulating the spectrum of sunlight below 350 nm, was found to have a primary effect on the donor side of P680.
-
-
-??? note "Abstract"
-    Flash-induced absorbance measurements at 830 nm on both nanosecond and microsecond timescales have been used to characterise the effect of ultraviolet light on Photosystem II core particles. A combination of UV-A and UV-B, closely simulating the spectrum of sunlight below 350 nm, was found to have a primary effect on the donor side of P680. Repetitive measurements indicated reductions in the nanosecond components of the absorbance decay with a concomitant appearance and increase in the amplitude of a component with a 10 μs time constant attributed to slow reduction of P680(+) by Tyrz when the function of the oxygen evolving complex is inhibited. Single-flash measurements show that the nanosecond components have amplitudes which vary with S-state. Increasing UV irradiation inhibited the amplitude of these components without changing their S-state dependence. In addition, UV irradiation resulted in a reduction in the total amplitude, with no change in the proportion of the 10 μs contribution.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24271530/) · [DOI](https://doi.org/10.1007/BF00029424)
 
 
 ---
@@ -8695,25 +8061,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Caged nitric oxide. Stable organic molecules from which nitric oxide can be photoreleased.
-
-*Makings LR, Tsien RY* — The Journal of biological chemistry (1994)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** We report the synthesis and testing of a series of &quot;caged&quot; nitric oxide compounds that are stable indefinitely in oxygen-containing solutions until photolyzed by ultraviolet irradiation, whereupon they release nitric oxide (NO) with quantum yields of delta 8% for 3a (CNO-1) and delta 2% for compounds 3b-e (CNO2-5). After a flash, NO release is complete within 5 ms, so that precise temporal control…
-
-
-??? note "Abstract"
-    We report the synthesis and testing of a series of &quot;caged&quot; nitric oxide compounds that are stable indefinitely in oxygen-containing solutions until photolyzed by ultraviolet irradiation, whereupon they release nitric oxide (NO) with quantum yields of delta 8% for 3a (CNO-1) and delta 2% for compounds 3b-e (CNO2-5). After a flash, NO release is complete within 5 ms, so that precise temporal control of NO release is possible. NO donor 3d (CNO-4) includes two carboxylate negative charges at physiological pH, which reduce membrane permeability and enable photolytic generation of NO to be selectively confined to either extracellular or intracellular compartments. Esterification of these carboxyls with acetoxymethyl groups produces 3e (CNO-5), which is membrane-permeant and intracellularly hydrolyzable. Therefore, large populations of intact cells can be conveniently intracellularly loaded with &quot;caged&quot; NO donor 3d by incubation with 3e (CNO-5). The biological efficacy of these NO donors and their absolute dependence on UV-irradiation was demonstrated by inhibition of thrombin-stimulated platelet aggregation. Extracellular hemoglobin blocked the effects of NO generated outside but not inside platelets, verifying the sidedness of the NO donors and the limited spatial range of NO action. These molecules should permit precise spatial, temporal, and concentration control of NO release for investigation of its important biological functions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/8119976/)
-
-
----
-
 ### The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
 
 *Lachapelle P, Benoit J, Blain L, Guité P, Roy MS* — Vision research (1990)  
@@ -8733,44 +8080,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Histologic comparison of the pulsed dye laser and copper vapor laser effects on pig skin.
-
-*Tan OT, Stafford TJ, Murray S, Kurban AK* — Lasers in surgery and medicine (1990)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Albino pig skin was exposed to the copper vapor (CVL) and flash-lamp pulsed dye (PDL) lasers at 578 nm with a 3 mm diameter spotsize over a range of fluences until purpura and whitening were first established. The total irradiation time was the parameter that was varied in order for the CVL to reach the desired fluence.
-
-
-??? note "Abstract"
-    Albino pig skin was exposed to the copper vapor (CVL) and flash-lamp pulsed dye (PDL) lasers at 578 nm with a 3 mm diameter spotsize over a range of fluences until purpura and whitening were first established. The total irradiation time was the parameter that was varied in order for the CVL to reach the desired fluence. The lowest fluence producing each clinical endpoint was designated the threshold fluence: 34 J/cm2 was required to produce purpura using the CVL compared to 7.5 J/cm2 with the PDL laser. Histologically, skin exposed to purpura fluences from the CVL revealed the presence of constricted, disrupted papillary dermal blood vessels with trapped RBC&#x27;s within them which were unlike those exposed to PDL where the irradiated vessels were dilated and packed with masses of intravascular agglutinated RBC&#x27;s. The whitening threshold fluences for the CVL and PDL lasers were 67 J/cm2 and 29 J/cm2, respectively. Streaming of epidermal cells and dermal collagen denaturation were observed in CVL irradiated skin, compared to occasional dyskeratotic epidermal cells and focal dermal collagen denaturation following PDL exposure. The mechanisms responsible for the clinical and histologic changes produced by the two laser systems are discussed.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2263154/) · [DOI](https://doi.org/10.1002/lsm.1900100607)
-
-
----
-
-### Augmentation of cardiac calcium current by flash photolysis of intracellular caged-Ca2+ molecules.
-
-*Gurney AM, Charnet P, Pye JM, Nargeot J* — Nature (1989)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The entry of calcium ions into cells through voltage-activated Ca2+ channels in the plasma membrane triggers many important cellular processes. The activity of these channels is regulated by several hormones and neurotransmitters, as well as intracellular messengers such as Ca2+ itself (for examples, see refs 1-9).
-
-
-??? note "Abstract"
-    The entry of calcium ions into cells through voltage-activated Ca2+ channels in the plasma membrane triggers many important cellular processes. The activity of these channels is regulated by several hormones and neurotransmitters, as well as intracellular messengers such as Ca2+ itself (for examples, see refs 1-9). In cardiac muscle, myoplasmic Ca2+ has been proposed to potentiate Ca2+ influx, although a direct effect of Ca2+ on these channels has not yet been demonstrated. Photosensitive &#x27;caged-Ca2+&#x27; molecules such as nitr-5, however, provide powerful tools for investigating possible regulatory roles of Ca2+ on the functioning of Ca2+ channels. Because its affinity for Ca2+ is reduced by irradiation, nitr-5 can be loaded into cells and induced to release Ca2+ with a flash of light. By using this technique we found that the elevation of intracellular Ca2+ concentration directly augmented Ca2+-channel currents in isolated cardiac muscle cells from both frog and guinea pig. The time course of the current potentiation was similar to that seen with beta-adrenergic stimulation. Thus Ca2+ may work through a similar pathway, involving phosphorylation of a regulatory Ca2+-channel protein. This mechanism is probably important for the accumulation of Ca2+ and the amplification of the contractile response in cardiac muscle, and may have a role in other excitable cells.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2549428/) · [DOI](https://doi.org/10.1038/341065a0)
-
-
----
-
 ### Two pulses seen as three flashes: a superposition analysis.
 
 *Bowen RW* — Vision research (1989)  
@@ -8786,25 +8095,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/2781731/) · [DOI](https://doi.org/10.1016/0042-6989(89)90005-9)
-
-
----
-
-### \[Invasive tumors of the bladder. A study of 56 cases treated at the Gustave-Roussy Institute by total cystectomy and radiotherapy\].
-
-*Raoul Y, Wibault P, Giacchetti S, Court B, Perrin B, Travagli JP et al.* — Annales d&#x27;urologie (1989)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Between July 1973 and December 1984, 56 patients with invasive bladder cancer were treated at the Gustave-Roussy Institute by total cystectomy and, generally, radiotherapy (45 patients). Four modalities of irradiation were used: preoperative flash (21 patients), preoperative flash and postoperative irradiation (9 patients), preoperative irradiation according to conventional fractionation (12 patie…
-
-
-??? note "Abstract"
-    Between July 1973 and December 1984, 56 patients with invasive bladder cancer were treated at the Gustave-Roussy Institute by total cystectomy and, generally, radiotherapy (45 patients). Four modalities of irradiation were used: preoperative flash (21 patients), preoperative flash and postoperative irradiation (9 patients), preoperative irradiation according to conventional fractionation (12 patients), postoperative irradiation (3 patients). The actuarial 5 year survival for all of the patients treated was 28%. The essential prognostic factors were depth of emboli. Analysis of the deaths revealed loco-regional recurrence in 8 patients (14%), metastases in 11 patients (20%) another cause in 14 patients (24%); treatment appeared to be directly involved in 13 cases. However, toxicity has been considerably reduced since 1980, due to more rigorous patient selection for total cystectomy, improvement in pre- and postoperative intensive care and by the use of a radiotherapy protocol no longer involving large concentrated fractions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2500887/)
 
 
 ---
@@ -8847,25 +8137,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Intratumoural light distribution in an experimental mouse tumour irradiated by a diffuse-light irradiator compared with unilateral helium-neon light for photodynamic therapy.
-
-*Bjerring P* — International journal of radiation biology and related studies in physics, chemistry, and medicine (1987)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Investigations on dosimetry in photodynamic therapy (PDT) of experimental mouse tumours transplanted into the right hind leg revealed a significant variability in the fluence rate reaching tumour cells in different parts of the tumour when irradiated by a 50 mW collimated He-Ne laser. Based on intratumoural fibre-optical light measurements, a new irradiation source was constructed, in which variab…
-
-
-??? note "Abstract"
-    Investigations on dosimetry in photodynamic therapy (PDT) of experimental mouse tumours transplanted into the right hind leg revealed a significant variability in the fluence rate reaching tumour cells in different parts of the tumour when irradiated by a 50 mW collimated He-Ne laser. Based on intratumoural fibre-optical light measurements, a new irradiation source was constructed, in which variability in the radiant energy fluence rate between different parts of the solid tumour was reduced. The new diffuse-light irradiator was constructed basically from two concentric water chambers surrounded by three linear 3000 W xenon flash lamps. The outer chamber was an optical band filter, and the inner chamber contained a light-dispersing solution of lipid droplets which created an isotropic light field in which the tumours were submerged for PDT. Compared with unilateral He-Ne laser irradiation, an enhancement factor of 7.3 in radiance was obtained for the diffuse-light irradiator measured in the tumour. The new apparatus provides a nearly isotropic light field for in vivo experimental PDT.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3497119/) · [DOI](https://doi.org/10.1080/09553008714551651)
-
-
----
-
 ### Haemostatic and antialgic effects of the 25 MV photon beam concentrated dose in the treatment of carcinoma of the cervix.
 
 *Patrício MB, Tavares MA, Guimarães MF, Belo MC, Vilhena M* — Journal of surgical oncology (1987)  
@@ -8900,25 +8171,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/3499028/) · [DOI](https://doi.org/10.1016/0042-6989(87)90002-2)
-
-
----
-
-### RNA polymerase II interacts with the promoter region of the noninduced hsp70 gene in Drosophila melanogaster cells.
-
-*Gilmour DS, Lis JT* — Molecular and cellular biology (1986)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** By using a protein-DNA cross-linking method (D. S.
-
-
-??? note "Abstract"
-    By using a protein-DNA cross-linking method (D. S. Gilmour and J. T. Lis, Mol. Cell. Biol. 5:2009-2018, 1985), we examined the in vivo distribution of RNA polymerase II on the hsp70 heat shock gene in Drosophila melanogaster Schneider line 2 cells. In heat shock-induced cells, a high level of RNA polymerase II was detected on the entire gene, while in noninduced cells, the RNA polymerase II was confined to the 5&#x27; end of the hsp70 gene, predominantly between nucleotides -12 and +65 relative to the start of transcription. This association of RNA polymerase II was apparent whether the cross-linking was performed by a 10-min UV irradiation of chilled cells with mercury vapor lamps or by a 40-microsecond irradiation of cells with a high-energy xenon flash lamp. We hypothesize that RNA polymerase II has access to, and a high affinity for, the promoter region of this gene before induction, and this poised RNA polymerase II may be critical in the mechanism of transcription activation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3099167/) · [DOI](https://doi.org/10.1128/mcb.6.11.3984-3989.1986) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC367162/)
 
 
 ---
@@ -9037,25 +8289,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Photosynthetic hydrogen and oxygen production: kinetic studies.
-
-*Greenbaum E* — Science (New York, N.Y.) (1982)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Steady-state turnover times for simultaneous photosynthetic production of hydrogen and oxygen have been measured for two systems: the in vitro system comprised of isolated chloroplasts, ferredoxin, and hydrogenase, and the anaerobically adapted green alga Chlamydomonas reinhardtii \[137c(+) mating type\]. In both systems, the simultaneous photoproduction of hydrogen and oxygen was measured by drivin…
-
-
-??? note "Abstract"
-    Steady-state turnover times for simultaneous photosynthetic production of hydrogen and oxygen have been measured for two systems: the in vitro system comprised of isolated chloroplasts, ferredoxin, and hydrogenase, and the anaerobically adapted green alga Chlamydomonas reinhardtii \[137c(+) mating type\]. In both systems, the simultaneous photoproduction of hydrogen and oxygen was measured by driving the systems into the steady state with repetitive, single-turnover, flash illumination. The turnover times for production of both oxygen and hydrogen in photosynthetic water splitting are in milliseconds and are equal to or less than the turnover time for carbon dioxide reduction in intact algal cells. The oxygen and hydrogen turnover times are therefore compatible with each other and partially compatible with the excitation rate of the photosynthetic reaction centers under conditions of solar irradiation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17784356/) · [DOI](https://doi.org/10.1126/science.215.4530.291)
-
-
----
-
 ### The decrease in the threshold on the dark side of the luminance edge in the after-flash effect.
 
 *Mitsuboshi T, Mitsuboshi M, Torii S* — Vision research (1982)  
@@ -9099,25 +8332,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Long-term cerebral effects of small doses of x-irradiation in childhood as manifested in adult visual evoked responses.
-
-*Yaar I, Ron E, Modan M, Peretz H, Modan B* — Annals of neurology (1980)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** In Israel between the years 1949 and 1960, approximately 20,000 children ranging from 1 to 15 years of age were irradiated for eradication of tinea capitis. Radiation to the cerebral hemipheres ranged up to 140 rads.
-
-
-??? note "Abstract"
-    In Israel between the years 1949 and 1960, approximately 20,000 children ranging from 1 to 15 years of age were irradiated for eradication of tinea capitis. Radiation to the cerebral hemipheres ranged up to 140 rads. Of those treated, now adults, 44 subjects were elected by stratified sampling for recording and analysis of visual evoked responses (VERs). A control group of 57 subjects similar in age and ethnic origin was chosen. Two occipital leads, a right and a left, were recorded by the international 10-20 system. Fifty responses to diffuse white-flash stimulation were averaged in each case. The first 256 msec (data points) of each VER were reduced to 77 variables by repeated averaging over three adjacent data points; these variables were then analyzed by several statistical methods. The analyses detected significant differences between the VER averages in study subjects compared with controls. These differences may reflect delayed, probably permanent functional damage to the central nervous system caused by small doses of x-radiation (XR) to immature normal human brain. The left hemispheres appeared to be more involved, consistent with the fact that these children received, on the average, more XR to the left side of the brain, as shown in simulated phantom models. This disparity is reflected in a greater degree of difference between the left VERs of the irradiated versus control group. The major differences between the VERs occurred in the first part of the secondary response and suggest possible subcortical involvement. The results strengthen previous evidence of potential hazards of XR in children.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/7436369/) · [DOI](https://doi.org/10.1002/ana.410080307)
-
-
----
-
 ### \[Therapeutic trials in inoperable carcinoma of the bladder (author&#x27;s transl)\].
 
 *Droz JP, Ben Ayed F, Pascal B, Beurton D, Cukier J, Amiel JL* — Journal d&#x27;urologie (1980)  
@@ -9137,25 +8351,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Participation of granulosa cell populations in radiation response of the follicular apparatus in the ovary of mice.
-
-*Rudnicki T, Słonińska B* — Strahlentherapie (1979)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The aim of this paper was to investigate the fates of granulosa cells in three different types of the follicles during 10 hours after single irradiation with 100 resp. 200 R.
-
-
-??? note "Abstract"
-    The aim of this paper was to investigate the fates of granulosa cells in three different types of the follicles during 10 hours after single irradiation with 100 resp. 200 R. Using flash labelling with 3H-thymidine, observations of the ovarian anatomical structures during 4--5 estruses after 150 R were made. It has been found, that the basic radiobiological event, influencing further fates of the follicles, is delay of granulosa cell proliferation. Consequently, the further growth and maturation of the follicles is retarded and a reduction of ovulation, a lengthening and an irregularity of estrus take place. The killing effect within granulosa cells is not significant and is of secondary importance.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/494353/)
-
-
----
-
 ### Oxygen diffusion into mammalian cells following ultrahigh dose rate irradiation and lifetime estimates of oxygen-sensitive species.
 
 *Ling CC, Michaels HB, Epp ER, Peterson EC* — Radiation research (1978)  
@@ -9164,25 +8359,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/734054/)
-
-
----
-
-### Mepacrine, a tool for investigating the 5-hydroxytryptamine organelles of blood platelets by fluorescence microscopy.
-
-*Lorez HP, Da Prada M, Rendu F, Pletscher A* — The Journal of laboratory and clinical medicine (1977)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** In the blood platelets of various species exposed to mepacrine, the average number of green-yellow fluorescent granules (probably identical with the 5-hydroxytryptamine \[5-HT\] storage organelles) corresponded to that of flashes emitted by the platelets on prolonged irradiation with violet-blue light. In platelets of fawn-hooded rats the number of granules did not markedly differ from that of norma…
-
-
-??? note "Abstract"
-    In the blood platelets of various species exposed to mepacrine, the average number of green-yellow fluorescent granules (probably identical with the 5-hydroxytryptamine \[5-HT\] storage organelles) corresponded to that of flashes emitted by the platelets on prolonged irradiation with violet-blue light. In platelets of fawn-hooded rats the number of granules did not markedly differ from that of normal rat platelets, but the fluorescence intensity and the uptake of mepacrine in vitro showed a marked decrease and the flashes were less numerous. The heavy population of human platelets exhibited considerably more granular structures than the light population. The data suggest that (1) in normal, mepacrine-loaded platelets one flash corresponds to one 5-HT organelle and (2) mepacrine is a useful tool for investigating the number and function of the 5-HT organelles in live platelets and possibly for studying platelet age.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/556622/)
 
 
 ---
@@ -9211,44 +8387,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Determination of the number of photoreactivating enzyme molecules per haploid Saccharomyces cells.
-
-*Yasui A, Laskowski W* — International journal of radiation biology and related studies in physics, chemistry, and medicine (1975)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Two haploid radiation-sensitive mutants of Saccharomyces were studied to investigate the formation of complex between photoreactivating-enzyme and substrate after ultra-violet irradiation. Using photo-flashes, the time necessary for maximum complex formation has been determined.
-
-
-??? note "Abstract"
-    Two haploid radiation-sensitive mutants of Saccharomyces were studied to investigate the formation of complex between photoreactivating-enzyme and substrate after ultra-violet irradiation. Using photo-flashes, the time necessary for maximum complex formation has been determined. Within 1 min, 70 per cent of the complexes have been formed. To determine the number of photoreactivating enzyme molecules per cell, the maximum dose decrement obtained after one photo-flash was determined and corrected for the effects of non-photoreactivable lesions. The corrected maximum dose decrement was found to be identical for both strains (8-5 erg mm-2). The number of photoreactivating-enzyme molecules involved in the photorepair of nuclear DNA damage was calculated as 272 +/- 27.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1082862/) · [DOI](https://doi.org/10.1080/09553007514551371)
-
-
----
-
-### Proliferative kinetics of central nervous system (CNS) leukemia.
-
-*Kuo AH, Yataganas X, Galicich JH, Fried J, Clarkson BD* — Cancer (1975)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The proliferative kinetics of the leukemic cells in the cerebrospinal fluid (CSF) were studied in three adults with CNS leukemia after 18 and 8 months while receiving an intensive treatment regimen. One (J.L.) had acute myeloblastic leukemia and developed CNS disease after 5 years&#x27; treatment with arabinosylcytosine and 6-thioguanine.
-
-
-??? note "Abstract"
-    The proliferative kinetics of the leukemic cells in the cerebrospinal fluid (CSF) were studied in three adults with CNS leukemia after 18 and 8 months while receiving an intensive treatment regimen. One (J.L.) had acute myeloblastic leukemia and developed CNS disease after 5 years&#x27; treatment with arabinosylcytosine and 6-thioguanine. All were in marrow remission at the time of study. G.H. had had no therapy for CNS disease, A.K. had had intrathecal methotrexate 2 months previously, and J.L. had recently completed radiotherapy (1900 R) to the head. An Ommaya reservoir was placed in a lateral ventricle and 3H-thymidine was injected into the resrvoir every 12 hours for 10 days; samples of cells were obtained by lumbar puncture periodically for autoradiography. In all patients the flash 3H-thymidine labeling index (LI) of the leukemic cells was less than 2% (determined in vitro) and the mitotic index less than 0.1%. After 10 days of 3H-thymidine injections in vivo, the LIs of the leukemic cells were 55%, 36%, and 21% in G.H., A.K., and J.L., respectively. These findings indicate that leukemic cells may proliferate very slowly in the CNS, and stress the difficulty of eradicating CNS leukemia with chemotherapeutic agents which are only active against proliferating cells.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1203851/) · [DOI](https://doi.org/10.1002/1097-0142(197507)36:1<232::aid-cncr2820360126>3.0.co;2-f)
-
-
----
-
 ### Sensitization by annular surrounds: sensitization and the contrast-flash effect.
 
 *Alexander KR* — Vision research (1974)  
@@ -9257,6 +8395,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/4421568/) · [DOI](https://doi.org/10.1016/0042-6989(74)90056-x)
+
+
+---
+
+### Response of photobacterium fischeri MAV exposed to an ultra high dose-rate pulsed electron beam.
+
+*Lerch IA* — Radiation research (1971)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/5539709/)
 
 
 ---
@@ -9281,6 +8431,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/5305081/) · [DOI](https://doi.org/10.1080/09553006914551761)
+
+
+---
+
+### The repair time of chromosome breaks induced by pulsed x-rays on ultra-high dose-rate.
+
+*Prempree T, Michelsen A, Merz T* — International journal of radiation biology and related studies in physics, chemistry, and medicine (1969)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/5307280/) · [DOI](https://doi.org/10.1080/09553006914550871)
 
 
 ---

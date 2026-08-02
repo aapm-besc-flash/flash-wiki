@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*308 records. Newest first.*
+*256 records. Newest first.*
 
 ---
 
@@ -386,25 +386,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### High-Speed Detection of X-ray Pulses Using a Digital Counter Coupled with Perovskite Composite Scintillators.
-
-*Khaliq S, Faleiros MC, Zhang L, Hasanov BE, de Oliveira Filho JI, Bayindir M et al.* — ACS applied materials &amp; interfaces (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Accurate pulse-resolved detection of ionizing radiation at megahertz frequencies is essential for applications such as quality assurance in ultrahigh-dose-rate radiotherapy and low-dose X-ray monitoring. Conventional scintillator-based detectors employ bulky single crystals, such as lutetium-yttrium oxyorthosilicate (LYSO), which limit their flexibility and integrability.
-
-
-??? note "Abstract"
-    Accurate pulse-resolved detection of ionizing radiation at megahertz frequencies is essential for applications such as quality assurance in ultrahigh-dose-rate radiotherapy and low-dose X-ray monitoring. Conventional scintillator-based detectors employ bulky single crystals, such as lutetium-yttrium oxyorthosilicate (LYSO), which limit their flexibility and integrability. Furthermore, many perovskite scintillators exhibit afterglow, which leads to signal pile-up under high-flux conditions. To address these challenges, we developed thin polymer composite scintillator films comprising LYSO and (PEA)2PbBr4. These films retained the materials&#x27; intrinsic decay times (∼37 and ∼6 ns, respectively) while enhancing signal output through the optical scattering of scintillation photons within the inhomogeneous polymer matrix. When coupled with silicon photomultipliers and a field-programmable gate array (FPGA)-based digital counter, these films enabled rapid real-time detection across a broad frequency range. Specifically, the LYSO/PMMA composite detected intense signals up to 2 MHz (500 ns spacing), whereas the (PEA)2PbBr4/PMMA composite, with an amplification stage, enabled accurate pulse counting up to 5 MHz (200 ns spacing). With a dead time of ∼20 ns, the system resolved nanosecond-spaced pulses without pile-up, enabling reliable pulse-by-pulse readout from a few counts per second to multimegahertz bursts. These results demonstrate that inhomogeneous composite scintillator films, when integrated with FPGA-based digital processing, provide a compact and scalable pulse counter for high-frequency radiation detection, effectively addressing the limitations of conventional bulky crystal detectors.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41919639/) · [DOI](https://doi.org/10.3238/arztebl.m2022.0395) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10198168/)
-
-
----
-
 ### The Quasi-Adiabatic Graphite Calorimeter for Absolute Dosimetry in Ultrahigh Dose Rate FLASH X-Ray Radiation Therapy.
 
 *Huang J, Zhang G, Wang K, Tian B, Yang Y, Wu D et al.* — International journal of radiation oncology, biology, physics (2026)  
@@ -500,25 +481,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Dosimetric effects of internal margin, auto flash, and virtual bolus in VMAT-based whole-breast radiotherapy under motion variations.
-
-*Joo JH, Kim DW, Kim W, Nam J, Kim D, Park D et al.* — Journal of applied clinical medical physics (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** This study aimed to evaluate the dosimetric performance and robustness of volumetric modulated arc therapy (VMAT) planning techniques-planning target volume with internal margin (INT), auto flash (AF), and virtual bolus (VB)-under simulated geometric changes during whole-breast radiotherapy. METHODS: Nine patients with left-sided breast cancer were included.
-
-
-??? note "Abstract"
-    BACKGROUND AND PURPOSE: This study aimed to evaluate the dosimetric performance and robustness of volumetric modulated arc therapy (VMAT) planning techniques-planning target volume with internal margin (INT), auto flash (AF), and virtual bolus (VB)-under simulated geometric changes during whole-breast radiotherapy. METHODS: Nine patients with left-sided breast cancer were included. Three planning techniques were compared: INT with a 5-mm skin-sparing internal margin, AF with a 1-cm automatic skin flash margin, and VB with a 5-mm optimization bolus applied only during the planning. Respiratory motion was simulated by shifting the plan center (± 3 mm and ± 5 mm) and recalculating the dose distributions. RESULTS: Under static conditions, all plans provided adequate target coverage, with planning target volume (PTV) V95% values of 96.45% (INT), 97.35% (AF), and 98.19% (VB). Under breast swelling of up to 5 mm, AF maintained the most stable coverage (PTV V95% = 99.10%), outperforming VB (95.02%) and INT (92.31%) (p &lt; 0.001). In simulated incomplete inspiration (5 mm), VB showed superior robustness, achieving a PTV V95% of 90.46% compared with AF (85.30%) and INT (85.08%) (p = 0.008). AF met the ideal criteria in all cases under swelling conditions, whereas the VB was more effective against suboptimal respiration. CONCLUSIONS: In VMAT breast radiation therapy (RT), the conventional INT approach was the least robust against variations, and additional techniques are required. AF effectively compensates for breast swelling, whereas VB preserves the target coverage under insufficient breath-hold conditions. Surface-guided radiation therapy (SGRT) and visual guidance are recommended to ensure accurate treatment.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41773713/) · [DOI](https://doi.org/10.1016/j.meddos.2020.09.005) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7658584/)
-
-
----
-
 ### Small dose monitor based on silicon-carbide diodes for FLASH radiotherapy.
 
 *Lopez Paz I, Fleta C, Henao Á, Heinrich S, Guardiola C* — Medical physics (2026)  
@@ -595,25 +557,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Optimizing breast and chest wall treatment planning: Integrating dynamic collimator rotation with static-angle modulated ports in VMAT radiotherapy.
-
-*Hubley E, Gao Y, Koger B, Li T, Risolo K, Salerno M et al.* — Journal of applied clinical medical physics (2026)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** RapidArc Dynamic (RAD) integrates static-angle modulated ports (STAMPs) and a dynamic collimator into arc delivery. The optimal use of RAD, including the ideal number of STAMPs, the best use of the dynamic collimator, and the ideal relative weighting between arc and STAMPs, has yet to be reported.
-
-
-??? note "Abstract"
-    PURPOSE: RapidArc Dynamic (RAD) integrates static-angle modulated ports (STAMPs) and a dynamic collimator into arc delivery. The optimal use of RAD, including the ideal number of STAMPs, the best use of the dynamic collimator, and the ideal relative weighting between arc and STAMPs, has yet to be reported. We aim to investigate optimized utility of these parameters for breast and chest wall treatment planning to achieve superior dosimetric results. METHODS: Thirteen breast and chest wall patients were planned using RAD. Plans were created using the three different dynamic collimator options, five different arc/STAMP weighting options, and with 2, 4, and 6 STAMPs. All plans were created with automated skin flash. RAD plans were compared to conventional RapidArc (RA) plans. The DVH metrics and MUs for each plan were recorded, and a paired T-test was used to test for statistically significant (p ≤ 0.05) differences between the plans. RESULTS: &quot;Optimize between static angles&quot; was the best option for dynamic collimator setting. Increasing the number of STAMPs from 2 to 4 or 6 lowered PTV V105% in patients where the PTV V105% was high but provided limited benefit in most patients. Selecting arc-dominant weighting yields significantly worse DVH metrics than a balanced weighting. Dosimetric differences were minimal between (0) Balanced, (1) Static, or (2) Static-Dominant weighting. CONCLUSIONS: The following are recommended as a starting point for breast and chest wall RAD plans: 2 STAMPs positioned similar to breast tangents, &quot;optimize between static angles&quot; for the dynamic collimator, and a weighting of either (0) balanced, (1) static, or (2) static-dominant. The arc-dominant setting resulted in plans of the lowest quality.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41656965/) · [DOI](https://doi.org/10.1002/acm2.70442)
-
-
----
-
 ### A Physics-Informed Neural Network for In Vivo Dosimetry Using Quantitative Radiacoustic Imaging.
 
 *Sun L, Bjegovic K, Rodriguez-Gonzalez L, Xu Y, Yan Y, Gonzalez G et al.* — Research square (2026)  
@@ -667,25 +610,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41619266/) · [DOI](https://doi.org/10.1002/mp.70287) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545838/)
-
-
----
-
-### Ultrathin liquid cells for microsecond time-resolved cryo-EM.
-
-*Curtis WA, Wenz J, Krüger CR, Barrass SV, Drabbels M, Lorenz UJ* — Nature communications (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Microsecond time-resolved cryo-electron microscopy promises to significantly advance our understanding of protein function by rendering cryo-electron microscopy (cryo-EM) fast enough to observe proteins at work. This emerging technique involves flash melting a cryo sample with a laser beam to provide a brief time window during which dynamics are initiated.
-
-
-??? note "Abstract"
-    Microsecond time-resolved cryo-electron microscopy promises to significantly advance our understanding of protein function by rendering cryo-electron microscopy (cryo-EM) fast enough to observe proteins at work. This emerging technique involves flash melting a cryo sample with a laser beam to provide a brief time window during which dynamics are initiated. When the laser is switched off, the sample revitrifies, arresting the proteins in their transient configurations. However, observations have so far been limited to tens of microseconds only, due to the instability of the thin liquid film under laser irradiation. Here, we seal samples between two ultrathin, vapor-deposited silicon dioxide membranes to extend the observation window by an order of magnitude. These membranes not only allow for reconstructions with near-atomic spatial resolution, but can also be used to eliminate preferred particle orientation. We showcase our technology by performing a time-resolved temperature jump experiment on the 50S ribosomal subunit that provides new insights into the conformational landscape of the L1 stalk. Our experiments significantly expand the capabilities of microsecond time-resolved cryo-EM and promise to bridge the gap to the millisecond timescale, which can already be addressed with traditional approaches.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41571671/) · [DOI](https://doi.org/10.1101/2025.06.05.657968v1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337053/)
 
 
 ---
@@ -1310,25 +1234,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Ultrathin Liquid Cells for Microsecond Time-Resolved Cryo-EM.
-
-*Curtis WA, Hruby J, Krüger CR, Barrass SV, Drabbels M, Lorenz UJ* — bioRxiv : the preprint server for biology (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Microsecond time-resolved cryo-electron microscopy promises to significantly advance our understanding of protein function by rendering cryo-electron microscopy (cryo-EM) fast enough to observe proteins at work. This emerging technique involves flash melting a cryo sample with a laser beam to provide a brief time window during which dynamics are initiated.
-
-
-??? note "Abstract"
-    Microsecond time-resolved cryo-electron microscopy promises to significantly advance our understanding of protein function by rendering cryo-electron microscopy (cryo-EM) fast enough to observe proteins at work. This emerging technique involves flash melting a cryo sample with a laser beam to provide a brief time window during which dynamics are initiated. When the laser is switched off, the sample revitrifies, arresting the proteins in their transient configurations. However, observations have so far been limited to tens of microseconds only, due to the instability of the thin liquid film under laser irradiation. Here, we seal samples between two ultrathin, vapor-deposited silicon dioxide membranes to extend the observation window by an order of magnitude. These membranes not only allow for reconstructions with near-atomic spatial resolution, but can also be used to eliminate preferred particle orientation. Finally, we perform a time-resolved temperature jump experiment on the 50S ribosomal subunit that provides new insights into the conformational landscape of the L1 stalk. Our experiments significantly expand the capabilities of microsecond time-resolved cryo-EM and promise to bridge the gap to the millisecond timescale, which can already be addressed with traditional approaches.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40654775/) · [DOI](https://doi.org/10.1021/acs.jproteome.2c00595) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337053/)
-
-
----
-
 ### A Feasibility Study of Preclinical Ocular X-Ray FLASH Radiation Therapy.
 
 *Miles D, Sforza D, Cano M, Peterson C, Gabrielson K, Wong JW et al.* — International journal of radiation oncology, biology, physics (2025)  
@@ -1344,25 +1249,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40588067/) · [DOI](https://doi.org/10.1038/s41598-023-35996-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10232421/)
-
-
----
-
-### The current practice of volumetric modulated arc therapy for breast cancer in Europe - A survey by the EFOMP VMAT breast working group.
-
-*Koivumäki T, Clivio A, Doolan P, Essers M, Fusella M, Jäckel M et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** VMAT is used in the treatment of breast cancer with a wide variety of approaches. The objective of this study is to identify and share the most common indications, techniques, and practices for the use of VMAT for breast irradiation.
-
-
-??? note "Abstract"
-    INTRODUCTION: VMAT is used in the treatment of breast cancer with a wide variety of approaches. The objective of this study is to identify and share the most common indications, techniques, and practices for the use of VMAT for breast irradiation. METHODS: The EFOMP VMAT Breast working group conducted an online questionnaire for European medical physicists via EFOMP national member organizations in February-March 2024. The questionnaire consisted of 56 questions in six categories: background of responders; treatment site specific approaches; dosimetric principles; treatment planning; quality assurance; and foundation of the VMAT breast technique used. RESULTS: A total of 314 responses were analyzed from various institutes across 31 countries, representing approximately 20 % of European radiotherapy centers. Of these, 73 % use VMAT for breast radiotherapy. Among the VMAT users, VMAT is most often used for more complex treatment sites, such as breast with lymph nodes and the internal mammary chain (56 % of responders). Most of these treatments are performed with C-arm linacs (77 %), using daily IGRT (&gt;80 % of institutes) with CBCT (&gt;50 %) as the preferred technique. Across all treatment sites, VMAT breast treatments are most often implemented with two arcs, an arc length of &gt;150°, 5 mm CTV-to-PTV margin and skin/auto flash of 10 mm. CONCLUSION: This paper presents a comprehensive survey of VMAT breast radiotherapy in Europe. These data can serve as a useful reference point or starting guide for centers establishing VMAT protocols.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40561642/) · [DOI](https://doi.org/10.1016/j.ejmp.2025.105028)
 
 
 ---
@@ -1743,25 +1629,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39688375/) · [DOI](https://doi.org/10.1016/s0168-9002(03)01874-6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10997030/)
-
-
----
-
-### Flashlight-induced Ultrafast, Scalable Surface Activation of Highly Loaded Graphite Composite Anode.
-
-*Choi SH, Jang S, Kim H, Seok JY, Yang W, Kim S et al.* — Small methods (2025)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Herein, a straightforward route for fabricating highly loaded graphite composite anodes with enhanced electrochemical performance via ultrafast, scalable flashlight irradiation is presented. When a flashlight irradiates the surface of a thick graphite anode, instantaneous and non-equilibrium photo-thermochemical interactions occur between the flashlight and the constituent materials of the anode.
-
-
-??? note "Abstract"
-    Herein, a straightforward route for fabricating highly loaded graphite composite anodes with enhanced electrochemical performance via ultrafast, scalable flashlight irradiation is presented. When a flashlight irradiates the surface of a thick graphite anode, instantaneous and non-equilibrium photo-thermochemical interactions occur between the flashlight and the constituent materials of the anode. As a result, a porous structure (through which the electrolyte easily penetrates), a large reaction site, improved conductivity, as well as phase transformation of active graphite material can be developed on the anode surface, which can facilitate ion and electron transport at the interface with the electrolyte. By fabricating a half-cell using this flash-activated, highly loaded graphite anode, it is found that the electrochemical performance, such as increases in the charge density, rate capability, and stability can be improved. Finally, the roll-to-roll (R2R) compatibility of the high-performance thick-film electrode fabrication process consisting of coating-drying-flashlight surface activation (FLSA) is successfully demonstrated using a self-built R2R system integrated with a flashlight irradiation module.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39629499/) · [DOI](https://doi.org/10.1002/smtd.202401361)
 
 
 ---
@@ -2678,25 +2545,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Structure, optical properties, TD-DFT simulations for nanosecond and continuous laser irradiation of vanadium antimony borate glass doped with nickel ferrite.
-
-*Ghazy AR, Abdel Gawad SA, Ghazy R, El-Sharkawy AN, Hemeda OM, Henaish AMA* — Scientific reports (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Borate antimony glass doped with vanadium oxide V2O5 encoded into a \[BSV glass system\] was prepared with the traditional melt quenching technique. The Nickel ferrite \[NiFe2O4\] was prepared using Flash auto-combustion and mixed at a fixed ratio of 0.05 gm into the glass matrix to form a BSV- composite glass system \[BSV / NiFe2O4\], which was also prepared using the traditional melt quenching techniq…
-
-
-??? note "Abstract"
-    Borate antimony glass doped with vanadium oxide V2O5 encoded into a \[BSV glass system\] was prepared with the traditional melt quenching technique. The Nickel ferrite \[NiFe2O4\] was prepared using Flash auto-combustion and mixed at a fixed ratio of 0.05 gm into the glass matrix to form a BSV- composite glass system \[BSV / NiFe2O4\], which was also prepared using the traditional melt quenching technique. The X-Ray diffraction pattern was used to characterize the glass samples and indicated their amorphous structure, with different structure phases for different levels of V2O5 content. Ranging from 200 to 1100 nm, UV-Vis spectroscopy was used to study the optical properties of the samples. The glass was found to absorb electromagnetic waves with wavelengths lower than 500 nm, while the energy gap decreased from 2.46 eV for 0.1 mol% V2O5 to 2.39 eV for 0.5 wt% V2O5. The Urbach energy also had the same behavior, and decreasing from 0.226 to 0.217 eV. On the other hand, the refractive index increased when V2O5 was added. The thermal characteristics of a \[BSV / NiFe2O4\] system, such as, glass transition temperature \[Formula: see text\], onset temperature \[Formula: see text\], crystallization temperature \[Formula: see text\] and melting temperature \[Formula: see text\] were studied using a Differential Scanning Calorimeter. Using continuous and pulsed laser radiation, a \[BSV-0.1 V2O5 / NiFe2O4\] sample was exposed to laser irradiation to observe its effect on the optical features of the glass. Laser irradiation significantly changed the absorbance spectrum, while the energy gap decreased as time increased. The pulsed laser was found to have a more power-full and uniform effect compared to continuous laser. Time-dependent density function theory was used to optimize the geometrical structure of the glass and study the effect of the formation of 4- coordinate boron atoms on its properties.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38168121/) · [DOI](https://doi.org/10.1111/jace.13301) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10162990/)
-
-
----
-
 ### Technical note: Commissioning of a linear accelerator producing ultra-high dose rate electrons.
 
 *Cetnar AJ, Jain S, Gupta N, Chakravarti A* — Medical physics (2024)  
@@ -2921,25 +2769,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38045641/) · [DOI](https://doi.org/10.1016/j.radonc.2020.04.012) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9544810/)
-
-
----
-
-### Robustness of hypofractionated breast radiotherapy after breast-conserving surgery with free breathing.
-
-*Chen K, Sun W, Han T, Yan L, Sun M, Xia W et al.* — Frontiers in oncology (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** This study aimed to evaluate the robustness with respect to the positional variations of five planning strategies in free-breathing breast hypofractionated radiotherapy (HFRT) for patients after breast-conserving surgery. METHODS: Twenty patients who received breast HFRT with 42.72 Gy in 16 fractions were retrospectively analyzed.
-
-
-??? note "Abstract"
-    PURPOSE: This study aimed to evaluate the robustness with respect to the positional variations of five planning strategies in free-breathing breast hypofractionated radiotherapy (HFRT) for patients after breast-conserving surgery. METHODS: Twenty patients who received breast HFRT with 42.72 Gy in 16 fractions were retrospectively analyzed. Five treatment planning strategies were utilized for each patient, including 1) intensity-modulated radiation therapy (IMRT) planning (IMRTpure); 2) IMRT planning with skin flash tool extending and filling the fluence outside the skin by 2 cm (IMRTflash); 3) IMRT planning with planning target volume (PTV) extended outside the skin by 2 cm in the computed tomography dataset (IMRTePTV); 4) hybrid planning, i.e., 2 Gy/fraction three-dimensional conformal radiation therapy combined with 0.67 Gy/fraction IMRT (IMRThybrid); and 5) hybrid planning with skin flash (IMRThybrid-flash). All plans were normalized to 95% PTV receiving 100% of the prescription dose. Six additional plans were created with different isocenter shifts for each plan, which were 1 mm, 2 mm, 3 mm, 5 mm, 7 mm, and 10 mm distally in the X (left-right) and Y (anterior-posterior) directions, namely, (X,Y), to assess their robustness, and the corresponding doses were recalculated. Variation of dosimetric parameters with increasing isocenter shift was evaluated. RESULTS: All plans were clinically acceptable. In terms of robustness to isocenter shifts, the five planning strategies followed the pattern IMRTePTV, IMRThybrid-flash, IMRTflash, IMRThybrid, and IMRTpure in descending order. V 95% of IMRTePTV maintained at 99.6% ± 0.3% with a (5,5) shift, which further reduced to 98.2% ± 2.0% with a (10,10) shift. IMRThybrid-flash yielded the robustness second to IMRTePTV with less risk from dose hotspots, and the corresponding V 95% maintained &gt;95% up until (5,5). CONCLUSION: Considering the dosimetric distribution and robustness in breast radiotherapy, IMRTePTV performed best at maintaining high target coverage with increasing isocenter shift, while IMRThybrid-flash would be adequate with positional uncertainty&lt;5 mm.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38023210/) · [DOI](https://doi.org/10.1186/s13014-020-01495-6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7045466/)
 
 
 ---
@@ -3191,25 +3020,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Comparing brass mesh to tissue equivalent bolus materials for volumetric modulated arc therapy chest wall irradiation.
-
-*Keiper TD, Kisling K, Hua P, Manger RP* — Journal of applied clinical medical physics (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** To compare the superficial dose when using brass mesh bolus (BMB), no bolus, or 3 mm tissue-equivalent bolus with a pseudo-flash volumetric modulated arc therapy (VMAT) breast treatment planning technique. METHODS: Two different beam arrangements for right-sided irradiation and one beam arrangement for bilateral irradiation were planned on an inhomogeneous thorax phantom in accordance with our cli…
-
-
-??? note "Abstract"
-    PURPOSE: To compare the superficial dose when using brass mesh bolus (BMB), no bolus, or 3 mm tissue-equivalent bolus with a pseudo-flash volumetric modulated arc therapy (VMAT) breast treatment planning technique. METHODS: Two different beam arrangements for right-sided irradiation and one beam arrangement for bilateral irradiation were planned on an inhomogeneous thorax phantom in accordance with our clinical practice for VMAT postmastectomy radiotherapy (PMRT). Plans were optimized using pseudo-flash and representative critical organ optimization structures were used to shape the dose. Plans were delivered without bolus, with 3 mm tissue-equivalent bolus (TEB), or with one-layer BMB. Optically stimulated luminescence dosimeter (OSLD) and radiochromic film measurements were taken and analyzed to determine the superficial dose in each case and the relative enhancement from the no bolus delivery. RESULTS: Superficial dose measured with OSLDs was found to be 76.4 ± 4.5%, 103.0 ± 6.1%, and 98.1 ± 5.8% of prescription for no physical bolus (NB), TEB, and BMB, respectively. Superficial dose was observed to increase from lateral to medial points when measured with film. However, the relative increase in superficial dose from NB was consistent across the profile with an increase of 43 ± 2.1% and 34 ± 3.3% of prescription for TEB and BMB, respectively. The results are in good agreement with expectations from the literature and the experience with tangential radiotherapy. CONCLUSION: Three millimeter TEB and one-layer BMB were shown to provide similar enhancement to the superficial dose compared to delivery without bolus. BMB, which does not significantly affect dose at depth and is more conformal to the patient surface, is an acceptable alternative to 3 mm TEB for chest wall PMRT patients treated with pseudo-flash PMRT.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37287131/) · [DOI](https://doi.org/10.1016/j.meddos.2018.04.006) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7522917/)
-
-
----
-
 ### Measurement of the time structure of FLASH beams using prompt gamma rays and secondary neutrons as surrogates.
 
 *Charyyev S, Liu R, Yang X, Zhou J, Dhabaan A, Dynan WS et al.* — Physics in medicine and biology (2023)  
@@ -3374,44 +3184,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Optimal Combination of Pitch, Modulation Factor and Dosimetric Considerations in Treatment Planning for Total Body Irradiation Using Helical Tomotherapy.
-
-*Kaliyaperumal V, Kataria T, Tamilselvan S, Gupta D, Abraham SK, Narang K et al.* — Asian Pacific journal of cancer prevention : APJCP (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** The aim of this study is to makethe standard total body irradiation (TBI) protocol for Helical tomotherapy© (HT) and to analyze the optimal pitch and modulation factor (MF) with respect to dose homogeneity index (HI), target dose coverage, target overdose, beam on time (BOT) and mean lung dose. MATERIALS AND METHODS: Ten patients who underwent high-dose TBI were taken for this study.
-
-
-??? note "Abstract"
-    OBJECTIVE: The aim of this study is to makethe standard total body irradiation (TBI) protocol for Helical tomotherapy© (HT) and to analyze the optimal pitch and modulation factor (MF) with respect to dose homogeneity index (HI), target dose coverage, target overdose, beam on time (BOT) and mean lung dose. MATERIALS AND METHODS: Ten patients who underwent high-dose TBI were taken for this study. For each patient, 35 dose plans were created by different combination of pitch and MF. The optimal pitch and MF were deduced using scatter plot and regression methodology based on target coverage, HI, target volume receiving 103%(V103%), 105%(V105%) and 107% (V107%) of the prescription dose and BOT. Using these optimal pitch and MF, the final dose plan was made and the planning aim and achieved dose was compared using two tailed student&#x27;s t-test. Radiochromic films and ionization chambers were used to measure the delivered dose using anthropomorphic phantom on various points for the head and pelvis regions to verify the skin flash margin and its effect on skin dose. RESULTS: The optimal pitch and MF value were 0.287 and 2.4 respectively. Based on optimal pitch and MF, the mean BOT was 1692 seconds with optimal inhomogeneity (7.4%). For target, D95 and D98 were 97.09% (range:94.7-99.6%, p=0.002) and 93.9% (range:91.5-94.4%,p=0.007) respectively, and mean D2 was within 107% with SD of ±1.22% (p=0.04). The mean of PTV receiving V103, V105 and V107 was 24.48% (range=7.7-36.6%, p=0.03), 5.76% (range=1.4-12.1%, SD=±3.3%), 1.93% (range=0.1-4.6%, p=0.008) respectively. Our measurements show that the flash margin did not increase the skin dose. CONCLUSION: In our study, the optimal combination of pitch value of 0.287 and MF value of 2.4 provided acceptable plans for all patients planned for TBI in HT. The flash margin can provide adequate coverage during patient position uncertainty without increasing the skin dose.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37116146/) · [DOI](https://doi.org/10.31557/APJCP.2023.24.4.1239) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805769/)
-
-
----
-
-### Microstructure Formation and Mechanical Properties of Metastable Titanium-Based Gradient Coating Fabricated via Intense Pulse Ion Beam Melt Mixing.
-
-*Xu M, Yu X, Zhang S, Yan S, Tarbokov V, Remnev G et al.* — Materials (Basel, Switzerland) (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The unique flash heating characteristics of intense pulsed ion beams (IPIB) offer potential advantages to fabricate high-performance coatings with non-equilibrium structures. In this study, titanium-chromium (Ti-Cr) alloy coatings are prepared through magnetron sputtering and successive IPIB irradiation, and the feasibility of IPIB melt mixing (IPIBMM) for a film-substrate system is verified via f…
-
-
-??? note "Abstract"
-    The unique flash heating characteristics of intense pulsed ion beams (IPIB) offer potential advantages to fabricate high-performance coatings with non-equilibrium structures. In this study, titanium-chromium (Ti-Cr) alloy coatings are prepared through magnetron sputtering and successive IPIB irradiation, and the feasibility of IPIB melt mixing (IPIBMM) for a film-substrate system is verified via finite elements analysis. The experimental results reveal that the melting depth is 1.15 μm under IPIB irradiation, which is in close agreement with the calculation value (1.18 μm). The film and substrate form a Ti-Cr alloy coating by IPIBMM. The coating has a continuous gradient composition distribution, metallurgically bonding on the Ti substrate via IPIBMM. Increasing the IPIB pulse number leads to more complete element mixing and the elimination of surface cracks and craters. Additionally, the IPIB irradiation induces the formation of supersaturated solid solutions, lattice transition, and preferred orientation change, contributing to an increase in hardness and a decrease in elastic modulus with continuous irradiation. Notably, the coating treated with 20 pulses demonstrates a remarkable hardness (4.8 GPa), more than twice that of pure Ti, and a lower elastic modulus (100.3 GPa), 20% less than that of pure Ti. The analysis of the load-displacement curves and H-E ratios indicates that the Ti-Cr alloy coated samples exhibit better plasticity and wear resistance compared to pure Ti. Specifically, the coating formed after 20 pulses exhibits exceptional wear resistance, as demonstrated by its H3/E2 value being 14 times higher than that of pure Ti. This development provides an efficient and eco-friendly method for designing robust-adhesion coatings with specific structures, which can be extended to various bi- or multi-element material systems.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37109863/) · [DOI](https://doi.org/10.1016/j.apsusc.2015.05.110) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8625362/)
-
-
----
-
 ### Clinical Linear Accelerator-Based Electron FLASH: Pathway for Practical Translation to FLASH Clinical Trials.
 
 *No HJ, Wu YF, Dworkin ML, Manjappa R, Skinner L, Ashraf MR et al.* — International journal of radiation oncology, biology, physics (2023)  
@@ -3503,25 +3275,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36932693/) · [DOI](https://doi.org/10.1002/mp.16364)
-
-
----
-
-### Selective Preparation of Phosphorus Mononitride (P≡N) from Phosphinoazide and Reversible Oxidation to Phosphinonitrene.
-
-*Qian W, Wende RC, Schreiner PR, Mardyukov A* — Angewandte Chemie (International ed. in English) (2023)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The interstellar candidate phosphorus mononitride PN, a metastable species, was generated through high-vacuum flash pyrolysis of (o-phenyldioxyl)phosphinoazide in cryogenic matrices. Although the PN stretching band was not directly detected because of its low infrared intensity and possible overlaps with other strong bands, o-benzoquinone, carbon monoxide, and cyclopentadienone as additional fragm…
-
-
-??? note "Abstract"
-    The interstellar candidate phosphorus mononitride PN, a metastable species, was generated through high-vacuum flash pyrolysis of (o-phenyldioxyl)phosphinoazide in cryogenic matrices. Although the PN stretching band was not directly detected because of its low infrared intensity and possible overlaps with other strong bands, o-benzoquinone, carbon monoxide, and cyclopentadienone as additional fragmentation products were clearly identified. Moreover, an elusive o-benzoquinone-PN complex formed when (o-phenyldioxyl)phosphinoazide was exposed to UV irradiation at λ=254 nm. Its recombination to (o-phenyldioxyl)-λ5 -phosphinonitrile was observed upon irradiation with the light at λ=523 nm, which demonstrates for the first time the reactivity of PN towards an organic molecule. Energy profile computations at the B3LYP/def2-TZVP density functional theory level reveal a concerted mechanism. To provide further evidence, UV/Vis spectra of the precursor and the irradiation products were recorded and agree well with time-dependent DFT computations.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36877095/) · [DOI](https://doi.org/10.1002/anie.202300761)
 
 
 ---
@@ -4234,25 +3987,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Increased sanitization potency of hydrogen peroxide with synergistic O3 and intense pulsed light for non-woven polypropylene.
-
-*Jeong R, Kumar H, Jones S, Sandwell A, Kim K, Park SS* — RSC advances (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Supplies of respiratory masks have recently become a concern due to the onset of the SARS-CoV-2 pandemic. Sanitization and reuse of masks can alleviate high mask consumption and production stresses.
-
-
-??? note "Abstract"
-    Supplies of respiratory masks have recently become a concern due to the onset of the SARS-CoV-2 pandemic. Sanitization and reuse of masks can alleviate high mask consumption and production stresses. In the present work, improved sanitization potency of vaporous hydrogen peroxide (VHP) treatment of resilient bacterial spores while retaining polymeric filter performance was explored. A batch fumigation chamber with hydrogen peroxide (H2O2) vapor and ozone (O3) is featured, followed by intense pulsed light (IPL) flash treatments. A resilient bacterial indicator, Geobacillus stearothermophilus (G. stearothermophilus), was utilized to compare the efficacy of various H2O2 concentrations in combination with O3 and IPL. It was found that exposure to 30 minutes of 4.01 L min-1 0.03% H2O2 aqueous vapor and 3 g h-1 O3 followed by 10 IPL flashes per side completely inactivated G. stearothermophilus. The xenon sourced IPL irradiation was found to synergistically enhance radical production and strengthen the complementary biocidal interaction of H2O2 with O3. Due to the synergistic effects, H2O2 was able to sanitize at a diluted concentration of 0.03% H2O2. The physical properties, such as surface potential, tensile strength, hydrophobicity, and filtration efficiency of &gt;300 nm saline water aerosol of fibrous polypropylene (PP) sheets, were maintained. In addition, no residue of sanitizers was detected, thus confirming the biosafety and applicability of this method to disposable masks. Performance was benchmarked and compared with commercially available processes. The synergistic regime was found to achieve sterilization of G. stearothermophilus at drastically reduced H2O2 concentrations and in ambient conditions relative to commercial methods.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35479023/) · [DOI](https://doi.org/10.1109/66.330281) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8185421/)
-
-
----
-
 ### Characterization of an x-ray tube-based ultrahigh dose-rate system for in vitro irradiations.
 
 *Cecchi DD, Therriault-Proulx F, Lambert-Girard S, Hart A, Macdonald A, Pfleger M et al.* — Medical physics (2021)  
@@ -4386,25 +4120,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Pulsed X-ray source with the pulse duration of 50 ns and the peak power of 70 MW for capturing moving objects.
-
-*Komarskiy AA, Korzhenevskiy SR, Ponomarev AV, Komarov NA* — Journal of X-ray science and technology (2021)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Traditionally, X-ray systems for capturing moving objects consist of a continuous X-ray source and a detector that operates at a predetermined frame rate. OBJECTIVE: This study investigates the possibility of using pulsed X-ray source with an inductive energy storage device and a semiconductor opening switch for shooting moving objects.
-
-
-??? note "Abstract"
-    BACKGROUND: Traditionally, X-ray systems for capturing moving objects consist of a continuous X-ray source and a detector that operates at a predetermined frame rate. OBJECTIVE: This study investigates the possibility of using pulsed X-ray source with an inductive energy storage device and a semiconductor opening switch for shooting moving objects. METHODS: The study uses a high-voltage pulse generator that has the following parameters namely, the pulse voltage amplitude up to 320 kV, the pulse current up to 240 A, the current pulse duration of about 50 ns, and the pulse repetition rate up to 2 kHz. The duration and intensity of glow for standard CsI:Tl and Gd2O2S:Tb X-ray phosphors after their irradiation with X-ray flashes of about 50 ns duration are investigated. After X-ray radiation is converted into light, the signal is recorded using semiconductor detectors. We acquired several images of an object moving at a speed of about 20 m/s. A semiconductor detector with phosphor, which operates in the mode of continuous signal accumulation, is used. RESULTS: When using the pulsed X-ray source and phosphors with a short afterglow, the individual frames can be obtained at the pulse repetition rate of several kilohertz, and the detector does not contain the residual luminescence from the previous frame by the arrival of the next frame. CONCLUSIONS: The X-ray source shows good pulse-to-pulse reproducibility of X-rays, and can be used to capture objects in motion at a frame rate of several kHz.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33998592/) · [DOI](https://doi.org/10.3233/XST-210873)
-
-
----
-
 ### Miniaturized scintillator dosimeter for small field radiation therapy.
 
 *Gonod M, Chacon Avila C, Angel Suarez M, Crouzilles J, Laskri S, Vinchant JF et al.* — Physics in medicine and biology (2021)  
@@ -4439,25 +4154,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33906166/) · [DOI](https://doi.org/10.1088/1361-6560/abfbf2)
-
-
----
-
-### Engineering Nanoparticulate Organic Photocatalysts via a Scalable Flash Nanoprecipitation Process for Efficient Hydrogen Production.
-
-*Yu M, Zhang W, Guo Z, Wu Y, Zhu W* — Angewandte Chemie (International ed. in English) (2021)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Directly converting sunlight into hydrogen fuels using particulate photocatalysts represents a sustainable route for clean energy supply. Organic semiconductors have emerged as attractive candidates but always suffer from optical and exciton recombination losses with large exciton &quot;dead zone&quot; inside the bulk material, severely limiting the catalytic performance.
-
-
-??? note "Abstract"
-    Directly converting sunlight into hydrogen fuels using particulate photocatalysts represents a sustainable route for clean energy supply. Organic semiconductors have emerged as attractive candidates but always suffer from optical and exciton recombination losses with large exciton &quot;dead zone&quot; inside the bulk material, severely limiting the catalytic performance. Herein, we demonstrate a facile strategy that combines a scalable flash nanoprecipitation (FNP) method with hydrophilic soluble polymers (PC-PEG5 and PS-PEG5) to prepare highly efficient nanosized photocatalysts without using surfactants. Significantly, a 70-fold enhancement of hydrogen evolution rate (HER) is achieved for nanosized PC-PEG5, and the FNP-processed PS-PEG5 shows a peak HER rate of up to 37.2 mmol h-1  g-1 under full-spectrum sunlight irradiation, which is among the highest results for polymer photocatalysts. A scaling-up production of nanocatalyst is demonstrated with the continuously operational FNP.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33890390/) · [DOI](https://doi.org/10.1002/anie.202104233)
 
 
 ---
@@ -4515,25 +4211,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33730367/) · [DOI](https://doi.org/10.1109/TNS.2002.803680) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1780266/)
-
-
----
-
-### Synthesis of silver nanoparticles embedded with single-walled carbon nanotubes for printable elastic electrodes and sensors with high stability.
-
-*Lee JW, Cho JY, Kim MJ, Kim JH, Park JH, Jeong SY et al.* — Scientific reports (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Soft electronic devices that are bendable and stretchable require stretchable electric or electronic components. Nanostructured conducting materials or soft conducting polymers are one of the most promising fillers to achieve high performance and durability.
-
-
-??? note "Abstract"
-    Soft electronic devices that are bendable and stretchable require stretchable electric or electronic components. Nanostructured conducting materials or soft conducting polymers are one of the most promising fillers to achieve high performance and durability. Here, we report silver nanoparticles (AgNPs) embedded with single-walled carbon nanotubes (SWCNTs) synthesized in aqueous solutions at room temperature, using NaBH4 as a reducing agent in the presence of highly oxidized SWCNTs as efficient nucleation agents. Elastic composite films composed of the AgNPs-embedded SWCNTs, Ag flake, and polydimethylsiloxane are irradiated with radiation from a Xenon flash lamp within a time interval of one second for efficient sintering of conductive fillers. Under high irradiation energy, the stretchable electrodes are created with a maximum conductivity of 4,907 S cm-1 and a highly stretchable stability of over 10,000 cycles under a 20% strain. Moreover, under a low irradiation energy, strain sensors with a gauge factor of 76 under a 20% strain and 5.4 under a 5% strain are fabricated. For practical demonstration, the fabricated stretchable electrode and strain sensor are attached to a human finger for detecting the motions of the finger.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33664300/) · [DOI](https://doi.org/10.1021/acsami.5b05001) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4491189/)
 
 
 ---
@@ -4918,18 +4595,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### In regards to Bogue J, Wan J, Lavey RS, Parsai EI. Dosimetric comparison of VMAT with integrated skin flash to 3D field-in-field tangents for left breast irradiation. Journal of applied clinical medical physics. 2019 Feb;20(2):24-9.
-
-*Sarkar B, Ganesh T, Munshi A, Bansal K, Rastogi K, Tiwari S et al.* — Journal of applied clinical medical physics (2019)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31087768/) · [DOI](https://doi.org/10.1002/acm2.12607) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404692/)
-
-
----
-
 ### Simulation and experimental validation of a prototype electron beam linear accelerator for preclinical studies.
 
 *Lansonneur P, Favaudon V, Heinrich S, Fouillade C, Verrelle P, De Marzi L* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2019)  
@@ -4945,63 +4610,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/31000086/) · [DOI](https://doi.org/10.1016/j.ejmp.2019.03.016)
-
-
----
-
-### Dosimetric comparison of VMAT with integrated skin flash to 3D field-in-field tangents for left breast irradiation.
-
-*Bogue J, Wan J, Lavey RS, Parsai EI* — Journal of applied clinical medical physics (2019)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Volumetric modulated arc therapy (VMAT) has been implemented for left breast irradiation to reduce prescription dose to the heart and improve dose homogeneity across the targeted breast. Our in-house method requires application of a bolus during the optimization process with a target outside of the body, then removing the bolus during the final calculation in order to incorporate skin flash in VMA…
-
-
-??? note "Abstract"
-    Volumetric modulated arc therapy (VMAT) has been implemented for left breast irradiation to reduce prescription dose to the heart and improve dose homogeneity across the targeted breast. Our in-house method requires application of a bolus during the optimization process with a target outside of the body, then removing the bolus during the final calculation in order to incorporate skin flash in VMAT plans. To quantify the dosimetric trade-offs between traditional 3D field-in-field tangents and VMAT with integrated skin flash for these patients, we compared nine consecutive patients who recently received radiation to their entire left breast but not their regional lymphatics. Tangent plans used non-divergent tangents of mixed energies and VMAT plans utilized four 6 MV arcs of roughly 260°. Mean dose to the heart, contralateral lung, and contralateral breast and their volume receiving 5%, 10%, and 20% of the prescription dose were higher in all nine VMAT plans than in the static tangential beam plans. For all critical structures, the mean VMAT DVH was higher in the low-dose region and crossed the 3D field-in-field DVH between 23.13% and 34.18% of the prescription dose (984.75-1454.70 cGy). However, the volume of the contralateral breast and heart receiving the prescription dose was slightly lower in the VMAT plans, but not statistically significant. VMAT provided superior homogeneity, with a mean homogeneity index of 9.41 ± 1.64 compared to 11.05 ± 1.82 for 3D tangents. Results indicate that VMAT spares the heart, contralateral lung, and contralateral breast from prescription dose at the cost of increasing their mean and low-dose volume and delivers a more homogenous dose distribution to the breast. For these reasons, VMAT is selectively applied at the request of the physician for left breast radiation without respiratory gating to spare the heart from prescription dose in cases of poor anatomical geometry.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/30653831/) · [DOI](https://doi.org/10.1002/acm2.12527) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532749/)
-
-
----
-
-### Integrated skin flash planning technique for intensity-modulated radiation therapy for vulvar cancer prevents marginal misses and improves superficial dose coverage.
-
-*Dyer BA, Jenshus A, Mayadev JS* — Medical dosimetry : official journal of the American Association of Medical Dosimetrists (2019)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Radiation therapy (RT) plays a definitive role in locally advanced vulvar cancer, and in the adjuvant setting with high risk postoperative features after wide local excision. There is significant morbidity associated with traditional, large RT fields using 2D or 3D techniques, and the use of intensity-modulated radiation therapy (IMRT) in vulvar cancer is increasing.
-
-
-??? note "Abstract"
-    INTRODUCTION: Radiation therapy (RT) plays a definitive role in locally advanced vulvar cancer, and in the adjuvant setting with high risk postoperative features after wide local excision. There is significant morbidity associated with traditional, large RT fields using 2D or 3D techniques, and the use of intensity-modulated radiation therapy (IMRT) in vulvar cancer is increasing. However, there remains a paucity of technical information regarding the prevention of a marginal miss during the treatment planning process. The use of an integrated skin flash (ISF) during RT planning can be used to account for anatomic variation, and intra- and interfraction motion seen during treatment. CASE DESCRIPTION: Herein we present the case of a patient with a T1aN0M0, Stage IA vulva cancer to illustrate the progressive vulvar swelling and lymph edema seen during treatment and retrospectively evaluate the dosimetric effects of using an ISF RT plan vs standard RT planning techniques. CONCLUSIONS: Standard planning techniques to treat vulvar cancer patients with IMRT do not sufficiently account for the change in patient anatomy and can lead to a marginal miss. ISF is an RT planning technique that can decrease the risk of a marginal miss and the technique is easily implemented during the planning stages of RT treatment. Furthermore, use of an ISF technique can improve vulvar clinical target volume coverage and plan homogeneity. Based on our experience, and this study, a 2-cm ISF is suggested to account for variations in daily clinical setup and changes in patient anatomy during treatment.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/29500108/) · [DOI](https://doi.org/10.1016/j.meddos.2018.01.003)
-
-
----
-
-### Two step porosification of biomimetic thin-film hydroxyapatite/alpha-tri calcium phosphate coatings by pulsed electron beam irradiation.
-
-*Stuart BW, Murray JW, Grant DM* — Scientific reports (2018)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Here we show a new and effective methodology for rapid/controllable porosification of thin-film ceramics, which may be applied in medical devices/electronics and membrane nano-filtration. Dense hydroxyapatite applied to Ti6Al4V by plasma-assisted PVD was electron-beam irradiated to induce flash melting/boiling.
-
-
-??? note "Abstract"
-    Here we show a new and effective methodology for rapid/controllable porosification of thin-film ceramics, which may be applied in medical devices/electronics and membrane nano-filtration. Dense hydroxyapatite applied to Ti6Al4V by plasma-assisted PVD was electron-beam irradiated to induce flash melting/boiling. Deposited coatings contained amorphous and nano-crystalline/stoichiometric hydroxyapatite (~35 nm). Irradiation (voltages 13-29 kV) led to ablation (up to 45% mass loss) and average/maximum pore areas from (0.07-1.66)/(0.69-92.53) μm2, mimicking the human cortical bone. Vitrification above 1150 °C formed (~62-30 nm) crystallites of α-Tri Calcium Phosphate. Unique porosification resulted from irradiation-induced sub-surface boiling and limited thermal conductivity of hydroxyapatite, causing material to expand/explode through the more quickly solidified top surface. Commercially applicable, roughened Ti6Al4V exacerbated the heating and boiling explosion phenomenon in certain regions, producing an array of pore sizes. Scaffold-like morphologies were generated by interconnection of micron/sub-micron porosity, showing great potential for facile generation of a biomimetic surface treatment for osseointegration.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/30266971/) · [DOI](https://doi.org/10.1016/j.biomaterials.2006.09.013) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4830967/)
 
 
 ---
@@ -5025,25 +4633,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Dosimetric effects of anatomical deformations and positioning errors in VMAT breast radiotherapy.
-
-*Rossi M, Boman E, Skyttä T, Haltamo M, Laaksomaa M, Kapanen M* — Journal of applied clinical medical physics (2018)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Traditional radiotherapy treatment techniques of the breast are insensitive for deformations and swelling of the soft tissue. The purpose of this study was to evaluate the dose changes seen with tissue deformations using different image matching methods when VMAT technique was used, and compare these with tangential technique.
-
-
-??? note "Abstract"
-    AIM: Traditional radiotherapy treatment techniques of the breast are insensitive for deformations and swelling of the soft tissue. The purpose of this study was to evaluate the dose changes seen with tissue deformations using different image matching methods when VMAT technique was used, and compare these with tangential technique. METHODS: The study included 24 patients with breast or chest wall irradiations, nine of whom were bilateral. In addition to planar kV setup imaging, patients underwent weekly cone-beam computed tomography (CBCT) imaging to evaluate soft tissue deformations. The effect of the deformations was evaluated on VMAT plans optimized with 5-mm virtual bolus to create skin flash, and compared to standard tangential plans with 2.5 cm skin flash. Isocenter positioning using 2D imaging and CBCT were compared. RESULTS: With postural changes and soft tissue deformations, the target coverage decreased more in the VMAT plans than in the tangential plans. The planned V90% coverage was 98.3% and 99.0% in the tangential and VMAT plans, respectively. When tattoo-based setup and online 2D match were used, the coverage decreased to 97.9% in tangential and 96.5% in VMAT plans (P &lt; 0.001). With automatic CBCT-based image match the respective coverages were 98.3% and 98.8%. In the cases of large soft tissue deformations, the replanning was needed for the VMAT plan, whereas the tangential plan still covered the whole target volume. CONCLUSIONS: The skin flash created using an optimization bolus for VMAT plans was in most cases enough to take into account the soft tissue deformations seen in breast VMAT treatments. However, in some cases larger skin flash or replanning were needed. The use of 2D match decreased the target coverage for VMAT plans but not for FinF plans when compared to 3D match. The use of CBCT match is recommended when treating breast/chest wall patients with VMAT technique.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/29978548/) · [DOI](https://doi.org/10.1016/j.ejmp.2016.10.012) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5714412/)
-
-
----
-
 ### Directly monitor protein rearrangement on a nanosecond-to-millisecond time-scale.
 
 *Chen EH, Lu TT, Hsu JC, Tseng YJ, Lim TS, Chen RP* — Scientific reports (2017)  
@@ -5059,82 +4648,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/28821738/) · [DOI](https://doi.org/10.1016/j.abb.2012.10.006) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3625349/)
-
-
----
-
-### Flash Light Millisecond Self-Assembly of High χ Block Copolymers for Wafer-Scale Sub-10 nm Nanopatterning.
-
-*Jin HM, Park DY, Jeong SJ, Lee GY, Kim JY, Mun JH et al.* — Advanced materials (Deerfield Beach, Fla.) (2017)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** One of the fundamental challenges encountered in successful incorporation of directed self-assembly in sub-10 nm scale practical nanolithography is the process compatibility of block copolymers with a high Flory-Huggins interaction parameter (χ). Herein, reliable, fab-compatible, and ultrafast directed self-assembly of high-χ block copolymers is achieved with intense flash light.
-
-
-??? note "Abstract"
-    One of the fundamental challenges encountered in successful incorporation of directed self-assembly in sub-10 nm scale practical nanolithography is the process compatibility of block copolymers with a high Flory-Huggins interaction parameter (χ). Herein, reliable, fab-compatible, and ultrafast directed self-assembly of high-χ block copolymers is achieved with intense flash light. The instantaneous heating/quenching process over an extremely high temperature (over 600 °C) by flash light irradiation enables large grain growth of sub-10 nm scale self-assembled nanopatterns without thermal degradation or dewetting in a millisecond time scale. A rapid self-assembly mechanism for a highly ordered morphology is identified based on the kinetics and thermodynamics of the block copolymers with strong segregation. Furthermore, this novel self-assembly mechanism is combined with graphoepitaxy to demonstrate the feasibility of ultrafast directed self-assembly of sub-10 nm nanopatterns over a large area. A chemically modified graphene film is used as a flexible and conformal light-absorbing layer. Subsequently, transparent and mechanically flexible nanolithography with a millisecond photothermal process is achieved leading the way for roll-to-roll processability.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/28635174/) · [DOI](https://doi.org/10.1002/adma.201700595)
-
-
----
-
-### Multi-pulse flash light sintering of bimodal Cu nanoparticle-ink for highly conductive printed Cu electrodes.
-
-*Yu MH, Joo SJ, Kim HS* — Nanotechnology (2017)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this work, bimodal Cu nano-inks composed of two different sizes of Cu nanoparticles (NPs) (40 and 100 nm in diameter) were successfully sintered with a multi-pulse flashlight sintering technique. Bimodal Cu nano-inks were fabricated and printed with various mixing ratios and subsequently sintered by a flash light sintering method.
-
-
-??? note "Abstract"
-    In this work, bimodal Cu nano-inks composed of two different sizes of Cu nanoparticles (NPs) (40 and 100 nm in diameter) were successfully sintered with a multi-pulse flashlight sintering technique. Bimodal Cu nano-inks were fabricated and printed with various mixing ratios and subsequently sintered by a flash light sintering method. The effects of the flashlight sintering conditions, including irradiation energy and pulse number, were investigated to optimize the sintering conditions. A detailed mechanism of the sintering of bimodal Cu nano-ink was also studied via real-time resistance measurement during the sintering process. The sintered Cu nano-ink films were characterized using x-ray photoelectron spectroscopy and scanning electron microscopy. From these results, it was found that the optimal ratio of 40-100 nm NPs was found to be 25:75 wt%, and the optimal multi-pulse flash light sintering condition (irradiation energy: 6 J cm-2, and pulse duration: 1 ms, off-time: 4 ms, and pulse number: 5) was found. The optimally sintered Cu nano-ink film exhibited the lowest resistivity of 5.68 μΩ cm and 5B adhesion level.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/28402291/) · [DOI](https://doi.org/10.1088/1361-6528/aa6cda)
-
-
----
-
-### Ra-226 bioaccumulation and growth indices in fish.
-
-*Shi X, Smith R, Seymour C, Mothersill C* — International journal of radiation biology (2017)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** To determine the accumulated activity of Ra-226 in fathead minnows fed with environmentally relevant levels of Ra-226 for 5 months in water at 20 °C, and to evaluate the influence of this level of Ra-226 on the growth of fathead minnows. METHODS: Fathead minnows were fed with fish food containing 10-10,000 mBq/g Ra-226 for 5 months.
-
-
-??? note "Abstract"
-    PURPOSE: To determine the accumulated activity of Ra-226 in fathead minnows fed with environmentally relevant levels of Ra-226 for 5 months in water at 20 °C, and to evaluate the influence of this level of Ra-226 on the growth of fathead minnows. METHODS: Fathead minnows were fed with fish food containing 10-10,000 mBq/g Ra-226 for 5 months. At the end of the experiment, the fish were sacrificed, flash frozen in liquid nitrogen and kept at -20 °C. Longitudinal sections of 40 μm thickness were cut at the middle of the fish body using a cryostat. The activity of Ra-226 in each section was determined using autoradiography with a nuclear track detector CR-39. According to the weight and the width of the fish, the activity of Ra-226 in the whole fish body could be estimated. In addition, the length and the weight of the fish were measured and the condition factor was calculated to evaluate the growth and fitness of the fish. RESULTS: There is a positive but non-linear relationship between the accumulated activity of Ra-226 in fish body and the concentration of Ra-226 in fish food. The highest activity of Ra-226 accumulated in fish body was found from fish fed with 10,000 mBq/g Ra-226 food. This was calculated as 256.4 ± 49.1 mBq/g, p &lt; 0.05, and the calculated dose rate was 6.2 ± 1.2 mGy/y. For fish fed with food containing lower concentration of Ra-226 (up to 1000 mBq/g), the bioaccumulation of Ra-226 in the body saturated. The Ra-226 concentration factor (CF) for fish was inversely proportional to the Ra-226 activity in food, and the highest CF value was 2.489, obtained from the lowest dietary Ra-226 activity (10 mBq/g). In addition, condition factors (K) of fish in all Ra-226-treated groups were significantly lower than those of the controls. CONCLUSION: The results show that the bioaccumulation of Ra-226 in fish is not simply related to the dietary Ra-226 activity, and has a saturation value when the dietary activity is low. In addition, the environmental level of Ra-226 in the fish food has a small adverse effect on the growth and fitness of fathead minnows.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/28290238/) · [DOI](https://doi.org/10.1080/09553002.2017.1297900)
-
-
----
-
-### Trapping of excess energy in a nano-layered microenvironment to promote chemical reactions.
-
-*Ramakrishnan V, Nabetani Y, Yamamoto D, Shimada T, Tachibana H, Inoue H* — Physical chemistry chemical physics : PCCP (2017)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Nano-layered hybrid compounds composed of a polyfluoroalkyl azobenzene surfactant (abbreviated as C3F-Azo-C6H) and layered inorganic nanosheets undergo three-dimensional morphological changes such as reversible shrinkage and expansion of interlayer spaces, and nanosheet sliding by photo-irradiation. Previously, we have investigated the photoreactivity of C3F-Azo-C6H/clay nano-layered hybrids in va…
-
-
-??? note "Abstract"
-    Nano-layered hybrid compounds composed of a polyfluoroalkyl azobenzene surfactant (abbreviated as C3F-Azo-C6H) and layered inorganic nanosheets undergo three-dimensional morphological changes such as reversible shrinkage and expansion of interlayer spaces, and nanosheet sliding by photo-irradiation. Previously, we have investigated the photoreactivity of C3F-Azo-C6H/clay nano-layered hybrids in various microenvironments and found a remarkable enhancement in the photoreactivity for the cis-trans photo-isomerization reaction (Φcis-trans = 1.9). In this paper, nanosecond and microsecond dynamics of trans-C3F-Azo-C6H and its assembly in various microenvironments have been studied by laser flash photolysis to get deeper insight into the extraordinary reactivity of the molecular assembly in the nano-layered microenvironment. In solution, the molecular trans-C3F-Azo-C6H exhibited only a depletion of the trans-form of azobenzene upon the laser pulse excitation. On the other hand, in the case of the C3F-Azo-C6H/clay hybrid film, the depletion of the trans-form was drastically recovered in three steps on nano- and microsecond timescales. This indicates that the once reacted C3F-Azo-C6H molecule (cis-C3F-Azo-C6H) was reverted back to the trans-form after the laser pulse. It is considered that the excess energy provided by the photo-excitation, which is immediately dissipated to the surrounding media through the intermolecular vibrational modes in solution, is trapped in the nano-layered microenvironment to thermally revert the cis-form back to the trans-form. Conversely, in the case of cis-trans isomerization of the C3F-Azo-C6H/clay hybrid film upon photo-irradiation, the reactivity would be much enhanced by the additional contribution of the thermal excess energy efficiently trapped in the nano-layered microenvironment. As compared with the hydrocarbon analogue (C3H-Azo-C6H), the subsequent recovery was very much enhanced in the C3F-Azo-C6H/clay film. The polyfluoroalkyl part of the surfactant layer plays a key role in the retarded dissipation of the excess energy by photo-excitation, which might be coupled with the three-dimensional morphological motion with efficient isomerization reactions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/28128823/) · [DOI](https://doi.org/10.1039/c6cp08414a)
 
 
 ---
@@ -5158,63 +4671,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Welding of silver nanowire networks via flash white light and UV-C irradiation for highly conductive and reliable transparent electrodes.
-
-*Chung WH, Kim SH, Kim HS* — Scientific reports (2016)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this work, silver nanowire inks with hydroxypropyl methylcellulose (HPMC) binders were coated on polyethylene terephthalate (PET) substrates and welded via flash white light and ultraviolet C (UV-C) irradiation to produce highly conductive transparent electrodes. The coated silver nanowire films were firmly welded and embedded into PET substrate successfully at room temperature and under ambien…
-
-
-??? note "Abstract"
-    In this work, silver nanowire inks with hydroxypropyl methylcellulose (HPMC) binders were coated on polyethylene terephthalate (PET) substrates and welded via flash white light and ultraviolet C (UV-C) irradiation to produce highly conductive transparent electrodes. The coated silver nanowire films were firmly welded and embedded into PET substrate successfully at room temperature and under ambient conditions using an in-house flash white light welding system and UV-C irradiation. The effects of light irradiation conditions (light energy, irradiation time, pulse duration, and pulse number) on the silver nanowire networks were studied and optimized. Bending fatigue tests were also conducted to characterize the reliability of the welded transparent conductive silver nanowire films. The surfaces of the welded silver nanowire films were analyzed via scanning electron microscopy (SEM), while the transmittance of the structures was measured using a spectrophotometer. From the results, a highly conductive and transparent silver nanowire film with excellent reliability could be achieved at room temperature under ambient conditions via the combined flash white light and UV-C irradiation welding process.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27553755/) · [DOI](https://doi.org/10.1038/srep32086) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3212223/)
-
-
----
-
-### Intensive Plasmonic Flash Light Sintering of Copper Nanoinks Using a Band-Pass Light Filter for Highly Electrically Conductive Electrodes in Printed Electronics.
-
-*Hwang YT, Chung WH, Jang YR, Kim HS* — ACS applied materials &amp; interfaces (2016)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this work, an intensive plasmonic flash light sintering technique was developed by using a band-pass light filter matching the plasmonic wavelength of the copper nanoparticles. The sintering characteristics, such as resistivity and microstructure, of the copper nanoink films were studied as a function of the range of the wavelength employed in the flash white light sintering.
-
-
-??? note "Abstract"
-    In this work, an intensive plasmonic flash light sintering technique was developed by using a band-pass light filter matching the plasmonic wavelength of the copper nanoparticles. The sintering characteristics, such as resistivity and microstructure, of the copper nanoink films were studied as a function of the range of the wavelength employed in the flash white light sintering. The flash white light irradiation conditions (e.g., wavelength range, irradiation energy, pulse number, on-time, and off-time) were optimized to obtain a high conductivity of the copper nanoink films without causing damage to the polyimide substrate. The wavelength range corresponding to the plasmonic wavelength of the copper nanoparticles could efficiently sinter the copper nanoink and enhance its conductivity. Ultimately, the sintered copper nanoink films under optimal light sintering conditions showed the lowest resistivity (6.97 μΩ·cm), which was only 4.1 times higher than that of bulk copper films (1.68 μΩ·cm).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26975337/) · [DOI](https://doi.org/10.1021/acsami.5b12516)
-
-
----
-
-### All-photonic drying and sintering process via flash white light combined with deep-UV and near-infrared irradiation for highly conductive copper nano-ink.
-
-*Hwang HJ, Oh KH, Kim HS* — Scientific reports (2016)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** We developed an ultra-high speed photonic sintering method involving flash white light (FWL) combined with near infrared (NIR) and deep UV light irradiation to produce highly conductive copper nano-ink film. Flash white light irradiation energy and the power of NIR/deep UV were optimized to obtain high conductivity Cu films.
-
-
-??? note "Abstract"
-    We developed an ultra-high speed photonic sintering method involving flash white light (FWL) combined with near infrared (NIR) and deep UV light irradiation to produce highly conductive copper nano-ink film. Flash white light irradiation energy and the power of NIR/deep UV were optimized to obtain high conductivity Cu films. Several microscopic and spectroscopic characterization techniques such as scanning electron microscopy (SEM), a x-ray diffraction (XRD), and Fourier-transform infrared (FT-IR) spectroscopy were employed to characterize the Cu nano-films. Optimally sintered Cu nano-ink films produced using a deep UV-assisted flash white light sintering technique had the lowest resistivity (7.62 μΩ·cm), which was only 4.5-fold higher than that of bulk Cu film (1.68 μΩ•cm).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26806215/) · [DOI](https://doi.org/10.1038/srep19696) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432459/)
-
-
----
-
 ### Tolerance of Superficial Dose to Setup Error With Tomotherapy: Is a Skin Flash Tool Required?
 
 *Galle JO, Chilukuri MB, Buckley SL, Hall MJ, Wilcox LR, Ove R* — Technology in cancer research &amp; treatment (2016)  
@@ -5230,120 +4686,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25953965/) · [DOI](https://doi.org/10.1177/1533034615583760)
-
-
----
-
-### Copper Nanoparticle/Multiwalled Carbon Nanotube Composite Films with High Electrical Conductivity and Fatigue Resistance Fabricated via Flash Light Sintering.
-
-*Hwang HJ, Joo SJ, Kim HS* — ACS applied materials &amp; interfaces (2015)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this work, multiwalled carbon nanotubes (MWNTs) were employed to improve the conductivity and fatigue resistance of flash light sintered copper nanoparticle (NP) ink films. The effect of CNT weight fraction on the flash light sintering and the fatigue characteristics of Cu NP/CNT composite films were investigated.
-
-
-??? note "Abstract"
-    In this work, multiwalled carbon nanotubes (MWNTs) were employed to improve the conductivity and fatigue resistance of flash light sintered copper nanoparticle (NP) ink films. The effect of CNT weight fraction on the flash light sintering and the fatigue characteristics of Cu NP/CNT composite films were investigated. The effect of carbon nanotube length was also studied with regard to enhancing the conductivity and fatigue resistance of flash light sintered Cu NP/CNT composite films. The flash light irradiation energy was optimized to obtain high conductivity Cu NP/CNT composite films. Cu NP/CNT composite films fabricated via optimized flash light irradiation had the lowest resistivity (7.86 μΩ·cm), which was only 4.6 times higher than that of bulk Cu films (1.68 μΩ·cm). It was also demonstrated that Cu NP/CNT composite films had better durability and environmental stability than those of Cu NPs only.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26505908/) · [DOI](https://doi.org/10.1021/acsami.5b08112)
-
-
----
-
-### The Methylsulfonyloxyl Radical, CH3SO3.
-
-*Zhu B, Zeng X, Beckers H, Francisco JS, Willner H* — Angewandte Chemie (International ed. in English) (2015)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** The methylsulfonyloxyl radical, CH3SO3, one of the key intermediates in the atmospheric oxidation of dimethyl sulfide (DMS), was generated by flash pyrolysis of CH3SO2OOSO2CH3 and subsequently isolated in solid noble-gas matrices. The radical has been characterized by UV/Vis and IR spectroscopy and its tautomerization to CH2SO3H observed upon irradiation with light of λ≥360 nm.
-
-
-??? note "Abstract"
-    The methylsulfonyloxyl radical, CH3SO3, one of the key intermediates in the atmospheric oxidation of dimethyl sulfide (DMS), was generated by flash pyrolysis of CH3SO2OOSO2CH3 and subsequently isolated in solid noble-gas matrices. The radical has been characterized by UV/Vis and IR spectroscopy and its tautomerization to CH2SO3H observed upon irradiation with light of λ≥360 nm.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26248797/) · [DOI](https://doi.org/10.1002/anie.201503776)
-
-
----
-
-### Synthesis and testing of ZnO nanoparticles for photo-initiation: experimental observation of two different non-migration initiators for bulk polymerization.
-
-*Schmitt M* — Nanoscale (2015)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The migration and transport of polymerization initiators are problematic for commercially used polymerization procedures. For example, UV printing of packaging generates products with potentially harmful components that come in contact with food.
-
-
-??? note "Abstract"
-    The migration and transport of polymerization initiators are problematic for commercially used polymerization procedures. For example, UV printing of packaging generates products with potentially harmful components that come in contact with food. Enlarging the size of the initiator is the only way to prevent contamination, e.g., by gas phase transport. In this manuscript, the synthesis and advanced and full analyses of novel nanoparticle-based types of non-migration, fragmenting and non-fragmenting photo-initiators will be presented in detail. This study introduces non-fragmenting/&quot;Norrish type II&quot; and fragmenting/&quot;Norrish type I&quot; ZnO nanoparticle-based initiators and compares them with two commercial products, a &quot;Norrish type I&quot; initiator and a &quot;Norrish type II&quot; initiator. Therefore, inter alia, the recently developed analysis involves examining the solidification by UV-vis and the double bond content by Raman. Irradiation is performed using absolute and spectrally calibrated xenon flash lights. A novel procedure for absolute and spectral calibration of such light sources is also presented. The non-optimized &quot;Norrish type II&quot; particle-based initiator is already many times faster than benzophenone, which is a molecular initiator of the same non-fragmenting type. This experimentally observed difference in reactive particle-based systems without co-initiators is unexpected. Co-initiators are normally an additional molecular species, which leads to migration problems. The discovery of significant initiation potential resulting in a very well-dispersed organic-inorganic hybrid material suggests a new field of research opportunities at the interface of physical chemistry, polymer chemistry and engineering science, with enormous value for human health.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25948082/) · [DOI](https://doi.org/10.1039/c5nr00850f)
-
-
----
-
-### A highly reliable copper nanowire/nanoparticle ink pattern with high conductivity on flexible substrate prepared via a flash light-sintering technique.
-
-*Joo SJ, Park SH, Moon CJ, Kim HS* — ACS applied materials &amp; interfaces (2015)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this work, copper nanowires (NWs) and Cu nanoparticles (NPs) were employed to increase the reliability of a printed electrode pattern under mechanical bending fatigue. The fabricated Cu NW/NP inks with different weight fractions of Cu NWs were printed on a polyimide substrate and flash light-sintered within a few milliseconds at room temperature under ambient conditions.
-
-
-??? note "Abstract"
-    In this work, copper nanowires (NWs) and Cu nanoparticles (NPs) were employed to increase the reliability of a printed electrode pattern under mechanical bending fatigue. The fabricated Cu NW/NP inks with different weight fractions of Cu NWs were printed on a polyimide substrate and flash light-sintered within a few milliseconds at room temperature under ambient conditions. Then, 1000 cycles of outer and inner bending fatigue tests were performed using a lab-made fatigue tester. The flash light-sintered Cu NW/NP ink film with 5 wt % Cu NWs prepared under the flash light-sintering conditions (12.5 J·cm–2 irradiation energy, 10 ms pulse duration, and one pulse) showed a lower resistivity (22.77 μΩ·cm) than those of the only Cu NPs and Cu NWs ink (94.01 μΩ·cm and 104.15 μΩ·cm, respectively). In addition, the resistance change (ΔR·R0(–1)) of the 5 wt % Cu NWs Cu NW/NP film was greatly enhanced to 4.19 compared to the 92.75 of the Cu NPs film obtained under mechanical fatigue conditions over 1000 cycles and an outer bending radius of 7 mm. These results were obtained by the densification and enhanced mechanical flexibility of flash light-sintered Cu NW/NP network, which resulted in prevention of crack initiation and propagation. To characterize the Cu NW/NP ink film, X-ray diffraction and scanning electron microscopy were used.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25714508/) · [DOI](https://doi.org/10.1021/am506765p)
-
-
----
-
-### Hydroxyl radical-induced crosslinking and radiation-initiated hydrogel formation in dilute aqueous solutions of carboxymethylcellulose.
-
-*Wach RA, Rokita B, Bartoszek N, Katsumura Y, Ulanski P, Rosiak JM* — Carbohydrate polymers (2014)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Ionizing radiation causes chain scission of polysaccharides in the absence of crosslinking agents. It has been demonstrated before that degradation of carboxyalkylated polysaccharides may be prevented, despite presence of strong electrostatic repulsing forces between chains, at very high polymer concentration in water (paste-like state) when physical proximity promotes recombination of radiation-g…
-
-
-??? note "Abstract"
-    Ionizing radiation causes chain scission of polysaccharides in the absence of crosslinking agents. It has been demonstrated before that degradation of carboxyalkylated polysaccharides may be prevented, despite presence of strong electrostatic repulsing forces between chains, at very high polymer concentration in water (paste-like state) when physical proximity promotes recombination of radiation-generated polymer radicals. In such conditions, crosslinking dominates over chain scission and covalent, macroscopic gels can be formed. In an approach proposed in this work, neutralizing the charges on carboxymethylcellulose (CMC) by lowering the pH results in retracting the electrostatic repulsion between chain segments and thus allows for substantial reduction of polymer concentration required to achieve gelation due to domination of crosslinking reactions. Electron-beam irradiation of aqueous solutions of low pH containing 0.5-2% CMC results in hydrogel formation with 70% yield, while both concentration and dose determine their swelling properties. Time-resolved studies by laser flash photolysis clearly indicate strong pH influence on decay kinetics of CMC radicals.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25129761/) · [DOI](https://doi.org/10.1016/j.carbpol.2014.06.007)
-
-
----
-
-### Highly conductive copper nano/microparticles ink via flash light sintering for printed electronics.
-
-*Joo SJ, Hwang HJ, Kim HS* — Nanotechnology (2014)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this study, the size effect of copper particles on the flash light sintering of copper (Cu) ink was investigated using Cu nanoparticles (20-50 nm diameter) and microparticles (2 μm diameter). Also, the mixed Cu nano-/micro-inks were fabricated, and the synergetic effects between the Cu nano-ink and micro-ink on flash light sintering were assessed.
-
-
-??? note "Abstract"
-    In this study, the size effect of copper particles on the flash light sintering of copper (Cu) ink was investigated using Cu nanoparticles (20-50 nm diameter) and microparticles (2 μm diameter). Also, the mixed Cu nano-/micro-inks were fabricated, and the synergetic effects between the Cu nano-ink and micro-ink on flash light sintering were assessed. The ratio of nanoparticles to microparticles in Cu ink and the several flash light irradiation conditions (irradiation energy density, pulse number, on-time, and off-time) were optimized to obtain high conductivity of Cu films. In order to precisely monitor the milliseconds-long flash light sintering process, in situ monitoring of electrical resistance and temperature changes of Cu films was conducted during the flash light irradiation using a real-time Wheatstone bridge electrical circuit, thermocouple-based circuit, and a high-rate data acquisition system. Also, several microscopic and spectroscopic characterization techniques such as scanning electron microscopy, x-ray diffraction, x-ray photoelectron spectroscopy, and Fourier transform infrared spectroscopy were used to characterize the flash light sintered Cu nano-/micro-films. In addition, the sheet resistance of Cu film was measured using a four-point probe method. This work revealed that the optimal ratio of nanoparticles to microparticles is 50:50 wt%, and the optimally fabricated and flash light sintered Cu nano-/micro-ink films have the lowest resistivity (80 μΩ cm) among nano-ink, micro-ink, or nano-micro mixed films.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24916116/) · [DOI](https://doi.org/10.1088/0957-4484/25/26/265601)
 
 
 ---
@@ -5367,25 +4709,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Excitation wavelength dependent O2 release from copper(II)-superoxide compounds: laser flash-photolysis experiments and theoretical studies.
-
-*Saracini C, Liakos DG, Zapata Rivera JE, Neese F, Meyer GJ, Karlin KD* — Journal of the American Chemical Society (2014)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Irradiation of the copper(II)-superoxide synthetic complexes \[(TMG3tren)Cu(II)(O2)\](+) (1) and \[(PV-TMPA)Cu(II)(O2)\](+) (2) with visible light resulted in direct photogeneration of O2 gas at low temperature (from -40 °C to -70 °C for 1 and from -125 to -135 °C for 2) in 2-methyltetrahydrofuran (MeTHF) solvent. The yield of O2 release was wavelength dependent: λexc = 436 nm, ϕ = 0.29 (for 1), ϕ = 0…
-
-
-??? note "Abstract"
-    Irradiation of the copper(II)-superoxide synthetic complexes \[(TMG3tren)Cu(II)(O2)\](+) (1) and \[(PV-TMPA)Cu(II)(O2)\](+) (2) with visible light resulted in direct photogeneration of O2 gas at low temperature (from -40 °C to -70 °C for 1 and from -125 to -135 °C for 2) in 2-methyltetrahydrofuran (MeTHF) solvent. The yield of O2 release was wavelength dependent: λexc = 436 nm, ϕ = 0.29 (for 1), ϕ = 0.11 (for 2), and λexc = 683 nm, ϕ = 0.035 (for 1), ϕ = 0.078 (for 2), which was followed by fast O2-recombination with \[(TMG3tren)Cu(I)\](+) (3) and \[(PV-TMPA)Cu(I)\](+) (4). Enthalpic barriers for O2 rebinding to the copper(I) center (∼10 kJ mol(-1)) and for O2 dissociation from the superoxide compound 1 (45 kJ mol(-1)) were determined. TD-DFT studies, carried out for 1, support the experimental results confirming the dissociative character of the excited states formed upon blue- or red-light laser excitation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24428309/) · [DOI](https://doi.org/10.1021/ja4115314) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3000243/)
-
-
----
-
 ### Bovine rod rhodopsin: 2. Bleaching in vitro upon 12C ions irradiation as source of effects as light flash for patients and for humans in space.
 
 *Narici L, Paci M, Brunetti V, Rinaldi A, Sannita WG, Carozzo S et al.* — International journal of radiation biology (2013)  
@@ -5401,44 +4724,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/23638692/) · [DOI](https://doi.org/10.3109/09553002.2013.800245)
-
-
----
-
-### In situ monitoring of flash-light sintering of copper nanoparticle ink for printed electronics.
-
-*Hwang HJ, Chung WH, Kim HS* — Nanotechnology (2012)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** In this work, a flash-light sintering process for Cu nanoinks was studied. In order to precisely monitor the milliseconds flash-light sintering process, a real-time Wheatstone bridge electrical circuit and a high-rate data acquisition system were used.
-
-
-??? note "Abstract"
-    In this work, a flash-light sintering process for Cu nanoinks was studied. In order to precisely monitor the milliseconds flash-light sintering process, a real-time Wheatstone bridge electrical circuit and a high-rate data acquisition system were used. The effects of several flash-light irradiation conditions (irradiation energy, pulse number, on-time, and off-time) and the effects of the amount of poly(N-vinylpyrrolidone) in the Cu nanoink on the flash-light sintering process were investigated. The microstructures of the sintered Cu films were analyzed by scanning electron microscopy. To investigate the oxidation or reduction of the oxide-covered copper nanoparticles, a crystal phase analysis using x-ray diffraction was performed. In addition, the sheet resistance of Cu film was measured using a four-point probe method. From this study, it was found that the flash-light sintered Cu nanoink films have a conductivity of 72 Ωm/sq without any damage to the polyimide substrate. Similar nanoinks are expected to be widely used in printed and flexible electronics products in the near future.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/23138346/) · [DOI](https://doi.org/10.1088/0957-4484/23/48/485205)
-
-
----
-
-### In-cage and out-of-cage combinations of benzylic radical pairs in the glassy and melted states of poly(alkyl methacrylate)s.
-
-*Abraham S, Ghosh I, Nau WM, Chesta C, Pas SJ, Hill AJ et al.* — Photochemical &amp; photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology (2012)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Norrish type 1 reactions of 1-(4-methylphenyl)-3-phenyl-2-propanone (ACOB(1)) have been used to probe structural and morphological properties of a series of poly(alkyl methacrylate)s (PAMAs, where the alkyl is ethyl, butyl, isobutyl, cyclohexyl, and hexadecyl) below and above their glass transition (or melting) temperatures. The PAMAs investigated cover a wide range of glass transition temperature…
-
-
-??? note "Abstract"
-    Norrish type 1 reactions of 1-(4-methylphenyl)-3-phenyl-2-propanone (ACOB(1)) have been used to probe structural and morphological properties of a series of poly(alkyl methacrylate)s (PAMAs, where the alkyl is ethyl, butyl, isobutyl, cyclohexyl, and hexadecyl) below and above their glass transition (or melting) temperatures. The PAMAs investigated cover a wide range of glass transition temperatures and structure types. The ratio of in-cage to the sum of in-cage and out-of-cage recombinations of the triplet benzylic radical-pairs generated upon irradiation of ACOB(1) (F(c)) have been calculated from relative photoproduct yields at different temperatures and are compared with the free hole volumes within the polymers as calculated from positronium annihilation lifetime spectroscopy. Laser flash photolysis experiments to follow the growth and decay of the radicals have also been conducted in order to correlate the steady-state irradiation results with the radical pair recombination processes (i.e., in-cage and out-of-cage). The changes in F(c) as a function of PAMA type and phase (temperature) can be correlated with chain relaxation rates and the nature of the polymer side chains, but not hole free volumes. These results are compared with those from our previous work, conducted in polyethylenes with differing degrees of crystallinity, where hole free volume was the primary factor in controlling F(c).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/22429960/) · [DOI](https://doi.org/10.1039/c1pp05282a)
 
 
 ---
@@ -5481,139 +4766,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Distinguishing the parallel and vertical orientations and optic axis characteristics determination of azobenzene mesogen by conoscopic polarized microscopy.
-
-*Liu J, Wang M, Dong M, Gao L, Tian J* — Journal of microscopy (2011)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Orientational behaviours under the action of linearly polarized light and circularly polarized light of a side-chain azobenzene containing polymer were studied by conoscopic polarized microscopy. The results suggest that the linearly polarized light (473 nm, 20 mW cm(-2)) results in an in-plane orientation of the azobenzene groups.
-
-
-??? note "Abstract"
-    Orientational behaviours under the action of linearly polarized light and circularly polarized light of a side-chain azobenzene containing polymer were studied by conoscopic polarized microscopy. The results suggest that the linearly polarized light (473 nm, 20 mW cm(-2)) results in an in-plane orientation of the azobenzene groups. The irradiation with circularly polarized light (473 nm, 20 mW cm(-2)) leads to a tilt orientation (out-of-plane) of the azobenzene groups with the long axis of mesogens aligned along the propagation direction of the actinic light. Characteristic features of the in-plane and out-of-plane orientated films were obtained from their interference figures. The in-plane orientated film shows an interference cross consisting of a broad fuzzy bar, and the cross-centre lies in the centre of view field. In-plane orientated film also yields a flash figure upon a less than 10° rotation of the sample under polarized microscopy. The interference figures yielded from the out-of-plane orientated films consist of narrow bar cross. The locations of those interference figures depend on the oblique angle of the irradiation light. A method for distinguishing the in-plane orientation of the mesogens from the vertically out-of-plane orientation is demonstrated, which is based on comparing the bar width of their interference figures, and by whether they can produce a flash figure upon a small angle rotation of the film. The liquid crystalline film is identified as positive and uniaxial anisotropy after annealing of the perpendicularly irradiated film.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/21910731/) · [DOI](https://doi.org/10.1111/j.1365-2818.2011.03519.x)
-
-
----
-
-### Electron transfer from oligothiophenes in the higher triplet excited states.
-
-*Fujitsuka M, Nakatani T, Sakamoto M, Sugimoto A, Majima T* — The journal of physical chemistry. A (2010)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** In the present paper, we have investigated the inter- and intramolecular electron transfer processes from the higher triplet excited state (T(n)) of oligothiophenes (3T and 4T). In the case of the intermolecular systems, two-color two-laser flash photolysis using nanosecond lasers was applied to the solution including benzophenone, oligothiophene, and halogenated benzene as a photosensitizer, an e…
-
-
-??? note "Abstract"
-    In the present paper, we have investigated the inter- and intramolecular electron transfer processes from the higher triplet excited state (T(n)) of oligothiophenes (3T and 4T). In the case of the intermolecular systems, two-color two-laser flash photolysis using nanosecond lasers was applied to the solution including benzophenone, oligothiophene, and halogenated benzene as a photosensitizer, an electron donor, and an electron acceptor, respectively. The first laser light irradiation generated the lowest triplet excited state (T(1)) of oligothiophene via energy transfer from benzophenone. Upon the second laser light irradiation, the absorption band of the radical cation of oligothiophene appeared with the simultaneous bleaching of the absorption band of the T(1) state, indicating the electron transfer from the T(2) state of the oligothiophene to the electron acceptor. The observed electron transfer rate dependent on the free energy change was explained on the basis of the Marcus theory. The intramolecular electron transfer in the dyad molecule of oligothiophene and acceptor was investigated using the two-color two-laser flash photolysis employing femtosecond laser. Upon the second laser light irradiation, which generates the T(n) state, the kinetic trace of the absorption band of T(1) state showed the bleaching and recovery, the rate of which depends on the driving force for the charge separation from the T(2) state of the oligothiophene. This observation suggests the existence of charge separation process from the T(2) state, and the observation of the charge-separated state was difficult probably due to the low charge separation yield and fast charge recombination.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/20853882/) · [DOI](https://doi.org/10.1021/jp106056e)
-
-
----
-
-### Different intensity extension methods and their impact on entrance dose in breast radiotherapy: A study.
-
-*Sankar A, Velmurugan J* — Journal of medical physics (2009)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** In breast radiotherapy, skin flashing of treatment fields is important to account for intrafraction movements and setup errors. This study compares the two different intensity extension methods, namely, Virtual Bolus method and skin flash tool method, to provide skin flashing in intensity modulated treatment fields.
-
-
-??? note "Abstract"
-    In breast radiotherapy, skin flashing of treatment fields is important to account for intrafraction movements and setup errors. This study compares the two different intensity extension methods, namely, Virtual Bolus method and skin flash tool method, to provide skin flashing in intensity modulated treatment fields. The impact of these two different intensity extension methods on skin dose was studied by measuring the entrance dose of the treatment fields using semiconductor diode detectors. We found no significant difference in entrance dose due to different methods used for intensity extension. However, in the skin flash tool method, selection of appropriate parameters is important to get optimum fluence extension.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/20098549/) · [DOI](https://doi.org/10.4103/0971-6203.56079) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2807141/)
-
-
----
-
-### The use of a portable electronic device in accident dosimetry.
-
-*Beerten K, Vanhavere F* — Radiation protection dosimetry (2008)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The use of a portable electronic device in accident dosimetry has been investigated. The thermoluminescence properties of a surface-mount alumina-rich ceramic resonator from a USB flash drive were investigated.
-
-
-??? note "Abstract"
-    The use of a portable electronic device in accident dosimetry has been investigated. The thermoluminescence properties of a surface-mount alumina-rich ceramic resonator from a USB flash drive were investigated. The following characteristics were verified: the absence of a zero-dose signal, gamma dose response, dose recycling behaviour, fading and optical bleaching. Finally, this component has been successfully used to determine a simulated accident dose (1 d following the irradiation event). It is concluded that it should be possible to perform rapid and reliable accident dose assessments with such components using conventional thermoluminescence dosimetry equipment.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/18703583/) · [DOI](https://doi.org/10.1093/rpd/ncn212)
-
-
----
-
-### Effect of respiratory motion on the delivery of breast radiotherapy using SMLC intensity modulation.
-
-*Liu Q, McDermott P, Burmeister J* — Medical physics (2007)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** This study evaluates the effects of respiratory motion on breast radiotherapy delivered using segmented multileaf collimator (SMLC) intensity modulation. An anthropomorphic breast phantom was constructed of polystyrene plates between which radiographic films were inserted.
-
-
-??? note "Abstract"
-    This study evaluates the effects of respiratory motion on breast radiotherapy delivered using segmented multileaf collimator (SMLC) intensity modulation. An anthropomorphic breast phantom was constructed of polystyrene plates between which radiographic films were inserted. The phantom was mounted on a moving platform to simulate one-dimensional sinusoidal oscillation with variable amplitude and frequency. The motion effect on two breast IMRT techniques, a beamlet-based plan created using the Corvus treatment planning system and an aperture-based plan, was evaluated via film comparison. Motion-induced differences in the treatment region are generally within +5%, with the exception of the posterior field edge and the apex of the breast in the Corvus IMRT plan. Considering the experimental uncertainty arising from the setup and film dosimetry, this result indicates that respiratory motion-induced dose variations are generally relatively insignificant. It appears that the anterior hot spots observed in the Corvus IMRT plan result from the high intensity fluence delivered to the &quot;virtual bolus&quot; area which must be created during the planning process in order to provide &quot;flash&quot; for the respiratory motion. The potential magnitude of such effects resulting from the interplay between fluence modulation and patient motion are unique to the individual planning system and planning technique, as well as the delivery equipment and technique. Such effects should be carefully investigated prior to the implementation of IMRT for breast radiotherapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17278520/) · [DOI](https://doi.org/10.1118/1.2405323)
-
-
----
-
-### Study of photoinduced electron transfer between \[60\]fullerene and proton-sponge by laser flash photolysis: addition effects of organic acid.
-
-*Horie R, Araki Y, Ito O, Lee Y, Kitagawa T, Komatsu K* — The journal of physical chemistry. A (2005)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Photoinduced electron-transfer processes between fullerene (C60) and 1,8-bis(dimethylamino)naphthalene, which is called a proton-sponge (PS), have been investigated by means of laser flash photolysis in the presence and absence of CF3CO2H. For a mixture of C60 and PS, the transient absorption spectra showed the rise of the C60 radical anion with concomitant decay of the C60 triplet (3C60), suggest…
-
-
-??? note "Abstract"
-    Photoinduced electron-transfer processes between fullerene (C60) and 1,8-bis(dimethylamino)naphthalene, which is called a proton-sponge (PS), have been investigated by means of laser flash photolysis in the presence and absence of CF3CO2H. For a mixture of C60 and PS, the transient absorption spectra showed the rise of the C60 radical anion with concomitant decay of the C60 triplet (3C60), suggesting that photoinduced intermolecular electron transfer occurs via 3C60 in high efficiency in polar solvent. For a covalently bonded C60-PS dyad, photoinduced intramolecular charge-separation process takes place via the excited singlet state of the C60 moiety, although charge recombination occurs within 10 ns. For both systems, electron-transfer rates were largely decelerated by addition of a small amount of CF3CO2H, leaving the long-lived 3C60. These observations indicate that the energy levels for charge-separated states of the protonated PS and C60 become higher than the energy level of the 3C60 moiety, showing low donor ability of the protonated PS. Thus, intermolecular electron-transfer process via 3C60 for C60-PS mixture and intramolecular charge-separation process via 1C60-PS for C60-PS dyad were successfully controlled by the combination of the light irradiation with a small amount of acid.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/16833953/) · [DOI](https://doi.org/10.1021/jp051253n)
-
-
----
-
-### MRI thermodosimetry in laser-induced interstitial thermotherapy.
-
-*Prudhomme M, Mattéi-Gazagnes M, Fabbro-Peray P, Puche P, Chabalier JP, Delacrétaz G et al.* — Lasers in surgery and medicine (2003)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The aim of this study was to establish a correlation between a thermal measurement and a magnetic resonance imaging (MRI) signal during laser-induced interstitial thermotherapy (LITT) in liver. STUDY DESIGN/MATERIALS AND METHODS: Pig liver was irradiated for 15 minutes with a diode laser at two different powers, 0.5 W (450 J) and 1.5 W (1,350 J).
-
-
-??? note "Abstract"
-    BACKGROUND AND OBJECTIVES: The aim of this study was to establish a correlation between a thermal measurement and a magnetic resonance imaging (MRI) signal during laser-induced interstitial thermotherapy (LITT) in liver. STUDY DESIGN/MATERIALS AND METHODS: Pig liver was irradiated for 15 minutes with a diode laser at two different powers, 0.5 W (450 J) and 1.5 W (1,350 J). Tissue temperature was monitored every 20 seconds using thermocouples. Thermosensitive MRI sequences (T(1)-weighted Turbo-Flash) were acquired with the same irradiation parameters. Correlation between MRI signals (SI) and temperature measures was defined at two different distances from the fiber (5 and 10 mm). RESULTS: At 0.5 W, temperatures rose progressively up to a maximum increase of 9.5 degrees C at 5 mm and 4 degrees C at 10 mm after 15 minutes. The corresponding MRI signal decreased progressively to -27.6 SI at 5 mm and -18.5 SI at 10 mm. At 1.5 W, temperatures rose dramatically at 5 mm, reaching a plateau. The temperature elevation measured at the end of the irradiation was of 30 degrees C whereas at 10 mm it was only 14.5 degrees C. The MRI signal varied accordingly, remaining inversely proportional to temperature (-76 SI at 5 mm and -35.5 SI at 10 mm). CONCLUSIONS: An inversely proportional relationship was observed between MRI signal in sequential Turbo-Flash and temperature. MRI should allow to analyze heat diffusion in the liver, and thus to monitor real-time LITT treatments.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/12516072/) · [DOI](https://doi.org/10.1002/lsm.10130)
-
-
----
-
 ### Method to plan, administer, and verify supine craniospinal irradiation.
 
 *Michalski JM, Klein EE, Gerber R* — Journal of applied clinical medical physics (2002)  
@@ -5629,44 +4781,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/12383051/) · [DOI](https://doi.org/10.1120/jacmp.v3i4.2555) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5724535/)
-
-
----
-
-### The mechanism of UV-A radiation-induced inhibition of photosystem II electron transport studied by EPR and chlorophyll fluorescence.
-
-*Vass I, Turcsányi E, Touloupakis E, Ghanotakis D, Petrouleas V* — Biochemistry (2002)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The UV-A (320-400 nm) component of sunlight is a significant damaging factor of plant photosynthesis, which targets the photosystem II complex. Here we performed a detailed characterization of UV-A-induced damage in photosystem II membrane particles using EPR spectroscopy and chlorophyll fluorescence measurements.
-
-
-??? note "Abstract"
-    The UV-A (320-400 nm) component of sunlight is a significant damaging factor of plant photosynthesis, which targets the photosystem II complex. Here we performed a detailed characterization of UV-A-induced damage in photosystem II membrane particles using EPR spectroscopy and chlorophyll fluorescence measurements. UV-A irradiation results in the rapid inhibition of oxygen evolution accompanied by the loss of the multiline EPR signal from the S(2) state of the water-oxidizing complex. Gradual decrease of EPR signals arising from the Q(A)(-)Fe(2+) acceptor complex, Tyr-D degrees, and the ferricyanide-induced oxidation of the non-heme Fe(2+) to Fe(3+) is also observed, but at a significantly slower rate than the inhibition of oxygen evolution and of the multiline signal. The amplitude of Signal II(fast), arising from Tyr-Z degrees in the absence of fast electron donation from the Mn cluster, was gradually increased during the course of UV-A treatment. However, the amount of functional Tyr-Z decreased to a similar extent as Tyr-D as shown by the loss of amplitude of Signal II(fast) that could be measured in the UV-A-treated particles after Tris washing. UV-A irradiation also affects the relaxation of flash-induced variable chlorophyll fluorescence. The amplitudes of the fast (600 micros) and slow (2 s) decaying components, assigned to reoxidation of Q(A)(-) by Q(B) and by recombination of (Q(A)Q(B))(-) with donor side components, respectively, decrease in favor of the 15-20 ms component, which reflects PQ binding to the Q(B) site. In the presence of DCMU, the fluorescence relaxation is dominated by a 1 s component due to recombination of Q(A)(-) with the S(2) state. After UV-A radiation, this is partially replaced by a much faster component (30-70 ms) arising from recombination of Q(A)(-) with a stabilized intermediate PSII donor, most likely Tyr-Z degrees. It is concluded that the primary damage site of UV-A irradiation is the catalytic manganese cluster of the water-oxidizing complex, where electron transfer to Tyr-Z degrees and P(680)(+) becomes inhibited. Modification and/or inactivation of the redox-active tyrosines and the Q(A)Fe(2+) acceptor complex are subsequent events. This damaging mechanism is very similar to that induced by the shorter wavelength UV-B (280-320) radiation, but different from that induced by the longer wavelength photosynthetically active light (400-700 nm).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/12162734/) · [DOI](https://doi.org/10.1021/bi020272+)
-
-
----
-
-### Slow photo-cross-linking kinetics of benzophenone-labeled voltage sensors of ion channels.
-
-*Ding S, Horn R* — Biochemistry (2001)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Voltage-gated ion channels have voltage sensors that move in response to changes in membrane potential. This movement regulates the gates that control access of ions to the permeation pathway.
-
-
-??? note "Abstract"
-    Voltage-gated ion channels have voltage sensors that move in response to changes in membrane potential. This movement regulates the gates that control access of ions to the permeation pathway. To study the coupling between voltage sensors and gates, we immobilize the voltage sensors, using a bifunctional photo-cross-linking reagent that can be attached to an introduced cysteine, and observe the consequences for gate movement \[Horn, R., Ding, S., and Gruber, H. J. (2000) J. Gen. Physiol. 116, 461-475\]. UV irradiation of the benzophenone adduct attached to the cysteine residue immobilizes the voltage sensors, S4 segments, of both Na(+) and Shaker K(+) channels. Here we examine the kinetics of S4 immobilization after a brief UV flash. Immobilization has an exponential time course with time constants of &gt;200 ms for Shaker and 17 ms for Na(+) channels, whereas the triplet excited state lifetime of the benzophenone adduct is &lt;1 ms. This result suggests that H-atom abstraction by benzophenone is rapid and that the rate-limiting step in immobilization is the recombination of alkyl and ketyl free radicals generated by H-abstraction. H-Abstraction is also 2.7-fold more efficient at a hyperpolarized voltage than at a depolarized membrane potential in Shaker S4 segments. S4 immobilization after a UV flash can be prevented by depolarization of Shaker channels, suggesting that movement in the activation pathway is capable of separating the ketyl and alkyl free radicals. Exploiting the unique charge movement and gating properties of the L382V mutant of Shaker, we show that free radical separation follows S4 movement itself and is relatively independent of the movement of activation gates.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11524017/) · [DOI](https://doi.org/10.1021/bi010709y)
 
 
 ---
@@ -5709,25 +4823,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### UV-B radiation-induced donor- and acceptor-side modifications of photosystem II in the cyanobacterium Synechocystis sp. PCC 6803.
-
-*Vass I, Kirilovsky D, Etienne AL* — Biochemistry (1999)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** We studied the effect of UV-B radiation (280-320 nm) on the donor- and acceptor-side components of photosystem II in the cyanobacterium Synechocystis sp. PCC 6803 by measuring the relaxation of flash-induced variable chlorophyll fluorescence.
-
-
-??? note "Abstract"
-    We studied the effect of UV-B radiation (280-320 nm) on the donor- and acceptor-side components of photosystem II in the cyanobacterium Synechocystis sp. PCC 6803 by measuring the relaxation of flash-induced variable chlorophyll fluorescence. UV-B irradiation increases the t(1/2) of the decay components assigned to reoxidation of Q(A)(-) by Q(B) from 220 to 330 micros in centers which have the Q(B) site occupied, and from 3 to 6 ms in centers with the Q(B) site empty. In contrast, the t(1/2) of the slow component arising from recombination of the Q(A)Q(B)(-) state with the S(2) state of the water-oxidizing complex decreases from 13 to 1-2 s. In the presence of DCMU, fluorescence relaxation in nonirradiated cells is dominated by a 0.5-0.6 s component, which reflects Q(A)(-) recombination with the S(2) state. After UV-B irradiation, this is partially replaced by much faster components (t(1/2) approximately 800-900 micros and 8-10 ms) arising from recombination of Q(A)(-) with stabilized intermediate photosystem II donors, P680(+) and Tyr-Z(+). Measurement of fluorescence relaxation in the presence of different concentrations of DCMU revealed a 4-6-fold increase in the half-inhibitory concentration for electron transfer from Q(A) to Q(B). UV-B irradiation in the presence of DCMU reduces Q(A) in the majority (60%) of centers, but does not enhance the extent of UV-B damage beyond the level seen in the absence of DCMU, when Q(A) is mostly oxidized. Illumination with white light during UV-B treatment retards the inactivation of PSII. However, this ameliorating effect is not observed if de novo protein synthesis is blocked by lincomycin. We conclude that in intact cyanobacterium cells UV-B light impairs electron transfer from the Mn cluster of water oxidation to Tyr-Z(+) and P680(+) in the same way that has been observed in isolated systems. The donor-side damage of PSII is accompanied by a modification of the Q(B) site, which affects the binding of plastoquinone and electron transport inhibitors, but is not related to the presence of Q(A)(-). White light, at the intensity applied for culturing the cells, provides protection against UV-B-induced damage by enhancing protein synthesis-dependent repair of PSII.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/10504248/) · [DOI](https://doi.org/10.1021/bi991094w)
-
-
----
-
 ### \[THe cost of radiotherapy. Piedmontese experience\].
 
 *Gabriele P, Ozzello F, Negri GL, Rotta P, Pasquino M, Sinistrero G* — La Radiologia medica (1998)  
@@ -5743,82 +4838,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9717551/)
-
-
----
-
-### Conformational changes in rhodopsin probed by surface plasmon resonance spectroscopy.
-
-*Salamon Z, Wang Y, Brown MF, Macleod HA, Tollin G* — Biochemistry (1994)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Surface plasmon resonance (SPR) spectroscopy has been used to follow incorporation and light-induced conformational changes in bovine rhodopsin reconstituted into an egg phosphatidylcholine bilayer deposited on a thin silver film. The magnitude of the SPR spectral changes caused by light varies with pH in a manner paralleling that in flash photolysis experiments, which monitor formation of metarho…
-
-
-??? note "Abstract"
-    Surface plasmon resonance (SPR) spectroscopy has been used to follow incorporation and light-induced conformational changes in bovine rhodopsin reconstituted into an egg phosphatidylcholine bilayer deposited on a thin silver film. The magnitude of the SPR spectral changes caused by light varies with pH in a manner paralleling that in flash photolysis experiments, which monitor formation of metarhodopsin II. Irradiation produces an increase of approximately 4 A in the average thickness of the proteolipid layer, consistent with exposure of recognition sites for the G protein. The results demonstrate that the SPR technology described herein may be used to monitor conformational events in membrane-associated receptors such as rhodopsin.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/7947780/) · [DOI](https://doi.org/10.1021/bi00250a022)
-
-
----
-
-### Inactivation of photosynthetic oxygen evolution by UV-B irradiation: A thermoluminescence study.
-
-*Hideg E, Sass L, Barbato R, Vass I* — Photosynthesis research (1993)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The influence of UV-B irradiation on photosynthetic oxygen evolution by isolated spinach thylakoids has been investigated using thermoluminescence measurements. The thermoluminescence bands arising from the S2QB (-) (B band) and S2QA (-) (Q band) charge recombination disappeared with increasing UV-B irradiation time.
-
-
-??? note "Abstract"
-    The influence of UV-B irradiation on photosynthetic oxygen evolution by isolated spinach thylakoids has been investigated using thermoluminescence measurements. The thermoluminescence bands arising from the S2QB (-) (B band) and S2QA (-) (Q band) charge recombination disappeared with increasing UV-B irradiation time. In contrast, the C band at 50°C, arising from the recombination of QA (-) with an accessory donor of Photosystem II, was transiently enhanced by the UV-B irradiation. The efficiency of DCMU to block QA to QB electron transfer decreased after irradiation as detected by the incomplete suppression of the B band by DCMU. The flash-induced oscillatory pattern of the B band was modified in the UV-B irradiated samples, indicating a decrease in the number of centers with reduced QB. Based on the results of this study, UV-B irradiation is suggested to damage both the donor and acceptor sides of Photosystem II. The damage of the water-oxidizing complex does not affect a specific S-state transition. Instead, charge stabilization is enhanced on an accessory donor. The acceptor-side modifications decrease the affinity of DCMU binding. This effect is assumed to reflect a structural change in the QB/DCMU binding site. The preferential loss of dark stable QB (-) may be related to the same structural change or could be caused by the specific destruction of reduced quinones by the UV-B light.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24318003/) · [DOI](https://doi.org/10.1007/BF00046774)
-
-
----
-
-### Chloranil-photosensitized monomerization of dimethylthymine cyclobutane dimers and effect of magnesium perchlorate.
-
-*Pac C, Miyamoto I, Masaki Y, Furusho S, Yanagida S, Ohno T et al.* — Photochemistry and photobiology (1990)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** The photosensitized monomerization of the cyclobutane dimers of 1,3-dimethylthymine by p-chloranil was investigated by means of steady-state irradiation and laser-flash photolysis. Quantum yields for the monomerization are 0.34 for the cis,syn dimer, 0.39 for the trans,syn dimer, and much less than 10(-2) for the cis,anti isomer.
-
-
-??? note "Abstract"
-    The photosensitized monomerization of the cyclobutane dimers of 1,3-dimethylthymine by p-chloranil was investigated by means of steady-state irradiation and laser-flash photolysis. Quantum yields for the monomerization are 0.34 for the cis,syn dimer, 0.39 for the trans,syn dimer, and much less than 10(-2) for the cis,anti isomer. Formation of the chloranil anion radical associated with quenching of triplet chloranil by the dimers demonstrates that electron transfer from dimers to triplet chloranil occurs to initiate the monomerization. Kinetic analysis suggested that the syn-dimer cation radicals undergo the ring cleavage at greater than or equal to 10(9) s-1 before escaping from the solvent cage, while the reactivity of the anti-dimer cation radical is very low. The different reactivities of the syn and anti dimer cation radicals are discussed in terms of through-bond coupling between the n orbitals of N(1) and N(1&#x27;) involving the cyclobutane-ring sigma orbitals. In the cases of the syn-dimers, the sensitizer-dimer ion-radical pairs undergo the rapid geminate recombination that works as a major energy dissipating channel responsible for the lower-than-unity quantum yields. It has been found that the presence of Mg(ClO4)2 at 0.1 M enhances approximately 1.5 times either the monomerization of the syn dimers or the formation of the chloranil anion radical. A laser-flash photolysis study shows that Mg2+ forms a complex with either the triplet or the anion radical of chloranil. The net salt effects are attributed to the retardation of the rapid geminate recombination by the participation of Mg2+ in the sensitizer-dimer ion-radical pairs.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1962858/) · [DOI](https://doi.org/10.1111/j.1751-1097.1990.tb01813.x)
-
-
----
-
-### Reversible acidic-alkaline transition of the carbon monoxide complex of cytochrome c peroxidase.
-
-*Iizuka T, Makino R, Ishimura Y, Yonetani T* — The Journal of biological chemistry (1985)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** The Soret absorption band of the ferrous carbon monoxide (CO) complex of cytochrome c peroxidase exhibited a blue shift from 423.7 to 420 nm upon an increase in pH from 6.5 to 8.5. The spectral change was reversible with an isosbestic point at 422 nm.
-
-
-??? note "Abstract"
-    The Soret absorption band of the ferrous carbon monoxide (CO) complex of cytochrome c peroxidase exhibited a blue shift from 423.7 to 420 nm upon an increase in pH from 6.5 to 8.5. The spectral change was reversible with an isosbestic point at 422 nm. The pH dependence of this spectral change gave a sigmoidal curve fitted well to a theoretical curve of a cooperative release of two protons with a pK value of 7.5, indicating the existence of the acidic and alkaline forms of the ferrous CO enzyme. Upon irradiation of light flash (100 J of power and 30-microseconds), the heme-bound CO was readily dissociated in both acidic and alkaline forms with a quantum yield of approximately unity. On the other hand, the rate of recombination of the dissociated CO with the heme iron was significantly different between these two forms; the recombination rate constants were 1.1 X 10(3) and 3.0 X 10(4) M-1 S-1 at 25 degrees C for the acidic and alkaline forms, respectively. At intermediate pH values, kinetics of recombination were biphasic, consisting of the slow and fast processes with the appropriate rate constants mentioned above. When the fraction of the fast process was plotted against pH, the pH profile coincided with the spectrophotometric pH titration curve described above. Thus, it was concluded that the acidic and alkaline forms of the enzyme were responsible for the slow and fast processes, respectively. In infrared spectroscopy, the acidic form showed a narrow CO stretching band at 1922 cm-1 with a half-band width of 12.5 cm-1, while the alkaline form exhibited a broad CO-stretching band at 1948 cm-1 with a half-band width of 33 cm-1. Significance of these results are discussed in relation to the structure of the heme vicinity on the CO complex of cytochrome c peroxidase.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2981856/)
 
 
 ---

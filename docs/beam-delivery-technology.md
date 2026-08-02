@@ -2,7 +2,7 @@
 
 Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-delivery hardware for UHDR.
 
-*127 records. Newest first.*
+*105 records. Newest first.*
 
 ---
 
@@ -348,25 +348,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Deep Eutectic Solvent Binder Facilitating Reaction Kinetics of Lithium Sulfur Batteries.
-
-*Li C, Wang Z, Li Z, Zhang J, Wang S, Ma Y et al.* — Angewandte Chemie (International ed. in English) (2025)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Existing binders fail to integrate all designed functionalities, including the polysulfide shuttle effect, sluggish kinetic transformation, electrode volume variation, slow Li⁺ transfer, and flammable characteristics. Herein, the microwave irradiation method is used to prepare deep eutectic solvent (DES) binder; with the rapid conduction and full utilization of energy, citric acid and betaine (CB)…
-
-
-??? note "Abstract"
-    Existing binders fail to integrate all designed functionalities, including the polysulfide shuttle effect, sluggish kinetic transformation, electrode volume variation, slow Li⁺ transfer, and flammable characteristics. Herein, the microwave irradiation method is used to prepare deep eutectic solvent (DES) binder; with the rapid conduction and full utilization of energy, citric acid and betaine (CB) binder is formed in a flash. Intramolecular and intermolecular hydrogen bonds between C and B provide robust adhesion, self-healing capability, and flame-retardant properties. More importantly, Li⁺ flux is directly improved by hydrogen bond acceptor (B) of DES rather than introducing additional segments or chemical treatment; then the redox kinetics are significantly promoted and the polysulfide shuttle is further suppressed. The types and dynamics of the hydrogen bonds are observed via Raman and dynamic mechanical analysis, while effective LiPS adsorption capability is confirmed through theoretical calculations and in situ Raman measurements. Furthermore, rapid LiPS conversion is verified by nucleation/dissolution experiments of Li2S and distribution of relaxation times (DRTs) analysis, and nucleation transformation ratio (NTR) calculation shows the similar result. Benefiting from the superior merits of the DES binder, lithium-sulfur (Li─S) battery presents stable cycling at 5 C with 61.3% capacity retention after 300 cycles.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40772667/) · [DOI](https://doi.org/10.1002/anie.202516009)
-
-
----
-
 ### Beam intensity and stability control on a modified clinical linear accelerator for FLASH irradiation.
 
 *Tan Y, Deoli NT, Harken AD, Brenner DJ, Garty G* — Physics in medicine and biology (2025)  
@@ -671,25 +652,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### A Near-Infrared Retinomorphic Device with High Dimensionality Reservoir Expression.
-
-*Leng YB, Lv Z, Huang S, Xie P, Li HX, Zhu S et al.* — Advanced materials (Deerfield Beach, Fla.) (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Physical reservoir-based reservoir computing (RC) systems for intelligent perception have recently gained attention because they require fewer computing resources. However, the system remains limited in infrared (IR) machine vision, including materials and physical reservoir expression power.
-
-
-??? note "Abstract"
-    Physical reservoir-based reservoir computing (RC) systems for intelligent perception have recently gained attention because they require fewer computing resources. However, the system remains limited in infrared (IR) machine vision, including materials and physical reservoir expression power. Inspired by biological visual perception systems, the study proposes a near-infrared (NIR) retinomorphic device that simultaneously perceives and encodes narrow IR spectral information (at ≈980 nm). The proposed device, featuring core-shell upconversion nanoparticle/poly (3-hexylthiophene) (P3HT) nanocomposite channels, enables the absorption and conversion of NIR into high-energy photons to excite more photo carriers in P3HT. The photon-electron-coupled dynamics under the synergy of photovoltaic and photogating effects influence the nonlinearity and high dimensionality of the RC system under narrow-band NIR irradiation. The device also exhibits multilevel data storage capability (≥8 levels), excellent stability (≥2000 s), and durability (≥100 cycles). The system accurately identifies NIR static and dynamic handwritten digit images, achieving recognition accuracies of 91.13% and 90.07%, respectively. Thus, the device tackles intricate computations like solving second-order nonlinear dynamic equations with minimal errors (normalized mean squared error of 1.06 × 10⁻3 during prediction).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39390822/) · [DOI](https://doi.org/10.1002/adma.202411225) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9750142/)
-
-
----
-
 ### Mimicking large spot-scanning radiation fields for proton FLASH preclinical studies with a robotic motion platform.
 
 *Guan F, Jiang D, Wang X, Yang M, Iga K, Li Y et al.* — ArXiv (2024)  
@@ -804,25 +766,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Intensity Modulated Therapy for Patients With Breast Cancer. Practical Guidelines and Tips for an Effective Treatment Planning Strategy.
-
-*Fogliata A, Burger H, Groenewald A, Punt L, Parkes J, Cozzi L* — Advances in radiation oncology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Practical guidelines and tips for effective and robust radiation therapy treatment planning for patients with breast cancer are addressed for fixed-field intensity modulated radiation therapy (IMRT) or volumetric modulated arc therapy (VMAT) techniques. The concepts described here are general and valid on all treatment planning systems.
-
-
-??? note "Abstract"
-    PURPOSE: Practical guidelines and tips for effective and robust radiation therapy treatment planning for patients with breast cancer are addressed for fixed-field intensity modulated radiation therapy (IMRT) or volumetric modulated arc therapy (VMAT) techniques. The concepts described here are general and valid on all treatment planning systems. However, some details shown here have been applied to the Varian platforms used at the authors&#x27; institutions. METHODS AND MATERIALS: The specific aspects of using C-arm- or O-ring-mounted linear accelerators are covered in the document, as well as tips for dealing with certain resource constraints, target cropping, and skin flash aiming to reduce risks of skin toxicity and to manage (residual after breath control) respiration motion or edema. RESULTS: A decision tree is presented, and practical solutions for cases where a target volume is contoured or not and where volumetric modulated arc therapy or fixed-beam intensity modulation should be applied and details about the technical implementation (tangential IMRT, butterfly IMRT or VMAT, and large partial VMAT arcs) are discussed. Target cropping and skin flash implications are discussed in detail, and links to plan robustness are outlined. CONCLUSIONS: Practical guidelines for breast planning are presented and summarized with a decision tree and technical summaries.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38993192/) · [DOI](https://doi.org/10.1016/j.adro.2024.101535) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612683/)
-
-
----
-
 ### Radiation safety of ultra-high dose rate electron accelerators for FLASH radiotherapy.
 
 *Præstegaard LH* — Medical physics (2024)  
@@ -918,25 +861,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Impact of Additive Manufacturing Materials on Thermal Performance of Silicon Reference Cells.
-
-*Shore AM, Kim JH, Hamadani BH* — Solar energy (Phoenix, Ariz.) (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Additive manufacturing, or 3D printing, is quickly becoming a widespread manufacturing method offering timely and cost-effective build times for unique part geometries with an increasing range of material offerings. One unique use for additive manufacturing is constructing the housing for reference solar cells, which are crucial instruments for evaluating the electrical performance of photovoltaic…
-
-
-??? note "Abstract"
-    Additive manufacturing, or 3D printing, is quickly becoming a widespread manufacturing method offering timely and cost-effective build times for unique part geometries with an increasing range of material offerings. One unique use for additive manufacturing is constructing the housing for reference solar cells, which are crucial instruments for evaluating the electrical performance of photovoltaic solar cells and modules. These instruments, which require good thermal conduction, are costly to manufacture because they are usually machined from aluminum using precision milling machines. In this work, we set out to evaluate several presently available additive manufacturing materials for their thermal properties when used to house reference solar cells. We fabricated several types of reference cell instruments with a tabletop, filament-based 3D printer using polylactic acid (PLA) and composite PLA/metal materials with different infill percentages. Furthermore, we fabricated several all-metal 3D printed reference cells using a binder jet printed stainless steel-bronze material blend and compared the thermal properties of all 3D printed instruments against a standard aluminum housing reference cell. Measurements included temperature monitoring of an embedded thermocouple sensor on an isothermal plate under the ambient environment and when exposed to high irradiation under a solar simulator. Current vs voltage measurements were also taken under the solar simulator and the open circuit voltage results were used to verify the actual silicon cell temperature. Our findings indicate that the stainless steel-bronze option can function well as an alternative to traditional aluminum-based housings, while the lower-cost metal-PLA composite can only be used under indoor light spectra or when used in a flash-type solar simulator when the instrument is not exposed to excessive radiation and heat.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38715719/) · [DOI](https://doi.org/10.1016/j.solmat.2015.03.025) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7808256/)
-
-
----
-
 ### \[Technical Status and Development Trend of Medical Electron Linear Accelerators\].
 
 *Zhu Z, Cheng P, Chen L, Long P, Shang L, He T et al.* — Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation (2024)  
@@ -952,25 +876,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38605619/) · [DOI](https://doi.org/10.12455/j.issn.1671-7104.230390)
-
-
----
-
-### Flash healing of laser-induced graphene.
-
-*Cheng L, Yeung CS, Huang L, Ye G, Yan J, Li W et al.* — Nature communications (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** The advancement of laser-induced graphene (LIG) technology has streamlined the fabrications of flexible graphene devices. However, the ultrafast kinetics triggered by laser irradiation generates intrinsic amorphous characteristics, leading to high resistivity and compromised performance in electronic devices.
-
-
-??? note "Abstract"
-    The advancement of laser-induced graphene (LIG) technology has streamlined the fabrications of flexible graphene devices. However, the ultrafast kinetics triggered by laser irradiation generates intrinsic amorphous characteristics, leading to high resistivity and compromised performance in electronic devices. Healing graphene defects in specific patterns is technologically challenging by conventional methods. Herein, we report the rapid rectification of LIG&#x27;s topological defects by flash Joule heating in milliseconds (referred to as F-LIG), whilst preserving its overall structure and porosity. The F-LIG exhibits a decreased ID/IG ratio from 0.84 - 0.33 and increased crystalline domain from Raman analysis, coupled with a 5-fold surge in conductivity. Pair distribution function and atomic-resolution imaging delineate a broader-range order of F-LIG with a shorter C-C bond of 1.425 Å. The improved crystallinity and conductivity of F-LIG with excellent flexibility enables its utilization in high-performance soft electronics and low-voltage disinfections. Notably, our F-LIG/polydimethylsiloxane strain sensor exhibits a gauge factor of 129.3 within 10% strain, which outperforms pristine LIG by 800%, showcasing significant potential for human-machine interfaces.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38575649/) · [DOI](https://doi.org/10.1021/acsami.1c20198) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333117/)
 
 
 ---
@@ -1009,25 +914,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38493501/) · [DOI](https://doi.org/10.1002/mp.17031) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3298565/)
-
-
----
-
-### Evaluating Mass Spectrometry-Based Hydroxyl Radical Protein Footprinting of a Benchtop Flash Oxidation System against a Synchrotron X-ray Beamline.
-
-*Jain R, Dhillon NS, Kanchustambham VL, Lodowski DT, Farquhar ER, Kiselar J et al.* — Journal of the American Society for Mass Spectrometry (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Hydroxyl radical protein footprinting (HRPF) using synchrotron X-ray radiation (XFP) and mass spectrometry is a well-validated structural biology method that provides critical insights into macromolecular structural dynamics, such as determining binding sites, measuring affinity, and mapping epitopes. Numerous alternative sources for generating the hydroxyl radicals (•OH) needed for HRPF, such as …
-
-
-??? note "Abstract"
-    Hydroxyl radical protein footprinting (HRPF) using synchrotron X-ray radiation (XFP) and mass spectrometry is a well-validated structural biology method that provides critical insights into macromolecular structural dynamics, such as determining binding sites, measuring affinity, and mapping epitopes. Numerous alternative sources for generating the hydroxyl radicals (•OH) needed for HRPF, such as laser photolysis and plasma irradiation, complement synchrotron-based HRPF, and a recently developed commercially available instrument based on flash lamp photolysis, the FOX system, enables access to laboratory benchtop HRPF. Here, we evaluate performing HRPF experiments in-house with a benchtop FOX instrument compared to synchrotron-based X-ray footprinting at the NSLS-II XFP beamline. Using lactate oxidase (LOx) as a model system, we carried out •OH labeling experiments using both instruments, followed by nanoLC-MS/MS bottom-up peptide mass mapping. Experiments were performed under high glucose concentrations to mimic the highly scavenging conditions present in biological buffers and human clinical samples, where less •OH are available for reaction with the biomolecule(s) of interest. The performance of the FOX and XFP HRPF methods was compared, and we found that tuning the •OH dosage enabled optimal labeling coverage for both setups under physiologically relevant highly scavenging conditions. Our study demonstrates the complementarity of FOX and XFP labeling approaches, demonstrating that benchtop instruments such as the FOX photolysis system can increase both the throughput and the accessibility of the HRPF technique.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38335063/) · [DOI](https://doi.org/10.1021/jasms.3c00368) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9983004/)
 
 
 ---
@@ -1332,25 +1218,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36427487/) · [DOI](https://doi.org/10.1016/j.ejmp.2022.10.018)
-
-
----
-
-### Characteristics of the cylindrical reflex triode driven by a four-stage linear transformer driver.
-
-*Lai D, Xu Q, Qiu M, Sun F, Jiang X, Li M et al.* — The Review of scientific instruments (2022)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** A cylindrical reflex triode was designed and directly driven by a four-stage linear transformer driver to generate high intensity pulsed warm x rays. We developed a numerical model of the cylindrical reflex triode and simulated and studied the experimental electron distribution and the radiation characteristics.
-
-
-??? note "Abstract"
-    A cylindrical reflex triode was designed and directly driven by a four-stage linear transformer driver to generate high intensity pulsed warm x rays. We developed a numerical model of the cylindrical reflex triode and simulated and studied the experimental electron distribution and the radiation characteristics. The working voltage of the cylindrical reflex triode is 220 kV, and the current is about 600 kA. Under the voltage pulse with a rise time of 100 ns, the electron beam spot is uniform, and the duration of the gap without short circuit reaches 200 ns. The x-ray dose is 385 rad (Si), with an irradiation area of 615 cm2 and a uniformity of less than 2:1. The radiation field distribution is basically consistent with the simulation results. Compared with the two-stage series diode on the Flash-II accelerator, the x-ray conversion efficiency of the cylindrical reflex triode is increased about 1.6 times.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36319370/) · [DOI](https://doi.org/10.1063/5.0090637)
 
 
 ---
@@ -1678,25 +1545,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Determining the Thermal Properties of Buckypapers Used in Photothermal Desorption.
-
-*Shedd JS, Kuehster WW, Ranjit S, Hauser AJ, Floyd EL, Oh J et al.* — ACS omega (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Volatile organic compounds (VOCs) pose an occupational exposure risk due to their commonplace usage across industrial and vocational sectors. With millions of workers annually exposed, monitoring personal VOC exposures becomes an important task.
-
-
-??? note "Abstract"
-    Volatile organic compounds (VOCs) pose an occupational exposure risk due to their commonplace usage across industrial and vocational sectors. With millions of workers annually exposed, monitoring personal VOC exposures becomes an important task. As such, there is a need to improve current monitoring techniques by increasing sensitivity and reducing analysis costs. Recently, our lab developed a novel, preanalytical technique known as photothermal desorption (PTD). PTD uses pulses of high-energy, visible light to thermally desorb analytes from carbonaceous sorbents, with single-walled carbon nanotube buckypapers (BPs) having the best overall performance. To apply this new technology most effectively for chemical analysis, a better understanding of the theoretical framework of the thermal phenomena behind PTD must be gained. The objectives of the present work were 3-fold: measure the thermal response of BPs during irradiation with light; determine the best method for conducting such measurements; and determine the thermal conductivity of BPs. BPs were exposed to four energy densities, produced by light pulses, ranging from 0.28 to 1.33 J/cm2, produced by a xenon flash lamp. The resulting temperature measurements were obtained via fast response thermocouple (T/C) mounted to BPs by three techniques (pressing, adhering, and embedding). Temperature increase measured by T/C using the adhering and pressing techniques resulted in similar values, 29.2 ± 0.8 to 56 ± 3 °C and 29.1 ± 0.9 to 50 ± 5 °C, respectively, while temperature increase measured by embedding the T/C into the BP showed statistically larger increases ranging from 35.2 ± 0.9 to 76 ± 4 °C. Peak BP temperatures for each mounting technique were also compared with the temperatures generated by the light source, which resulted in embedded BPs demonstrating the most temperature conversion among the techniques (74-86%). Based on these results, embedding T/Cs into the BP was concluded to be the best way to measure BP thermal response during PTD. Additionally, the present work modeled BP thermal conductivity using a steady-state comparative technique and found the material&#x27;s conductivity to be 10.6 ± 0.6 W/m2. The present work&#x27;s findings will help pave the way for future developments of the PTD method by allowing calculation of the energy density necessary to attain a desired sorbent temperature and providing a means for comparing BP fabrication techniques and evaluating BP suitability for PTD before conducting PTD trials with analytes of interest. Sorbents with greater thermal conductivity are expected to desorb more evenly and withstand higher energy density exposures.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33681581/) · [DOI](https://doi.org/10.22606/jan.2019.42001) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2669394/)
-
-
----
-
 ### Monitoring electron energies during FLASH irradiations.
 
 *Berne A, Petersson K, Tullis IDC, Newman RG, Vojnovic B* — Physics in medicine and biology (2021)  
@@ -1849,25 +1697,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Phosphorus Analogues of Methyl Nitrite and Nitromethane: CH3 OPO and CH3 PO2.
-
-*Zhao X, Chu X, Rauhut G, Chen C, Song C, Lu B et al.* — Angewandte Chemie (International ed. in English) (2019)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Methoxyphosphinidene oxide (CH3 OPO) and isomeric methyldioxophosphorane (CH3 PO2 ) are key intermediates in the degradation of organophosphorus compounds (OPCs). Unlike the nitrogen analogues CH3 ONO and CH3 NO2 , the experimental data for these two prototypical OPCs are scarce.
-
-
-??? note "Abstract"
-    Methoxyphosphinidene oxide (CH3 OPO) and isomeric methyldioxophosphorane (CH3 PO2 ) are key intermediates in the degradation of organophosphorus compounds (OPCs). Unlike the nitrogen analogues CH3 ONO and CH3 NO2 , the experimental data for these two prototypical OPCs are scarce. By high-vacuum flash pyrolysis (HVFP) of the diazide CH3 OP(O)(N3 )2 at 1000 K, the cis and trans conformers of CH3 OPO have been generated in the gas phase and subsequently isolated in cryogenic Ar and N2 matrices for IR spectroscopic characterization. Upon 266 nm laser irradiation of CH3 OPO, cis→trans conformational conversion occurs with concurrent isomerization to CH3 PO2 . The spectroscopic identification of CH3 OPO and CH3 PO2 is supported by D-, 13 C-, and 18 O-isotope labeling and quantum chemical calculations at the CCSD(T)-F12a/cc-pVTZ-F12 level using configuration-selective vibrational configuration interaction (VCI).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31233267/) · [DOI](https://doi.org/10.1002/anie.201906874)
-
-
----
-
 ### Whole breast radiotherapy in the isocentric lateral decubitus position: Role of the immobilization device and table on clinical results.
 
 *Krhili S, Costa E, Xu HP, Kirova YM* — Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2019)  
@@ -1925,25 +1754,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Guided Slow Continuous Suspension Film Flow for Mass Production of Submicrometer Spherical Particles by Pulsed Laser Melting in Liquid.
-
-*Ishikawa Y, Koshizaki N* — Scientific reports (2018)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Pulsed laser melting in liquid (PLML) is a technique to fabricate submicrometer crystalline spherical particles of various materials by laser irradiation of suspended raw particles with random shapes. To fully exploit the unique features of PLML-fabricated particles (crystalline and spherical) in practice, a mass-production PLML technique is required.
-
-
-??? note "Abstract"
-    Pulsed laser melting in liquid (PLML) is a technique to fabricate submicrometer crystalline spherical particles of various materials by laser irradiation of suspended raw particles with random shapes. To fully exploit the unique features of PLML-fabricated particles (crystalline and spherical) in practice, a mass-production PLML technique is required. To this end, the present study develops a new slit nozzle that guides the suspension film flow into a non-droplet continuous stream with a low flow rate. These two incompatible flow properties (continuity and slowness) are difficult to be realized for a liquid jet to free space. The suspension film flow was irradiated with a typical laboratory scale-flash lamp pumping laser at 30 Hz pulse frequency. Only a single flow passage of the slit nozzle with a few laser pulse irradiation transformed 95% of the raw particles into spherical particles. This spheroidizing ratio exceeded those of low-rate drip flow and high-rate cylindrical laminar flow directly jetted into free space through a Pasteur pipette nozzle. Extrapolating the data obtained from a 20-ml suspension, the average production rate was determined as 195 mg h-1. The high spheroidizing ratio and yield through the slit nozzle is attributable to the uniquely slow but continuous liquid film flow. The structure of the slit nozzle also prevents particles from adhering to the slit wall during continuous laser irradiation. Thus, the suspension film flow through the newly developed slit nozzle can potentially scale up the PLML technique to mass production.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/30242274/) · [DOI](https://doi.org/10.1252/kakoronbunshu1953.36.527) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233983/)
-
-
----
-
 ### Optogenetic conditioning of paradigm and pattern discrimination in the rat somatosensory system.
 
 *Abe K, Yawo H* — PloS one (2017)  
@@ -1982,25 +1792,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Spin Crossover in Fe(II) Complexes with N4S2 Coordination.
-
-*Arroyave A, Lennartson A, Dragulescu-Andrasi A, Pedersen KS, Piligkos S, Stoian SA et al.* — Inorganic chemistry (2016)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Reactions of Fe(II) precursors with the tetradentate ligand S,S&#x27;-bis(2-pyridylmethyl)-1,2-thioethane (bpte) and monodentate NCE(-) coligands afforded mononuclear complexes \[Fe(bpte)(NCE)2\] (1, E = S; 2, E = Se; 3, E = BH3) that exhibit temperature-induced spin crossover (SCO). As the ligand field strength increases from NCS(-) to NCSe(-) to NCBH3(-), the SCO shifts to higher temperatures.
-
-
-??? note "Abstract"
-    Reactions of Fe(II) precursors with the tetradentate ligand S,S&#x27;-bis(2-pyridylmethyl)-1,2-thioethane (bpte) and monodentate NCE(-) coligands afforded mononuclear complexes \[Fe(bpte)(NCE)2\] (1, E = S; 2, E = Se; 3, E = BH3) that exhibit temperature-induced spin crossover (SCO). As the ligand field strength increases from NCS(-) to NCSe(-) to NCBH3(-), the SCO shifts to higher temperatures. Complex 1 exhibits only a partial (15%) conversion from the high-spin (HS) to the low-spin (LS) state, with an onset around 100 K. Complex 3 exhibits a complete SCO with T1/2 = 243 K. While the γ-2 polymorph also shows the complete SCO with T1/2 = 192 K, the α-2 polymorph exhibits a two-step SCO with the first step leading to a 50% HS → LS conversion with T1/2 = 120 K and the second step proceeding incompletely in the 80-50 K range. The amount of residual HS fraction of α-2 that remains below 60 K depends on the cooling rate. Fast flash-cooling allows trapping of as much as 45% of the HS fraction, while slow cooling leads to a 14% residual HS fraction. The slowly cooled sample of α-2 was subjected to irradiation in the magnetometer cavity resulting in a light-induced excited spin state trapping (LIESST) effect. As demonstrated by Mössbauer spectroscopy, an HS fraction of up to 85% could be achieved by irradiation at 4.2 K.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27280361/) · [DOI](https://doi.org/10.1021/acs.inorgchem.6b00246)
-
-
----
-
 ### Growth of nano-dots on the grazing-incidence mirror surface under FEL irradiation.
 
 *Kozhevnikov IV, Buzmakov AV, Siewert F, Tiedtke K, Störmer M, Samoylova L et al.* — Journal of synchrotron radiation (2016)  
@@ -2016,120 +1807,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26698048/) · [DOI](https://doi.org/10.1107/S160057751502202X)
-
-
----
-
-### A Singlet Thiophosphoryl Nitrene and Its Interconversion with Thiazyl and Thionitroso Isomers.
-
-*Li H, Wu Z, Li D, Zeng X, Beckers H, Francisco JS* — Journal of the American Chemical Society (2015)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Thiophosphoryl nitrenes, R2P(S)N, are thiazirine-like intermediates that have been chemically inferred from trapping products in early solution studies. In this work, photolysis of the simplest thiophosphoryl azide, F2P(S)N3, in solid noble-gas matrices enabled a first-time spectroscopic (IR and UV-vis) identification of the thiophosphoryl nitrene F2P(S)N in its singlet ground state.
-
-
-??? note "Abstract"
-    Thiophosphoryl nitrenes, R2P(S)N, are thiazirine-like intermediates that have been chemically inferred from trapping products in early solution studies. In this work, photolysis of the simplest thiophosphoryl azide, F2P(S)N3, in solid noble-gas matrices enabled a first-time spectroscopic (IR and UV-vis) identification of the thiophosphoryl nitrene F2P(S)N in its singlet ground state. Upon visible-light irradiation (≥495 nm), it converts into the thionitroso isomer F2P-N═S, which can also be produced in the gas phase from flash vacuum pyrolysis of F2P(S)N3. Further irradiation of F2P-NS with 365 nm UV light leads to the reformation of F2P(S)N and isomerization to the thiazyl species F2P-S≡N.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26275526/) · [DOI](https://doi.org/10.1021/jacs.5b07302)
-
-
----
-
-### Flavylium network of chemical reactions in confined media: modulation of 3&#x27;,4&#x27;,7-trihydroxyflavilium reactions by host-guest interactions with cucurbit\[7\]uril.
-
-*Basílio N, Pina F* — Chemphyschem : a European journal of chemical physics and physical chemistry (2014)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** In moderately acidic aqueous solutions, flavylium compounds undergo a pH-, and in some cases, light-dependent array of reversible chemical reactions. This network can be described as a single acid-base reaction involving a flavylium cation (acidic form) and a mixture of basic forms (quinoidal base, hemiketal and cis and trans chalcones).
-
-
-??? note "Abstract"
-    In moderately acidic aqueous solutions, flavylium compounds undergo a pH-, and in some cases, light-dependent array of reversible chemical reactions. This network can be described as a single acid-base reaction involving a flavylium cation (acidic form) and a mixture of basic forms (quinoidal base, hemiketal and cis and trans chalcones). The apparent pK&#x27;a of the system and the relative mole fractions of the basic forms can be modulated by the interaction with cucurbit\[7\]uril. The system is studied by using (1) H NMR spectroscopy, UV/Vis spectroscopy, flash photolysis, and steady-state irradiation. Of all the network species, the flavylium cation possesses the highest affinity for cucurbit\[7\]uril. The rate of interconversion between flavylium cation and the basic species (where trans-chalcone is dominant) is approximately nine times lower inside the cucurbit\[7\]uril.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24862455/) · [DOI](https://doi.org/10.1002/cphc.201402051)
-
-
----
-
-### A LOV-domain-mediated blue-light-activated adenylate (adenylyl) cyclase from the cyanobacterium Microcoleus chthonoplastes PCC 7420.
-
-*Raffelberg S, Wang L, Gao S, Losi A, Gärtner W, Nagel G* — The Biochemical journal (2013)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Genome screening of the cyanobacterium Microcoleus chthonoplastes PCC 7420 identified a gene encoding a protein (483 amino acids, 54.2 kDa in size) characteristic of a BL (blue light)-regulated adenylate (adenylyl) cyclase function. The photoreceptive part showed signatures of a LOV (light, oxygen, voltage) domain.
-
-
-??? note "Abstract"
-    Genome screening of the cyanobacterium Microcoleus chthonoplastes PCC 7420 identified a gene encoding a protein (483 amino acids, 54.2 kDa in size) characteristic of a BL (blue light)-regulated adenylate (adenylyl) cyclase function. The photoreceptive part showed signatures of a LOV (light, oxygen, voltage) domain. The gene product, mPAC (Microcoleus photoactivated adenylate cyclase), exhibited the LOV-specific three-peaked absorption band (λmax=450 nm) and underwent conversion into the photoadduct form (λmax=390 nm) upon BL-irradiation. The lifetime for thermal recovery into the parent state was determined as 16 s at 20°C (25 s at 11°C). The adenylate cyclase function showed a constitutive activity (in the dark) that was in-vitro-amplified by a factor of 30 under BL-irradiation. Turnover of the purified protein at saturating light and pH 8 is estimated to 1 cAMP/mPAC per s at 25°C (2 cAMP/mPAC per s at 35°C). The lifetime of light-activated cAMP production after a BL flash was ~14 s at 20°C. The temperature optimum was determined to 35°C and the pH optimum to 8.0. The value for half-maximal activating light intensity is 6 W/m2 (at 35°C). A comparison of mPAC and the BLUF (BL using FAD) protein bPAC (Beggiatoa PAC), as purified proteins and expressed in Xenopus laevis oocytes, yielded higher constitutive activity for mPAC in the dark, but also when illuminated with BL.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24112109/) · [DOI](https://doi.org/10.1042/BJ20130637)
-
-
----
-
-### Unusual spectral properties of bacteriophytochrome Agp2 result from a deprotonation of the chromophore in the red-absorbing form Pr.
-
-*Zienicke B, Molina I, Glenz R, Singer P, Ehmer D, Escobar FV et al.* — The Journal of biological chemistry (2013)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Phytochromes are widely distributed photoreceptors with a bilin chromophore that undergo a typical reversible photoconversion between the two spectrally different forms, Pr and Pfr. The phytochrome Agp2 from Agrobacterium tumefaciens belongs to the group of bathy phytochromes that have a Pfr ground state as a result of the Pr to Pfr dark conversion.
-
-
-??? note "Abstract"
-    Phytochromes are widely distributed photoreceptors with a bilin chromophore that undergo a typical reversible photoconversion between the two spectrally different forms, Pr and Pfr. The phytochrome Agp2 from Agrobacterium tumefaciens belongs to the group of bathy phytochromes that have a Pfr ground state as a result of the Pr to Pfr dark conversion. Agp2 has untypical spectral properties in the Pr form reminiscent of a deprotonated chromophore as confirmed by resonance Raman spectroscopy. UV/visible absorption spectroscopy showed that the pKa is &gt;11 in the Pfr form and ∼7.6 in the Pr form. Unlike other phytochromes, photoconversion thus results in a pKa shift of more than 3 units. The Pr/Pfr ratio after saturating irradiation with monochromatic light is strongly pH-dependent. This is partially due to a back-reaction of the deprotonated Pr chromophore at pH 9 after photoexcitation as found by flash photolysis. The chromophore protonation and dark conversion were affected by domain swapping and site-directed mutagenesis. A replacement of the PAS or GAF domain by the respective domain of the prototypical phytochrome Agp1 resulted in a protonated Pr chromophore; the GAF domain replacement afforded an inversion of the dark conversion. A reversion was also obtained with the triple mutant N12S/Q190L/H248Q, whereas each single point mutant is characterized by decelerated Pr to Pfr dark conversion.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24036118/) · [DOI](https://doi.org/10.1074/jbc.M113.479535) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC129451/)
-
-
----
-
-### Microwave-assisted synthesis of colloidal inorganic nanocrystals.
-
-*Baghbanzadeh M, Carbone L, Cozzoli PD, Kappe CO* — Angewandte Chemie (International ed. in English) (2011)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Colloidal inorganic nanocrystals stand out as an important class of advanced nanomaterials owing to the flexibility with which their physical-chemical properties can be controlled through size, shape, and compositional engineering in the synthesis stage and the versatility with which they can be implemented into technological applications in fields as diverse as optoelectronics, energy conversion/…
-
-
-??? note "Abstract"
-    Colloidal inorganic nanocrystals stand out as an important class of advanced nanomaterials owing to the flexibility with which their physical-chemical properties can be controlled through size, shape, and compositional engineering in the synthesis stage and the versatility with which they can be implemented into technological applications in fields as diverse as optoelectronics, energy conversion/production, catalysis, and biomedicine. The use of microwave irradiation as a non-classical energy source has become increasingly popular in the preparation of nanocrystals (which generally involves complex and time-consuming processing of molecular precursors in the presence of solvents, ligands and/or surfactants at elevated temperatures). Similar to its now widespread use in organic chemistry, the efficiency of &quot;microwave flash heating&quot; in dramatically reducing overall processing times is one of the main advantages associated with this technique. This Review illustrates microwave-assisted methods that have been developed to synthesize colloidal inorganic nanocrystals and critically evaluates the specific roles that microwave irradiation may play in the formation of these nanomaterials.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/22058070/) · [DOI](https://doi.org/10.1002/anie.201101274)
-
-
----
-
-### Synthesis and photochromism of naphthopyrans bearing naphthalimide chromophore: predominant thermal reversibility in color-fading and fluorescence switch.
-
-*Song L, Yang Y, Zhang Q, Tian H, Zhu W* — The journal of physical chemistry. B (2011)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Two novel photochromic naphthopyrans containing naphthalimide moieties (Nip1 and Nip2) were studied in solution under flash photolysis conditions, exhibiting highly photochromic response, rapid thermal bleaching rate and good fatigue-resistance. Owing to the different N-substituted imide groups at the naphthalimide units, the thermal bleaching rate of Nip2 bearing phenyl on the naphthalimide unit …
-
-
-??? note "Abstract"
-    Two novel photochromic naphthopyrans containing naphthalimide moieties (Nip1 and Nip2) were studied in solution under flash photolysis conditions, exhibiting highly photochromic response, rapid thermal bleaching rate and good fatigue-resistance. Owing to the different N-substituted imide groups at the naphthalimide units, the thermal bleaching rate of Nip2 bearing phenyl on the naphthalimide unit is found to be approximately 2 times that of Nip1 bearing n-butyl, indicating that the photochromic properties can be modulated with introduction of different functional groups on the naphthalimide unit. In Nip1 and Nip2, the strong electron-withdrawing effect of the imide group incorporated at the naphthalimide moiety maintains several merits: (i) shifting absorption bands to longer wavelength, (ii) beneficial to an enhancement in the ratio of transoid-cis (TC) isomer and an increase in the transformation rate from transoid-trans (TT) to TC with respect to reference compound NP, and (iii) resulting in a preferable color bleaching rate and fading absolutely to their colorless state with thermal reversibility. As demonstrated in the system of NP, the slow transformation process from TT to TC might be the predominant dynamic step in thermal back process, leading to the residual color of NP being only faded to its original colorless state by visible light irradiation. The optical densities of colored forms for Nip1 and Nip2 are dependent upon the intensity of incident light, ensuring a possible application in the manufacture of ophthalmic lenses and smart windows. Moreover, the fluorescence of Nip1 and Nip2 can be switched on and off by photoinduced conversion between the closed and open forms.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/22026405/) · [DOI](https://doi.org/10.1021/jp208082w)
 
 
 ---
@@ -2191,44 +1868,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Re-training and switching of PD system to reduce recurrent gram-positive PD peritonitis.
-
-*Cox SD, Steddon S, Mallinder S, Fan SL, Punzalan S* — Journal of renal care (2006)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Intensive training and re-education of peritoneal dialysis (PD) exchange technique has been advocated to minimize peritonitis rate. However, re-education of patients that are established on PD for some years can be difficult and a minority of patients on PD remain susceptible to repeated episodes of peritonitis.
-
-
-??? note "Abstract"
-    Intensive training and re-education of peritoneal dialysis (PD) exchange technique has been advocated to minimize peritonitis rate. However, re-education of patients that are established on PD for some years can be difficult and a minority of patients on PD remain susceptible to repeated episodes of peritonitis. The UV Flash Compact system (Baxter Healthcare) automates patient connection and disconnection during the PD exchange procedure and uses bactericidal UV irradiation to minimise the effects of touch contamination. We have explored the efficacy of retraining patients using this system for reducing peritonitis rates in a cohort of 10 patients in who repeated episodes of peritonitis due to gram +ve organisms suggest irrevocable breaches in sterile technique. These patients were converted from their existing PD system (6 Staysafe \[Fresenius Medical Care\], 4 Mini-solo \[Baxter\]). Mean follow up post-conversion was 10 months. There was a striking reduction in peritonitis caused by gram +ve pathogens from 1 in 8.5 to 1 in 50.5 months. Although it is not possible in this study to differentiate the impact of the UV Flash Compact as opposed to the effect of re-training, we advocate that patients with a high peritonitis burden from gram +ve organisms should be considered for conversion to the UV Compact system.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17345978/) · [DOI](https://doi.org/10.1111/j.1755-6686.2006.tb00022.x)
-
-
----
-
-### Design and testing of low intensity laser biostimulator.
-
-*Valchinov ES, Pallikarakis NE* — Biomedical engineering online (2005)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** The non-invasive nature of laser biostimulation has made lasers an attractive alternative in Medical Acupuncture at the last 25 years. However, there is still an uncertainty as to whether they work or their effect is just placebo.
-
-
-??? note "Abstract"
-    BACKGROUND: The non-invasive nature of laser biostimulation has made lasers an attractive alternative in Medical Acupuncture at the last 25 years. However, there is still an uncertainty as to whether they work or their effect is just placebo. Although a plethora of scientific papers published about the topic showing positive clinical results, there is still a lack of objective scientific proofs about the biostimulation effect of lasers in Medical Acupuncture. The objective of this work was to design and build a low cost portable laser device for stimulation of acupuncture points, considered here as small localized biosources (SLB), without stimulating any sensory nerves via shock or heat and to find out a suitable method for objectively evaluating its stimulating effect. The design is aimed for studying SLB potentials provoked by laser stimulus, in search for objective proofs of the biostimulation effect of lasers used in Medical Acupuncture. METHODS: The proposed biostimulator features two operational modes: program mode and stimulation mode and two output polarization modes: linearly and circularly polarized laser emission. In program mode, different user-defined stimulation protocols can be created and memorized. The laser output can be either continuous or pulse modulated. Each stimulation session consists of a pre-defined number of successive continuous or square pulse modulated sequences of laser emission. The variable parameters of the laser output are: average output power, pulse width, pulse period, and continuous or pulsed sequence duration and repetition period. In stimulation mode the stimulus is automatically applied according to the pre-programmed protocol. The laser source is 30 mW AlGaInP laser diode with an emission wavelength of 685 nm, driven by a highly integrated driver. The optical system designed for beam collimation and polarization change uses single collimating lens with large numerical aperture, linear polarizer and a quarter-wave retardation plate. The proposed method for testing the device efficiency employs a biofeedback from the subject by recording the biopotentials evoked by the laser stimulus at related distant SLB sites. Therefore measuring of SLB biopotentials caused by the stimulus would indicate that a biopotential has been evoked at the irradiated site and has propagated to the measurement sites, rather than being caused by local changes of the electrical skin conductivity. RESULTS: A prototype device was built according to the proposed design using relatively inexpensive and commercially available components. The laser output can be pulse modulated from 0.1 to 1000 Hz with a duty factor from 10 to 90%. The average output power density can be adjusted in the range 24-480 mW/cm2, where the total irradiation is limited to 2 Joule per stimulation session. The device is controlled by an 8-bit RISC Flash microcontroller with internal RAM and EEPROM memory, which allows for a wide range of different stimulation protocols to be implemented and memorized. The integrated laser diode driver with its onboard light power control loop provides safe and consistent laser modulation. The prototype was tested on the right Tri-Heater (TH) acupuncture meridian according to the proposed method. Laser evoked potentials were recorded from most of the easily accessible SLB along the meridian under study. They appear like periodical spikes with a repetition rate from 0.05 to 10 Hz and amplitude range 0.1-1 mV. CONCLUSION: The prototype&#x27;s specifications were found to be better or comparable to those of other existing devices. It features low component count, small size and low power consumption. Because of the low power levels used the possibility of sensory nerve stimulation via the phenomenon of shock or heat is excluded. Thus senseless optical stimulation is achieved. The optical system presented offers simple and cost effective way for beam collimation and polarization change. The novel method proposed for testing the device efficiency allows for objectively recording of SLB potentials evoked by laser stimulus. Based on the biopotential records obtained with this method, a scientifically based conclusion can be drawn about the effectiveness of the commercially available devices for low-level laser therapy used in Medical Acupuncture. The prototype tests showed that with the biostimulator presented, SLB could be effectively stimulated at low power levels. However more studies are needed to derive a general conclusion about the SLB biostimulation mechanism of lasers and their most effective power and optical settings.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/15649327/) · [DOI](https://doi.org/10.1186/1475-925X-3-25) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC497047/)
-
-
----
-
 ### Irradiation of intense characteristic x-rays from weakly ionized linear molybdenum plasma.
 
 *Sato E, Hayasi Y, Germer R, Tanaka E, Mori H, Kawai T et al.* — Igaku butsuri : Nihon Igaku Butsuri Gakkai kikanshi = Japanese journal of medical physics : an official journal of Japan Society of Medical Physics (2003)  
@@ -2244,63 +1883,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/12949421/)
-
-
----
-
-### Fast microwave-assisted preparation of aryl and vinyl nitriles and the corresponding tetrazoles from organo-halides.
-
-*Alterman M, Hallberg A* — The Journal of organic chemistry (2000)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Aryl and vinyl nitriles have been prepared in very high yields from the corresponding bromides using palladium-catalyzed reactions with microwave irradiation employed as the energy source. Furthermore, flash heating was used successfully for the conversion of these nitriles into aryl and vinyl tetrazoles by cycloaddition reactions.
-
-
-??? note "Abstract"
-    Aryl and vinyl nitriles have been prepared in very high yields from the corresponding bromides using palladium-catalyzed reactions with microwave irradiation employed as the energy source. Furthermore, flash heating was used successfully for the conversion of these nitriles into aryl and vinyl tetrazoles by cycloaddition reactions. One-pot transformation of aryl halides directly to the aryl tetrazoles could be accomplished both in solution and on solid support. All reactions were completed in minutes rather than in hours or days as previously reported with the standard thermal heating technique. A very potent HIV-1 protease inhibitor (K(i) = 0. 56 nM), comprising two tetrazole heterocycles as carboxyl group bioisosteres, was prepared in one pot by microwave-promoted cyanation of a bromo precursor and a subsequent cycloaddition reaction. The temperature-time profiles at 13, 20, and 60 W magnetron input power in DMF are presented.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11073607/) · [DOI](https://doi.org/10.1021/jo0009954)
-
-
----
-
-### Intramolecular Diels-Alder Reaction of N-Alkyl-2-cyano-1-azadienes: A Study of the Eschenmoser Cycloreversion of Dihydrooxazines as a Route to N-Alkyl-2-cyano-1-azadienes.
-
-*Motorina IA, Fowler FW, Grierson DS* — The Journal of organic chemistry (1997)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** In connection with the development of the intramolecular Diels-Alder reaction (IMDA) of 1-azadienes, the 5,6-dihydro-4H-1,2-oxazine 12has been evaluated as a synthon equivalent of the 2-cyano-1-azadiene system. It was found that the dihydrooxazonium salt 27, generated in situ from the cyclic hydroxamic acid derivative 26, is converted directly to azadiene 4a via tautomerization to the correspondin…
-
-
-??? note "Abstract"
-    In connection with the development of the intramolecular Diels-Alder reaction (IMDA) of 1-azadienes, the 5,6-dihydro-4H-1,2-oxazine 12has been evaluated as a synthon equivalent of the 2-cyano-1-azadiene system. It was found that the dihydrooxazonium salt 27, generated in situ from the cyclic hydroxamic acid derivative 26, is converted directly to azadiene 4a via tautomerization to the corresponding enamine and a particularly facile Eschenmoser type cycloreversion process. Conditions were subsequently found for the preparation of synthon 12. N-Alkylation of this intermediate with alkyl bromides in the presence of Ag(+) ion also resulted in direct formation of the 2-cyano-1-azadiene products 38a-dand 4a. Microwave irradiation of a benzene solution of azadiene 4a proved to be a convenient means to effect its IMDA conversion to indolizidine 5a. To avoid decomposition of azadiene 38c, its intramolecular cycloaddition giving 40 (60%) was achieved by flash vacuum thermolysis.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11671514/) · [DOI](https://doi.org/10.1021/jo9614046)
-
-
----
-
-### The value of setup portal films as an estimate of a patient&#x27;s position throughout fractionated tangential breast irradiation: an on-line study.
-
-*McGee KP, Fein DA, Hanlon AL, Schultheiss TE, Fowble BL* — International journal of radiation oncology, biology, physics (1997)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** To determine if portal setup films are an accurate representation of a patient&#x27;s position throughout the course of fractionated tangential breast irradiation. METHODS AND MATERIALS: Thirteen patients undergoing external beam irradiation for T1-T2 infiltrating ductal carcinoma of the breast following excisional biopsy and axillary dissection were imaged using an on-line portal imaging device attach…
-
-
-??? note "Abstract"
-    PURPOSE: To determine if portal setup films are an accurate representation of a patient&#x27;s position throughout the course of fractionated tangential breast irradiation. METHODS AND MATERIALS: Thirteen patients undergoing external beam irradiation for T1-T2 infiltrating ductal carcinoma of the breast following excisional biopsy and axillary dissection were imaged using an on-line portal imaging device attached to a 6 MV linear accelerator. Medial and lateral tangential fields were imaged and a total of 139 fractions, 225 portal fields, and 4450 images were obtained. Interfractional and intrafractional variations for anatomical parameters including the central lung distance (CLD), central flash distance (CFD), and inferior central margin (ICM) were calculated from these images. A pooled estimate of the random error associated with a given treatment was determined by adding the interfractional and intrafractional standard deviations in quadrature. A 95% confidence level assigned a value of two standard deviations of the random error estimate. Central lung distance, CFD, and ICM distances were then measured for all portal setup films. Significant differences were defined as occurring when the simulation-setup difference was greater than the 95% confidence value. RESULTS: Differences between setup portal and simulation films were less than their 95% confidence values in 70 instances indicating that in 90% of the time these differences are a result of random differences in daily treatment positioning. CONCLUSIONS: In 90% of cases tested, initial portal setup films are an accurate representation of a patients daily treatment setup.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/9054899/) · [DOI](https://doi.org/10.1016/s0360-3016(96)00463-4)
 
 
 ---
@@ -2339,25 +1921,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/7934252/) · [DOI](https://doi.org/10.1007/BF02512524)
-
-
----
-
-### X-ray diffraction and flash photolysis studies of M intermediate of lattice-contracted purple membrane.
-
-*Uruga T, Hamanaka T, Wakabayashi K, Amemiya Y* — Journal of biochemistry (1990)  
-
-<span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** The effects of cross-linking and lattice contraction of purple membrane (PM) on the photodynamics of bacteriorhodopsin (bR) and on the tertiary structure were studied by flash photolysis and X-ray diffraction. To get a contracted lattice form of PM, native PM, and/or PM cross-linked by glutaraldehyde were treated with deoxycholate or Triton X-100.
-
-
-??? note "Abstract"
-    The effects of cross-linking and lattice contraction of purple membrane (PM) on the photodynamics of bacteriorhodopsin (bR) and on the tertiary structure were studied by flash photolysis and X-ray diffraction. To get a contracted lattice form of PM, native PM, and/or PM cross-linked by glutaraldehyde were treated with deoxycholate or Triton X-100. Part of the Triton-treated cross-linked PM was further incubated with Bio-Beads SM-2 to remove Triton X-100. In the modified PM, several long-lived components of the M intermediate appeared, the features of which were related to the environment of bR. Also, X-ray diffraction studies using synchrotron radiation were performed on the modified PM under intense light irradiation (lambda greater than 500 nm) in which 40-80% of bR was photoconverted to the M state. In the Triton-treated cross-linked PM dispersed in 0.25% Triton X-100, the unit cell of membrane crystalline lattice was enlarged from 58.8 to 59.8 A and the crystalline order decreased with irradiation. The analysis of X-ray diffraction patterns suggests that light-induced conformational changes of bR correlated with the Triton content of the environment and an increase of substitution disorder was caused by these changes, but the average location of bR was unchanged. However, the other modified PM showed no significant changes of diffraction, upon light irradiation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2128489/) · [DOI](https://doi.org/10.1093/oxfordjournals.jbchem.a123318)
 
 
 ---
@@ -2415,6 +1978,18 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/16656971/) · [DOI](https://doi.org/10.1104/pp.43.11.1781) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1087078/)
+
+
+---
+
+### \[X-ray flash tube as source of ultrahigh dosage production\].
+
+*ANGERSTEIN W* — Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin (1959)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/13663981/)
 
 
 ---

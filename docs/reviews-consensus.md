@@ -2,7 +2,7 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*216 records. Newest first.*
+*204 records. Newest first.*
 
 ---
 
@@ -1944,25 +1944,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Extracellular Vesicle- and Mitochondria-Based Targeting of Non-Small Cell Lung Cancer Response to Radiation: Challenges and Perspectives.
-
-*Leonov S, Dorfman A, Pershikova E, Inyang O, Alhaddad L, Wang Y et al.* — Cancers (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** During the cell life cycle, extracellular vesicles (EVs) transport different cargos, including organelles, proteins, RNAs, DNAs, metabolites, etc., that influence cell proliferation and apoptosis in recipient cells. EVs from metastatic cancer cells remodel the extracellular matrix and cells of the tumor microenvironment (TME), promoting tumor invasion and metastatic niche preparation.
-
-
-??? note "Abstract"
-    During the cell life cycle, extracellular vesicles (EVs) transport different cargos, including organelles, proteins, RNAs, DNAs, metabolites, etc., that influence cell proliferation and apoptosis in recipient cells. EVs from metastatic cancer cells remodel the extracellular matrix and cells of the tumor microenvironment (TME), promoting tumor invasion and metastatic niche preparation. Although the process is not fully understood, evidence suggests that EVs facilitate genetic material transfer between cells. In the context of NSCLC, EVs can mediate intercellular mitochondrial (Mt) transfer, delivering mitochondria organelle (MtO), mitochondrial DNA (mtDNA), and/or mtRNA/proteinaceous cargo signatures (MtS) through different mechanisms. On the other hand, certain populations of cancer cells can hijack the MtO from TME cells mainly by using tunneling nanotubes (TNTs). This transfer aids in restoring mitochondrial function, benefiting benign cells with impaired metabolism and enabling restoration of their metabolic activity. However, the impact of transferring mitochondria versus transplanting intact mitochondrial organelles in cancer remains uncertain and the subject of debate. Some studies suggest that EV-mediated mitochondria delivery to cancer cells can impact how cancer responds to radiation. It might make the cancer more resistant or more sensitive to radiation. In our review, we aimed to point out the current controversy surrounding experimental data and to highlight new paradigm-shifting modalities in radiation therapy that could potentially overcome cancer resistance mechanisms in NSCLC.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38927940/) · [DOI](https://doi.org/10.1038/s41586-023-05793-3) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10033418/)
-
-
----
-
 ### Navigating the Critical Translational Questions for Implementing FLASH in the Clinic.
 
 *Loo BW, Verginadis II, Sørensen BS, Mascia AE, Perentesis JP, Koong AC et al.* — Seminars in radiation oncology (2024)  
@@ -2761,25 +2742,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Treatment-integrated imaging, radiomics, and personalised radiotherapy: the future is at hand.
-
-*Malicki J, Piotrowski T, Guedea F, Krengli M* — Reports of practical oncology and radiotherapy : journal of Greatpoland Cancer Center in Poznan and Polish Society of Radiation Oncology (2022)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Since the introduction of computed tomography for planning purposes in the 1970s, we have been observing a continuous development of different imaging methods in radiotherapy. The current achievements of imaging technologies in radiotherapy enable more than just improvement of accuracy on the planning stage.
-
-
-??? note "Abstract"
-    Since the introduction of computed tomography for planning purposes in the 1970s, we have been observing a continuous development of different imaging methods in radiotherapy. The current achievements of imaging technologies in radiotherapy enable more than just improvement of accuracy on the planning stage. Through integrating imaging with treatment machines, they allow advanced control methods of dose delivery during the treatment. This article reviews how the integration of existing and novel forms of imaging changes radiotherapy and how these advances can allow a more individualised approach to cancer therapy. We believe that the significant challenge for the next decade is the continued integration of a range of different imaging devices into linear accelerators. These imaging modalities should show intra-fraction changes in body morphology and inter-fraction metabolic changes. As the use of these more advanced, integrated machines grows, radiotherapy delivery will become more accurate, thus resulting in better clinical outcomes: higher cure rates with fewer side effects.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36196410/) · [DOI](https://doi.org/10.1088/0031-9155/49/23/002) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768001/)
-
-
----
-
 ### A potential revolution in cancer treatment: A topical review of FLASH radiotherapy.
 
 *Gao Y, Liu R, Chang CW, Charyyev S, Zhou J, Bradley JD et al.* — Journal of applied clinical medical physics (2022)  
@@ -2814,25 +2776,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36139006/) · [DOI](https://doi.org/10.1158/0008-5472.CAN-12-3981) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4097014/)
-
-
----
-
-### \[Securing the information system of health care organisations\].
-
-*Fleury B, Loudenot P, Suszko M, Fourel S, Kapola X, Langrand-Escure J et al.* — Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2022)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** The information system involves all the resources managing information within a team. It mainly relies on the computer network.
-
-
-??? note "Abstract"
-    The information system involves all the resources managing information within a team. It mainly relies on the computer network. Prevention and protection measures are vital, especially in a radiotherapy department. They will aim to preserve the whole staff from potential risks connected with passwords, suspicious emails, specific websites, or USB flash drives. Also, they will consist in maintaining updated operating systems and software, activating antivirus programs and firewalls, and getting a map of the whole network and its users. Finally, it is necessary to anticipate failure scenarios and to set up recovery plans to continue the activity with lower resources.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36057518/) · [DOI](https://doi.org/10.1016/j.canrad.2022.06.032)
 
 
 ---
@@ -3445,25 +3388,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Review: High temperature short time treatment of cell culture media and feed solutions to mitigate adventitious viral contamination in the biopharmaceutical industry.
-
-*Djemal L, Fournier C, von Hagen J, Kolmar H, Deparis V* — Biotechnology progress (2021)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** Events of viral contaminations occurring during the production of biopharmaceuticals have been publicly reported by the biopharmaceutical industry. Upstream raw materials were often identified as the potential source of contamination.
-
-
-??? note "Abstract"
-    Events of viral contaminations occurring during the production of biopharmaceuticals have been publicly reported by the biopharmaceutical industry. Upstream raw materials were often identified as the potential source of contamination. Viral contamination risk can be mitigated by inactivating or eliminating potential viruses of cell culture media and feed solutions. Different methods can be used alone or in combination on raw materials, cell culture media, or feed solutions such as viral inactivation technologies consisting mainly of high temperature short time, ultraviolet irradiation, and gamma radiation technologies or such as viral removal technology for instance nanofiltration. The aim of this review is to present the principle, the advantages, and the challenges of high temperature short time (HTST) technology. Here, we reviewed effectiveness of HTST treatment and its impact on media (filterability of media, degradation of components), on process performance (cell growth, cell metabolism, productivity), and product quality based on knowledge shared in the literature.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33372404/) · [DOI](https://doi.org/10.1002/btpr.3117)
-
-
----
-
 ### The impact of proton therapy on cardiotoxicity following radiation treatment.
 
 *Frankart AJ, Nagarajan R, Pater L* — Journal of thrombosis and thrombolysis (2021)  
@@ -3939,139 +3863,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Alternatives to conventional thermal treatments in fruit-juice processing. Part 2: Effect on composition, phytochemical content, and physicochemical, rheological, and organoleptic properties of fruit juices.
-
-*Jiménez-Sánchez C, Lozano-Sánchez J, Segura-Carretero A, Fernández-Gutiérrez A* — Critical reviews in food science and nutrition (2017)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** Traditional thermal techniques may cause losses in nutritional quality and phytochemical contents, and also in physicochemical, rheological, and organoleptic properties of processed fruit juices. This paper provides an overview of the effect on these qualities by the use of alternatives to traditional thermal treatments in fruit-juice processing, for three key operations in fruit-juice production …
-
-
-??? note "Abstract"
-    Traditional thermal techniques may cause losses in nutritional quality and phytochemical contents, and also in physicochemical, rheological, and organoleptic properties of processed fruit juices. This paper provides an overview of the effect on these qualities by the use of alternatives to traditional thermal treatments in fruit-juice processing, for three key operations in fruit-juice production such as microbial inactivation, enzyme inactivation, and juice-yield improvement. These alternatives are UV light, high-intensity light pulses, γ-irradiation, pulsed electric fields, radiofrequency electric fields, Ohmic heating, microwave heating, ultrasound, high hydrostatic pressure, supercritical carbon dioxide, ozonation, and flash-vacuum expansion. Although alternatives to heat treatments seem to be less detrimental than the thermal treatment, there are many parameters and conditions that influence the output, as well as the nature of the juice itself, hampering comparisons between different studies. Additionally, future research should focus on understanding the mechanisms underlying the changes in the overall quality of fruit juices, and also on scaled-up processes, process design, and optimization that need to be deal with in detail to maximize their potential as alternative nonthermal technologies in fruit-juice processing while maintaining fruit-juice attributes to the maximum.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25894933/) · [DOI](https://doi.org/10.1080/10408398.2014.914019)
-
-
----
-
-### Alternatives to conventional thermal treatments in fruit-juice processing. Part 1: Techniques and applications.
-
-*Jiménez-Sánchez C, Lozano-Sánchez J, Segura-Carretero A, Fernández-Gutiérrez A* — Critical reviews in food science and nutrition (2017)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** This paper provides an overview of alternatives to conventional thermal treatments and a review of the literature on fruit-juice processing for three key operations in fruit-juice production such as microbial inactivation, enzyme inactivation, and juice yield enhancement, these being radiation treatments (UV light, high-intensity light pulses, γ-irradiation), electrical treatments (pulsed electric…
-
-
-??? note "Abstract"
-    This paper provides an overview of alternatives to conventional thermal treatments and a review of the literature on fruit-juice processing for three key operations in fruit-juice production such as microbial inactivation, enzyme inactivation, and juice yield enhancement, these being radiation treatments (UV light, high-intensity light pulses, γ-irradiation), electrical treatments (pulsed electric fields, radiofrequency electric fields, ohmic heating), microwave heating, ultrasound, high hydrostatic pressure, inert gas treatments (supercritical carbon dioxide, ozonation), and flash-vacuum expansion. The nonthermal technologies discussed in this review have the potential to meet industry and consumer expectations. However, the lack of standardization in operating conditions hampers comparisons among different studies, and consequently ambiguity arises within the literature. For the juice industry to advance, more detailed studies are needed on the scaling-up, process design, and optimization, as well as on the effect of such technologies on juice quality of juices in order to maximize their potential as alternative nonthermal technologies in fruit-juice processing.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25849158/) · [DOI](https://doi.org/10.1080/10408398.2013.867828)
-
-
----
-
-### Human Milk Processing: A Systematic Review of Innovative Techniques to Ensure the Safety and Quality of Donor Milk.
-
-*Peila C, Emmerik NE, Giribaldi M, Stahl B, Ruitenberg JE, van Elburg RM et al.* — Journal of pediatric gastroenterology and nutrition (2017)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** Pasteurization, performed at 62.5°C for 30 minutes (holder pasteurization), is currently recommended in all international human milk banks guidelines, but it affects some human milk bioactive and nutritive components. The present systematic review is aimed at critically reviewing evidence on the suitability of human milk processing techniques other than holder pasteurization, both thermal and nont…
-
-
-??? note "Abstract"
-    Pasteurization, performed at 62.5°C for 30 minutes (holder pasteurization), is currently recommended in all international human milk banks guidelines, but it affects some human milk bioactive and nutritive components. The present systematic review is aimed at critically reviewing evidence on the suitability of human milk processing techniques other than holder pasteurization, both thermal and nonthermal, to ensure microbiological safety, and on the effects of these techniques on biologically active donor milk components. A systematic review of English and non-English articles using Medline, PubMed, Embase, SCOPUS, and CAB Abstracts, with no restriction in publication date was performed. Search terms included: human, breast, donor, or banked milk, breastmilk, breast fed, breastfed, breastfeed; HTST, Flash, High Pressure, UV, ultrasonic or nonthermal; process, pasteuris, pasteuriz. Only primary research articles published in peer-reviewed journals were included, providing or not a comparison with holder pasteurized human milk, provided that the pasteurization technique was clearly described, and not intended for domestic use. Additional studies were identified by searching bibliographies of relevant articles. Twenty-six studies were identified as being relevant. Two examined both High Pressure Processing and High-Temperature-Short-Time pasteurization; 10 only examined High Pressure Processing; 10 only examined High-Temperature-Short-Time; 2 articles examined ultraviolet irradiation; 2 articles examined (thermo-)ultrasonic processing. The results indicate that data about safety for microbiological control are still scarce for most of the novel technologies, and that consensus on processing conditions is necessary for nonthermal technologies, before any conclusions on the qualitative and nutritional advantages of these techniques can be drawn.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27755345/) · [DOI](https://doi.org/10.1097/MPG.0000000000001435)
-
-
----
-
-### Health-related quality of life in women with breast cancer: a literature-based review of psychometric properties of breast cancer-specific measures.
-
-*Niu HY, Niu CY, Wang JH, Zhang Y, He P* — Asian Pacific journal of cancer prevention : APJCP (2014)  
-
-<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Breast cancer is one of the most common cancers in women in the world. Health-related quality of life (HRQL) at treatment endpoint in cancer clinical trials is widely considered to be increasingly important.
-
-
-??? note "Abstract"
-    BACKGROUND: Breast cancer is one of the most common cancers in women in the world. Health-related quality of life (HRQL) at treatment endpoint in cancer clinical trials is widely considered to be increasingly important. The aim of this review was to provide a literature-based assessment of the validity, reliability and responsiveness of breast cancer-specific HRQL instruments in women breast cancer patients. MATERIALS AND METHODS: The databases consulted were Medline, PubMed, and Embase. The inclusion criteria required studies to: (1) involve use of HRQL measures; (2) cover women with breast cancer under standard treatment (surgery, radiation therapy, chemotherapy, hormone therapy, and targeted therapy); (3) involve the validity, reliability, or responsiveness of HRQL; (4) deal with validation of breast cancer-specific HRQL instruments. RESULTS: A total of 16 studies were identified through the literature search that met the 4 inclusion criteria. Some seven instruments were assessed among these 16 studies: EORTC QLQ-BR23, FACT-B, FACT-ES, HFRDIS, LSQ- 32, QLICP-BR, and SLDS-BC. EORTC QLQ-BR23, FACT-B, LSQ-32, QLICP-BR, and SLDS-BC are more general breast cancer-specific HRQL instruments. FACT-EB is the endocrine subscale combined with FACT-B in order to measure the side effects and putative benefits of hormonal treatment administered in breast cancer patients. HFRDIS is the HRQL measure focusing on hot flash concerns. CONCLUSIONS: This paper provides an overall understanding on the currently available breast cancer-specific HRQL instruments in women breast cancer patients.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24870752/) · [DOI](https://doi.org/10.7314/apjcp.2014.15.8.3533)
-
-
----
-
-### Integrating acupuncture into cancer care.
-
-*Chien TJ, Liu CY, Hsu CH* — Journal of traditional and complementary medicine (2013)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** Oncology acupuncture has become a new and promising field of research because more and more cancer patients have sought non-pharmacological alternatives for symptom management. While different mechanisms have been proposed to explain its efficacy, including theories of the neural system, endocrine cytokine or immunological regulation, its eventual role has become that of alleviating the side effec…
-
-
-??? note "Abstract"
-    Oncology acupuncture has become a new and promising field of research because more and more cancer patients have sought non-pharmacological alternatives for symptom management. While different mechanisms have been proposed to explain its efficacy, including theories of the neural system, endocrine cytokine or immunological regulation, its eventual role has become that of alleviating the side effects induced by chemotherapy or radiotherapy. In this paper, we have reviewed the related articles focusing on acupuncture mechanisms and applications in cancer care to provide a quick sketch of acupuncture in cancer care. A detailed search was performed to identify the randomized controlled trials (RCTs) and systematic reviews on acupuncture in oncology, using PUBMED and Cochrane. The search terms included: Acupuncture, acupressure, and cancer. Additional terms were used to target specific symptoms (i.e., breast cancer, hot flash, xerostomia, nausea, vomiting, cancer pain, insomnia, fatigue). Two authors independently extracted data for analysis and review. Ultimately, 25 articles underwent full-text review. Recent trials made efforts in studying (a) hot flashes in breast cancer, (b) xerostomia induced by radiotherapy in head and neck cancer, (c) nausea and vomiting post-chemotherapy, (d) cancer pain, and (e) fatigue and insomnia in cancer patients. Controversial results for acupuncture application in cancer care appeared in different categories, but a trend emerged that acupuncture can palliate cancer-related symptoms. The research to date certainly offers us a valid complementary therapy in treating cancer-related symptoms. Meanwhile, practical strategies with safe measures for enhancing the efficacy are needed in further interventions, as well as continuing research with a validated methodology.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24716183/) · [DOI](https://doi.org/10.4103/2225-4110.119733) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6669272/)
-
-
----
-
-### Peracetic acid for secondary effluent disinfection: a comprehensive performance assessment.
-
-*Antonelli M, Turolla A, Mezzanotte V, Nurizzo C* — Water science and technology : a journal of the International Association on Water Pollution Research (2013)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** The paper is a review of previous research on secondary effluent disinfection by peracetic acid (PAA) integrated with new data about the effect of a preliminary flash-mixing step. The process was studied at bench and pilot scale to assess its performance for discharge in surface water and agricultural reuse (target microorganisms: Escherichia coli and faecal coliform bacteria).
-
-
-??? note "Abstract"
-    The paper is a review of previous research on secondary effluent disinfection by peracetic acid (PAA) integrated with new data about the effect of a preliminary flash-mixing step. The process was studied at bench and pilot scale to assess its performance for discharge in surface water and agricultural reuse (target microorganisms: Escherichia coli and faecal coliform bacteria). The purposes of the research were: (1) determining PAA decay and disinfection kinetics as a function of operating parameters, (2) evaluating PAA suitability as a disinfectant, (3) assessing long-term disinfection efficiency, (4) investigating disinfected effluent biological toxicity on some aquatic indicator organisms (Vibrio fischeri, Daphnia magna and Selenastrum capricornutum), (5) comparing PAA with conventional disinfectants (sodium hypochlorite, UV irradiation). PAA disinfection was capable of complying with Italian regulations on reuse (10 CFU/100 mL for E. coli) and was competitive with benchmarks. No regrowth phenomena were observed, as long as needed for agricultural reuse (29 h after disinfection), even at negligible concentrations of residual disinfectant. The toxic effect of PAA on the aquatic environment was due to the residual disinfectant in the water, rather than to chemical modification of the effluent.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24355852/) · [DOI](https://doi.org/10.2166/wst.2013.542)
-
-
----
-
-### Balancing the risk of eye irritation from UV-C with infection from bioaerosols.
-
-*Sliney D* — Photochemistry and photobiology (2013)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** The very aspect (phototoxicity) that makes short-wavelength ultraviolet (UV) radiation an effective germicidal agent also is responsible for the unwanted side effects of erythema (reddening of the skin) and photokeratitis (&quot;welder&#x27;s flash&quot; or &quot;snow-blindness&quot;). Overexposure to this short-wavelength UV radiation can produce these unwanted side effects from a very mild irritation of the skin and eye…
-
-
-??? note "Abstract"
-    The very aspect (phototoxicity) that makes short-wavelength ultraviolet (UV) radiation an effective germicidal agent also is responsible for the unwanted side effects of erythema (reddening of the skin) and photokeratitis (&quot;welder&#x27;s flash&quot; or &quot;snow-blindness&quot;). Overexposure to this short-wavelength UV radiation can produce these unwanted side effects from a very mild irritation of the skin and eyes to a rather painful case of photokeratitis. These effects are fortunately transient, as only superficial cells of the eye-the corneal epithelium-and the most superficial layer of the skin-the superficial epidermis-are significantly affected. Normal turnover of these cells soon erase the signs and symptoms of these effects. Radiant energy in the UV-C band has very shallow penetration depths which account for the very superficial nature of any injury to the skin and eyes from excessive exposure, minimum risk of delayed effects and at the same time the strong absorption by bioaerosols. Guidelines for human exposure to UV-C must be applied intelligently so as not to limit germicidal efficacy in upper-room ultraviolet germicidal irradiation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/23668297/) · [DOI](https://doi.org/10.1111/php.12093)
-
-
----
-
 ### Revisiting the ultra-high dose rate effect: implications for charged particle radiotherapy using protons and light ions.
 
 *Wilson P, Jones B, Yokoi T, Hill M, Vojnovic B* — The British journal of radiology (2012)  
@@ -4087,25 +3878,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22496068/) · [DOI](https://doi.org/10.1259/bjr/17827549) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2073776/)
-
-
----
-
-### Photoreceptor processes in visual adaptation.
-
-*Ripps H, Pepperberg DR* — Neuroscience research. Supplement : the official journal of the Japan Neuroscience Society (1987)  
-
-<span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** (i) the reduced efficacy with which (remaining, abundant) rhodopsin in the light-adapted receptor mediates the flash response; and (ii) the disparity in conditions of irradiation (weak background vs. extensive bleaching) leading to equivalent conditions of threshold.
-
-
-??? note "Abstract"
-    In this paper we have stressed two experimental results in need of explanation: (i) the reduced efficacy with which (remaining, abundant) rhodopsin in the light-adapted receptor mediates the flash response; and (ii) the disparity in conditions of irradiation (weak background vs. extensive bleaching) leading to equivalent conditions of threshold. The model discussed above suggests, in molecular terms, a possible basis for both properties of receptor adaptation. On the view developed here, property (i) derives from the ability of photoactivated or bleached pigment (R or B) to restrict dramatically the availability of a substance required for phototransduction. Property (ii) derives in large part from the pronounced disparity in the effectiveness of R (during illumination) and B (remaining after illumination) in reducing the availability of this substance. On this view, the &quot;equivalence&quot; of threshold elevation in states of light- vs. dark-adaptation derives from an overall equality of a product of factors (Q, Etot/Es, and J of equation 2). Under all but extreme conditions, this aggregate of factors is dominated by the term Etot/Es, reflecting the functional state of E.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3317149/) · [DOI](https://doi.org/10.1016/0921-8696(87)90010-7)
 
 
 ---

@@ -2,7 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*79 records. Newest first.*
+*48 records. Newest first.*
 
 ---
 
@@ -63,25 +63,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Timing and Resolution of Bothersome Hot Flashes Following Short Course Oral Gonadotropin-Releasing Hormone Receptor Antagonist Relugolix, and Stereotactic Body Radiotherapy for Localized Prostate Cancer.
-
-*Shah S, Nijhar S, Sowmiyanarayanan S, Anwar O, Pepin A, Danner MT et al.* — Cureus (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Background Androgen deprivation therapy (ADT) has been shown to improve cancer control when combined with radiation therapy. Relugolix, an oral gonadotropin-releasing hormone (GnRH) receptor antagonist, suppresses testosterone, causing several hormonally related symptoms that resolve with testosterone recovery.
-
-
-??? note "Abstract"
-    Background Androgen deprivation therapy (ADT) has been shown to improve cancer control when combined with radiation therapy. Relugolix, an oral gonadotropin-releasing hormone (GnRH) receptor antagonist, suppresses testosterone, causing several hormonally related symptoms that resolve with testosterone recovery. Hot flashes are particularly bothersome. This study sought to evaluate the timeline of hot flashes following a short course of relugolix, and stereotactic body radiotherapy (SBRT) for unfavorable localized prostate cancer. Methods IRB approval was obtained for retrospective review of prospectively collected data. Patients were treated at MedStar Georgetown University Hospital per an institutional protocol. Hot flashes were self-reported via question 13a of the Expanded Prostate Index Composite (EPIC)-26 before relugolix initiation, the first day of SBRT treatment, and at subsequent follow-up visits. All patients were treated with the robotic SBRT (Accuray Inc.). Total testosterone levels were measured before SBRT and at each follow-up. Results From January 2021 to September 2023, 89 localized prostate cancer patients (63 intermediate, 20 high-risk, and 6 recurrent) at a median age of 72 years (range 49-93) were treated with a short course of relugolix (average 6.25 months, range 3-29 months) and prostate SBRT. The median time to cessation of hot flashes was around nine-months post-SBRT when the median testosterone had recovered in 56% (50) of patients, with a median testosterone of 230 ng/dL. The incidence of burdensome hot flashes (a moderate to big problem) returned to baseline nine-months post-SBRT (0%) with a cumulative incidence of 57% (51). The median EPIC-26 hot flash score of 98.7 declined to 49.0 at one-month post-SBRT and returned to baseline by nine-months post-SBRT. These differences were statistically significant (p&lt; 0.01) and clinically significant (MCID=4.45). Testosterone recovery (&gt;230 ng/dL) occurred in 97% (86) of patients 12-months post-SBRT. Conclusions Bothersome hot flashes occur in more than 50% of men treated with short-course relugolix and SBRT. Resolution of hot flashes occurs in the majority of men by nine-months post-SBRT. Hot flash resolution mirrored testosterone recovery at relatively low levels. Reassurance of the temporary nature of hot flashes may reduce patient anxiety and limit associated bother.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41883889/) · [DOI](https://doi.org/10.7759/cureus.104069) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4274392/)
-
-
----
-
 ### 4D robust evaluation for the intensity-modulated-proton-radiotherapy plans for patients with ventricular tachycardia based on cardiopulmonary motion characteristics.
 
 *Wang S, Fan X, Tong Y, Su M, Li W, Sha X et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
@@ -116,44 +97,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41628698/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111414)
-
-
----
-
-### Large language models for toxicity extraction in oncology trials: A real-world benchmark in prostate radiotherapy.
-
-*Mastroleo F, Borras-Osorio M, Patel SP, Peterson S, Wilson R, Zhou M et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)  
-
-<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Accurate toxicity assessment is critical in oncology trials, yet current reporting frameworks such as the Common Terminology Criteria for Adverse Events (CTCAE) remain labor-intensive and subject to inter-observer variability. Large language models (LLMs) offer potential to automate extraction and grading of adverse events from clinical notes and patient-reported outcomes (PROs), but their compara…
-
-
-??? note "Abstract"
-    BACKGROUND: Accurate toxicity assessment is critical in oncology trials, yet current reporting frameworks such as the Common Terminology Criteria for Adverse Events (CTCAE) remain labor-intensive and subject to inter-observer variability. Large language models (LLMs) offer potential to automate extraction and grading of adverse events from clinical notes and patient-reported outcomes (PROs), but their comparative performance and cost-effectiveness remain underexplored. METHODS: We evaluated five off-the-shelf LLMs (Gemini 2.0 Flash, Gemini 2.5 Flash, Gemini 2.5 Pro, GPT-4o, and GPT-5) using a rule-augmented few-shot prompting strategy to extract CTCAE-graded gastrointestinal and genitourinary toxicities from a prospective prostate radiotherapy trial (NCT02874014; n = 55 patients, 8968 toxicity records). Binary and grade-level accuracy, precision, recall, specificity, F1 score, Cohen&#x27;s kappa, and computational costs were assessed. RESULTS: All models achieved high binary accuracy (84.6-87.4 %) and moderate grade accuracy (79.1-82.3 %). GPT-4o reached the best binary (87.4 %) and grade (83.5 %) accuracy, while Gemini 2.5 Pro demonstrated highest sensitivity (74.0 %). Specificity peaked with GPT-4o (96.0 %). Cohen&#x27;s kappa values indicated moderate agreement (0.552-0.560 for binary; 0.401-0.465 for grades). Costs for the entire extraction varied substantially: Gemini 2.0 Flash delivered competitive accuracy at $0.77 total, whereas Gemini 2.5 Pro and GPT-5 exceeded $21. CONCLUSIONS: Off-the-shelf LLMs can extract clinically relevant toxicities with performance approaching human inter-rater reliability, at variable but often negligible costs. While grade-level accuracy remains limited, LLM integration into oncology workflows is feasible, offering scalable, low-cost support for toxicity monitoring and data abstraction in clinical research.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41419026/) · [DOI](https://doi.org/10.1016/j.radonc.2025.111348)
-
-
----
-
-### &quot;Current Use and Clinical Applications of Intraoperative Radiotherapy in Soft Tissue Sarcomas: Insights from a National Survey in Spain&quot;.
-
-*Muñoz-Muñoz P, López-Rojo I, Ilundain-Idoate A, Bretcha-Boix P, Cañon RM, Calvo FA et al.* — Cirugia espanola (2026)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Soft tissue sarcomas (STS) require a multidisciplinary approach that balances oncologic control with functional preservation. Adjuvant external beam radiotherapy (EBRT) improves local control but is often limited by its toxicity.
-
-
-??? note "Abstract"
-    Soft tissue sarcomas (STS) require a multidisciplinary approach that balances oncologic control with functional preservation. Adjuvant external beam radiotherapy (EBRT) improves local control but is often limited by its toxicity. Intraoperative radiotherapy (IORT) allows for precise delivery of a single high dose during surgery, minimizing radiation exposure to adjacent tissues. This study reviews the role of IORT to treat sarcoma in the extremities and retroperitoneum, while also evaluating current clinical applications, prognosis and usage trends in Spain, based on a national survey that collected responses from all centers currently using IORT. IORT is employed in STS treatment in 11 Spanish hospitals (mostly electron-based systems), but the volume of patients treated is very low (63.6% use IORT in ≤10 cases per year). Despite favorable local control rates and reduced morbidity, access to IORT remains inconsistent at sarcoma referral centers. Broader integration and standardized protocols are needed, alongside future prospective studies on neoadjuvant EBRT and IORT.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41202922/) · [DOI](https://doi.org/10.1016/j.cireng.2025.800244)
 
 
 ---
@@ -196,25 +139,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### RTPhy-ChatBot: A RAG-Based intelligent assistant for radiotherapy physics using LLaMA3 and AAPM reports.
-
-*Wei S, Hu A, Wang Z, Meng X, Yu L, Yang B et al.* — Journal of applied clinical medical physics (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Medical physics plays a crucial role in radiotherapy, with ongoing technological advancements aimed at improving treatment outcomes. However, the rapid pace of innovation presents challenges for medical physicists, who must continuously acquire and integrate complex information for effective decision-making and communication.
-
-
-??? note "Abstract"
-    BACKGROUND: Medical physics plays a crucial role in radiotherapy, with ongoing technological advancements aimed at improving treatment outcomes. However, the rapid pace of innovation presents challenges for medical physicists, who must continuously acquire and integrate complex information for effective decision-making and communication. PURPOSE: To support efficient knowledge acquisition, we developed RTPhy-ChatBot, an intelligent assistant tailored to radiotherapy physics. The objective was to create a reliable and precise tool to assist medical physicists in their daily work. METHODS: The knowledge base for RTPhy-ChatBot was constructed from publications by the American Association of Physicists in Medicine (AAPM), which were converted into markdown format, segmented, and embedded using the bge-base-en-v1.5 model. RTPhy-ChatBot employed the Meta-LLaMA3-8B-Instruct model for response generation. We compared its performance with several commercial large language models (LLMs) across 20 template questions and evaluated the impact of zero-shot chain-of-thought (CoT) reasoning. In addition to expert scoring by senior medical physicists, we conducted Rouge score analysis against synthesized reference answers. RESULTS: RTPhy-ChatBot demonstrated strong performance in answering radiotherapy physics questions. Across 20 questions, it achieved an average score of 4.0 ± 0.9, compared to 3.9 ± 1.1 for Gemini-2.0-Flash, 4.0 ± 1.4 for GPT-4o, and 3.8 ± 1.2 for Moonshot-v1. It excelled in questions involving specific quality assurance standards. Rouge analysis yielded scores of 0.5127 (Rouge-1), 0.2119 (Rouge-2), and 0.2748 (Rouge-L), closely matching commercial LLMs. CONCLUSIONS: RTPhy-ChatBot proved to be an effective intelligent assistant for radiotherapy physics, delivering accurate, referenced responses grounded in AAPM publications. Despite lacking online access, it matched or exceeded the performance of commercial LLMs in domain-specific tasks. This pilot study highlights the potential of domain-specific assistants in supporting clinical workflows.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41065312/) · [DOI](https://doi.org/10.36227/techrxiv.173808198.86649534/v1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12083153/)
-
-
----
-
 ### Quality assurance and reporting for FLASH clinical trials: The experience of the FEATHER trial.
 
 *Colizzi I, Schäfer R, Brückner J, Dellepiane G, Grossmann M, Körner M et al.* — Medical physics (2025)  
@@ -249,25 +173,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40896429/) · [DOI](https://doi.org/10.1186/s13000-024-01464-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10898121/)
-
-
----
-
-### Performance evaluation of a new automated skin flash method for radiotherapy of breast cancer.
-
-*Nykänen T, Raatikainen V, Kärnä A, Koivumäki T* — Physics and imaging in radiation oncology (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** In volumetric modulated arc therapy of breast cancer, an outer margin for the target is needed. This study evaluated the clinical and planning target volume coverage and surface dose using an automated skin flash method compared to the virtual bolus method.
-
-
-??? note "Abstract"
-    In volumetric modulated arc therapy of breast cancer, an outer margin for the target is needed. This study evaluated the clinical and planning target volume coverage and surface dose using an automated skin flash method compared to the virtual bolus method. Body outline changes of 4, 8 and 12 mm were simulated in 20 breast cancer patients. Median V95 and V90 clinical target volume coverage and surface dose remained at 90.1 %, 98.7 % and 85.7 % or above with the automated skin flash method. The median results of automated skin flash method were close to virtual bolus method.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40698312/) · [DOI](https://doi.org/10.1016/j.radonc.2014.11.030) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12059273/)
 
 
 ---
@@ -360,44 +265,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Transit-guided radiation therapy: a novel patient monitoring approach.
-
-*Latorre-Musoll A, Oses G, Antelo G, Serrano-Rueda S, Mollà M, Sempau J et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Transit-Guided Radiation Therapy (TGRT) is a novel technique that uses the transit portal images (TPIs) acquired with Electronic Portal Image Devices (EPID) to quantify patient position errors during the treatment. It has been validated using anthropomorphic phantoms but a validation in a clinical setting was lacking.
-
-
-??? note "Abstract"
-    BACKGROUND AND PURPOSE: Transit-Guided Radiation Therapy (TGRT) is a novel technique that uses the transit portal images (TPIs) acquired with Electronic Portal Image Devices (EPID) to quantify patient position errors during the treatment. It has been validated using anthropomorphic phantoms but a validation in a clinical setting was lacking. A pilot clinical study is presented to confirm our previous results. MATERIALS AND METHODS: A prospective study was conducted between June and December 2022 with patients who received whole-brain or breast radiotherapy treatments. The selected treatments were composed of radiation fields using skin-flash, where the body contour projected a sharp edge on the EPID which has been used as a surrogate of the true patient position. Daily imaging procedures were applied as scheduled before running the one- and two-parameter model (1PM and 2PM) of the TGRT formalism on the acquired TPIs to independently estimate the patient position errors. RESULTS: 43 patients and 1015 TPIs have been assessed. The 2PM showed a better correlation with the true position errors (R2 = 0.76 vs. 0.73), a lower detection threshold (0.77 mm vs. 1.24 mm), and a lower overcorrection risk above the detection threshold (7.0 % vs. 11.1 %) than the 1PM. Overall, the 2PM would have significantly reduced the true position errors by a factor of 0.58 (0.49 - 1.27) (p &lt; 0.0001). CONCLUSION: The TGRT technique has confirmed the ability to reduce the position errors in a clinical setting, demonstrating the potential to enhance the patient position monitoring without increasing treatment time or patient dose.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39395671/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110580)
-
-
----
-
-### Non-Islet-Cell Tumor Hypoglycemia Secondary to Malignant Phyllodes Tumor of the Breast.
-
-*Lee SM, Quek TPL, Seow CJ, Yeo PS* — AACE clinical case reports (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Non-islet cell tumor hypoglycemia (NICTH) is an uncommon condition, of which only a few cases caused by malignant phyllodes tumor of the breast have been reported. We describe a case of NICTH secondary to malignant phyllodes tumor with good response to glucocorticoid therapy.
-
-
-??? note "Abstract"
-    BACKGROUND/OBJECTIVE: Non-islet cell tumor hypoglycemia (NICTH) is an uncommon condition, of which only a few cases caused by malignant phyllodes tumor of the breast have been reported. We describe a case of NICTH secondary to malignant phyllodes tumor with good response to glucocorticoid therapy. CASE REPORT: A 62-year-old woman with a rapidly enlarging left breast mass presented with drowsiness and a capillary blood glucose level of 32.4 mg/dL. Her plasma glucose and insulin levels were 36.0 mg/dL (reference range, 72-144 mg/dL) and 0.6 mIU/L (reference range, 0.0-25.0 mIU/L), respectively. Her beta-hydroxybutyrate and c-peptide levels were undetectable. The insulin-like growth factor (IGF)-I and IGF-II levels were 37 μg/L (reference range, 43-220 μg/L) and 1062 ng/mL (reference range, 333-967 ng/mL), respectively, with an IGF-II:IGF-I molar ratio of 29.4. Prednisolone 30 mg per day was initiated with improvement in hypoglycemia. Outpatient flash glucose monitoring profile was stable with mild hypoglycemia (glucose level, 54-68.5 mg/dL) detected 5% of the time. The patient underwent left mastectomy with axillary clearance 4 weeks later. Histology was reported as malignant phyllodes tumor with extensive ductal carcinoma in situ. Prednisolone was stopped after surgery. The patient was treated with letrozole and adjuvant radiotherapy. There was no recurrence of hypoglycemia during the subsequent 24-month follow-up. DISCUSSION: The mainstay of treatment for NICTH is surgical resection of the culprit tumor. Although glucocorticoid treatment has also been widely used for NICTH, few reports have demonstrated efficacy for NICTH secondary to phyllodes tumor. CONCLUSION: We report a rare case of malignant phyllodes tumor of the breast resulting in NICTH and demonstrated good response to glucocorticoids as a bridge to definitive surgery.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39372821/) · [DOI](https://doi.org/10.1111/j.1524-4741.2007.00398.x) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4067084/)
-
-
----
-
 ### Neuro-Oncologic Veterinary Trial for the Clinical Transfer of Microbeam Radiation Therapy: Acute to Subacute Radiotolerance after Brain Tumor Irradiation in Pet Dogs.
 
 *Eling L, Kefs S, Keshmiri S, Balosso J, Calvet S, Chamel G et al.* — Cancers (2024)  
@@ -460,25 +327,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Bothersome Hot Flashes Following Neoadjuvant Androgen Deprivation Therapy and Stereotactic Body Radiotherapy for Localized Prostate Cancer.
-
-*Shah S, Pepin A, Jatar S, Hsueh J, Gallagher L, Danner MT et al.* — Cureus (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Androgen deprivation therapy (ADT) improves local cancer control in unfavorable localized prostate cancer treated with radiotherapy. ADT is known to cause hormonally related symptoms that resolve with testosterone recovery.
-
-
-??? note "Abstract"
-    BACKGROUND: Androgen deprivation therapy (ADT) improves local cancer control in unfavorable localized prostate cancer treated with radiotherapy. ADT is known to cause hormonally related symptoms that resolve with testosterone recovery. Hot flashes are particularly burdensome. This study sought to evaluate the timeline of hot flashes following short-course ADT and stereotactic body radiotherapy (SBRT) as well as its relationship with testosterone recovery. METHODS: Institutional IRB approval was obtained for this retrospective review of prospectively collected data (IRB#: 2009-510). ADT was initiated three months prior to the start of SBRT. Hot flashes were self-reported via question 13a of the Expanded Prostate Index Composite (EPIC)-26 prior to ADT initiation, the first day of robotic SBRT, and at each follow-up (one, three, six, nine, 12, 18, 24, and 36 months). The responses were grouped into three relevant categories (no problem, very small-small problem, and moderate-big problem). Scores were transformed to a 0-100 scale with higher scores reflecting less bother. Testosterone levels were measured at each follow-up. RESULTS: From 2007 to 2010, 122 localized prostate cancer patients (nine low-, 64 intermediate-, and 49 high-risk according to the D&#x27;Amico classification) at a median age of 72 years (range 54.5-88.3) were treated with short course ADT (three to six months) and SBRT (35-36.25 Gy) at Georgetown University Hospital. Thirty-two percent were Black and 27% were obese. Seventy-seven percent of patients received three months of ADT. At baseline, 2% of men experienced hot flashes that were a &quot;moderate to big problem&quot; and that proportion peaked at the start of SBRT (45%) before returning to baseline (2%) nine months post-SBRT with a cumulative incidence of 52.4%. The median baseline EPIC-26 hot flash score of 94 declined to 50 at the start of SBRT but this returned to baseline (92) by six months post SBRT. These changes were both statistically and clinically significant (MID = 9.5083, p&lt;0.01). Testosterone recovery (&gt; 230 ng/dL) occurred in approximately 70% of patients by 12 months post SBRT. Resolution of hot flashes correlated with testosterone recovery. CONCLUSION: Bothersome hot flashes occur in greater than 50% of men treated with neoadjuvant ADT. Resolution of hot flashes occurs in the majority of patients within one year after treatment. Reassurance of the temporary nature of hot flashes may assist in reducing patient anxiety. Measuring testosterone levels at follow-up visits may allow for anticipatory counseling that may limit the associated bother.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38586683/) · [DOI](https://doi.org/10.7759/cureus.55729) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3075822/)
-
-
----
-
 ### FLASH radiotherapy for the treatment of symptomatic bone metastases in the thorax (FAST-02): protocol for a prospective study of a novel radiotherapy approach.
 
 *Daugherty EC, Zhang Y, Xiao Z, Mascia AE, Sertorio M, Woo J et al.* — Radiation oncology (London, England) (2024)  
@@ -536,44 +384,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Restoration of vision by combined experimental antithymocyte therapy, and orbital radiation with high-dose steroids for severe, acute, steroid-refractory, congestive thyroid orbitopathy.
-
-*Sarnat-Kucharczyk M, Pojda-Wilczek D, Świerkot M, Kulawik G, Mrukwa-Kominek E* — Documenta ophthalmologica. Advances in ophthalmology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** We report diagnostic and therapeutic dilemmas in the difficult case of compressive optic neuropathy with severe visual acuity and visual field loss with subsequent visual recovery in both eyes, in a patient with Graves&#x27; orbitopathy (GO) by a combination of experimental antithymocyte therapy, orbital radiotherapy with high-dose steroids. METHODS: A 72-year-old man presented with severe vision loss …
-
-
-??? note "Abstract"
-    PURPOSE: We report diagnostic and therapeutic dilemmas in the difficult case of compressive optic neuropathy with severe visual acuity and visual field loss with subsequent visual recovery in both eyes, in a patient with Graves&#x27; orbitopathy (GO) by a combination of experimental antithymocyte therapy, orbital radiotherapy with high-dose steroids. METHODS: A 72-year-old man presented with severe vision loss in both eyes. The visual symptoms had appeared over a year before the GO diagnosis. He was initially misdiagnosed with neuroborreliosis and optic neuritis based on brain and orbital magnetic resonance imaging. There was no exophthalmos. The ophthalmological examination included visual acuity, visual field, tonometry in primary and upgaze eye position, optical coherence tomography (OCT), pattern electroretinogram (PERG), pattern, and flash visual evoked potentials (PVEP and FVEP). The patient received experimental therapy with ATG, followed by high-dose of intravenous steroids and orbital radiotherapy. RESULTS: Delayed VEP peaks became shorter after treatment. After systemic and local therapy lowering of intraocular pressure was achieved. Abnormal PERG has been found three months before ganglion cells atrophy was detected in OCT. Visual acuity and visual field improvement occurred in both eyes after therapy, despite partial left optic nerve atrophy. The patient regained full decimal visual acuity (1.0 right from as poor as 0.3  to 1.0 in the right eye and from hand movements to 0.9 in the left. Severe visual field loss with advanced absolute scotomata has improved to slight relative scotomata. The duration of follow-up time after the treatment was 4 months. CONCLUSIONS: Intensive treatment of steroid-resistant Graves&#x27; orbitopathy (GO) may prevent total optic nerve atrophy. Despite severely advanced optic neuropathy, this report emphasizes the necessity of therapy even with nearly complete visual function loss hence there is always a possibility to regain full visual acuity and visual field. Patients with tense orbital septum may not present with significant exophthalmos, thus delaying the correct diagnosis of orbitopathy. A supporting sign of GO was the difference in intraocular pressure in the primary and upgaze eye positions. Electrophysiological examinations are helpful in the diagnosis and monitoring of GO therapy. To our knowledge, this is the first report of this kind presenting visual function restoration and structural recovery in a patient with advanced optic neuropathy in GO.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37775645/) · [DOI](https://doi.org/10.1023/a:1022561530782) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6664247/)
-
-
----
-
-### Quality assurance in a phase III, multicenter, randomized trial of POstmastectomy radioThErapy in Node posiTive breast cancer with or without Internal mAmmary nodaL irradiation (POTENTIAL): a planning benchmark case.
-
-*Song YC, Hu ZH, Yan XN, Fang H, Tang Y, Jing H et al.* — Radiation oncology (London, England) (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To report the planning benchmark case results of the POTENTIAL trial-a multicenter, randomized, phase 3 trial-to evaluate the value of internal mammary nodal (IMN) irradiation for patients with high-risk breast cancer. METHODS: All participating institutions were provided the outlines of one benchmark case, and they generated radiation therapy plans per protocol.
-
-
-??? note "Abstract"
-    PURPOSE: To report the planning benchmark case results of the POTENTIAL trial-a multicenter, randomized, phase 3 trial-to evaluate the value of internal mammary nodal (IMN) irradiation for patients with high-risk breast cancer. METHODS: All participating institutions were provided the outlines of one benchmark case, and they generated radiation therapy plans per protocol. The plans were evaluated by a quality assurance team, after which the institutions resubmitted their revised plans. The information on beams arrangement, skin flash, inhomogeneity corrections, and protocol compliance was assessed in the first and final submission. RESULTS: The plans from 26 institutions were analyzed. Some major deviations were found in the first submission. The protocol compliance rates of dose coverage for the planning target volume of chest wall, supraclavicular fossa plus axilla, and IMN region (PTVim) were all significantly improved in the final submission, which were 96.2% vs. 69.2%, 100% vs. 76.9%, and 88.4% vs. 53.8%, respectively. For OARs, the compliance rates of heart Dmean, left anterior descending coronary artery V40Gy, ipsilateral lung V5Gy, and stomach V5Gy were significantly improved. In the first and final submission, the mean values of PTVim V100% were 79.9% vs. 92.7%; the mean values of heart Dmean were 11.5 Gy vs. 9.7 Gy for hypofractionated radiation therapy and 11.5 Gy vs. 11.0 Gy for conventional fractionated radiation therapy, respectively. CONCLUSION: The major deviations were corrected and protocol compliance was significantly improved after revision, which highlighted the importance of planning benchmark case to guarantee the planning quality for multicenter trials.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38031125/) · [DOI](https://doi.org/10.21037/atm-21-2150) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8422134/)
-
-
----
-
 ### Evaluation of intensity-modulated electron FLASH radiotherapy in a clinical setting using veterinary cases.
 
 *Konradsson E, Szecsenyi RE, Adrian G, Coskun M, Børresen B, Arendt ML et al.* — Medical physics (2023)  
@@ -612,25 +422,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Synchronization of light flash with the irradiation pulse in proton beam therapy: A case report.
-
-*Saito T, Mizumoto M, Oshiro Y, Miyamoto T, Kamizawa S, Nakamura M et al.* — Technical innovations &amp; patient support in radiation oncology (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** The correlation between sensory light flash and proton beam delivery was evaluated by measuring the timing of pulse beam delivery and light flash sensing using an event recorder in an 83-year-old patient receiving proton beam therapy (PBT) for nasopharyngeal adenoid cystic carcinoma. The treatment dose was 65 Gy (RBE) in 26 fractions with 2 ports, and both beams included the visual pathway (retina…
-
-
-??? note "Abstract"
-    The correlation between sensory light flash and proton beam delivery was evaluated by measuring the timing of pulse beam delivery and light flash sensing using an event recorder in an 83-year-old patient receiving proton beam therapy (PBT) for nasopharyngeal adenoid cystic carcinoma. The treatment dose was 65 Gy (RBE) in 26 fractions with 2 ports, and both beams included the visual pathway (retina, optic nerve, chiasma). Measurements were obtained in 13 of the 26 fractions. The patient sensed a light flash in all 13 fractions and pressed the recorder button for 426 of the 430 pulsed beam deliveries, giving a sensing rate of 99.1%. The median duration of button-pressing of 0.3 s was almost the same as that of the beam pulse of 0.2 s, with a reaction time lag of 0.35 s. These results suggest a consistency between light flash during PBT and the timing of irradiation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37485049/) · [DOI](https://doi.org/10.1016/j.tipsro.2023.100218) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4398354/)
-
-
----
-
 ### Definition of dose rate for FLASH pencil-beam scanning proton therapy: A comparative study.
 
 *Deffet S, Hamaide V, Sterpin E* — Medical physics (2023)  
@@ -646,25 +437,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37439504/) · [DOI](https://doi.org/10.1002/mp.16607)
-
-
----
-
-### Effect of Serelys Homme on the Incidence and Severity of Vasomotor Symptoms and Quality-of-Life Impairments in Patients Receiving Hormone Therapy and Radiation for Localized Prostate Cancer: Results of the ESCULAPE Phase 2 Prospective Study.
-
-*Belkacemi Y, Coraggio G, Brunel A, Jouhaud A, Ingels A, Joly C et al.* — Advances in radiation oncology (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Androgen deprivation therapy (ADT) may cause vasomotor symptoms (VMS) including hot flushes and sweats, which affect quality of life (QoL). Serelys Homme is a nonhormonal and a natural origin product that could affect VMS in men undergoing ADT.
-
-
-??? note "Abstract"
-    PURPOSE: Androgen deprivation therapy (ADT) may cause vasomotor symptoms (VMS) including hot flushes and sweats, which affect quality of life (QoL). Serelys Homme is a nonhormonal and a natural origin product that could affect VMS in men undergoing ADT. We evaluated effectiveness and tolerance of Serelys Homme administration on VMS and QoL of patients undergoing combined ADT and radiation therapy for prostate cancer. METHODS AND MATERIALS: Between April 2017 and July 2019, 103 patients were screened, and 53 patients refused to participate in the study. Serelys Homme therapy consisted of a daily administration of 2 tablets for 6 months. Patients were evaluated with 4 questionnaires including the adapted Modified Rankin Scale (adapted-MRS), European Quality of Life 5 Dimensions 3 Level Version (EQ 5D3L), Functional Assessment of Cancer Therapy-Prostate (FACT-P), and Hot Flash Related Daily Interference Scale (HFRDIS) at day 0, day 90 (D90), and day 180 (D180). Statistical evaluation was performed using the Wilcoxon rank sign test. A 2-sided P &lt; .05 was considered statistically significant. RESULTS: Among the 50 patients, 4 withdrew after inclusion. All patients (n = 46) received either postoperative or definitive radiation therapy combined with a short (n = 15) or long course (n = 31) of ADT. Serelys Homme administration significantly decreased the rate of patients who had ≥7 VMS and 3 to 6 VMS per day. The number of patients presenting with moderate or severe VMS was decreased at D90 (P = .005) and at D180 (P = .005). In addition, VMS duration was reduced at D90 (P = .002) and D180 (P &lt; .001). Finally, at D90 and D180, 11.1% and 16.0% of patients, respectively, with initial severe or moderate VMS had a complete response without further symptoms. Among QoL parameters, fatigue decreased significantly. Effectiveness evaluated by doctors was rated as moderate or good to excellent VMS control in 20% and 60% of the patients, respectively. No side effects were recorded in the whole population. CONCLUSIONS: This study demonstrated effectiveness and excellent tolerance of Serelys Homme. We observed a significant reduction of the frequency, duration, and intensity of hot flushes and sweats induced by ADT. Serelys Homme increased QoL scores. These encouraging results open the prospect to further studies and Serelys Homme use in patients undergoing ADT for prostate cancer.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37408674/) · [DOI](https://doi.org/10.1016/j.adro.2023.101255) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4612529/)
 
 
 ---
@@ -703,44 +475,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37190907/) · [DOI](https://doi.org/10.1002/mp.16453)
-
-
----
-
-### LBA02-09 EMBARK: A Phase 3 Randomized Study of Enzalutamide or Placebo Plus Leuprolide Acetate and Enzalutamide Monotherapy in High-risk Biochemically Recurrent Prostate Cancer.
-
-** — The Journal of urology (2023)  
-
-<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Volume 209, Supplement 4, Page e1190: The abstract text is as given below. This erratum also includes the additional disclosure, conflict of interest, and acknowledgments that were not included in the original publication.
-
-
-??? note "Abstract"
-    UNLABELLED: Volume 209, Supplement 4, Page e1190: The abstract text is as given below. This erratum also includes the additional disclosure, conflict of interest, and acknowledgments that were not included in the original publication. The online and PDF versions of the article have been updated. INTRODUCTION AND OBJECTIVE: Within 10 years following definitive therapy for prostate cancer, ∼20-50% of patients (pts) experience biochemical recurrence (BCR) characterized by rising prostate-specific antigen (PSA) levels. Pts with high-risk BCR have an increased risk of mortality and improved therapies are needed. The objective of EMBARK was to evaluate the efficacy and safety of enzalutamide (enza) + androgen deprivation therapy (ADT) and enza monotherapy (mono) in pts with high-risk BCR. METHODS: EMBARK is a randomized, phase 3 study of pts with BCR considered high-risk: PSA doubling time ≤9 months and PSA ≥2 ng/mL above nadir post-radiotherapy (RT) or ≥1 ng/mL after radical prostatectomy (RP) ± postoperative RT. Pts were randomized (1:1:1) to enza 160 mg/day + leuprolide acetate (LA) (double-blind), placebo (pbo) + LA (double-blind), or enza mono (open-label). LA 22.5 mg was administered every 12 weeks. If the PSA at week 36 was &lt;0.2 ng/mL, therapy was stopped at week 37 and restarted when PSA was ≥2 ng/mL for pts with primary RP, and ≥5 ng/mL for pts without RP. The primary endpoint, determined by blinded, independent central review (BICR), was metastasis-free survival (MFS) with enza + LA vs pbo + LA. Key secondary endpoints were MFS of enza mono vs pbo + LA, time to PSA progression, time to antineoplastic therapy, and overall survival (OS) of enza + LA or enza mono vs pbo + LA. RESULTS: 1068 pts were randomized into the study (enza + LA, n=355; pbo + LA, n=358; enza mono, n=355). After median follow-up of 60.7 months, per BICR, MFS for enza + LA (HR 0.42; 95% CI 0.30-0.61; p&lt;0.0001) and enza mono (HR 0.63; 95% CI 0.46-0.87; p=0.0049) were statistically superior to pbo + LA. Statistically significant improvements were also observed in risk of PSA progression (enza + LA: HR 0.07; 95% CI, 0.03-0.14; enza mono: HR 0.33; 95% CI, 0.23-0.49; both p&lt;0.0001) and time to first use of new antineoplastic therapy (enza + LA: HR 0.36; 95% CI, 0.26-0.49; enza mono: HR 0.54; 95% CI, 0.41-0.71; both p&lt;0.0001). Interim OS data trended in favor enza + LA (HR 0.59; 95% CI, 0.38-0.91; p=0.0153, did not cross interim efficacy boundary) and enza mono (HR 0.78; 95% CI, 0.52-1.17; p=0.2304). Fatigue and hot flash were the most common adverse events; no new safety signals were observed. CONCLUSIONS: In pts with high-risk BCR, enza + ADT and enza mono demonstrated a statistically significant and clinically meaningful improvement in MFS vs pbo + ADT. The safety profile of enza was consistent with results from previous clinical studies. CLINICAL TRIAL REGISTRATION NUMBER: NCT02319837. SOURCE OF FUNDING: Pfizer Inc. and Astellas Pharma Inc.Conflict of Interest and Disclosure Statement:Neal D. Shore reports grant support and consulting fees from AbbVie, Amgen, Astellas Pharma Inc., AstraZeneca, Bayer, Clovis Oncology, Dendreon Pharmaceuticals LLC, Ferring Pharmaceuticals, GenesisCare, Janssen Oncology, Merck, Myovant Sciences, Pfizer Inc., Sanofi-Genzyme, and Tolmar Pharmaceuticals, Inc. Murilo de Almeida Luz reports receiving speaker honoraria from Astellas Pharma Inc., Bayer, Janssen, Merck Sharp &amp; Dohme, and Pfizer Inc.; being an advisory board member for Astellas Pharma Inc., Bayer, and Janssen; sponsored research from Bayer, Bristol Myers Squibb, Ferring Pharmaceuticals, GlaxoSmithKline, Janssen, and Roche; receiving travel expenses from AstraZeneca, Bayer, Janssen, and Pfizer Inc. Ugo De Giorgi reports serving as a consultant for Janssen, Astellas Pharma Inc., Sanofi, Bayer, Pfizer Inc., Bristol Myers Squibb, Novartis, Ipsen, and Merck Sharp &amp; Dohme. Martin Gleave reports stock or ownership interest in OncoGenex Technologies Inc., Sustained Therapeutics Inc., and Sikta Biopharma; is a consultant to Astellas Pharma Inc., AstraZeneca, Bayer, Genova Diagnostics (GDx), Janssen, Pfizer Inc., Roche, Sanofi, and TerSera Therapeutics LLC; and holds patents for OGX-011, OGX-427, ST-CP, and ST-POP. Geoffrey T. Gotto reports receiving honoraria from Amgen, Astellas Pharma Inc., Bayer, Ferring Pharmaceuticals, Janssen, and Merck; being a consultant or advisory board member for Amgen, Astellas Pharma Inc., Bayer, Janssen, and Merck; providing expert testimony for Janssen; and receiving support for travel, accommodation, and expenses from Janssen. Gabriel P. Haas reports being an employee of and shareholder in Astellas Pharma Inc. Miguel Ramirez-Backhaus reports serving as a consultant or advisory board member for Astellas Pharma Inc., Bayer, Janssen, and Karl Storz; receiving speaker honoraria from Astellas Pharma Inc., Bayer, Janssen, and GP Pharm. Antti Rannikko reports being a board member for the Ida Montin Foundation, and Orion Research Foundation; being an advisory board member for Bayer, Janssen, and Orion Pharma; being a stockholder and clinical advisor for Aqsens Health; being a clinical investigator for Astellas Pharma Inc., Bayer, Janssen, Orion Pharma, and RhoVac AB; and receiving competitive state research funding from HUS Helsinki University Hospital, Finnish Cancer Organizations, and the Jane and Aatos Erkko Foundation. Jamal Tazari, Yiyun Tang, and Fabian Zohren are employees of and shareholders in Pfizer Inc. Swetha Sridharan reports no conflicts of interest. Jennifer Sugg is an employee of Astellas Pharma Inc., and a shareholder in AstraZeneca. Ronald F. Tutrone, Jr. reports being an advisory board member for Bayer; and receiving speaker honoraria from Astellas Pharma Inc., Exosome Diagnostics, Inc., Myovant Sciences, and Pfizer Inc. Balaji Venugopal reports receiving honoraria from Bristol Myers Squibb, Eisai Co., Ltd, EUSA Pharma, Ipsen, Janssen, and Merck; being a consultant or advisory board member for Janssen, Merck Sharp &amp; Dohme Oncology, and Pfizer Inc./EMD Serono; and receiving support for travel, accommodation, and expenses from EUSA Pharma, and Ipsen. Arnauld Villers reports receiving research grants from Astellas Pharma Inc., Ferring Pharmaceuticals, Ipsen, and Janssen. Henry H. Woo reports being an advisory board member for Astellas Pharma Inc., Bayer, Boston Scientific Corporation, and Mundipharma International Ltd; and reports receiving speaker honoraria from AbbVie, Astellas Pharma Inc., Boston Scientific Corporation, and Janssen. Stephen J. Freedland reports being a consultant for Astellas Pharma Inc., AstraZeneca, Bayer, Dendreon Pharmaceuticals LLC, Janssen, Merck, Myovant Sciences, Pfizer Inc., and Sanofi. ACKNOWLEDGMENTS: The authors thank all the patients, their families, and the investigators and investigational site members involved in this study.Editorial Acknowledgement:Medical writing and editorial support was provided by Julie B. Stimmel, PhD, Sinead Stewart, and Rosie Henderson, of Onyx (a Prime Global Agency), funded by Pfizer, Inc. and Astellas Pharma Inc., the co-developers of enzalutamide.Submission Category:prostate cancer.Sub-category:Advanced (including drug therapy).
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37119051/) · [DOI](https://doi.org/10.1097/JU.0000000000003518)
-
-
----
-
-### A simple flash and freeze system for cryogenic time-resolved electron microscopy.
-
-*Bhattacharjee B, Rahman MM, Hibbs RE, Stowell MHB* — Frontiers in molecular biosciences (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** As the resolution revolution in CryoEM expands to encompass all manner of macromolecular complexes, an important new frontier is the implementation of cryogenic time resolved EM (cryoTREM). Biological macromolecular complexes are dynamic systems that undergo conformational changes on timescales from microseconds to minutes.
-
-
-??? note "Abstract"
-    As the resolution revolution in CryoEM expands to encompass all manner of macromolecular complexes, an important new frontier is the implementation of cryogenic time resolved EM (cryoTREM). Biological macromolecular complexes are dynamic systems that undergo conformational changes on timescales from microseconds to minutes. Understanding the dynamic nature of biological changes is critical to understanding function. To realize the full potential of CryoEM, time resolved methods will be integral in coupling static structures to dynamic functions. Here, we present an LED-based photo-flash system as a core part of the sample preparation phase in CryoTREM. The plug-and-play system has a wide range of operational parameters, is low cost and ensures uniform irradiation and minimal heating of the sample prior to plunge freezing. The complete design including electronics and optics, manufacturing, control strategies and operating procedures are discussed for the Thermo Scientific™ Vitrobot and Leica™ EM GP2 plunge freezers. Possible adverse heating effects on the biological sample are also addressed through theoretical as well as experimental studies.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36959978/) · [DOI](https://doi.org/10.1016/j.jsb.2020.107624) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7959588/)
 
 
 ---
@@ -859,25 +593,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Abnormal sensation during total body irradiation: a prospective observational study.
-
-*Mizumoto M, Oshiro Y, Miyamoto T, Sumiya T, Shimizu S, Iizumi T et al.* — Journal of radiation research (2022)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Light flash and odor during radiotherapy are well-known phenomena. Two prospective observational studies have indicated that 55% of patients observed a light flash during irradiation of the retina and 27% of patients sensed an odor during radiotherapy for the nasal cavity.
-
-
-??? note "Abstract"
-    Light flash and odor during radiotherapy are well-known phenomena. Two prospective observational studies have indicated that 55% of patients observed a light flash during irradiation of the retina and 27% of patients sensed an odor during radiotherapy for the nasal cavity. A prospective observational study was performed in all patients at our hospital who received total body irradiation (TBI) between January 2019 to October 2021. Light flash and odor during TBI were examined using the same method as that used in previous studies. A total of 32 patients received TBI during the study period. The patients had a median age of 41 (18-60) years, and included 20 males and 12 females. A survey checklist showed that 14 patients (44%) sensed light and 14 patients (44%) sensed odor during TBI,. The color of the light during irradiation was yellow in six cases, white in four cases, and blue in four cases. The intensity of the light was 2-5 (median 3, 1 is very weak, 5 is very strong) and the time over which the light flash was felt was 4-60 s (median 10 s). Two patients each sensed smells of plastic, ozone and bleach, and others sensed one smell each. The intensity of the odor was 1-4 (median 3, 1 is very weak, 5 is very strong) and the time over which the odor was sensed was 1-25 s (median 3 s). We conclude that light flashes and odors are each sensed by 44% of patients during TBI. Various types of light flashes and odors were reported in this study.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35818297/) · [DOI](https://doi.org/10.1093/jrr/rrac042) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9761318/)
-
-
----
-
 ### Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
 
 *Maity A, Koumenis C* — Clinical cancer research : an official journal of the American Association for Cancer Research (2022)  
@@ -954,25 +669,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### \[A Case of Recurrent Premenopausal Hormone Receptor Positive Breast Cancer with Liver, Lung and Bone Metastasis Successfully Treated with Endocrine Therapy\].
-
-*Sanbonmatsu M, Funakoshi S, Ogura N, Aoki Y, Hoshino M, Sakai G et al.* — Gan to kagaku ryoho. Cancer &amp; chemotherapy (2020)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Here we report a 48-year-old female with recurrent breast cancer. She had received chest muscle-conserving mastectomy and lymph node dissection at another hospital, diagnosed as pStage ⅡB, T2N1M0 premenopausal left endocrine positive/ HER2 negative breast cancer at the age of 45.
-
-
-??? note "Abstract"
-    Here we report a 48-year-old female with recurrent breast cancer. She had received chest muscle-conserving mastectomy and lymph node dissection at another hospital, diagnosed as pStage ⅡB, T2N1M0 premenopausal left endocrine positive/ HER2 negative breast cancer at the age of 45. Although postoperative adjuvant therapy was started with LH-RH agonist plus tamoxifen, and chest radiation, tamoxifen therapy was intolerantly discontinued due to severe adverse events of hot flash after 1 year later. Three years later, she presented with back pain and was referred to our hospital. As PET-CT revealed recurrence of multiple bone and lung metastases and solitary liver metastasis which did not seem to be life-threatening, palliative radiation therapy and endocrine therapy with leuprorelin and anastrozole(LA)were started. Eighteen months later, PET-CT showed complete disappearance of liver and lung metastases and remarkable regression of bone metastases except for the right sciatic bone. LA therapy could be maintained for a total of 30 months until metastatic recurrence on liver and bone emerged. LA endocrine therapy may be effective for patients with premenopausal hormone-positive breast cancer even if the difficult situation such as tamoxifen intolerance.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33468887/)
-
-
----
-
 ### Imaged-guided and muscle sparing laparoscopic anorectoplasty using real-time magnetic resonance imaging.
 
 *Jarboe M, Ladino-Torres M, Wild L, Spremo D, Elkins S, Ladouceur R et al.* — Pediatric surgery international (2020)  
@@ -1011,25 +707,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Phase-dependent gas sensitivity of MoS2 chemical sensors investigated with phase-locked MoS2.
-
-*Lee D, Jang AR, Kim JY, Lee G, Jung DW, Lee TI et al.* — Nanotechnology (2020)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** In the present study, phase-dependent gas sensitivities of MoS2 chemical sensors were examined. While 1T-phase MoS2 (1T-MoS2) has shown better chemical sensitivity than has 2H-phase MoS2 (2H-MoS2), the instability of the 1T phase has been hindering applications of 1T-MoS2 as chemical sensors.
-
-
-??? note "Abstract"
-    In the present study, phase-dependent gas sensitivities of MoS2 chemical sensors were examined. While 1T-phase MoS2 (1T-MoS2) has shown better chemical sensitivity than has 2H-phase MoS2 (2H-MoS2), the instability of the 1T phase has been hindering applications of 1T-MoS2 as chemical sensors. Here, the chemical sensitivity of MoS2 locked in its 1T phase by using a ZnO phase lock was investigated. To develop MoS2 chemical sensors locked in the 1T phase, we synthesized a multi-dimensional nanomaterial by growing ZnO nanorods onto MoS2 nanosheets (ZnO@1T-MoS2). Raman spectroscopy and x-ray photoelectron spectroscopy analyses of such phase-locked 1T-MoS2 subjected to flash light irradiation 100 times confirmed its robustness. ZnO nanomaterials hybridized on MoS2 nanosheets not only froze the MoS2 at its 1T phase, but also increased the active surface area for chemical sensing. The resulting hybridized material showed better response, namely better sensitivity, to NO2 gas exposure at room temperature than did 1T-MoS2 and 2H-MoS2. This result indicated that increased surface area and heterojunction formation between MoS2 and ZnO constitute a more promising route for improving sensitivity than using the 1T phase itself.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32069439/) · [DOI](https://doi.org/10.1088/1361-6528/ab776b)
-
-
----
-
 ### Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
 
 *Koch CJ* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)  
@@ -1038,25 +715,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/31431380/) · [DOI](https://doi.org/10.1016/j.radonc.2019.07.004)
-
-
----
-
-### High Hydrostatic Pressure Processing Better Preserves the Nutrient and Bioactive Compound Composition of Human Donor Milk.
-
-*Pitino MA, Unger S, Doyen A, Pouliot Y, Aufreiter S, Stone D et al.* — The Journal of nutrition (2019)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** When mother&#x27;s milk is insufficient, pasteurized human donor milk (DM) is the recommended supplement for hospitalized very-low-birth-weight infants. The current method of pasteurization (Holder, 62.5°C, 30 min) negatively affects heat-sensitive nutrients and bioactive proteins.
-
-
-??? note "Abstract"
-    BACKGROUND: When mother&#x27;s milk is insufficient, pasteurized human donor milk (DM) is the recommended supplement for hospitalized very-low-birth-weight infants. The current method of pasteurization (Holder, 62.5°C, 30 min) negatively affects heat-sensitive nutrients and bioactive proteins. OBJECTIVES: Objectives of this study were to compare changes in DM composition after thermal pasteurization (Holder and flash-heating) and nonthermal methods \[UV-C irradiation and high hydrostatic pressure (HHP)\]. We hypothesized that nonthermal techniques would result in fewer changes to composition. METHODS: Holder, flash-heating (brought to boil), UV-C irradiation (250 nm, 25 min), and HHP (500 MPa, 8 min) were studied. Pools of milk from 17 women known to contain bacteria at &gt;5 × 107 colony forming units (CFU)/L were collected from the Rogers Hixon Ontario Human Milk Bank and underwent each pasteurization technique. Macronutrients, heat-sensitive micronutrients (vitamin C, folate), and bioactive components \[bile-salt-stimulated lipase (BSSL), lysozyme, lactoferrin\] were measured in raw and pools of pasteurized milk. Milk was cultured to determine how well each technique produced a culture negative result (detection limit &lt;1 × 103 CFU/L). RESULTS: Folate was reduced by 24-27% after Holder, flash-heating, and UV-C (P &lt; 0.05); no reduction was observed after HHP. All pasteurization methods reduced vitamin C (60-75%, P &lt; 0.001). BSSL was abolished after Holder and flash-heating (P &lt; 0.001), reduced after UV-C (48%, P &lt; 0.001), but unaffected by HHP. Lysozyme activity was reduced after flash-heating (44%) and UV-C (74%, P &lt; 0.004) but unaffected by Holder or HHP. Lactoferrin was reduced by all methods (P &lt; 0.02) but most severely by flash-heating (74%) and least severely by HHP (25%). Holder and UV-C reduced lactoferrin by ∼48%. All pasteurization methods reduced the number of culture positive DM samples (P &lt; 0.001). CONCLUSIONS: HHP better preserves human milk composition than Holder pasteurization. Future research on the feasibility of HHP for pasteurizing human milk is warranted because its implementation may improve the nutritional status and health of DM-fed infants.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/30770541/) · [DOI](https://doi.org/10.1093/jn/nxy302) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5958646/)
 
 
 ---
@@ -1099,44 +757,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Split lesion randomized comparative study between long pulsed Nd:YAG laser 532 and 1,064 nm in treatment of facial port-wine stain.
-
-*Al-Dhalimi MA, Al-Janabi MH* — Lasers in surgery and medicine (2016)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Lasers have been the treatment of choice for Port-wine stain (PWS). However, only one type of laser is not a panacea for all PWS malformations.
-
-
-??? note "Abstract"
-    BACKGROUND: Lasers have been the treatment of choice for Port-wine stain (PWS). However, only one type of laser is not a panacea for all PWS malformations. This is may be due to the great heterogeneity of phenotypic presentation of this congenital anomaly as color, depth, and the site of the lesion. For the treatment of PWS, flash lamp-pumped pulsed dye laser, carbon dioxide, argon, krypton, copper bromide, frequency-doubled neodymium:yttrium-aluminum-garnet (Nd:YAG), and also intense pulsed light sources can be used. OBJECTIVES: To assess and compare the effectiveness of wavelength 532 and 1,064 nanometers (nm) long pulse Nd:YAG laser in the treatment of facial port-wine stain. PATIENTS AND METHODS: This was a comparative therapeutic study for the treatment of facial port-wine stain. We divided the lesion into two halves, medial and lateral, and then each half was treated by 532 or 1,064 nm Nd:YAG. The sessions were done every 4 weeks for six sessions and follow-up after 3 months, then assess the response before and after the sessions and at the end follow-up period objectively (degree of improvement, Photo comparison) and subjectively (Patient satisfaction). RESULTS: Fourteen out of nineteen patients completed all sessions of the treatment, and the other five patients were defaulted from the study due to different causes, including marriage, poor compliance for treatment, and for unknown causes. They were 13 (92.85%) females and 1 (7.15%) male. The mean age of patients was 22.07 ± 9.003 years (range 8-44 years). Three patients (21.4%) were Fitzpatrick&#x27;s skin type III and four patients (78.6%) were typed IV. There was no hypertrophy in any of the lesions. All facial PWSs lie along the distribution of the trigeminal nerve. Four patients (28.6%) have V1 (ophthalmic), 12 patients (85.7%) have V2 (maxillary), and 9 (64.3%) have V3 (mandibular). The color of PWSs was pink-red in eight patients (57.1%), dark-red in four patients (28.6%), and purple-dark two patients (14.3%). The improvement score for the halves of the PWS treated with long pulsed Nd:YAG 532 nm were: failure = 0%, mild = 14.3%, moderate = 28.6%, good = 28.6%, excellent = 28.6%, while the score for long pulsed Nd:YAG 1,064 nm were: failure = 7.1%, mild = 85.7%, moderate = 7.1%, good = 0%, excellent = 0%. There are highly significant differences between the two parameters (P-value = &lt;0.001). The visual analog scale regarding the halves of PWS treated by long pulsed Nd:YAG 532 nm before the treatment was 5.00 ± 0.96 and after treatment was 2.28 ± 1.43. There is a highly significant difference between the two scores (P-value &lt;0.001). The visual analog scale for the halves of PWS before the use of long pulsed Nd:YAG 1,064 nm was 5.14 ± 0.77 and after treatment was 3.71 ± 0.82. There is a highly significant difference between the two scores (P-value &lt;0.001). At the end of follow-up period, mean score ± SD for 532 nm was 2.28 ± 1.43 and for 1,064 nm was 3.71 ± 0.82. There is a highly significant difference in both wavelengths, when compared with scores for each before the treatment. In comparison, between 532 and 1,064 nm, the difference in the visual analog scale for 532 nm before and at the end of the follow-up period was 2.7143 ± 1.069, while for 1,064 nm was 1.4286 ± 0.513. There is a highly significant difference between the two wavelengths (P-value &lt;0.001). The mean score for the satisfaction of long pulsed Nd:YAG 532 nm was 76 ± 23, while for 1,064 nm was 33 ± 8, so there is a highly significant difference between the two parameters (P-value = &lt;0.001). None of the patients showed recurrence, scar, or hyperpigmentation after 3 months of the last treatment session. One patient developed hyperpigmentation that resolved with hydroquinone cream 4% and no scarring was seen at the end of follow-up period. CONCLUSIONS: The long pulsed Nd:YAG laser 532 nm is more effective in the treatment of superficial bright red facial PWSs than the long pulse Nd:YAG 1,064 nm. More treatment sessions may lead to better clearance of the lesions. The use of non-invasive imaging technique such as dermoscopy, skin analyzer likes spatial frequency domain imaging (SFDI) device, or confocal microscopy to assess the level of malformations and the changes before and after the treatment with each type can give a clearer view of tissue response to laser irradiation. Lasers Surg. Med. 48:852-858, 2016. © 2016 Wiley Periodicals, Inc.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27669109/) · [DOI](https://doi.org/10.1002/lsm.22584)
-
-
----
-
-### Comparison of set-up errors by breast size on wing board by portal imaging.
-
-*Raza W, Agarwal S, Maria Das KJ, Senthil Kumar SK, Lal P* — Reports of practical oncology and radiotherapy : journal of Greatpoland Cancer Center in Poznan and Polish Society of Radiation Oncology (2016)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To quantify and compare setup errors between small and large breast patients undergoing intact breast radiotherapy. METHODS: 20 patients were inducted.
-
-
-??? note "Abstract"
-    AIM: To quantify and compare setup errors between small and large breast patients undergoing intact breast radiotherapy. METHODS: 20 patients were inducted. 10 small/moderate size breast in arm I and 10 large breast in arm II. Two orthogonal and one lateral tangent portal images (PIs) were obtained and analyzed for systematic (Σ) and random (σ) errors. Effect of no action level (NAL) was also evaluated retrospectively. RESULTS: 142 PIs were analyzed. Σ(mm) was 3.2 versus 6.7 (p = 0.41) in the mediolateral (ML) direction, 2.1 versus 2.9 (p = 0.06) in the craniocaudal (CC) and 2.2 versus 3.6 (p = 0.08) in the anteroposterior (AP) direction in small and large breast, respectively. σ(mm) was 3.0, 3.3 and 3.3 for small breast and 4.1, 3.7 and 3.2 for large breast in the ML, CC and AP direction (p = 0.07, 0.86, 0.37), respectively. 3 D Σ(mm) was 2.7 versus 4.2 (p = 0.01) and σ(mm) was 2.5 versus 3.2 (p = 0.14) in arm I and II, respectively. The standard deviation (SD) of variations (mm) in breast contour depicted by central lung distance (CLD) was 5.9 versus 7.4 (p &lt; 0.001), central flash distance (CFD) 6.6 versus 10.5 (p = 0.002), inferior central margin (ICM) 4 versus 4.9 (p &lt; 0.001) in arm I and II, respectively. NAL showed a significant reduction of systematic error in large breast in the mediolateral direction only. CONCLUSION: Wing board can be used in a busy radiotherapy department for setting up breast patients with a margin of 1.1 cm, 0.76 cm and 0.71 cm for small breasts and 1.96 cm, 1.12 cm and 0.98 cm for large breast in the ML, AP and CC directions, respectively. The large PTV margin in the mediolateral direction in large breast can be reduced using NAL. Further research is needed to optimize positioning of large breasted women.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27489515/) · [DOI](https://doi.org/10.1016/j.rpor.2016.04.001) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4201775/)
-
-
----
-
 ### Flashes of light-radiation therapy to the brain.
 
 *Blumenthal DT, Corn BW, Shtraus N* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2015)  
@@ -1152,25 +772,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26253952/) · [DOI](https://doi.org/10.1016/j.radonc.2015.07.034)
-
-
----
-
-### Quantifying intra- and inter-fractional motion in breast radiotherapy.
-
-*Jones S, Fitzgerald R, Owen R, Ramsay J* — Journal of medical radiation sciences (2015)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** The magnitude of intra- and inter-fractional variation in the set up of breast cancer patients treated with tangential megavoltage photon beams was investigated using an electronic portal imaging device (EPID). METHODS: Daily cine-EPID images were captured during delivery of the tangential fields for ten breast cancer patients treated in the supine position.
-
-
-??? note "Abstract"
-    INTRODUCTION: The magnitude of intra- and inter-fractional variation in the set up of breast cancer patients treated with tangential megavoltage photon beams was investigated using an electronic portal imaging device (EPID). METHODS: Daily cine-EPID images were captured during delivery of the tangential fields for ten breast cancer patients treated in the supine position. Measurements collected from each image included the central lung distance (CLD), central flash distance (CFD), superior axial measurement (SAM) and the inferior axial measurement (IAM). The variation of motion within a fraction (intra-fraction) and the variation between fractions (inter-fraction) was analysed to quantify set up variation and motion due to respiration. RESULTS: Altogether 3775 EPID images were collected from 10 patients. The effect of respiratory motion during treatment was &lt;0.1 cm standard deviation (SD) in the anterior-posterior (AP) direction. The inter-fraction movement caused by variations in daily set up was larger at 0.28 cm SD in the AP direction. Superior-inferior (SI) variation was more difficult to summarise and proved unreliable as the measurements were taken to an ambiguous point on the images. It was difficult to discern true SI movement from that implicated by AP movement. CONCLUSION: There is minimal intra-fractional chest wall motion due to respiration during treatment. Inter-fractional variation was larger, however, on average it remained within departmental tolerance (0.5 cm) for set up variations. This review of our current breast technique provides confidence in the feasibility of utilising advanced treatment techniques (field-in-field, intensity modulated radiotherapy or volumetric modulated arc therapy) following a review of the current imaging protocol.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26229666/) · [DOI](https://doi.org/10.1002/jmrs.61) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200284/)
 
 
 ---
@@ -1194,101 +795,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Coherent X-Ray Diffraction Imaging of Chloroplasts from Cyanidioschyzon merolae by Using X-Ray Free Electron Laser.
-
-*Takayama Y, Inui Y, Sekiguchi Y, Kobayashi A, Oroguchi T, Yamamoto M et al.* — Plant &amp; cell physiology (2015)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Coherent X-ray diffraction imaging (CXDI) is a lens-less technique for visualizing the structures of non-crystalline particles with the dimensions of submicrometer to micrometer at a resolution of several tens of nanometers. We conducted cryogenic CXDI experiments at 66 K to visualize the internal structures of frozen-hydrated chloroplasts of Cyanidioschyzon merolae using X-ray free electron laser…
-
-
-??? note "Abstract"
-    Coherent X-ray diffraction imaging (CXDI) is a lens-less technique for visualizing the structures of non-crystalline particles with the dimensions of submicrometer to micrometer at a resolution of several tens of nanometers. We conducted cryogenic CXDI experiments at 66 K to visualize the internal structures of frozen-hydrated chloroplasts of Cyanidioschyzon merolae using X-ray free electron laser (XFEL) as a coherent X-ray source. Chloroplast dispersed specimen disks at a number density of 7/(10×10 µm(2)) were flash-cooled with liquid ethane without staining, sectioning or chemical labeling. Chloroplasts are destroyed at atomic level immediately after the diffraction by XFEL pulses. Thus, diffraction patterns with a good signal-to-noise ratio from single chloroplasts were selected from many diffraction patterns collected through scanning specimen disks to provide fresh specimens into the irradiation area. The electron density maps of single chloroplasts projected along the direction of the incident X-ray beam were reconstructed by using the iterative phase-retrieval method and multivariate analyses. The electron density map at a resolution of 70 nm appeared as a C-shape. In addition, the fluorescence image of proteins stained with Flamingo™ dye also appeared as a C-shape as did the autofluorescence from Chl. The similar images suggest that the thylakoid membranes with an abundance of proteins distribute along the outer membranes of chloroplasts. To confirm the present results statistically, a number of projection structures must be accumulated through high-throughput data collection in the near future. Based on the results, we discuss the feasibility of XFEL-CXDI experiments in the structural analyses of cellular organelles.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25745031/) · [DOI](https://doi.org/10.1093/pcp/pcv032)
-
-
----
-
-### Poster - Thur Eve - 71: Improved dose accuracy for plan checking IMRT breast plans.
-
-*Corns R, Thomas S, Dubrowski P, Huang V, Shahine L* — Medical physics (2012)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Dose verification as part of plan checking is a critical component of high quality patient care. IMSure QA is a software platform used at the BC Cancer Agency that facilitates dose verification for both conformal and IMRT plans.
-
-
-??? note "Abstract"
-    Dose verification as part of plan checking is a critical component of high quality patient care. IMSure QA is a software platform used at the BC Cancer Agency that facilitates dose verification for both conformal and IMRT plans. We have recently initiated treating breast tangents using IMRT at the Fraser Valley Centre and noted increased dose discrepancies (mean difference of -3%) between Eclipse and IMSure&#x27;s QA module. We identified two potential sources of error: air flash and tissue heterogeneity. We extend our generated fluences 3cm past the breast contour and into air to account for breathing, set-up uncertainties and swelling. IMSure does not account for the fluence in air or air flash. We present an air-flash-correction factor based on the ratios of TMRs and Phantom Scatter Factors which use the field sizes of fields with and without the air flash. In addition, we present a method to improve the heterogeneity correction used by IMSure to better match that used by AAA. Effectively we remove the IMSure&#x27;s inherent heterogeneity correction and manually apply a AAA-based heterogeneity-correction factor. We evaluated our correction factors on a sample of 8 patients (32 fields) using ANOVA methods to determine which dose corrections most accurately reproduce Eclipse&#x27;s values. We found the air-flash correction coupled with IMSure&#x27;s inherent-heterogeneity correction has the best dose accuracy (mean difference improved from -3% to 0.3%). The AAA-heterogeneity correction alone also improved the accuracy (mean difference improved from -3% to - 1.5%), which is acceptable for plan checking purposes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/28516649/) · [DOI](https://doi.org/10.1118/1.4740180)
-
-
----
-
-### Investigation of selective retina treatment (SRT) by means of 8 ns laser pulses in a rabbit model.
-
-*Framme C, Schuele G, Kobuch K, Flucke B, Birngruber R, Brinkmann R* — Lasers in surgery and medicine (2008)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** It has been shown that selective retina treatment (SRT) using a train of 1.7 microseconds laser pulses allows selective damage of the retinal pigment epithelium (RPE) while sparing the adjacent photoreceptors and thus avoiding laser scotoma. It was the purpose of this work to investigate SRT laser effects with Q-switched pulses of only 8 nanoseconds in duration by evaluating the angiographic and o…
-
-
-??? note "Abstract"
-    BACKGROUND: It has been shown that selective retina treatment (SRT) using a train of 1.7 microseconds laser pulses allows selective damage of the retinal pigment epithelium (RPE) while sparing the adjacent photoreceptors and thus avoiding laser scotoma. It was the purpose of this work to investigate SRT laser effects with Q-switched pulses of only 8 nanoseconds in duration by evaluating the angiographic and ophthalmoscopic damage thresholds and the damage range by histology in a rabbit model. MATERIALS AND METHODS: A flash lamp pumped frequency doubled (532 nm) Nd:YAG laser with 8 nanoseconds pulse duration was used. In total 210 laser lesions, each calculated to be 102 microm in diameter on retina, were applied through a slit lamp onto the fundus of six eyes of Chinchilla Bastard rabbits. The rabbits were irradiated with increasing energies with single pulses and a train of 10 laser pulses at 10 Hz. After treatment fundus photography and angiography were performed to determine the damage thresholds (ED(50)-probability of RPE cell damage and neurosensory retinal damage) as well as the safety range between both thresholds (ratio of angiographic ED(86) vs. ophthalmoscopic ED(14)). Selected histology was taken for single and repetitive pulse lesions after treatment. RESULTS: Angiographic and ophthalmoscopic ED(50)-thresholds decreased with increasing number of pulses. For single pulse application ophthalmoscopic and angiographic ED(50) were determined to 365 and 144 mJ/cm(2), respectively. Regarding 10 pulses 266 and 72 mJ/cm(2) were found. No retinal hemorrhages or disruptions were observed for both sets of parameters. The therapeutic window between angiographic and ophthalmoscopic threshold revealed a factor of 3.1 for single pulses and 2.3 for repetitive pulse irradiation. The safety range respectively had a factor of 0.8 (single pulses) and 1.7 (10 pulses). Histologic examination of laser lesions with single and repetitive pulses at radiant exposures within the therapeutic window-292 and 213 mJ/cm(2) respectively-revealed damaged RPE, intact Bruch&#x27;s membrane and choriocapillaries. Photoreceptors were partly spared but also damaged to various extents. CONCLUSIONS: Short laser pulses of 8 nanoseconds pulse duration can damage the RPE without retinal hemorrhage or disruption. Selective damage of the RPE without affecting the photoreceptors can only rarely be achieved due to the small safety range. Thus, so far microsecond laser pulses for SRT seems favorable compared to nanosecond pulses in order to prevent unintentional photoreceptor damage.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/18220262/) · [DOI](https://doi.org/10.1002/lsm.20592)
-
-
----
-
-### \[Clinical study of aromatase inhibitors in advanced breast cancer\].
-
-*Li HP, Ji JF, Hou KY, Jia TZ, Zhao HM, Xiao Y et al.* — Beijing da xue xue bao. Yi xue ban = Journal of Peking University. Health sciences (2007)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To assess the antitumor activity and safety of aromatase inhibitors in advanced breast cancer. METHODS: Fifty-two advanced and female breast cancer patients with measurable and /or bone valuable tumor lesions were observed from June 2003 to September 2006.
-
-
-??? note "Abstract"
-    OBJECTIVE: To assess the antitumor activity and safety of aromatase inhibitors in advanced breast cancer. METHODS: Fifty-two advanced and female breast cancer patients with measurable and /or bone valuable tumor lesions were observed from June 2003 to September 2006. They were treated by aromatase inhibitors for at least 24 weeks, of whom 11 were treated less than 24 weeks because of disease progress; their age range was from 37 to 75 years (median 58); 8 patients were pre-menopausal, 6 with ovarian ablation and 2 with Goserelin to suppress ovarian function. Thirty-six patients were treated with exemestane, 13 with anastrozole and 3 with letrozole. Major items were observed including objective response rate (ORR=CR+PR), clinical benefit rate (CBR=CR+PR+SD&gt;or=24 weeks), time to progress (TTP), time to failure (TTF), safety and toxicity. RESULTS: CR were 6 cases (11.5%) , with 1 case going on for 152 weeks, 1 case for 96 weeks, and other 4 cases for longer than 60 weeks; PR were 19 cases (36.5%), lasting 32-96 weeks; 16 cases obtained SD&gt;or=24 weeks(30.8%); and 11 cases PD (progress of disease)+SD&lt;24 weeks (21.2%). ORR were 48%, CBR 78.8%, and TTP 78.87 weeks (95% CI 61.13%-96.61%); although the patients who did not achieve objective response (group B) were treated with chemotherapy, radiotherapy or another kind of aromatase inhibitor, but their survival time was significantly different from that of the patients who achieved objective response (group A) when defined by Kaplan-Meier survival estimate. The over survival was 92% in group A, and 81.5% in group B when patients follow up more than 24 weeks \[Log Rank (Mantel-Cox) analysis, chi2=3.85, P=0.047\]; side effects were observed such as arthralgia, sweating, hot flash, and 2 patients developed heart failure with uncertain related drug before recovery. CONCLUSION: The single agent effective rate of aromatase inhibitor was 48%. The patients had long term survival if they obtained CR or PR, and the side effects were well tolerated.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17440599/)
-
-
----
-
-### Paroxetine controlled release in the treatment of menopausal hot flashes: a randomized controlled trial.
-
-*Stearns V, Beebe KL, Iyengar M, Dube E* — JAMA (2003)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Standard therapy for hot flashes has been hormone replacement with estradiol or progestational agents, but recent data suggest that antidepressants inhibiting serotonin reuptake may also be effective. OBJECTIVE: To evaluate a selective serotonin reuptake inhibitor (paroxetine controlled release \[CR\]) in treating the vasomotor symptoms displayed by a general cross-section of menopausal women.
-
-
-??? note "Abstract"
-    CONTEXT: Standard therapy for hot flashes has been hormone replacement with estradiol or progestational agents, but recent data suggest that antidepressants inhibiting serotonin reuptake may also be effective. OBJECTIVE: To evaluate a selective serotonin reuptake inhibitor (paroxetine controlled release \[CR\]) in treating the vasomotor symptoms displayed by a general cross-section of menopausal women. DESIGN AND SETTING: Randomized, double-blind, placebo-controlled, parallel group study conducted across 17 US sites, including urban, suburban, and rural clinics. PATIENTS: A total of 165 menopausal women aged 18 years or older experiencing at least 2 to 3 daily hot flashes and must have discontinued any hormone replacement therapy for at least 6 weeks. Women were excluded if they had any signs of active cancer or were undergoing chemotherapy or radiation therapy. INTERVENTION: After a 1-week placebo run-in phase, study participants were randomized to receive placebo or receive 12.5 mg/d or 25.0 mg/d of paroxetine CR (in a 1:1:1 ratio) for 6 weeks. MAIN OUTCOME MEASURES: Mean change from baseline to week 6 in the daily hot flash composite score (frequency x severity). RESULTS: Fifty-six participants were randomly assigned to receive placebo and 51 to receive 12.5 mg/d and 58 to receive 25.0 mg/d of paroxetine CR. The mean reductions in the hot flash frequency composite score from baseline to week 6 were statistically significantly greater for those receiving paroxetine CR than for those receiving placebo. By week 6, the mean daily hot flash frequency went from 7.1 to 3.8 (mean reduction, 3.3) for those in the 12.5-mg/d and from 6.4 to 3.2 (mean reduction, 3.2) for those in the 25-mg/d paroxetine CR groups and from 6.6 to 4.8 (mean reduction, 1.8) for those in the placebo group. Mean placebo-adjusted reduction in hot flash composite scores were -4.7 (95% confidence interval, - 8.1 to -1.3; P =.007) comparing 12.5-mg/d paroxetine CR with placebo; and -3.6 (95% confidence interval, -6.8 to -0.4; P =.03) comparing 25.0-mg/d paroxetine CR with placebo. This corresponded to median reductions of 62.2% for those in the 12.5-mg/d and 64.6% for those in the 25.0-mg/d paroxetine CR groups compared with 37.8% for those in the placebo group. CONCLUSION: Paroxetine CR may be an effective and acceptable alternative to hormone replacement and other therapies in treating menopausal hot flash symptoms.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/12783913/) · [DOI](https://doi.org/10.1001/jama.289.21.2827)
-
-
----
-
 ### Double-flash, large-fraction radiation therapy as palliative treatment of malignant superior vena cava syndrome in the elderly.
 
 *Lonardi F, Gioga G, Agus G, Coeli M, Campostrini F* — Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer (2002)  
@@ -1308,25 +814,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### \[Classification of laser irradiation and safety measures\].
-
-*Takac S, Stojanović S* — Medicinski pregled (1998)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** The use of lasers in medicine and especially surgery is rapidly expanding in many disciplines from clinical laboratory to the office practice and operating room. It is essential that users of this powerful tool have knowledge of their potential hazards and the measures to protect patients and personnel against injuries or undesired effects.
-
-
-??? note "Abstract"
-    The use of lasers in medicine and especially surgery is rapidly expanding in many disciplines from clinical laboratory to the office practice and operating room. It is essential that users of this powerful tool have knowledge of their potential hazards and the measures to protect patients and personnel against injuries or undesired effects. Below, we have included information about the way lasers are classified; the development of protective standards; the current status of protection standards that apply to lasers, especially those used in medicine/surgery; the specific kinds of hazards associated with medical/surgical applications; and the measures by which hazards have been controlled. Since laser technology is still a young field, it is likely that problems unknown at present will occur and methodologies for controlling hazards will evolve. The American National Standards Committee produced the first consensus standard Z136.1 in 1973. The Standard was revised in 1976 to accommodate differences in biological effects for different wavelengths in the visible spectrum. The ANSI Standard has been revised again in 1980, and currently (1984) there are two additional standards in preparation, Z136.2 and 136.3, which treat the safe use of light-emitting diodes and the safe use of lasers in the health care environment, respectively. Most surgical and medical lasers are Class III or IV. Some lasers have a Class IV therapy level beam plus a Class I or II alignment beam. When using lasers, it is possible to generate incandescence or fluorescence in an irradiated object. This can occur even with protective eyewear, because the correlated radiations are usually of a different wavelength. Generally, this should not be a problem when beams are directed at biological material. However, hazard could be caused by lasers designed to produce fluorescence. Control of correlative radiation in a laser system is required in the federal regulations. Hazards of lasers may be grouped as those to the eye, skin and associated hazards, fire, x-rays, electrical, fumes, toxic materials, etc. Effects on tissue are governed by the following factors:--the energy or power density of the beam;--the absorption in tissue at the laser wavelength;--the time the beam is held at a given area.;--the protective effects of heat removal by thermal conduction and by circulation. Eye hazards include thermal burns or acoustical disruption (shock waves) from high-powered or high-energy beams in the visible and near infrared wavelengths. Direct beam exposure or specular or diffuse reflaction from these very high-power lasers can also cause injuries to other parts of the retina. For example, beams can directly penetrate through the sclera and cause retinal injury. Near ultraviolet (less than 400 hm) and far infrared (.3000 hm including CO2 lasers) can cause moderate to severe corneal burns. Far ultraviolet (200-315 nm), mid infrared (1400-3000 nanometers) can cause welders&#x27; flash or snow blindness and chronic exposure could cause cataract, and exposure to ultraviolet rays may be carcinogenic. For CO2 lasers, the far infrared radiation is attenuated by plastic goggles, or by glasses, or quartz. Other eyewear with special filters is used for different lasers. The whole personnel who may be exposed to direct beams, specular reflections, and many times diffuse reflections must wear protective eyewear. In all cases the surgeon and others viewing the procedure through the endoscope need glasses or suitable protective lenses installed in the endoscope. Persons who are not viewing the beam may not need to wear protective glasses with the same level of optical density. Glasses may be selected to provide protection for lasers operating in the visible wavelength to the point where the normal aversion response could protect the individual.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/9863331/)
-
-
----
-
 ### Pure methotrexate encephalopathy presenting with seizures: CT and MRI features.
 
 *Lövblad K, Kelkar P, Ozdoba C, Ramelli G, Remonda L, Schroth G* — Pediatric radiology (1998)  
@@ -1342,25 +829,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9472050/) · [DOI](https://doi.org/10.1007/s002470050299)
-
-
----
-
-### Fundamental Studies of Fiber-Guided Soft Tissue Cutting by Means of Pulsed Midinfrared Lasers and their Application in Ureterotomy.
-
-*Brinkmann R, Knipper A, Dro Ge G, Schro Er F, Gromoll B, Birngruber R* — Journal of biomedical optics (1998)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Fiber-guided ablation of soft tissue with pulsed holmium and thulium lasers was investigated for intraluminal incisions. A bare fiber/tissue-contact application system with a nearly tangential irradiation geometry was first used in vitro on porcine ureter tissue.
-
-
-??? note "Abstract"
-    Fiber-guided ablation of soft tissue with pulsed holmium and thulium lasers was investigated for intraluminal incisions. A bare fiber/tissue-contact application system with a nearly tangential irradiation geometry was first used in vitro on porcine ureter tissue. The efficiency and precision of the method was analyzed for different laser and application parameters. The ablation dynamics in water and tissue was investigated by fast flash photography. Uniform cuts could be achieved with 200- and 318-μm fibers using a free-running holmium laser with a pulse repetition rate of 10 Hz and an average power of up to 4 W. The depth of the cuts could be increased by using a thulium laser with the same laser parameters. By reducing the pulse duration by one order of magnitude, the quality of the incisions was made more irregular, the zone of thermomechanical damage increased, and the cuts became deeper owing to the growing influence of cavitation on shorter laser pulse durations. In a first clinical trial, 20 patients underwent holmium laser therapy to reopen ureteral strictures. Neither bleeding nor other adverse effects due to the laser treatment occurred, showing IR laser ureterotomy to be a suitable and promising minimally invasive technique. © 1998 Society of Photo-Optical Instrumentation Engineers.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/23015010/) · [DOI](https://doi.org/10.1117/1.429865)
 
 
 ---
@@ -1403,44 +871,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Capillary hemangiomas and treatment with the flash lamp-pumped pulsed dye laser.
-
-*Ashinoff R, Geronemus RG* — Archives of dermatology (1991)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Strawberry, or capillary, hemangiomas are common vascular neoplasms, with an incidence of approximately 2.6% in neonates. They usually develop in the first few weeks of life, so that between 1 month and 1 year the incidence rises to between 8.7% and 10.1%.
-
-
-??? note "Abstract"
-    Strawberry, or capillary, hemangiomas are common vascular neoplasms, with an incidence of approximately 2.6% in neonates. They usually develop in the first few weeks of life, so that between 1 month and 1 year the incidence rises to between 8.7% and 10.1%. These lesions may grow quite large in the first year of life, and they may ulcerate or obstruct a vital organ or function. The great majority will spontaneously regress after the first year of life. Parents are often alarmed at the sight of these hemangiomas and need reassurance that the great majority will regress spontaneously. Treatments such as cryosurgery, irradiation, radium instillation, corticosteroid therapy, or surgical excision are often ineffective or cause significant morbidity. We describe 10 children with capillary hemangiomas treated with the flash lamp-pumped pulsed dye laser. The patients ranged in age from 7 weeks to 5.5 years at the beginning of laser therapy. The patients underwent 3.1 +/- 1 (mean +/- SD) laser treatments, with a mean regression of the lesions of 69.9% +/- 4.5%. All patients demonstrated some diminution in the size and color of their hemangiomas after the treatments, and there were no ill effects, such as ulceration, hemorrhage, infection, or scarring. There was no evidence of hyperpigmentation or hypopigmentation. Pulsed dye laser therapy should be considered as an option in the treatment of capillary hemangiomas, preferably prior to their full evolution. It is also a useful therapeutic approach in those hemangiomas that are slow to regress in older children.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1990985/)
-
-
----
-
-### High dose melphalan and ABMT with or without abdominal radiotherapy as consolidation treatment for ovarian carcinoma in complete remission or with microscopic residual disease.
-
-*Dufour P, Bergerat JP, Liu KL, Bohbot A, Maloisel F, Duclos B et al.* — European journal of gynaecological oncology (1991)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** We initiated in February 1982 a pilot study of high dose melphalan (HDM) and ABMT as consolidation treatment for ovarian carcinoma. Eleven patients entered into this study; 6 patients received HDM and ABMT (group 1), 5 patients received HDM in combination with flash abdominal radiotherapy followed by ABMT (group 2).
-
-
-??? note "Abstract"
-    We initiated in February 1982 a pilot study of high dose melphalan (HDM) and ABMT as consolidation treatment for ovarian carcinoma. Eleven patients entered into this study; 6 patients received HDM and ABMT (group 1), 5 patients received HDM in combination with flash abdominal radiotherapy followed by ABMT (group 2). Two of 6 group 1 patients and 3 of 5 group 2 patients are still alive with NED more than 3 years after ABMT (58+, 72+, 37+, 39+, 43+) and are hopefully cured. Main toxicity was haematological, we have not observed any death related to therapy. HDM and ABMT compared favorably with other consolidation treatments (abdominopelvic radiotherapy or IP chemotherapy) and merits a larger evaluation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1809578/)
-
-
----
-
 ### Intra-arterial infusion of bromodeoxyuridine and radiotherapy in osteosarcoma and other bone malignancies.
 
 *Lejeune FJ, Regnier R, Nogaret JM, Jabri M* — Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer (1983)  
@@ -1456,25 +886,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/6580684/) · [DOI](https://doi.org/10.1007/978-3-642-82025-0_34)
-
-
----
-
-### An 11-year assessment of 93 flash-frozen homograft valves in the aortic position.
-
-*Ingegneri A, Wain WH, Martelli V, Bodnar E, Ross DN* — The Thoracic and cardiovascular surgeon (1979)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Flash-frozen homograft aortic valves were used for isolated aortic valve replacement at the National Heart Hospital between 1968 and 1971. This study of 93 patients with an average follow-up of 8.5 years complements a previous report on 30 patients but shows a higher incidence of degeneration.
-
-
-??? note "Abstract"
-    Flash-frozen homograft aortic valves were used for isolated aortic valve replacement at the National Heart Hospital between 1968 and 1971. This study of 93 patients with an average follow-up of 8.5 years complements a previous report on 30 patients but shows a higher incidence of degeneration. There was an early mortality of 4.8% and a late mortality of 15.9% over 11 years. Only five of the 15 late deaths were directly attributable to valve malfunction. There were no episodes of thromboembolism during the 11 year follow-up and only three cases of infective endocarditis. Despite the late onset of valve degeneration there is a 77% probability of patient survival at 11 years. The use of frozen valves delayed the time of onset of degenerative changes when compared over an 11-year period with the earlier use of freeze-dried valves. The evaluation of replacement cardiac valves is thus seen to be time-dependent and needs a long follow-up and an adequate number of patients in the sample for a meaningful assessment. There was no significant difference in the long-term performance between the frozen valves sterilized in ethylene oxide or sterilized with gamma irradiation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/524331/) · [DOI](https://doi.org/10.1055/s-0028-1096264)
 
 
 ---

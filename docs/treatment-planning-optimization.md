@@ -2,64 +2,7 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*75 records. Newest first.*
-
----
-
-### Evaluation of skin dose robustness in breast radiotherapy using VMAT planning technique: a phantom-based surface dosimetry study.
-
-*Yoo D, Hong CS, Jeong H, Kim D, Kim Y, Kim WS et al.* — Physics in medicine and biology (2026)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Minor anatomical changes from evolving edema during breast radiotherapy can compromise skin dose, particularly for VMAT. This study experimentally evaluated the robustness of conventional, skin-flash, and robust-optimization-based VMAT techniques against simulated contour variations using phantom-based surface dosimetry.
-
-
-??? note "Abstract"
-    Minor anatomical changes from evolving edema during breast radiotherapy can compromise skin dose, particularly for VMAT. This study experimentally evaluated the robustness of conventional, skin-flash, and robust-optimization-based VMAT techniques against simulated contour variations using phantom-based surface dosimetry. &amp;#xD;Approach: Two configurations of an anthropomorphic phantom simulated clinical scenarios: with a breast attachment (large/reconstructed) and without (small/postmastectomy flat chest wall). Four plans were compared: 3D-CRT, conventional VMAT, VMAT with skin-flash, and VMAT with robust optimization. Plan robustness was assessed via TPS simulations and physical OSLD measurements at five surface points. To simulate controlled rigid surface contour change, the couch was shifted anterior-posteriorly by ±2, ±4, and ±6 mm as a simplified surrogate for edema-induced variations. Shifted OSLD measurements were normalized to the 0-mm baseline, and absolute dose deviations were evaluated against the 3D-CRT reference. &amp;#xD;Main results: TPS simulations suggested VMAT with skin-flash offered the greatest stability; however, physical measurements showed the opposite. Conventional VMAT was more variable than 3D-CRT (SD 9.47% vs 3.62% at ±6 mm), and the evaluated VMAT with skin-flash implementation was the least robust (SD 12.60%; worst-case minimum dose 62.49% with 75% of points outside ±5%), despite its favorable TPS prediction. In contrast, VMAT with robust optimization approached the stability of 3D-CRT (SD 5.48%) and showed even smaller deviations than 3D-CRT in the phantom with a breast attachment. &amp;#xD;Significant: These physical measurements demonstrate that, contrary to TPS predictions, the evaluated VMAT with skin-flash implementation does not ensure skin-dose robustness, whereas VMAT with robust optimization substantially improved robustness to a level comparable to that of 3D-CRT, with the greatest benefit observed in the phantom with a breast attachment.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42468558/) · [DOI](https://doi.org/10.1088/1361-6560/ae8ca5)
-
-
----
-
-### Robustness Comparison of the Virtual Bolus Method and Robust Optimization in Postmastectomy Radiation Therapy Using Volumetric Modulated Arc Therapy.
-
-*Yamauchi R, Tomita F, Nakajima Y, Fujita Y, Tohyama N, Mizuno N et al.* — Cureus (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Background In postmastectomy radiation therapy (PMRT), respiratory motion compromises dose delivery. Quantitative comparisons between virtual bolus (VB) and robust optimization (RO) remained limited, and there is no definitive consensus regarding optimal skin-flash strategies.
-
-
-??? note "Abstract"
-    Background In postmastectomy radiation therapy (PMRT), respiratory motion compromises dose delivery. Quantitative comparisons between virtual bolus (VB) and robust optimization (RO) remained limited, and there is no definitive consensus regarding optimal skin-flash strategies. This study evaluated the relative motion robustness of VB and RO in PMRT and explored the influence of VB thickness and density on dosimetric robustness. Methodology This study included 20 patients with left-sided PMRT planned in RayStation using standard optimization (SO), VB (27 combinations of three planning target volume (PTV) margins, three VB thicknesses, and three densities), and RO (three uncertainty settings). Respiratory motion was simulated by shifting the isocenter by 3-15 mm. Robustness was quantified using changes in chest wall D98% and D2% relative to the nominal plan. Results VB configurations showed substantial variability. The most robust plans consistently involved a VB thickness equal to the PTV margin plus 8 mm at 0.4 g/cm³. Under a 5-mm shift, median D2% changes for SO, VB, and RO were 2.6%, -0.8%, and 0.7%, while D98% changes were -8.7%, -0.3%, and -2.6%, respectively. Top-ranked VB settings maintained dose stability even when motion exceeded the applied PTV margin. Conversely, thin, low-density VB configurations caused marked D2% escalation (up to 3%) and were considered suboptimal. For representative configurations, changes in heart Dmean and lung V20Gy under isocenter shifts were small and comparable among SO, VB, and RO. Conclusions Under the tested conditions, appropriately configured VB demonstrated greater dosimetric robustness of target coverage than RO and SO. Robustness relied on the combined effects of PTV margin, VB thickness, and density. A configuration with VB thickness equal to the PTV margin plus 8 mm at 0.4 g/cm³ achieved the most stable performance, providing practical dosimetric insight for robustness-oriented PMRT planning.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42005259/) · [DOI](https://doi.org/10.7759/cureus.105492) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9730055/)
-
-
----
-
-### A Practical Distributed Virtual Bolus Strategy for Motion-Robust Superficial Dose Delivery in Breast Volumetric Modulated Arc Therapy.
-
-*Meng Q, Hu B, Yu H, Li Z, Zhong R, Zhang X* — Practical radiation oncology (2026)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Maintaining adequate superficial dose coverage in breast volumetric modulated arc therapy (VMAT) remains challenging under interfractional motion and anatomic variation, largely due to the limited robustness of conventional skin flash strategies. This study evaluates the limitations of commonly used approaches and proposes a practical distributed virtual bolus strategy to improve motion robustness…
-
-
-??? note "Abstract"
-    PURPOSE: Maintaining adequate superficial dose coverage in breast volumetric modulated arc therapy (VMAT) remains challenging under interfractional motion and anatomic variation, largely due to the limited robustness of conventional skin flash strategies. This study evaluates the limitations of commonly used approaches and proposes a practical distributed virtual bolus strategy to improve motion robustness without dose escalation. METHODS AND MATERIALS: Six flash strategies-no flash, virtual target expansion with water- or air-equivalent density, and 3 virtual planning bolus configurations (single, dual, and triple)-were evaluated in 12 left-sided breast VMAT plans. The proposed triple virtual planning bolus strategy distributed discrete bolus segments along the anterior-lateral breast contour to maintain angular optimization support during arc delivery. Robustness was assessed using deformation-based motion simulations with displacements up to 15 mm. Superficial dose was evaluated using 3-mm and 5-mm skin shells, and target robustness was quantified using dose-volume metrics, relative coverage retention, and high-dose penalty reduction. RESULTS: All strategies achieved comparable nominal plan quality. Virtual target expansion with water-equivalent density produced the largest superficial hotspot burden and pronounced instability after density removal (planning clinical target volume 2 \[PCTV2\] V107%: 42.99% ± 11.57%). Conventional planning bolus strategies showed direction-dependent robustness loss under lateral and composite motion. In contrast, the triple virtual planning bolus strategy maintained stable superficial coverage across all simulated scenarios, preserving PCTV2 V95% above 97% for displacements up to 15 mm while reducing high-dose penalty by up to 56.59% relative to virtual target expansion. CONCLUSIONS: A distributed virtual bolus strategy enables motion-robust superficial dose delivery in breast VMAT while limiting high-dose escalation. This approach provides a practical and physics-informed solution for improving motion tolerance in arc-based breast radiation therapy without increasing planning complexity.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41935687/) · [DOI](https://doi.org/10.1016/j.prro.2026.03.003)
-
+*60 records. Newest first.*
 
 ---
 
@@ -443,25 +386,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
-### A robust planning approach for respiratory motion in accelerated partial breast irradiation using volumetric modulated arc therapy.
-
-*Yamauchi R, Tomita F, Ishikura S* — Journal of radiation research (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Accelerated partial breast irradiation (APBI) is an alternative treatment for early-stage breast cancer. This study aimed to evaluate the effectiveness of the virtual bolus (VB) method and robust planning against respiratory motion in volumetric modulated arc therapy (VMAT)-APBI.
-
-
-??? note "Abstract"
-    Accelerated partial breast irradiation (APBI) is an alternative treatment for early-stage breast cancer. This study aimed to evaluate the effectiveness of the virtual bolus (VB) method and robust planning against respiratory motion in volumetric modulated arc therapy (VMAT)-APBI. VMAT plans were generated with 30 Gy in 5 fractions for 16 patients. Four treatment plans were developed and compared: a standard optimization (SO) plan without robust methods, a pseudo-skin flash strategy using a 5 mm VB (with densities of 0.4 and 1.0 g/cm3, VB04 and VB10), and a robust optimization (RO) plan to minimize penalties in worst-case scenarios. The isocenter was shifted 1-5 mm in each translational direction in robust analysis, and perturbed dose calculations were performed. All dose constraints for the target in SO and VB plans were within acceptable limits, but the dose evaluation volume V95% in the RO plan was lower than in other plans (P &lt; 0.05). The clinical target volume V95% of the RO plan was significantly higher than in VB04 and VB10 (P &lt; 0.05). The RO plan showed the best performance for organs at risk, followed by SO and VB plans, which resulted in higher doses. The RO plan exhibited the smallest change (±2%) in dose distribution due to respiratory motion. By contrast, the SO plan lacked robustness owing to absence of sufficient fluence in the air surrounding the planning target volume outside of the skin surface. The RO plan offers superior target coverage, maximum dose, and robustness compared to SO and VB methods.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40062441/) · [DOI](https://doi.org/10.1002/mp.12899) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6953829/)
-
-
----
-
 ### Fast spot order optimization to increase dose rates in scanned particle therapy FLASH treatments.
 
 *Wase V, Widenfalk O, Nilsson R, Fälth C, Fredriksson A* — Physics in medicine and biology (2025)  
@@ -652,25 +576,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
-### Evaluation of robustness of optimization methods in breast intensity-modulated radiation therapy using TomoTherapy.
-
-*Oki Y, Akasaka H, Uehara K, Mizonobe K, Sawada M, Nagata J et al.* — Physical and engineering sciences in medicine (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Intensity-modulated radiation therapy (IMRT) has become a popular choice for breast cancer treatment. We aimed to evaluate and compare the robustness of each optimization method used for breast IMRT using TomoTherapy.
-
-
-??? note "Abstract"
-    Intensity-modulated radiation therapy (IMRT) has become a popular choice for breast cancer treatment. We aimed to evaluate and compare the robustness of each optimization method used for breast IMRT using TomoTherapy. A retrospective analysis was performed on 10 patients with left breast cancer. For each optimization method (clipping, virtual bolus, and skin flash), a corresponding 50 Gy/25 fr plan was created in the helical and direct TomoTherapy modes. The dose-volume histogram parameters were compared after shifting the patients anteriorly and posteriorly. In the helical mode, when the patient was not shifted, the median D1cc (minimum dose delivered to 1 cc of the organ volume) of the breast skin for the clipping and virtual bolus plans was 52.2 (interquartile range: 51.9-52.6) and 50.4 (50.1-50.8) Gy, respectively. After an anterior shift, D1cc of the breast skin for the clipping and virtual bolus plans was 56.0 (55.6-56.8) and 50.9 (50.5-51.3) Gy, respectively. When the direct mode was used without shifting the patient, D1cc of the breast skin for the clipping, virtual bolus, and skin flash plans was 52.6 (51.9-53.1), 53.4 (52.6-53.9), and 52.3 (51.7-53.0) Gy, respectively. After shifting anteriorly, D1cc of the breast skin for the clipping, virtual bolus, and skin flash plans was 55.6 (54.1-56.4), 52.4 (52.0-53.0), and 53.6 (52.6-54.6) Gy, respectively. The clipping method is not sufficient for breast IMRT. The virtual bolus and skin flash methods were more robust optimization methods according to our analyses.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38265521/) · [DOI](https://doi.org/10.3109/0284186X.2014.905700) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/7262592/)
-
-
----
-
 ### A Novel Inverse Algorithm To Solve the Integrated Optimization of Dose, Dose Rate, and Linear Energy Transfer of Proton FLASH Therapy With Sparse Filters.
 
 *Harrison N, Kang M, Liu R, Charyyev S, Wahl N, Liu W et al.* — International journal of radiation oncology, biology, physics (2024)  
@@ -686,44 +591,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38104869/) · [DOI](https://doi.org/10.1016/j.ijrobp.2023.11.061)
-
-
----
-
-### Comparative Study of Plan Robustness for Breast Radiotherapy: Volumetric Modulated Arc Therapy Plans with Robust Optimization versus Manual Flash Approach.
-
-*Chan RCK, Ng CKC, Hung RHM, Li YTY, Tam YTY, Wong BYL et al.* — Diagnostics (Basel, Switzerland) (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** A previous study investigated robustness of manual flash (MF) and robust optimized (RO) volumetric modulated arc therapy plans for breast radiotherapy based on five patients in 2020 and indicated that the RO was more robust than the MF, although the MF is still current standard practice. The purpose of this study was to compare their plan robustness in terms of dose variation to clinical target vo…
-
-
-??? note "Abstract"
-    A previous study investigated robustness of manual flash (MF) and robust optimized (RO) volumetric modulated arc therapy plans for breast radiotherapy based on five patients in 2020 and indicated that the RO was more robust than the MF, although the MF is still current standard practice. The purpose of this study was to compare their plan robustness in terms of dose variation to clinical target volume (CTV) and organs at risk (OARs) based on a larger sample size. This was a retrospective study involving 34 female patients. Their plan robustness was evaluated based on measured volume/dose difference between nominal and worst scenarios (ΔV/ΔD) for each CTV and OARs parameter, with a smaller difference representing greater robustness. Paired sample t-test was used to compare their robustness values. All parameters (except CTV ΔD98%) of the RO approach had smaller ΔV/ΔD values than those of the MF. Also, the RO approach had statistically significantly smaller ΔV/ΔD values (p &lt; 0.001-0.012) for all CTV parameters except the CTV ΔV95% and ΔD98% and heart ΔDmean. This study&#x27;s results confirm that the RO approach was more robust than the MF in general. Although both techniques were able to generate clinically acceptable plans for breast radiotherapy, the RO could potentially improve workflow efficiency due to its simpler planning process.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37998531/) · [DOI](https://doi.org/10.1016/j.apradiso.2022.110416) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8408733/)
-
-
----
-
-### Robust VMAT treatment planning for extremity soft tissue sarcomas.
-
-*Barrus J, Fernando K, Addington M, Lenards N, Hunzeker A, Konieczkowski DJ* — Medical dosimetry : official journal of the American Association of Medical Dosimetrists (2023)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Volumetric modulated arc therapy (VMAT) is a frequently employed and guideline-recommended radiotherapy (RT) modality for extremity soft tissue sarcomas (eSTS). Prior studies have demonstrated that significant tumor volume changes during treatment result in loss of target volume coverage with highly conformal techniques such as VMAT, but few solutions exist to these issues aside from adaptive repl…
-
-
-??? note "Abstract"
-    Volumetric modulated arc therapy (VMAT) is a frequently employed and guideline-recommended radiotherapy (RT) modality for extremity soft tissue sarcomas (eSTS). Prior studies have demonstrated that significant tumor volume changes during treatment result in loss of target volume coverage with highly conformal techniques such as VMAT, but few solutions exist to these issues aside from adaptive replanning. Here, we describe a related but novel phenomenon in which relatively minor changes in surface volume contour (whether due to daily setup uncertainty, edema of peritumoral tissue, or progression or pseudo-progression of tumor volume itself) can result in unexpected subcutaneous hotspots. This phenomenon is of significant clinical concern given the known association between skin dose and major wound complications during preoperative RT for eSTS. By evaluating daily cone-beam CT (CBCT) images from thirteen eSTS patients treated with VMAT RT, we identify daily surface contour changes (range: 2 mm-15 mm, median: 8 mm) which are frequently below conventional adaptive replanning thresholds. When applied under experimental conditions, these external contour changes did not have major impacts on target volume coverage (range: 30.2%-91.2%, mean: 72.5%) but did result in unexpected hotspots of 125.8% on average (range: 110.0%-142.2%) in the subcutaneous tissues. To mitigate this issue, we develop a methodology for VMAT treatment planning using flash PTV and virtual bolus (VB) to produce robust treatment plans that are more resistant to target volume changes, surface contour changes, and setup uncertainties than conventional planning methods. With this methodology, robust plans were equivalent to standard plans at baseline, but, after incorporation of surface volume changes, both maintained target volume coverage (p &lt; 0.001) and prevented development of subcutaneous hotspots (p &lt; 0.001) better than standard plans. As such, this treatment planning methodology may facilitate development of robust VMAT treatment plans that minimize development of subcutaneous hotspots and preserve target volume coverage in the context of routine volumetric changes during preoperative RT.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37460363/) · [DOI](https://doi.org/10.1016/j.meddos.2023.06.001)
 
 
 ---
@@ -781,25 +648,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36932635/) · [DOI](https://doi.org/10.3389/fonc.2019.01563) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9305944/)
-
-
----
-
-### Dosimetric comparison of two dose expansion methods in intensity modulated radiotherapy for breast cancer.
-
-*Tang R, Li A, Li Y, Deng G, Wang Y, Xiao Q et al.* — Radiation oncology (London, England) (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** To explore the dosimetric difference between IMRT-VB plan based on the establishment of external expansion structure and virtual bolus (VB) and IMRT-SF based on the skin flash (SF) tool of the Eclipse treatment planning system in postoperative chest wall target intensity modulation radiotherapy plan of breast cancer. METHODS: Twenty patients with breast cancer were randomly selected as subjects to…
-
-
-??? note "Abstract"
-    BACKGROUND: To explore the dosimetric difference between IMRT-VB plan based on the establishment of external expansion structure and virtual bolus (VB) and IMRT-SF based on the skin flash (SF) tool of the Eclipse treatment planning system in postoperative chest wall target intensity modulation radiotherapy plan of breast cancer. METHODS: Twenty patients with breast cancer were randomly selected as subjects to develop IMRT-VB plan based on virtual bolus and IMRT-SF plan based on skin flash tool of Eclipse treatment planning system. The planning target volume, monitor unit (MU) of every single treatment and the dosimetric parameters of organ at risk (OARs) were recorded. Paired t-test was used for normal distribution data while nonparametric paired Wilcoxon rank sum test was used for non-normal distribution data. RESULTS: Both IMRT-VB and IMRT-SF plan can expand outward to the chest wall skin and meet the dose requirements of clinical prescription. The conformal index, the homogeneity index, D2%, D98% and D50% were significantly better in IMRT-SF plan than those in IMRT-VB plan (P &lt; 0.05). The average MU of the IMRT-SF plan was much higher than that of the IMRT-VB plan (866.0 ± 68.1 MU vs. 760.9 ± 50.4 MU, P &lt; 0.05). In terms of organ at risk protection, IMRT-SF plan had more advantages in the protection of ipsilateral lung and spinal cord than IMRT-VB plan (P &lt; 0.05). CONCLUSION: Our study indicated that IMRT-SF plan displayed clinical application superiority compared to IMRT-VB plan, and the operation steps of which are simpler and faster. Besides, IMRT-SF plan took advantages in achieve effective external expansion of skin dose intensity and OARs protection.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36737788/) · [DOI](https://doi.org/10.1002/mp.12810) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5345691/)
 
 
 ---
@@ -937,25 +785,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
-### Comparing the robustness of different skin flash approaches using wide tangents, manual flash VMAT, and simulated organ motion robust optimization VMAT in breast and nodal radiotherapy.
-
-*Gleeson I* — Medical dosimetry : official journal of the American Association of Medical Dosimetrists (2022)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Compare the robustness of wide tangents (WT) and volumetric modulated arc therapy (VMAT) using different skin flash approaches in breast and nodal radiotherapy. Ten patients treated with WT using 2-cm flash were replanned with VMAT using no flash (NF), manual 2-cm flash (MF), and robust optimization (RO).
-
-
-??? note "Abstract"
-    Compare the robustness of wide tangents (WT) and volumetric modulated arc therapy (VMAT) using different skin flash approaches in breast and nodal radiotherapy. Ten patients treated with WT using 2-cm flash were replanned with VMAT using no flash (NF), manual 2-cm flash (MF), and robust optimization (RO). Plan robustness was assessed for target coverage and organs at risk (OAR) by recalculating on 5 deformed CT scans (SOM1-5), daily cone beam (CBCT), and by shifting the isocenter 5 mm. VMAT NF gave poor coverage of CTVp with its smallest change of -3.2% for V38Gy on CBCT. VMAT RO plans showed the least variations in target coverage loss compared to WT and VMAT MF which dropped as anatomical swelling increased. CTVp D0.5cc decreased on CBCT and increased most for VMAT MF plans (case max increase +3.3 Gy), whereas VMAT RO plans were relatively stable (case max increase +1.2 Gy). OAR dose changed little with anatomical changes (isocenter shifts more important with medial, posterior, and inferior increasing dose). Nodal coverage was superior for VMAT which led to the WT being less robust for coverage toward both geometric and anatomical uncertainties. All techniques except NF plans gave high levels of coverage under minor uncertainties. VMAT RO was highly robust for target coverage for anatomical changes. Manually editing control points on VMAT plans was time-consuming and less predictable. CBCT anatomical changes were modest resulting in small delivered dose changes. OAR dose changes were small with no significant differences between techniques.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35618563/) · [DOI](https://doi.org/10.1002/acm2.12607) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371015/)
-
-
----
-
 ### Design of static and dynamic ridge filters for FLASH-IMPT: A simulation study.
 
 *Zhang G, Gao W, Peng H* — Medical physics (2022)  
@@ -1070,6 +899,18 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
+### FLASH radiotherapy: Considerations for multibeam and hypofractionation dose delivery.
+
+*MacKay R, Burnet N, Lowe M, Rothwell B, Kirkby N, Kirkby K et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2021)  
+
+<span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34563608/) · [DOI](https://doi.org/10.1016/j.radonc.2021.09.011)
+
+
+---
+
 ### Quantitative Assessment of 3D Dose Rate for Proton Pencil Beam Scanning FLASH Radiotherapy and Its Application for Lung Hypofractionation Treatment Planning.
 
 *Kang M, Wei S, Choi JI, Simone CB, Lin H* — Cancers (2021)  
@@ -1085,25 +926,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34298762/) · [DOI](https://doi.org/10.1016/j.ijrobp.2019.06.187) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3474025/)
-
-
----
-
-### Effect of auto flash margin on superficial dose in breast conserving radiotherapy for breast cancer.
-
-*Wang L, Qiu G, Yu J, Zhang Q, Man L, Chen L et al.* — Journal of applied clinical medical physics (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** To investigate the dose-effect of Auto Flash Margin (AFM) on breast cancer&#x27;s superficial tissues based on the Treatment Planning System (TPS) in the breast-conserving radiotherapy plan. METHODS: A total of 16 breast-conserving patients with early stage breast cancer were selected, using the X-ray Voxel Monte Carlo (XVMC) algorithm.
-
-
-??? note "Abstract"
-    PURPOSE: To investigate the dose-effect of Auto Flash Margin (AFM) on breast cancer&#x27;s superficial tissues based on the Treatment Planning System (TPS) in the breast-conserving radiotherapy plan. METHODS: A total of 16 breast-conserving patients with early stage breast cancer were selected, using the X-ray Voxel Monte Carlo (XVMC) algorithm. Then, every included case plan was designed using a 2 cm-AFM (the value of AFM is 2 cm) and N-AFM (without AFM). Under the condition of ensuring the same configuration of #MU and collimator, the absorbed dose after a simulated inspiratory motion was calculated again using the new plan center, which moved backward to the linac source. The dose difference between the measurement points between AFM and N-AFM groups was compared. RESULTS: In the dose results, PTVV50Gy of the AFM group was superior to that of the N-AFM group, PTVD2% , PTVDmean , Lung_IpsiV20Gy , Lung_IpsiDmean , and BodyDmax . Also, the dose results of the N-AFM group were significantly higher than those of the AFM group. However, there was no significant difference between Lung_ContraV5Gy , HeartDmean , and Breast_ContraV10Gy in the two groups. In the collimator alignments at the same angle between groups, the AFM group formed an apparent air region outside the collimator compared with the N-AFM group. In the XVMC algorithm feature parameter, the AFM group had less #MU, higher QE, and slightly longer optimization time. The #segments of both groups were close to the 240 control points preset by the plan. The validation results of EBT3 film in both groups were more significant than 95%, meeting the clinical plan&#x27;s application requirements. The difference in film results between groups was mainly reflected in the dose distribution at the near-source. 4DCT was used to summarize the maximum and minimum inspiratory motion distances of 7.31 ± 0.45 and 3.42 ± 0.91 mm respectively. CONCLUSIONS: These results suggest that the AFM function application could significantly reduce the possibility of insufficient tumor target caused by inspiratory motion and ensure sufficient tumor target exposure.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34028963/) · [DOI](https://doi.org/10.1002/acm2.13287) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3709671/)
 
 
 ---
@@ -1142,25 +964,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33924627/) · [DOI](https://doi.org/10.3390/ijms21186492) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7556020/)
-
-
----
-
-### The robustness of VMAT radiotherapy for breast cancer with tissue deformations.
-
-*Rossi M, Virén T, Heikkilä J, Seppälä J, Boman E* — Medical dosimetry : official journal of the American Association of Medical Dosimetrists (2021)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** To investigate the near-surface doses and target coverage in modulated arc radiotherapy (RT) of the breast or chest wall in two treatment planning systems (TPS) in the presence of soft tissue deformations. This retrospective study consisted of 10 breast cancer patients with axillary lymph node inclusion.
-
-
-??? note "Abstract"
-    To investigate the near-surface doses and target coverage in modulated arc radiotherapy (RT) of the breast or chest wall in two treatment planning systems (TPS) in the presence of soft tissue deformations. This retrospective study consisted of 10 breast cancer patients with axillary lymph node inclusion. For each case, five RT plans were created: (1) tangential 3D conformal field-in-field (FinF) technique; (2) 200° to 240° arcs with optimization bolus (OB) in Eclipse (EB); (3) 243° to 250° arcs with an 8-mm OB in Monaco (MB); (4) 243° to 250° arcs with automatic skin flash tool (ASF) in Monaco TPS (MA); (5) 243° to 250° arcs with both ASF and OB in Monaco (MAB). Soft tissue deformation was simulated by editing CT-images with 4-, 8-, and 12-mm swelling and recalculating the dose. The increasing swelling from 0 to 12 mm caused the coverage (V95%) in clinical target volume to decrease from 96% ± 2% to 90% ± 6% for the FinF plans. For volumetric-modulated arc therapy (VMAT), the coverage decreased from 99% ± 1% to 92% ± 4% in the EB plans, and from 97% ± 1% to 68% ± 8%, 85% ± 6%, and 86% ± 5% for MA, MB, and MAB, respectively. The mean dose in the surface extending from 0 to 3 mm from the skin decreased on average 5%, 17%, 20%, 15%, and 8% in FinF, EB, MA, MB, and MAB, respectively. In the Monaco plans, the use of an OB(+ASF) provided better target coverage and lower dose maxima despite of tissue swelling than the ASF alone. With modulated arc therapy, we recommend the use of an OB instead of or in addition to the ASF. The use of 8 mm OB with VMAT plans is robust to account deformations extending outside up to 8mm. If soft tissue deformation is larger than 8 mm, the need for replanning should be evaluated.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32994095/) · [DOI](https://doi.org/10.1016/j.meddos.2020.09.005)
 
 
 ---
@@ -1222,25 +1025,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
-### Using Robust Optimization for Skin Flashing in Intensity Modulated Radiation Therapy for Breast Cancer Treatment: A Feasibility Study.
-
-*Liang X, Bradley JA, Mailhot Vega RB, Rutenberg M, Zheng D, Getman N et al.* — Practical radiation oncology (2020)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To study the feasibility and the effectiveness of a novel implementation of robust optimization on 2 sets of computed tomography (CT) data simultaneously for skin flashing in intensity modulated radiation therapy for breast cancer. METHOD AND MATERIALS: Five patients who received treatment to the breast and regional lymphatics were selected for this study.
-
-
-??? note "Abstract"
-    PURPOSE: To study the feasibility and the effectiveness of a novel implementation of robust optimization on 2 sets of computed tomography (CT) data simultaneously for skin flashing in intensity modulated radiation therapy for breast cancer. METHOD AND MATERIALS: Five patients who received treatment to the breast and regional lymphatics were selected for this study. For each patient, 3 plans were generated using 3 different skin-flashing methods, including (1) a manual flash plan with optimization on the nominal planning target volume (PTV) not extending beyond the skin that required manually postplanning the opening of the multi-leaf collimator and jaw to obtain flash; (2) an expanded PTV plan with optimization on an expanded PTV that included the target in the air beyond the skin; and (3) a robust-optimized (RO) plan using robust optimization that simultaneously optimizes on the nominal CT data set and a simulated geometry error CT data set. The feasibility and the effectiveness of the robust optimization approach was investigated by comparing it with the 2 other methods. The robustness of the plan against target position variations was studied by simulating 0-, 5-, 10-, and 15-mm geometry errors. RESULTS: The RO plans were the only ones able to meet acceptable criteria for all patients in both the nominal and simulated geometry error scenarios. The expanded PTV plans developed major deviation on the maximum dose to the PTV for 1 patient. For the manual flash plans, every patient developed major deviation either on 95% of the dose to the PTV or the maximum dose to the PTV in the simulated geometry error scenarios. The RO plan demonstrated the best robustness against the target position variation among the 3 methods of skin flashing. The doses to the lung and heart were comparable for all 3 planning techniques. CONCLUSION: Using robust optimization for skin flash in breast intensity modulated radiation therapy planning is feasible. Further investigation is warranted to confirm the clinical effectiveness of this novel approach.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31627030/) · [DOI](https://doi.org/10.1016/j.prro.2019.09.017)
-
-
----
-
 ### Towards FLASH proton therapy: the impact of treatment planning and machine characteristics on achievable dose rates.
 
 *van de Water S, Safai S, Schippers JM, Weber DC, Lomax AJ* — Acta oncologica (Stockholm, Sweden) (2019)  
@@ -1256,63 +1040,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/31241377/) · [DOI](https://doi.org/10.1080/0284186X.2019.1627416)
-
-
----
-
-### Pseudo skin flash on VMAT in breast radiotherapy: Optimization of virtual bolus thickness and HU values.
-
-*Lizondo M, Latorre-Musoll A, Ribas M, Carrasco P, Espinosa N, Coral A et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2019)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Optimisation strategies for volumetric modulated arc therapy (VMAT) in most treatment planning systems for breast cancer do not account for patient positioning, breathing, or anatomical changes. To overcome this limitation, a pseudo-skin flash strategy using a virtual bolus has been proposed.
-
-
-??? note "Abstract"
-    PURPOSE: Optimisation strategies for volumetric modulated arc therapy (VMAT) in most treatment planning systems for breast cancer do not account for patient positioning, breathing, or anatomical changes. To overcome this limitation, a pseudo-skin flash strategy using a virtual bolus has been proposed. Using this strategy, we determined optimal thickness and value of Hounsfield units (HU) assigned to the virtual bolus to ensure adequate CTV irradiation. MATERIALS AND METHODS: We modified the original computed tomography data (CT0) by adding combinations of thicknesses and densities of a virtual bolus on PTVs (CT&#x27;) of seven bilateral breast cancer patients. Using a single optimization objective template, we obtained a VMAT plan on CT&#x27; and recalculated this on the CT0. Optimal CT&#x27; parameters were defined as those that minimized dose differences between CT&#x27; and CT0 plans regarding PTV and OAR dose-volume parameters. We studied bolus parameters regarding robustness by shifting the isocenter 5 and 10 mm in the breathing direction for each CT0 plan. RESULTS: The minimal dosimetric impact was between -400 and -600 HU depending on bolus thickness. OARs doses were not significantly affected. Best robustness was found for -500 HU and 15 mm bolus thickness against shifts of up to 10 mm in the breathing direction. CONCLUSION: Our results support a bolus thickness equal to the CTV-PTV margin plus 5 mm and a virtual bolus HU value around -500 and -400 depending on the bolus thickness chosen. These findings could play a useful role in maximisingrobustness and minimising the need for plan renormalization.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31221409/) · [DOI](https://doi.org/10.1016/j.ejmp.2019.05.010)
-
-
----
-
-### Optimal selection of optimization bolus thickness in planning of VMAT breast radiotherapy treatments.
-
-*Rossi M, Boman E, Kapanen M* — Medical dosimetry : official journal of the American Association of Medical Dosimetrists (2019)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** The aim of this study was to find an optimal optimization skin flash thickness in volumetric modulated arc radiotherapy of the breast in consideration of soft tissue deformations during the treatment course. Ten breast radiotherapy patients with axillary lymph node inclusion were retrospectively planned with volumetric modulated arc radiotherapy technique.
-
-
-??? note "Abstract"
-    The aim of this study was to find an optimal optimization skin flash thickness in volumetric modulated arc radiotherapy of the breast in consideration of soft tissue deformations during the treatment course. Ten breast radiotherapy patients with axillary lymph node inclusion were retrospectively planned with volumetric modulated arc radiotherapy technique. The plans were optimized with the planning target volume (PTV) extending outside the skin contour by 0, 5, 7, and 10 mm; and with optimization boluses of 3 or 5 mm on the extended PTV. The final dose was calculated without the bolus. The plans were compared in terms of PTV homogeneity and conformity, and dose minima and maxima. The doses to organs at risk were also evaluated. The doses were recalculated in real patient geometries based on cone beam computed tomography (CBCT) images captured 3 to 6 times during each patient&#x27;s treatment course. The optimization to the PTV without the PTV extension resulted in the best CTV coverage in the original plans (V95% = 98.0% ± 1.2%). However, when these plans were studied in real CBCT-based patient geometries, the CTV V95% was compromised (94.6% ± 8.3%). In addition, for the surface (4 mm slap inside the PTV 4 mm below the body contour) dose V95% was reduced from the planned 74.7% ± 7.5% to the recalculated 65.5% ± 11.5%. Optimization with an 8-mm bolus to a PTV with 5-mm extension was the most robust choice to ensure the CTV and surface dose coverage (recalculated V95% was 95.2% ± 6.4% and 74.6% ± 8.4%, respectively). In cases with the largest observed deformations, even a 10-mm PTV extension did not suffice to cover the target. Optimization with a 5-mm PTV extension and an 8-mm optimization bolus improved the surface dose and slightly improved the CTV dose when compared to no extension plans. For deformations over 1 cm, no benefit was seen in PTV extensions and replanning is recommended. Frequent tangential and CBCT imaging should be used during treatment course to detect potential large anatomical changes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/30389413/) · [DOI](https://doi.org/10.1016/j.meddos.2018.10.001)
-
-
----
-
-### Safety and benefit of using a virtual bolus during treatment planning for breast cancer treated with arc therapy.
-
-*Tyran M, Tallet A, Resbeut M, Ferre M, Favrel V, Fau P et al.* — Journal of applied clinical medical physics (2018)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** This study evaluates the benefit of a virtual bolus method for volumetric modulated arc therapy (VMAT) plan optimization to compensate breast modifications that may occur during breast treatment. METHODS: Ten files were replanned with VMAT giving 50 Gy to the breast and 47 Gy to the nodes within 25 fractions.
-
-
-??? note "Abstract"
-    PURPOSE: This study evaluates the benefit of a virtual bolus method for volumetric modulated arc therapy (VMAT) plan optimization to compensate breast modifications that may occur during breast treatment. METHODS: Ten files were replanned with VMAT giving 50 Gy to the breast and 47 Gy to the nodes within 25 fractions. The planning process used a virtual bolus for the first optimization, then the monitors units were reoptimized without bolus, after fixing the segments shapes. Structures and treatment planning were exported on a second scanner (CT) performed during treatment as a consequence to modifications in patient&#x27;s anatomy. The comparative end-point was clinical target volume&#x27;s coverage. The first analysis compared the VMAT plans made using the virtual bolus method (VB-VMAT) to the plans without using it (NoVB-VMAT) on the first simulation CT. Then, the same analysis was performed on the second CT. Finally, the level of degradation of target volume coverage between the two CT using VB-VMAT was compared to results using a standard technique of forward-planned multisegment technique (Tan-IMRT). RESULTS: Using a virtual bolus for VMAT does not degrade dosimetric results on the first CT. No significant result in favor of the NoVB-VMAT plans was noted. The VB-VMAT method led to significant better dose distribution on a second CT with modified anatomies compared to NoVB-VMAT. The clinical target volume&#x27;s coverage by 95% (V95%) of the prescribed dose was 98.9% \[96.1-99.6\] on the second CT for VB-VMAT compared to 92.6% \[85.2-97.7\] for NoVB-VMAT (P = 0.0002). The degradation of the target volume coverage for VB-VMAT is not worse than for Tan-IMRT: the median differential of V95% between the two CT was 0.9% for VMAT and 0.7% for Tan-IMRT (P = 1). CONCLUSION: This study confirms the safety and benefit of using a virtual bolus during the VMAT planning process to compensate potential breast shape modifications.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/29959819/) · [DOI](https://doi.org/10.1088/0031-9155/55/12/N01) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5714645/)
 
 
 ---
@@ -1370,25 +1097,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/12648793/) · [DOI](https://doi.org/10.1016/s0167-8140(02)00440-1)
-
-
----
-
-### Inverse planning algorithms for external beam radiation therapy.
-
-*Chui CS, Spirou SV* — Medical dosimetry : official journal of the American Association of Medical Dosimetrists (2001)  
-
-<span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Intensity-modulated radiation therapy (IMRT) is a new treatment technique that has the potential to produce superior dose distributions to those of conventional techniques. An important step in IMRT is inverse planning, or optimization.
-
-
-??? note "Abstract"
-    Intensity-modulated radiation therapy (IMRT) is a new treatment technique that has the potential to produce superior dose distributions to those of conventional techniques. An important step in IMRT is inverse planning, or optimization. This is a process by which the optimum intensity distribution is determined by minimizing (or maximizing) an objective function. For radiation therapy, the objective function is used to describe the clinical goals, which can be expressed in terms of dose and dose/volume requirements, or in terms of biological indices. There are 2 types of search algorithms, stochastic and deterministic. Typical algorithms that are currently in use are presented. For clinical implementations, other issues are also discussed, such as global minimum vs. local minima, dose uniformity in the target and sparing of normal tissues, smoothing of the intensity profile, and skin flash. To illustrate the advantages of IMRT, clinical examples for the treatment of the prostate, nasopharynx, and breast are presented. IMRT is an emerging technique that has shown encouraging results thus far. However, the technique is still in its infancy and more research and improvements are needed. For example, the effects of treatment uncertainties on the planning and delivery of IMRT requires further study. As with any new technology, IMRT should be used with great caution.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11444521/) · [DOI](https://doi.org/10.1016/s0958-3947(01)00069-3)
 
 
 ---
