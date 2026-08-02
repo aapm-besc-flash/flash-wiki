@@ -1,0 +1,46 @@
+site_name: FLASH Radiotherapy Living Wiki
+site_description: AAPM BESC FLASH Working Group - categorized FLASH-RT literature
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle: {icon: material/weather-night, name: Dark mode}
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle: {icon: material/weather-sunny, name: Light mode}
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    - content.code.copy
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+nav:
+  - Home: index.md
+  - Categories:
+    - Radiobiology: radiobiology.md
+    - Physics & Dosimetry: physics-dosimetry.md
+    - Modeling & Mechanisms: modeling-mechanisms.md
+    - Beam Delivery & Technology: beam-delivery-technology.md
+    - Treatment Planning & Optimization: treatment-planning-optimization.md
+    - Clinical & Translational: clinical-translational.md
+    - Reviews & Consensus: reviews-consensus.md
+    - Perspectives & Commentary: perspectives-commentary.md
+    - Uncategorized: uncategorized.md
+  - Statistics: statistics.md
+  - Methodology: methodology.md
+  - Downloads: downloads.md
