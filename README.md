@@ -1,6 +1,6 @@
 # FLASH Radiotherapy Living Wiki
 
-Generated 2026-08-01 · 1681 curated FLASH-RT records.
+Generated 2026-08-02 · 1309 curated FLASH-RT records.
 
 ## Preview locally
 ```bash
