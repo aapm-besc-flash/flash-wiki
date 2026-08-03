@@ -2,17 +2,27 @@
 """
 Build the FLASH Wiki deliverables from flash_library.json:
   1) flash_library.xlsx        - filterable master workbook (WG working copy)
-  2) flash_wiki_site/          - deployable MkDocs Material site
+  2) website/mkdocs_source/    - deployable MkDocs Material site source
+     website/built_site/      - rendered, openable offline
        - dashboard home, per-category pages, statistics (charts),
          methodology, downloads
        - GitHub Actions auto-deploy, requirements, .gitignore
-Run after flash_harvest.py.  Usage: python3 build_site.py
+Run after flash_harvest.py.  Usage: python3 pipeline/build_site.py  (from the folder root)
 """
-import os, json, re, html, shutil
+import os, json, re, html, shutil, subprocess, tempfile, time
 from collections import Counter, defaultdict
+from datetime import date
 
+# Folder layout. Scripts live in <root>/pipeline/, everything they read and
+# write lives in sibling folders of that root - so paths are resolved from the
+# PARENT of this file's directory, never from the current working directory.
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = json.load(open(os.path.join(HERE, "flash_library.json"), encoding="utf-8"))
+ROOT = os.path.dirname(HERE)
+LIB = os.path.join(ROOT, "library")          # corpus exports
+WEB = os.path.join(ROOT, "website")          # mkdocs_source/ + built_site/
+ARCHIVE = os.path.join(ROOT, "_archive")     # superseded artifacts
+
+DATA = json.load(open(os.path.join(LIB, "flash_library.json"), encoding="utf-8"))
 RECS = DATA["records"]
 GEN = DATA["generated"]
 QUERY = DATA.get("query", "")
@@ -78,7 +88,7 @@ def build_xlsx():
         if cc.get(c): s.append([c, cc[c]])
     s["A1"].font = Font(size=14, bold=True); s.column_dimensions["A"].width = 34; s.column_dimensions["B"].width = 10
     for cell in ("A4","B4"): s[cell].fill = hdr_fill; s[cell].font = hdr_font
-    wb.save(os.path.join(HERE, "flash_library.xlsx")); print("wrote flash_library.xlsx")
+    wb.save(os.path.join(LIB, "flash_library.xlsx")); print("wrote library/flash_library.xlsx")
 
 # ----------------------------- charts ---------------------------------------
 def build_charts(assets):
@@ -128,9 +138,30 @@ def paper_block(r):
     md.append("\n" + " · ".join(links) + "\n"); md.append("\n---\n")
     return "\n".join(md)
 
+def retire(path, reason):
+    """Move a superseded file/folder into the dated archive.
+
+    Used instead of shutil.rmtree throughout this script. OneDrive holds locks
+    on synced files often enough that in-place deletion raises PermissionError
+    mid-run and aborts the build; renaming out of the way always succeeds. It
+    also means every superseded artifact stays recoverable for a few months.
+    """
+    if not os.path.exists(path):
+        return
+    dest_dir = os.path.join(ARCHIVE, date.today().isoformat(), reason)
+    os.makedirs(dest_dir, exist_ok=True)
+    dest = os.path.join(dest_dir, os.path.basename(path))
+    if os.path.exists(dest):                     # more than one run in a day
+        dest += "_" + str(int(time.time()))
+    try:
+        os.rename(path, dest)
+    except OSError:                              # cross-device: copy then drop
+        shutil.rmtree(path, ignore_errors=True)
+
+
 def build_mkdocs():
-    site = os.path.join(HERE, "flash_wiki_site"); docs = os.path.join(site, "docs")
-    if os.path.exists(site): shutil.rmtree(site)
+    site = os.path.join(WEB, "mkdocs_source"); docs = os.path.join(site, "docs")
+    retire(site, "superseded_builds")
     os.makedirs(docs)
     assets = os.path.join(docs, "assets"); build_charts(assets)
     by_cat = defaultdict(list)
@@ -141,7 +172,10 @@ def build_mkdocs():
     cards = []
     for c in CATEGORY_ORDER:
         if cc.get(c):
-            cards.append(f'<a class="cat-card" href="{slug(c)}/">'
+            # Raw HTML, so MkDocs does not rewrite this the way it rewrites
+            # markdown links - the .html suffix must be written explicitly to
+            # match use_directory_urls: false and stay clickable over file://.
+            cards.append(f'<a class="cat-card" href="{slug(c)}.html">'
                          f'<span class="n">{cc[c]}</span><span class="c">{c}</span>'
                          f'<span class="d">{CAT_DESC.get(c,"")}</span></a>')
     idx = f"""# FLASH Radiotherapy Living Literature Wiki
@@ -288,6 +322,13 @@ color:inherit;background:#fff;transition:.15s}
     nav = "\n".join([f"    - {c}: {p}" for c, p in nav_cats])
     yml = f"""site_name: FLASH Radiotherapy Living Wiki
 site_description: AAPM BESC FLASH Working Group - categorized FLASH-RT literature
+# WG members open the built site straight off disk / OneDrive rather than from a
+# web server. MkDocs' default "pretty" URLs emit links to directories
+# (radiobiology/ served as radiobiology/index.html), which a file:// browser
+# cannot resolve - it treats the directory as an unknown download and pops the
+# "open with..." dialog. Emitting real .html filenames keeps every link
+# clickable offline; GitHub Pages serves them identically.
+use_directory_urls: false
 theme:
   name: material
   palette:
@@ -303,7 +344,6 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.top
-    - navigation.instant
     - navigation.tracking
     - toc.follow
     - content.code.copy
@@ -365,10 +405,52 @@ mkdocs serve            # http://127.0.0.1:8000
 3. In repo Settings → Pages, set the source to the `gh-pages` branch.
 
 ## Refresh the corpus
-Re-run `../flash_harvest.py` then `../build_site.py`, commit, and push — the site redeploys.
+Run `pipeline/Run_Monthly_Update` (or `python3 pipeline/flash_harvest.py` then
+`python3 pipeline/build_site.py`), commit, and push — the site redeploys.
 """)
-    print(f"wrote MkDocs site with {len(nav_cats)} category pages + 4 sections -> flash_wiki_site/")
+    print(f"wrote MkDocs site with {len(nav_cats)} category pages + 4 sections "
+          f"-> website/mkdocs_source/")
+
+
+def build_static_site():
+    """Render the MkDocs sources into the browsable static site.
+
+    Without this step website/mkdocs_source/ (the sources) gets refreshed every
+    month while website/built_site/index.html silently keeps serving last
+    month's corpus — the two drift apart and the local copy lies about counts.
+
+    Requires mkdocs + mkdocs-material. If either is missing we warn rather than
+    fail: the exports and FLASH_Wiki.html are already written by this point, and
+    GitHub Pages builds the site from source anyway.
+    """
+    src = os.path.join(WEB, "mkdocs_source")
+    out = os.path.join(WEB, "built_site")
+
+    exe = shutil.which("mkdocs")
+    if not exe:                      # pip --user installs land off PATH
+        cand = os.path.expanduser("~/.local/bin/mkdocs")
+        exe = cand if os.path.exists(cand) else None
+    if not exe:
+        print("! mkdocs not found - skipped static build "
+              "(pip install mkdocs mkdocs-material)")
+        return
+
+    # Build to a temp dir first, so a failed build never leaves a half-written
+    # site behind, then swap it in.
+    tmp = os.path.join(tempfile.gettempdir(), "flash_site_build")
+    r = subprocess.run([exe, "build", "-d", tmp], cwd=src,
+                       capture_output=True, text=True)
+    if r.returncode != 0:
+        print("! mkdocs build failed - static site left unchanged")
+        print((r.stderr or r.stdout)[-800:])
+        return
+
+    retire(out, "superseded_builds")
+    shutil.copytree(tmp, out)
+    print(f"built static site -> website/built_site/ ({len(RECS)} records)")
+
 
 if __name__ == "__main__":
     build_xlsx()
     build_mkdocs()
+    build_static_site()

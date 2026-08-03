@@ -11,7 +11,7 @@ auto-categorizes each record into the WG taxonomy, and exports:
 Re-run any time to refresh the living document (idempotent; dedup by PMID).
 Add NCBI_API_KEY env var to raise the rate limit to 10 req/s.
 
-Usage:  python3 flash_harvest.py
+Usage:  python3 pipeline/flash_harvest.py   (run from the folder root)
 """
 import os, sys, time, json, csv, re, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
@@ -20,6 +20,15 @@ from datetime import date
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 TOOL = "AAPM_FLASH_WG"
 EMAIL = "pgmaxim@gmail.com"
+
+# Folder layout. This script lives in <root>/pipeline/; the corpus exports live
+# in <root>/library/ and the RIS archive in <root>/ris_archive/. Paths are
+# resolved from this file's location, so the pipeline can be launched from any
+# working directory.
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+LIB = os.path.join(ROOT, "library")
+RIS_ARCHIVE = os.path.join(ROOT, "ris_archive")
 
 def _load_api_key():
     """NCBI API key raises the rate limit from 3 to 10 requests/second.
@@ -32,7 +41,7 @@ def _load_api_key():
     k = os.environ.get("NCBI_API_KEY", "").strip()
     if k:
         return k
-    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ncbi_api_key.txt")
+    p = os.path.join(HERE, "ncbi_api_key.txt")
     if os.path.exists(p):
         try:
             for line in open(p, encoding="utf-8"):
@@ -510,6 +519,50 @@ def write_ris(records, path):
                     f.write(f"KW  - FLASH:{t}\n")
             f.write("ER  - \n\n")
 
+def write_ris_archive(records, archive=None):
+    """Versioned RIS exports under <root>/ris_archive/.
+
+    Two files per run:
+      flash_library_YYYY-MM.ris   full corpus as it stood that month
+      flash_library_YYYY-MM_new.ris   only PMIDs absent from the previous
+                                      month's archive
+
+    Why both: flash_library.ris is overwritten every run, so there is no record
+    of what the corpus looked like when a manuscript cited it. The dated file is
+    that audit trail. The delta exists because a full RIS import into an
+    existing Zotero/EndNote library duplicates every item — importing only the
+    delta adds the month's new papers without creating 1,300 duplicates.
+
+    Re-running in the same month overwrites that month's files rather than
+    accumulating, so the archive stays one entry per month.
+    """
+    archive = archive or RIS_ARCHIVE
+    os.makedirs(archive, exist_ok=True)
+    stamp = date.today().strftime("%Y-%m")
+
+    full = os.path.join(archive, f"flash_library_{stamp}.ris")
+    write_ris(records, full)
+
+    # Previous month's archive = the most recent dated file that is not this
+    # month's. Compare by PMID to isolate genuinely new records.
+    prior = sorted(f for f in os.listdir(archive)
+                   if re.fullmatch(r"flash_library_\d{4}-\d{2}\.ris", f)
+                   and f != os.path.basename(full))
+    if prior:
+        seen = set()
+        with open(os.path.join(archive, prior[-1]), encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("AN  - "):
+                    seen.add(line[6:].strip())
+        new = [r for r in records if r["pmid"] not in seen]
+        delta = os.path.join(archive, f"flash_library_{stamp}_new.ris")
+        write_ris(new, delta)
+        print(f"wrote ris_archive/flash_library_{stamp}.ris ({len(records)} records) "
+              f"and _new.ris ({len(new)} new since {prior[-1][14:21]})")
+    else:
+        print(f"wrote ris_archive/flash_library_{stamp}.ris ({len(records)} records) "
+              f"- first archive entry, no delta")
+
 def main():
     print("=== FLASH-RT living-literature harvest ===")
     ids = esearch_ids()
@@ -525,7 +578,8 @@ def main():
     print(f"Parsed {len(allrecs)} unique records "
           f"({len(records)} in library, {len(screened)} screened out)")
 
-    outdir = os.path.dirname(os.path.abspath(__file__))
+    outdir = LIB
+    os.makedirs(outdir, exist_ok=True)
     # screening file for human audit
     with open(os.path.join(outdir, "flash_screened_out.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
@@ -548,8 +602,10 @@ def main():
             w.writerow([r["pmid"], r["year"], r["title"], "; ".join(r["authors"]),
                         r["journal"], r["category"], "; ".join(r["tags"]),
                         r["doi"], r["pmc"], r["url"]])
-    # RIS
+    # RIS - current snapshot (overwritten every run)
     write_ris(records, os.path.join(outdir, "flash_library.ris"))
+    # RIS - dated archive + monthly delta, for reference-manager imports
+    write_ris_archive(records)
 
     # category breakdown
     from collections import Counter

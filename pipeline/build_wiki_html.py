@@ -2,13 +2,18 @@
 """
 Build FLASH_Wiki.html — a single self-contained, zero-setup interactive Wiki.
 Double-click to open in any browser. All data embedded; no server needed.
-Usage: python3 build_wiki_html.py
+Usage: python3 pipeline/build_wiki_html.py   (run from the folder root)
 """
 import os, json, re, html
 from collections import Counter
 
+# This script lives in <root>/pipeline/; it reads the corpus from
+# <root>/library/ and writes FLASH_Wiki.html to <root>/ so the WG can
+# double-click it straight from the top of the folder.
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = json.load(open(os.path.join(HERE, "flash_library.json"), encoding="utf-8"))
+ROOT = os.path.dirname(HERE)
+LIB = os.path.join(ROOT, "library")
+DATA = json.load(open(os.path.join(LIB, "flash_library.json"), encoding="utf-8"))
 RECS = DATA["records"]
 GEN = DATA["generated"]
 
@@ -227,6 +232,6 @@ buildCats(); render();
 </script>
 </body></html>"""
 
-out = os.path.join(HERE, "FLASH_Wiki.html")
+out = os.path.join(ROOT, "FLASH_Wiki.html")
 open(out, "w", encoding="utf-8").write(HTML)
 print(f"wrote FLASH_Wiki.html  ({len(HTML)/1e6:.2f} MB, {len(RECS)} records embedded)")
