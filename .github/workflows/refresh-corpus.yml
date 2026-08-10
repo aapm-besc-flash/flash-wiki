@@ -63,7 +63,17 @@ jobs:
       - name: Harvest PubMed
         env:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-        run: python pipeline/flash_harvest.py
+        # The API key only raises the NCBI rate limit from 3 to 10 requests/s.
+        # A rejected key should therefore slow this job down, not kill it - so if
+        # the authenticated harvest fails, retry once without the key and warn.
+        run: |
+          if python pipeline/flash_harvest.py; then
+            exit 0
+          fi
+          echo "::warning::Harvest failed with NCBI_API_KEY set - retrying unauthenticated."
+          echo "If this warning appears, check the NCBI_API_KEY secret: the harvest is"
+          echo "now running at the lower anonymous rate limit (3 req/s)."
+          env -u NCBI_API_KEY python pipeline/flash_harvest.py
 
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
