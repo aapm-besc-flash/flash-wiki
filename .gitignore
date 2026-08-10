@@ -20,7 +20,9 @@ site/
 .refresh/
 
 # --- Local-only working material, not part of the corpus -------------------
-notebooklm_sources/
+# NOTE: notebooklm_sources/ is deliberately NOT ignored. The monthly refresh
+# regenerates it and commits it, and _seen_pmids.json must persist between runs
+# or every paper would be reported as new in the delta file.
 ris_archive/
 Run_Monthly_Update.command
 
