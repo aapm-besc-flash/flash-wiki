@@ -2,7 +2,45 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*256 records. Newest first.*
+*258 records. Newest first.*
+
+---
+
+### Conventional and ultra-high dose rate proton beam energy and output characterization using a high-resolution multi-layer Faraday cup.
+
+*Teng X, Friberg A, Alexander DA, Ota K, Nichols M, Boisseau P et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDR).
+
+
+??? note "Abstract"
+    OBJECTIVE: Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDR). This work evaluated a multi-layer Faraday cup (MLFC) as a detector for proton therapy QA, capable of high-resolution energy verification, beam charge measurements, and operation at both conventional and UHDR. APPROACH: A commercial 128-layer MLFC made of thin copper layers separated by Kapton and equipped with a MicroHexTMenergy filter was used to measure conventional and UHDR proton pencil beams from a IBA ProteusPlus system. A TOPAS Monte Carlo model was developed to benchmark depth-charge readout. Energy calibration of the pencil beams was performed by Gaussian fitting charge peaks and comparing to nominal ranges in water. Delivered charge was determined by integrating the collected charge across all MLFC channels and comparing it with a reference Faraday cup. Its application to UHDR FLASH radiotherapy was evaluated using spread-out Bragg Peak Conformal FLASH plan deliveries. MAIN RESULTS: The MLFC provided a reproducible high-resolution energy calibration within 1 mm water equivalent depth (WED) resolution, with the MicroHexTMfilter broadening charge deposition peaks and improving measurement precision and accuracy. Integrated charge was linear with monitor units and agreed with Faraday cup measurements within 5% for all measured energies (100-228 MeV). The 4 kHz sampling rate enabled spot-by-spot energy and charge output measurements at UHDR. SIGNIFICANCE: The MLFC enables simultaneous energy and charge output verification in a compact, dose-rate-independent detector, providing a practical solution for routine QA in both conventional and FLASH proton therapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42551487/) · [DOI](https://doi.org/10.1088/1361-6560/ae94d9)
+
+
+---
+
+### A multidisciplinary experimental and methodological investigation of electron and proton minibeams in the framework of the INFN MIRO project.
+
+*Romano F, Zanacchi FC, Ciarrocchi E, Franciosini G, Milluzzo G, Scifoni E et al.* — Medical physics (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** The clinical translation of Minibeam RT (MBRT) has recently started thanks to the first human treatments recently performed. However, despite experimental evidence, the impact of the dose distribution parameters involved on the magnitude of the effect itself and the underlying radiobiological mechanisms are still only partially understood.
+
+
+??? note "Abstract"
+    BACKGROUND: The clinical translation of Minibeam RT (MBRT) has recently started thanks to the first human treatments recently performed. However, despite experimental evidence, the impact of the dose distribution parameters involved on the magnitude of the effect itself and the underlying radiobiological mechanisms are still only partially understood. To address this issue, systematic investigations are needed through the implementation of advanced quantitative experiments with a multidisciplinary approach, which is the one proposed in the framework of the INFN funded MIRO (MInibeam RadiOtherapy) project. PURPOSE: The aim of this work is to report on the on-going main activities recently carried out in the framework of the project, showing some of the main results achieved during the first 2 years of the project, in terms of: (i) facilities development and characterization; (ii) new dosimetric approaches; (iii) biological investigation of the effect; and (iv) development of the first tools for dose planning. The multidisciplinary approach adopted by this national Collaboration to tackle the main challenges of minibeam radiotherapy for a reliable and solid clinical translation is discussed. METHODS: The facilities involved in the project are: (i) two facilities dedicated to low (up to 9 MeV) and medium (up to 18 MeV) energy electron minibeam studies, one of them also equipped with an electron FLASH LINAC to study possible synergistic effects with UHDR beams; (ii) one facility dedicated to proton minibeam studies, with energies from 70 to 140 MeV. Novel dosimetric approaches, are presented, mainly based on scintillators, silicon and silicon carbide detectors. Novel techniques for the analysis of biological samples are described, leveraging both integrated averaged data and spatially resolved analysis. Furthermore, a framework for biological modeling using a multiscale approach is presented. A dedicated dose-planning tool is currently under development to compare &quot;virtual&quot; minibeam plans with conventional ones and, consequently, to quantitatively investigate the potential for clinical translation. RESULTS: All the facilities were dosimetrically characterized, demonstrating the capability of producing controlled and reproducible electron and proton minibeams. These beams exhibited diverse physical parameters, including peak-to-valley ratios between 3 and 30 at the entrance and center-to-center distances between 2 and 3 mm. The developed detectors, specifically scintillators and silicon detectors, successfully measured the minibeam patterns with sub-millimeter resolution, while large-area silicon carbide detectors were used for average dose measurements. First in-vitro biological investigations performed with low energy minibeams clearly showed an enhanced survival fraction in the 16HBE healthy lung cells, while maintaining iso-effective cell killing in A549 cancer cells. Furthermore, a synergy was observed when combining UHDR electron beams with minibeams. CONCLUSIONS: The multidisciplinary approach was consolidated during these first 2 years of the MIRO project, as demonstrated by the results obtained both in terms of dosimetric characterization and biological investigations. The dedicated framework for modelling is being optimized to support the biological findings, allowing for a better interpretation of the results. The tool for dose planning, still under development, will allow the investigation of peculiar configurations to explore new frontiers in the perspective of future human trials.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42547911/) · [DOI](https://doi.org/10.1038/s41467-024-54591-6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11814273/)
+
 
 ---
 

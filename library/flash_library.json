@@ -1,12 +1,294 @@
 {
- "generated": "2026-08-03",
+ "generated": "2026-08-10",
  "query": "(\"ultra-high dose rate\"[tiab] OR \"ultrahigh dose rate\"[tiab] OR \"ultra high dose rate\"[tiab] OR \"FLASH radiotherapy\"[tiab] OR \"FLASH-RT\"[tiab] OR \"FLASH radiation\"[tiab] OR \"FLASH irradiation\"[tiab] OR \"FLASH effect\"[tiab] OR \"FLASH proton\"[tiab] OR \"FLASH electron\"[tiab] OR (\"FLASH\"[tiab] AND (\"dose rate\"[tiab] OR \"radiotherapy\"[tiab] OR \"radiation therapy\"[tiab] OR \"irradiation\"[tiab] OR \"Gy/s\"[tiab] OR \"conventional dose rate\"[tiab])))",
- "n": 1309,
+ "n": 1315,
  "records": [
+  {
+   "pmid": "42563395",
+   "doi": "10.1016/j.ijrobp.2024.09.006",
+   "pmc": "PMC12142639",
+   "year": "2026",
+   "title": "TOPAS-nBio simulation of the impact of ultrahigh dose rate and oxygen concentration on the Fenton reaction using the Fricke solution.",
+   "authors": [
+    "Chaoui M",
+    "Shin WG",
+    "Bouhali O",
+    "Schuemann J",
+    "Ramos-Méndez J",
+    "Tayalati Y"
+   ],
+   "journal": "Medical physics",
+   "abstract": "BACKGROUND: Preclinical studies have shown that FLASH radiotherapy (FLASH-RT), delivering radiation in ultrahigh dose rates (UHDR), presents reduced healthy tissue toxicity, while maintaining an iso-effective tumor response compared to conventional radiotherapy (CONV-RT). This combined biological benefit was termed as \"FLASH effect.\" The mechanisms responsible for this effect remain unclear, however, it has been hypothesized that the Fenton reaction which produces   • OH    can inflict substantial damage to biomolecules and thus might play a role in the \"FLASH effect.\" PURPOSE: We propose to investigate the influence of radiation delivery parameters including pulse width, dose, dose rate, and initial oxygen concentration on the activation of the Fenton reaction using the Fricke solution. METHODS AND MATERIALS: TOPAS-nBio version 4.0 was used to simulate the radiolysis of the Fricke solution. A cubic water phantom (3 µm side) was irradiated laterally by 300 MeV protons. Irradiation was delivered in pulses of tracks with absorbed doses from 1-40 Gy, or in independent tracks. For ultrahigh dose rate (UHDR), we varied the pulse widths between 10 ns and 10 µs, corresponding to instantaneous dose rates of 109-105 Gy/s. For conventional dose rate (CONV), both the independent history approach (mimicking 6 0Co) and multi-pulse irradiations at different frequencies were simulated, yielding a mean dose rate of 0.28 Gy/s. Irradiation times reached between 78 ns-85 s. Oxygen concentrations in the equivalent condition of hypoxic and normoxic tissues (1%-21%) were considered. The G-value for oxidant ions G(Fe3+) and ΔG-value of Fenton reaction (H2O2 + Fe2+ → Fe3+ +   • OH  + O H -   ) were scored. The simulations ended after G(Fe3+) achieved steady-state, and calculated yields were compared with published data. RESULTS: For CONV, G(Fe3+) agreed with ICRU-report 34 data within (0.97 ± 0.1)%. For UHDR, G(Fe3+) agreed with ICRU data within (1.24 ± 0.1) % and (0.92 ± 0.1) % for 5 and 10 Gy, respectively. Notably, UHDR at 10 Gy reduced the occurrence of Fenton reactions by 1% and 11.5% at initial oxygen of 21% pO2 and 1% pO2, respectively. In consequence, UHDR decreased G(Fe3+) by 1.8% and 12.5% at these oxygen levels.  Additionally, increasing the dose per pulse to 40 Gy further reduced the G(Fe3+) by 40% at 1%pO2. This effect became negligible for long pulse durations ≥10 µs and low mean dose rate (0.28 Gy/s), highlighting the importance of instantaneous dose rates. Precisely, the decrease was driven by intertrack effects present in UHDR pulses and their impact on the scavenging effect that oxygen had over hydrogen radicals. CONCLUSIONS: The observed reduction in G(Fe3 +) is primarily driven by inter-track effects, which limit the availability of radicals participating in Fenton chemistry under UHDR conditions. This effect is most pronounced at low initial oxygen concentrations and minimal at higher oxygen concentrations. The effect is further amplified at higher per-pulse doses (25-40 Gy) but vanishes at long pulse durations and low mean dose rates. This emphasizes the important role of the initial oxygen concentration in UHDR and its influence on the latest activation of Fenton reaction, a mechanism that may contribute to elucidating the FLASH effect.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Oxygen",
+    "Hydrogen Peroxide",
+    "Iron",
+    "Radiation Dosage",
+    "Radiotherapy Dosage",
+    "Solutions"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42563395/"
+  },
+  {
+   "pmid": "42556588",
+   "doi": "10.1016/j.ijrobp.2026.07.043",
+   "pmc": "",
+   "year": "2026",
+   "title": "Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.",
+   "authors": [
+    "Pang D",
+    "Kaphle A",
+    "Yin L",
+    "Bai H",
+    "Wells M",
+    "Miles D",
+    "Sforza D",
+    "Li H",
+    "Jia X",
+    "Jung M",
+    "Unger K",
+    "Dritschilo A"
+   ],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "PURPOSE: This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of double strand breaks (DSB) per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10 mM HEPES concentration at the 1 kGy dose; however, at 3 kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10 mM HEPES concentration, this effect is dose-rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer-scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and LET.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42556588/"
+  },
+  {
+   "pmid": "42551487",
+   "doi": "10.1088/1361-6560/ae94d9",
+   "pmc": "",
+   "year": "2026",
+   "title": "Conventional and ultra-high dose rate proton beam energy and output characterization using a high-resolution multi-layer Faraday cup.",
+   "authors": [
+    "Teng X",
+    "Friberg A",
+    "Alexander DA",
+    "Ota K",
+    "Nichols M",
+    "Boisseau P",
+    "Vander Stappen F",
+    "Gao Y",
+    "Setianegara J",
+    "Gu W",
+    "Diffenderfer E",
+    "Teo BK",
+    "Yin L",
+    "Zou W"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "OBJECTIVE: Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDR). This work evaluated a multi-layer Faraday cup (MLFC) as a detector for proton therapy QA, capable of high-resolution energy verification, beam charge measurements, and operation at both conventional and UHDR. APPROACH: A commercial 128-layer MLFC made of thin copper layers separated by Kapton and equipped with a MicroHexTMenergy filter was used to measure conventional and UHDR proton pencil beams from a IBA ProteusPlus system. A TOPAS Monte Carlo model was developed to benchmark depth-charge readout. Energy calibration of the pencil beams was performed by Gaussian fitting charge peaks and comparing to nominal ranges in water. Delivered charge was determined by integrating the collected charge across all MLFC channels and comparing it with a reference Faraday cup. Its application to UHDR FLASH radiotherapy was evaluated using spread-out Bragg Peak Conformal FLASH plan deliveries. MAIN RESULTS: The MLFC provided a reproducible high-resolution energy calibration within 1 mm water equivalent depth (WED) resolution, with the MicroHexTMfilter broadening charge deposition peaks and improving measurement precision and accuracy. Integrated charge was linear with monitor units and agreed with Faraday cup measurements within 5% for all measured energies (100-228 MeV). The 4 kHz sampling rate enabled spot-by-spot energy and charge output measurements at UHDR. SIGNIFICANCE: The MLFC enables simultaneous energy and charge output verification in a compact, dose-rate-independent detector, providing a practical solution for routine QA in both conventional and FLASH proton therapy.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42551487/"
+  },
+  {
+   "pmid": "42549040",
+   "doi": "10.1016/j.mtbio.2026.103487",
+   "pmc": "PMC11198981",
+   "year": "2026",
+   "title": "Harnessing the sparing effect of FLASH-RT: From phenomenon observation, radiophysical determinants to molecular mechanisms and synergistic strategies.",
+   "authors": [
+    "Dou Z",
+    "Lei H",
+    "Yang J",
+    "Li M",
+    "Wang S",
+    "Bao X",
+    "Ma L",
+    "Li J",
+    "Yin Y",
+    "Dai T"
+   ],
+   "journal": "Materials today. Bio",
+   "abstract": "FLASH radiotherapy (FLASH-RT) represents an innovative paradigm shift in radiation oncology. It is distinguished from conventional radiotherapy (CONV-RT) by the ultra-high dose rate (>40 Gy/s) radiation delivery to tumours within sub-millisecond bursts. Increasing preclinical studies have shown that FLASH-RT markedly reduces normal tissue toxicity without compromising antitumor efficacy, termed the \"FLASH effect\". Despite its potential, clinical implementation remains constrained by several challenges, including the incomplete understanding of its underlying biological mechanisms, the optimization of physical parameters, and ongoing technological hurdles. In this review, we systematically reviewed and synthesized the preclinical evidence across multiple organ systems, delineating the complex interplay of physical parameters that govern biological outcomes of FLASH-RT. Moving beyond phenomenological observations, this review provides a rigorous synthesis of mechanism ranging from initial physicochemical to biological processes, including transient oxygen depletion, radical recombination, differential DNA damage response, and mitochondrial reprogramming. A central focus is placed on the potent immunomodulatory role of FLASH-RT, highlighting its ability to preserve systemic immune competence and reshape the tumor immune microenvironment. These unique advantages have facilitated the initiation of FLASH-related clinical trials and position FLASH-RT as an exceptionally promising partner for next-generation immunotherapy, spatially fractionated approaches, and nanomedicine-based radio-sensitization research. While promising, mature clinical translation faces challenges. By synthesizing the interplay between ultra-high dose rate physics and molecular radiobiology, this review provides an integrated framework designed to translate fundamental FLASH effects into predictable and optimized therapeutic strategies for the next generation of precision cancer treatment.",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "mesh": [],
+   "category": "Reviews & Consensus",
+   "tags": [
+    "Reviews & Consensus",
+    "Radiobiology",
+    "Modeling & Mechanisms",
+    "Clinical & Translational",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42549040/"
+  },
+  {
+   "pmid": "42547911",
+   "doi": "10.1038/s41467-024-54591-6",
+   "pmc": "PMC11814273",
+   "year": "2026",
+   "title": "A multidisciplinary experimental and methodological investigation of electron and proton minibeams in the framework of the INFN MIRO project.",
+   "authors": [
+    "Romano F",
+    "Zanacchi FC",
+    "Ciarrocchi E",
+    "Franciosini G",
+    "Milluzzo G",
+    "Scifoni E",
+    "Vignati A",
+    "Ahmad S",
+    "Arezzini S",
+    "Attili A",
+    "Battestini M",
+    "Bernardini J",
+    "Bettanin M",
+    "Bisio A",
+    "Bisogni MG",
+    "Bodrenko I",
+    "Bordieri G",
+    "Bravatà V",
+    "Burattini A",
+    "Camarda M",
+    "Cammarata FP",
+    "Capaccioli S",
+    "Castelli L",
+    "Cavalieri A",
+    "Celentano M",
+    "Chiadroni E",
+    "Cordoni FG",
+    "Corvaia E",
+    "Costa M",
+    "Curcio A",
+    "Da Pozzo E",
+    "De Felice M",
+    "Debbio FD",
+    "D'Errico F",
+    "D'Oca MC",
+    "D'Orsi B",
+    "Deut U",
+    "Durisi E",
+    "Fantacci ME",
+    "Farina S",
+    "Felici G",
+    "Ferro A",
+    "Ficcadenti L",
+    "Formuso A",
+    "Forte GI",
+    "Giordanengo S",
+    "Giuliano A",
+    "Giuliano L",
+    "Lanzanò L",
+    "Linsalata S",
+    "Lossano S",
+    "Maffei M",
+    "Marafini M",
+    "Marrale M",
+    "Massa M",
+    "Masturzo L",
+    "Mazzoni E",
+    "Migliorati M",
+    "Milian FM",
+    "Minafra L",
+    "Moggi A",
+    "Olivares DM",
+    "Montefiori M",
+    "Morrocchi M",
+    "Mostacci A",
+    "Mostardi F",
+    "Okpuwe C",
+    "Paiar F",
+    "Palumbo L",
+    "Patera V",
+    "Pensavalle JH",
+    "Pucci G",
+    "Quattrini F",
+    "Retico A",
+    "Rosso V",
+    "Russo G",
+    "Sacchi R",
+    "Sarti A",
+    "Scalisi S",
+    "Scapicchio C",
+    "Schiavi A",
+    "Stochino P",
+    "Strettoi E",
+    "Tommasino F",
+    "Tozzini V",
+    "Traini G",
+    "Trovato G",
+    "Usai A",
+    "Urso F",
+    "Martino FD"
+   ],
+   "journal": "Medical physics",
+   "abstract": "BACKGROUND: The clinical translation of Minibeam RT (MBRT) has recently started thanks to the first human treatments recently performed. However, despite experimental evidence, the impact of the dose distribution parameters involved on the magnitude of the effect itself and the underlying radiobiological mechanisms are still only partially understood. To address this issue, systematic investigations are needed through the implementation of advanced quantitative experiments with a multidisciplinary approach, which is the one proposed in the framework of the INFN funded MIRO (MInibeam RadiOtherapy) project. PURPOSE: The aim of this work is to report on the on-going main activities recently carried out in the framework of the project, showing some of the main results achieved during the first 2 years of the project, in terms of: (i) facilities development and characterization; (ii) new dosimetric approaches; (iii) biological investigation of the effect; and (iv) development of the first tools for dose planning. The multidisciplinary approach adopted by this national Collaboration to tackle the main challenges of minibeam radiotherapy for a reliable and solid clinical translation is discussed. METHODS: The facilities involved in the project are: (i) two facilities dedicated to low (up to 9 MeV) and medium (up to 18 MeV) energy electron minibeam studies, one of them also equipped with an electron FLASH LINAC to study possible synergistic effects with UHDR beams; (ii) one facility dedicated to proton minibeam studies, with energies from 70 to 140 MeV. Novel dosimetric approaches, are presented, mainly based on scintillators, silicon and silicon carbide detectors. Novel techniques for the analysis of biological samples are described, leveraging both integrated averaged data and spatially resolved analysis. Furthermore, a framework for biological modeling using a multiscale approach is presented. A dedicated dose-planning tool is currently under development to compare \"virtual\" minibeam plans with conventional ones and, consequently, to quantitatively investigate the potential for clinical translation. RESULTS: All the facilities were dosimetrically characterized, demonstrating the capability of producing controlled and reproducible electron and proton minibeams. These beams exhibited diverse physical parameters, including peak-to-valley ratios between 3 and 30 at the entrance and center-to-center distances between 2 and 3 mm. The developed detectors, specifically scintillators and silicon detectors, successfully measured the minibeam patterns with sub-millimeter resolution, while large-area silicon carbide detectors were used for average dose measurements. First in-vitro biological investigations performed with low energy minibeams clearly showed an enhanced survival fraction in the 16HBE healthy lung cells, while maintaining iso-effective cell killing in A549 cancer cells. Furthermore, a synergy was observed when combining UHDR electron beams with minibeams. CONCLUSIONS: The multidisciplinary approach was consolidated during these first 2 years of the MIRO project, as demonstrated by the results obtained both in terms of dosimetric characterization and biological investigations. The dedicated framework for modelling is being optimized to support the biological findings, allowing for a better interpretation of the results. The tool for dose planning, still under development, will allow the investigation of peculiar configurations to explore new frontiers in the perspective of future human trials.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Electrons",
+    "Humans",
+    "Proton Therapy",
+    "Protons",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy Dosage",
+    "Radiometry"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Radiobiology",
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology",
+    "Clinical & Translational"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42547911/"
+  },
+  {
+   "pmid": "42546758",
+   "doi": "10.1088/1361-6560/ae944e",
+   "pmc": "",
+   "year": "2026",
+   "title": "Pulse-resolved tumor control probability modeling for FLASH radiotherapy using a variable-time treatment-course framework.",
+   "authors": [
+    "Lee TK"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed TCP_LRF, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted TCP_LR, to connect FLASH beam microstructure, oxygen/radical kinetics, biological repair, and treatment-course repopulation.&#xD;Approach: TCPLR was used as the parent treatment-course TCP model because it accommodates variable interfraction timing and kick-off-time-dependent accelerated repopulation. Its conventional cumulative survival term was replaced by a FLASH-aware survival term derived from a reduced-order oxygen/radical ordinary differential equation kernel. Each FLASH fraction was represented as a pulse train. The same oxygen/radical kinetics, lesion-yield calculation, and post-fraction repair layer were also implemented for standard-dose-rate continuous delivery to provide an internal comparator. The implementation was verified against uniform-dose benchmarks reported in the original Lee-Rosen publication describing TCP_LR and then evaluated using exploratory FLASH, repair, pulse-structure, and standard-dose-rate scenarios.&#xD;Main results: Conventional verification reproduced published benchmark trends, with maximum absolute differences of 1.44, 1.21, and 3.48 percentage points for head-and-neck, breast, and prostate cases, respectively. In a 3 × 8 Gy starter case, calibrated null-FLASH TCP was 0.790. Moderate chemistry and strong radical recombination yielded TCP values of 0.713 and 0.703, respectively, whereas mild oxygen limitation reduced TCP to 0.276. Standard-dose-rate continuous delivery produced negligible oxygen depletion under null and moderate chemistry assumptions, while deliberately oxygen-limited standard-dose-rate cases showed reduced TCP.&#xD;Significance: This exploratory framework provides a mechanistic treatment-course TCP platform for hypothesis testing in FLASH radiotherapy. It demonstrates how pulse microstructure and continuous standard-dose-rate delivery can be evaluated within the same published variable-time TCP_LR formulation, while showing that FLASH TCP behavior depends on oxygen/radical kinetic assumptions, pulse structure, repair, and oxygen availability rather than being universally preserved or reduced.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42546758/"
+  },
   {
    "pmid": "42541254",
    "doi": "10.1016/j.ctro.2026.101235",
-   "pmc": "PMC7027102",
+   "pmc": "PMC9057355",
    "year": "2026",
    "title": "Reduced corneal toxicity following whole brain irradiation in mice.",
    "authors": [
@@ -34,8 +316,8 @@
   },
   {
    "pmid": "42539085",
-   "doi": "",
-   "pmc": "PMC13419626",
+   "doi": "10.1101/2025.10.06.680759",
+   "pmc": "PMC9711940",
    "year": "2026",
    "title": "Review of oxygen measurement and relevance to the mechanisms of FLASH radiotherapy.",
    "authors": [
@@ -47,16 +329,17 @@
     "Swartz HM"
    ],
    "journal": "ArXiv",
-   "abstract": "FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained. Among the proposed hypotheses, tissue oxygen has consistently been a central theme because oxygen is the most dominant factor known to modulate radiation-induced damage. The factors implicated in FLASH sparing include the baseline partial pressure of oxygen (pO2), transient radiolytic oxygen consumption (ROC), and oxygen-dependent changes in the chemistry of reactive oxygen species (ROS) that vary with dose rate. This review synthesizes current evidence on in vivo oxygen measurement techniques, highlighting their capabilities and limitations in capturing the spatial and temporal heterogeneity of tissue oxygenation. Key experimental studies in skin are summarized and interpreted by modulating oxygen levels via changes in inspired oxygen gas and vascular clamping interventions, demonstrating that the FLASH effect occurs only at intermediate baseline pO2 (normoxic or slightly hypoxic) values, but not at hypoxia or hyperoxia. Direct measurement of oxygen consumption during UHDR irradiation is possible, providing one of the first in situ measurements of radiation chemistry in patients. In parallel, recent advances in fast in vitro radiation chemistry assays indicate that UHDR irradiation alters radical yields, favoring increased production of solvated electrons and reduced hydroxyl radical mediated damage. Taken together, the available data suggest that the FLASH sparing effect arises from an interplay among the delivered dose and dose rate, local oxygen availability, and radiation chemistry, with tissue-specific variation in scavenging, leading to altered biological responses across the CDR-to-UHDR shift.",
+   "abstract": "FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained. Among the proposed hypotheses, tissue oxygen has consistently been a central theme because oxygen is the most dominant factor known to modulate radiation-induced damage. The factors implicated in FLASH sparing include the baseline partial pressure of oxygen (pO2), transient radiolytic oxygen consumption (ROC), and oxygen-dependent changes in the chemistry of reactive oxygen species (ROS) that vary with dose rate. This review synthesizes current evidence on in vivo oxygen measurement techniques, highlighting their capabilities and limitations in capturing the spatial and temporal heterogeneity of tissue oxygenation. Key experimental studies in skin are summarized and interpreted by modulating oxygen levels via changes in inspired oxygen gas and vascular clamping interventions, demonstrating that the FLASH effect occurs only at intermediate baseline pO2 (normoxic or slightly hypoxic) values, but not at hypoxia or hyperoxia. Direct measurement of oxygen consumption during UHDR irradiation is possible, providing one of the first in situ measurements of radiation chemistry in patients. In parallel, recent advances in fast in vitro radiation chemistry assays indicate that UHDR irradiation alters radical yields, favoring increased production of solvated electrons and reduced hydroxyl radical-mediated damage. Taken together, the available data suggest that the FLASH sparing effect arises from an interplay among the delivered dose and dose rate, local oxygen availability, and radiation chemistry, with tissue-specific variation in scavenging, leading to altered biological responses across the CDR-to-UHDR shift. This more complex interpretation seems more likely than the simpler interpretation of broad-area radiolytic oxygen depletion alone. However, it must be acknowledged that we have partial data on all aspects of this hypothesis, and further improvements in oxygen sampling are very likely to help in understanding ROS and scavenging effects in vivo. Key challenges in quantifying oxygen dynamics in vivo are highlighted, and the conclusions are used to identify critical areas for future research to enable mechanistic understanding and clinical translation of FLASH-RT.",
    "pubtypes": [
     "Journal Article",
     "Preprint"
    ],
    "mesh": [],
-   "category": "Radiobiology",
+   "category": "Modeling & Mechanisms",
    "tags": [
+    "Modeling & Mechanisms",
     "Radiobiology",
-    "Modeling & Mechanisms"
+    "Clinical & Translational"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42539085/"
   },
@@ -405,7 +688,7 @@
    "doi": "10.1016/j.ijrobp.2026.07.006",
    "pmc": "",
    "year": "2026",
-   "title": "Mitochondrial Responses to Conventional and Ultra-high Dose Rate (FLASH) Radiation.",
+   "title": "Mitochondrial Responses to Conventional and Ultra-High Dose Rate (FLASH) Radiation.",
    "authors": [
     "Caggiano EG",
     "Elizondo ME",
@@ -427,7 +710,7 @@
     "Schüler E"
    ],
    "journal": "International journal of radiation oncology, biology, physics",
-   "abstract": "PURPOSE: Ultra-high dose rate (>40 Gy/s, FLASH) radiation therapy (RT) provides equivalent tumor control while reducing normal tissue toxicity relative to conventional dose rate (CONV) RT. However, the mechanisms underlying the observed FLASH effect are unknown. We hypothesized that the preservation of mitochondrial integrity in nontumorigenic cells by FLASH RT could be a key factor in reducing normal tissue toxicity and improving overall treatment outcomes. METHODS: We examined mitochondrial health and function after CONV and FLASH in vitro, ex vivo, and in vivo through assays of metabolic flux, mitochondrial membrane potential, mitochondrial reactive oxygen species (ROS), mitochondrial DNA damage and copy number, mitochondrial morphology, and tumor growth and survival. RESULTS: In in vitro assays, murine pancreatic cancer (PDAC) cells showed similar levels of mitochondrial damage in response to CONV and FLASH, but nontumorigenic pancreatic cells were spared by FLASH. Ex vivo measurements recapitulated the in vitro findings, and in vivo, mice bearing subcutaneous KPC tumors had comparable tumor growth delay with FLASH and CONV, whereas longer survival after FLASH reflected reduced radiation-induced toxicity rather than greater tumor control. CONCLUSIONS: Collectively, these results suggest that FLASH spares mitochondrial function in nontumorigenic cells, but not in PDAC cells, relative to CONV. The preservation of mitochondrial integrity in nontumorigenic cells may be a key mechanism underlying the reduced normal tissue toxicity observed with FLASH RT.",
+   "abstract": "PURPOSE: Ultra-high dose rate (>40 Gy/s, FLASH) radiation therapy (RT) provides equivalent tumor control while reducing normal tissue toxicity relative to conventional dose rate radiation (CONV) RT. However, the mechanisms underlying the observed FLASH effect are unknown. We hypothesized that preservation of mitochondrial integrity in nontumorigenic cells by FLASH RT could be a key factor in reducing normal tissue toxicity and improving overall treatment outcomes. METHODS AND MATERIALS: We examined mitochondrial health and function after CONV and FLASH in vitro, ex vivo, and in vivo through assays of metabolic flux, mitochondrial membrane potential, mitochondrial reactive oxygen species (ROS), mitochondrial DNA damage and copy number, mitochondrial morphology, and tumor growth and survival. RESULTS: In in vitro assays, murine pancreatic cancer (PDAC) cells showed similar levels of mitochondrial damage in response to CONV and FLASH, but nontumorigenic pancreatic cells were spared by FLASH. Ex vivo measurements recapitulated the in vitro findings, and in vivo, mice bearing subcutaneous LSL-KRASG12D; Trp53fl/+; Ptf1⍺ Cre (KPC) tumors had comparable tumor growth delay with FLASH and CONV, whereas longer survival after FLASH reflected reduced radiation-induced toxicity rather than greater tumor control. CONCLUSIONS: Collectively, these results suggest that FLASH spares mitochondrial function in nontumorigenic cells, but not in PDAC cells. relative to CONV. The preservation of mitochondrial integrity in nontumorigenic cells may be a key mechanism underlying the reduced normal tissue toxicity observed with FLASH RT.",
    "pubtypes": [
     "Journal Article"
    ],
@@ -18230,7 +18513,8 @@
    "journal": "Physics in medicine and biology",
    "abstract": "Objective. This work aims to investigate the iso-effectiveness of conventional and FLASH radiotherapy on tumors through in-silico mathematical models. We focused on the role of radiolytic oxygen depletion (ROD), which has been argued as a possible factor to explain the FLASH effect.Approach. We used a spatiotemporal reaction-diffusion model, including ROD, to simulate tumor oxygenation and response. From those oxygen distributions we obtained surviving fractions (SFs) using the linear-quadratic (LQ) model with the oxygen enhancement ratios (OERs). We then employed the calculated SFs to describe the evolution of preclinical tumor volumes through a mathematical model of tumor response, and we also extrapolated those results to calculate tumor control probabilities (TCPs) using the Poisson-LQ approach.Main results. Our study suggests that the ROD effect may cause differences in SF between FLASH and conventional radiotherapy, especially in lowα/βandpoorly oxygenatedcells. However, a statistical analysis showed that these changes in SF generally do not result in significant differences in the evolution of preclinical tumor growth curves when the sample size is small, because such differences in SF may not be noticeable in the heterogeneity of the population of animals. Nonetheless, when extrapolating this effect to TCP curves, we observed important differences between both techniques (TCP is lower in FLASH radiotherapy). When analyzing the response of tumors with heterogeneous oxygenations, differences in TCP are more important forwell oxygenatedtumors. This apparent contradiction with the results obtained for homogeneously oxygenated cells is explained by the complex interplay between the heterogeneity of tumor oxygenation, the OER effect, and the ROD effect.Significance. This study supports the experimentally observed iso-effectiveness of FLASH and conventional radiotherapy when analyzing the volume evolution of preclinical tumors (that are far from control). However, this study also hints that tumor growth curves may be less sensitive to small variations in SF than tumor control probability: ROD may lead to increased SF in FLASH radiotherapy, which while not large enough to cause significant differences in tumor growth curves, could lead to important differences in clinical TCPs. Nonetheless, it cannot be discarded that other effects not modeled in this work, like radiation-induced immune effects, can contribute to tumor control and maintain the iso-effectiveness of FLASH radiotherapy. The study of tumor growth curves may not be the ideal experiment to test the iso-effectiveness of FLASH, and experiments reporting TCP orD50may be preferred.",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
    ],
    "mesh": [
     "Oxygen",
@@ -18825,7 +19109,8 @@
    "journal": "Physics in medicine and biology",
    "abstract": "Objective.The beam switching time and fractional dose influence the FLASH effect. A single-beam-per-fraction (SBPF) scheme using uniform fractional dose (UFD) has been proposed for FLASH- radiotherapy (FLASH-RT) to eliminate the beam switching time. Based on SBPF schemes, a fractionation dose optimization algorithm is proposed to optimize non-UFD plans to maximize the fractionation effect and dose-dependent FLASH effect.Approach.The UFD plan, containing five 236 MeV transmission proton beams, was optimized for 11 patients with peripheral lung cancer, with each beam delivering a uniform dose of 11 Gy to the target. Meanwhile, the non-UFD plan was optimized using fractionation dose optimization. To compare the two plans, the equivalent dose to 2 Gy (EQD2) for the target and normal tissues was calculated with anα/βratio of 10 and 3, respectively. Both UFD and non-UFD plans ensured that the target received an EQD2 of 96.3 Gy. To investigate the overall improvement in normal tissue sparing with the non-UFD plan, the FLASH-enhanced EQD2 was calculated.Main results.The fractional doses in non-UFD plans ranged between 5.0 Gy and 24.2 Gy. No significant differences were found in EQD22%and EQD298%of targets between UFD and non-UFD plans. However, theD95%of the target in non-UFD plans was significantly reduced by 15.1%. The sparing effect in non-UFD plans was significantly improved. The FLASH-enhanced EQD2meanin normal tissue and ipsilateral lung was significantly reduced by 3.5% and 10.4%, respectively, in non-UFD plans. The overall improvement is attributed to both the FLASH and fractionation effects.Significance.The fractionation dose optimization can address the limitation of multiple-beam FLASH-RT and utilize the relationship between fractional dose and FLASH effect. Consequently, the non-UFD scheme results in further improvements in normal tissue sparing compared to the UFD scheme, attributed to enhanced fractionation and FLASH effects.",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
    ],
    "mesh": [
     "Proton Therapy",
@@ -19122,7 +19407,8 @@
    "journal": "Physics in medicine and biology",
    "abstract": "Objective. The FLASH effect can potentially be used to improve the therapeutic ratio of radiotherapy (RT) through delivery of Ultra-high-dose-rate (UHDR) irradiation. Research is actively being conducted to translate UHDR-RT and for this purpose the Mobetron is capable of producing electron beams at both UHDR and conventional dose rates for FLASH research and translation. This work presents commissioning of an UHDR Mobetron with end-to-end tests developed for preclinical research.Approach. UHDR electron beams were commissioned with an efficient approach utilizing a 3D-printed water tank and film to fully characterize beam characteristics and dependences on field size, pulse width (PW) and pulse repetition frequency (PRF). This commissioning data was used to implement a beam model using the GAMOS Monte Carlo toolkit for the preclinical research. Then, the workflow for preclinical FLASH irradiation was validated with end-to-end tests delivered to a 3D-printed mouse phantom with internal inhomogeneities.Main results.PDDs, profiles and output factors acquired with radiochromic films were precisely measured, with a PRF that showed little effect on the UHDR beam energy and spatial characteristics. Increasing PW reduced theDmaxand R50by 2.08 mmµs-1and 1.28 mmµs-1respectively. An end-to-end test of the preclinical research workflow showed that both profiles in head-foot and lateral directions were in good agreement with the MC calculations for the heterogeneous 3D printed mouse phantom with Gamma index above 93% for 2 mm/2% criteria, and 99% for 3 mm/3%.Significance. The UHDR Mobetron is a versatile tool for FLASH preclinical research and this comprehensive beam model and workflow was validated to meet the requirements for conducting translational FLASH research.",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
    ],
    "mesh": [
     "Electrons",
@@ -19546,7 +19832,8 @@
    "journal": "Physics in medicine and biology",
    "abstract": "Objective.Detectors that can provide accurate dosimetry for microbeam radiation therapy (MRT) must possess intrinsic radiation hardness, a high dynamic range, and a micron-scale spatial resolution. In this work we characterize hydrogenated amorphous silicon detectors for MRT dosimetry, presenting a novel combination of flexible, ultra-thin and radiation-hard features.Approach.Two detectors are explored: an n-type/intrinsic/p-type planar diode (NIP) and an NIP with an additional charge selective layer (NIP + CSC).Results.The sensitivity of the NIP + CSC detector was greater than the NIP detector for all measurement conditions. At 1 V and 0 kGy under the 3T Cu-Cu synchrotron broadbeam, the NIP + CSC detector sensitivity of (7.76 ± 0.01) pC cGy-1outperformed the NIP detector sensitivity of (3.55 ± 0.23) pC cGy-1by 219%. The energy dependence of both detectors matches closely to the attenuation coefficient ratio of silicon against water. Radiation damage measurements of both detectors out to 40 kGy revealed a higher radiation tolerance in the NIP detector compared to the NIP + CSC (17.2% and 33.5% degradations, respectively). Percentage depth dose profiles matched the PTW microDiamond detector's performance to within ±6% for all beam filtrations except in 3T Al-Al due to energy dependence. The 3T Cu-Cu microbeam field profile was reconstructed and returned microbeam width and peak-to-peak values of (51 ± 1)μm and (405 ± 5)μm, respectively. The peak-to-valley dose ratio was measured as a function of depth and agrees within error to the values obtained with the PTW microDiamond. X-ray beam induced charge mapping of the detector revealed minimal dose perturbations from extra-cameral materials.Significance.The detectors are comparable to commercially available dosimeters for quality assurance in MRT. With added benefits of being micron-sized and possessing a flexible water-equivalent substrate, these detectors are attractive candidates for quality assurance,in-vivodosimetry and in-line beam monitoring for MRT and FLASH therapy.",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
    ],
    "mesh": [
     "Silicon",
@@ -19631,7 +19918,8 @@
    "journal": "Physics in medicine and biology",
    "abstract": "Objective.Clinical applications of FLASH radiotherapy require formulas to describe how the FLASH radiation features and other related factors determine the FLASH effect. Mathematical analysis of the models can connect the theoretical hypotheses with the radiobiological effect, which provides the foundation for establishing clinical application models. Moreover, experimental and clinical data can be used to explore the key factors through mathematical analysis.Approach.We abstract the complex models of the oxygen depletion hypothesis and radical recombination-antioxidants hypothesis into concise mathematical equations. The equations are solved to analyze how the radiation features and other factors influence the FLASH effect. Then we propose methodologies for determining the parameters in the models and utilizing the models to predict the FLASH effect.Main results.The formulas linking the physical, chemical and biological factors to the FLASH effect are obtained through mathematical derivation of the equation. The analysis indicates that the initial oxygen concentration, radiolytic oxygen consumption and oxygen recovery are key factors for the oxygen depletion hypothesis and that the level of antioxidants is the key factor for the radical recombination-antioxidants hypothesis. According to the model derivations and analysis, the methodologies for determining parameters and predicting the FLASH effect are proposed: (1) the criteria for data filtration, (2) the strategy of hybrid FLASH and conventional dose rate (CONV) irradiation to ensure the acquisition of effective experimental data across a wide dose range, (3) the pipelines of fitting parameters and predicting the FLASH effect.Significance.This study establishes the quantitative relationship between the FLASH effect and key factors. The derived formulas can be used to calculate the FLASH effect in future clinical FLASH radiotherapy. The proposed methodologies guide to obtain sufficient high-quality datasets and utilize them to predict the FLASH effect. Furthermore, this study indicates the key factors of the FLASH effect and offers clues to further explore the FLASH mechanism.",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
    ],
    "mesh": [
     "Oxygen",
