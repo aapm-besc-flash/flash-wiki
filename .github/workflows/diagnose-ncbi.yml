@@ -1,0 +1,22 @@
+# Temporary diagnostic - delete once the harvest is working.
+# Isolates WHY eSearch returns HTTP 400 by testing the key and the query
+# separately. Prints no secret material; only lengths and NCBI response bodies.
+
+name: Diagnose NCBI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe eSearch
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python .github/probe_ncbi.py
