@@ -1,1 +1,9 @@
+# Site
 mkdocs-material>=9.5
+
+# build_site.py - build_xlsx() imports openpyxl, build_charts() imports matplotlib.
+# Both are hard imports with no fallback, so CI fails at the build step without them.
+openpyxl>=3.1
+matplotlib>=3.8
+
+# flash_harvest.py uses only the standard library (urllib, xml.etree) - nothing to add.
