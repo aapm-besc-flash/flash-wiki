@@ -1,0 +1,108 @@
+# ---------------------------------------------------------------------------
+# Monthly corpus refresh
+#
+# Re-harvests PubMed, rebuilds the site, and opens a pull request describing
+# what changed.  Nothing lands on main without a human merging the PR, so the
+# published site never moves on its own.
+#
+# Requires:
+#   - repository secret  NCBI_API_KEY
+#   - library/  committed, so there is a baseline to diff against
+#   - pipeline/ci_refresh_report.py
+# ---------------------------------------------------------------------------
+
+name: Monthly corpus refresh
+
+on:
+  schedule:
+    # 04:00 America/Los_Angeles on the 1st of each month (11:00 UTC).
+    # GitHub cron is always UTC; this drifts one hour with daylight saving.
+    - cron: "0 11 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: corpus-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install openpyxl
+
+      - name: Fail early if the baseline corpus is missing
+        run: |
+          if [ ! -f library/flash_library.json ]; then
+            echo "::error::library/flash_library.json is not committed."
+            echo "Without a baseline every record would be reported as new."
+            exit 1
+          fi
+
+      - name: Snapshot the current corpus
+        run: python pipeline/ci_refresh_report.py snapshot .refresh/before.json
+
+      - name: Harvest PubMed
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python pipeline/flash_harvest.py
+
+      - name: Rebuild deliverables and site source
+        run: python pipeline/build_site.py
+
+      - name: Sync generated site into the repository root
+        # build_site.py writes to website/mkdocs_source/, but deploy.yml builds
+        # from the repo root (mkdocs.yml + docs/). Keep the two in step.
+        run: |
+          rsync -a --delete website/mkdocs_source/docs/ docs/
+          cp website/mkdocs_source/mkdocs.yml mkdocs.yml
+
+      - name: Build the change report
+        id: report
+        run: python pipeline/ci_refresh_report.py report .refresh/before.json .refresh/pr_body.md
+
+      - name: Open pull request
+        if: steps.report.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: corpus/refresh
+          delete-branch: true
+          title: >-
+            Corpus refresh: +${{ steps.report.outputs.added }} /
+            -${{ steps.report.outputs.dropped }}
+            (${{ steps.report.outputs.total }} records)
+          body-path: .refresh/pr_body.md
+          labels: corpus-refresh
+          add-paths: |
+            library/**
+            docs/**
+            mkdocs.yml
+            pipeline/**
+          commit-message: |
+            Monthly corpus refresh
+
+            +${{ steps.report.outputs.added }} added,
+            -${{ steps.report.outputs.dropped }} dropped,
+            ${{ steps.report.outputs.total }} total records.
+
+      - name: Report no-op
+        if: steps.report.outputs.changed != 'true'
+        run: echo "No records added or dropped this month - no pull request opened."
