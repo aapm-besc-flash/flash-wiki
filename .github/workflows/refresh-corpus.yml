@@ -78,11 +78,21 @@ jobs:
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
 
+      - name: Seed NotebookLM delta state on first run
+        # build_notebooklm.py diffs against notebooklm_sources/_seen_pmids.json to
+        # decide what is new. With no state file it writes no delta at all, so the
+        # first run would silently produce nothing to upload. Seeding from the
+        # pre-harvest snapshot makes that first delta correct.
+        run: |
+          if [ ! -f notebooklm_sources/_seen_pmids.json ]; then
+            mkdir -p notebooklm_sources
+            python -c "import json; b=json.load(open('.refresh/before.json')); json.dump({'updated':'seeded','pmids':sorted(b)}, open('notebooklm_sources/_seen_pmids.json','w')); print('seeded delta state with', len(b), 'PMIDs')"
+          fi
+
       - name: Rebuild NotebookLM source pack
         # Regenerates the 11 category files and writes
         # notebooklm_sources/monthly_additions/FLASH_NEW_<date>.md containing only
         # the papers added this run - that one file is the monthly upload.
-        # State lives in notebooklm_sources/_seen_pmids.json, which is committed.
         run: python pipeline/build_notebooklm.py
 
       - name: Sync generated site into the repository root
