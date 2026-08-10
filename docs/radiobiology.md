@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*453 records. Newest first.*
+*476 records. Newest first.*
 
 ---
 
@@ -2006,6 +2006,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Synchrotron Microbeam Radiation Therapy in Combination With Gold Nanoparticles Improves Control of Mouse Melanoma.
+
+*Fernandez-Palomo C, Potez M, Haberthür D, Trappetti V, Pellicioli P, Fazzari J et al.* — International journal of radiation oncology, biology, physics (2025)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Microbeam radiation therapy (MRT) is a preclinical, spatially fractionated radiation therapy technique that delivers ultranarrow synchrotron x-ray beams at ultrahigh dose rates. MRT has demonstrated superior tumor control compared with synchrotron broad beam by triggering infiltration of CD8+ T cells and inducing a transient vascular permeability window.
+
+
+??? note "Abstract"
+    PURPOSE: Microbeam radiation therapy (MRT) is a preclinical, spatially fractionated radiation therapy technique that delivers ultranarrow synchrotron x-ray beams at ultrahigh dose rates. MRT has demonstrated superior tumor control compared with synchrotron broad beam by triggering infiltration of CD8+ T cells and inducing a transient vascular permeability window. This study aimed to investigate the effects of combining MRT with gold nanoparticles (AuNPs) on tumor growth, while also assessing whether MRT could enhance intratumoral accumulation of AuNPs. METHODS AND MATERIALS: Mice bearing B16-F10 melanoma in their ears were assigned to 7 experimental groups, each receiving distinct combinations of priming MRT (150 Gy peak dose), AuNPs, broad beam (6.1 Gy), and therapeutic MRT (400 Gy peak dose). MRT was delivered as an array of 50-µm-wide beams spaced 200 µm apart. Tumor growth was monitored daily, whereas 15-nm AuNP uptake was assessed with microCT imaging, electron microscopy, and Image Mass Cytometry. RESULTS: Priming MRT increased intratumoral AuNP accumulation by 2.5-fold on day 3 and 2.3-fold on day 5 compared with nonprimed controls. Image Mass Cytometry showed that AuNPs distributed across the tumor stroma and concentrated at the tumor periphery, near areas with high vascular density and in M2-like macrophages. Combining priming MRT with AuNPs and therapeutic MRT achieved the best tumor growth delay and regression with a median survival to 39.5 days; significantly longer than the 17 days achieved with priming MRT, AuNPs, and broad beam. The sensitizer enhancement ratio of 1.38 highlighted the efficacy of AuNP-enhanced MRT. CONCLUSIONS: Our study introduces a novel approach in cancer therapy, demonstrating that MRT serves as both a potent standalone treatment and an effective enhancer of drug delivery. MRT increased the tumoral concentration of AuNPs and could potentially do the same with other therapeutic agents. Our findings strongly advocate for the continued development of MRT-based combination regimens and highlight the clinical potential of this dual-mechanism approach.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40749779/) · [DOI](https://doi.org/10.1016/j.ijrobp.2025.07.1427)
+
+
+---
+
 ### First in vitro and in vivo experiments with ultra high-dose rate oxygen ion radiotherapy.
 
 *Karle C, Filosa DI, Akbarpour M, Schuhmacher N, Brons S, Cee R et al.* — Physics and imaging in radiation oncology (2025)  
@@ -2994,6 +3013,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### The Impact of Synchrotron Microbeam Radiation Therapy Combined With Broad Beam in a Preclinical Breast Cancer Model.
+
+*Engels E, Forrester H, Klein M, Bell C, Balderstone I, Brunt K et al.* — Advances in radiation oncology (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Both local tumor control and distant metastasis are important indicators of the efficacy of radiation therapy treatment. Synchrotron microbeam radiation therapy (MRT), spatially fractionated radiation delivered at ultrahigh dose rates, shows remarkable normal tissue sparing with excellent local control in some models.
+
+
+??? note "Abstract"
+    PURPOSE: Both local tumor control and distant metastasis are important indicators of the efficacy of radiation therapy treatment. Synchrotron microbeam radiation therapy (MRT), spatially fractionated radiation delivered at ultrahigh dose rates, shows remarkable normal tissue sparing with excellent local control in some models. Some MRT regimens trigger an antitumor immune response that contributes not only to the local but also to systemic treatment efficacy. Despite recent advances in the treatment of primary breast cancer, metastatic disease is still the major cause of treatment failure in the clinic. Here, in an aggressive preclinical triple-negative breast cancer model, we compared local tumor response and metastasis following different MRT treatment programs. METHODS AND MATERIALS: 4T1.2 mouse mammary tumors were treated with 300 Gy peak/7 Gy valley dose MRT and/or 8 Gy broad beam (BB) radiation, all delivered as daily fractionated programs (3 consecutive daily sessions of either MRT or BB or 1 MRT combined with 2 BB sessions, the first or last of the 3 fractions). The mice were euthanized on day 9 post last irradiation, when unirradiated control animals reached an ethical endpoint. Primary tumors were collected to evaluate immune cell prevalence, while lungs, spinal cords, and locoregional lymph nodes were collected to measure metastatic burden. In parallel, local tumor growth and survival were monitored. RESULTS: The combined MRT/BB treatment shifted the balance between pro- and antitumorigenic macrophages toward the accumulation of antitumorigenic macrophages in the tumor. Monitoring of the tumor volume and animal health indicated the benefit of the combined MRT/BB treatment for local control and treatment tolerance, while animal survival was only marginally longer for one combined schedule. The metastatic burden was similar for all 4 treatment schedules. CONCLUSIONS: The addition of a single MRT to BB treatment improved the primary tumor response. This provides a basis for future experiments incorporating adjuvant immunotherapy or chemotherapy to improve local and systemic treatment outcomes.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39687472/) · [DOI](https://doi.org/10.1016/j.adro.2024.101680) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493088/)
+
+
+---
+
 ### Manifestation of the FLASH effect in proton irradiation of embryos.
 
 *Akulinichev SV, Glukhov SI, Kuznetsova EA, Gavrilov YK, Kokontsev DA, Martynova VV et al.* — International journal of radiation biology (2025)  
@@ -3671,6 +3709,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### First in vitro measurement of VHEE relative biological effectiveness (RBE) in lung and prostate cancer cells using the ARES linac at DESY.
+
+*Wanstall HC, Burkart F, Dinter H, Kellermeier M, Kuropka W, Mayet F et al.* — Scientific reports (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Very high energy electrons (VHEE) are a potential candidate for radiotherapy applications. This includes tumours in inhomogeneous regions such as lung and prostate cancers, due to the insensitivity of VHEE to inhomogeneities.
+
+
+??? note "Abstract"
+    Very high energy electrons (VHEE) are a potential candidate for radiotherapy applications. This includes tumours in inhomogeneous regions such as lung and prostate cancers, due to the insensitivity of VHEE to inhomogeneities. This study explores how electrons in the VHEE range can be used to perform successful in vitro radiobiological studies. The ARES (accelerator research experiment at SINBAD) facility at DESY, Hamburg, Germany was used to deliver 154 MeV electrons to both prostate (PC3) and lung (A549) cancer cells in suspension. Dose was delivered to samples with repeatability and uniformity, quantified with Gafchromic film. Cell survival in response to VHEE was measured using the clonogenic assay to determine the biological effectiveness of VHEE in cancer cells for the first time using this method. Equivalent experiments were performed using 300 kVp X-rays, to enable VHEE irradiated cells to be compared with conventional photons. VHEE irradiated cancer cell survival was fitted to the linear quadratic (LQ) model (R2 = 0.96-0.97). The damage from VHEE and X-ray irradiated cells at doses between 1.41 and 6.33 Gy are comparable, suggesting similar relative biological effectiveness (RBE) between the two modalities. This suggests VHEE is as damaging as photon radiotherapy and therefore could be used to successfully damage cancer cells during radiotherapy. The RBE of VHEE was quantified as the relative doses required for 50% (D0.5) and 10% (D0.1) cell survival. Using these values, VHEE RBE was measured as 0.93 (D0.5) and 0.99 (D0.1) for A549 and 0.74 (D0.5) and 0.93 (D0.1) for PC3 cell lines respectively. For the first time, this study has shown that 154 MeV electrons can be used to effectively kill lung and prostate cancer cells, suggesting that VHEE would be a viable radiotherapy modality. Several studies have shown that VHEE has characteristics that would offer significant improvements over conventional photon radiotherapy for example, electrons are relatively easy to steer and can be used to deliver dose rapidly and with high efficiency. Studies have shown improved dose distribution with VHEE in treatment plans, in comparison to VMAT, indicating that VHEE can offer improved and safer treatment plans with reduced side effects. The biological response of cancer cells to VHEE has not been sufficiently studied as of yet, however this initial study provides some initial insights into cell damage. VHEE offers significant benefits over photon radiotherapy and therefore more studies are required to fully understand the biological effectiveness of VHEE.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38740830/) · [DOI](https://doi.org/10.1118/1.4758060) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493036/)
+
+
+---
+
 ### Detection of FLASH-radiotherapy tissue sparing in a 3D-spheroid model using DNA damage response markers.
 
 *Kyle AH, Karan T, Baker JHE, Püspöky Banáth J, Wang T, Liu A et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)  
@@ -4199,6 +4256,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38081067/) · [DOI](https://doi.org/10.1088/1361-6560/ad144e)
+
+
+---
+
+### Response of Cancer Stem Cells and Human Skin Fibroblasts to Picosecond-Scale Electron Irradiation at 1010 to 1011 Gy/s.
+
+*McAnespie CA, Chaudhary P, Calvin L, Streeter MJV, Nersysian G, McMahon SJ et al.* — International journal of radiation oncology, biology, physics (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** This study aimed to demonstrate for the first time the possibility of irradiating biological cells with gray (Gy)-scale doses delivered over single bursts of picosecond-scale electron beams, resulting in unprecedented dose rates of 1010 to 1011 Gy/s. METHODS AND MATERIALS: Cancer stem cells and human skin fibroblasts were irradiated with MeV-scale electron beams from a laser-driven source.
+
+
+??? note "Abstract"
+    PURPOSE: This study aimed to demonstrate for the first time the possibility of irradiating biological cells with gray (Gy)-scale doses delivered over single bursts of picosecond-scale electron beams, resulting in unprecedented dose rates of 1010 to 1011 Gy/s. METHODS AND MATERIALS: Cancer stem cells and human skin fibroblasts were irradiated with MeV-scale electron beams from a laser-driven source. Doses up to 3 Gy per pulse with a high spatial uniformity (coefficient of variance, 3%-6%) and within a timescale range of 10 to 20 picoseconds were delivered. Doses were characterized during irradiation and were found to be in agreement with Monte Carlo simulations. Cell survival and DNA double-strand break repair dynamics were studied for both cell lines using clonogenic assay and 53BP1 foci formation. The results were compared with reference x-rays at a dose rate of 0.49 Gy/min. RESULTS: Results from clonogenic assays of both cell lines up to 3 Gy were well fitted by a linear quadratic model with α = (0.68 ± 0.08) Gy-1 and β = (0.01 ± 0.01) Gy-2 for human skin fibroblasts and α = (0.51 ± 0.14) Gy-1 and β = (0.01 ± 0.01) Gy-2 for cancer stem cells. Compared with irradiation at 0.49 Gy/min, our experimental results indicate no statistically significant difference in cell survival rate for doses up to 3 Gy despite a significant increase in the α parameter, which may reflect more complex damage. Foci measurements showed no significant difference between irradiation at 1011 Gy/s and at 0.49 Gy/min. CONCLUSIONS: This study demonstrates the possibility of performing radiobiological studies with picosecond-scale laser-generated electron beams at ultrahigh dose rates of 1010 to1011 Gy/s. Preliminary results indicate, within statistical uncertainties, a significant increase of the α parameter, a possible indication of more complex damage induced by a higher density of ionizing tracks.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37956734/) · [DOI](https://doi.org/10.1016/j.ijrobp.2023.10.024)
 
 
 ---
@@ -7011,6 +7087,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Erratum to: Al-Hallaq H, Cao M, Kruse J, Klein E. Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates. Int J Radiat Oncol Biol Phys 2019;104:257-260.
+
+** — International journal of radiation oncology, biology, physics (2019)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/31327422/) · [DOI](https://doi.org/10.1016/j.ijrobp.2019.05.008)
+
+
+---
+
 ### Feasibility of proton FLASH effect tested by zebrafish embryo irradiation.
 
 *Beyreuther E, Brand M, Hans S, Hideghéty K, Karsch L, Leßmann E et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)  
@@ -7095,6 +7183,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/31097580/) · [DOI](https://doi.org/10.1016/j.radonc.2019.03.028) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4456101/)
+
+
+---
+
+### Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates.
+
+*Al-Hallaq H, Cao M, Kruse J, Klein E* — International journal of radiation oncology, biology, physics (2019)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/31047621/) · [DOI](https://doi.org/10.1016/j.ijrobp.2019.01.093)
 
 
 ---
@@ -7190,6 +7290,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/30177374/) · [DOI](https://doi.org/10.1016/j.radonc.2018.08.016)
+
+
+---
+
+### Effects of Synchrotron X-Ray Micro-beam Irradiation on Normal Mouse Ear Pinnae.
+
+*Potez M, Bouchet A, Wagner J, Donzelli M, Bräuer-Krisch E, Hopewell JW et al.* — International journal of radiation oncology, biology, physics (2018)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** To analyze the effects of micro-beam irradiation (MBI) on the normal tissues of the mouse ear. METHODS AND MATERIALS: Normal mouse ears are a unique model, which in addition to skin contain striated muscles, cartilage, blood and lymphatic vessels, and few hair follicles.
+
+
+??? note "Abstract"
+    PURPOSE: To analyze the effects of micro-beam irradiation (MBI) on the normal tissues of the mouse ear. METHODS AND MATERIALS: Normal mouse ears are a unique model, which in addition to skin contain striated muscles, cartilage, blood and lymphatic vessels, and few hair follicles. This renders the mouse ear an excellent model for complex tissue studies. The ears of C57BL6 mice were exposed to MBI (50-μm-wide micro-beams, spaced 200 μm between centers) with peak entrance doses of 200, 400, or 800 Gy (at ultra-high dose rates). Tissue samples were examined histopathologically, with conventional light and electron microscopy, at 2, 7, 15, 30, and 240 days after irradiation (dpi). Sham-irradiated animals acted as controls. RESULTS: Only an entrance dose of 800 Gy caused a significant increase in the thickness of both epidermal and dermal ear compartments seen from 15 to 30 dpi; the number of sebaceous glands was significantly reduced by 30 dpi. The numbers of apoptotic bodies and infiltrating leukocytes peaked between 15 and 30 dpi. Lymphatic vessels were prominently enlarged at 15 up to 240 dpi. Sarcomere lesions in striated muscle were observed after all doses, starting from 2 dpi; scar tissue within individual beam paths remained visible up to 240 dpi. Cartilage and blood vessel changes remained histologically inconspicuous. CONCLUSIONS: Normal tissues such as skin, cartilage, and blood and lymphatic vessels are highly tolerant to MBI after entrance doses up to 400 Gy. The striated muscles appeared to be the most sensitive to MBI. Those findings should be taken into consideration in future micro-beam radiation therapy treatment schedules.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/29559293/) · [DOI](https://doi.org/10.1016/j.ijrobp.2018.02.007)
 
 
 ---
@@ -7396,6 +7515,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.
+
+*Meesat R, Belmouaddine H, Allard JF, Tanguay-Renaud C, Lemay R, Brastaviceanu T et al.* — Proceedings of the National Academy of Sciences of the United States of America (2012)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Since the invention of cancer radiotherapy, its primary goal has been to maximize lethal radiation doses to the tumor volume while keeping the dose to surrounding healthy tissues at zero. Sadly, conventional radiation sources (γ or X rays, electrons) used for decades, including multiple or modulated beams, inevitably deposit the majority of their dose in front or behind the tumor, thus damaging he…
+
+
+??? note "Abstract"
+    Since the invention of cancer radiotherapy, its primary goal has been to maximize lethal radiation doses to the tumor volume while keeping the dose to surrounding healthy tissues at zero. Sadly, conventional radiation sources (γ or X rays, electrons) used for decades, including multiple or modulated beams, inevitably deposit the majority of their dose in front or behind the tumor, thus damaging healthy tissue and causing secondary cancers years after treatment. Even the most recent pioneering advances in costly proton or carbon ion therapies can not completely avoid dose buildup in front of the tumor volume. Here we show that this ultimate goal of radiotherapy is yet within our reach: Using intense ultra-short infrared laser pulses we can now deposit a very large energy dose at unprecedented microscopic dose rates (up to 10(11) Gy/s) deep inside an adjustable, well-controlled macroscopic volume, without any dose deposit in front or behind the target volume. Our infrared laser pulses produce high density avalanches of low energy electrons via laser filamentation, a phenomenon that results in a spatial energy density and temporal dose rate that both exceed by orders of magnitude any values previously reported even for the most intense clinical radiotherapy systems. Moreover, we show that (i) the type of final damage and its mechanisms in aqueous media, at the molecular and biomolecular level, is comparable to that of conventional ionizing radiation, and (ii) at the tumor tissue level in an animal cancer model, the laser irradiation method shows clear therapeutic benefits.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22927378/) · [DOI](https://doi.org/10.1073/pnas.1116286109) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3031873/)
+
+
+---
+
 ### Thermal effusivity changes as a precursor to moist desquamation.
 
 *Templeton A, Chu J, Sun M, Yao R, Sun J, Coon A et al.* — Radiation research (2012)  
@@ -7430,6 +7568,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22209153/) · [DOI](https://doi.org/10.1016/j.ijrobp.2011.10.016)
+
+
+---
+
+### Survival of tumor cells after proton irradiation with ultra-high dose rates.
+
+*Auer S, Hable V, Greubel C, Drexler GA, Schmid TE, Belka C et al.* — Radiation oncology (London, England) (2011)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Laser acceleration of protons and heavy ions may in the future be used in radiation therapy. Laser-driven particle beams are pulsed and ultra high dose rates of &gt;10⁹ Gy s⁻¹ may be achieved.
+
+
+??? note "Abstract"
+    BACKGROUND: Laser acceleration of protons and heavy ions may in the future be used in radiation therapy. Laser-driven particle beams are pulsed and ultra high dose rates of &gt;10⁹ Gy s⁻¹ may be achieved. Here we compare the radiobiological effects of pulsed and continuous proton beams. METHODS: The ion microbeam SNAKE at the Munich tandem accelerator was used to directly compare a pulsed and a continuous 20 MeV proton beam, which delivered a dose of 3 Gy to a HeLa cell monolayer within &lt; 1 ns or 100 ms, respectively. Investigated endpoints were G2 phase cell cycle arrest, apoptosis, and colony formation. RESULTS: At 10 h after pulsed irradiation, the fraction of G2 cells was significantly lower than after irradiation with the continuous beam, while all other endpoints including colony formation were not significantly different. We determined the relative biological effectiveness (RBE) for pulsed and continuous proton beams relative to x-irradiation as 0.91 ± 0.26 and 0.86 ± 0.33 (mean and SD), respectively. CONCLUSIONS: At the dose rates investigated here, which are expected to correspond to those in radiation therapy using laser-driven particles, the RBE of the pulsed and the (conventional) continuous irradiation mode do not differ significantly.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22008289/) · [DOI](https://doi.org/10.1007/s00411-011-0365-x) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3032345/)
 
 
 ---
@@ -7582,6 +7739,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18054372/) · [DOI](https://doi.org/10.1016/j.visres.2007.10.010)
+
+
+---
+
+### \[Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor\].
+
+*Sevan&#x27;kaev AV, Potetnia OI, Potetnia VI, Koriakina EV, Pozdyshkina OV, Piatenko VS* — Radiatsionnaia biologiia, radioecologiia (2007)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Summarized results of 5 repeated experiments of comparative study of radiation effects of the pulse reactor BARS-6 either in a single pulse or a continuos irradiation mode on human lymphocytes are presented. Higher efficiency (30-40%) of continuous irradiation (exposure duration 1 h) rather than pulse irradiation with ultra-high dose rates (1-2.5) x 10(6) Gy/min (pulse duration 65 micros) was conf…
+
+
+??? note "Abstract"
+    Summarized results of 5 repeated experiments of comparative study of radiation effects of the pulse reactor BARS-6 either in a single pulse or a continuos irradiation mode on human lymphocytes are presented. Higher efficiency (30-40%) of continuous irradiation (exposure duration 1 h) rather than pulse irradiation with ultra-high dose rates (1-2.5) x 10(6) Gy/min (pulse duration 65 micros) was confirmed. The efficiency ratio did not depend on the temperature, 20 degrees C or 0 degrees C, during the exposure. Cell repair system and chromatin conformation influence on the results obtained is discussed.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/18380325/)
 
 
 ---
@@ -8042,6 +8218,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
+
+*Cygler J, Klassen NV, Ross CK, Bichay TJ, Raaphorst GP* — Radiation research (1994)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** This in vitro study was undertaken to determine if ultrahigh dose rates could improve the radiation response of human tumors. Two cell lines, human glioma (U-87 MG), which is radioresistant, and human melanoma (HT-144), which is radiosensitive, were irradiated at ultrahigh and high dose rates under aerobic and anoxic conditions to determine if their oxygen enhancement ratios are modified by dose r…
+
+
+??? note "Abstract"
+    This in vitro study was undertaken to determine if ultrahigh dose rates could improve the radiation response of human tumors. Two cell lines, human glioma (U-87 MG), which is radioresistant, and human melanoma (HT-144), which is radiosensitive, were irradiated at ultrahigh and high dose rates under aerobic and anoxic conditions to determine if their oxygen enhancement ratios are modified by dose rate. In fact, the survival curves, and hence the oxygen enhancement ratios, were found to be independent of the dose rate. The oxygen enhancement ratio for glioma cells irradiated in plateau phase was 2.8 (+/- 0.3). The oxygen enhancement ratio was 2.7 (+/- 0.4) for melanoma cells in plateau phase and 2.8 (+/- 0.3) in exponential phase. These results indicate that there is no advantage in treating these tumors using ultrahigh dose rates instead of conventional dose rates.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/7938458/)
+
+
+---
+
 ### The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
 
 *Lachapelle P, Benoit J, Blain L, Guité P, Roy MS* — Vision research (1990)  
@@ -8232,6 +8427,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Effects of modifiers of the yield of hydroxyl radicals on the radiosensitivity of mammalian cells at ultrahigh dose rates.
+
+*Michaels HB, Peterson EC, Epp ER* — Radiation research (1983)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Experiments were conducted to investigate the effects of increasing or decreasing the yield of hydroxyl radicals (.OH) reacting with target molecules on the survival of CHO cells irradiated in a thin layer with single 3-nsec pulses of electrons. Dimethyl sulfoxide (DMSO), a known radioprotector, was used as an .OH scavenger.
+
+
+??? note "Abstract"
+    Experiments were conducted to investigate the effects of increasing or decreasing the yield of hydroxyl radicals (.OH) reacting with target molecules on the survival of CHO cells irradiated in a thin layer with single 3-nsec pulses of electrons. Dimethyl sulfoxide (DMSO), a known radioprotector, was used as an .OH scavenger. The gas nitrous oxide (N2O), which scavenges hydrated electrons and in the process generates an additional yield of .OH, was used in an attempt to produce sensitization by increasing the amount of .OH-induced cellular damage. It was found that DMSO at high concentration was an effective radioprotective agent in cells equilibrated with nitrogen, air, and N2O and irradiated at ultrahigh dose rates. Sensitization by N2O was observed, but only under certain conditions, specifically, when a high concentration of the .OH scavenger DMSO was also present. The enhancement ratio (ER) for oxygen sensitization was reduced in the presence of DMSO, as was the ER for sensitization by misonidazole. Interpretation of these results according to radiation chemistry considerations will be discussed.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/6684311/)
+
+
+---
+
 ### \[Bladder tumors treated with radical cystectomy. Results of 78 cases\].
 
 *Perrin P, Charroin P, Durand L* — Journal d&#x27;urologie (1983)  
@@ -8278,6 +8492,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/7179753/) · [DOI](https://doi.org/10.1016/0042-6989(82)90145-6)
+
+
+---
+
+### Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.
+
+*Michaels HB, Ling CC, Epp ER, Peterson EC* — Radiation research (1981)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/7208811/)
 
 
 ---
@@ -8332,6 +8558,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Repair of sublethal damage in mammalian cells irradiated at ultrahigh dose rates.
+
+*Gerweck LE, Epp ER, Michaels HB, Clifton Ling C, Peterson EC* — Radiation research (1979)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/424512/)
+
+
+---
+
 ### Oxygen diffusion into mammalian cells following ultrahigh dose rate irradiation and lifetime estimates of oxygen-sensitive species.
 
 *Ling CC, Michaels HB, Epp ER, Peterson EC* — Radiation research (1978)  
@@ -8340,6 +8578,49 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/734054/)
+
+
+---
+
+### Oxygen sensitization of CHO cells at ultrahigh dose rates: prelude to oxygen diffusion studies.
+
+*Michaels HB, Epp ER, Ling CC, Peterson EC* — Radiation research (1978)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/569880/)
+
+
+---
+
+### The effects of ultra-high dose rates on survival and sublethal repair in Chinese-hamster cells.
+
+*Schulz RJ, Nath R, Testa JR* — International journal of radiation biology and related studies in physics, chemistry, and medicine (1978)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/304852/) · [DOI](https://doi.org/10.1080/09553007714551521)
+
+
+---
+
+### Chromosome aberration yields induced in human lymphocytes by 15 MeV electrons given at a conventional dose-rate and in microsecond pulses.
+
+*Purrott RJ, Reeder EJ* — International journal of radiation biology and related studies in physics, chemistry, and medicine (1977)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Yields of unstable chromosome aberration were analysed in human lymphocytes after in vitro exposure to 15 MeV electrons. Two dose-effect curves were prepared.
+
+
+??? note "Abstract"
+    Yields of unstable chromosome aberration were analysed in human lymphocytes after in vitro exposure to 15 MeV electrons. Two dose-effect curves were prepared. In one, doses of 44 to 742 rad were given at 100 rad/min, and in the other doses of 53 to 764 rad were each delivered in single microsecond pulses. No significant difference could be found between the two sets of data when analysed in terms of the quadratic model of aberration production. Good agreement was observed with other dose-response studies in this laboratory, in which human lymphocytes were exposed to 250 kVp X-rays and 60CO gamma-rays at conventional rates of 100 and 50 rad/min, respectively. Comparison with the results of a low-LET dose-rate experiment shows that the yield of dicentric aberrations remains constant overa wide range, i.e. 25 to 6X 10(9), 100 to 1-5 X 10(10), and 150 to 3 X 10(10) rad/min, respectively, for doses of 100, 250 and 500 rad. Radiochemical consumption of oxygen occuring in the lymphocytes during the single microsecond exposures may amount to less than 5 per cent of the total oxygen present in the blood samples, immediately before irradiation. The data also indicate that the ultra-high dose-rates currently available are insufficient to overcome the therapeutic problem of hypoxic radioresistant tumour cells.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/300727/) · [DOI](https://doi.org/10.1080/09553007714550291)
 
 
 ---
@@ -8380,6 +8661,73 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### A study of the biological effectiveness of high-energy electrons at ultra-high dose rates using dry eggs of Artemia.
+
+*Iwasaki T, Kato Y, Antoku S* — Radiation research (1974)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10874936/)
+
+
+---
+
+### \[Techniques of radiotherapy in so-called operable carcinoma of the breast\].
+
+*Pierquin B* — Revue francaise de gynecologie et d&#x27;obstetrique (1973)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** The techniques of radiotherapy alone in carcinoma of the breast are determined by the possibilities of durable cure of the tumoral process using locoregional treatment. It seems undisputable that the risk of metastases at a distance from the tumor is related to the topographical as well as volum extension of lymph node involvement.
+
+
+??? note "Abstract"
+    The techniques of radiotherapy alone in carcinoma of the breast are determined by the possibilities of durable cure of the tumoral process using locoregional treatment. It seems undisputable that the risk of metastases at a distance from the tumor is related to the topographical as well as volum extension of lymph node involvement. Such risk is low with N-; it rapidly increases with lower axillary N+; it predominates with medial mammary N+; it becomes almost constant with upper axillary (subclavian) and supraclavicular N+. This explains why dose distribution should aim at curing, even at the price of some cosmetic or functional risk, tumoral lesions of the mammary gland, of the lower axillary area and, to a certain extent, of the medial mammary area. On the contrary, it is illusory to deliver an overdosage at ultrahigh dose-rates to the sub- and supraclavicular areas, where the chances for durable cure are almost nul if lymph nodes are invaded. This explains why curative radiotherapy alone appears only indicated in little developed cancers in their mammary (T1 or T2) as well as lymph node (N0 or N1 a) aspects. This also explains why such a responsability implies for the radiotherapist absolutely perfect technical conditions of spotting, centring and dose-measurements; careful protection of all healthy structures surrounding the target-volumes should, in particular, be obtained (for instance, accurate delimitation of beams, use of lead shields or even compensatory wedges should provide appropriate protection to the lung parenchyma, pectoral muscle, head of the humerus, laryngotracheal system). Finally, it is in the axillary area that the major technical hazards are encountered with: an insufficient dose is liable to cause lymph node recurrence, an excessive dose is liable to provoke irreversible muscular, articular, vascular or nervous sequelae. Provided a high level of technicity, it should be admitted to-day that a durable locoregional cure can be obtained in the vast majority of cases with but minimal tissue sequelae.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/17474652/)
+
+
+---
+
+### An equation for predicting the surviving fraction of cells irradiated with single pulses delivered at ultra-high dose rates.
+
+*Weiss H* — Radiation research (1972)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/5025236/)
+
+
+---
+
+### Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
+
+*Berry RJ, Stedeford JB* — The British journal of radiology (1972)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/5015264/) · [DOI](https://doi.org/10.1259/0007-1285-45-531-171)
+
+
+---
+
+### Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
+
+*Berry RJ, Stedeford JB* — The British journal of radiology (1971)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/5090736/)
+
+
+---
+
 ### Response of photobacterium fischeri MAV exposed to an ultra high dose-rate pulsed electron beam.
 
 *Lerch IA* — Radiation research (1971)  
@@ -8400,6 +8748,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/5435969/) · [DOI](https://doi.org/10.1007/BF01189087)
+
+
+---
+
+### Survival of mammalian cells exposed to x rays at ultra-high dose-rates.
+
+*Berry RJ, Hall EJ, Forster DW, Storr TH, Goodman MJ* — The British journal of radiology (1969)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/4975207/) · [DOI](https://doi.org/10.1259/0007-1285-42-494-102)
 
 
 ---

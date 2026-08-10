@@ -2,7 +2,7 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*205 records. Newest first.*
+*206 records. Newest first.*
 
 ---
 
@@ -3897,6 +3897,25 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22496068/) · [DOI](https://doi.org/10.1259/bjr/17827549) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2073776/)
+
+
+---
+
+### Very high energy electrons (50-250 MeV) and radiation therapy.
+
+*Papiez L, DesRosiers C, Moskvin V* — Technology in cancer research &amp; treatment (2002)  
+
+<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** High energy electron beams in the range 150-250 MeV are investigated to evaluate their feasibility for radiotherapy. Monte Carlo simulation results from PENELOPE code are used to determine lateral spread and penetration of these beams.
+
+
+??? note "Abstract"
+    High energy electron beams in the range 150-250 MeV are investigated to evaluate their feasibility for radiotherapy. Monte Carlo simulation results from PENELOPE code are used to determine lateral spread and penetration of these beams. It is shown that dose distribution of electron beams compare favorably with photon beams. Electromagnetic control of electron beams enables scanned intensity modulation not possible with photon beams.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/12622516/) · [DOI](https://doi.org/10.1177/153303460200100202)
 
 
 ---
