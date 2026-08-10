@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*258 records. Newest first.*
+*269 records. Newest first.*
 
 ---
 
@@ -648,6 +648,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41619266/) · [DOI](https://doi.org/10.1002/mp.70287) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9545838/)
+
+
+---
+
+### The dual gap ionization chamber: a novel ionization chamber design for reference dosimetry to automatically correct for recombination losses in emerging radiotherapy modalities.
+
+*Orts M, Rossomme S, Souris K, de Beco V, Haas T, Durny N et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective.Current dosimetry protocols typically recommend multiple measurements to determine recombination correction factors (ks), increasing the time required for dose measurements in the quality assurance workflow. We propose a novel dual-gap ionization chamber (DGIC) design for reference dosimetry featuring two air gaps of different thicknesses within a single device.
+
+
+??? note "Abstract"
+    Objective.Current dosimetry protocols typically recommend multiple measurements to determine recombination correction factors (ks), increasing the time required for dose measurements in the quality assurance workflow. We propose a novel dual-gap ionization chamber (DGIC) design for reference dosimetry featuring two air gaps of different thicknesses within a single device. This design enables the determination ofksdirectly from the same measurements required to determine absorbed dose-to-water. Thus, eliminating the need for separate measurements to correct for recombination losses. The approach relies on analyzing the charge ratio between the two gaps, under ultra high dose rates (UHDR) and dose per pulse (DPP) under ultra high DPP (UHDPP) conditions.Approach.A DGIC prototype with electrode distances of 1 and 0.6 mm was developed and tested using different beam qualities: (1) a 240 MeV u-1clinical carbon ion beam at conventional field dose rates of 25 Gy min-1, (2) a 226 MeV continuous proton beam with a current between 5 and 800 nA at the cyclotron exit, where the maximum approximately corresponds to 200 Gy s-1in the treatment room and (3) a 9 MeV electron beam with a DPP from 0.03 to 4.2 Gy, a frequency of 60 Hz and a pulse duration between 0.7-3.9μs.ks-factors were derived for the top cavity of 1 mm gap using the DGIC method and compared against the following: for proton and carbon ions, comparisons were made with the Jaffé plot method. For the electron beam, it was compared with a dose rate independent device, a flashDiamond detector, and the integrated current transformer of the LINAC.Main results.A DGIC prototype was able to successfully correct for recombination losses under different beam modalities: for initial recombination in a clinical carbon ion beam, volume recombination in UHDR proton beam with field dose rates of 200 Gy s-1and in UHDPP electron beams, where four pulses were delivered with DPP up to 4.2 Gy (this DPP corresponds to an effective pulse duration of 3.9μs).Significance.A DGIC design and its inherent method provides a practical and accurate way of determining dose and dose rate in emerging radiotherapy treatment modalities.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41558168/) · [DOI](https://doi.org/10.1088/1361-6560/ae3b05)
 
 
 ---
@@ -3203,6 +3222,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### Development and characterization of a versatile mini-beam collimator for pre-clinical photon beam irradiation.
+
+*Stengl C, Arbes E, Thai LJ, Echner G, Vedelago J, Jansen J et al.* — Medical physics (2023)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Interest in spatial fractionation radiotherapy has exponentially increased over the last decade as a significant reduction of healthy tissue toxicity was observed by mini-beam irradiation. Published studies, however, mostly use rigid mini-beam collimators dedicated to their exact experimental arrangement such that changing the setup or testing new mini-beam collimator configurations becomes challe…
+
+
+??? note "Abstract"
+    BACKGROUND: Interest in spatial fractionation radiotherapy has exponentially increased over the last decade as a significant reduction of healthy tissue toxicity was observed by mini-beam irradiation. Published studies, however, mostly use rigid mini-beam collimators dedicated to their exact experimental arrangement such that changing the setup or testing new mini-beam collimator configurations becomes challenging and expensive. PURPOSE: In this work, a versatile, low-cost mini-beam collimator was designed and manufactured for pre-clinical applications with X-ray beams. The mini-beam collimator enables variability of the full width at half maximum (FWHM), the center-to-center distance (ctc), the peak-to-valley dose ratio (PVDR), and the source-to-collimator distance (SCD). METHODS: The mini-beam collimator is an in-house development, which was constructed of 10 ×  40 mm2 tungsten or brass plates. These metal plates were combined with 3D-printed plastic plates that can be stacked together in the desired order. A standard X-ray source was used for the dosimetric characterization of four different configurations of the collimator, including a combination of plastic plates of 0.5, 1, or 2 mm width, assembled with 1 or 2 mm thick metal plates. Irradiations were done at three different SCDs for characterizing the performance of the collimator. For the SCDs closer to the radiation source, the plastic plates were 3D-printed with a dedicated angle to compensate for the X-ray beam divergence, making it possible to study ultra-high dose rates of around 40 Gy/s. All dosimetric quantifications were performed using EBT-XD films. Additionally, in vitro studies with H460 cells were carried out. RESULTS: Characteristic mini-beam dose distributions were obtained with the developed collimator using a conventional X-ray source. With the exchangeable 3D-printed plates, FWHM and ctc from 0.52 to 2.11 mm, and from 1.77 to 4.61 mm were achieved, with uncertainties ranging from 0.01% to 8.98%, respectively. The FWHM and ctc obtained with the EBT-XD films are in agreement with the design of each mini-beam collimator configuration. For dose rates in the order of several Gy/min, the highest PVDR of 10.09 ± 1.08 was achieved with a collimator configuration of 0.5 mm thick plastic plates and 2 mm thick metal plates. Exchanging the tungsten plates with the lower-density metal brass reduced the PVDR by approximately 50%. Also, increasing the dose rate to ultra-high dose rates was feasible with the mini-beam collimator, where a PVDR of 24.26 ± 2.10 was achieved. Finally, it was possible to deliver and quantify mini-beam dose distribution patterns in vitro. CONCLUSIONS: With the developed collimator, we achieved various mini-beam dose distributions that can be adjusted according to the needs of the user in regards to FWHM, ctc, PVDR and SCD, while accounting for beam divergence. Therefore, the designed mini-beam collimator may enable low-cost and versatile pre-clinical research on mini-beam irradiation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37145971/) · [DOI](https://doi.org/10.1002/mp.16432)
+
+
+---
+
 ### The first PET glimpse of a proton FLASH beam.
 
 *Abouzahr F, Cesar JP, Crespo P, Gajda M, Hu Z, Kaye W et al.* — Physics in medicine and biology (2023)  
@@ -3363,6 +3401,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36739297/) · [DOI](https://doi.org/10.1038/s41598-023-28192-0) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3493036/)
+
+
+---
+
+### Alanine response to low energy synchrotron x-ray radiation.
+
+*van den Elzen P, Sander T, Palmans H, McManus M, Woodall N, Lee N et al.* — Physics in medicine and biology (2023)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective. The radiation response of alanine is very well characterized in the MV photon energy range where it can be used to determine the dose delivered with an accuracy better than 1%, making it suitable as a secondary standard detector in cancer radiation therapy.
+
+
+??? note "Abstract"
+    Objective. The radiation response of alanine is very well characterized in the MV photon energy range where it can be used to determine the dose delivered with an accuracy better than 1%, making it suitable as a secondary standard detector in cancer radiation therapy. This is not the case in the very low energy keV x-ray range where the alanine response is affected by large uncertainties and is strongly dependent on the x-ray beam energy. This motivated the study undertaken here.Approach. Alanine pellets with a nominal thickness of 0.5 mm and diameter of 5 mm were irradiated with monoenergetic x-rays at the Diamond Light Source synchrotron, to quantify their response in the 8-20 keV range relative to60Co radiation. The absorbed dose to graphite was measured with a small portable graphite calorimeter, and the DOSRZnrc code in the EGSnrc Monte Carlo package was used to calculate conversion factors between the measured dose to graphite and the absorbed dose to water delivered to the alanine pellets. GafChromic EBT3 films were used to measure the beam profile for modelling in the MC simulations.Main results. The relative responses measured in this energy range were found to range from 0.616 to 0.643, with a combined relative expanded uncertainty of 3.4%-3.5% (k= 2), where the majority of the uncertainty originated from the uncertainty in the alanine readout, due to the small size of the pellets used.Significance. The measured values were in good agreement with previously published data in the overlapping region of x-ray energies, while this work extended the dataset to lower energies. By measuring the response to monoenergetic x-rays, the response to a more complex broad-spectrum x-ray source can be inferred if the spectrum is known, meaning that this work supports the establishment of alanine as a secondary standard dosimeter for low-energy x-ray sources.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36731142/) · [DOI](https://doi.org/10.1088/1361-6560/acb886)
 
 
 ---
@@ -3949,6 +4006,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### Determination of beam quality correction factors for the Roos plane-parallel ionisation chamber exposed to very high energy electron (VHEE) beams using Geant4.
+
+*McManus M, Romano F, Royle G, Botnariuc D, Shipley D, Palmans H et al.* — Physics in medicine and biology (2022)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Detailed characterisation of the Roos secondary standard plane-parallel ionisation chamber has been conducted in a novel 200 MeV Very High Energy Electron (VHEE) beam with reference to the standard 12 MeV electron calibration beam used in our experimental work. Stopping-power-ratios and perturbation factors have been determined for both beams and used to calculated the beam quality correction fact…
+
+
+??? note "Abstract"
+    Detailed characterisation of the Roos secondary standard plane-parallel ionisation chamber has been conducted in a novel 200 MeV Very High Energy Electron (VHEE) beam with reference to the standard 12 MeV electron calibration beam used in our experimental work. Stopping-power-ratios and perturbation factors have been determined for both beams and used to calculated the beam quality correction factor using the Geant4 general purpose MC code. These factors have been calculated for a variety of charged particle transport parameters available in Geant4 which were found to pass the Fano cavity test. Stopping-power-ratios for the 12 MeV electron calibration beam quality were found to agree within uncertainties to that quoted by current dosimetry protocols. Perturbation factors were found to vary by up-to 4% for the calibration beam depending on the parameter configuration, compared with only 0.8% for the VHEE beam. Beam quality correction factors were found to describe an approximately 10% lower dose than would be originally calculated if a beam quality correction were not accounted for. Moreover, results presented here largely resolve unphysical chamber measurements, such as collection efficiencies greater than 100%, and assist in the accurate determination of absorbed dose and ion recombination in secondary standard ionisation chambers.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35240589/) · [DOI](https://doi.org/10.1088/1361-6560/ac5a94)
+
+
+---
+
 ### Response of diamond detectors in ultra-high dose-per-pulse electron beams for dosimetry at FLASH radiotherapy.
 
 *Kranzer R, Schüller A, Bourgouin A, Hackel T, Poppinga D, Lapp M et al.* — Physics in medicine and biology (2022)  
@@ -4405,6 +4481,18 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### Corrigendum to &quot;Challenges of dosimetry of ultra-short pulsed very high energy electron beams&quot; \[Phys. Med. 42 (2017) 327-331\].
+
+*Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, DesRosiers C et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32624349/) · [DOI](https://doi.org/10.1016/j.ejmp.2020.06.022)
+
+
+---
+
 ### In search of a one plan solution for VMAT post-mastectomy chest wall irradiation.
 
 *Monajemi TT, Oliver PAK, Day A, Yewondwossen M* — Journal of applied clinical medical physics (2020)  
@@ -4690,6 +4778,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
+
+*Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, DesRosiers C et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2017)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Very high energy electrons (VHEE) in the range from 100 to 250MeV have the potential of becoming an alternative modality in radiotherapy because of their improved dosimetric properties compared with 6-20MV photons generated by clinical linear accelerators (LINACs). VHEE beams have characteristics unlike any other beams currently used for radiotherapy: femtosecond to picosecond duration electron bu…
+
+
+??? note "Abstract"
+    Very high energy electrons (VHEE) in the range from 100 to 250MeV have the potential of becoming an alternative modality in radiotherapy because of their improved dosimetric properties compared with 6-20MV photons generated by clinical linear accelerators (LINACs). VHEE beams have characteristics unlike any other beams currently used for radiotherapy: femtosecond to picosecond duration electron bunches, which leads to very high dose per pulse, and energies that exceed that currently used in clinical applications. Dosimetry with conventional online detectors, such as ionization chambers or diodes, is a challenge due to non-negligible ion recombination effects taking place in the sensitive volumes of these detectors. FLUKA and Geant4 Monte Carlo (MC) codes have been employed to study the temporal and spectral evolution of ultrashort VHEE beams in a water phantom. These results are complemented by ion recombination measurements employing an IBA CC04 ionization chamber for a 165MeV VHEE beam. For comparison, ion recombination has also been measured using the same chamber with a conventional 20MeV electron beam. This work demonstrates that the IBA CC04 ionization chamber exhibits significant ion recombination and is therefore not suitable for dosimetry of ultrashort pulsed VHEE beams applying conventional correction factors. Further study is required to investigate the applicability of ion chambers in VHEE dosimetry.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/28506453/) · [DOI](https://doi.org/10.1016/j.ejmp.2017.04.029)
+
+
+---
+
 ### High dose-per-pulse electron beam dosimetry - A model to correct for the ion recombination in the Advanced Markus ionization chamber.
 
 *Petersson K, Jaccard M, Germond JF, Buchillier T, Bochud F, Bourhis J et al.* — Medical physics (2017)  
@@ -4709,6 +4816,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### Assessment of the quality of very high-energy electron radiotherapy planning.
+
+*Palma B, Bazalova-Carter M, Hårdemark B, Hynning E, Qu B, Loo BW et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2016)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** To assess the quality of very-high energy electron (VHEE) scanning pencil beam radiation therapy in relation to state-of-the-art volumetric modulated arc therapy (VMAT) and to determine the extent of its application. MATERIAL AND METHODS: We planned five clinical cases with VHEE scanning pencil beams of 100 and 120MeV, equally distributed in a coplanar arrangement around the patient.
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: To assess the quality of very-high energy electron (VHEE) scanning pencil beam radiation therapy in relation to state-of-the-art volumetric modulated arc therapy (VMAT) and to determine the extent of its application. MATERIAL AND METHODS: We planned five clinical cases with VHEE scanning pencil beams of 100 and 120MeV, equally distributed in a coplanar arrangement around the patient. The clinical cases included acoustic neuroma, and liver, lung, esophagus, and anal cancer cases. We performed Monte Carlo (MC) dose calculations and we optimized the dose in a research version of RayStation. VHEE plan performance was compared against clinically delivered VMAT. RESULTS: With equal target coverage, mean doses to organs at risk (OARs) were on average 22% lower for the VHEE plans compared to the VMAT plans. Dose conformity was equal or superior compared to the VMAT plans and integral dose to the body was in average 14% (9-22%) lower for the VHEE plans. CONCLUSIONS: The dosimetric advantages of VHEE as demonstrated for a variety of clinical cases, combined with the theoretical ultra fast treatment delivery, afford VHEE scanning pencil beam radiotherapy a suitable and potentially superior alternative for cancer radiotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/26898508/) · [DOI](https://doi.org/10.1016/j.radonc.2016.01.017)
+
+
+---
+
 ### Tolerance of Superficial Dose to Setup Error With Tomotherapy: Is a Skin Flash Tool Required?
 
 *Galle JO, Chilukuri MB, Buckley SL, Hall MJ, Wilcox LR, Ove R* — Technology in cancer research &amp; treatment (2016)  
@@ -4724,6 +4850,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25953965/) · [DOI](https://doi.org/10.1177/1533034615583760)
+
+
+---
+
+### Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.
+
+*Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, Evans P et al.* — Physics in medicine and biology (2014)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Very high energy electrons (VHEE) in the range from 100-250 MeV have the potential of becoming an alternative modality in radiotherapy because of their improved dosimetry properties compared with MV photons from contemporary medical linear accelerators. Due to the need for accurate dosimetry of small field size VHEE beams we have performed dose measurements using EBT2 Gafchromic® film.
+
+
+??? note "Abstract"
+    Very high energy electrons (VHEE) in the range from 100-250 MeV have the potential of becoming an alternative modality in radiotherapy because of their improved dosimetry properties compared with MV photons from contemporary medical linear accelerators. Due to the need for accurate dosimetry of small field size VHEE beams we have performed dose measurements using EBT2 Gafchromic® film. Calibration of the film has been carried out for beams of two different energy ranges: 20 MeV and 165 MeV from conventional radio frequency linear accelerators. In addition, EBT2 film has been used for dose measurements with 135 MeV electron beams produced by a laser-plasma wakefield accelerator. The dose response measurements and percentage depth dose profiles have been compared with calculations carried out using the general-purpose FLUKA Monte Carlo (MC) radiation transport code. The impact of induced radioactivity on film response for VHEEs has been evaluated using the MC simulations. A neutron yield of the order of 10(-5) neutrons cm(-2) per incident electron has been estimated and induced activity due to radionuclide production is found to have a negligible effect on total dose deposition and film response. Neutron and proton contribution to the equivalent doses are negligible for VHEE. The study demonstrates that EBT2 Gafchromic film is a reliable dosimeter that can be used for dosimetry of VHEE. The results indicate an energy-independent response of the dosimeter for 20 MeV and 165 MeV electron beams and has been found to be suitable for dosimetry of VHEE.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25207591/) · [DOI](https://doi.org/10.1088/0031-9155/59/19/5811)
 
 
 ---
@@ -4804,6 +4949,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### \[Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces\].
+
+*Tsyb TS, Komarova EV, Malinova IV, Potetnia VI* — Radiatsionnaia biologiia, radioecologiia (2007)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** We report here a comparative analysis of RBE for lethality of a single pulse (duration 65 micros) of fast neutron with ultra high dose rates (up to 6 x 10(6) Gy/s) and continuous neutron radiation (3.6 x 10(3) s) of the pulse reactor BARS-6. Three diploid strains, one haploid strain and three diploid repair-deficient strains (rad52-1/rad52-1; rad54/rad54; rad2/rad2) were used.
+
+
+??? note "Abstract"
+    We report here a comparative analysis of RBE for lethality of a single pulse (duration 65 micros) of fast neutron with ultra high dose rates (up to 6 x 10(6) Gy/s) and continuous neutron radiation (3.6 x 10(3) s) of the pulse reactor BARS-6. Three diploid strains, one haploid strain and three diploid repair-deficient strains (rad52-1/rad52-1; rad54/rad54; rad2/rad2) were used. The RBE values (D(0gamma)/1D(0n)) of a single pulse and continuous neutron irradiation were equal (1.7-1.8) with maximum RBE (4.1-3.1) in region of low doses (shoulder region). Haploid cells were found to be more (3 times) sensitive to both gamma-rays and neutrons than the wild type. There was no obvious decrease in the RBE of 1.9 in highly sensitive haploid cells as compared with highly resistant diploid cells. The repair-deficient strains (rad52-1/rad52-1; rad54/rad54) were more (up to 10 fold) sensitive to both neutrons and gamma-rays as compared with their parent line. The RBE values of 1.5-1.7 of neutrons for these mutants (independent by of the mode of irradiation) were found. The repair-deficient mutant rad2/rad2 had similar sensitivity as a wild type and a RBE value was 2.0. We have concluded that biological effectiveness of the neutrons of pulse reactor BARS-6 was independent of the dose-rate, differing up to 10(8) fold. The RBE didn&#x27;t vary significantly with the capacity of cells to repair DNA damages.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/18051688/)
+
+
+---
+
 ### Method to plan, administer, and verify supine craniospinal irradiation.
 
 *Michalski JM, Klein EE, Gerber R* — Journal of applied clinical medical physics (2002)  
@@ -4842,6 +5006,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
+### Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
+
+*Tillman C, Grafström G, Jonsson AC, Jönsson BA, Mercer I, Mattsson S et al.* — Radiology (1999)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** To determine whether intense laser-produced x rays have an increased radiation hazard. MATERIALS AND METHODS: Mammalian cells were exposed to x rays from a laser-produced plasma that produced ultrahigh peak absorbed dose rates, up to a factor of 10(10) higher than those produced by conventional x rays used in imaging.
+
+
+??? note "Abstract"
+    PURPOSE: To determine whether intense laser-produced x rays have an increased radiation hazard. MATERIALS AND METHODS: Mammalian cells were exposed to x rays from a laser-produced plasma that produced ultrahigh peak absorbed dose rates, up to a factor of 10(10) higher than those produced by conventional x rays used in imaging. The cell survival was studied as a function of the absorbed dose. The survival of mammalian cells exposed to high peak absorbed dose rates with laser-produced x rays was compared with the survival of cells exposed to standard absorbed dose rates with conventional x-ray sources. Comparative survival studies were performed by using a conventional x-ray tube and a cobalt 60 source. The absorbed doses in the irradiation field were measured with thermoluminescent dosimeters. RESULTS: Cell survival following irradiation by filtered, laser-produced x rays with a high dose rate was not markedly different from the survival following irradiation by conventional sources. There was, however, a notable difference between the survival after exposure to filtered, laser-produced x rays and the survival after exposure to unfiltered laser-produced x rays. CONCLUSION: Exposure to filtered, laser-produced x rays with a high dose rate does not lead to increased harm to mammalian cells exposed in vitro compared with the harm from exposure to x rays from conventional sources, which indicates that the use of high-power laser facilities for medical imaging is justified.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10580967/) · [DOI](https://doi.org/10.1148/radiology.213.3.r99dc13860)
+
+
+---
+
 ### Comparison of MRI with CT for the radiotherapy planning of prostate cancer: a feasibility study.
 
 *Khoo VS, Padhani AR, Tanner SF, Finnigan DJ, Leach MO, Dearnaley DP* — The British journal of radiology (1999)  
@@ -4876,6 +5059,25 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/9717551/)
+
+
+---
+
+### A comparison of the effects of ultraviolet and ionizing radiations on trypsin activity and on its constituent amino acids.
+
+*Burke M, Augenstein L* — The Biochemical journal (1969)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Photons of 254nm. u.v.
+
+
+??? note "Abstract"
+    Photons of 254nm. u.v. light, (60)Co gamma-rays and 1Mev electrons produce different patterns of destruction of individual amino acids in dried films of trypsin and in the corresponding amino acid mixture. For example, in the amino acid mixture u.v. light destroys tyrosine, tryptophan and cystine, whereas in trypsin only cystine is disrupted but with 10 times the initial yield. Further, in the amino acid mixture loss of half-cystine is a simple exponential function of dose, but in trypsin there appear to be two exponential components of the loss with yields that differ by a factor of 35. Both the gamma-rays and electrons destroy half-cystine, tryptophan, histidine and methionine in the amino acid mixture with remarkably high yields, whereas in trypsin doses that destroy almost all of the enzymic activity produce no detectable destruction of amino acid residues. These marked differences between the two preparations show that the radiation-sensitivity of a given amino acid alone and in a protein is different, and suggests that in trypsin there is fairly extensive migration of energy, charge or both with localization of damage at specific sites determined by this enzyme&#x27;s internal organization. All three types of radiation produce appreciable amounts of ;damaged&#x27; (not completely inactivated) molecules which are prevented from reassuming an active configuration by the addition of 5.5m-urea; thiol reagents have a similar effect after bombardment with u.v. light or electrons. The patterns of destruction produced by gamma-rays and by electrons in both the amino acid mixture and in trypsin are different (some of the yields vary by a factor of 30). This result appears to be inconsistent with the popular belief that most of the energy absorbed from gamma-rays is associated with very-high-energy electrons.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/5820640/) · [DOI](https://doi.org/10.1042/bj1140535) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1184926/)
 
 
 ---

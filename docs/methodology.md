@@ -6,7 +6,7 @@ NCBI E-utilities API. The query is tuned for **high recall** with a downstream p
 filter — the appropriate trade-off for a document meant to capture *all* FLASH work.
 
 ```
-("ultra-high dose rate"[tiab] OR "ultrahigh dose rate"[tiab] OR "ultra high dose rate"[tiab] OR "FLASH radiotherapy"[tiab] OR "FLASH-RT"[tiab] OR "FLASH radiation"[tiab] OR "FLASH irradiation"[tiab] OR "FLASH effect"[tiab] OR "FLASH proton"[tiab] OR "FLASH electron"[tiab] OR ("FLASH"[tiab] AND ("dose rate"[tiab] OR "radiotherapy"[tiab] OR "radiation therapy"[tiab] OR "irradiation"[tiab] OR "Gy/s"[tiab] OR "conventional dose rate"[tiab])))
+("ultra-high dose rate"[tiab] OR "ultrahigh dose rate"[tiab] OR "ultra high dose rate"[tiab] OR "ultra-high dose-rate"[tiab] OR "ultrahigh dose-rate"[tiab] OR "ultra-high dose rates"[tiab] OR "ultrahigh dose rates"[tiab] OR "ultra high dose rates"[tiab] OR "ultra-high dose-rates"[tiab] OR "FLASH radiotherapy"[tiab] OR "FLASH-RT"[tiab] OR "FLASH radiation"[tiab] OR "FLASH irradiation"[tiab] OR "FLASH effect"[tiab] OR "FLASH proton"[tiab] OR "FLASH electron"[tiab] OR "very high energy electron"[tiab] OR "very high energy electrons"[tiab] OR "VHEE"[tiab] OR ("FLASH"[tiab] AND ("dose rate"[tiab] OR "radiotherapy"[tiab] OR "radiation therapy"[tiab] OR "irradiation"[tiab] OR "Gy/s"[tiab] OR "conventional dose rate"[tiab])))
 ```
 
 ## Relevance screening

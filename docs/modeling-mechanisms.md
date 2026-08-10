@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*161 records. Newest first.*
+*176 records. Newest first.*
 
 ---
 
@@ -462,6 +462,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Converging small-field electron therapy using 20-25 MeV electrons: a Monte Carlo feasibility study for deep-seated tumors.
+
+*Garnica-Garza HM* — Biomedical physics &amp; engineering express (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Objective. In photon beam radiotherapy, modern delivery techniques have allowed to substantially reduce the beam energy needed for the safe and efficient irradiation of deep-seated targets, with even Co-60 beams being now able to irradiate targets at any depth.
+
+
+??? note "Abstract"
+    Objective. In photon beam radiotherapy, modern delivery techniques have allowed to substantially reduce the beam energy needed for the safe and efficient irradiation of deep-seated targets, with even Co-60 beams being now able to irradiate targets at any depth. The purpose of this work is to determine if for electron radiotherapy, advanced beam delivery techniques allow the use of beam energies currently available in the clinic to treat target sites usually reserved for photons or very high energy charged particles.Methods. Segmented computed tomography images from three sites, brain, lung and prostate, were used to model radiotherapy treatments in two modalities: conformal 3D and converging small field. Monte Carlo simulation was used to calculate the absorbed dose distribution in each patient for conformal 3D very-high energy plans and converging small-field, low energy (&lt; 50 MeV) electrons. For comparison, converging small field plans for 6 MV x-ray beams were also calculated.Main results. It is shown that , for the three test cases simulated in this work, electrons with energies in the 20-25 MeV range delivered via the converging small-field modality can produce treatment plans that rival those obtained via conformal very high energy electrons in terms of target dose homogeneity and sparing of the organs at risk. Furthermore, such electron plans also compare well to those obtained with the photon beams.Significance. While the consensus has always been that to reach deeper tumors, higher electron energies, in the order of 150-200 MeV are needed, this work shows that this is not the case and, when small, circular electron fields are delivered in a converging manner, energies below 30 MeV are enough to properly irradiate tumors located at relevant radiological depths for a variety of treatment sites.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41529296/) · [DOI](https://doi.org/10.1088/2057-1976/ae3764)
+
+
+---
+
 ### A Passive Biomolecular Oxygen Diffusion Mechanism that Removes Oxygen from the Cell Nucleus as a Proposed Mechanism for the FLASH Effect by Radiochemical Oxygen Depletion and Transient Hypoxia of the Cell Nucleus.
 
 *Litzenberg DW* — Radiation research (2026)  
@@ -823,6 +842,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Comparison of Deep Learning Models for fast and accurate dose map prediction in Microbeam Radiation Therapy.
+
+*Arsini L, Humphreys J, White C, Mentzel F, Paino J, Bolst D et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Microbeam Radiation Therapy (MRT) is an innovative radiotherapy modality which uses highly focused synchrotron-generated X-ray microbeams. Current pre-clinical research in MRT mostly rely on Monte Carlo (MC) simulations for dose estimation, which are highly accurate but computationally intensive.
+
+
+??? note "Abstract"
+    BACKGROUND AND AIM: Microbeam Radiation Therapy (MRT) is an innovative radiotherapy modality which uses highly focused synchrotron-generated X-ray microbeams. Current pre-clinical research in MRT mostly rely on Monte Carlo (MC) simulations for dose estimation, which are highly accurate but computationally intensive. Recently, Deep Learning (DL) dose engines have been proved effective in generating fast and reliable dose distributions in different RT modalities. However, relatively few studies compare different models on the same task. This work aims to compare a Graph-Convolutional-Network-based DL model, developed in the context of Very High Energy Electron RT, to the Convolutional 3D U-Net that we recently implemented for MRT dose predictions. METHODS: The two DL solutions are trained with 3D dose maps, generated with the MC-Toolkit Geant4, in rats used in MRT pre-clinical research. The models are evaluated against Geant4 simulations, used as ground truth, and are assessed in terms of Mean Absolute Error, Mean Relative Error, and a voxel-wise version of the γ-index. Also presented are specific comparisons of predictions in relevant tumor regions, tissues boundaries and air pockets. The two models are finally compared from the perspective of the execution time and size. RESULTS: This study finds that the two models achieve comparable overall performance. Main differences are found in their dosimetric accuracy within specific regions, such as air pockets, and their respective inference times. Consequently, the choice between models should be guided primarily by data structure and time constraints, favoring the graph-based method for its flexibility or the 3D U-Net for its faster execution.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40602228/) · [DOI](https://doi.org/10.1016/j.ejmp.2025.105012)
+
+
+---
+
 ### Hydrated electron yield dependence on instantaneous dose rates with electron ultra-high dose rate (UHDR) irradiation.
 
 *Cao X, Parks A, Thomas W, Reed MS, Culberson WS, Pogue BW* — Physics in medicine and biology (2025)  
@@ -1089,6 +1127,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Implementation and validation of a very-high-energy electron model in the matRad treatment planning system.
+
+*Sitarz M, Ronga MG, Gesualdi F, Bonfrate A, Wahl N, De Marzi L* — Medical physics (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** While electron beams of up to 20 MeV are commonly used in radiotherapy, the use of very-high-energy electrons (VHEEs) in the range of 100-200 MeV is now becoming a realistic option thanks to the recent advancements in accelerator technology. Indeed, VHEE offers several clinically attractive features and can be delivered using various conformation methods (including scanning, collimation, and focus…
+
+
+??? note "Abstract"
+    BACKGROUND: While electron beams of up to 20 MeV are commonly used in radiotherapy, the use of very-high-energy electrons (VHEEs) in the range of 100-200 MeV is now becoming a realistic option thanks to the recent advancements in accelerator technology. Indeed, VHEE offers several clinically attractive features and can be delivered using various conformation methods (including scanning, collimation, and focussing) at ultra-high dose rates. To date, there is a lack of research tools for fast simulation of treatment plans using VHEE beams. PURPOSE: This work aims to implement and validate a simple and fast dose calculation algorithm based on the Fermi-Eyges theory of multiple Coulomb scattering for VHEE radiation therapy, with energies up to 200 MeV. A treatment planning system (TPS) toolkit with VHEE modality would indeed allow for further preclinical investigations, including treatment plan optimization and evaluation, and thus contribute to the gradual introduction of VHEE radiotherapy in clinical practice. METHODS: A VHEE pencil beam scanning double Gaussian model was introduced into the open-source TPS matRad environment along with new functions and options dedicated to VHEE dose calculations. Various geometries and field configurations were then calculated in matRad (up to 200 MeV and 15 × 15 cm2, with complex bone or lung heterogeneities) and the results were compared to Monte Carlo simulations in the TOPAS/Geant4 toolkit. Two types of beam model (divergent or focused) were also tested. Examples of clinical treatment plans were computed, and the results were compared between the two codes. RESULTS: VHEE modality was fully implemented in matRad with GUI capabilities while preserving all original TPS features. New relevant options such as the importation of specific spot-lists or adjustment of the lateral dose calculation cutoff to optimize the calculation speed were validated. Single spot and square field dose distributions were validated in water alone as well as in clinically relevant inhomogeneities. Dose maps from the VHEE model in matRad were in good agreement with TOPAS (2D gamma index \[2%/1 mm\] with passing rates superior to 90%, &lt;6% mean dose differences), except for large interface heterogeneities. CONCLUSIONS: This work describes the implementation of a simple but efficient VHEE simulation model in matRad. A few configurations were studied in order to validate the model against accurate Monte Carlo simulations, demonstrating its usefulness for carrying out preliminary studies involving VHEE radiotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39419015/) · [DOI](https://doi.org/10.1002/mp.17392) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8263594/)
+
+
+---
+
 ### Investigation of hydrogen peroxide yields and oxygen consumption in high dose rate irradiation: a TOPAS-nBio Monte Carlo study.
 
 *Shin WG, D-Kondo JN, Ramos-Méndez J, LaVerne JA, Rothwell B, Bertolet A et al.* — Physics in medicine and biology (2024)  
@@ -1161,6 +1218,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39456592/) · [DOI](https://doi.org/10.1016/j.nds.2014.07.049) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11358185/)
+
+
+---
+
+### Laser-driven electron source suitable for single-shot Gy-scale irradiation of biological cells at dose rates exceeding 10^{10} Gy/s.
+
+*McAnespie CA, Chaudhary P, Calvin L, Streeter MJV, Nersysian G, McMahon SJ et al.* — Physical review. E (2024)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high d…
+
+
+??? note "Abstract"
+    We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high degree of spatial uniformity. The results reported here confirm that a laser-driven source of this kind can be used for systematic studies of the response of biological cells to picosecond-scale radiation at ultrahigh dose rates.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39425326/) · [DOI](https://doi.org/10.1103/PhysRevE.110.035204)
 
 
 ---
@@ -1294,6 +1370,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38976841/) · [DOI](https://doi.org/10.1002/mp.17281)
+
+
+---
+
+### TOPAS simulation of photoneutrons in radiotherapy: accuracy and speed with variance reduction.
+
+*Ramos-Mendez J, Ortiz CR, Schuemann J, Paganetti H, Faddegon B* — Physics in medicine and biology (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective. We provide optimal particle split numbers for speeding up TOPAS Monte Carlo simulations of linear accelerator (linac) treatment heads while maintaining accuracy.
+
+
+??? note "Abstract"
+    Objective. We provide optimal particle split numbers for speeding up TOPAS Monte Carlo simulations of linear accelerator (linac) treatment heads while maintaining accuracy. In addition, we provide a new TOPAS physics module for simulating photoneutron production and transport.Approach.TOPAS simulation of a Siemens Oncor linac was used to determine the optimal number of splits for directional bremsstrahlung splitting as a function of the field size for 6 MV and 18 MV x-ray beams. The linac simulation was validated against published data of lateral dose profiles and percentage depth-dose curves (PDD) for the largest square field (40 cm side). In separate simulations, neutron particle split and the custom TOPAS physics module was used to generate and transport photoneutrons, called &#x27;TsPhotoNeutron&#x27;. Verification of accuracy was performed by comparing simulations with published measurements of: (1) neutron yields as a function of beam energy for thick targets of Al, Cu, Ta, W, Pb and concrete; and (2) photoneutron energy spectrum at 40 cm laterally from the isocenter of the Oncor linac from an 18 MV beam with closed jaws and MLC.Main results.The optimal number of splits obtained for directional bremsstrahlung splitting enhanced the computational efficiency by two orders of magnitude. The efficiency decreased with increasing beam energy and field size. Calculated lateral profiles in the central region agreed within 1 mm/2% from measured data, PDD curves within 1 mm/1%. For the TOPAS physics module, at a split number of 146, the efficiency of computing photoneutron yields was enhanced by a factor of 27.6, whereas it improved the accuracy over existing Geant4 physics modules.Significance.This work provides simulation parameters and a new TOPAS physics module to improve the efficiency and accuracy of TOPAS simulations that involve photonuclear processes occurring in high-Zmaterials found in linac components, patient devices, and treatment rooms, as well as to explore new therapeutic modalities such as very-high energy electron therapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38657630/) · [DOI](https://doi.org/10.1088/1361-6560/ad4303) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4045982/)
 
 
 ---
@@ -1465,6 +1560,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37961572/) · [DOI](https://doi.org/10.1101/2023.10.20.23297337) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7918545/)
+
+
+---
+
+### Electric Fields in Liquid Water Irradiated with Protons at Ultrahigh Dose Rates.
+
+*Gobet F, Barberet P, Delville MH, Devès G, Guérin T, Liénard R et al.* — Physical review letters (2023)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** We study the effects of irradiating water with 3 MeV protons at high doses by observing the motion of charged polystyrene beads outside the proton beam. By single-particle tracking, we measure a radial velocity of the order of microns per second.
+
+
+??? note "Abstract"
+    We study the effects of irradiating water with 3 MeV protons at high doses by observing the motion of charged polystyrene beads outside the proton beam. By single-particle tracking, we measure a radial velocity of the order of microns per second. Combining electrokinetic theory with simulations of the beam-generated reaction products and their outward diffusion, we find that the bead motion is due to electrophoresis in the electric field induced by the mobility contrast of cations and anions. This work sheds light on the perturbation of biological systems by high-dose radiations and paves the way for the manipulation of colloid or macromolecular dispersions by radiation-induced diffusiophoresis.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37955497/) · [DOI](https://doi.org/10.1103/PhysRevLett.131.178001)
 
 
 ---
@@ -1804,6 +1918,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### GPU-accelerated Monte Carlo simulation of electron and photon interactions for radiotherapy applications.
+
+*Franciosini G, Battistoni G, Cerqua A, De Gregorio A, De Maria P, De Simoni M et al.* — Physics in medicine and biology (2023)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Objective. The Monte Carlo simulation software is a valuable tool in radiation therapy, in particular to achieve the needed accuracy in the dose evaluation for the treatment plans optimisation.
+
+
+??? note "Abstract"
+    Objective. The Monte Carlo simulation software is a valuable tool in radiation therapy, in particular to achieve the needed accuracy in the dose evaluation for the treatment plans optimisation. The current challenge in this field is the time reduction to open the way to many clinical applications for which the computational time is an issue. In this manuscript we present an innovative GPU-accelerated Monte Carlo software for dose valuation in electron and photon based radiotherapy, developed as an update of the FRED (Fast paRticle thErapy Dose evaluator) software.Approach. The code transports particles through a 3D voxel grid, while scoring their energy deposition along their trajectory. The models of electromagnetic interactions in the energy region between 1 MeV-1 GeV available in literature have been implemented to efficiently run on GPUs, allowing to combine a fast tracking while keeping high accuracy in dose assessment. The FRED software has been bench-marked against state-of-art full MC (FLUKA, GEANT4) in the realm of two different radiotherapy applications: Intra-Operative Radio Therapy and Very High Electron Energy radiotherapy applications.Results. The single pencil beam dose-depth profiles in water as well as the dose map computed on non-homogeneous phantom agree with full-MCs at 2% level, observing a gain in processing time from 200 to 5000.Significance. Such performance allows for computing a plan with electron beams in few minutes with an accuracy of ∼%, demonstrating the FRED potential to be adopted for fast plan re-calculation in photon or electron radiotherapy applications.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36356308/) · [DOI](https://doi.org/10.1088/1361-6560/aca1f2)
+
+
+---
+
 ### MRI of radiation chemistry: First images and investigation of potential mechanisms.
 
 *Wancura J, Egan J, Sajo E, Sudhyadhom A* — Medical physics (2023)  
@@ -2051,6 +2184,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Treatment Planning in Intraoperative Radiation Therapy (IORT): Where Should We Go?
+
+*Cavedon C, Mazzarotto R* — Cancers (2022)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** As opposed to external beam radiation therapy (EBRT), treatment planning systems (TPS) dedicated to intraoperative radiation therapy (IORT) were not subject to radical modifications in the last two decades. However, new treatment regimens such as ultrahigh dose rates and combination with multiple treatment modalities, as well as the prospected availability of dedicated in-room imaging, call for im…
+
+
+??? note "Abstract"
+    As opposed to external beam radiation therapy (EBRT), treatment planning systems (TPS) dedicated to intraoperative radiation therapy (IORT) were not subject to radical modifications in the last two decades. However, new treatment regimens such as ultrahigh dose rates and combination with multiple treatment modalities, as well as the prospected availability of dedicated in-room imaging, call for important new features in the next generation of treatment planning systems in IORT. Dosimetric accuracy should be guaranteed by means of advanced dose calculation algorithms, capable of modelling complex scattering phenomena and accounting for the non-tissue equivalent materials used to shape and compensate electron beams. Kilovoltage X-ray based IORT also presents special needs, including the correct description of extremely steep dose gradients and the accurate simulation of applicators. TPSs dedicated to IORT should also allow real-time imaging to be used for treatment adaptation at the time of irradiation. Other features implemented in TPSs should include deformable registration and capability of radiobiological planning, especially if unconventional irradiation schemes are used. Finally, patient safety requires that the multiple features be integrated in a comprehensive system in order to facilitate control of the whole process.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35884591/) · [DOI](https://doi.org/10.1016/j.ejmp.2021.05.027) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5307769/)
+
+
+---
+
 ### Comparing radiolytic production of H2O2 and development of Zebrafish embryos after ultra high dose rate exposure with electron and transmission proton beams.
 
 *Kacem H, Psoroulas S, Boivin G, Folkerts M, Grilj V, Lomax T et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)  
@@ -2268,6 +2420,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36267674/) · [DOI](https://doi.org/10.1007/s00723-021-01412-4) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7992188/)
+
+
+---
+
+### A Geant4 Fano test for novel very high energy electron beams.
+
+*McManus M, Romano F, Royle G, Palmans H, Subiel A* — Physics in medicine and biology (2021)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective.The boundary crossing algorithm available in Geant4 10.07-p01 general purpose Monte Carlo code has been investigated for a 12 and 200 MeV electron source by the application of a Fano cavity test.Approach.Fano conditions were enforced through all simulations whilst varying individual charged particle transport parameters which control particle step size, ionisation and single scattering.M…
+
+
+??? note "Abstract"
+    Objective.The boundary crossing algorithm available in Geant4 10.07-p01 general purpose Monte Carlo code has been investigated for a 12 and 200 MeV electron source by the application of a Fano cavity test.Approach.Fano conditions were enforced through all simulations whilst varying individual charged particle transport parameters which control particle step size, ionisation and single scattering.Main Results.At 12 MeV, Geant4 was found to return excellent dose consistency within 0.1% even with the default parameter configurations. The 200 MeV case, however, showed significant consistency issues when default physics parameters were employed with deviations from unity of more than 6%. The effect of the inclusion of nuclear interactions was also investigated for the 200 MeV beam and was found to return good consistency for a number of parameter configurations.Significance.The Fano test is a necessary investigation to ensure the consistency of charged particle transport available in Geant4 before detailed detector simulations can be conducted.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34844225/) · [DOI](https://doi.org/10.1088/1361-6560/ac3e0f)
 
 
 ---
@@ -2769,6 +2940,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Focused very high-energy electron beams as a novel radiotherapy modality for producing high-dose volumetric elements.
+
+*Kokurewicz K, Brunetti E, Welsh GH, Wiggins SM, Boyd M, Sorensen A et al.* — Scientific reports (2019)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** The increased inertia of very high-energy electrons (VHEEs) due to relativistic effects reduces scattering and enables irradiation of deep-seated tumours. However, entrance and exit doses are high for collimated or diverging beams.
+
+
+??? note "Abstract"
+    The increased inertia of very high-energy electrons (VHEEs) due to relativistic effects reduces scattering and enables irradiation of deep-seated tumours. However, entrance and exit doses are high for collimated or diverging beams. Here, we perform a study based on Monte Carlo simulations of focused VHEE beams in a water phantom, showing that dose can be concentrated into a small, well-defined volumetric element, which can be shaped or scanned to treat deep-seated tumours. The dose to surrounding tissue is distributed over a larger volume, which reduces peak surface and exit doses for a single beam by more than one order of magnitude compared with a collimated beam.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/31346184/) · [DOI](https://doi.org/10.1098/rspa.1936.0046) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618455/)
+
+
+---
+
 ### In Vivo DCE-MRI for the Discrimination Between Glioblastoma and Radiation Necrosis in Rats.
 
 *Bolcaen J, Descamps B, Acou M, Deblaere K, den Broecke CV, Boterberg T et al.* — Molecular imaging and biology (2017)  
@@ -2803,6 +2993,44 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/26072169/) · [DOI](https://doi.org/10.1007/s00066-015-0858-7)
+
+
+---
+
+### Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.
+
+*Bazalova-Carter M, Qu B, Palma B, Hårdemark B, Hynning E, Jensen C et al.* — Medical physics (2015)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** The aim of this work was to develop a treatment planning workflow for rapid radiotherapy delivered with very high-energy electron (VHEE) scanning pencil beams of 60-120 MeV and to study VHEE plans as a function of VHEE treatment parameters. Additionally, VHEE plans were compared to clinical state-of-the-art volumetric modulated arc therapy (VMAT) photon plans for three cases.
+
+
+??? note "Abstract"
+    PURPOSE: The aim of this work was to develop a treatment planning workflow for rapid radiotherapy delivered with very high-energy electron (VHEE) scanning pencil beams of 60-120 MeV and to study VHEE plans as a function of VHEE treatment parameters. Additionally, VHEE plans were compared to clinical state-of-the-art volumetric modulated arc therapy (VMAT) photon plans for three cases. METHODS: VHEE radiotherapy treatment planning was performed by linking EGSnrc Monte Carlo (MC) dose calculations with inverse treatment planning in a research version of RayStation. In order to study the effect of VHEE treatment parameters on VHEE dose distributions, a matlab graphical user interface (GUI) for calculation of VHEE MC pencil beam doses was developed. Through the GUI, pediatric case MC simulations were run for a number of beam energies (60, 80, 100, and 120 MeV), number of beams (13, 17, and 36), pencil beam spot (0.1, 1.0, and 3.0 mm) and grid (2.0, 2.5, and 3.5 mm) sizes, and source-to-axis distance, SAD (40 and 50 cm). VHEE plans for the pediatric case calculated with the different treatment parameters were optimized and compared. Furthermore, 100 MeV VHEE plans for the pediatric case, a lung, and a prostate case were calculated and compared to the clinically delivered VMAT plans. All plans were normalized such that the 100% isodose line covered 95% of the target volume. RESULTS: VHEE beam energy had the largest effect on the quality of dose distributions of the pediatric case. For the same target dose, the mean doses to organs at risk (OARs) decreased by 5%-16% when planned with 100 MeV compared to 60 MeV, but there was no further improvement in the 120 MeV plan. VHEE plans calculated with 36 beams outperformed plans calculated with 13 and 17 beams, but to a more modest degree (&lt;8%). While pencil beam spacing and SAD had a small effect on VHEE dose distributions, 0.1-3 mm pencil beam sizes resulted in identical dose distributions. For the 100 MeV VHEE pediatric plan, OAR doses were up to 70% lower and the integral dose was 33% lower for VHEE compared to 6 MV VMAT. Additionally, VHEE conformity indices (CI100 = 1.09 and CI50 = 4.07) were better than VMAT conformity indices (CI100 = 1.30 and CI50 = 6.81). The 100 MeV VHEE lung plan resulted in mean dose decrease to all OARs by up to 27% for the same target coverage compared to the clinical 6 MV flattening filter-free (FFF) VMAT plan. The 100 MeV prostate plan resulted in 3% mean dose increase to the penile bulb and the urethra, but all other OAR mean doses were lower compared to the 15 MV VMAT plan. The lung case CI100 and CI50 conformity indices were 3% and 8% lower, respectively, in the VHEE plan compared to the VMAT plan. The prostate case CI100 and CI50 conformity indices were 1% higher and 8% lower, respectively, in the VHEE plan compared to the VMAT plan. CONCLUSIONS: The authors have developed a treatment planning workflow for MC dose calculation of pencil beams and optimization for treatment planning of VHEE radiotherapy. The authors have demonstrated that VHEE plans resulted in similar or superior dose distributions for pediatric, lung, and prostate cases compared to clinical VMAT plans.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25979053/) · [DOI](https://doi.org/10.1118/1.4918923)
+
+
+---
+
+### Dosimetric evaluation of new approaches in GRID therapy using nonconventional radiation sources.
+
+*Martínez-Rovira I, Fois G, Prezado Y* — Medical physics (2015)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Spatial fractionation of the dose has proven to be a promising approach to increase the tolerance of healthy tissue, which is the main limitation of radiotherapy. A good example of that is GRID therapy, which has been successfully used in the management of large tumors with low toxicity.
+
+
+??? note "Abstract"
+    PURPOSE: Spatial fractionation of the dose has proven to be a promising approach to increase the tolerance of healthy tissue, which is the main limitation of radiotherapy. A good example of that is GRID therapy, which has been successfully used in the management of large tumors with low toxicity. The aim of this work is to explore new avenues using nonconventional sources: GRID therapy by using kilovoltage (synchrotron) x-rays, the use of very high-energy electrons, and proton GRID therapy. They share in common the use of the smallest possible grid sizes in order to exploit the dose-volume effects. METHODS: Monte Carlo simulations (penelope/peneasy and geant4/GATE codes) were used as a method to study dose distributions resulting from irradiations in different configurations of the three proposed techniques. As figure of merit, percentage (peak and valley) depth dose curves, penumbras, and central peak-to-valley dose ratios (PVDR) were evaluated. As shown in previous biological experiments, high PVDR values are requested for healthy tissue sparing. A superior tumor control may benefit from a lower PVDR. RESULTS: High PVDR values were obtained in the healthy tissue for the three cases studied. When low energy photons are used, the treatment of deep-seated tumors can still be performed with submillimetric grid sizes. Superior PVDR values were reached with the other two approaches in the first centimeters along the beam path. The use of protons has the advantage of delivering a uniform dose distribution in the tumor, while healthy tissue benefits from the spatial fractionation of the dose. In the three evaluated techniques, there is a net reduction in penumbra with respect to radiosurgery. CONCLUSIONS: The high PVDR values in the healthy tissue and the use of small grid sizes in the three presented approaches might constitute a promising alternative to treat tumors with such spatially fractionated radiotherapy techniques. The dosimetric results presented here support the interest of performing radiobiology experiments in order to evaluate these new avenues.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25652482/) · [DOI](https://doi.org/10.1118/1.4905042)
 
 
 ---
@@ -3012,6 +3240,49 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/6856753/)
+
+
+---
+
+### Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
+
+*Michaels HB* — International journal of radiation oncology, biology, physics (1982)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** When CHO cells are equilibrated with a low level of oxygen (e.g. 0.4% O2) and irradiated with single 3 ns pulses of electrons, a breaking survival curve is observed.
+
+
+??? note "Abstract"
+    When CHO cells are equilibrated with a low level of oxygen (e.g. 0.4% O2) and irradiated with single 3 ns pulses of electrons, a breaking survival curve is observed. This effect is believed to be the result of radiolytic oxygen depletion and can be prevented by the presence of a relatively low concentration of hypoxic cell radiosensitizer. This prevention of the breaking survival curve has been observed for 2- and 5-nitroimidazoles, nitrofurans, and diamide. It is hypothesized that the sensitizer acts by competing with oxygen for the radiation-induced intracellular oxygen-binding species, perhaps a hydrated electron adduct, leaving oxygen free to participate in radiosensitization reactions during the lifetime of the oxygen-sensitive radiation-induced target sites for lethal damage, probably DNA radicals produced by hydroxyl radical attack. The proposed role of the sensitizer in the interference with oxygen depletion is a transient phenomenon, occurring on the microsecond to millisecond time scale.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/7107363/) · [DOI](https://doi.org/10.1016/0360-3016(82)90653-8)
+
+
+---
+
+### Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
+
+*Ling CC* — Radiation research (1975)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/1099609/)
+
+
+---
+
+### Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
+
+*Weiss H, Epp ER, Heslin JM, Ling CC, Santomasso A* — International journal of radiation biology and related studies in physics, chemistry, and medicine (1974)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/4607987/) · [DOI](https://doi.org/10.1080/09553007414550901)
 
 
 ---

@@ -1,8 +1,73 @@
 {
  "generated": "2026-08-10",
- "query": "(\"ultra-high dose rate\"[tiab] OR \"ultrahigh dose rate\"[tiab] OR \"ultra high dose rate\"[tiab] OR \"FLASH radiotherapy\"[tiab] OR \"FLASH-RT\"[tiab] OR \"FLASH radiation\"[tiab] OR \"FLASH irradiation\"[tiab] OR \"FLASH effect\"[tiab] OR \"FLASH proton\"[tiab] OR \"FLASH electron\"[tiab] OR (\"FLASH\"[tiab] AND (\"dose rate\"[tiab] OR \"radiotherapy\"[tiab] OR \"radiation therapy\"[tiab] OR \"irradiation\"[tiab] OR \"Gy/s\"[tiab] OR \"conventional dose rate\"[tiab])))",
- "n": 1315,
+ "query": "(\"ultra-high dose rate\"[tiab] OR \"ultrahigh dose rate\"[tiab] OR \"ultra high dose rate\"[tiab] OR \"ultra-high dose-rate\"[tiab] OR \"ultrahigh dose-rate\"[tiab] OR \"ultra-high dose rates\"[tiab] OR \"ultrahigh dose rates\"[tiab] OR \"ultra high dose rates\"[tiab] OR \"ultra-high dose-rates\"[tiab] OR \"FLASH radiotherapy\"[tiab] OR \"FLASH-RT\"[tiab] OR \"FLASH radiation\"[tiab] OR \"FLASH irradiation\"[tiab] OR \"FLASH effect\"[tiab] OR \"FLASH proton\"[tiab] OR \"FLASH electron\"[tiab] OR \"very high energy electron\"[tiab] OR \"very high energy electrons\"[tiab] OR \"VHEE\"[tiab] OR (\"FLASH\"[tiab] AND (\"dose rate\"[tiab] OR \"radiotherapy\"[tiab] OR \"radiation therapy\"[tiab] OR \"irradiation\"[tiab] OR \"Gy/s\"[tiab] OR \"conventional dose rate\"[tiab])))",
+ "n": 1385,
  "records": [
+  {
+   "pmid": "42574718",
+   "doi": "10.1093/rpd/ncag079",
+   "pmc": "",
+   "year": "2026",
+   "title": "Radiation protection strategies for FLASH radiotherapy accelerator installation in animal housing.",
+   "authors": [
+    "Russo G",
+    "Bonaccorsi SG",
+    "Leanza R",
+    "Costa M",
+    "Pucci G",
+    "Alberghina C",
+    "Cammarata FP",
+    "Volti GL",
+    "Parenti R"
+   ],
+   "journal": "Radiation protection dosimetry",
+   "abstract": "This study presents a radioprotection assessment for an ultra-high dose rate accelerator installation in one of the animal housing of the Centre for Advanced Preclinical in vivo Research. The main problem concerns the absence of a bunker while limiting exposure in nearby work areas. The geometry of the accelerator, the building layouts and the distribution of the environmental dose equivalent were simulated with FLUKA.CERN 4-4.1, modeling a 9 MeV electron beam. The results confirmed compliance with the limit of 0.250 mSv/year for unrestricted areas during daytime operation. Night-time operating zone restrictions apply when no staff are present, allowing beam on for quality controls. The effective doses to the population, researchers and workers are less than 1 mSv/year, in accordance with Legislative Decree 101/2020; the accelerator operators are classified as exposed. For small animals, precautionary dose limit of 1 mSv/year was adopted. The use of lead shielding and site-specific safety measures ensure radiological compliance.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42574718/"
+  },
+  {
+   "pmid": "42551487",
+   "doi": "10.1088/1361-6560/ae94d9",
+   "pmc": "",
+   "year": "2026",
+   "title": "Conventional and ultra-high dose rate proton beam energy and output characterization using a high-resolution multi-layer Faraday cup.",
+   "authors": [
+    "Teng X",
+    "Friberg A",
+    "Alexander DA",
+    "Ota K",
+    "Nichols M",
+    "Boisseau P",
+    "Vander Stappen F",
+    "Gao Y",
+    "Setianegara J",
+    "Gu W",
+    "Diffenderfer E",
+    "Teo BK",
+    "Yin L",
+    "Zou W"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "OBJECTIVE: Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDR). This work evaluated a multi-layer Faraday cup (MLFC) as a detector for proton therapy QA, capable of high-resolution energy verification, beam charge measurements, and operation at both conventional and UHDR. APPROACH: A commercial 128-layer MLFC made of thin copper layers separated by Kapton and equipped with a MicroHexTMenergy filter was used to measure conventional and UHDR proton pencil beams from a IBA ProteusPlus system. A TOPAS Monte Carlo model was developed to benchmark depth-charge readout. Energy calibration of the pencil beams was performed by Gaussian fitting charge peaks and comparing to nominal ranges in water. Delivered charge was determined by integrating the collected charge across all MLFC channels and comparing it with a reference Faraday cup. Its application to UHDR FLASH radiotherapy was evaluated using spread-out Bragg Peak Conformal FLASH plan deliveries. MAIN RESULTS: The MLFC provided a reproducible high-resolution energy calibration within 1 mm water equivalent depth (WED) resolution, with the MicroHexTMfilter broadening charge deposition peaks and improving measurement precision and accuracy. Integrated charge was linear with monitor units and agreed with Faraday cup measurements within 5% for all measured energies (100-228 MeV). The 4 kHz sampling rate enabled spot-by-spot energy and charge output measurements at UHDR. SIGNIFICANCE: The MLFC enables simultaneous energy and charge output verification in a compact, dose-rate-independent detector, providing a practical solution for routine QA in both conventional and FLASH proton therapy.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42551487/"
+  },
   {
    "pmid": "42563395",
    "doi": "10.1016/j.ijrobp.2024.09.006",
@@ -69,41 +134,6 @@
     "Modeling & Mechanisms"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42556588/"
-  },
-  {
-   "pmid": "42551487",
-   "doi": "10.1088/1361-6560/ae94d9",
-   "pmc": "",
-   "year": "2026",
-   "title": "Conventional and ultra-high dose rate proton beam energy and output characterization using a high-resolution multi-layer Faraday cup.",
-   "authors": [
-    "Teng X",
-    "Friberg A",
-    "Alexander DA",
-    "Ota K",
-    "Nichols M",
-    "Boisseau P",
-    "Vander Stappen F",
-    "Gao Y",
-    "Setianegara J",
-    "Gu W",
-    "Diffenderfer E",
-    "Teo BK",
-    "Yin L",
-    "Zou W"
-   ],
-   "journal": "Physics in medicine and biology",
-   "abstract": "OBJECTIVE: Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDR). This work evaluated a multi-layer Faraday cup (MLFC) as a detector for proton therapy QA, capable of high-resolution energy verification, beam charge measurements, and operation at both conventional and UHDR. APPROACH: A commercial 128-layer MLFC made of thin copper layers separated by Kapton and equipped with a MicroHexTMenergy filter was used to measure conventional and UHDR proton pencil beams from a IBA ProteusPlus system. A TOPAS Monte Carlo model was developed to benchmark depth-charge readout. Energy calibration of the pencil beams was performed by Gaussian fitting charge peaks and comparing to nominal ranges in water. Delivered charge was determined by integrating the collected charge across all MLFC channels and comparing it with a reference Faraday cup. Its application to UHDR FLASH radiotherapy was evaluated using spread-out Bragg Peak Conformal FLASH plan deliveries. MAIN RESULTS: The MLFC provided a reproducible high-resolution energy calibration within 1 mm water equivalent depth (WED) resolution, with the MicroHexTMfilter broadening charge deposition peaks and improving measurement precision and accuracy. Integrated charge was linear with monitor units and agreed with Faraday cup measurements within 5% for all measured energies (100-228 MeV). The 4 kHz sampling rate enabled spot-by-spot energy and charge output measurements at UHDR. SIGNIFICANCE: The MLFC enables simultaneous energy and charge output verification in a compact, dose-rate-independent detector, providing a practical solution for routine QA in both conventional and FLASH proton therapy.",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "mesh": [],
-   "category": "Physics & Dosimetry",
-   "tags": [
-    "Physics & Dosimetry",
-    "Modeling & Mechanisms"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42551487/"
   },
   {
    "pmid": "42549040",
@@ -2137,6 +2167,40 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42214429/"
   },
   {
+   "pmid": "42183317",
+   "doi": "10.1016/j.adro.2026.102028",
+   "pmc": "PMC6979639",
+   "year": "2026",
+   "title": "Multiscale Radiobiological Assessment of Laser-Driven Very High Energy Electrons Versus Conventional Electrons.",
+   "authors": [
+    "Giaccaglia C",
+    "Bayart E",
+    "Dubail M",
+    "Varma C",
+    "Heinrich S",
+    "Gautier J",
+    "Tafzi A",
+    "Kononenko O",
+    "Goddet JP",
+    "Amakkattu JB",
+    "Lamarre-Jouenne I",
+    "Fouillade C",
+    "Flacco A"
+   ],
+   "journal": "Advances in radiation oncology",
+   "abstract": "PURPOSE: This study systematically investigates the radiobiological effects of very high energy electrons (VHEE) generated by a laser-plasma accelerator (LPA), in comparison with conventional intermediate energy electrons (CIEE) from a conventional linear accelerator. Using in vitro, ex vivo, and in vivo models, we evaluate and compare their potential toxicity on healthy tissues. METHODS AND MATERIALS: Cell viability, tissue response, and developmental toxicity were assessed across 3 biological models. In vitro, hTERT-immortalized, human fibroblasts (MRC5-hTERT) were used to generate postirradiation viability-based survival curves following a dose escalation of 2 to 10 Gy. Ex vivo, mouse precision-cut lung slices were analyzed for radiation-induced inhibition of cell replication after 3, 6, and 9 Gy. In vivo, zebrafish embryos were irradiated with 6 and 9 Gy and subsequently evaluated for developmental toxicity through body length and spinal curvature measurements. VHEE irradiations were delivered using the Salle Jaune LPA (Laboratoire d'Optique Appliquée), generating a broad-spectrum electron beam with a mean energy of 140.6 MeV at the biological target, while CIEE irradiations were performed using a conventional 7 MeV linear accelerator (Institut Curie). RESULTS: In vitro, MRC5-hTERT cells showed no significant difference in radiosensitivity between VHEE and CIEE conditions, with comparable D 10  values (P value = . 7  ). In the ex vivo model, both beams induced a dose-dependent decrease in cell division with no significant interbeam differences at any dose level (P value > . 99  ). In vivo, zebrafish embryos exhibited dose-dependent body shortening and increased spinal curvature following both VHEE and CIEE exposure. No significant differences were observed between the 2 modalities at matched doses for any measured metric (P value ≥ . 5  ). CONCLUSIONS: To our knowledge, this study presents the first multiscale radiobiological evaluation of a laser-driven VHEE beam across cellular, tissue, and organismal levels. Under the investigated conditions, VHEE and CIEE irradiations produce similar biological toxicity. These findings support the feasibility and potential of VHEE generated by LPA for future clinical applications.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42183317/"
+  },
+  {
    "pmid": "42181161",
    "doi": "10.1016/j.neuroimage.2008.03.037",
    "pmc": "PMC9448907",
@@ -2791,6 +2855,46 @@
     "Physics & Dosimetry"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42037989/"
+  },
+  {
+   "pmid": "42031987",
+   "doi": "10.1002/mp.17678",
+   "pmc": "PMC12059550",
+   "year": "2026",
+   "title": "Start-to-end modelling of laser-plasma acceleration, beam transport and dose deposition of very high-energy electrons for radiotherapy.",
+   "authors": [
+    "Kalvala R",
+    "Golovanov A",
+    "Courvoisier A",
+    "Friling T",
+    "Kroupp E",
+    "Grishko L",
+    "Malka V"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "The proposed radiotherapy using very high-energy electron (VHEE) beams generated by a laser-plasma accelerator has garnered significant interest due to its dose distribution capabilities and potential to address limitations of traditional photon-based radiotherapy. To explore the feasibility of such an approach, we develop a start-to-end simulation workflow to model VHEE radiotherapy from the electron source through the beamline to dose delivery in the target. The presented study uses the parameters of OONA, the commercial <1.3 J, <25 fs pulse duration laser recently installed at the Weizmann Institute of Science. Through particle-in-cell simulations of laser-plasma interaction, realistic electron beams are obtained. A beamline consisting of quadrupoles, a collimator, and dipoles is then used to collimate and filter the beams and arrange them into a beam array. Using GEANT4 simulations, we calculate the dose deposition in water phantoms and heterogeneous phantoms with bone inserts. Multifield irradiation setup and the dose distribution at the isocenter through different incidence angles are studied, simulating multi-angle conformal delivery. Our findings demonstrate that polychromatic VHEE beams generated from laser-plasma accelerators, when delivered through such a beamline, can achieve favorable dose distribution for reaching areas deep inside the phantom. This study highlights the potential of the developed start-to-end workflow for exploring and optimizing LPA-generated VHEE radiotherapy, paving the way for further research and potential clinical implementation.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Electrons",
+    "Lasers",
+    "Radiotherapy Dosage",
+    "Particle Accelerators",
+    "Phantoms, Imaging",
+    "Computer Simulation",
+    "Humans",
+    "Radiotherapy, High-Energy",
+    "Models, Theoretical",
+    "Radiotherapy Planning, Computer-Assisted"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Clinical & Translational"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42031987/"
   },
   {
    "pmid": "42031222",
@@ -5968,6 +6072,47 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/41558338/"
   },
   {
+   "pmid": "41558168",
+   "doi": "10.1088/1361-6560/ae3b05",
+   "pmc": "",
+   "year": "2026",
+   "title": "The dual gap ionization chamber: a novel ionization chamber design for reference dosimetry to automatically correct for recombination losses in emerging radiotherapy modalities.",
+   "authors": [
+    "Orts M",
+    "Rossomme S",
+    "Souris K",
+    "de Beco V",
+    "Haas T",
+    "Durny N",
+    "Houyoux G",
+    "Penninckx S",
+    "Verpoest L",
+    "Vanreusel V",
+    "Montay-Gruel P",
+    "Kuess P",
+    "Palmans H",
+    "Sterpin E"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Objective.Current dosimetry protocols typically recommend multiple measurements to determine recombination correction factors (ks), increasing the time required for dose measurements in the quality assurance workflow. We propose a novel dual-gap ionization chamber (DGIC) design for reference dosimetry featuring two air gaps of different thicknesses within a single device. This design enables the determination ofksdirectly from the same measurements required to determine absorbed dose-to-water. Thus, eliminating the need for separate measurements to correct for recombination losses. The approach relies on analyzing the charge ratio between the two gaps, under ultra high dose rates (UHDR) and dose per pulse (DPP) under ultra high DPP (UHDPP) conditions.Approach.A DGIC prototype with electrode distances of 1 and 0.6 mm was developed and tested using different beam qualities: (1) a 240 MeV u-1clinical carbon ion beam at conventional field dose rates of 25 Gy min-1, (2) a 226 MeV continuous proton beam with a current between 5 and 800 nA at the cyclotron exit, where the maximum approximately corresponds to 200 Gy s-1in the treatment room and (3) a 9 MeV electron beam with a DPP from 0.03 to 4.2 Gy, a frequency of 60 Hz and a pulse duration between 0.7-3.9μs.ks-factors were derived for the top cavity of 1 mm gap using the DGIC method and compared against the following: for proton and carbon ions, comparisons were made with the Jaffé plot method. For the electron beam, it was compared with a dose rate independent device, a flashDiamond detector, and the integrated current transformer of the LINAC.Main results.A DGIC prototype was able to successfully correct for recombination losses under different beam modalities: for initial recombination in a clinical carbon ion beam, volume recombination in UHDR proton beam with field dose rates of 200 Gy s-1and in UHDPP electron beams, where four pulses were delivered with DPP up to 4.2 Gy (this DPP corresponds to an effective pulse duration of 3.9μs).Significance.A DGIC design and its inherent method provides a practical and accurate way of determining dose and dose rate in emerging radiotherapy treatment modalities.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Radiometry",
+    "Equipment Design",
+    "Automation",
+    "Reference Standards",
+    "Radiotherapy"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41558168/"
+  },
+  {
    "pmid": "41552931",
    "doi": "10.1042/CS20257640",
    "pmc": "",
@@ -6077,6 +6222,45 @@
     "Physics & Dosimetry"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/41529408/"
+  },
+  {
+   "pmid": "41529296",
+   "doi": "10.1088/2057-1976/ae3764",
+   "pmc": "",
+   "year": "2026",
+   "title": "Converging small-field electron therapy using 20-25 MeV electrons: a Monte Carlo feasibility study for deep-seated tumors.",
+   "authors": [
+    "Garnica-Garza HM"
+   ],
+   "journal": "Biomedical physics & engineering express",
+   "abstract": "Objective. In photon beam radiotherapy, modern delivery techniques have allowed to substantially reduce the beam energy needed for the safe and efficient irradiation of deep-seated targets, with even Co-60 beams being now able to irradiate targets at any depth. The purpose of this work is to determine if for electron radiotherapy, advanced beam delivery techniques allow the use of beam energies currently available in the clinic to treat target sites usually reserved for photons or very high energy charged particles.Methods. Segmented computed tomography images from three sites, brain, lung and prostate, were used to model radiotherapy treatments in two modalities: conformal 3D and converging small field. Monte Carlo simulation was used to calculate the absorbed dose distribution in each patient for conformal 3D very-high energy plans and converging small-field, low energy (< 50 MeV) electrons. For comparison, converging small field plans for 6 MV x-ray beams were also calculated.Main results. It is shown that , for the three test cases simulated in this work, electrons with energies in the 20-25 MeV range delivered via the converging small-field modality can produce treatment plans that rival those obtained via conformal very high energy electrons in terms of target dose homogeneity and sparing of the organs at risk. Furthermore, such electron plans also compare well to those obtained with the photon beams.Significance. While the consensus has always been that to reach deeper tumors, higher electron energies, in the order of 150-200 MeV are needed, this work shows that this is not the case and, when small, circular electron fields are delivered in a converging manner, energies below 30 MeV are enough to properly irradiate tumors located at relevant radiological depths for a variety of treatment sites.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Monte Carlo Method",
+    "Humans",
+    "Electrons",
+    "Feasibility Studies",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy Dosage",
+    "Male",
+    "Tomography, X-Ray Computed",
+    "Computer Simulation",
+    "Brain Neoplasms",
+    "Lung Neoplasms",
+    "Neoplasms",
+    "Prostatic Neoplasms",
+    "Photons"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology",
+    "Beam Delivery & Technology",
+    "Clinical & Translational"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41529296/"
   },
   {
    "pmid": "41526003",
@@ -11366,6 +11550,48 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/40759154/"
   },
   {
+   "pmid": "40749779",
+   "doi": "10.1016/j.ijrobp.2025.07.1427",
+   "pmc": "",
+   "year": "2025",
+   "title": "Synchrotron Microbeam Radiation Therapy in Combination With Gold Nanoparticles Improves Control of Mouse Melanoma.",
+   "authors": [
+    "Fernandez-Palomo C",
+    "Potez M",
+    "Haberthür D",
+    "Trappetti V",
+    "Pellicioli P",
+    "Fazzari J",
+    "Grams M",
+    "Hlushchuk R",
+    "Djonov V"
+   ],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "PURPOSE: Microbeam radiation therapy (MRT) is a preclinical, spatially fractionated radiation therapy technique that delivers ultranarrow synchrotron x-ray beams at ultrahigh dose rates. MRT has demonstrated superior tumor control compared with synchrotron broad beam by triggering infiltration of CD8+ T cells and inducing a transient vascular permeability window. This study aimed to investigate the effects of combining MRT with gold nanoparticles (AuNPs) on tumor growth, while also assessing whether MRT could enhance intratumoral accumulation of AuNPs. METHODS AND MATERIALS: Mice bearing B16-F10 melanoma in their ears were assigned to 7 experimental groups, each receiving distinct combinations of priming MRT (150 Gy peak dose), AuNPs, broad beam (6.1 Gy), and therapeutic MRT (400 Gy peak dose). MRT was delivered as an array of 50-µm-wide beams spaced 200 µm apart. Tumor growth was monitored daily, whereas 15-nm AuNP uptake was assessed with microCT imaging, electron microscopy, and Image Mass Cytometry. RESULTS: Priming MRT increased intratumoral AuNP accumulation by 2.5-fold on day 3 and 2.3-fold on day 5 compared with nonprimed controls. Image Mass Cytometry showed that AuNPs distributed across the tumor stroma and concentrated at the tumor periphery, near areas with high vascular density and in M2-like macrophages. Combining priming MRT with AuNPs and therapeutic MRT achieved the best tumor growth delay and regression with a median survival to 39.5 days; significantly longer than the 17 days achieved with priming MRT, AuNPs, and broad beam. The sensitizer enhancement ratio of 1.38 highlighted the efficacy of AuNP-enhanced MRT. CONCLUSIONS: Our study introduces a novel approach in cancer therapy, demonstrating that MRT serves as both a potent standalone treatment and an effective enhancer of drug delivery. MRT increased the tumoral concentration of AuNPs and could potentially do the same with other therapeutic agents. Our findings strongly advocate for the continued development of MRT-based combination regimens and highlight the clinical potential of this dual-mechanism approach.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Gold",
+    "Synchrotrons",
+    "Metal Nanoparticles",
+    "Mice",
+    "Melanoma, Experimental",
+    "Mice, Inbred C57BL",
+    "Combined Modality Therapy",
+    "X-Ray Microtomography",
+    "Female",
+    "CD8-Positive T-Lymphocytes"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40749779/"
+  },
+  {
    "pmid": "40730207",
    "doi": "10.3389/fonc.2022.1004121",
    "pmc": "PMC9742361",
@@ -11780,6 +12006,59 @@
     "Beam Delivery & Technology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/40622301/"
+  },
+  {
+   "pmid": "40602228",
+   "doi": "10.1016/j.ejmp.2025.105012",
+   "pmc": "",
+   "year": "2025",
+   "title": "Comparison of Deep Learning Models for fast and accurate dose map prediction in Microbeam Radiation Therapy.",
+   "authors": [
+    "Arsini L",
+    "Humphreys J",
+    "White C",
+    "Mentzel F",
+    "Paino J",
+    "Bolst D",
+    "Caccia B",
+    "Cameron M",
+    "Ciardiello A",
+    "Corde S",
+    "Engels E",
+    "Giagu S",
+    "Rosenfeld A",
+    "Tehei M",
+    "Tsoi AC",
+    "Vogel S",
+    "Lerch M",
+    "Hagenbuchner M",
+    "Guatelli S",
+    "Terracciano CM"
+   ],
+   "journal": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
+   "abstract": "BACKGROUND AND AIM: Microbeam Radiation Therapy (MRT) is an innovative radiotherapy modality which uses highly focused synchrotron-generated X-ray microbeams. Current pre-clinical research in MRT mostly rely on Monte Carlo (MC) simulations for dose estimation, which are highly accurate but computationally intensive. Recently, Deep Learning (DL) dose engines have been proved effective in generating fast and reliable dose distributions in different RT modalities. However, relatively few studies compare different models on the same task. This work aims to compare a Graph-Convolutional-Network-based DL model, developed in the context of Very High Energy Electron RT, to the Convolutional 3D U-Net that we recently implemented for MRT dose predictions. METHODS: The two DL solutions are trained with 3D dose maps, generated with the MC-Toolkit Geant4, in rats used in MRT pre-clinical research. The models are evaluated against Geant4 simulations, used as ground truth, and are assessed in terms of Mean Absolute Error, Mean Relative Error, and a voxel-wise version of the γ-index. Also presented are specific comparisons of predictions in relevant tumor regions, tissues boundaries and air pockets. The two models are finally compared from the perspective of the execution time and size. RESULTS: This study finds that the two models achieve comparable overall performance. Main differences are found in their dosimetric accuracy within specific regions, such as air pockets, and their respective inference times. Consequently, the choice between models should be guided primarily by data structure and time constraints, favoring the graph-based method for its flexibility or the 3D U-Net for its faster execution.",
+   "pubtypes": [
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "mesh": [
+    "Deep Learning",
+    "Radiotherapy Dosage",
+    "Rats",
+    "Animals",
+    "Radiation Dosage",
+    "Monte Carlo Method",
+    "Time Factors",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40602228/"
   },
   {
    "pmid": "40594566",
@@ -15207,6 +15486,51 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/39993377/"
   },
   {
+   "pmid": "39988613",
+   "doi": "10.1038/s41567-022-01520-3",
+   "pmc": "PMC3493036",
+   "year": "2025",
+   "title": "Preclinical tumor control with a laser-accelerated high-energy electron radiotherapy prototype.",
+   "authors": [
+    "Guo Z",
+    "Liu S",
+    "Zhou B",
+    "Liu J",
+    "Wang H",
+    "Pi Y",
+    "Wang X",
+    "Mo Y",
+    "Guo B",
+    "Hua J",
+    "Wan Y",
+    "Lu W"
+   ],
+   "journal": "Nature communications",
+   "abstract": "Radiotherapy using very-high-energy electron (VHEE) beams (50-300 MeV) has attracted considerable attention due to its advantageous dose deposition characteristics, enabling deep penetration and easy manipulation by magnetic components. One promising approach to compactly delivering these high energy electron beams in a cost-effective manner is laser wakefield acceleration (LWFA), which offers ultra-strong accelerating gradients. However, the transition from this concept to a functional machine intended for tumor treatment remains elusive. Here we present the self-developed pro- totype for LWFA-based VHEE radiotherapy, exhibiting compactness (occupying less than 5 m2) and long-term operational stability (validated over a period of one month). Subsequently, we employ this device to irradiate a tumor implanted in a mouse model. Following a dose delivery of 5.8 ± 0.2 Gy with precise tumor conformity, all irradiated mice exhibit pronounced control of tumor growth. For comparison, this tumor-control efficacy is similar to that achieved using commercial X-ray radiotherapy equipment operating at equivalent doses. These results demonstrate a compact and stable laser-driven VHEE system dedicated for preclinical studies involving small animal models and its promising prospects for future clinical translation in cancer therapy.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Electrons",
+    "Mice",
+    "Lasers",
+    "Neoplasms",
+    "Humans",
+    "Radiotherapy, High-Energy",
+    "Radiotherapy Dosage",
+    "Female",
+    "Cell Line, Tumor"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Radiobiology",
+    "Clinical & Translational"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39988613/"
+  },
+  {
    "pmid": "39988304",
    "doi": "10.1016/j.radonc.2025.110800",
    "pmc": "",
@@ -16622,6 +16946,45 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/39688375/"
   },
   {
+   "pmid": "39687472",
+   "doi": "10.1016/j.adro.2024.101680",
+   "pmc": "PMC5493088",
+   "year": "2025",
+   "title": "The Impact of Synchrotron Microbeam Radiation Therapy Combined With Broad Beam in a Preclinical Breast Cancer Model.",
+   "authors": [
+    "Engels E",
+    "Forrester H",
+    "Klein M",
+    "Bell C",
+    "Balderstone I",
+    "Brunt K",
+    "Barnes MJ",
+    "Cameron M",
+    "Crosbie JC",
+    "Middleton R",
+    "Fernandez-Palomo C",
+    "Dietler BB",
+    "Trappetti V",
+    "Fazzari JM",
+    "Hausermann D",
+    "Anderson RL",
+    "Djonov VG",
+    "Martin OA"
+   ],
+   "journal": "Advances in radiation oncology",
+   "abstract": "PURPOSE: Both local tumor control and distant metastasis are important indicators of the efficacy of radiation therapy treatment. Synchrotron microbeam radiation therapy (MRT), spatially fractionated radiation delivered at ultrahigh dose rates, shows remarkable normal tissue sparing with excellent local control in some models. Some MRT regimens trigger an antitumor immune response that contributes not only to the local but also to systemic treatment efficacy. Despite recent advances in the treatment of primary breast cancer, metastatic disease is still the major cause of treatment failure in the clinic. Here, in an aggressive preclinical triple-negative breast cancer model, we compared local tumor response and metastasis following different MRT treatment programs. METHODS AND MATERIALS: 4T1.2 mouse mammary tumors were treated with 300 Gy peak/7 Gy valley dose MRT and/or 8 Gy broad beam (BB) radiation, all delivered as daily fractionated programs (3 consecutive daily sessions of either MRT or BB or 1 MRT combined with 2 BB sessions, the first or last of the 3 fractions). The mice were euthanized on day 9 post last irradiation, when unirradiated control animals reached an ethical endpoint. Primary tumors were collected to evaluate immune cell prevalence, while lungs, spinal cords, and locoregional lymph nodes were collected to measure metastatic burden. In parallel, local tumor growth and survival were monitored. RESULTS: The combined MRT/BB treatment shifted the balance between pro- and antitumorigenic macrophages toward the accumulation of antitumorigenic macrophages in the tumor. Monitoring of the tumor volume and animal health indicated the benefit of the combined MRT/BB treatment for local control and treatment tolerance, while animal survival was only marginally longer for one combined schedule. The metastatic burden was similar for all 4 treatment schedules. CONCLUSIONS: The addition of a single MRT to BB treatment improved the primary tumor response. This provides a basis for future experiments incorporating adjuvant immunotherapy or chemotherapy to improve local and systemic treatment outcomes.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39687472/"
+  },
+  {
    "pmid": "39680793",
    "doi": "10.1002/mp.17589",
    "pmc": "",
@@ -17264,6 +17627,42 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/39424078/"
   },
   {
+   "pmid": "39419015",
+   "doi": "10.1002/mp.17392",
+   "pmc": "PMC8263594",
+   "year": "2025",
+   "title": "Implementation and validation of a very-high-energy electron model in the matRad treatment planning system.",
+   "authors": [
+    "Sitarz M",
+    "Ronga MG",
+    "Gesualdi F",
+    "Bonfrate A",
+    "Wahl N",
+    "De Marzi L"
+   ],
+   "journal": "Medical physics",
+   "abstract": "BACKGROUND: While electron beams of up to 20 MeV are commonly used in radiotherapy, the use of very-high-energy electrons (VHEEs) in the range of 100-200 MeV is now becoming a realistic option thanks to the recent advancements in accelerator technology. Indeed, VHEE offers several clinically attractive features and can be delivered using various conformation methods (including scanning, collimation, and focussing) at ultra-high dose rates. To date, there is a lack of research tools for fast simulation of treatment plans using VHEE beams. PURPOSE: This work aims to implement and validate a simple and fast dose calculation algorithm based on the Fermi-Eyges theory of multiple Coulomb scattering for VHEE radiation therapy, with energies up to 200 MeV. A treatment planning system (TPS) toolkit with VHEE modality would indeed allow for further preclinical investigations, including treatment plan optimization and evaluation, and thus contribute to the gradual introduction of VHEE radiotherapy in clinical practice. METHODS: A VHEE pencil beam scanning double Gaussian model was introduced into the open-source TPS matRad environment along with new functions and options dedicated to VHEE dose calculations. Various geometries and field configurations were then calculated in matRad (up to 200 MeV and 15 × 15 cm2, with complex bone or lung heterogeneities) and the results were compared to Monte Carlo simulations in the TOPAS/Geant4 toolkit. Two types of beam model (divergent or focused) were also tested. Examples of clinical treatment plans were computed, and the results were compared between the two codes. RESULTS: VHEE modality was fully implemented in matRad with GUI capabilities while preserving all original TPS features. New relevant options such as the importation of specific spot-lists or adjustment of the lateral dose calculation cutoff to optimize the calculation speed were validated. Single spot and square field dose distributions were validated in water alone as well as in clinically relevant inhomogeneities. Dose maps from the VHEE model in matRad were in good agreement with TOPAS (2D gamma index [2%/1 mm] with passing rates superior to 90%, <6% mean dose differences), except for large interface heterogeneities. CONCLUSIONS: This work describes the implementation of a simple but efficient VHEE simulation model in matRad. A few configurations were studied in order to validate the model against accurate Monte Carlo simulations, demonstrating its usefulness for carrying out preliminary studies involving VHEE radiotherapy.",
+   "pubtypes": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "mesh": [
+    "Radiotherapy Planning, Computer-Assisted",
+    "Electrons",
+    "Radiotherapy Dosage",
+    "Monte Carlo Method",
+    "Algorithms",
+    "Humans"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology",
+    "Treatment Planning & Optimization"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39419015/"
+  },
+  {
    "pmid": "39299552",
    "doi": "10.1080/09553007014550291",
    "pmc": "PMC9433962",
@@ -17887,6 +18286,54 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/39571283/"
   },
   {
+   "pmid": "39536706",
+   "doi": "10.1088/1361-6560/ad9232",
+   "pmc": "",
+   "year": "2024",
+   "title": "Spatially fractionated radiotherapy with very high energy electron pencil beam scanning.",
+   "authors": [
+    "Fischer J",
+    "Hart A",
+    "Bedriová N",
+    "Krim DE",
+    "Clements N",
+    "Bateman J",
+    "Korysko P",
+    "Farabolini W",
+    "Rieker V",
+    "Corsini R",
+    "Dosanjh M",
+    "Bazalova-Carter M"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Objective.To evaluate spatially fractionated radiation therapy (SFRT) for very-high-energy electrons (VHEEs) delivered with pencil beam scanning.Approach. Radiochromic film was irradiated at the CERN linear electron accelerator for research using 194 MeV electrons with a step-and-shoot technique, moving films within a water tank. Peak-to-valley dose ratios (PVDRs), depths of convergence (PVDR ⩽ 1.1), peak doses, and valley doses assessed SFRT dose distribution quality. A Monte Carlo (MC) model of the pencil beams was developed using TOPAS and applied to a five-beam VHEE SFRT treatment for a canine glioma patient, compared to a clinical 6 MV VMAT plan. The plans were evaluated based on dose-volume histograms, mean dose, and maximum dose to the planning target volume (PTV) and organs at risks (OARs).Main results. Experimental PVDR values were maximized at 15.5 ± 0.1 at 12 mm depth for 5 mm spot spacing. A DOC of 76.5, 70.7, and 56.6 mm was found for 5, 4, and 3 mm beamlet spacings, respectively. MC simulations and experiments showed good agreement, with maximum relative dose differences of 2% in percentage depth dose curves and less than 3% in beam profiles. Simulated PVDR values reached 180 ± 4, potentially achievable with reduced leakage dose. VHEE SFRT plans for the canine glioma patient showed a decrease in mean dose (>16%) to OARs while increasing the PTV mean dose by up to 15%. Lowering beam energy enhanced PTV dose homogeneity and reduced OAR maximum doses.Significance. The presented work demonstrates that pencil beam scanning SFRT with VHEEs could treat deep-seated tumors such as head and neck cancer or lung lesions, though small beam size and leakage dose may limit the achievable PVDR.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Dogs",
+    "Monte Carlo Method",
+    "Electrons",
+    "Animals",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Dose Fractionation, Radiation",
+    "Glioma",
+    "Radiotherapy Dosage",
+    "Brain Neoplasms",
+    "Organs at Risk",
+    "Radiotherapy, High-Energy"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry",
+    "Clinical & Translational",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39536706/"
+  },
+  {
    "pmid": "39525619",
    "doi": "10.1158/0008-5472.CAN-21-1500",
    "pmc": "PMC8715480",
@@ -18205,6 +18652,35 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/39432387/"
+  },
+  {
+   "pmid": "39425326",
+   "doi": "10.1103/PhysRevE.110.035204",
+   "pmc": "",
+   "year": "2024",
+   "title": "Laser-driven electron source suitable for single-shot Gy-scale irradiation of biological cells at dose rates exceeding 10^{10} Gy/s.",
+   "authors": [
+    "McAnespie CA",
+    "Chaudhary P",
+    "Calvin L",
+    "Streeter MJV",
+    "Nersysian G",
+    "McMahon SJ",
+    "Prise KM",
+    "Sarri G"
+   ],
+   "journal": "Physical review. E",
+   "abstract": "We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high degree of spatial uniformity. The results reported here confirm that a laser-driven source of this kind can be used for systematic studies of the response of biological cells to picosecond-scale radiation at ultrahigh dose rates.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39425326/"
   },
   {
    "pmid": "39422537",
@@ -20817,7 +21293,8 @@
    "journal": "Physics in medicine and biology",
    "abstract": "Objective. In current clinical practice for quality assurance (QA), intensity modulated proton therapy (IMPT) fields are verified by measuring planar dose distributions at one or a few selected depths in a phantom. A QA device that measures full 3D dose distributions at high spatiotemporal resolution would be highly beneficial for existing as well as emerging proton therapy techniques such as FLASH radiotherapy. Our objective is to demonstrate feasibility of 3D dose measurement for IMPT fields using a dedicated multi-layer strip ionization chamber (MLSIC) device.Approach.Our developed MLSIC comprises a total of 66 layers of strip ion chamber (IC) plates arranged, alternatively, in thexandydirection. The first two layers each has 128 channels in 2 mm spacing, and the following 64 layers each has 32/33 IC strips in 8 mm spacing which are interconnected every eight channels. A total of 768-channel IC signals are integrated and sampled at a speed of 6 kfps. The MLSIC has a total of 19.2 cm water equivalent thickness and is capable of measurement over a 25 × 25 cm2field size. A reconstruction algorithm is developed to reconstruct 3D dose distribution for each spot at all depths by considering a double-Gaussian-Cauchy-Lorentz model. The 3D dose distribution of each beam is obtained by summing all spots. The performance of our MLSIC is evaluated for a clinical pencil beam scanning (PBS) plan.Main results.The dose distributions for each proton spot can be successfully reconstructed from the ionization current measurement of the strip ICs at different depths, which can be further summed up to a 3D dose distribution for the beam. 3D Gamma Index analysis indicates acceptable agreement between the measured and expected dose distributions from simulation, Zebra and MatriXX.Significance.The dedicated MLSIC is the first pseudo-3D QA device that can measure 3D dose distribution in PBS proton fields spot-by-spot.",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
    ],
    "mesh": [
     "Radiometry",
@@ -20935,7 +21412,8 @@
    "abstract": "Dosimetry of ultra-high dose rate beams is one of the critical components which is required for safe implementation of FLASH radiotherapy (RT) into clinical practice. In the past years several national and international programmes have emerged with the aim to address some of the needs that are required for translation of this modality to clinics. These involve the establishment of dosimetry standards as well as the validation of protocols and dosimetry procedures. This review provides an overview of recent developments in the field of dosimetry for FLASH RT, with particular focus on primary and secondary standard instruments, and provides a brief outlook on the future work which is required to enable clinical implementation of FLASH RT.",
    "pubtypes": [
     "Journal Article",
-    "Review"
+    "Review",
+    "Research Support, Non-U.S. Gov't"
    ],
    "mesh": [
     "Radiotherapy Dosage",
@@ -21480,6 +21958,54 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/38748998/"
   },
   {
+   "pmid": "38740830",
+   "doi": "10.1118/1.4758060",
+   "pmc": "PMC3493036",
+   "year": "2024",
+   "title": "First in vitro measurement of VHEE relative biological effectiveness (RBE) in lung and prostate cancer cells using the ARES linac at DESY.",
+   "authors": [
+    "Wanstall HC",
+    "Burkart F",
+    "Dinter H",
+    "Kellermeier M",
+    "Kuropka W",
+    "Mayet F",
+    "Vinatier T",
+    "Santina E",
+    "Chadwick AL",
+    "Merchant MJ",
+    "Henthorn NT",
+    "Köpke M",
+    "Stacey B",
+    "Jaster-Merz S",
+    "Jones RM"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "Very high energy electrons (VHEE) are a potential candidate for radiotherapy applications. This includes tumours in inhomogeneous regions such as lung and prostate cancers, due to the insensitivity of VHEE to inhomogeneities. This study explores how electrons in the VHEE range can be used to perform successful in vitro radiobiological studies. The ARES (accelerator research experiment at SINBAD) facility at DESY, Hamburg, Germany was used to deliver 154 MeV electrons to both prostate (PC3) and lung (A549) cancer cells in suspension. Dose was delivered to samples with repeatability and uniformity, quantified with Gafchromic film. Cell survival in response to VHEE was measured using the clonogenic assay to determine the biological effectiveness of VHEE in cancer cells for the first time using this method. Equivalent experiments were performed using 300 kVp X-rays, to enable VHEE irradiated cells to be compared with conventional photons. VHEE irradiated cancer cell survival was fitted to the linear quadratic (LQ) model (R2 = 0.96-0.97). The damage from VHEE and X-ray irradiated cells at doses between 1.41 and 6.33 Gy are comparable, suggesting similar relative biological effectiveness (RBE) between the two modalities. This suggests VHEE is as damaging as photon radiotherapy and therefore could be used to successfully damage cancer cells during radiotherapy. The RBE of VHEE was quantified as the relative doses required for 50% (D0.5) and 10% (D0.1) cell survival. Using these values, VHEE RBE was measured as 0.93 (D0.5) and 0.99 (D0.1) for A549 and 0.74 (D0.5) and 0.93 (D0.1) for PC3 cell lines respectively. For the first time, this study has shown that 154 MeV electrons can be used to effectively kill lung and prostate cancer cells, suggesting that VHEE would be a viable radiotherapy modality. Several studies have shown that VHEE has characteristics that would offer significant improvements over conventional photon radiotherapy for example, electrons are relatively easy to steer and can be used to deliver dose rapidly and with high efficiency. Studies have shown improved dose distribution with VHEE in treatment plans, in comparison to VMAT, indicating that VHEE can offer improved and safer treatment plans with reduced side effects. The biological response of cancer cells to VHEE has not been sufficiently studied as of yet, however this initial study provides some initial insights into cell damage. VHEE offers significant benefits over photon radiotherapy and therefore more studies are required to fully understand the biological effectiveness of VHEE.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Humans",
+    "Prostatic Neoplasms",
+    "Relative Biological Effectiveness",
+    "Male",
+    "Lung Neoplasms",
+    "Cell Survival",
+    "Electrons",
+    "Particle Accelerators",
+    "PC-3 Cells",
+    "Cell Line, Tumor",
+    "A549 Cells"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38740830/"
+  },
+  {
    "pmid": "38737902",
    "doi": "10.1093/jicru/ndq001",
    "pmc": "PMC4041542",
@@ -21890,6 +22416,43 @@
     "Beam Delivery & Technology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/38692114/"
+  },
+  {
+   "pmid": "38657630",
+   "doi": "10.1088/1361-6560/ad4303",
+   "pmc": "PMC4045982",
+   "year": "2024",
+   "title": "TOPAS simulation of photoneutrons in radiotherapy: accuracy and speed with variance reduction.",
+   "authors": [
+    "Ramos-Mendez J",
+    "Ortiz CR",
+    "Schuemann J",
+    "Paganetti H",
+    "Faddegon B"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Objective. We provide optimal particle split numbers for speeding up TOPAS Monte Carlo simulations of linear accelerator (linac) treatment heads while maintaining accuracy. In addition, we provide a new TOPAS physics module for simulating photoneutron production and transport.Approach.TOPAS simulation of a Siemens Oncor linac was used to determine the optimal number of splits for directional bremsstrahlung splitting as a function of the field size for 6 MV and 18 MV x-ray beams. The linac simulation was validated against published data of lateral dose profiles and percentage depth-dose curves (PDD) for the largest square field (40 cm side). In separate simulations, neutron particle split and the custom TOPAS physics module was used to generate and transport photoneutrons, called 'TsPhotoNeutron'. Verification of accuracy was performed by comparing simulations with published measurements of: (1) neutron yields as a function of beam energy for thick targets of Al, Cu, Ta, W, Pb and concrete; and (2) photoneutron energy spectrum at 40 cm laterally from the isocenter of the Oncor linac from an 18 MV beam with closed jaws and MLC.Main results.The optimal number of splits obtained for directional bremsstrahlung splitting enhanced the computational efficiency by two orders of magnitude. The efficiency decreased with increasing beam energy and field size. Calculated lateral profiles in the central region agreed within 1 mm/2% from measured data, PDD curves within 1 mm/1%. For the TOPAS physics module, at a split number of 146, the efficiency of computing photoneutron yields was enhanced by a factor of 27.6, whereas it improved the accuracy over existing Geant4 physics modules.Significance.This work provides simulation parameters and a new TOPAS physics module to improve the efficiency and accuracy of TOPAS simulations that involve photonuclear processes occurring in high-Zmaterials found in linac components, patient devices, and treatment rooms, as well as to explore new therapeutic modalities such as very-high energy electron therapy.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Monte Carlo Method",
+    "Neutrons",
+    "Photons",
+    "Particle Accelerators",
+    "Time Factors",
+    "Radiotherapy Dosage",
+    "Reproducibility of Results",
+    "Computer Simulation",
+    "Humans",
+    "Radiotherapy"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38657630/"
   },
   {
    "pmid": "38655137",
@@ -23678,6 +24241,34 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/38308528/"
   },
   {
+   "pmid": "38307920",
+   "doi": "10.13182/NSE89-4",
+   "pmc": "PMC9873679",
+   "year": "2024",
+   "title": "Extending deterministic transport capabilities for very-high and ultra-high energy electron beams.",
+   "authors": [
+    "Naceur A",
+    "Bienvenue C",
+    "Romano P",
+    "Chilian C",
+    "Carrier JF"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "Focused Very-High Energy Electron (VHEE, 50-300 MeV) and Ultra-High Energy Electron (UHEE, > 300 MeV) beams can accurately target both large and deeply seated human tumors with high sparing properties, while avoiding the spatial requirements and cost of proton and heavy ion facilities. Advanced testing phases are underway at the CLEAR facilities at CERN (Switzerland), NLCTA at Stanford (USA), and SPARC at INFN (Italy), aiming to accelerate the transition to clinical application. Currently, Monte Carlo (MC) transport is the sole paradigm supporting preclinical trials and imminent clinical deployment. In this paper, we propose an alternative: the first extension of the nuclear-reactor deterministic chain NJOY-DRAGON for VHEE and UHEE applications. We have extended the Boltzmann-Fokker-Planck (BFP) multigroup formalism and validated it using standard radio-oncology benchmarks, complex assemblies with a wide range of atomic numbers, and comprehensive irradiation of the entire periodic table. We report that [Formula: see text] of water voxels exhibit a BFP-MC deviation below [Formula: see text] for electron energies under [Formula: see text]. Additionally, we demonstrate that at least [Formula: see text] of voxels of bone, lung, adipose tissue, muscle, soft tissue, tumor, steel, and aluminum meet the same criterion between [Formula: see text] and [Formula: see text]. For water, the thorax, and the breast intra-operative benchmark, typical average BFP-MC deviations of [Formula: see text] and [Formula: see text] were observed at [Formula: see text] and [Formula: see text], respectively. By irradiating the entire periodic table, we observed similar performance between lithium ([Formula: see text]) and cerium ([Formula: see text]). Deficiencies observed between praseodymium ([Formula: see text]) and einsteinium ([Formula: see text]) have been reported, analyzed, and quantified, offering critical insights for the ongoing development of the Evaluated Nuclear Data File mode in NJOY.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Clinical & Translational",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38307920/"
+  },
+  {
    "pmid": "38304871",
    "doi": "10.1259/bjr.20220560",
    "pmc": "PMC10392637",
@@ -24529,6 +25120,45 @@
     "Beam Delivery & Technology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/37991111/"
+  },
+  {
+   "pmid": "37956734",
+   "doi": "10.1016/j.ijrobp.2023.10.024",
+   "pmc": "",
+   "year": "2024",
+   "title": "Response of Cancer Stem Cells and Human Skin Fibroblasts to Picosecond-Scale Electron Irradiation at 1010 to 1011 Gy/s.",
+   "authors": [
+    "McAnespie CA",
+    "Chaudhary P",
+    "Calvin L",
+    "Streeter MJV",
+    "Nersysian G",
+    "McMahon SJ",
+    "Prise KM",
+    "Sarri G"
+   ],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "PURPOSE: This study aimed to demonstrate for the first time the possibility of irradiating biological cells with gray (Gy)-scale doses delivered over single bursts of picosecond-scale electron beams, resulting in unprecedented dose rates of 1010 to 1011 Gy/s. METHODS AND MATERIALS: Cancer stem cells and human skin fibroblasts were irradiated with MeV-scale electron beams from a laser-driven source. Doses up to 3 Gy per pulse with a high spatial uniformity (coefficient of variance, 3%-6%) and within a timescale range of 10 to 20 picoseconds were delivered. Doses were characterized during irradiation and were found to be in agreement with Monte Carlo simulations. Cell survival and DNA double-strand break repair dynamics were studied for both cell lines using clonogenic assay and 53BP1 foci formation. The results were compared with reference x-rays at a dose rate of 0.49 Gy/min. RESULTS: Results from clonogenic assays of both cell lines up to 3 Gy were well fitted by a linear quadratic model with α = (0.68 ± 0.08) Gy-1 and β = (0.01 ± 0.01) Gy-2 for human skin fibroblasts and α = (0.51 ± 0.14) Gy-1 and β = (0.01 ± 0.01) Gy-2 for cancer stem cells. Compared with irradiation at 0.49 Gy/min, our experimental results indicate no statistically significant difference in cell survival rate for doses up to 3 Gy despite a significant increase in the α parameter, which may reflect more complex damage. Foci measurements showed no significant difference between irradiation at 1011 Gy/s and at 0.49 Gy/min. CONCLUSIONS: This study demonstrates the possibility of performing radiobiological studies with picosecond-scale laser-generated electron beams at ultrahigh dose rates of 1010 to1011 Gy/s. Preliminary results indicate, within statistical uncertainties, a significant increase of the α parameter, a possible indication of more complex damage induced by a higher density of ionizing tracks.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Humans",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "DNA Repair",
+    "Fibroblasts",
+    "Neoplastic Stem Cells",
+    "Neoplasms"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37956734/"
   },
   {
    "pmid": "37951550",
@@ -25648,6 +26278,37 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/37958936/"
   },
   {
+   "pmid": "37955497",
+   "doi": "10.1103/PhysRevLett.131.178001",
+   "pmc": "",
+   "year": "2023",
+   "title": "Electric Fields in Liquid Water Irradiated with Protons at Ultrahigh Dose Rates.",
+   "authors": [
+    "Gobet F",
+    "Barberet P",
+    "Delville MH",
+    "Devès G",
+    "Guérin T",
+    "Liénard R",
+    "Tran HN",
+    "Vecco-Garda C",
+    "Würger A",
+    "Zein S",
+    "Seznec H"
+   ],
+   "journal": "Physical review letters",
+   "abstract": "We study the effects of irradiating water with 3 MeV protons at high doses by observing the motion of charged polystyrene beads outside the proton beam. By single-particle tracking, we measure a radial velocity of the order of microns per second. Combining electrokinetic theory with simulations of the beam-generated reaction products and their outward diffusion, we find that the bead motion is due to electrophoresis in the electric field induced by the mobility contrast of cations and anions. This work sheds light on the perturbation of biological systems by high-dose radiations and paves the way for the manipulation of colloid or macromolecular dispersions by radiation-induced diffusiophoresis.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37955497/"
+  },
+  {
    "pmid": "37953445",
    "doi": "10.1101/2022.11.27.518083",
    "pmc": "PMC7325740",
@@ -26124,6 +26785,43 @@
     "Beam Delivery & Technology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/37804712/"
+  },
+  {
+   "pmid": "37797651",
+   "doi": "10.1088/1361-6560/ad00a3",
+   "pmc": "",
+   "year": "2023",
+   "title": "Time dynamics of the dose deposited by relativistic ultra-short electron beams.",
+   "authors": [
+    "Horváth D",
+    "Grittani G",
+    "Precek M",
+    "Versaci R",
+    "Bulanov SV",
+    "Olšovcová V"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Ultra-short electron beams are used as ultra-fast radiation source for radiobiology experiments aiming at very high energy electron beams (VHEE) radiotherapy with very high dose rates. Laser plasma accelerators are capable of producing electron beams as short as 1 fs and with tunable energy from few MeV up to multi-GeV with compact footprint. This makes them an attractive source for applications in different fields, where the ultra-short (fs) duration plays an important role. The time dynamics of the dose deposited by electron beams with energies in the range 50-250 MeV have been studied and the results are presented here. The results set a quantitative limit to the maximum dose rate at which the electron beams can impart dose.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Electrons",
+    "Monte Carlo Method",
+    "Particle Accelerators",
+    "Lasers",
+    "Radiotherapy, High-Energy",
+    "Radiotherapy Dosage",
+    "Radiometry"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37797651/"
   },
   {
    "pmid": "37766866",
@@ -28530,6 +29228,39 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/37158121/"
   },
   {
+   "pmid": "37145971",
+   "doi": "10.1002/mp.16432",
+   "pmc": "",
+   "year": "2023",
+   "title": "Development and characterization of a versatile mini-beam collimator for pre-clinical photon beam irradiation.",
+   "authors": [
+    "Stengl C",
+    "Arbes E",
+    "Thai LJ",
+    "Echner G",
+    "Vedelago J",
+    "Jansen J",
+    "Jäkel O",
+    "Seco J"
+   ],
+   "journal": "Medical physics",
+   "abstract": "BACKGROUND: Interest in spatial fractionation radiotherapy has exponentially increased over the last decade as a significant reduction of healthy tissue toxicity was observed by mini-beam irradiation. Published studies, however, mostly use rigid mini-beam collimators dedicated to their exact experimental arrangement such that changing the setup or testing new mini-beam collimator configurations becomes challenging and expensive. PURPOSE: In this work, a versatile, low-cost mini-beam collimator was designed and manufactured for pre-clinical applications with X-ray beams. The mini-beam collimator enables variability of the full width at half maximum (FWHM), the center-to-center distance (ctc), the peak-to-valley dose ratio (PVDR), and the source-to-collimator distance (SCD). METHODS: The mini-beam collimator is an in-house development, which was constructed of 10 ×  40 mm2 tungsten or brass plates. These metal plates were combined with 3D-printed plastic plates that can be stacked together in the desired order. A standard X-ray source was used for the dosimetric characterization of four different configurations of the collimator, including a combination of plastic plates of 0.5, 1, or 2 mm width, assembled with 1 or 2 mm thick metal plates. Irradiations were done at three different SCDs for characterizing the performance of the collimator. For the SCDs closer to the radiation source, the plastic plates were 3D-printed with a dedicated angle to compensate for the X-ray beam divergence, making it possible to study ultra-high dose rates of around 40 Gy/s. All dosimetric quantifications were performed using EBT-XD films. Additionally, in vitro studies with H460 cells were carried out. RESULTS: Characteristic mini-beam dose distributions were obtained with the developed collimator using a conventional X-ray source. With the exchangeable 3D-printed plates, FWHM and ctc from 0.52 to 2.11 mm, and from 1.77 to 4.61 mm were achieved, with uncertainties ranging from 0.01% to 8.98%, respectively. The FWHM and ctc obtained with the EBT-XD films are in agreement with the design of each mini-beam collimator configuration. For dose rates in the order of several Gy/min, the highest PVDR of 10.09 ± 1.08 was achieved with a collimator configuration of 0.5 mm thick plastic plates and 2 mm thick metal plates. Exchanging the tungsten plates with the lower-density metal brass reduced the PVDR by approximately 50%. Also, increasing the dose rate to ultra-high dose rates was feasible with the mini-beam collimator, where a PVDR of 24.26 ± 2.10 was achieved. Finally, it was possible to deliver and quantify mini-beam dose distribution patterns in vitro. CONCLUSIONS: With the developed collimator, we achieved various mini-beam dose distributions that can be adjusted according to the needs of the user in regards to FWHM, ctc, PVDR and SCD, while accounting for beam divergence. Therefore, the designed mini-beam collimator may enable low-cost and versatile pre-clinical research on mini-beam irradiation.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Tungsten",
+    "Commerce",
+    "Copper",
+    "Zinc"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37145971/"
+  },
+  {
    "pmid": "37141903",
    "doi": "10.1088/1361-6560/acd29e",
    "pmc": "",
@@ -29888,6 +30619,50 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/36731459/"
   },
   {
+   "pmid": "36731142",
+   "doi": "10.1088/1361-6560/acb886",
+   "pmc": "",
+   "year": "2023",
+   "title": "Alanine response to low energy synchrotron x-ray radiation.",
+   "authors": [
+    "van den Elzen P",
+    "Sander T",
+    "Palmans H",
+    "McManus M",
+    "Woodall N",
+    "Lee N",
+    "Fox OJL",
+    "Jones RM",
+    "Angal-Kalinin D",
+    "Subiel A"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Objective. The radiation response of alanine is very well characterized in the MV photon energy range where it can be used to determine the dose delivered with an accuracy better than 1%, making it suitable as a secondary standard detector in cancer radiation therapy. This is not the case in the very low energy keV x-ray range where the alanine response is affected by large uncertainties and is strongly dependent on the x-ray beam energy. This motivated the study undertaken here.Approach. Alanine pellets with a nominal thickness of 0.5 mm and diameter of 5 mm were irradiated with monoenergetic x-rays at the Diamond Light Source synchrotron, to quantify their response in the 8-20 keV range relative to60Co radiation. The absorbed dose to graphite was measured with a small portable graphite calorimeter, and the DOSRZnrc code in the EGSnrc Monte Carlo package was used to calculate conversion factors between the measured dose to graphite and the absorbed dose to water delivered to the alanine pellets. GafChromic EBT3 films were used to measure the beam profile for modelling in the MC simulations.Main results. The relative responses measured in this energy range were found to range from 0.616 to 0.643, with a combined relative expanded uncertainty of 3.4%-3.5% (k= 2), where the majority of the uncertainty originated from the uncertainty in the alanine readout, due to the small size of the pellets used.Significance. The measured values were in good agreement with previously published data in the overlapping region of x-ray energies, while this work extended the dataset to lower energies. By measuring the response to monoenergetic x-rays, the response to a more complex broad-spectrum x-ray source can be inferred if the spectrum is known, meaning that this work supports the establishment of alanine as a secondary standard dosimeter for low-energy x-ray sources.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Alanine",
+    "Brachytherapy",
+    "Graphite",
+    "Monte Carlo Method",
+    "Neoplasms",
+    "Radiometry",
+    "Synchrotrons",
+    "Uncertainty",
+    "X-Rays",
+    "Humans"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36731142/"
+  },
+  {
    "pmid": "36731139",
    "doi": "10.1016/j.radonc.2021.12.045",
    "pmc": "PMC9433962",
@@ -30484,6 +31259,55 @@
     "Clinical & Translational"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/36375771/"
+  },
+  {
+   "pmid": "36356308",
+   "doi": "10.1088/1361-6560/aca1f2",
+   "pmc": "",
+   "year": "2023",
+   "title": "GPU-accelerated Monte Carlo simulation of electron and photon interactions for radiotherapy applications.",
+   "authors": [
+    "Franciosini G",
+    "Battistoni G",
+    "Cerqua A",
+    "De Gregorio A",
+    "De Maria P",
+    "De Simoni M",
+    "Dong Y",
+    "Fischetti M",
+    "Marafini M",
+    "Mirabelli R",
+    "Muscato A",
+    "Patera V",
+    "Salvati F",
+    "Sarti A",
+    "Sciubba A",
+    "Toppi M",
+    "Traini G",
+    "Trigilio A",
+    "Schiavi A"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Objective. The Monte Carlo simulation software is a valuable tool in radiation therapy, in particular to achieve the needed accuracy in the dose evaluation for the treatment plans optimisation. The current challenge in this field is the time reduction to open the way to many clinical applications for which the computational time is an issue. In this manuscript we present an innovative GPU-accelerated Monte Carlo software for dose valuation in electron and photon based radiotherapy, developed as an update of the FRED (Fast paRticle thErapy Dose evaluator) software.Approach. The code transports particles through a 3D voxel grid, while scoring their energy deposition along their trajectory. The models of electromagnetic interactions in the energy region between 1 MeV-1 GeV available in literature have been implemented to efficiently run on GPUs, allowing to combine a fast tracking while keeping high accuracy in dose assessment. The FRED software has been bench-marked against state-of-art full MC (FLUKA, GEANT4) in the realm of two different radiotherapy applications: Intra-Operative Radio Therapy and Very High Electron Energy radiotherapy applications.Results. The single pencil beam dose-depth profiles in water as well as the dose map computed on non-homogeneous phantom agree with full-MCs at 2% level, observing a gain in processing time from 200 to 5000.Significance. Such performance allows for computing a plan with electron beams in few minutes with an accuracy of ∼%, demonstrating the FRED potential to be adopted for fast plan re-calculation in photon or electron radiotherapy applications.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Electrons",
+    "Monte Carlo Method",
+    "Computer Simulation",
+    "Software",
+    "Photons",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy Dosage",
+    "Phantoms, Imaging",
+    "Algorithms"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/36356308/"
   },
   {
    "pmid": "36334265",
@@ -32973,6 +33797,32 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/35900902/"
   },
   {
+   "pmid": "35884591",
+   "doi": "10.1016/j.ejmp.2021.05.027",
+   "pmc": "PMC5307769",
+   "year": "2022",
+   "title": "Treatment Planning in Intraoperative Radiation Therapy (IORT): Where Should We Go?",
+   "authors": [
+    "Cavedon C",
+    "Mazzarotto R"
+   ],
+   "journal": "Cancers",
+   "abstract": "As opposed to external beam radiation therapy (EBRT), treatment planning systems (TPS) dedicated to intraoperative radiation therapy (IORT) were not subject to radical modifications in the last two decades. However, new treatment regimens such as ultrahigh dose rates and combination with multiple treatment modalities, as well as the prospected availability of dedicated in-room imaging, call for important new features in the next generation of treatment planning systems in IORT. Dosimetric accuracy should be guaranteed by means of advanced dose calculation algorithms, capable of modelling complex scattering phenomena and accounting for the non-tissue equivalent materials used to shape and compensate electron beams. Kilovoltage X-ray based IORT also presents special needs, including the correct description of extremely steep dose gradients and the accurate simulation of applicators. TPSs dedicated to IORT should also allow real-time imaging to be used for treatment adaptation at the time of irradiation. Other features implemented in TPSs should include deformable registration and capability of radiobiological planning, especially if unconventional irradiation schemes are used. Finally, patient safety requires that the multiple features be integrated in a comprehensive system in order to facilitate control of the whole process.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry",
+    "Treatment Planning & Optimization",
+    "Radiobiology",
+    "Clinical & Translational"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35884591/"
+  },
+  {
    "pmid": "35868604",
    "doi": "10.1016/j.radonc.2022.07.011",
    "pmc": "",
@@ -34907,6 +35757,36 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/35256424/"
   },
   {
+   "pmid": "35240589",
+   "doi": "10.1088/1361-6560/ac5a94",
+   "pmc": "",
+   "year": "2022",
+   "title": "Determination of beam quality correction factors for the Roos plane-parallel ionisation chamber exposed to very high energy electron (VHEE) beams using Geant4.",
+   "authors": [
+    "McManus M",
+    "Romano F",
+    "Royle G",
+    "Botnariuc D",
+    "Shipley D",
+    "Palmans H",
+    "Subiel A"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Detailed characterisation of the Roos secondary standard plane-parallel ionisation chamber has been conducted in a novel 200 MeV Very High Energy Electron (VHEE) beam with reference to the standard 12 MeV electron calibration beam used in our experimental work. Stopping-power-ratios and perturbation factors have been determined for both beams and used to calculated the beam quality correction factor using the Geant4 general purpose MC code. These factors have been calculated for a variety of charged particle transport parameters available in Geant4 which were found to pass the Fano cavity test. Stopping-power-ratios for the 12 MeV electron calibration beam quality were found to agree within uncertainties to that quoted by current dosimetry protocols. Perturbation factors were found to vary by up-to 4% for the calibration beam depending on the parameter configuration, compared with only 0.8% for the VHEE beam. Beam quality correction factors were found to describe an approximately 10% lower dose than would be originally calculated if a beam quality correction were not accounted for. Moreover, results presented here largely resolve unphysical chamber measurements, such as collection efficiencies greater than 100%, and assist in the accurate determination of absorbed dose and ion recombination in secondary standard ionisation chambers.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/35240589/"
+  },
+  {
    "pmid": "35227789",
    "doi": "10.1016/j.ijrobp.2022.02.009",
    "pmc": "",
@@ -36750,6 +37630,34 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/34901476/"
   },
   {
+   "pmid": "34844225",
+   "doi": "10.1088/1361-6560/ac3e0f",
+   "pmc": "",
+   "year": "2021",
+   "title": "A Geant4 Fano test for novel very high energy electron beams.",
+   "authors": [
+    "McManus M",
+    "Romano F",
+    "Royle G",
+    "Palmans H",
+    "Subiel A"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Objective.The boundary crossing algorithm available in Geant4 10.07-p01 general purpose Monte Carlo code has been investigated for a 12 and 200 MeV electron source by the application of a Fano cavity test.Approach.Fano conditions were enforced through all simulations whilst varying individual charged particle transport parameters which control particle step size, ionisation and single scattering.Main Results.At 12 MeV, Geant4 was found to return excellent dose consistency within 0.1% even with the default parameter configurations. The 200 MeV case, however, showed significant consistency issues when default physics parameters were employed with deviations from unity of more than 6%. The effect of the inclusion of nuclear interactions was also investigated for the 200 MeV beam and was found to return good consistency for a number of parameter configurations.Significance.The Fano test is a necessary investigation to ensure the consistency of charged particle transport available in Geant4 before detailed detector simulations can be conducted.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34844225/"
+  },
+  {
    "pmid": "34830946",
    "doi": "10.1016/j.ijrobp.2017.05.014",
    "pmc": "PMC7855553",
@@ -36875,6 +37783,41 @@
     "Beam Delivery & Technology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/34655083/"
+  },
+  {
+   "pmid": "34642417",
+   "doi": "10.1667/rr2606.1",
+   "pmc": "PMC4149696",
+   "year": "2021",
+   "title": "Dosimetry and radioprotection evaluations of very high energy electron beams.",
+   "authors": [
+    "Masilela TAM",
+    "Delorme R",
+    "Prezado Y"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "Very high energy electrons (VHEEs) represent a promising alternative for the treatment of deep-seated tumors over conventional radiotherapy (RT), owing to their favourable dosimetric characteristics. Given the high energy of the electrons, one of the concerns has been the production of photoneutrons. In this article we explore the consequence, in terms of neutron yield in a water phantom, of using a typical electron applicator in conjunction with a 2 GeV and 200 MeV VHEE beam. Additionally, we evaluate the resulting ambient neutron dose equivalent at various locations between the phantom and a concrete wall. Through Monte Carlo (MC) simulations it was found that an applicator acts to reduce the depth of the dose build-up region, giving rise to lower exit doses but higher entrance doses. Furthermore, neutrons are injected into the entrance region of the phantom. The highest dose equivalent found was approximately 1.7 mSv/Gy in the vicinity of the concrete wall. Nevertheless, we concluded that configurations of VHEEs studied in this article are similar to conventional proton therapy treatments in terms of their neutron yield and ambient dose equivalent. Therefore, a clinical implementation of VHEEs would likely not warrant additional radioprotection safeguards compared to conventional RT treatments.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Computer Simulation",
+    "Humans",
+    "Monte Carlo Method",
+    "Phantoms, Imaging",
+    "Radiation Protection",
+    "Radiometry",
+    "Radiotherapy Dosage",
+    "Radiotherapy, High-Energy"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/34642417/"
   },
   {
    "pmid": "34638424",
@@ -38889,6 +39832,42 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/33730367/"
   },
   {
+   "pmid": "33712653",
+   "doi": "10.1016/j.ejmp.2020.09.020",
+   "pmc": "PMC4410646",
+   "year": "2021",
+   "title": "A focused very high energy electron beam for fractionated stereotactic radiotherapy.",
+   "authors": [
+    "Svendsen K",
+    "Guénot D",
+    "Svensson JB",
+    "Petersson K",
+    "Persson A",
+    "Lundh O"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "An electron beam of very high energy (50-250 MeV) can potentially produce a more favourable radiotherapy dose distribution compared to a state-of-the-art photon based radiotherapy technique. To produce an electron beam of sufficiently high energy to allow for a long penetration depth (several cm), very large accelerating structures are needed when using conventional radio-frequency technology, which may not be possible due to economical or spatial constraints. In this paper, we show transport and focusing of laser wakefield accelerated electron beams with a maximum energy of 160 MeV using electromagnetic quadrupole magnets in a point-to-point imaging configuration, yielding a spatial uncertainty of less than 0.1 mm, a total charge variation below [Formula: see text] and a focal spot of [Formula: see text]. The electron beam was focused to control the depth dose distribution and to improve the dose conformality inside a phantom of cast acrylic slabs and radiochromic film. The phantom was irradiated from 36 different angles to obtain a dose distribution mimicking a stereotactic radiotherapy treatment, with a peak fractional dose of 2.72 Gy and a total maximum dose of 65 Gy. This was achieved with realistic constraints, including 23 cm of propagation through air before any dose deposition in the phantom.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Dose Fractionation, Radiation",
+    "Electromagnetic Phenomena",
+    "Electrons",
+    "Particle Accelerators",
+    "Phantoms, Imaging",
+    "Radiometry",
+    "Radiosurgery"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33712653/"
+  },
+  {
    "pmid": "33670409",
    "doi": "10.1016/j.ijrobp.2020.03.028",
    "pmc": "PMC6868225",
@@ -40588,6 +41567,49 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/33068294/"
   },
   {
+   "pmid": "33057078",
+   "doi": "10.1016/j.nima.2016.06.125",
+   "pmc": "PMC4637871",
+   "year": "2020",
+   "title": "Toward an effective use of laser-driven very high energy electrons for radiotherapy: Feasibility assessment of multi-field and intensity modulation irradiation schemes.",
+   "authors": [
+    "Labate L",
+    "Palla D",
+    "Panetta D",
+    "Avella F",
+    "Baffigi F",
+    "Brandi F",
+    "Di Martino F",
+    "Fulgentini L",
+    "Giulietti A",
+    "Köster P",
+    "Terzani D",
+    "Tomassini P",
+    "Traino C",
+    "Gizzi LA"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "Radiotherapy with very high energy electrons has been investigated for a couple of decades as an effective approach to improve dose distribution compared to conventional photon-based radiotherapy, with the recent intriguing potential of high dose-rate irradiation. Its practical application to treatment has been hindered by the lack of hospital-scale accelerators. High-gradient laser-plasma accelerators (LPA) have been proposed as a possible platform, but no experiments so far have explored the feasibility of a clinical use of this concept. We show the results of an experimental study aimed at assessing dose deposition for deep seated tumours using advanced irradiation schemes with an existing LPA source. Measurements show control of localized dose deposition and modulation, suitable to target a volume at depths in the range from 5 to 10 cm with mm resolution. The dose delivered to the target was up to 1.6 Gy, delivered with few hundreds of shots, limited by secondary components of the LPA accelerator. Measurements suggest that therapeutic doses within localized volumes can already be obtained with existing LPA technology, calling for dedicated pre-clinical studies.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Electrons",
+    "Feasibility Studies",
+    "Humans",
+    "Lasers",
+    "Particle Accelerators",
+    "Radiotherapy Dosage",
+    "Radiotherapy, Intensity-Modulated"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33057078/"
+  },
+  {
    "pmid": "33021102",
    "doi": "10.1016/j.ijrobp.2018.04.057",
    "pmc": "PMC5759862",
@@ -41328,6 +42350,35 @@
     "Clinical & Translational"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/32638078/"
+  },
+  {
+   "pmid": "32624349",
+   "doi": "10.1016/j.ejmp.2020.06.022",
+   "pmc": "",
+   "year": "2020",
+   "title": "Corrigendum to \"Challenges of dosimetry of ultra-short pulsed very high energy electron beams\" [Phys. Med. 42 (2017) 327-331].",
+   "authors": [
+    "Subiel A",
+    "Moskvin V",
+    "Welsh GH",
+    "Cipiccia S",
+    "Reboredo D",
+    "DesRosiers C",
+    "Jaroszynski DA"
+   ],
+   "journal": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article",
+    "Published Erratum"
+   ],
+   "mesh": [],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32624349/"
   },
   {
    "pmid": "32601350",
@@ -43059,6 +44110,64 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/31365907/"
   },
   {
+   "pmid": "31346184",
+   "doi": "10.1098/rspa.1936.0046",
+   "pmc": "PMC5618455",
+   "year": "2019",
+   "title": "Focused very high-energy electron beams as a novel radiotherapy modality for producing high-dose volumetric elements.",
+   "authors": [
+    "Kokurewicz K",
+    "Brunetti E",
+    "Welsh GH",
+    "Wiggins SM",
+    "Boyd M",
+    "Sorensen A",
+    "Chalmers AJ",
+    "Schettino G",
+    "Subiel A",
+    "DesRosiers C",
+    "Jaroszynski DA"
+   ],
+   "journal": "Scientific reports",
+   "abstract": "The increased inertia of very high-energy electrons (VHEEs) due to relativistic effects reduces scattering and enables irradiation of deep-seated tumours. However, entrance and exit doses are high for collimated or diverging beams. Here, we perform a study based on Monte Carlo simulations of focused VHEE beams in a water phantom, showing that dose can be concentrated into a small, well-defined volumetric element, which can be shaped or scanned to treat deep-seated tumours. The dose to surrounding tissue is distributed over a larger volume, which reduces peak surface and exit doses for a single beam by more than one order of magnitude compared with a collimated beam.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Computer Simulation",
+    "Electrons",
+    "Monte Carlo Method",
+    "Radiotherapy",
+    "Radiotherapy Dosage"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31346184/"
+  },
+  {
+   "pmid": "31327422",
+   "doi": "10.1016/j.ijrobp.2019.05.008",
+   "pmc": "",
+   "year": "2019",
+   "title": "Erratum to: Al-Hallaq H, Cao M, Kruse J, Klein E. Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates. Int J Radiat Oncol Biol Phys 2019;104:257-260.",
+   "authors": [],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "",
+   "pubtypes": [
+    "Published Erratum"
+   ],
+   "mesh": [],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31327422/"
+  },
+  {
    "pmid": "31307824",
    "doi": "10.1016/j.radonc.2019.06.030",
    "pmc": "",
@@ -43369,6 +44478,27 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/31241377/"
   },
   {
+   "pmid": "31230578",
+   "doi": "10.1088/0954-3899/33/1/001",
+   "pmc": "PMC6786972",
+   "year": "2019",
+   "title": "Particle physics experiments based on the AWAKE acceleration scheme.",
+   "authors": [
+    "Wing M"
+   ],
+   "journal": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
+   "abstract": "New particle acceleration schemes open up exciting opportunities, potentially providing more compact or higher-energy accelerators. The AWAKE experiment at CERN is currently taking data to establish the method of proton-driven plasma wakefield acceleration. A second phase aims to demonstrate that bunches of about 109 electrons can be accelerated to high energy, preserving emittance and that the process is scalable with length. With this, an electron beam of [Formula: see text](50 GeV) could be available for new fixed-target or beam-dump experiments searching for the hidden sector, like dark photons. The rate of electrons on target could be increased by a factor of more than 1000 compared to that currently available, leading to a corresponding increase in sensitivity to new physics. Such a beam could also be brought into collision with a high-power laser and thereby probe the completely unmeasured region of strong fields at values of the Schwinger critical field. An ultimate goal is to produce an electron beam of [Formula: see text](3 TeV) and collide with an Large Hadron Collider proton beam. This very high-energy electron-proton collider would probe a new regime in which the structure of matter is completely unknown. This article is part of the Theo Murphy meeting issue 'Directions in particle beam-driven plasma wakefield acceleration'.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31230578/"
+  },
+  {
    "pmid": "31178058",
    "doi": "10.1016/j.radonc.2019.05.005",
    "pmc": "",
@@ -43607,6 +44737,40 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/31053514/"
+  },
+  {
+   "pmid": "31047621",
+   "doi": "10.1016/j.ijrobp.2019.01.093",
+   "pmc": "",
+   "year": "2019",
+   "title": "Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates.",
+   "authors": [
+    "Al-Hallaq H",
+    "Cao M",
+    "Kruse J",
+    "Klein E"
+   ],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article",
+    "Comment"
+   ],
+   "mesh": [
+    "Animals",
+    "Heterografts",
+    "Humans",
+    "Mice",
+    "Mice, Nude",
+    "Neoplasms",
+    "Protons",
+    "Radiotherapy Dosage"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31047621/"
   },
   {
    "pmid": "31028581",
@@ -43966,6 +45130,120 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/29875213/"
   },
   {
+   "pmid": "30188496",
+   "doi": "10.1038/s41586-018-0485-4",
+   "pmc": "PMC6786972",
+   "year": "2018",
+   "title": "Acceleration of electrons in the plasma wakefield of a proton bunch.",
+   "authors": [
+    "Adli E",
+    "Ahuja A",
+    "Apsimon O",
+    "Apsimon R",
+    "Bachmann AM",
+    "Barrientos D",
+    "Batsch F",
+    "Bauche J",
+    "Berglyd Olsen VK",
+    "Bernardini M",
+    "Bohl T",
+    "Bracco C",
+    "Braunmüller F",
+    "Burt G",
+    "Buttenschön B",
+    "Caldwell A",
+    "Cascella M",
+    "Chappell J",
+    "Chevallay E",
+    "Chung M",
+    "Cooke D",
+    "Damerau H",
+    "Deacon L",
+    "Deubner LH",
+    "Dexter A",
+    "Doebert S",
+    "Farmer J",
+    "Fedosseev VN",
+    "Fiorito R",
+    "Fonseca RA",
+    "Friebel F",
+    "Garolfi L",
+    "Gessner S",
+    "Gorgisyan I",
+    "Gorn AA",
+    "Granados E",
+    "Grulke O",
+    "Gschwendtner E",
+    "Hansen J",
+    "Helm A",
+    "Henderson JR",
+    "Hüther M",
+    "Ibison M",
+    "Jensen L",
+    "Jolly S",
+    "Keeble F",
+    "Kim SY",
+    "Kraus F",
+    "Li Y",
+    "Liu S",
+    "Lopes N",
+    "Lotov KV",
+    "Maricalva Brun L",
+    "Martyanov M",
+    "Mazzoni S",
+    "Medina Godoy D",
+    "Minakov VA",
+    "Mitchell J",
+    "Molendijk JC",
+    "Moody JT",
+    "Moreira M",
+    "Muggli P",
+    "Öz E",
+    "Pasquino C",
+    "Pardons A",
+    "Peña Asmus F",
+    "Pepitone K",
+    "Perera A",
+    "Petrenko A",
+    "Pitman S",
+    "Pukhov A",
+    "Rey S",
+    "Rieger K",
+    "Ruhl H",
+    "Schmidt JS",
+    "Shalimova IA",
+    "Sherwood P",
+    "Silva LO",
+    "Soby L",
+    "Sosedkin AP",
+    "Speroni R",
+    "Spitsyn RI",
+    "Tuev PV",
+    "Turner M",
+    "Velotti F",
+    "Verra L",
+    "Verzilov VA",
+    "Vieira J",
+    "Welsch CP",
+    "Williamson B",
+    "Wing M",
+    "Woolley B",
+    "Xia G"
+   ],
+   "journal": "Nature",
+   "abstract": "High-energy particle accelerators have been crucial in providing a deeper understanding of fundamental particles and the forces that govern their interactions. To increase the energy of the particles or to reduce the size of the accelerator, new acceleration schemes need to be developed. Plasma wakefield acceleration1-5, in which the electrons in a plasma are excited, leading to strong electric fields (so called 'wakefields'), is one such promising acceleration technique. Experiments have shown that an intense laser pulse6-9 or electron bunch10,11 traversing a plasma can drive electric fields of tens of gigavolts per metre and above-well beyond those achieved in conventional radio-frequency accelerators (about 0.1 gigavolt per metre). However, the low stored energy of laser pulses and electron bunches means that multiple acceleration stages are needed to reach very high particle energies5,12. The use of proton bunches is compelling because they have the potential to drive wakefields and to accelerate electrons to high energy in a single acceleration stage13. Long, thin proton bunches can be used because they undergo a process called self-modulation14-16, a particle-plasma interaction that splits the bunch longitudinally into a series of high-density microbunches, which then act resonantly to create large wakefields. The Advanced Wakefield (AWAKE) experiment at CERN17-19 uses high-intensity proton bunches-in which each proton has an energy of 400 gigaelectronvolts, resulting in a total bunch energy of 19 kilojoules-to drive a wakefield in a ten-metre-long plasma. Electron bunches are then injected into this wakefield. Here we present measurements of electrons accelerated up to two gigaelectronvolts at the AWAKE experiment, in a demonstration of proton-driven plasma wakefield acceleration. Measurements were conducted under various plasma conditions and the acceleration was found to be consistent and reliable. The potential for this scheme to produce very high-energy electron bunches in a single accelerating stage20 means that our results are an important step towards the development of future high-energy particle accelerators21,22.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30188496/"
+  },
+  {
    "pmid": "30177374",
    "doi": "10.1016/j.radonc.2018.08.016",
    "pmc": "",
@@ -44064,6 +45342,48 @@
     "Beam Delivery & Technology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/30017793/"
+  },
+  {
+   "pmid": "29559293",
+   "doi": "10.1016/j.ijrobp.2018.02.007",
+   "pmc": "",
+   "year": "2018",
+   "title": "Effects of Synchrotron X-Ray Micro-beam Irradiation on Normal Mouse Ear Pinnae.",
+   "authors": [
+    "Potez M",
+    "Bouchet A",
+    "Wagner J",
+    "Donzelli M",
+    "Bräuer-Krisch E",
+    "Hopewell JW",
+    "Laissue J",
+    "Djonov V"
+   ],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "PURPOSE: To analyze the effects of micro-beam irradiation (MBI) on the normal tissues of the mouse ear. METHODS AND MATERIALS: Normal mouse ears are a unique model, which in addition to skin contain striated muscles, cartilage, blood and lymphatic vessels, and few hair follicles. This renders the mouse ear an excellent model for complex tissue studies. The ears of C57BL6 mice were exposed to MBI (50-μm-wide micro-beams, spaced 200 μm between centers) with peak entrance doses of 200, 400, or 800 Gy (at ultra-high dose rates). Tissue samples were examined histopathologically, with conventional light and electron microscopy, at 2, 7, 15, 30, and 240 days after irradiation (dpi). Sham-irradiated animals acted as controls. RESULTS: Only an entrance dose of 800 Gy caused a significant increase in the thickness of both epidermal and dermal ear compartments seen from 15 to 30 dpi; the number of sebaceous glands was significantly reduced by 30 dpi. The numbers of apoptotic bodies and infiltrating leukocytes peaked between 15 and 30 dpi. Lymphatic vessels were prominently enlarged at 15 up to 240 dpi. Sarcomere lesions in striated muscle were observed after all doses, starting from 2 dpi; scar tissue within individual beam paths remained visible up to 240 dpi. Cartilage and blood vessel changes remained histologically inconspicuous. CONCLUSIONS: Normal tissues such as skin, cartilage, and blood and lymphatic vessels are highly tolerant to MBI after entrance doses up to 400 Gy. The striated muscles appeared to be the most sensitive to MBI. Those findings should be taken into consideration in future micro-beam radiation therapy treatment schedules.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Animals",
+    "Dose-Response Relationship, Radiation",
+    "Ear",
+    "Female",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Organ Specificity",
+    "Radiation Injuries, Experimental",
+    "Synchrotrons",
+    "Time Factors",
+    "X-Ray Therapy"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29559293/"
   },
   {
    "pmid": "29172684",
@@ -44242,6 +45562,83 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/28545957/"
   },
   {
+   "pmid": "28506453",
+   "doi": "10.1016/j.ejmp.2017.04.029",
+   "pmc": "",
+   "year": "2017",
+   "title": "Challenges of dosimetry of ultra-short pulsed very high energy electron beams.",
+   "authors": [
+    "Subiel A",
+    "Moskvin V",
+    "Welsh GH",
+    "Cipiccia S",
+    "Reboredo D",
+    "DesRosiers C",
+    "Jaroszynski DA"
+   ],
+   "journal": "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
+   "abstract": "Very high energy electrons (VHEE) in the range from 100 to 250MeV have the potential of becoming an alternative modality in radiotherapy because of their improved dosimetric properties compared with 6-20MV photons generated by clinical linear accelerators (LINACs). VHEE beams have characteristics unlike any other beams currently used for radiotherapy: femtosecond to picosecond duration electron bunches, which leads to very high dose per pulse, and energies that exceed that currently used in clinical applications. Dosimetry with conventional online detectors, such as ionization chambers or diodes, is a challenge due to non-negligible ion recombination effects taking place in the sensitive volumes of these detectors. FLUKA and Geant4 Monte Carlo (MC) codes have been employed to study the temporal and spectral evolution of ultrashort VHEE beams in a water phantom. These results are complemented by ion recombination measurements employing an IBA CC04 ionization chamber for a 165MeV VHEE beam. For comparison, ion recombination has also been measured using the same chamber with a conventional 20MeV electron beam. This work demonstrates that the IBA CC04 ionization chamber exhibits significant ion recombination and is therefore not suitable for dosimetry of ultrashort pulsed VHEE beams applying conventional correction factors. Further study is required to investigate the applicability of ion chambers in VHEE dosimetry.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Computer Simulation",
+    "Electrons",
+    "Monte Carlo Method",
+    "Radiometry",
+    "Water"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28506453/"
+  },
+  {
+   "pmid": "28339108",
+   "doi": "10.1002/mp.12233",
+   "pmc": "",
+   "year": "2017",
+   "title": "Very high-energy electron (VHEE) beams in radiation therapy; Treatment plan comparison between VHEE, VMAT, and PPBS.",
+   "authors": [
+    "Schüler E",
+    "Eriksson K",
+    "Hynning E",
+    "Hancock SL",
+    "Hiniker SM",
+    "Bazalova-Carter M",
+    "Wong T",
+    "Le QT",
+    "Loo BW",
+    "Maxim PG"
+   ],
+   "journal": "Medical physics",
+   "abstract": "PURPOSE: The aim of this study was to evaluate the performance of very high-energy electron beams (VHEE) in comparison to clinically derived treatment plans generated with volumetric modulated arc therapy (VMAT) and proton pencil beam scanning (PPBS) technology. We developed a custom optimization script that could be applied automatically across modalities to eliminate operator bias during IMRT optimization. METHODS: Four clinical cases were selected (prostate cancer, lung cancer, pediatric brain tumor, and head and neck cancer (HNC)). The VHEE beams were calculated in the EGSnrc/DOSXYZnrc Monte Carlo code for 100 and 200 MeV beams. Treatment plans with VHEE, VMAT, and PPBS were optimized in a research version of RayStation using an in-house developed script to minimize operator bias between the different techniques. RESULTS: The in-house developed script generated similar or superior plans to the clinically used plans. In the comparisons between the modalities, the integral dose was lowest for the PPBS-generated plans in all cases. For the prostate case, the 200 MeV VHEE plan showed reduced integral dose and reduced organ at risk (OAR) dose compared to the VMAT plan. For all other cases, both the 100 and the 200 MeV VHEE plans were superior to the VMAT plans, and the VHEE plans showed better conformity and lower spinal cord dose in the pediatric brain case and lower brain stem dose in the HNC case when compared to the PPBS plan. CONCLUSIONS: The automated optimization developed in this study generated similar or superior plans as compared to the clinically used plan and represents an unbiased approach to compare treatment plans generated for different modalities. In the present study, we also show that VHEE plans are similar or superior to VMAT plans with reduced mean OAR dose and increased target conformity for a variety of clinical cases, and VHEE plans can even achieve reductions in OAR doses compared to PPBS plans for shallow targets. With increased VHEE energy, better conformity and even higher reductions in mean OAR doses are achieved. On the whole, VHEE was intermediate between photon VMAT and PPBS for OAR sparing.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Child",
+    "Electrons",
+    "Humans",
+    "Male",
+    "Monte Carlo Method",
+    "Neoplasms",
+    "Radiotherapy Dosage",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy, Intensity-Modulated"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28339108/"
+  },
+  {
    "pmid": "28303489",
    "doi": "10.1007/s11307-017-1071-0",
    "pmc": "",
@@ -44365,6 +45762,48 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/27816362/"
+  },
+  {
+   "pmid": "26898508",
+   "doi": "10.1016/j.radonc.2016.01.017",
+   "pmc": "",
+   "year": "2016",
+   "title": "Assessment of the quality of very high-energy electron radiotherapy planning.",
+   "authors": [
+    "Palma B",
+    "Bazalova-Carter M",
+    "Hårdemark B",
+    "Hynning E",
+    "Qu B",
+    "Loo BW",
+    "Maxim PG"
+   ],
+   "journal": "Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology",
+   "abstract": "BACKGROUND AND PURPOSE: To assess the quality of very-high energy electron (VHEE) scanning pencil beam radiation therapy in relation to state-of-the-art volumetric modulated arc therapy (VMAT) and to determine the extent of its application. MATERIAL AND METHODS: We planned five clinical cases with VHEE scanning pencil beams of 100 and 120MeV, equally distributed in a coplanar arrangement around the patient. The clinical cases included acoustic neuroma, and liver, lung, esophagus, and anal cancer cases. We performed Monte Carlo (MC) dose calculations and we optimized the dose in a research version of RayStation. VHEE plan performance was compared against clinically delivered VMAT. RESULTS: With equal target coverage, mean doses to organs at risk (OARs) were on average 22% lower for the VHEE plans compared to the VMAT plans. Dose conformity was equal or superior compared to the VMAT plans and integral dose to the body was in average 14% (9-22%) lower for the VHEE plans. CONCLUSIONS: The dosimetric advantages of VHEE as demonstrated for a variety of clinical cases, combined with the theoretical ultra fast treatment delivery, afford VHEE scanning pencil beam radiotherapy a suitable and potentially superior alternative for cancer radiotherapy.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Electrons",
+    "Esophageal Neoplasms",
+    "Humans",
+    "Liver Neoplasms",
+    "Lung Neoplasms",
+    "Monte Carlo Method",
+    "Neoplasms",
+    "Neuroma, Acoustic",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy, High-Energy",
+    "Radiotherapy, Intensity-Modulated"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26898508/"
   },
   {
    "pmid": "26698048",
@@ -44536,6 +45975,102 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/26072169/"
   },
   {
+   "pmid": "25979053",
+   "doi": "10.1118/1.4918923",
+   "pmc": "",
+   "year": "2015",
+   "title": "Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.",
+   "authors": [
+    "Bazalova-Carter M",
+    "Qu B",
+    "Palma B",
+    "Hårdemark B",
+    "Hynning E",
+    "Jensen C",
+    "Maxim PG",
+    "Loo BW"
+   ],
+   "journal": "Medical physics",
+   "abstract": "PURPOSE: The aim of this work was to develop a treatment planning workflow for rapid radiotherapy delivered with very high-energy electron (VHEE) scanning pencil beams of 60-120 MeV and to study VHEE plans as a function of VHEE treatment parameters. Additionally, VHEE plans were compared to clinical state-of-the-art volumetric modulated arc therapy (VMAT) photon plans for three cases. METHODS: VHEE radiotherapy treatment planning was performed by linking EGSnrc Monte Carlo (MC) dose calculations with inverse treatment planning in a research version of RayStation. In order to study the effect of VHEE treatment parameters on VHEE dose distributions, a matlab graphical user interface (GUI) for calculation of VHEE MC pencil beam doses was developed. Through the GUI, pediatric case MC simulations were run for a number of beam energies (60, 80, 100, and 120 MeV), number of beams (13, 17, and 36), pencil beam spot (0.1, 1.0, and 3.0 mm) and grid (2.0, 2.5, and 3.5 mm) sizes, and source-to-axis distance, SAD (40 and 50 cm). VHEE plans for the pediatric case calculated with the different treatment parameters were optimized and compared. Furthermore, 100 MeV VHEE plans for the pediatric case, a lung, and a prostate case were calculated and compared to the clinically delivered VMAT plans. All plans were normalized such that the 100% isodose line covered 95% of the target volume. RESULTS: VHEE beam energy had the largest effect on the quality of dose distributions of the pediatric case. For the same target dose, the mean doses to organs at risk (OARs) decreased by 5%-16% when planned with 100 MeV compared to 60 MeV, but there was no further improvement in the 120 MeV plan. VHEE plans calculated with 36 beams outperformed plans calculated with 13 and 17 beams, but to a more modest degree (<8%). While pencil beam spacing and SAD had a small effect on VHEE dose distributions, 0.1-3 mm pencil beam sizes resulted in identical dose distributions. For the 100 MeV VHEE pediatric plan, OAR doses were up to 70% lower and the integral dose was 33% lower for VHEE compared to 6 MV VMAT. Additionally, VHEE conformity indices (CI100 = 1.09 and CI50 = 4.07) were better than VMAT conformity indices (CI100 = 1.30 and CI50 = 6.81). The 100 MeV VHEE lung plan resulted in mean dose decrease to all OARs by up to 27% for the same target coverage compared to the clinical 6 MV flattening filter-free (FFF) VMAT plan. The 100 MeV prostate plan resulted in 3% mean dose increase to the penile bulb and the urethra, but all other OAR mean doses were lower compared to the 15 MV VMAT plan. The lung case CI100 and CI50 conformity indices were 3% and 8% lower, respectively, in the VHEE plan compared to the VMAT plan. The prostate case CI100 and CI50 conformity indices were 1% higher and 8% lower, respectively, in the VHEE plan compared to the VMAT plan. CONCLUSIONS: The authors have developed a treatment planning workflow for MC dose calculation of pencil beams and optimization for treatment planning of VHEE radiotherapy. The authors have demonstrated that VHEE plans resulted in similar or superior dose distributions for pediatric, lung, and prostate cases compared to clinical VMAT plans.",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "mesh": [
+    "Brain Neoplasms",
+    "Child",
+    "Computer Simulation",
+    "Electrons",
+    "Humans",
+    "Lung Neoplasms",
+    "Male",
+    "Monte Carlo Method",
+    "Prostatic Neoplasms",
+    "Radiotherapy Dosage",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy, Intensity-Modulated",
+    "User-Computer Interface"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Treatment Planning & Optimization",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25979053/"
+  },
+  {
+   "pmid": "25832051",
+   "doi": "10.1118/1.4914371",
+   "pmc": "",
+   "year": "2015",
+   "title": "Comparison of film measurements and Monte Carlo simulations of dose delivered with very high-energy electron beams in a polystyrene phantom.",
+   "authors": [
+    "Bazalova-Carter M",
+    "Liu M",
+    "Palma B",
+    "Dunning M",
+    "McCormick D",
+    "Hemsing E",
+    "Nelson J",
+    "Jobe K",
+    "Colby E",
+    "Koong AC",
+    "Tantawi S",
+    "Dolgashev V",
+    "Maxim PG",
+    "Loo BW"
+   ],
+   "journal": "Medical physics",
+   "abstract": "PURPOSE: To measure radiation dose in a water-equivalent medium from very high-energy electron (VHEE) beams and make comparisons to Monte Carlo (MC) simulation results. METHODS: Dose in a polystyrene phantom delivered by an experimental VHEE beam line was measured with Gafchromic films for three 50 MeV and two 70 MeV Gaussian beams of 4.0-6.9 mm FWHM and compared to corresponding MC-simulated dose distributions. MC dose in the polystyrene phantom was calculated with the EGSnrc/BEAMnrc and DOSXYZnrc codes based on the experimental setup. Additionally, the effect of 2% beam energy measurement uncertainty and possible non-zero beam angular spread on MC dose distributions was evaluated. RESULTS: MC simulated percentage depth dose (PDD) curves agreed with measurements within 4% for all beam sizes at both 50 and 70 MeV VHEE beams. Central axis PDD at 8 cm depth ranged from 14% to 19% for the 5.4-6.9 mm 50 MeV beams and it ranged from 14% to 18% for the 4.0-4.5 mm 70 MeV beams. MC simulated relative beam profiles of regularly shaped Gaussian beams evaluated at depths of 0.64 to 7.46 cm agreed with measurements to within 5%. A 2% beam energy uncertainty and 0.286° beam angular spread corresponded to a maximum 3.0% and 3.8% difference in depth dose curves of the 50 and 70 MeV electron beams, respectively. Absolute dose differences between MC simulations and film measurements of regularly shaped Gaussian beams were between 10% and 42%. CONCLUSIONS: The authors demonstrate that relative dose distributions for VHEE beams of 50-70 MeV can be measured with Gafchromic films and modeled with Monte Carlo simulations to an accuracy of 5%. The reported absolute dose differences likely caused by imperfect beam steering and subsequent charge loss revealed the importance of accurate VHEE beam control and diagnostics.",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "mesh": [
+    "Computer Simulation",
+    "Electrons",
+    "Film Dosimetry",
+    "Monte Carlo Method",
+    "Phantoms, Imaging",
+    "Polystyrenes",
+    "Radiation Dosage",
+    "Uncertainty",
+    "Water"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25832051/"
+  },
+  {
    "pmid": "25827180",
    "doi": "10.1002/mrm.10171",
    "pmc": "PMC3733653",
@@ -44656,6 +46191,43 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/25672612/"
   },
   {
+   "pmid": "25652482",
+   "doi": "10.1118/1.4905042",
+   "pmc": "",
+   "year": "2015",
+   "title": "Dosimetric evaluation of new approaches in GRID therapy using nonconventional radiation sources.",
+   "authors": [
+    "Martínez-Rovira I",
+    "Fois G",
+    "Prezado Y"
+   ],
+   "journal": "Medical physics",
+   "abstract": "PURPOSE: Spatial fractionation of the dose has proven to be a promising approach to increase the tolerance of healthy tissue, which is the main limitation of radiotherapy. A good example of that is GRID therapy, which has been successfully used in the management of large tumors with low toxicity. The aim of this work is to explore new avenues using nonconventional sources: GRID therapy by using kilovoltage (synchrotron) x-rays, the use of very high-energy electrons, and proton GRID therapy. They share in common the use of the smallest possible grid sizes in order to exploit the dose-volume effects. METHODS: Monte Carlo simulations (penelope/peneasy and geant4/GATE codes) were used as a method to study dose distributions resulting from irradiations in different configurations of the three proposed techniques. As figure of merit, percentage (peak and valley) depth dose curves, penumbras, and central peak-to-valley dose ratios (PVDR) were evaluated. As shown in previous biological experiments, high PVDR values are requested for healthy tissue sparing. A superior tumor control may benefit from a lower PVDR. RESULTS: High PVDR values were obtained in the healthy tissue for the three cases studied. When low energy photons are used, the treatment of deep-seated tumors can still be performed with submillimetric grid sizes. Superior PVDR values were reached with the other two approaches in the first centimeters along the beam path. The use of protons has the advantage of delivering a uniform dose distribution in the tumor, while healthy tissue benefits from the spatial fractionation of the dose. In the three evaluated techniques, there is a net reduction in penumbra with respect to radiosurgery. CONCLUSIONS: The high PVDR values in the healthy tissue and the use of small grid sizes in the three presented approaches might constitute a promising alternative to treat tumors with such spatially fractionated radiotherapy techniques. The dosimetric results presented here support the interest of performing radiobiology experiments in order to evaluate these new avenues.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Brain",
+    "Brain Neoplasms",
+    "Electrons",
+    "Humans",
+    "Monte Carlo Method",
+    "Proton Therapy",
+    "Radiometry",
+    "Radiotherapy",
+    "Radiotherapy Dosage",
+    "Protons"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology",
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25652482/"
+  },
+  {
    "pmid": "25600561",
    "doi": "10.1007/s00411-014-0582-1",
    "pmc": "",
@@ -44758,6 +46330,109 @@
     "Modeling & Mechanisms"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/25423452/"
+  },
+  {
+   "pmid": "25207591",
+   "doi": "10.1088/0031-9155/59/19/5811",
+   "pmc": "",
+   "year": "2014",
+   "title": "Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.",
+   "authors": [
+    "Subiel A",
+    "Moskvin V",
+    "Welsh GH",
+    "Cipiccia S",
+    "Reboredo D",
+    "Evans P",
+    "Partridge M",
+    "DesRosiers C",
+    "Anania MP",
+    "Cianchi A",
+    "Mostacci A",
+    "Chiadroni E",
+    "Di Giovenale D",
+    "Villa F",
+    "Pompili R",
+    "Ferrario M",
+    "Belleveglia M",
+    "Di Pirro G",
+    "Gatti G",
+    "Vaccarezza C",
+    "Seitz B",
+    "Isaac RC",
+    "Brunetti E",
+    "Wiggins SM",
+    "Ersfeld B",
+    "Islam MR",
+    "Mendonca MS",
+    "Sorensen A",
+    "Boyd M",
+    "Jaroszynski DA"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Very high energy electrons (VHEE) in the range from 100-250 MeV have the potential of becoming an alternative modality in radiotherapy because of their improved dosimetry properties compared with MV photons from contemporary medical linear accelerators. Due to the need for accurate dosimetry of small field size VHEE beams we have performed dose measurements using EBT2 Gafchromic® film. Calibration of the film has been carried out for beams of two different energy ranges: 20 MeV and 165 MeV from conventional radio frequency linear accelerators. In addition, EBT2 film has been used for dose measurements with 135 MeV electron beams produced by a laser-plasma wakefield accelerator. The dose response measurements and percentage depth dose profiles have been compared with calculations carried out using the general-purpose FLUKA Monte Carlo (MC) radiation transport code. The impact of induced radioactivity on film response for VHEEs has been evaluated using the MC simulations. A neutron yield of the order of 10(-5) neutrons cm(-2) per incident electron has been estimated and induced activity due to radionuclide production is found to have a negligible effect on total dose deposition and film response. Neutron and proton contribution to the equivalent doses are negligible for VHEE. The study demonstrates that EBT2 Gafchromic film is a reliable dosimeter that can be used for dosimetry of VHEE. The results indicate an energy-independent response of the dosimeter for 20 MeV and 165 MeV electron beams and has been found to be suitable for dosimetry of VHEE.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Calibration",
+    "Computer Simulation",
+    "Electrons",
+    "Film Dosimetry",
+    "Humans",
+    "Monte Carlo Method",
+    "Neutrons",
+    "Particle Accelerators",
+    "Phantoms, Imaging",
+    "Photons",
+    "Protons",
+    "Radiometry",
+    "Radiotherapy Dosage"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25207591/"
+  },
+  {
+   "pmid": "25151497",
+   "doi": "10.1016/j.apradiso.2014.07.018",
+   "pmc": "",
+   "year": "2014",
+   "title": "Influence of the electron energy and number of beams on the absorbed dose distributions in radiotherapy of deep seated targets.",
+   "authors": [
+    "Garnica-Garza HM"
+   ],
+   "journal": "Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",
+   "abstract": "With the advent of compact laser-based electron accelerators, there has been some renewed interest on the use of such charged particles for radiotherapy purposes. Traditionally, electrons have been used for the treatment of fairly superficial lesions located at depths of no more than 4cm inside the patient, but lately it has been proposed that by using very high energy electrons, i.e. those with an energy in the order of 200-250MeV it should be possible to safely reach deeper targets. In this paper, we used a realistic patient model coupled with detailed Monte Carlo simulations of the electron transport in such a patient model to examine the characteristics of the resultant absorbed dose distributions as a function of both the electron beam energy as well as the number of beams for a particular type of treatment, namely, a prostate radiotherapy treatment. Each treatment is modeled as consisting of nine, five or three beam ports isocentrically distributed around the patient. An optimization algorithm is then applied to obtain the beam weights in each treatment plan. It is shown that for this particularly challenging case, both excellent target coverage and critical structure sparing can be obtained for energies in the order of 150MeV and for as few as three treatment ports, while significantly reducing the total energy absorbed by the patient with respect to a conventional megavoltage x-ray treatment.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Absorption, Radiation",
+    "Computer Simulation",
+    "Electrons",
+    "Humans",
+    "Male",
+    "Models, Biological",
+    "Prostatic Neoplasms",
+    "Radiation Dosage",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy, High-Energy",
+    "Scattering, Radiation",
+    "Treatment Outcome"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25151497/"
   },
   {
    "pmid": "25031268",
@@ -45002,6 +46677,59 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/23638692/"
   },
   {
+   "pmid": "22927378",
+   "doi": "10.1073/pnas.1116286109",
+   "pmc": "PMC3031873",
+   "year": "2012",
+   "title": "Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.",
+   "authors": [
+    "Meesat R",
+    "Belmouaddine H",
+    "Allard JF",
+    "Tanguay-Renaud C",
+    "Lemay R",
+    "Brastaviceanu T",
+    "Tremblay L",
+    "Paquette B",
+    "Wagner JR",
+    "Jay-Gerin JP",
+    "Lepage M",
+    "Huels MA",
+    "Houde D"
+   ],
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "abstract": "Since the invention of cancer radiotherapy, its primary goal has been to maximize lethal radiation doses to the tumor volume while keeping the dose to surrounding healthy tissues at zero. Sadly, conventional radiation sources (γ or X rays, electrons) used for decades, including multiple or modulated beams, inevitably deposit the majority of their dose in front or behind the tumor, thus damaging healthy tissue and causing secondary cancers years after treatment. Even the most recent pioneering advances in costly proton or carbon ion therapies can not completely avoid dose buildup in front of the tumor volume. Here we show that this ultimate goal of radiotherapy is yet within our reach: Using intense ultra-short infrared laser pulses we can now deposit a very large energy dose at unprecedented microscopic dose rates (up to 10(11) Gy/s) deep inside an adjustable, well-controlled macroscopic volume, without any dose deposit in front or behind the target volume. Our infrared laser pulses produce high density avalanches of low energy electrons via laser filamentation, a phenomenon that results in a spatial energy density and temporal dose rate that both exceed by orders of magnitude any values previously reported even for the most intense clinical radiotherapy systems. Moreover, we show that (i) the type of final damage and its mechanisms in aqueous media, at the molecular and biomolecular level, is comparable to that of conventional ionizing radiation, and (ii) at the tumor tissue level in an animal cancer model, the laser irradiation method shows clear therapeutic benefits.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Animals",
+    "Biophysics",
+    "Cell Line, Tumor",
+    "DNA Damage",
+    "Equipment Design",
+    "Female",
+    "Heavy Ion Radiotherapy",
+    "Humans",
+    "Infrared Rays",
+    "Laser Therapy",
+    "Mice",
+    "Mice, Inbred BALB C",
+    "Neoplasms",
+    "Radiation Oncology",
+    "Radiometry",
+    "Radiotherapy Dosage",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Thymidine"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22927378/"
+  },
+  {
    "pmid": "22839678",
    "doi": "10.1021/ja306522b",
    "pmc": "",
@@ -45062,6 +46790,42 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/22823571/"
+  },
+  {
+   "pmid": "28517464",
+   "doi": "10.1118/1.4735561",
+   "pmc": "",
+   "year": "2012",
+   "title": "SU-E-T-472: Characterization of the Very High Energy Electrons, ISO - 250 MeV (VHEE) Beam Generated by ALPHA-X Laser Wakefield Accelerator Beam Line for Utilization in Monte Carlo Simulation for Biomedical Experiment Planning.",
+   "authors": [
+    "Moskvin V",
+    "Subiel A",
+    "Desrosiers C",
+    "Wiggins M",
+    "Maryanski M",
+    "Mendonca M",
+    "Boyd M",
+    "Sorensen A",
+    "Cipiccia S",
+    "Issac R",
+    "Welsh G",
+    "Brunetti E",
+    "Aniculaesei C",
+    "Jaroszynski DA"
+   ],
+   "journal": "Medical physics",
+   "abstract": "PURPOSE: Progress in the development of compact high-energy pulsed laser- plasma wakefield accelerators is opening up the potential for using Very High Energy Electron (VHEEs) beams in the range of 150 - 250 MeV for biomedical studies. Initial experiments using VHEE for this purpose have been carried out using the ALPHA-X laser-plasma wakefield accelerator beam line at the University of Strathclyde, Glasgow, UK. The purpose of this investigation is to use Monte Carlo simulations to plan experiments and compare with characterization of the interaction of the VHEE beam using a dosimeter. METHODS: An experiment using the VHEE beam to irradiate a muscle-equivalent BANG polymer gel dosimeter has been carried out. Simulations have been used to prepare for the experiments. These were undertaken using the expected average energy for a pulse set and an energy spread approximated by Gaussian distribution. The model was implemented in FLUKA Monte Carlo code with follow up modeling using the Geant4 toolkit. The results have been compared with 1mm̂3 voxel laser CT based measurements of the dose deposited in the BANG dosimeter and with measurement of the induced radioactivity. RESULTS: The results of the measured dose from induced radioactivity have been compared with data from the FLUKA simulations. The beam model based on an average energy of particles in irradiation gives an acceptable estimate of the induced radioactivity and the dose deposited in the BANG dosimeter. Comparison with the dosimeter scanned profiles shows that the structure of the spectra of VHEE beams in the experiment and secondary scattered particles in the beam line should be accounted for in any model. Such model description of the VHEE beam for the ALPHA-X beam line has been developed. CONCLUSIONS: Monte Carlo simulations using the FLUKA code is an efficient way to plan a VHEE experiment and analyze data from measurements.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28517464/"
   },
   {
    "pmid": "22496068",
@@ -45228,6 +46992,54 @@
     "Physics & Dosimetry"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/22047305/"
+  },
+  {
+   "pmid": "22008289",
+   "doi": "10.1007/s00411-011-0365-x",
+   "pmc": "PMC3032345",
+   "year": "2011",
+   "title": "Survival of tumor cells after proton irradiation with ultra-high dose rates.",
+   "authors": [
+    "Auer S",
+    "Hable V",
+    "Greubel C",
+    "Drexler GA",
+    "Schmid TE",
+    "Belka C",
+    "Dollinger G",
+    "Friedl AA"
+   ],
+   "journal": "Radiation oncology (London, England)",
+   "abstract": "BACKGROUND: Laser acceleration of protons and heavy ions may in the future be used in radiation therapy. Laser-driven particle beams are pulsed and ultra high dose rates of >10⁹ Gy s⁻¹ may be achieved. Here we compare the radiobiological effects of pulsed and continuous proton beams. METHODS: The ion microbeam SNAKE at the Munich tandem accelerator was used to directly compare a pulsed and a continuous 20 MeV proton beam, which delivered a dose of 3 Gy to a HeLa cell monolayer within < 1 ns or 100 ms, respectively. Investigated endpoints were G2 phase cell cycle arrest, apoptosis, and colony formation. RESULTS: At 10 h after pulsed irradiation, the fraction of G2 cells was significantly lower than after irradiation with the continuous beam, while all other endpoints including colony formation were not significantly different. We determined the relative biological effectiveness (RBE) for pulsed and continuous proton beams relative to x-irradiation as 0.91 ± 0.26 and 0.86 ± 0.33 (mean and SD), respectively. CONCLUSIONS: At the dose rates investigated here, which are expected to correspond to those in radiation therapy using laser-driven particles, the RBE of the pulsed and the (conventional) continuous irradiation mode do not differ significantly.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Apoptosis",
+    "Cell Cycle",
+    "Cell Survival",
+    "Flow Cytometry",
+    "HeLa Cells",
+    "Heavy Ions",
+    "Humans",
+    "Ions",
+    "Lasers",
+    "Microscopy, Fluorescence",
+    "Neoplasms",
+    "Particle Accelerators",
+    "Protons",
+    "Radiotherapy",
+    "Relative Biological Effectiveness",
+    "Time Factors",
+    "X-Rays"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22008289/"
   },
   {
    "pmid": "21626908",
@@ -45544,6 +47356,49 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/19601624/"
   },
   {
+   "pmid": "19430107",
+   "doi": "10.1088/0031-9155/54/11/003",
+   "pmc": "",
+   "year": "2009",
+   "title": "Treatment planning for laser-accelerated very-high energy electrons.",
+   "authors": [
+    "Fuchs T",
+    "Szymanowski H",
+    "Oelfke U",
+    "Glinec Y",
+    "Rechatin C",
+    "Faure J",
+    "Malka V"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "In recent experiments, quasi-monoenergetic and well-collimated very-high energy electron (VHEE) beams were obtained by laser-plasma accelerators. We investigate their potential use for radiation therapy. Monte Carlo simulations are used to study the influence of the experimental characteristics such as beam energy, energy spread and initial angular distribution on the dose distributions. It is found that magnetic focusing of the electron beam improves the lateral penumbra. The dosimetric properties of the laser-accelerated VHEE beams are implemented in our inverse treatment planning system for intensity-modulated treatments. The influence of the beam characteristics on the quality of a prostate treatment plan is evaluated. In comparison to a clinically approved 6 MV IMRT photon plan, a better target coverage is achieved. The quality of the sparing of organs at risk is found to be dependent on the depth. The bladder and rectum are better protected due to the sharp lateral penumbra at low depths, whereas the femoral heads receive a larger dose because of the large scattering amplitude at larger depths.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Computer Simulation",
+    "Electrons",
+    "Humans",
+    "Lasers",
+    "Magnetics",
+    "Male",
+    "Monte Carlo Method",
+    "Prostatic Neoplasms",
+    "Radiotherapy Dosage",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy, High-Energy",
+    "Water"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Physics & Dosimetry",
+    "Treatment Planning & Optimization"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19430107/"
+  },
+  {
    "pmid": "19394712",
    "doi": "10.1016/j.radonc.2009.03.021",
    "pmc": "",
@@ -45762,6 +47617,74 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/18054372/"
+  },
+  {
+   "pmid": "18380325",
+   "doi": "",
+   "pmc": "",
+   "year": "2007",
+   "title": "[Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor].",
+   "authors": [
+    "Sevan'kaev AV",
+    "Potetnia OI",
+    "Potetnia VI",
+    "Koriakina EV",
+    "Pozdyshkina OV",
+    "Piatenko VS"
+   ],
+   "journal": "Radiatsionnaia biologiia, radioecologiia",
+   "abstract": "Summarized results of 5 repeated experiments of comparative study of radiation effects of the pulse reactor BARS-6 either in a single pulse or a continuos irradiation mode on human lymphocytes are presented. Higher efficiency (30-40%) of continuous irradiation (exposure duration 1 h) rather than pulse irradiation with ultra-high dose rates (1-2.5) x 10(6) Gy/min (pulse duration 65 micros) was confirmed. The efficiency ratio did not depend on the temperature, 20 degrees C or 0 degrees C, during the exposure. Cell repair system and chromatin conformation influence on the results obtained is discussed.",
+   "pubtypes": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "mesh": [
+    "Cells, Cultured",
+    "Chromosome Aberrations",
+    "Dose-Response Relationship, Radiation",
+    "Gamma Rays",
+    "Humans",
+    "Lymphocytes",
+    "Radiation Dosage",
+    "Temperature"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18380325/"
+  },
+  {
+   "pmid": "18051688",
+   "doi": "",
+   "pmc": "",
+   "year": "2007",
+   "title": "[Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces].",
+   "authors": [
+    "Tsyb TS",
+    "Komarova EV",
+    "Malinova IV",
+    "Potetnia VI"
+   ],
+   "journal": "Radiatsionnaia biologiia, radioecologiia",
+   "abstract": "We report here a comparative analysis of RBE for lethality of a single pulse (duration 65 micros) of fast neutron with ultra high dose rates (up to 6 x 10(6) Gy/s) and continuous neutron radiation (3.6 x 10(3) s) of the pulse reactor BARS-6. Three diploid strains, one haploid strain and three diploid repair-deficient strains (rad52-1/rad52-1; rad54/rad54; rad2/rad2) were used. The RBE values (D(0gamma)/1D(0n)) of a single pulse and continuous neutron irradiation were equal (1.7-1.8) with maximum RBE (4.1-3.1) in region of low doses (shoulder region). Haploid cells were found to be more (3 times) sensitive to both gamma-rays and neutrons than the wild type. There was no obvious decrease in the RBE of 1.9 in highly sensitive haploid cells as compared with highly resistant diploid cells. The repair-deficient strains (rad52-1/rad52-1; rad54/rad54) were more (up to 10 fold) sensitive to both neutrons and gamma-rays as compared with their parent line. The RBE values of 1.5-1.7 of neutrons for these mutants (independent by of the mode of irradiation) were found. The repair-deficient mutant rad2/rad2 had similar sensitivity as a wild type and a RBE value was 2.0. We have concluded that biological effectiveness of the neutrons of pulse reactor BARS-6 was independent of the dose-rate, differing up to 10(8) fold. The RBE didn't vary significantly with the capacity of cells to repair DNA damages.",
+   "pubtypes": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "mesh": [
+    "DNA Repair",
+    "Fast Neutrons",
+    "Rad52 DNA Repair and Recombination Protein",
+    "Radiation Tolerance",
+    "Radiation, Ionizing",
+    "Saccharomyces"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18051688/"
   },
   {
    "pmid": "17710142",
@@ -46306,6 +48229,38 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/12648793/"
   },
   {
+   "pmid": "12622516",
+   "doi": "10.1177/153303460200100202",
+   "pmc": "",
+   "year": "2002",
+   "title": "Very high energy electrons (50-250 MeV) and radiation therapy.",
+   "authors": [
+    "Papiez L",
+    "DesRosiers C",
+    "Moskvin V"
+   ],
+   "journal": "Technology in cancer research & treatment",
+   "abstract": "High energy electron beams in the range 150-250 MeV are investigated to evaluate their feasibility for radiotherapy. Monte Carlo simulation results from PENELOPE code are used to determine lateral spread and penetration of these beams. It is shown that dose distribution of electron beams compare favorably with photon beams. Electromagnetic control of electron beams enables scanned intensity modulation not possible with photon beams.",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "mesh": [
+    "Electrons",
+    "Humans",
+    "Photons",
+    "Radiation Dosage",
+    "Radiotherapy, High-Energy"
+   ],
+   "category": "Reviews & Consensus",
+   "tags": [
+    "Reviews & Consensus",
+    "Modeling & Mechanisms",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12622516/"
+  },
+  {
    "pmid": "12383051",
    "doi": "10.1120/jacmp.v3i4.2555",
    "pmc": "PMC5724535",
@@ -46337,6 +48292,47 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/12383051/"
   },
   {
+   "pmid": "12164585",
+   "doi": "10.1088/0031-9155/47/13/305",
+   "pmc": "",
+   "year": "2002",
+   "title": "Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.",
+   "authors": [
+    "Yeboah C",
+    "Sandison GA"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "The merits of intensity-modulated very-high energy electron therapy (VHEET) and intensity-modulated proton therapy (IMPT) in relation to intensity-modulated x-ray therapy (IMXT) with respect to the treatment of the prostate have been quantified. Optimized dose distributions were designed for 5-11 beams of 250 MeV VHEET and 15 MV IMXT as well as 1-9 beam ports of IMPT. In the case of the comparison between 250 MeV VHEET and 15 MV IMXT, it was found that the quality of target coverage achievable with VHEET was comparable to or sometimes better than that provided by IMXT. However, VHEET provided an improvement over IMXT in the dose sparing of the sensitive structures and normal tissues. Compared to IMXT, VHEET decreased the mean rectal dose and bladder dose by up to 10% of the prescribed target dose, while reducing by up to 12% of the prescribed target dose the integral dose to normal tissues. In quantifying the merits of IMPT relative to IMXT, it was found that using intensity-modulated proton beams for inverse planning instead of intensity-modulated photon beams improved target dose homogeneity by up to 1.3% of the prescribed target dose, while reducing the mean rectal dose, bladder dose, and normal tissue integral dose by up to 27%, 30% and 28% of the prescribed target dose respectively. The comparison of optimized planning for IMPT and VHEET showed that the quality of target coverage achievable with IMPT is comparable to or better (by up to 1.3% of the prescribed target dose) than that provided by VHEET. Compared to VHEET, IMPT delivered a mean rectal dose and a bladder dose that was lower by up to 17% and 23% of prescribed target dose respectively, and also reduced the integral dose to normal tissues by up to 17% of the prescribed target dose. These results indicate that of the three modalities the greatest dose escalation will be possible with IMPT, then VHEET, and then IMXT. It follows that IMPT will result in the highest probability of complication-free tumour control, while IMXT will provide the lowest probability.",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Humans",
+    "Male",
+    "Phantoms, Imaging",
+    "Prostatic Neoplasms",
+    "Proton Therapy",
+    "Quality Control",
+    "Radiation Dosage",
+    "Radiotherapy Planning, Computer-Assisted",
+    "Radiotherapy, Conformal",
+    "Radiotherapy, High-Energy",
+    "X-Rays",
+    "Protons"
+   ],
+   "category": "Treatment Planning & Optimization",
+   "tags": [
+    "Treatment Planning & Optimization",
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12164585/"
+  },
+  {
    "pmid": "12137524",
    "doi": "10.1021/ja026804r",
    "pmc": "",
@@ -46358,6 +48354,38 @@
     "Modeling & Mechanisms"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/12137524/"
+  },
+  {
+   "pmid": "12030556",
+   "doi": "10.1088/0031-9155/47/8/305",
+   "pmc": "",
+   "year": "2002",
+   "title": "Optimization of intensity-modulated very high energy (50-250 MeV) electron therapy.",
+   "authors": [
+    "Yeboah C",
+    "Sandison GA",
+    "Moskvin V"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "This work evaluates the potential of very high energy (50-250 MeV) electron beams for dose conformation and identifies those variables that influence optimized dose distributions for this modality. Intensity-modulated plans for a prostate cancer model were optimized as a function of the importance factors, beam energy and number of energy bins, number of beams, and the beam orientations. A trial-and-error-derived constellation of importance factors for target and sensitive structures to achieve good conformal dose distributions was 500, 50, 10 and I for the target, rectum, bladder and normal tissues respectively. Electron energies greater than 100 MeV were found to be desirable for intensity-modulated very high energy electron therapy (VHEET) of prostate cancer. Plans generated for lower energy beams had relatively poor conformal dose distributions about the target region and delivered high doses to sensitive structures. Fixed angle beam treatments utilizing a large number of fields in the range 9-21 provided acceptable plans. Using more than 21 beams at fixed gantry angles had an insignificant effect on target coverage, but resulted in an increased dose to sensitive structures and an increased normal tissue integral dose. Minor improvements in VHEET plans utilizing a 'small' number (< or =9) of beams may be achieved if, in addition to intensity modulation, energy modulation is implemented using a small number (< or =3) of beam energies separated by 50 to 100 MeV. Rotation therapy provided better target dose homogeneity but unfortunately resulted in increased rectal dose, bladder dose and normal tissue integral dose relative to the 21-field fixed angle treatment plan. Modulation of the beam energy for rotation therapy had no beneficial consequences on the optimized dose distributions. Lastly, selection of beam orientations influenced the optimized treatment plan even when a large number of beams (approximately 15) were employed.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Electrons",
+    "Models, Statistical",
+    "Monte Carlo Method",
+    "Radiometry",
+    "Radiotherapy, Conformal"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Modeling & Mechanisms",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/12030556/"
   },
   {
    "pmid": "11862505",
@@ -46669,6 +48697,47 @@
     "Modeling & Mechanisms"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/10616141/"
+  },
+  {
+   "pmid": "10580967",
+   "doi": "10.1148/radiology.213.3.r99dc13860",
+   "pmc": "",
+   "year": "1999",
+   "title": "Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.",
+   "authors": [
+    "Tillman C",
+    "Grafström G",
+    "Jonsson AC",
+    "Jönsson BA",
+    "Mercer I",
+    "Mattsson S",
+    "Strand SE",
+    "Svanberg S"
+   ],
+   "journal": "Radiology",
+   "abstract": "PURPOSE: To determine whether intense laser-produced x rays have an increased radiation hazard. MATERIALS AND METHODS: Mammalian cells were exposed to x rays from a laser-produced plasma that produced ultrahigh peak absorbed dose rates, up to a factor of 10(10) higher than those produced by conventional x rays used in imaging. The cell survival was studied as a function of the absorbed dose. The survival of mammalian cells exposed to high peak absorbed dose rates with laser-produced x rays was compared with the survival of cells exposed to standard absorbed dose rates with conventional x-ray sources. Comparative survival studies were performed by using a conventional x-ray tube and a cobalt 60 source. The absorbed doses in the irradiation field were measured with thermoluminescent dosimeters. RESULTS: Cell survival following irradiation by filtered, laser-produced x rays with a high dose rate was not markedly different from the survival following irradiation by conventional sources. There was, however, a notable difference between the survival after exposure to filtered, laser-produced x rays and the survival after exposure to unfiltered laser-produced x rays. CONCLUSION: Exposure to filtered, laser-produced x rays with a high dose rate does not lead to increased harm to mammalian cells exposed in vitro compared with the harm from exposure to x rays from conventional sources, which indicates that the use of high-power laser facilities for medical imaging is justified.",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "mesh": [
+    "Animals",
+    "Cell Line",
+    "Cell Survival",
+    "Dose-Response Relationship, Radiation",
+    "Guinea Pigs",
+    "Lasers",
+    "Maximum Tolerated Dose",
+    "Radiation Injuries, Experimental"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry",
+    "Radiobiology",
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10580967/"
   },
   {
    "pmid": "10560342",
@@ -47420,6 +49489,41 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/7596278/"
   },
   {
+   "pmid": "7938458",
+   "doi": "",
+   "pmc": "",
+   "year": "1994",
+   "title": "The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.",
+   "authors": [
+    "Cygler J",
+    "Klassen NV",
+    "Ross CK",
+    "Bichay TJ",
+    "Raaphorst GP"
+   ],
+   "journal": "Radiation research",
+   "abstract": "This in vitro study was undertaken to determine if ultrahigh dose rates could improve the radiation response of human tumors. Two cell lines, human glioma (U-87 MG), which is radioresistant, and human melanoma (HT-144), which is radiosensitive, were irradiated at ultrahigh and high dose rates under aerobic and anoxic conditions to determine if their oxygen enhancement ratios are modified by dose rate. In fact, the survival curves, and hence the oxygen enhancement ratios, were found to be independent of the dose rate. The oxygen enhancement ratio for glioma cells irradiated in plateau phase was 2.8 (+/- 0.3). The oxygen enhancement ratio was 2.7 (+/- 0.4) for melanoma cells in plateau phase and 2.8 (+/- 0.3) in exponential phase. These results indicate that there is no advantage in treating these tumors using ultrahigh dose rates instead of conventional dose rates.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Cell Hypoxia",
+    "Cell Survival",
+    "Dose-Response Relationship, Radiation",
+    "Glioma",
+    "Humans",
+    "Melanoma",
+    "Oxygen",
+    "Radiation Tolerance",
+    "Tumor Cells, Cultured"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7938458/"
+  },
+  {
    "pmid": "7878213",
    "doi": "10.1016/0167-8140(94)90089-2",
    "pmc": "",
@@ -47998,6 +50102,46 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/24253646/"
   },
   {
+   "pmid": "6684311",
+   "doi": "",
+   "pmc": "",
+   "year": "1983",
+   "title": "Effects of modifiers of the yield of hydroxyl radicals on the radiosensitivity of mammalian cells at ultrahigh dose rates.",
+   "authors": [
+    "Michaels HB",
+    "Peterson EC",
+    "Epp ER"
+   ],
+   "journal": "Radiation research",
+   "abstract": "Experiments were conducted to investigate the effects of increasing or decreasing the yield of hydroxyl radicals (.OH) reacting with target molecules on the survival of CHO cells irradiated in a thin layer with single 3-nsec pulses of electrons. Dimethyl sulfoxide (DMSO), a known radioprotector, was used as an .OH scavenger. The gas nitrous oxide (N2O), which scavenges hydrated electrons and in the process generates an additional yield of .OH, was used in an attempt to produce sensitization by increasing the amount of .OH-induced cellular damage. It was found that DMSO at high concentration was an effective radioprotective agent in cells equilibrated with nitrogen, air, and N2O and irradiated at ultrahigh dose rates. Sensitization by N2O was observed, but only under certain conditions, specifically, when a high concentration of the .OH scavenger DMSO was also present. The enhancement ratio (ER) for oxygen sensitization was reduced in the presence of DMSO, as was the ER for sensitization by misonidazole. Interpretation of these results according to radiation chemistry considerations will be discussed.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "mesh": [
+    "Animals",
+    "Cell Line",
+    "Cell Survival",
+    "Cricetinae",
+    "Dimethyl Sulfoxide",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Female",
+    "Free Radicals",
+    "Misonidazole",
+    "Nitrous Oxide",
+    "Ovary",
+    "Oxygen",
+    "Radiation Tolerance"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/6684311/"
+  },
+  {
    "pmid": "6856753",
    "doi": "",
    "pmc": "",
@@ -48137,6 +50281,40 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/6580684/"
   },
   {
+   "pmid": "7107363",
+   "doi": "10.1016/0360-3016(82)90653-8",
+   "pmc": "",
+   "year": "1982",
+   "title": "Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.",
+   "authors": [
+    "Michaels HB"
+   ],
+   "journal": "International journal of radiation oncology, biology, physics",
+   "abstract": "When CHO cells are equilibrated with a low level of oxygen (e.g. 0.4% O2) and irradiated with single 3 ns pulses of electrons, a breaking survival curve is observed. This effect is believed to be the result of radiolytic oxygen depletion and can be prevented by the presence of a relatively low concentration of hypoxic cell radiosensitizer. This prevention of the breaking survival curve has been observed for 2- and 5-nitroimidazoles, nitrofurans, and diamide. It is hypothesized that the sensitizer acts by competing with oxygen for the radiation-induced intracellular oxygen-binding species, perhaps a hydrated electron adduct, leaving oxygen free to participate in radiosensitization reactions during the lifetime of the oxygen-sensitive radiation-induced target sites for lethal damage, probably DNA radicals produced by hydroxyl radical attack. The proposed role of the sensitizer in the interference with oxygen depletion is a transient phenomenon, occurring on the microsecond to millisecond time scale.",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "mesh": [
+    "Animals",
+    "Cell Survival",
+    "Cells, Cultured",
+    "Cricetinae",
+    "Cricetulus",
+    "Electrons",
+    "Hypoxia",
+    "Oxygen",
+    "Radiation Dosage",
+    "Radiation-Sensitizing Agents"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7107363/"
+  },
+  {
    "pmid": "7179753",
    "doi": "10.1016/0042-6989(82)90145-6",
    "pmc": "",
@@ -48168,6 +50346,44 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/7179753/"
+  },
+  {
+   "pmid": "7208811",
+   "doi": "",
+   "pmc": "",
+   "year": "1981",
+   "title": "Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.",
+   "authors": [
+    "Michaels HB",
+    "Ling CC",
+    "Epp ER",
+    "Peterson EC"
+   ],
+   "journal": "Radiation research",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "mesh": [
+    "Animals",
+    "Cell Line",
+    "Cell Survival",
+    "Cricetinae",
+    "Cricetulus",
+    "Dose-Response Relationship, Drug",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Nitroimidazoles",
+    "Oxygen",
+    "Radiation Dosage",
+    "Radiation Tolerance"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7208811/"
   },
   {
    "pmid": "7269308",
@@ -48298,6 +50514,47 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/18699329/"
   },
   {
+   "pmid": "424512",
+   "doi": "",
+   "pmc": "",
+   "year": "1979",
+   "title": "Repair of sublethal damage in mammalian cells irradiated at ultrahigh dose rates.",
+   "authors": [
+    "Gerweck LE",
+    "Epp ER",
+    "Michaels HB",
+    "Clifton Ling C",
+    "Peterson EC"
+   ],
+   "journal": "Radiation research",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Cell Survival",
+    "Cells, Cultured",
+    "Cricetinae",
+    "Cricetulus",
+    "DNA Repair",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Female",
+    "Methods",
+    "Ovary",
+    "Oxygen",
+    "Radiation Dosage",
+    "Time Factors",
+    "X-Rays"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/424512/"
+  },
+  {
    "pmid": "734054",
    "doi": "",
    "pmc": "",
@@ -48335,6 +50592,108 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/734054/"
+  },
+  {
+   "pmid": "569880",
+   "doi": "",
+   "pmc": "",
+   "year": "1978",
+   "title": "Oxygen sensitization of CHO cells at ultrahigh dose rates: prelude to oxygen diffusion studies.",
+   "authors": [
+    "Michaels HB",
+    "Epp ER",
+    "Ling CC",
+    "Peterson EC"
+   ],
+   "journal": "Radiation research",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "mesh": [
+    "Air",
+    "Animals",
+    "Cell Survival",
+    "Cells, Cultured",
+    "Cricetinae",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Gamma Rays",
+    "Hypoxia",
+    "Methods",
+    "Nitrogen",
+    "Oxygen",
+    "Radiation, Ionizing",
+    "Radiation-Sensitizing Agents",
+    "X-Rays"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/569880/"
+  },
+  {
+   "pmid": "304852",
+   "doi": "10.1080/09553007714551521",
+   "pmc": "",
+   "year": "1978",
+   "title": "The effects of ultra-high dose rates on survival and sublethal repair in Chinese-hamster cells.",
+   "authors": [
+    "Schulz RJ",
+    "Nath R",
+    "Testa JR"
+   ],
+   "journal": "International journal of radiation biology and related studies in physics, chemistry, and medicine",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Cell Survival",
+    "DNA Repair",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "X-Rays"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/304852/"
+  },
+  {
+   "pmid": "300727",
+   "doi": "10.1080/09553007714550291",
+   "pmc": "",
+   "year": "1977",
+   "title": "Chromosome aberration yields induced in human lymphocytes by 15 MeV electrons given at a conventional dose-rate and in microsecond pulses.",
+   "authors": [
+    "Purrott RJ",
+    "Reeder EJ"
+   ],
+   "journal": "International journal of radiation biology and related studies in physics, chemistry, and medicine",
+   "abstract": "Yields of unstable chromosome aberration were analysed in human lymphocytes after in vitro exposure to 15 MeV electrons. Two dose-effect curves were prepared. In one, doses of 44 to 742 rad were given at 100 rad/min, and in the other doses of 53 to 764 rad were each delivered in single microsecond pulses. No significant difference could be found between the two sets of data when analysed in terms of the quadratic model of aberration production. Good agreement was observed with other dose-response studies in this laboratory, in which human lymphocytes were exposed to 250 kVp X-rays and 60CO gamma-rays at conventional rates of 100 and 50 rad/min, respectively. Comparison with the results of a low-LET dose-rate experiment shows that the yield of dicentric aberrations remains constant overa wide range, i.e. 25 to 6X 10(9), 100 to 1-5 X 10(10), and 150 to 3 X 10(10) rad/min, respectively, for doses of 100, 250 and 500 rad. Radiochemical consumption of oxygen occuring in the lymphocytes during the single microsecond exposures may amount to less than 5 per cent of the total oxygen present in the blood samples, immediately before irradiation. The data also indicate that the ultra-high dose-rates currently available are insufficient to overcome the therapeutic problem of hypoxic radioresistant tumour cells.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Adult",
+    "Chromosome Aberrations",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Humans",
+    "In Vitro Techniques",
+    "Lymphocytes",
+    "Male"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology",
+    "Modeling & Mechanisms"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/300727/"
   },
   {
    "pmid": "1006999",
@@ -48400,6 +50759,39 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/941415/"
   },
   {
+   "pmid": "1099609",
+   "doi": "",
+   "pmc": "",
+   "year": "1975",
+   "title": "Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.",
+   "authors": [
+    "Ling CC"
+   ],
+   "journal": "Radiation research",
+   "abstract": "",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "mesh": [
+    "Cell Survival",
+    "Escherichia coli",
+    "Kinetics",
+    "Mathematics",
+    "Models, Theoretical",
+    "Oxygen",
+    "Radiation Dosage",
+    "Radiation Effects",
+    "Time Factors"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1099609/"
+  },
+  {
    "pmid": "4421568",
    "doi": "10.1016/0042-6989(74)90056-x",
    "pmc": "",
@@ -48428,6 +50820,248 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/4421568/"
+  },
+  {
+   "pmid": "4607987",
+   "doi": "10.1080/09553007414550901",
+   "pmc": "",
+   "year": "1974",
+   "title": "Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.",
+   "authors": [
+    "Weiss H",
+    "Epp ER",
+    "Heslin JM",
+    "Ling CC",
+    "Santomasso A"
+   ],
+   "journal": "International journal of radiation biology and related studies in physics, chemistry, and medicine",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Cell Survival",
+    "Cells, Cultured",
+    "Cobalt Radioisotopes",
+    "Dose-Response Relationship, Radiation",
+    "Escherichia coli",
+    "Oxygen",
+    "Radiation Effects"
+   ],
+   "category": "Modeling & Mechanisms",
+   "tags": [
+    "Modeling & Mechanisms",
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/4607987/"
+  },
+  {
+   "pmid": "10874936",
+   "doi": "",
+   "pmc": "",
+   "year": "1974",
+   "title": "A study of the biological effectiveness of high-energy electrons at ultra-high dose rates using dry eggs of Artemia.",
+   "authors": [
+    "Iwasaki T",
+    "Kato Y",
+    "Antoku S"
+   ],
+   "journal": "Radiation research",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Artemia",
+    "Dose-Response Relationship, Radiation",
+    "Electrons",
+    "Female",
+    "Oocytes",
+    "Phantoms, Imaging"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10874936/"
+  },
+  {
+   "pmid": "17474652",
+   "doi": "",
+   "pmc": "",
+   "year": "1973",
+   "title": "[Techniques of radiotherapy in so-called operable carcinoma of the breast].",
+   "authors": [
+    "Pierquin B"
+   ],
+   "journal": "Revue francaise de gynecologie et d'obstetrique",
+   "abstract": "The techniques of radiotherapy alone in carcinoma of the breast are determined by the possibilities of durable cure of the tumoral process using locoregional treatment. It seems undisputable that the risk of metastases at a distance from the tumor is related to the topographical as well as volum extension of lymph node involvement. Such risk is low with N-; it rapidly increases with lower axillary N+; it predominates with medial mammary N+; it becomes almost constant with upper axillary (subclavian) and supraclavicular N+. This explains why dose distribution should aim at curing, even at the price of some cosmetic or functional risk, tumoral lesions of the mammary gland, of the lower axillary area and, to a certain extent, of the medial mammary area. On the contrary, it is illusory to deliver an overdosage at ultrahigh dose-rates to the sub- and supraclavicular areas, where the chances for durable cure are almost nul if lymph nodes are invaded. This explains why curative radiotherapy alone appears only indicated in little developed cancers in their mammary (T1 or T2) as well as lymph node (N0 or N1 a) aspects. This also explains why such a responsability implies for the radiotherapist absolutely perfect technical conditions of spotting, centring and dose-measurements; careful protection of all healthy structures surrounding the target-volumes should, in particular, be obtained (for instance, accurate delimitation of beams, use of lead shields or even compensatory wedges should provide appropriate protection to the lung parenchyma, pectoral muscle, head of the humerus, laryngotracheal system). Finally, it is in the axillary area that the major technical hazards are encountered with: an insufficient dose is liable to cause lymph node recurrence, an excessive dose is liable to provoke irreversible muscular, articular, vascular or nervous sequelae. Provided a high level of technicity, it should be admitted to-day that a durable locoregional cure can be obtained in the vast majority of cases with but minimal tissue sequelae.",
+   "pubtypes": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "mesh": [
+    "Axilla",
+    "Breast",
+    "Breast Neoplasms",
+    "Carcinoma",
+    "Clavicle",
+    "Female",
+    "Humans",
+    "Humerus",
+    "Lung",
+    "Lymph Nodes",
+    "Lymphatic Metastasis",
+    "Pectoralis Muscles",
+    "Radiation Protection",
+    "Radiotherapy Dosage"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17474652/"
+  },
+  {
+   "pmid": "4208646",
+   "doi": "10.1093/oxfordjournals.bmb.a070955",
+   "pmc": "",
+   "year": "1973",
+   "title": "Effects of radiation dose-rate from protracted, continuous irradiation to ultra-high dose-rates from pulsed accelerators.",
+   "authors": [
+    "Berry RJ"
+   ],
+   "journal": "British medical bulletin",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Bacteria",
+    "Cells",
+    "Dose-Response Relationship, Radiation",
+    "Mammals",
+    "Oxygen Consumption",
+    "Radiotherapy Dosage",
+    "Radiotherapy, High-Energy",
+    "Time Factors"
+   ],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/4208646/"
+  },
+  {
+   "pmid": "5025236",
+   "doi": "",
+   "pmc": "",
+   "year": "1972",
+   "title": "An equation for predicting the surviving fraction of cells irradiated with single pulses delivered at ultra-high dose rates.",
+   "authors": [
+    "Weiss H"
+   ],
+   "journal": "Radiation research",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Cell Survival",
+    "Cells",
+    "Hypoxia",
+    "Mathematics",
+    "Nitrogen",
+    "Oxygen",
+    "Radiation Dosage",
+    "Radiation-Sensitizing Agents"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5025236/"
+  },
+  {
+   "pmid": "5015264",
+   "doi": "10.1259/0007-1285-45-531-171",
+   "pmc": "",
+   "year": "1972",
+   "title": "Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.",
+   "authors": [
+    "Berry RJ",
+    "Stedeford JB"
+   ],
+   "journal": "The British journal of radiology",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Aerobiosis",
+    "Animals",
+    "Cell Survival",
+    "Cells, Cultured",
+    "Electrons",
+    "Female",
+    "HeLa Cells",
+    "Humans",
+    "Hypoxia",
+    "Leukemia, Experimental",
+    "Mice",
+    "Neoplasm Transplantation",
+    "Nitrogen",
+    "Oxygen",
+    "Radiation Dosage",
+    "Radiation Effects",
+    "Radiotherapy Dosage"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5015264/"
+  },
+  {
+   "pmid": "5090736",
+   "doi": "",
+   "pmc": "",
+   "year": "1971",
+   "title": "Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.",
+   "authors": [
+    "Berry RJ",
+    "Stedeford JB"
+   ],
+   "journal": "The British journal of radiology",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Cell Survival",
+    "Clone Cells",
+    "Culture Techniques",
+    "Fibroblasts",
+    "HeLa Cells",
+    "Humans",
+    "Leukemia, Experimental",
+    "Marsupialia",
+    "Mice",
+    "Neoplasm Transplantation",
+    "Nitrogen",
+    "Oxygen",
+    "Radiometry",
+    "Radiotherapy Dosage",
+    "Transplantation, Homologous"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5090736/"
   },
   {
    "pmid": "5539709",
@@ -48483,6 +51117,80 @@
     "Radiobiology"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/5435969/"
+  },
+  {
+   "pmid": "5820640",
+   "doi": "10.1042/bj1140535",
+   "pmc": "PMC1184926",
+   "year": "1969",
+   "title": "A comparison of the effects of ultraviolet and ionizing radiations on trypsin activity and on its constituent amino acids.",
+   "authors": [
+    "Burke M",
+    "Augenstein L"
+   ],
+   "journal": "The Biochemical journal",
+   "abstract": "Photons of 254nm. u.v. light, (60)Co gamma-rays and 1Mev electrons produce different patterns of destruction of individual amino acids in dried films of trypsin and in the corresponding amino acid mixture. For example, in the amino acid mixture u.v. light destroys tyrosine, tryptophan and cystine, whereas in trypsin only cystine is disrupted but with 10 times the initial yield. Further, in the amino acid mixture loss of half-cystine is a simple exponential function of dose, but in trypsin there appear to be two exponential components of the loss with yields that differ by a factor of 35. Both the gamma-rays and electrons destroy half-cystine, tryptophan, histidine and methionine in the amino acid mixture with remarkably high yields, whereas in trypsin doses that destroy almost all of the enzymic activity produce no detectable destruction of amino acid residues. These marked differences between the two preparations show that the radiation-sensitivity of a given amino acid alone and in a protein is different, and suggests that in trypsin there is fairly extensive migration of energy, charge or both with localization of damage at specific sites determined by this enzyme's internal organization. All three types of radiation produce appreciable amounts of ;damaged' (not completely inactivated) molecules which are prevented from reassuming an active configuration by the addition of 5.5m-urea; thiol reagents have a similar effect after bombardment with u.v. light or electrons. The patterns of destruction produced by gamma-rays and by electrons in both the amino acid mixture and in trypsin are different (some of the yields vary by a factor of 30). This result appears to be inconsistent with the popular belief that most of the energy absorbed from gamma-rays is associated with very-high-energy electrons.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Amino Acids",
+    "Cobalt Isotopes",
+    "Cystine",
+    "Electrons",
+    "Energy Transfer",
+    "Histidine",
+    "Methionine",
+    "Radiation Effects",
+    "Radiometry",
+    "Trypsin",
+    "Tryptophan",
+    "Tyrosine",
+    "Ultraviolet Rays",
+    "Urea"
+   ],
+   "category": "Physics & Dosimetry",
+   "tags": [
+    "Physics & Dosimetry"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/5820640/"
+  },
+  {
+   "pmid": "4975207",
+   "doi": "10.1259/0007-1285-42-494-102",
+   "pmc": "",
+   "year": "1969",
+   "title": "Survival of mammalian cells exposed to x rays at ultra-high dose-rates.",
+   "authors": [
+    "Berry RJ",
+    "Hall EJ",
+    "Forster DW",
+    "Storr TH",
+    "Goodman MJ"
+   ],
+   "journal": "The British journal of radiology",
+   "abstract": "",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [
+    "Animals",
+    "Clone Cells",
+    "Cobalt Isotopes",
+    "Cricetinae",
+    "HeLa Cells",
+    "Humans",
+    "In Vitro Techniques",
+    "Radiation Effects",
+    "Radiometry",
+    "Radiotherapy Dosage",
+    "Radiotherapy, High-Energy"
+   ],
+   "category": "Radiobiology",
+   "tags": [
+    "Radiobiology"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/4975207/"
   },
   {
    "pmid": "5305081",
