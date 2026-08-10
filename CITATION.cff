@@ -1,0 +1,50 @@
+# Citation metadata for the FLASH Radiotherapy Living Wiki.
+# GitHub reads this and renders a "Cite this repository" button.
+# Validate at https://citation-file-format.github.io/cff-initializer-javascript/
+
+cff-version: 1.2.0
+message: "If you use this corpus, please cite it as below."
+title: "FLASH Radiotherapy Living Wiki"
+abstract: >-
+  A continuously updated, categorized corpus of MEDLINE-indexed FLASH
+  radiotherapy literature, maintained by the AAPM Biological Effects of
+  Stereotactic and Conformal Radiotherapy (BESC) FLASH Working Group. Records
+  are harvested from PubMed, screened against explicit inclusion criteria, and
+  auto-classified into topic categories with curator override.
+type: dataset
+license: CC-BY-4.0
+url: "https://github.com/aapm-besc-flash/flash-wiki"
+repository-code: "https://github.com/aapm-besc-flash/flash-wiki"
+
+keywords:
+  - FLASH radiotherapy
+  - ultra-high dose rate
+  - UHDR
+  - radiation oncology
+  - medical physics
+  - FLASH effect
+  - living review
+  - bibliography
+
+authors:
+  - family-names: Maxim
+    given-names: Peter G.
+    affiliation: "Department of Radiation Oncology, University of California, Irvine"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: your ORCID
+
+  # ---------------------------------------------------------------------
+  # TODO: add the remaining FLASH WG members. Duplicate the block below.
+  # Order here is the order they appear in the citation.
+  # ---------------------------------------------------------------------
+  # - family-names: LASTNAME
+  #   given-names: FIRST M.
+  #   affiliation: "INSTITUTION"
+  #   orcid: "https://orcid.org/0000-0000-0000-0000"
+
+  - name: "AAPM BESC FLASH Working Group"
+    website: "https://www.aapm.org/"
+
+contact:
+  - family-names: Maxim
+    given-names: Peter G.
+    affiliation: "Department of Radiation Oncology, University of California, Irvine"
