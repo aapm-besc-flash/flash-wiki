@@ -1,9 +1,9 @@
 # ---------------------------------------------------------------------------
 # Monthly corpus refresh
 #
-# Re-harvests PubMed, rebuilds the site, and opens a pull request describing
-# what changed.  Nothing lands on main without a human merging the PR, so the
-# published site never moves on its own.
+# Re-harvests PubMed, rebuilds the site and the NotebookLM source pack, and
+# opens a pull request describing what changed.  Nothing lands on main without
+# a human merging the PR, so the published site never moves on its own.
 #
 # Requires:
 #   - repository secret  NCBI_API_KEY
@@ -78,6 +78,13 @@ jobs:
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
 
+      - name: Rebuild NotebookLM source pack
+        # Regenerates the 11 category files and writes
+        # notebooklm_sources/monthly_additions/FLASH_NEW_<date>.md containing only
+        # the papers added this run - that one file is the monthly upload.
+        # State lives in notebooklm_sources/_seen_pmids.json, which is committed.
+        run: python pipeline/build_notebooklm.py
+
       - name: Sync generated site into the repository root
         # build_site.py writes to website/mkdocs_source/, but deploy.yml builds
         # from the repo root (mkdocs.yml + docs/). Keep the two in step.
@@ -106,6 +113,7 @@ jobs:
             docs/**
             mkdocs.yml
             pipeline/**
+            notebooklm_sources/**
           commit-message: |
             Monthly corpus refresh
 
