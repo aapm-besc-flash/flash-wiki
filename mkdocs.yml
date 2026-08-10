@@ -1,5 +1,12 @@
 site_name: FLASH Radiotherapy Living Wiki
 site_description: AAPM BESC FLASH Working Group - categorized FLASH-RT literature
+# WG members open the built site straight off disk / OneDrive rather than from a
+# web server. MkDocs' default "pretty" URLs emit links to directories
+# (radiobiology/ served as radiobiology/index.html), which a file:// browser
+# cannot resolve - it treats the directory as an unknown download and pops the
+# "open with..." dialog. Emitting real .html filenames keeps every link
+# clickable offline; GitHub Pages serves them identically.
+use_directory_urls: false
 theme:
   name: material
   palette:
@@ -15,7 +22,6 @@ theme:
     - search.suggest
     - search.highlight
     - navigation.top
-    - navigation.instant
     - navigation.tracking
     - toc.follow
     - content.code.copy

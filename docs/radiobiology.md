@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*454 records. Newest first.*
+*453 records. Newest first.*
 
 ---
 
@@ -20,26 +20,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
     PURPOSE: The emergence of focal techniques such as stereotactic radiosurgery has led to a more selective use of whole brain radiotherapy (WBRT), yet it remains an important modality for treating diffuse or multiple intracranial malignancies. During WBRT, conventional dose rate radiotherapy (CONV-RT) inadvertently exposes ocular structures to radiation, potentially leading to vision-threatening complications. FLASH radiotherapy (FLASH-RT) delivers ultra-high dose rates in milliseconds, compared to CONV-RT where the dose delivery is over several minutes. This study employs 9 MeV electron beams to investigate whether FLASH-RT reduces radiation-induced corneal collagen damage relative to CONV-RT, using second-harmonic generation (SHG) imaging in a murine WBRT model. We hypothesized that FLASH-RT preferentially protects anterior ocular structures from incidental radiation damage compared to CONV-RT, potentially through preservation of extracellular matrix integrity and reduced damage to long-lived structural proteins. MATERIALS AND METHODS: C57BL/6 J wild type mice were divided into three experimental cohorts: untreated controls, FLASH-RT and CONV-RT. Within the radiotherapy cohorts, subgroups received a single whole-brain fraction of 10 Gy, 15 Gy or 20 Gy delivered at an average dose rate of 240 Gy/s for FLASH-RT or 0.1 Gy/s for CONV-RT. Corneal alterations were evaluated at acute (4 days) and chronic (40 days) post-irradiation timepoints. SHG microscopy quantified collagen organization using forward-to-backward (F/B) signal ratios and corneal thickness as markers of radiation-induced damage. RESULTS: In the CONV-RT cohorts, we found significantly decreased F/B ratios compared to controls (p &lt; 0.05), indicating substantial collagen disorganization, and increased corneal thickness indicative of radiation-induced tissue edema. Conversely, FLASH-RT was associated with higher F/B ratios and reduced corneal thickening compared with CONV-RT, indicating preservation of corneal extracellular matrix organization across both timepoints. However, the tissue sparing effect on corneal thickness was not sustained at the high single fraction threshold of 20 Gy. CONCLUSION: FLASH-RT preserves corneal collagen architecture compared to CONV-RT during whole brain irradiation, demonstrating significant potential for minimizing ocular toxicity in WBRT. These findings support clinical investigation of FLASH-RT as a tissue-sparing modality for brain cancer treatment.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42541254/) · [DOI](https://doi.org/10.1016/j.ctro.2026.101235) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7027102/)
-
-
----
-
-### Review of oxygen measurement and relevance to the mechanisms of FLASH radiotherapy.
-
-*Pogue BW, Hunter DI, Narita C, Thomas WS, Cao X, Swartz HM* — ArXiv (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained.
-
-
-??? note "Abstract"
-    FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained. Among the proposed hypotheses, tissue oxygen has consistently been a central theme because oxygen is the most dominant factor known to modulate radiation-induced damage. The factors implicated in FLASH sparing include the baseline partial pressure of oxygen (pO2), transient radiolytic oxygen consumption (ROC), and oxygen-dependent changes in the chemistry of reactive oxygen species (ROS) that vary with dose rate. This review synthesizes current evidence on in vivo oxygen measurement techniques, highlighting their capabilities and limitations in capturing the spatial and temporal heterogeneity of tissue oxygenation. Key experimental studies in skin are summarized and interpreted by modulating oxygen levels via changes in inspired oxygen gas and vascular clamping interventions, demonstrating that the FLASH effect occurs only at intermediate baseline pO2 (normoxic or slightly hypoxic) values, but not at hypoxia or hyperoxia. Direct measurement of oxygen consumption during UHDR irradiation is possible, providing one of the first in situ measurements of radiation chemistry in patients. In parallel, recent advances in fast in vitro radiation chemistry assays indicate that UHDR irradiation alters radical yields, favoring increased production of solvated electrons and reduced hydroxyl radical mediated damage. Taken together, the available data suggest that the FLASH sparing effect arises from an interplay among the delivered dose and dose rate, local oxygen availability, and radiation chemistry, with tissue-specific variation in scavenging, leading to altered biological responses across the CDR-to-UHDR shift.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42539085/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13419626/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42541254/) · [DOI](https://doi.org/10.1016/j.ctro.2026.101235) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057355/)
 
 
 ---
@@ -63,18 +44,18 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Mitochondrial Responses to Conventional and Ultra-high Dose Rate (FLASH) Radiation.
+### Mitochondrial Responses to Conventional and Ultra-High Dose Rate (FLASH) Radiation.
 
 *Caggiano EG, Elizondo ME, Hernandez AL, Waldrop T, Liu K, Gatica-Gutierrez H et al.* — International journal of radiation oncology, biology, physics (2026)  
 
 <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-**TL;DR.** Ultra-high dose rate (&gt;40 Gy/s, FLASH) radiation therapy (RT) provides equivalent tumor control while reducing normal tissue toxicity relative to conventional dose rate (CONV) RT. However, the mechanisms underlying the observed FLASH effect are unknown.
+**TL;DR.** Ultra-high dose rate (&gt;40 Gy/s, FLASH) radiation therapy (RT) provides equivalent tumor control while reducing normal tissue toxicity relative to conventional dose rate radiation (CONV) RT. However, the mechanisms underlying the observed FLASH effect are unknown.
 
 
 ??? note "Abstract"
-    PURPOSE: Ultra-high dose rate (&gt;40 Gy/s, FLASH) radiation therapy (RT) provides equivalent tumor control while reducing normal tissue toxicity relative to conventional dose rate (CONV) RT. However, the mechanisms underlying the observed FLASH effect are unknown. We hypothesized that the preservation of mitochondrial integrity in nontumorigenic cells by FLASH RT could be a key factor in reducing normal tissue toxicity and improving overall treatment outcomes. METHODS: We examined mitochondrial health and function after CONV and FLASH in vitro, ex vivo, and in vivo through assays of metabolic flux, mitochondrial membrane potential, mitochondrial reactive oxygen species (ROS), mitochondrial DNA damage and copy number, mitochondrial morphology, and tumor growth and survival. RESULTS: In in vitro assays, murine pancreatic cancer (PDAC) cells showed similar levels of mitochondrial damage in response to CONV and FLASH, but nontumorigenic pancreatic cells were spared by FLASH. Ex vivo measurements recapitulated the in vitro findings, and in vivo, mice bearing subcutaneous KPC tumors had comparable tumor growth delay with FLASH and CONV, whereas longer survival after FLASH reflected reduced radiation-induced toxicity rather than greater tumor control. CONCLUSIONS: Collectively, these results suggest that FLASH spares mitochondrial function in nontumorigenic cells, but not in PDAC cells, relative to CONV. The preservation of mitochondrial integrity in nontumorigenic cells may be a key mechanism underlying the reduced normal tissue toxicity observed with FLASH RT.
+    PURPOSE: Ultra-high dose rate (&gt;40 Gy/s, FLASH) radiation therapy (RT) provides equivalent tumor control while reducing normal tissue toxicity relative to conventional dose rate radiation (CONV) RT. However, the mechanisms underlying the observed FLASH effect are unknown. We hypothesized that preservation of mitochondrial integrity in nontumorigenic cells by FLASH RT could be a key factor in reducing normal tissue toxicity and improving overall treatment outcomes. METHODS AND MATERIALS: We examined mitochondrial health and function after CONV and FLASH in vitro, ex vivo, and in vivo through assays of metabolic flux, mitochondrial membrane potential, mitochondrial reactive oxygen species (ROS), mitochondrial DNA damage and copy number, mitochondrial morphology, and tumor growth and survival. RESULTS: In in vitro assays, murine pancreatic cancer (PDAC) cells showed similar levels of mitochondrial damage in response to CONV and FLASH, but nontumorigenic pancreatic cells were spared by FLASH. Ex vivo measurements recapitulated the in vitro findings, and in vivo, mice bearing subcutaneous LSL-KRASG12D; Trp53fl/+; Ptf1⍺ Cre (KPC) tumors had comparable tumor growth delay with FLASH and CONV, whereas longer survival after FLASH reflected reduced radiation-induced toxicity rather than greater tumor control. CONCLUSIONS: Collectively, these results suggest that FLASH spares mitochondrial function in nontumorigenic cells, but not in PDAC cells. relative to CONV. The preservation of mitochondrial integrity in nontumorigenic cells may be a key mechanism underlying the reduced normal tissue toxicity observed with FLASH RT.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42448000/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.07.006)

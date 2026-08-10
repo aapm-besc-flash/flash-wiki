@@ -2,7 +2,83 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*157 records. Newest first.*
+*161 records. Newest first.*
+
+---
+
+### TOPAS-nBio simulation of the impact of ultrahigh dose rate and oxygen concentration on the Fenton reaction using the Fricke solution.
+
+*Chaoui M, Shin WG, Bouhali O, Schuemann J, Ramos-Méndez J, Tayalati Y* — Medical physics (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Preclinical studies have shown that FLASH radiotherapy (FLASH-RT), delivering radiation in ultrahigh dose rates (UHDR), presents reduced healthy tissue toxicity, while maintaining an iso-effective tumor response compared to conventional radiotherapy (CONV-RT). This combined biological benefit was termed as &quot;FLASH effect.&quot; The mechanisms responsible for this effect remain unclear, however, it has b…
+
+
+??? note "Abstract"
+    BACKGROUND: Preclinical studies have shown that FLASH radiotherapy (FLASH-RT), delivering radiation in ultrahigh dose rates (UHDR), presents reduced healthy tissue toxicity, while maintaining an iso-effective tumor response compared to conventional radiotherapy (CONV-RT). This combined biological benefit was termed as &quot;FLASH effect.&quot; The mechanisms responsible for this effect remain unclear, however, it has been hypothesized that the Fenton reaction which produces   • OH    can inflict substantial damage to biomolecules and thus might play a role in the &quot;FLASH effect.&quot; PURPOSE: We propose to investigate the influence of radiation delivery parameters including pulse width, dose, dose rate, and initial oxygen concentration on the activation of the Fenton reaction using the Fricke solution. METHODS AND MATERIALS: TOPAS-nBio version 4.0 was used to simulate the radiolysis of the Fricke solution. A cubic water phantom (3 µm side) was irradiated laterally by 300 MeV protons. Irradiation was delivered in pulses of tracks with absorbed doses from 1-40 Gy, or in independent tracks. For ultrahigh dose rate (UHDR), we varied the pulse widths between 10 ns and 10 µs, corresponding to instantaneous dose rates of 109-105 Gy/s. For conventional dose rate (CONV), both the independent history approach (mimicking 6 0Co) and multi-pulse irradiations at different frequencies were simulated, yielding a mean dose rate of 0.28 Gy/s. Irradiation times reached between 78 ns-85 s. Oxygen concentrations in the equivalent condition of hypoxic and normoxic tissues (1%-21%) were considered. The G-value for oxidant ions G(Fe3+) and ΔG-value of Fenton reaction (H2O2 + Fe2+ → Fe3+ +   • OH  + O H -   ) were scored. The simulations ended after G(Fe3+) achieved steady-state, and calculated yields were compared with published data. RESULTS: For CONV, G(Fe3+) agreed with ICRU-report 34 data within (0.97 ± 0.1)%. For UHDR, G(Fe3+) agreed with ICRU data within (1.24 ± 0.1) % and (0.92 ± 0.1) % for 5 and 10 Gy, respectively. Notably, UHDR at 10 Gy reduced the occurrence of Fenton reactions by 1% and 11.5% at initial oxygen of 21% pO2 and 1% pO2, respectively. In consequence, UHDR decreased G(Fe3+) by 1.8% and 12.5% at these oxygen levels.  Additionally, increasing the dose per pulse to 40 Gy further reduced the G(Fe3+) by 40% at 1%pO2. This effect became negligible for long pulse durations ≥10 µs and low mean dose rate (0.28 Gy/s), highlighting the importance of instantaneous dose rates. Precisely, the decrease was driven by intertrack effects present in UHDR pulses and their impact on the scavenging effect that oxygen had over hydrogen radicals. CONCLUSIONS: The observed reduction in G(Fe3 +) is primarily driven by inter-track effects, which limit the availability of radicals participating in Fenton chemistry under UHDR conditions. This effect is most pronounced at low initial oxygen concentrations and minimal at higher oxygen concentrations. The effect is further amplified at higher per-pulse doses (25-40 Gy) but vanishes at long pulse durations and low mean dose rates. This emphasizes the important role of the initial oxygen concentration in UHDR and its influence on the latest activation of Fenton reaction, a mechanism that may contribute to elucidating the FLASH effect.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42563395/) · [DOI](https://doi.org/10.1016/j.ijrobp.2024.09.006) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12142639/)
+
+
+---
+
+### Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
+
+*Pang D, Kaphle A, Yin L, Bai H, Wells M, Miles D et al.* — International journal of radiation oncology, biology, physics (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventio…
+
+
+??? note "Abstract"
+    PURPOSE: This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of double strand breaks (DSB) per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10 mM HEPES concentration at the 1 kGy dose; however, at 3 kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10 mM HEPES concentration, this effect is dose-rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer-scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and LET.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42556588/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.07.043)
+
+
+---
+
+### Pulse-resolved tumor control probability modeling for FLASH radiotherapy using a variable-time treatment-course framework.
+
+*Lee TK* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed TCP_LRF, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted TCP_LR, to connect FLASH beam microstructure, oxygen/radical kinetics, bi…
+
+
+??? note "Abstract"
+    FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed TCP_LRF, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted TCP_LR, to connect FLASH beam microstructure, oxygen/radical kinetics, biological repair, and treatment-course repopulation.&amp;#xD;Approach: TCPLR was used as the parent treatment-course TCP model because it accommodates variable interfraction timing and kick-off-time-dependent accelerated repopulation. Its conventional cumulative survival term was replaced by a FLASH-aware survival term derived from a reduced-order oxygen/radical ordinary differential equation kernel. Each FLASH fraction was represented as a pulse train. The same oxygen/radical kinetics, lesion-yield calculation, and post-fraction repair layer were also implemented for standard-dose-rate continuous delivery to provide an internal comparator. The implementation was verified against uniform-dose benchmarks reported in the original Lee-Rosen publication describing TCP_LR and then evaluated using exploratory FLASH, repair, pulse-structure, and standard-dose-rate scenarios.&amp;#xD;Main results: Conventional verification reproduced published benchmark trends, with maximum absolute differences of 1.44, 1.21, and 3.48 percentage points for head-and-neck, breast, and prostate cases, respectively. In a 3 × 8 Gy starter case, calibrated null-FLASH TCP was 0.790. Moderate chemistry and strong radical recombination yielded TCP values of 0.713 and 0.703, respectively, whereas mild oxygen limitation reduced TCP to 0.276. Standard-dose-rate continuous delivery produced negligible oxygen depletion under null and moderate chemistry assumptions, while deliberately oxygen-limited standard-dose-rate cases showed reduced TCP.&amp;#xD;Significance: This exploratory framework provides a mechanistic treatment-course TCP platform for hypothesis testing in FLASH radiotherapy. It demonstrates how pulse microstructure and continuous standard-dose-rate delivery can be evaluated within the same published variable-time TCP_LR formulation, while showing that FLASH TCP behavior depends on oxygen/radical kinetic assumptions, pulse structure, repair, and oxygen availability rather than being universally preserved or reduced.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42546758/) · [DOI](https://doi.org/10.1088/1361-6560/ae944e)
+
+
+---
+
+### Review of oxygen measurement and relevance to the mechanisms of FLASH radiotherapy.
+
+*Pogue BW, Hunter DI, Narita C, Thomas WS, Cao X, Swartz HM* — ArXiv (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained.
+
+
+??? note "Abstract"
+    FLASH radiotherapy (FLASH-RT) is the phenomenon of relative sparing of normal tissue when ultra-high dose rates (UHDR) are used compared with conventional dose rates (CDR) as clinically used. Despite extensive investigation, the underlying mechanisms remain unexplained. Among the proposed hypotheses, tissue oxygen has consistently been a central theme because oxygen is the most dominant factor known to modulate radiation-induced damage. The factors implicated in FLASH sparing include the baseline partial pressure of oxygen (pO2), transient radiolytic oxygen consumption (ROC), and oxygen-dependent changes in the chemistry of reactive oxygen species (ROS) that vary with dose rate. This review synthesizes current evidence on in vivo oxygen measurement techniques, highlighting their capabilities and limitations in capturing the spatial and temporal heterogeneity of tissue oxygenation. Key experimental studies in skin are summarized and interpreted by modulating oxygen levels via changes in inspired oxygen gas and vascular clamping interventions, demonstrating that the FLASH effect occurs only at intermediate baseline pO2 (normoxic or slightly hypoxic) values, but not at hypoxia or hyperoxia. Direct measurement of oxygen consumption during UHDR irradiation is possible, providing one of the first in situ measurements of radiation chemistry in patients. In parallel, recent advances in fast in vitro radiation chemistry assays indicate that UHDR irradiation alters radical yields, favoring increased production of solvated electrons and reduced hydroxyl radical-mediated damage. Taken together, the available data suggest that the FLASH sparing effect arises from an interplay among the delivered dose and dose rate, local oxygen availability, and radiation chemistry, with tissue-specific variation in scavenging, leading to altered biological responses across the CDR-to-UHDR shift. This more complex interpretation seems more likely than the simpler interpretation of broad-area radiolytic oxygen depletion alone. However, it must be acknowledged that we have partial data on all aspects of this hypothesis, and further improvements in oxygen sampling are very likely to help in understanding ROS and scavenging effects in vivo. Key challenges in quantifying oxygen dynamics in vivo are highlighted, and the conclusions are used to identify critical areas for future research to enable mechanistic understanding and clinical translation of FLASH-RT.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42539085/) · [DOI](https://doi.org/10.1101/2025.10.06.680759) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9711940/)
+
 
 ---
 
@@ -428,7 +504,7 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 *Rothwell B, Shin WG, LaVerne JA, Rodriguez Gonzalez T, Joseph K, Chan TY et al.* — Radiation research (2026)  
 
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
 
 
 **TL;DR.** Hydrogen peroxide (H2O2), a key product of water radiolysis formed predominantly through hydroxyl (OH) radical recombination, plays a critical role in understanding radiation-induced oxidation processes. Differences in H2O2 yields under ultra-high dose rate (UHDR) and conventional dose rate (CDR) radiation have been proposed as a potential contributor to the FLASH healthy tissue sparing effect.
@@ -438,7 +514,7 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
     Hydrogen peroxide (H2O2), a key product of water radiolysis formed predominantly through hydroxyl (OH) radical recombination, plays a critical role in understanding radiation-induced oxidation processes. Differences in H2O2 yields under ultra-high dose rate (UHDR) and conventional dose rate (CDR) radiation have been proposed as a potential contributor to the FLASH healthy tissue sparing effect. Radiolytic H2O2 yields were determined under UHDR (∼120 Gy/s) and CDR (1-5 Gy/s) proton irradiation in both deaerated and oxygen-saturated systems. An escape yield of ∼0.7 molecules/100 eV was observed in deaerated solutions. In oxygen-saturated systems, yields increased to ∼1.0 molecules/100 eV due to reactions involving oxygen-derived radicals. To investigate the temporal dependence of H2O2 production, various concentrations of methanol or dimethyl sulfoxide (DMSO) were added as OH radical scavengers. In deaerated systems, H2O2 yields approached zero as scavenging capacity increased, highlighting the critical role of OH radical combination reactions. In oxygen-saturated systems, moderate scavenging initially increased H2O2 yields via interactions between OH radicals and oxygen-derived species, but at higher scavenging capacities (∼108 s-1), yields declined sharply due to the suppression of OH radical combination reactions. Methanol produced higher H2O2 yields than DMSO under oxygenated conditions, with a maximum yield approximately 40% greater than that for DMSO. Measurements using γ rays produced the same trends. UHDR irradiation did not yield statistically significant differences in H2O2 production compared to conventional radiation. Simulations using the TOPAS-nBio framework confirmed the experimental findings and provided insight into the influence of scavenger concentrations on H2O2 yields. These findings highlight the sensitivity of H2O2 yields to scavenging conditions and emphasize the need for more complex models to study fundamental radiation chemistry in biological systems. This work provides essential data for validating radiation chemistry models and advancing our understanding of radiation chemistry in different environments.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41421382/) · [DOI](https://doi.org/10.1667/RADE-25-00190.1)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41421382/) · [DOI](https://doi.org/10.1667/RADE-25-00190.1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9765991/)
 
 
 ---

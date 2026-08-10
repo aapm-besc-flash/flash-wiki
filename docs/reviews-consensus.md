@@ -2,7 +2,26 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*204 records. Newest first.*
+*205 records. Newest first.*
+
+---
+
+### Harnessing the sparing effect of FLASH-RT: From phenomenon observation, radiophysical determinants to molecular mechanisms and synergistic strategies.
+
+*Dou Z, Lei H, Yang J, Li M, Wang S, Bao X et al.* — Materials today. Bio (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** FLASH radiotherapy (FLASH-RT) represents an innovative paradigm shift in radiation oncology. It is distinguished from conventional radiotherapy (CONV-RT) by the ultra-high dose rate (&gt;40 Gy/s) radiation delivery to tumours within sub-millisecond bursts.
+
+
+??? note "Abstract"
+    FLASH radiotherapy (FLASH-RT) represents an innovative paradigm shift in radiation oncology. It is distinguished from conventional radiotherapy (CONV-RT) by the ultra-high dose rate (&gt;40 Gy/s) radiation delivery to tumours within sub-millisecond bursts. Increasing preclinical studies have shown that FLASH-RT markedly reduces normal tissue toxicity without compromising antitumor efficacy, termed the &quot;FLASH effect&quot;. Despite its potential, clinical implementation remains constrained by several challenges, including the incomplete understanding of its underlying biological mechanisms, the optimization of physical parameters, and ongoing technological hurdles. In this review, we systematically reviewed and synthesized the preclinical evidence across multiple organ systems, delineating the complex interplay of physical parameters that govern biological outcomes of FLASH-RT. Moving beyond phenomenological observations, this review provides a rigorous synthesis of mechanism ranging from initial physicochemical to biological processes, including transient oxygen depletion, radical recombination, differential DNA damage response, and mitochondrial reprogramming. A central focus is placed on the potent immunomodulatory role of FLASH-RT, highlighting its ability to preserve systemic immune competence and reshape the tumor immune microenvironment. These unique advantages have facilitated the initiation of FLASH-related clinical trials and position FLASH-RT as an exceptionally promising partner for next-generation immunotherapy, spatially fractionated approaches, and nanomedicine-based radio-sensitization research. While promising, mature clinical translation faces challenges. By synthesizing the interplay between ultra-high dose rate physics and molecular radiobiology, this review provides an integrated framework designed to translate fundamental FLASH effects into predictable and optimized therapeutic strategies for the next generation of precision cancer treatment.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42549040/) · [DOI](https://doi.org/10.1016/j.mtbio.2026.103487) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11198981/)
+
 
 ---
 
