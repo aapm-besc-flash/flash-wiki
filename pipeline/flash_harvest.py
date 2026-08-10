@@ -55,11 +55,33 @@ def _load_api_key():
 API_KEY = _load_api_key()
 
 # ---- The canonical FLASH-RT search string (edit here to tune the corpus) ----
+#
+# PLURALS ARE NOT OPTIONAL. PubMed phrase search matches an exact token
+# sequence and does no stemming, so "ultra high dose rate" does NOT retrieve
+# "...at ultra-high dose-rates". A recall audit against the reference lists of
+# 16 FLASH reviews (2023-2026) found this had silently excluded the foundational
+# 1969-1978 ultra-high-dose-rate radiobiology - Berry, Epp, Nias, Town - the
+# very papers the modern field cites as its origin. ~250 records carry only the
+# plural form. Any new phrase added below must be added in both numbers.
+#
+# VHEE is included explicitly: very-high-energy-electron papers frequently never
+# use the words "FLASH" or "ultra-high dose rate" in title/abstract, so the rest
+# of this query cannot see them.
 QUERY = (
     '("ultra-high dose rate"[tiab] OR "ultrahigh dose rate"[tiab] OR '
-    '"ultra high dose rate"[tiab] OR "FLASH radiotherapy"[tiab] OR "FLASH-RT"[tiab] OR '
+    '"ultra high dose rate"[tiab] OR "ultra-high dose-rate"[tiab] OR '
+    '"ultrahigh dose-rate"[tiab] OR '
+    # --- plural forms of the above ---
+    '"ultra-high dose rates"[tiab] OR "ultrahigh dose rates"[tiab] OR '
+    '"ultra high dose rates"[tiab] OR "ultra-high dose-rates"[tiab] OR '
+    # --- named modality ---
+    '"FLASH radiotherapy"[tiab] OR "FLASH-RT"[tiab] OR '
     '"FLASH radiation"[tiab] OR "FLASH irradiation"[tiab] OR "FLASH effect"[tiab] OR '
     '"FLASH proton"[tiab] OR "FLASH electron"[tiab] OR '
+    # --- very high energy electrons (often never say "FLASH") ---
+    '"very high energy electron"[tiab] OR "very high energy electrons"[tiab] OR '
+    '"VHEE"[tiab] OR '
+    # --- broad fallback: the word FLASH beside a radiotherapy term ---
     '("FLASH"[tiab] AND ("dose rate"[tiab] OR "radiotherapy"[tiab] OR '
     '"radiation therapy"[tiab] OR "irradiation"[tiab] OR "Gy/s"[tiab] OR '
     '"conventional dose rate"[tiab])))'
@@ -329,6 +351,11 @@ CURATOR_OVERRIDES = {
     "5539709":  "Radiobiology",  # Photobacterium fischeri, UHDR pulsed electron beam
     "11155330": "Radiobiology",  # Chromosome aberrations, pulsed vs continuous neutrons
     "16209185": "Radiobiology",  # BARS-6 pulse reactor cytogenetics in lymphocytes
+    # Recovered by the 2026-08 recall audit (plural "dose-rates" / VHEE terms).
+    # These predate the modern vocabulary and several carry no abstract at all,
+    # so keyword scoring has nothing to work with - assign them by hand.
+    "10874936": "Radiobiology",  # Nias 1974, HE electrons at UHDR, Artemia dry eggs
+    "18380325": "Radiobiology",  # Temperature & chromosome aberrations, pulsed irradiation
     "41179706": "Radiobiology",  # UHDR regulates mtDNA-induced interferon-beta secretion
     "34563608": "Treatment Planning & Optimization",  # Multibeam & hypofractionation delivery
     # --- debate / opinion column assignments ---
