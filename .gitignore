@@ -1,0 +1,40 @@
+# ---------------------------------------------------------------------------
+# FLASH Wiki - repository ignore rules
+# ---------------------------------------------------------------------------
+
+# --- Secrets ---------------------------------------------------------------
+# flash_harvest.py reads NCBI_API_KEY from the environment first and falls back
+# to this file. In CI the key comes from the NCBI_API_KEY repository secret,
+# so this file must never be committed.
+ncbi_api_key.txt
+pipeline/ncbi_api_key.txt
+*.key
+.env
+.env.*
+
+# --- Pipeline run artifacts (regenerated every run) ------------------------
+pipeline/logs/
+_archive/
+website/built_site/
+site/
+.refresh/
+
+# --- Local-only working material, not part of the corpus -------------------
+notebooklm_sources/
+ris_archive/
+Run_Monthly_Update.command
+
+# --- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- macOS / OneDrive ------------------------------------------------------
+.DS_Store
+._*
+Icon?
+~$*
+.Trashes
+*.tmp
