@@ -7,7 +7,7 @@ message: "If you use this corpus, please cite it as below."
 title: "FLASH Radiotherapy Living Wiki"
 abstract: >-
   A continuously updated, categorized corpus of MEDLINE-indexed FLASH
-  radiotherapy literature, maintained by the FLASH Working Group of the AAPM Biological Effects Subcommittee (BESC). FLASH Working Group. Records
+  radiotherapy literature, maintained by the FLASH Working Group of the AAPM Biological Effects Subcommittee (BESC). Records
   are harvested from PubMed, screened against explicit inclusion criteria, and
   auto-classified into topic categories with curator override.
 type: dataset
@@ -29,16 +29,10 @@ authors:
   - family-names: Maxim
     given-names: Peter G.
     affiliation: "Department of Radiation Oncology, University of California, Irvine"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: your ORCID
+    orcid: "https://orcid.org/0000-0002-8244-2042"
 
-  # ---------------------------------------------------------------------
-  # TODO: add the remaining FLASH WG members. Duplicate the block below.
+  # To add WG members as authors, copy the four lines above and edit them.
   # Order here is the order they appear in the citation.
-  # ---------------------------------------------------------------------
-  # - family-names: Maxim  
-  #   given-names: Peter G.
-  #   affiliation: "University of California Irvine"
-  #   orcid: "https://orcid.org/0000-0002-8244-2042"
 
   - name: "AAPM BESC FLASH Working Group"
     website: "https://www.aapm.org/"
