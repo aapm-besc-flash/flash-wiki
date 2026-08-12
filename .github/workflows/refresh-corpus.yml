@@ -75,6 +75,13 @@ jobs:
           echo "now running at the lower anonymous rate limit (3 req/s)."
           env -u NCBI_API_KEY python pipeline/flash_harvest.py
 
+      - name: Recall guard — landmark papers must survive the harvest
+        # Asserts that known FLASH landmarks are still in the corpus and that
+        # known homonyms are still excluded. A query or screening regression
+        # fails the build here, BEFORE any pull request is opened, instead of
+        # silently shrinking the corpus. See pipeline/test_recall.py.
+        run: python3 pipeline/test_recall.py
+
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
 
