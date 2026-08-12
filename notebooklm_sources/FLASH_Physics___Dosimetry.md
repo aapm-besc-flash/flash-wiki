@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Physics & Dosimetry
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-10. 269 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-12. 269 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 

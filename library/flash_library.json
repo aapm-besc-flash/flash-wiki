@@ -1,8 +1,32 @@
 {
- "generated": "2026-08-10",
+ "generated": "2026-08-12",
  "query": "(\"ultra-high dose rate\"[tiab] OR \"ultrahigh dose rate\"[tiab] OR \"ultra high dose rate\"[tiab] OR \"ultra-high dose-rate\"[tiab] OR \"ultrahigh dose-rate\"[tiab] OR \"ultra-high dose rates\"[tiab] OR \"ultrahigh dose rates\"[tiab] OR \"ultra high dose rates\"[tiab] OR \"ultra-high dose-rates\"[tiab] OR \"FLASH radiotherapy\"[tiab] OR \"FLASH-RT\"[tiab] OR \"FLASH radiation\"[tiab] OR \"FLASH irradiation\"[tiab] OR \"FLASH effect\"[tiab] OR \"FLASH proton\"[tiab] OR \"FLASH electron\"[tiab] OR \"very high energy electron\"[tiab] OR \"very high energy electrons\"[tiab] OR \"VHEE\"[tiab] OR (\"FLASH\"[tiab] AND (\"dose rate\"[tiab] OR \"radiotherapy\"[tiab] OR \"radiation therapy\"[tiab] OR \"irradiation\"[tiab] OR \"Gy/s\"[tiab] OR \"conventional dose rate\"[tiab])))",
- "n": 1385,
+ "n": 1386,
  "records": [
+  {
+   "pmid": "42575153",
+   "doi": "10.1088/1361-6560/ae97af",
+   "pmc": "",
+   "year": "2026",
+   "title": "Laser-driven particle accelerators for cancer therapy: a review of state-of-the-art techniques, challenges and opportunities.",
+   "authors": [
+    "Alabd R",
+    "Franklin DR"
+   ],
+   "journal": "Physics in medicine and biology",
+   "abstract": "Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons. Laser plasma accelerators offer the potential for extremely high dose rates in a very compact physical footprint. While these radiation sources advancing rapidly, there remain many technical challenges to be overcome prior to clinical translation. In this work, we outline the current state of the art in laser-plasma accelerators for proton, carbon ion and very high energy electron radiation therapy, discuss recent in vitro and in vivo experimental results, and identify the key challenges and opportunities offered by this promising family of technologies.",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "mesh": [],
+   "category": "Beam Delivery & Technology",
+   "tags": [
+    "Beam Delivery & Technology",
+    "Radiobiology",
+    "Clinical & Translational"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42575153/"
+  },
   {
    "pmid": "42574718",
    "doi": "10.1093/rpd/ncag079",
