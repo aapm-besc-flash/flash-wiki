@@ -1,4 +1,19 @@
 TY  - JOUR
+TI  - Laser-driven particle accelerators for cancer therapy: a review of state-of-the-art techniques, challenges and opportunities.
+AU  - Alabd R
+AU  - Franklin DR
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons. Laser plasma accelerators offer the potential for extremely high dose rates in a very compact physical footprint. While these radiation sources advancing rapidly, there remain many technical challenges to be overcome prior to clinical translation. In this work, we outline the current state of the art in laser-plasma accelerators for proton, carbon ion and very high energy electron radiation therapy, discuss recent in vitro and in vivo experimental results, and identify the key challenges and opportunities offered by this promising family of technologies.
+DO  - 10.1088/1361-6560/ae97af
+AN  - 42575153
+UR  - https://pubmed.ncbi.nlm.nih.gov/42575153/
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
 TI  - Radiation protection strategies for FLASH radiotherapy accelerator installation in animal housing.
 AU  - Russo G
 AU  - Bonaccorsi SG

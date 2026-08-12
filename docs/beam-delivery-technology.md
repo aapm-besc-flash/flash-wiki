@@ -2,7 +2,26 @@
 
 Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-delivery hardware for UHDR.
 
-*124 records. Newest first.*
+*125 records. Newest first.*
+
+---
+
+### Laser-driven particle accelerators for cancer therapy: a review of state-of-the-art techniques, challenges and opportunities.
+
+*Alabd R, Franklin DR* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons.
+
+
+??? note "Abstract"
+    Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons. Laser plasma accelerators offer the potential for extremely high dose rates in a very compact physical footprint. While these radiation sources advancing rapidly, there remain many technical challenges to be overcome prior to clinical translation. In this work, we outline the current state of the art in laser-plasma accelerators for proton, carbon ion and very high energy electron radiation therapy, discuss recent in vitro and in vivo experimental results, and identify the key challenges and opportunities offered by this promising family of technologies.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42575153/) · [DOI](https://doi.org/10.1088/1361-6560/ae97af)
+
 
 ---
 

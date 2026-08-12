@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Radiobiology
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-10. 476 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-12. 476 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
