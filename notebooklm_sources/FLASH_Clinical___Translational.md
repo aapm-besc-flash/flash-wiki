@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Clinical & Translational
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 43 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 40 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -269,18 +269,7 @@ Abstract: BACKGROUND: During recent years FLASH radiotherapy (FLASH-RT) has show
 
 ---
 
-## 25. Low-dose ultra-high-pitch computed tomography coronary angiography: identifying the optimum combination of iteration strength and radiation dose reduction strategies to achieve true submillisievert scans.
-Authors: Kumari N, Ganga KP, Ojha V, Kumar S, Jagia P, Naik N, Gulati G, Sharma S
-Journal: Diagnostic and interventional radiology (Ankara, Turkey) (2023)
-Identifiers: PMID 36987879; DOI 10.4274/dir.2021.0849; PMC PMC10679714 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/36987879/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: PURPOSE: To identify the optimum strength of advanced modeled iterative reconstruction (ADMIRE) to achieve the best subjective and objective image quality when combining three-dose reduction strategies, ultra-high-pitch computed tomography coronary angiography (FLASH CTCA; with single-dose ivabradine to lower heart rate), low tube voltage, and ADMIRE. METHODS: Sixty consecutive patients underwent FLASH CTCA at 100 kVp in this single-center prospective study. Single-dose ivabradine was administered to patients whose heart rate was above 75 bpm. Images were reconstructed using the three highest strengths of ADMIRE (A3, A4, and A5). Objective and subjective image quality (using a Likert scale) were evaluated in the three datasets. RESULTS: The signal strength remained unchanged but mean noise significantly reduced across the increasing strengths of ADMIRE [signal: 513.78 ± 101.7 Hounsfield units (HU) at A3, 515.6 ± 100.5 HU at A4, and 519.7 ± 107.9 HU at A5; noise: 23.4 ± 4.5 HU at A3, 20.2 ± 3.6 HU at A4, and 17.2 ± 3.3 HU at A5]. Signal-to-noise and contrast-to-noise ratios were the highest at A5, and A5 offered significantly higher Likert scores in image noise, vessel sharpness, and overall image quality than A3 or A4. Additionally, A5 did not interfere with image interpretation in any patient. CONCLUSION: Using all three dose reduction strategies during FLASH CTCA along with single-dose ivabradine administration ensures minimal radiation exposure in daily practice. In this study, A5 datasets had the best overall subjective and objective image quality despite their "plastic appearance". In the future, enhanced dose reduction can be obtained by further lowering tube voltages.
-
----
-
-## 26. Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
+## 25. Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
 Authors: Mascia AE, Daugherty EC, Zhang Y, Lee E, Xiao Z, Sertorio M, Woo J, Backus LR et al.
 Journal: JAMA oncology (2023)
 Identifiers: PMID 36273324; DOI 10.1001/jamaoncol.2022.5843; PMC PMC9589460 (open access)
@@ -291,7 +280,7 @@ Abstract: IMPORTANCE: To our knowledge, there have been no clinical trials of ul
 
 ---
 
-## 27. FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases (FAST-01): Protocol for the First Prospective Feasibility Study.
+## 26. FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases (FAST-01): Protocol for the First Prospective Feasibility Study.
 Authors: Daugherty EC, Mascia A, Zhang Y, Lee E, Xiao Z, Sertorio M, Woo J, McCann C et al.
 Journal: JMIR research protocols (2023)
 Identifiers: PMID 36206189; DOI 10.2196/41812; PMC PMC9893728 (open access)
@@ -302,7 +291,7 @@ Abstract: BACKGROUND: In preclinical studies, FLASH therapy, in which radiation 
 
 ---
 
-## 28. Clinical feasibility of combining intraoperative electron radiation therapy with minimally invasive surgery: a potential for electron-FLASH clinical development.
+## 27. Clinical feasibility of combining intraoperative electron radiation therapy with minimally invasive surgery: a potential for electron-FLASH clinical development.
 Authors: Calvo Manuel FÁ, Serrano J, Solé C, Cambeiro M, Palma J, Aristu J, Garcia-Sabrido JL, Cuesta MA et al.
 Journal: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (2023)
 Identifiers: PMID 36169803; DOI 10.1007/s12094-022-02955-z; PMC PMC9873754 (open access)
@@ -313,7 +302,7 @@ Abstract: BACKGROUND: Local cancer therapy by combining real-time surgical explo
 
 ---
 
-## 29. Evaluation of a conventionally shielded proton treatment room for FLASH radiotherapy.
+## 28. Evaluation of a conventionally shielded proton treatment room for FLASH radiotherapy.
 Authors: Xiao Z, Zhang Y, Speth J, Lee E, Mascia A, Lamba M
 Journal: Medical physics (2022)
 Identifiers: PMID 36114793; DOI 10.1002/mp.15964; PMC PMC10091931 (open access)
@@ -324,7 +313,7 @@ Abstract: PURPOSE: FLASH radiotherapy (FLASH-RT) is the potential for a major br
 
 ---
 
-## 30. Comparable Long-Term Tumor Control for Hypofractionated FLASH Versus Conventional Radiation Therapy in an Immunocompetent Rat Glioma Model.
+## 29. Comparable Long-Term Tumor Control for Hypofractionated FLASH Versus Conventional Radiation Therapy in an Immunocompetent Rat Glioma Model.
 Authors: Konradsson E, Liljedahl E, Gustafsson E, Adrian G, Beyer S, Ilaahi SE, Petersson K, Ceberg C et al.
 Journal: Advances in radiation oncology (2022)
 Identifiers: PMID 36092986; DOI 10.1016/j.adro.2022.101011; PMC PMC9449779 (open access)
@@ -335,7 +324,7 @@ Abstract: PURPOSE: To ensure a clinical translation of FLASH radiation therapy (
 
 ---
 
-## 31. Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
+## 30. Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
 Authors: Maity A, Koumenis C
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2022)
 Identifiers: PMID 35736814; DOI 10.1158/1078-0432.CCR-22-1255; PMC PMC9444945 (open access)
@@ -346,7 +335,7 @@ Abstract: A recent study reported results from a clinical trial in cats and from
 
 ---
 
-## 32. Establishment and Initial Experience of Clinical FLASH Radiotherapy in Canine Cancer Patients.
+## 31. Establishment and Initial Experience of Clinical FLASH Radiotherapy in Canine Cancer Patients.
 Authors: Konradsson E, Arendt ML, Bastholm Jensen K, Børresen B, Hansen AE, Bäck S, Kristensen AT, Munck Af Rosenschöld P et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34055624; DOI 10.3389/fonc.2021.658004; PMC PMC8155542 (open access)
@@ -357,7 +346,7 @@ Abstract: FLASH radiotherapy has emerged as a treatment technique with great pot
 
 ---
 
-## 33. Imaged-guided and muscle sparing laparoscopic anorectoplasty using real-time magnetic resonance imaging.
+## 32. Imaged-guided and muscle sparing laparoscopic anorectoplasty using real-time magnetic resonance imaging.
 Authors: Jarboe M, Ladino-Torres M, Wild L, Spremo D, Elkins S, Ladouceur R, Nagy D, Ehrlich P et al.
 Journal: Pediatric surgery international (2020)
 Identifiers: PMID 32638078; DOI 10.1007/s00383-020-04700-5
@@ -368,7 +357,7 @@ Abstract: A challenge when repairing imperforate anus is positioning the neo-rec
 
 ---
 
-## 34. Defining a national reference level for intraoperative radiation exposure in urological procedures: FLASH, a retrospective multicentre UK study.
+## 33. Defining a national reference level for intraoperative radiation exposure in urological procedures: FLASH, a retrospective multicentre UK study.
 Authors: Simson N, Stonier T, Suleyman N, Hendry J, Salib M, Peacock J, Connor M, Jones O et al.
 Journal: BJU international (2020)
 Identifiers: PMID 31437345; DOI 10.1111/bju.14903
@@ -379,7 +368,7 @@ Abstract: OBJECTIVES: To define reference levels for intraoperative radiation du
 
 ---
 
-## 35. Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
+## 34. Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
 Authors: Koch CJ
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31431380; DOI 10.1016/j.radonc.2019.07.004
@@ -390,7 +379,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 36. Ultrahigh Dose-rate Radiotherapy: Next Steps for FLASH-RT.
+## 35. Ultrahigh Dose-rate Radiotherapy: Next Steps for FLASH-RT.
 Authors: Harrington KJ
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2019)
 Identifiers: PMID 30093447; DOI 10.1158/1078-0432.CCR-18-1796
@@ -401,7 +390,7 @@ Abstract: A new way of delivering radiotherapy at very high dose rates is descri
 
 ---
 
-## 37. How Much Is the Dose Varying between Follow-Up CT-Examinations Performed on the Same Scanner with the Same Imaging Protocol?
+## 36. How Much Is the Dose Varying between Follow-Up CT-Examinations Performed on the Same Scanner with the Same Imaging Protocol?
 Authors: Suntharalingam S, Stecker FF, Guberina N, Ringelstein A, Schlosser T, Theysohn JM, Forsting M, Nassenstein K
 Journal: PloS one (2016)
 Identifiers: PMID 27050659; DOI 10.1371/journal.pone.0152961; PMC PMC4822887 (open access)
@@ -412,7 +401,7 @@ Abstract: PURPOSE: To investigate the dose variation between follow-up CT examin
 
 ---
 
-## 38. FLASH proton density imaging for improved surface coil intensity correction in quantitative and semi-quantitative SSFP perfusion cardiovascular magnetic resonance.
+## 37. FLASH proton density imaging for improved surface coil intensity correction in quantitative and semi-quantitative SSFP perfusion cardiovascular magnetic resonance.
 Authors: Nielles-Vallespin S, Kellman P, Hsu LY, Arai AE
 Journal: Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance (2015)
 Identifiers: PMID 25827180; DOI 10.1186/s12968-015-0120-6; PMC PMC4331176 (open access)
@@ -423,7 +412,7 @@ Abstract: BACKGROUND: A low excitation flip angle (α < 10°) steady-state f
 
 ---
 
-## 39. What is the minimal radiation dose that can be used for detecting pleural effusion?
+## 38. What is the minimal radiation dose that can be used for detecting pleural effusion?
 Authors: Pourjabbar S, Singh S, Sharma A, Padole A, Khawaja RD, Lira D, Kalra MK
 Journal: AJR. American journal of roentgenology (2014)
 Identifiers: PMID 24951204; DOI 10.2214/AJR.13.11842
@@ -434,29 +423,7 @@ Abstract: OBJECTIVE: The objective of our study was to assess the effect of radi
 
 ---
 
-## 40. Clinical utility of ultra high pitch dual source thoracic CT imaging of acute pulmonary embolism in the emergency department: are we one step closer towards a non-gated triple rule out?
-Authors: Hou DJ, Tso DK, Davison C, Inacio J, Louis LJ, Nicolaou S, Reimann AJ
-Journal: European journal of radiology (2013)
-Identifiers: PMID 23743054; DOI 10.1016/j.ejrad.2013.05.003
-URL: https://pubmed.ncbi.nlm.nih.gov/23743054/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: OBJECTIVES/PURPOSE: Aim of this study was to retrospectively compare the image quality and the radiation dose of an ultra high pitch CT scan for the evaluation of pulmonary embolism and visualization of cardiac structures in comparison to our institution's standard pulmonary embolism protocol. METHOD AND MATERIALS: The study cohort consisted of 115 consecutive patients, 57 underwent CT pulmonary angiography on a dual source 128 slice scanner (Siemens Somatom Definition FLASH) via an ultra high pitch mode (Pitch 2.8) while 58 were scanned on a dual source 64 slice scanner (Siemens Somatom Definition Dual Source) with standard pitch (Pitch 0.9). Qualitative image assessment was determined by two blinded radiologists with 3 and 15 years' experience in chest and cardiac CT. Quantitative image assessment was determined by the signal to noise ratio (SNR) and contrast to noise ratio (CNR). Effective radiation dose was calculated via the product of the dose length product. RESULTS: For the ultra high pitch protocol, 14% (8/57) were positive for pulmonary embolus compared to 13.7% (8/58) for the standard pitch group. 98.2% of the ultra high pitch scans were diagnostic for pulmonary embolus vs. 94.8% of the standard protocol. Visualization of cardiac structures was significantly improved with the ultra high pitch protocol (p<0.0001). Significantly more lung parenchymal motion was observed on the standard protocol (p<0.0001). The mean pulmonary vessel attenuation, SNR, and CNR were not significantly different. The mean effective dose was lower for the ultra high pitch studies (4.09mSv±0.78 vs. 7.72mSv±2.60, p<0.0001). CONCLUSION: Ultra high pitch CT imaging for pulmonary embolus is a technique which has potential to assess motion free evaluation of most cardiac structures and proximal coronary arteries at lower radiation doses.
-
----
-
-## 41. Low-dose, prospective triggered high-pitch spiral coronary computed tomography angiography: comparison with retrospective spiral technique.
-Authors: Srichai MB, Lim RP, Donnino R, Mannelli L, Hiralal R, Avery R, Ho C, Babb JS et al.
-Journal: Academic radiology (2012)
-Identifiers: PMID 22366557; DOI 10.1016/j.acra.2012.01.009
-URL: https://pubmed.ncbi.nlm.nih.gov/22366557/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: RATIONALE AND OBJECTIVES: Cardiac computed tomographic angiography algorithms emphasize radiation reduction while maintaining diagnostic image quality (IQ). The aim of this study was to evaluate IQ and interreader variability using prospective electrocardiographically triggered high-pitch spiral cardiac computed tomographic angiography (FLASH-CT) compared to retrospective electrocardiographic gating (RETRO-CT) for coronary artery disease evaluation in a patient population including overweight and obese individuals. MATERIALS AND METHODS: Seventy patients (24 women; mean age, 60 years) matched for gender, age, body mass index (27.4 ± 5.5 kg/m(2)), and calcium score (184 ± 328) underwent cardiac computed tomographic angiography, 35 with FLASH-CT (Definition Flash) and 35 with RETRO-CT (Somatom Definition). Images were reconstructed using standard protocols and least motion phase for RETRO-CT acquisitions. Two independent, blinded readers evaluated the coronary arteries using an 18-segment model, grading IQ on a 5-point, Likert-type scale and coronary stenosis on a 5-point semiquantitative and binary scale. RESULTS: Effective radiation dose (1.50 vs 17.3 mSv, P < .0001) and mean heart rate (58 vs 62 beats/min, P < .05) were significantly lower for FLASH-CT compared to RETRO-CT. Seven hundred forty segments (> 1.5 mm) were evaluated. There was no significant difference between FLASH-CT and RETRO-CT scans in overall per-segment IQ (3.11 ± 0.75 vs 3.10 ± 0.82, P = .94). FLASH-CT had noninferior IQ relative to RETRO-CT (95% confidence interval, -0.25 to 0.26). There was no significant difference in interreader variability in diagnosis between FLASH-CT and RETRO-CT for all coronary segments (77.5% vs 78.2%, P = .83). CONCLUSIONS: FLASH-CT is an acceptable coronary computed tomographic angiographic method for reducing radiation dose without compromising IQ for a patient population including overweight and obese individuals.
-
----
-
-## 42. Double-flash, large-fraction radiation therapy as palliative treatment of malignant superior vena cava syndrome in the elderly.
+## 39. Double-flash, large-fraction radiation therapy as palliative treatment of malignant superior vena cava syndrome in the elderly.
 Authors: Lonardi F, Gioga G, Agus G, Coeli M, Campostrini F
 Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer (2002)
 Identifiers: PMID 11862505; DOI 10.1007/s00520-001-0313-4
@@ -467,7 +434,7 @@ Abstract: Rapid control of symptoms is mandatory in cancer-induced superior vena
 
 ---
 
-## 43. Intra-arterial infusion of bromodeoxyuridine and radiotherapy in osteosarcoma and other bone malignancies.
+## 40. Intra-arterial infusion of bromodeoxyuridine and radiotherapy in osteosarcoma and other bone malignancies.
 Authors: Lejeune FJ, Regnier R, Nogaret JM, Jabri M
 Journal: Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer (1983)
 Identifiers: PMID 6580684; DOI 10.1007/978-3-642-82025-0_34

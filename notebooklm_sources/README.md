@@ -18,19 +18,18 @@ The refresh writes a dated file into **`monthly_additions/`** containing *only* 
 
 | Source file | Papers | ~Words |
 |---|---|---|
-| FLASH_Radiobiology.md | 443 | 124,771 |
-| FLASH_Physics___Dosimetry.md | 261 | 93,771 |
-| FLASH_Modeling___Mechanisms.md | 172 | 54,853 |
+| FLASH_Radiobiology.md | 442 | 124,198 |
+| FLASH_Physics___Dosimetry.md | 259 | 93,123 |
+| FLASH_Modeling___Mechanisms.md | 171 | 54,587 |
 | FLASH_Beam_Delivery___Technology.md | 122 | 37,917 |
-| FLASH_Treatment_Planning___Optimization.md | 55 | 21,220 |
-| FLASH_Clinical___Translational.md | 43 | 13,284 |
-| FLASH_Reviews___Consensus.md | 203 | 51,413 |
+| FLASH_Treatment_Planning___Optimization.md | 54 | 20,786 |
+| FLASH_Clinical___Translational.md | 40 | 12,280 |
+| FLASH_Reviews___Consensus.md | 204 | 51,505 |
 | FLASH_Perspectives___Commentary.md | 18 | 937 |
 | FLASH_Point_Counterpoint.md | 4 | 238 |
 | FLASH_Opinions___Debate.md | 1 | 76 |
-| FLASH_Uncategorized.md | 1 | 372 |
 
-All sources are well within NotebookLM's per-source limit (~500,000 words). NotebookLM's free tier allows 50 sources per notebook; this pack uses 12.
+All sources are well within NotebookLM's per-source limit (~500,000 words). NotebookLM's free tier allows 50 sources per notebook; this pack uses 11.
 
 ## Monthly addition files
 

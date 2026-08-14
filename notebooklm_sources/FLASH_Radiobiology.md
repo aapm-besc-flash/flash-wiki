@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Radiobiology
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 443 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 442 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -4196,18 +4196,7 @@ Abstract: Highly resistant endospores may cause severe problems in medicine as w
 
 ---
 
-## 382. Sinogram Affirmed Iterative Reconstruction (SAFIRE) versus weighted filtered back projection (WFBP) effects on quantitative measure in the COPDGene 2 test object.
-Authors: Sieren JP, Hoffman EA, Fuld MK, Chan KS, Guo J, Newell JD
-Journal: Medical physics (2014)
-Identifiers: PMID 25186397; DOI 10.1118/1.4893498; PMC PMC4149690 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/25186397/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: PURPOSE: Assessing pulmonary emphysema using Quantitative CT of the lung depends on accurate measures of CT density. Sinogram-Affirmed-Iterative-Reconstruction (SAFIRE) is a new approach for reconstructing CT data acquired at significantly lower doses. However, quantitative effects of this method remain unexplored. The authors investigated the effects on the median values of materials in the COPDGene2 test-object as a function of the reconstruction method [weighted filtered back projection (WFBP) versus SAFIRE], test-object size, dose, and material composition using a Siemens SOMATOM Definition FLASH CT scanner. METHODS: The COPDGene2 test-object contains eight materials; acrylic, water, four foams (20 lb, 12 lb, lung-equivalent, and 4 lb emphysema-equivalent), internal and external-air. The test-object was scanned with three different outer ring sizes, simulating three different body habitus. There is an average size (36 cm) Ring A, large size (40 cm) Ring B, and small size Ring C (30 cm). The CT protocol used 120 kVp, 0.5 s rotation, 1.0 pitch, and a 0.6 slice collimation with progressively decreasing x-ray exposure values, 11.94-0.74 mGy. With a thorax length of 30 cm, the corresponding effective doses would be 5.01-0.31 mSv. The effects of using SAFIRE versus WFBP were assessed using a two tailed t-test for each ring size, material, and dose. Multivariable linear regression was used to evaluate the relative effects of ring size, material composition, dose, and reconstruction method on the measured median value in HU. RESULTS: SAFIRE versus WFBP, at the largest ring size and two lowest doses there was a significant difference in median values of 4 lb-foam, p<0.01. Using the smallest ring size at the lowest dose level there was a significant difference in the median value of 4 lb-foam, but the effect size was small, 1 HU. There is a significant difference in median values of both internal and external air using both the small and medium size rings at the three lowest dose levels, p<0.05. There are significant differences noted at both high and low dose levels when using the large ring size in the median values of internal and external air when, p<0.05. These effects on 4 lb-foam, inside and outside air are shown to be in part due to truncation effects on the median value since the lowest HU value in the CT scale used is -1024 HU. Multivariable linear regression results demonstrated significant effects on the measured material median value and standard deviation due to ring size, material composition, dose level, and reconstruction method, p<0.05. CONCLUSIONS: The authors have shown that there is no significant effect on the median values obtained when using WFBP versus SAFIRE in materials with CT density between 120 and -856 HU using three different test-object sizes and CT doses that vary from 11.94 to 0.74 mGy. The authors have demonstrated there are significant effects on median values obtained when using WFBP versus SAFIRE in materials with CT density values between -937 and -1000 HU depending on the ring size and dose used. As expected, there is considerable reduction in image noise (lower standard deviation) using SAFIRE versus WFBP with all ring sizes, doses, and materials in the COPDGene2 test-object.
-
----
-
-## 383. Ultrahigh dose-rate FLASH irradiation increases the differential response between normal and tumor tissue in mice.
+## 382. Ultrahigh dose-rate FLASH irradiation increases the differential response between normal and tumor tissue in mice.
 Authors: Favaudon V, Caplier L, Monceau V, Pouzoulet F, Sayarath M, Fouillade C, Poupon MF, Brito I et al.
 Journal: Science translational medicine (2014)
 Identifiers: PMID 25031268; DOI 10.1126/scitranslmed.3008973
@@ -4218,7 +4207,7 @@ Abstract: In vitro studies suggested that sub-millisecond pulses of radiation el
 
 ---
 
-## 384. Ultrafast 3D spin-echo acquisition improves Gadolinium-enhanced MRI signal contrast enhancement.
+## 383. Ultrafast 3D spin-echo acquisition improves Gadolinium-enhanced MRI signal contrast enhancement.
 Authors: Han SH, Cho FH, Song YK, Paulsen J, Song YQ, Kim YR, Kim JK, Cho G et al.
 Journal: Scientific reports (2014)
 Identifiers: PMID 24863102; DOI 10.1038/srep05061; PMC PMC4034007 (open access)
@@ -4229,7 +4218,7 @@ Abstract: Long scan times of 3D volumetric MR acquisitions usually necessitate u
 
 ---
 
-## 385. The effects of ultra-high dose rate proton irradiation on growth delay in the treatment of human tumor xenografts in nude mice.
+## 384. The effects of ultra-high dose rate proton irradiation on growth delay in the treatment of human tumor xenografts in nude mice.
 Authors: Zlobinskaya O, Siebenwirth C, Greubel C, Hable V, Hertenberger R, Humble N, Reinhardt S, Michalski D et al.
 Journal: Radiation research (2014)
 Identifiers: PMID 24524347; DOI 10.1667/RR13464.1
@@ -4240,7 +4229,7 @@ Abstract: The new technology of laser-driven ion acceleration (LDA) has shown th
 
 ---
 
-## 386. Experimental investigation of a local recirculation photobioreactor for mass cultures of photosynthetic microorganisms.
+## 385. Experimental investigation of a local recirculation photobioreactor for mass cultures of photosynthetic microorganisms.
 Authors: Moroni M, Cicci A, Bravi M
 Journal: Water research (2014)
 Identifiers: PMID 24447955; DOI 10.1016/j.watres.2013.12.033
@@ -4251,7 +4240,7 @@ Abstract: The present work deals with the experimental fluid mechanics analysis 
 
 ---
 
-## 387. Liquid crystal display screens as stimulators for visually evoked potentials: flash effect due to delay in luminance changes.
+## 386. Liquid crystal display screens as stimulators for visually evoked potentials: flash effect due to delay in luminance changes.
 Authors: Matsumoto CS, Shinoda K, Matsumoto H, Funada H, Minoda H, Mizota A
 Journal: Documenta ophthalmologica. Advances in ophthalmology (2013)
 Identifiers: PMID 23690204; DOI 10.1007/s10633-013-9387-9
@@ -4262,7 +4251,7 @@ Abstract: PURPOSE: The cathode-ray tube (CRT) screen has recently been replaced 
 
 ---
 
-## 388. Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.
+## 387. Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.
 Authors: Meesat R, Belmouaddine H, Allard JF, Tanguay-Renaud C, Lemay R, Brastaviceanu T, Tremblay L, Paquette B et al.
 Journal: Proceedings of the National Academy of Sciences of the United States of America (2012)
 Identifiers: PMID 22927378; DOI 10.1073/pnas.1116286109; PMC PMC3458390 (open access)
@@ -4273,7 +4262,7 @@ Abstract: Since the invention of cancer radiotherapy, its primary goal has been 
 
 ---
 
-## 389. Survival of tumor cells after proton irradiation with ultra-high dose rates.
+## 388. Survival of tumor cells after proton irradiation with ultra-high dose rates.
 Authors: Auer S, Hable V, Greubel C, Drexler GA, Schmid TE, Belka C, Dollinger G, Friedl AA
 Journal: Radiation oncology (London, England) (2011)
 Identifiers: PMID 22008289; DOI 10.1186/1748-717X-6-139; PMC PMC3215966 (open access)
@@ -4284,7 +4273,7 @@ Abstract: BACKGROUND: Laser acceleration of protons and heavy ions may in the fu
 
 ---
 
-## 390. Apparent absence of a proton beam dose rate effect and possible differences in RBE between Bragg peak and plateau.
+## 389. Apparent absence of a proton beam dose rate effect and possible differences in RBE between Bragg peak and plateau.
 Authors: Matsuura T, Egashira Y, Nishio T, Matsumoto Y, Wada M, Koike S, Furusawa Y, Kohno R et al.
 Journal: Medical physics (2010)
 Identifiers: PMID 21089773; DOI 10.1118/1.3490086
@@ -4295,7 +4284,7 @@ Abstract: PURPOSE: Respiration-gated irradiation for a moving target requires a 
 
 ---
 
-## 391. FLASH degradation in response to UV-C results in histone locus bodies disruption and cell-cycle arrest.
+## 390. FLASH degradation in response to UV-C results in histone locus bodies disruption and cell-cycle arrest.
 Authors: Bongiorno-Borbone L, De Cola A, Barcaroli D, Knight RA, Di Ilio C, Melino G, De Laurenzi V
 Journal: Oncogene (2010)
 Identifiers: PMID 19915611; DOI 10.1038/onc.2009.388
@@ -4306,7 +4295,7 @@ Abstract: Eucaryotic cell nuclei contain a number of different organelles that a
 
 ---
 
-## 392. Flash reduction and patterning of graphite oxide and its polymer composite.
+## 391. Flash reduction and patterning of graphite oxide and its polymer composite.
 Authors: Cote LJ, Cruz-Silva R, Huang J
 Journal: Journal of the American Chemical Society (2009)
 Identifiers: PMID 19601624; DOI 10.1021/ja902348k
@@ -4317,7 +4306,7 @@ Abstract: Graphite oxide (GO) is a promising precursor for the bulk production o
 
 ---
 
-## 393. What does the illusory-flash look like?
+## 392. What does the illusory-flash look like?
 Authors: McCormick D, Mamassian P
 Journal: Vision research (2008)
 Identifiers: PMID 18054372; DOI 10.1016/j.visres.2007.10.010
@@ -4328,7 +4317,7 @@ Abstract: In the illusory-flash effect (Shams, L., Kamitani, Y., & Shimojo, S. (
 
 ---
 
-## 394. [Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor].
+## 393. [Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor].
 Authors: Sevan'kaev AV, Potetnia OI, Potetnia VI, Koriakina EV, Pozdyshkina OV, Piatenko VS
 Journal: Radiatsionnaia biologiia, radioecologiia (2007)
 Identifiers: PMID 18380325
@@ -4339,7 +4328,7 @@ Abstract: Summarized results of 5 repeated experiments of comparative study of r
 
 ---
 
-## 395. Speech and non-speech audio-visual illusions: a developmental study.
+## 394. Speech and non-speech audio-visual illusions: a developmental study.
 Authors: Tremblay C, Champoux F, Voss P, Bacon BA, Lepore F, Théoret H
 Journal: PloS one (2007)
 Identifiers: PMID 17710142; DOI 10.1371/journal.pone.0000742; PMC PMC1937019 (open access)
@@ -4350,7 +4339,7 @@ Abstract: It is well known that simultaneous presentation of incongruent audio a
 
 ---
 
-## 396. Early cross-modal interactions in auditory and visual cortex underlie a sound-induced visual illusion.
+## 395. Early cross-modal interactions in auditory and visual cortex underlie a sound-induced visual illusion.
 Authors: Mishra J, Martinez A, Sejnowski TJ, Hillyard SA
 Journal: The Journal of neuroscience : the official journal of the Society for Neuroscience (2007)
 Identifiers: PMID 17428990; DOI 10.1523/JNEUROSCI.4912-06.2007; PMC PMC2905511 (open access)
@@ -4361,7 +4350,7 @@ Abstract: When a single flash of light is presented interposed between two brief
 
 ---
 
-## 397. [Cytogenetic effect of the pulse reactor BARS-6 continuous or one-time irradiation with ultrahigh dose rate on human lymphocytes].
+## 396. [Cytogenetic effect of the pulse reactor BARS-6 continuous or one-time irradiation with ultrahigh dose rate on human lymphocytes].
 Authors: Koriakina EV, Sevan'kaev AV, Potetnia VI, Potetnia OI
 Journal: Radiatsionnaia biologiia, radioecologiia (2005)
 Identifiers: PMID 16209185
@@ -4372,7 +4361,7 @@ Abstract: The results of the comparative study of radiation effects of the pulse
 
 ---
 
-## 398. Effects of single-pulse (< or = 1 ps) X-rays from laser-produced plasmas on mammalian cells.
+## 397. Effects of single-pulse (< or = 1 ps) X-rays from laser-produced plasmas on mammalian cells.
 Authors: Shinohara K, Nakano H, Miyazaki N, Tago M, Kodama R
 Journal: Journal of radiation research (2004)
 Identifiers: PMID 15635259; DOI 10.1269/jrr.45.509
@@ -4383,7 +4372,7 @@ Abstract: The effects of low linear energy transfer (LET) radiation on mammalian
 
 ---
 
-## 399. On various possibilities in pulsed radiation biochemistry and chemistry.
+## 398. On various possibilities in pulsed radiation biochemistry and chemistry.
 Authors: Gribkov VA, Orlova MA
 Journal: Radiation and environmental biophysics (2004)
 Identifiers: PMID 15549348; DOI 10.1007/s00411-004-0259-2
@@ -4394,7 +4383,7 @@ Abstract: Several experiments are described that relate to the application of ne
 
 ---
 
-## 400. Quantitative tissue perfusion measurements in head and neck carcinoma patients before and during radiation therapy with a non-invasive MR imaging spin-labeling technique.
+## 399. Quantitative tissue perfusion measurements in head and neck carcinoma patients before and during radiation therapy with a non-invasive MR imaging spin-labeling technique.
 Authors: Schmitt P, Kotas M, Tobermann A, Haase A, Flentje M
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2003)
 Identifiers: PMID 12758237; DOI 10.1016/s0167-8140(03)00024-0
@@ -4405,7 +4394,7 @@ Abstract: PURPOSE: Tumor blood flow, tumor tissue perfusion and oxygen supply ha
 
 ---
 
-## 401. [Drugs and drug abusers].
+## 400. [Drugs and drug abusers].
 Authors: Schlatter J, Sitbon N, Saulnier JL
 Journal: Presse medicale (Paris, France : 1983) (2001)
 Identifiers: PMID 11252979
@@ -4416,7 +4405,7 @@ Abstract: DRUG ABUSERS: Drugs are widely used by toxicomaniacs to reproduce drug
 
 ---
 
-## 402. [Comparative study of chromosome aberration formation in lymphocytes culture under pulsed and continuous neutron irradiation].
+## 401. [Comparative study of chromosome aberration formation in lymphocytes culture under pulsed and continuous neutron irradiation].
 Authors: Pozdyshkina OV, Sevan'kaev AV, Obaturov GM
 Journal: Radiatsionnaia biologiia, radioecologiia (2000)
 Identifiers: PMID 11155330
@@ -4427,7 +4416,7 @@ Abstract: Frequencies of chromosome aberration induced by prolong (continuous) n
 
 ---
 
-## 403. Hyperfast, early cell response to ionizing radiation.
+## 402. Hyperfast, early cell response to ionizing radiation.
 Authors: Ponette V, Le Péchoux C, Deniaud-Alexandre E, Fernet M, Giocanti N, Tourbez H, Favaudon V
 Journal: International journal of radiation biology (2000)
 Identifiers: PMID 10993634; DOI 10.1080/09553000050134465
@@ -4438,7 +4427,7 @@ Abstract: PURPOSE: To determine whether the oscillatory changes of radio-sensiti
 
 ---
 
-## 404. Magnetization transfer contrast of hepatic lesions in breath-hold gradient-echo images of different T1 weighting.
+## 403. Magnetization transfer contrast of hepatic lesions in breath-hold gradient-echo images of different T1 weighting.
 Authors: Schick F, Stern W, Forster J, Laniado M, Lutz O, Claussen CD
 Journal: Journal of magnetic resonance imaging : JMRI (1997)
 Identifiers: PMID 9090578; DOI 10.1002/jmri.1880070204
@@ -4449,7 +4438,7 @@ Abstract: Seventeen patients with hepatic lesions [six metastases from colon, br
 
 ---
 
-## 405. [Contrast medium assisted dynamic MR-mammography after diagnostic and therapeutic interventions on the breast].
+## 404. [Contrast medium assisted dynamic MR-mammography after diagnostic and therapeutic interventions on the breast].
 Authors: Fischer U, Vosshenrich R, Kopka L, Kahlen O, Grabbe E
 Journal: Bildgebung = Imaging (1996)
 Identifiers: PMID 8756151
@@ -4460,7 +4449,7 @@ Abstract: In a retrospective study, the authors evaluated the signal behavior of
 
 ---
 
-## 406. Digital subtraction in Gd-DTPA enhanced imaging of the breast.
+## 405. Digital subtraction in Gd-DTPA enhanced imaging of the breast.
 Authors: Flanagan FL, Murray JG, Gilligan P, Stack JP, Ennis JT
 Journal: Clinical radiology (1995)
 Identifiers: PMID 8536396; DOI 10.1016/s0009-9260(05)83106-x
@@ -4471,7 +4460,7 @@ Abstract: PURPOSE: This study examines the role of digital subtraction magnetic 
 
 ---
 
-## 407. The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
+## 406. The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
 Authors: Cygler J, Klassen NV, Ross CK, Bichay TJ, Raaphorst GP
 Journal: Radiation research (1994)
 Identifiers: PMID 7938458
@@ -4482,7 +4471,7 @@ Abstract: This in vitro study was undertaken to determine if ultrahigh dose rate
 
 ---
 
-## 408. The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
+## 407. The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
 Authors: Lachapelle P, Benoit J, Blain L, Guité P, Roy MS
 Journal: Vision research (1990)
 Identifiers: PMID 2339504; DOI 10.1016/0042-6989(90)90062-p
@@ -4493,7 +4482,7 @@ Abstract: Previous studies reported that the oscillatory potentials (OPs) evoked
 
 ---
 
-## 409. Two pulses seen as three flashes: a superposition analysis.
+## 408. Two pulses seen as three flashes: a superposition analysis.
 Authors: Bowen RW
 Journal: Vision research (1989)
 Identifiers: PMID 2781731; DOI 10.1016/0042-6989(89)90005-9
@@ -4504,7 +4493,7 @@ Abstract: If a single brief light pulse follows the offset of a light field by 0
 
 ---
 
-## 410. Laser-induced chromatic adaptation.
+## 409. Laser-induced chromatic adaptation.
 Authors: Schmeisser ET
 Journal: American journal of optometry and physiological optics (1988)
 Identifiers: PMID 3177590; DOI 10.1097/00006324-198808000-00009
@@ -4515,7 +4504,7 @@ Abstract: Detecting a target in a visually noisy back-ground depends on the abil
 
 ---
 
-## 411. Cone interaction occurs in the parafovea under pi 4 stimulus conditions.
+## 410. Cone interaction occurs in the parafovea under pi 4 stimulus conditions.
 Authors: Haegerstrom-Portnoy G, Verdon W, Adams AJ
 Journal: Vision research (1988)
 Identifiers: PMID 3188403; DOI 10.1016/0042-6989(88)90182-4
@@ -4526,7 +4515,7 @@ Abstract: This study shows that stimulus parameters that isolate Stiles' pi 4 me
 
 ---
 
-## 412. Rod and cone system contributions to oscillatory potentials: an explanation for the conditioning flash effect.
+## 411. Rod and cone system contributions to oscillatory potentials: an explanation for the conditioning flash effect.
 Authors: Peachey NS, Alexander KR, Fishman GA
 Journal: Vision research (1987)
 Identifiers: PMID 3499028; DOI 10.1016/0042-6989(87)90002-2
@@ -4537,7 +4526,7 @@ Abstract: The oscillatory potentials (OPs) of the human electroretinogram (ERG) 
 
 ---
 
-## 413. Lightning injury caused by discharges accompanying flashovers--a clinical and experimental study of death and survival.
+## 412. Lightning injury caused by discharges accompanying flashovers--a clinical and experimental study of death and survival.
 Authors: Ohashi M, Kitagawa N, Ishikawa T
 Journal: Burns, including thermal injury (1986)
 Identifiers: PMID 3779473; DOI 10.1016/0305-4179(86)90076-8
@@ -4548,7 +4537,7 @@ Abstract: During the 17 years preceding March 1985, 140 patients sustained light
 
 ---
 
-## 414. Visual evoked potential correlates of laser flashblindness in rhesus monkeys I. Argon laser flashes.
+## 413. Visual evoked potential correlates of laser flashblindness in rhesus monkeys I. Argon laser flashes.
 Authors: Previc FH, Blankenstein MF, Garcia PV, Allen RG
 Journal: American journal of optometry and physiological optics (1985)
 Identifiers: PMID 4003522; DOI 10.1097/00006324-198505000-00003
@@ -4559,7 +4548,7 @@ Abstract: The visual evoked potential (VEP) in four rhesus monkeys was used to a
 
 ---
 
-## 415. [Hypoxic proton radiotherapy of solid Ehrlich tumors with different dose magnitudes].
+## 414. [Hypoxic proton radiotherapy of solid Ehrlich tumors with different dose magnitudes].
 Authors: Kozin SV, Zolotov VA, Ponomareva NA
 Journal: Meditsinskaia radiologiia (1984)
 Identifiers: PMID 6087078
@@ -4570,7 +4559,7 @@ Abstract: The paper is devoted to an experimental evaluation of the efficiency o
 
 ---
 
-## 416. Effects of modifiers of the yield of hydroxyl radicals on the radiosensitivity of mammalian cells at ultrahigh dose rates.
+## 415. Effects of modifiers of the yield of hydroxyl radicals on the radiosensitivity of mammalian cells at ultrahigh dose rates.
 Authors: Michaels HB, Peterson EC, Epp ER
 Journal: Radiation research (1983)
 Identifiers: PMID 6684311
@@ -4581,7 +4570,7 @@ Abstract: Experiments were conducted to investigate the effects of increasing or
 
 ---
 
-## 417. [Bladder tumors treated with radical cystectomy. Results of 78 cases].
+## 416. [Bladder tumors treated with radical cystectomy. Results of 78 cases].
 Authors: Perrin P, Charroin P, Durand L
 Journal: Journal d'urologie (1983)
 Identifiers: PMID 6886460
@@ -4592,7 +4581,7 @@ Abstract: UNLABELLED: The authors present the results of 78 radical cystectomies
 
 ---
 
-## 418. [Role of radiotherapy in the treatment of bladder cancer. Comments apropos of 178 cases].
+## 417. [Role of radiotherapy in the treatment of bladder cancer. Comments apropos of 178 cases].
 Authors: Beurton D, Moller M, Cukier J
 Journal: Journal d'urologie (1983)
 Identifiers: PMID 6841985
@@ -4603,7 +4592,7 @@ Abstract: In the light of their experience involving 178 patients suffering from
 
 ---
 
-## 419. The decrease in the threshold on the dark side of the luminance edge in the after-flash effect.
+## 418. The decrease in the threshold on the dark side of the luminance edge in the after-flash effect.
 Authors: Mitsuboshi T, Mitsuboshi M, Torii S
 Journal: Vision research (1982)
 Identifiers: PMID 7179753; DOI 10.1016/0042-6989(82)90145-6
@@ -4614,7 +4603,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 420. Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.
+## 419. Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.
 Authors: Michaels HB, Ling CC, Epp ER, Peterson EC
 Journal: Radiation research (1981)
 Identifiers: PMID 7208811
@@ -4625,7 +4614,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 421. Visual masking and the contrast-flash effect.
+## 420. Visual masking and the contrast-flash effect.
 Authors: Alexander KR, Barry SH
 Journal: Vision research (1981)
 Identifiers: PMID 7269308; DOI 10.1016/0042-6989(81)90157-7
@@ -4636,7 +4625,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 422. [Parenteral hyperalimentation and cystoprostatectomy for carcinoma of the bladder (author's transl)].
+## 421. [Parenteral hyperalimentation and cystoprostatectomy for carcinoma of the bladder (author's transl)].
 Authors: Pontonnier F, Plante P, Heulin T
 Journal: Journal d'urologie (1981)
 Identifiers: PMID 6796625
@@ -4647,7 +4636,7 @@ Abstract: The authors report a series of 16 total cystoprostatectomies with only
 
 ---
 
-## 423. [Therapeutic trials in inoperable carcinoma of the bladder (author's transl)].
+## 422. [Therapeutic trials in inoperable carcinoma of the bladder (author's transl)].
 Authors: Droz JP, Ben Ayed F, Pascal B, Beurton D, Cukier J, Amiel JL
 Journal: Journal d'urologie (1980)
 Identifiers: PMID 6160185
@@ -4658,7 +4647,7 @@ Abstract: The authors report the preliminary results of attempts at treatment us
 
 ---
 
-## 424. Repair of sublethal damage in mammalian cells irradiated at ultrahigh dose rates.
+## 423. Repair of sublethal damage in mammalian cells irradiated at ultrahigh dose rates.
 Authors: Gerweck LE, Epp ER, Michaels HB, Clifton Ling C, Peterson EC
 Journal: Radiation research (1979)
 Identifiers: PMID 424512
@@ -4669,7 +4658,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 425. Oxygen diffusion into mammalian cells following ultrahigh dose rate irradiation and lifetime estimates of oxygen-sensitive species.
+## 424. Oxygen diffusion into mammalian cells following ultrahigh dose rate irradiation and lifetime estimates of oxygen-sensitive species.
 Authors: Ling CC, Michaels HB, Epp ER, Peterson EC
 Journal: Radiation research (1978)
 Identifiers: PMID 734054
@@ -4680,7 +4669,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 426. Oxygen sensitization of CHO cells at ultrahigh dose rates: prelude to oxygen diffusion studies.
+## 425. Oxygen sensitization of CHO cells at ultrahigh dose rates: prelude to oxygen diffusion studies.
 Authors: Michaels HB, Epp ER, Ling CC, Peterson EC
 Journal: Radiation research (1978)
 Identifiers: PMID 569880
@@ -4691,7 +4680,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 427. The effects of ultra-high dose rates on survival and sublethal repair in Chinese-hamster cells.
+## 426. The effects of ultra-high dose rates on survival and sublethal repair in Chinese-hamster cells.
 Authors: Schulz RJ, Nath R, Testa JR
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1978)
 Identifiers: PMID 304852; DOI 10.1080/09553007714551521
@@ -4702,7 +4691,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 428. Chromosome aberration yields induced in human lymphocytes by 15 MeV electrons given at a conventional dose-rate and in microsecond pulses.
+## 427. Chromosome aberration yields induced in human lymphocytes by 15 MeV electrons given at a conventional dose-rate and in microsecond pulses.
 Authors: Purrott RJ, Reeder EJ
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1977)
 Identifiers: PMID 300727; DOI 10.1080/09553007714550291
@@ -4713,7 +4702,7 @@ Abstract: Yields of unstable chromosome aberration were analysed in human lympho
 
 ---
 
-## 429. Color properties of the contrast flash effect: monoptic vs dichoptic comparisons.
+## 428. Color properties of the contrast flash effect: monoptic vs dichoptic comparisons.
 Authors: Yellott JI, Wandell BA
 Journal: Vision research (1976)
 Identifiers: PMID 1006999; DOI 10.1016/0042-6989(76)90053-5
@@ -4724,7 +4713,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 430. Rod-cone interaction in the after-flash effect.
+## 429. Rod-cone interaction in the after-flash effect.
 Authors: Foster DH
 Journal: Vision research (1976)
 Identifiers: PMID 941415; DOI 10.1016/0042-6989(76)90202-9
@@ -4735,7 +4724,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 431. Sensitization by annular surrounds: sensitization and the contrast-flash effect.
+## 430. Sensitization by annular surrounds: sensitization and the contrast-flash effect.
 Authors: Alexander KR
 Journal: Vision research (1974)
 Identifiers: PMID 4421568; DOI 10.1016/0042-6989(74)90056-x
@@ -4746,7 +4735,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 432. A study of the biological effectiveness of high-energy electrons at ultra-high dose rates using dry eggs of Artemia.
+## 431. A study of the biological effectiveness of high-energy electrons at ultra-high dose rates using dry eggs of Artemia.
 Authors: Iwasaki T, Kato Y, Antoku S
 Journal: Radiation research (1974)
 Identifiers: PMID 10874936
@@ -4757,7 +4746,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 433. [Techniques of radiotherapy in so-called operable carcinoma of the breast].
+## 432. [Techniques of radiotherapy in so-called operable carcinoma of the breast].
 Authors: Pierquin B
 Journal: Revue francaise de gynecologie et d'obstetrique (1973)
 Identifiers: PMID 17474652
@@ -4768,7 +4757,7 @@ Abstract: The techniques of radiotherapy alone in carcinoma of the breast are de
 
 ---
 
-## 434. An equation for predicting the surviving fraction of cells irradiated with single pulses delivered at ultra-high dose rates.
+## 433. An equation for predicting the surviving fraction of cells irradiated with single pulses delivered at ultra-high dose rates.
 Authors: Weiss H
 Journal: Radiation research (1972)
 Identifiers: PMID 5025236
@@ -4779,7 +4768,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 435. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
+## 434. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
 Authors: Berry RJ, Stedeford JB
 Journal: The British journal of radiology (1972)
 Identifiers: PMID 5015264; DOI 10.1259/0007-1285-45-531-171
@@ -4790,7 +4779,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 436. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
+## 435. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
 Authors: Berry RJ, Stedeford JB
 Journal: The British journal of radiology (1971)
 Identifiers: PMID 5090736
@@ -4801,7 +4790,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 437. Response of photobacterium fischeri MAV exposed to an ultra high dose-rate pulsed electron beam.
+## 436. Response of photobacterium fischeri MAV exposed to an ultra high dose-rate pulsed electron beam.
 Authors: Lerch IA
 Journal: Radiation research (1971)
 Identifiers: PMID 5539709
@@ -4812,7 +4801,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 438. The effect of ultra-high dose-rate beta-ray irradiation in aerobic and hypoxic conditions on the survival of diploid yeast.
+## 437. The effect of ultra-high dose-rate beta-ray irradiation in aerobic and hypoxic conditions on the survival of diploid yeast.
 Authors: Kiefer J, Ebert M
 Journal: Biophysik (1970)
 Identifiers: PMID 5435969; DOI 10.1007/BF01189087
@@ -4823,7 +4812,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 439. Survival of mammalian cells exposed to x rays at ultra-high dose-rates.
+## 438. Survival of mammalian cells exposed to x rays at ultra-high dose-rates.
 Authors: Berry RJ, Hall EJ, Forster DW, Storr TH, Goodman MJ
 Journal: The British journal of radiology (1969)
 Identifiers: PMID 4975207; DOI 10.1259/0007-1285-42-494-102
@@ -4834,7 +4823,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 440. Ultra-high dose-rate effects in radiosensitive bacteria.
+## 439. Ultra-high dose-rate effects in radiosensitive bacteria.
 Authors: Phillips TL, Worsnop BR
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1969)
 Identifiers: PMID 5305081; DOI 10.1080/09553006914551761
@@ -4845,7 +4834,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 441. The repair time of chromosome breaks induced by pulsed x-rays on ultra-high dose-rate.
+## 440. The repair time of chromosome breaks induced by pulsed x-rays on ultra-high dose-rate.
 Authors: Prempree T, Michelsen A, Merz T
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1969)
 Identifiers: PMID 5307280; DOI 10.1080/09553006914550871
@@ -4856,7 +4845,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 442. THE SPECIFICITY OF THE CONE INTERACTION IN THE AFTER-FLASH EFFECT.
+## 441. THE SPECIFICITY OF THE CONE INTERACTION IN THE AFTER-FLASH EFFECT.
 Authors: ALPERN M, RUSHTON WA
 Journal: The Journal of physiology (1965)
 Identifiers: PMID 14288519; DOI 10.1113/jphysiol.1965.sp007562; PMC PMC1357208 (open access)
@@ -4867,7 +4856,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 443. ROD-CONE INDEPENDENCE IN THE AFTER-FLASH EFFECT.
+## 442. ROD-CONE INDEPENDENCE IN THE AFTER-FLASH EFFECT.
 Authors: ALPERN M
 Journal: The Journal of physiology (1965)
 Identifiers: PMID 14288518; DOI 10.1113/jphysiol.1965.sp007561; PMC PMC1357207 (open access)

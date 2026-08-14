@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*443 records. Newest first.*
+*442 records. Newest first.*
 
 ---
 
@@ -7143,25 +7143,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25423452/) · [DOI](https://doi.org/10.1039/c4pp00285g)
-
-
----
-
-### Sinogram Affirmed Iterative Reconstruction (SAFIRE) versus weighted filtered back projection (WFBP) effects on quantitative measure in the COPDGene 2 test object.
-
-*Sieren JP, Hoffman EA, Fuld MK, Chan KS, Guo J, Newell JD* — Medical physics (2014)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Assessing pulmonary emphysema using Quantitative CT of the lung depends on accurate measures of CT density. Sinogram-Affirmed-Iterative-Reconstruction (SAFIRE) is a new approach for reconstructing CT data acquired at significantly lower doses.
-
-
-??? note "Abstract"
-    PURPOSE: Assessing pulmonary emphysema using Quantitative CT of the lung depends on accurate measures of CT density. Sinogram-Affirmed-Iterative-Reconstruction (SAFIRE) is a new approach for reconstructing CT data acquired at significantly lower doses. However, quantitative effects of this method remain unexplored. The authors investigated the effects on the median values of materials in the COPDGene2 test-object as a function of the reconstruction method \[weighted filtered back projection (WFBP) versus SAFIRE\], test-object size, dose, and material composition using a Siemens SOMATOM Definition FLASH CT scanner. METHODS: The COPDGene2 test-object contains eight materials; acrylic, water, four foams (20 lb, 12 lb, lung-equivalent, and 4 lb emphysema-equivalent), internal and external-air. The test-object was scanned with three different outer ring sizes, simulating three different body habitus. There is an average size (36 cm) Ring A, large size (40 cm) Ring B, and small size Ring C (30 cm). The CT protocol used 120 kVp, 0.5 s rotation, 1.0 pitch, and a 0.6 slice collimation with progressively decreasing x-ray exposure values, 11.94-0.74 mGy. With a thorax length of 30 cm, the corresponding effective doses would be 5.01-0.31 mSv. The effects of using SAFIRE versus WFBP were assessed using a two tailed t-test for each ring size, material, and dose. Multivariable linear regression was used to evaluate the relative effects of ring size, material composition, dose, and reconstruction method on the measured median value in HU. RESULTS: SAFIRE versus WFBP, at the largest ring size and two lowest doses there was a significant difference in median values of 4 lb-foam, p&lt;0.01. Using the smallest ring size at the lowest dose level there was a significant difference in the median value of 4 lb-foam, but the effect size was small, 1 HU. There is a significant difference in median values of both internal and external air using both the small and medium size rings at the three lowest dose levels, p&lt;0.05. There are significant differences noted at both high and low dose levels when using the large ring size in the median values of internal and external air when, p&lt;0.05. These effects on 4 lb-foam, inside and outside air are shown to be in part due to truncation effects on the median value since the lowest HU value in the CT scale used is -1024 HU. Multivariable linear regression results demonstrated significant effects on the measured material median value and standard deviation due to ring size, material composition, dose level, and reconstruction method, p&lt;0.05. CONCLUSIONS: The authors have shown that there is no significant effect on the median values obtained when using WFBP versus SAFIRE in materials with CT density between 120 and -856 HU using three different test-object sizes and CT doses that vary from 11.94 to 0.74 mGy. The authors have demonstrated there are significant effects on median values obtained when using WFBP versus SAFIRE in materials with CT density values between -937 and -1000 HU depending on the ring size and dose used. As expected, there is considerable reduction in image noise (lower standard deviation) using SAFIRE versus WFBP with all ring sizes, doses, and materials in the COPDGene2 test-object.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25186397/) · [DOI](https://doi.org/10.1118/1.4893498) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4149690/)
 
 
 ---

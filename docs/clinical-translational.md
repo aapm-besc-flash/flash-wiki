@@ -2,7 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*43 records. Newest first.*
+*40 records. Newest first.*
 
 ---
 
@@ -441,25 +441,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Low-dose ultra-high-pitch computed tomography coronary angiography: identifying the optimum combination of iteration strength and radiation dose reduction strategies to achieve true submillisievert scans.
-
-*Kumari N, Ganga KP, Ojha V, Kumar S, Jagia P, Naik N et al.* — Diagnostic and interventional radiology (Ankara, Turkey) (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To identify the optimum strength of advanced modeled iterative reconstruction (ADMIRE) to achieve the best subjective and objective image quality when combining three-dose reduction strategies, ultra-high-pitch computed tomography coronary angiography (FLASH CTCA; with single-dose ivabradine to lower heart rate), low tube voltage, and ADMIRE. METHODS: Sixty consecutive patients underwent FLASH CTC…
-
-
-??? note "Abstract"
-    PURPOSE: To identify the optimum strength of advanced modeled iterative reconstruction (ADMIRE) to achieve the best subjective and objective image quality when combining three-dose reduction strategies, ultra-high-pitch computed tomography coronary angiography (FLASH CTCA; with single-dose ivabradine to lower heart rate), low tube voltage, and ADMIRE. METHODS: Sixty consecutive patients underwent FLASH CTCA at 100 kVp in this single-center prospective study. Single-dose ivabradine was administered to patients whose heart rate was above 75 bpm. Images were reconstructed using the three highest strengths of ADMIRE (A3, A4, and A5). Objective and subjective image quality (using a Likert scale) were evaluated in the three datasets. RESULTS: The signal strength remained unchanged but mean noise significantly reduced across the increasing strengths of ADMIRE \[signal: 513.78 ± 101.7 Hounsfield units (HU) at A3, 515.6 ± 100.5 HU at A4, and 519.7 ± 107.9 HU at A5; noise: 23.4 ± 4.5 HU at A3, 20.2 ± 3.6 HU at A4, and 17.2 ± 3.3 HU at A5\]. Signal-to-noise and contrast-to-noise ratios were the highest at A5, and A5 offered significantly higher Likert scores in image noise, vessel sharpness, and overall image quality than A3 or A4. Additionally, A5 did not interfere with image interpretation in any patient. CONCLUSION: Using all three dose reduction strategies during FLASH CTCA along with single-dose ivabradine administration ensures minimal radiation exposure in daily practice. In this study, A5 datasets had the best overall subjective and objective image quality despite their &quot;plastic appearance&quot;. In the future, enhanced dose reduction can be obtained by further lowering tube voltages.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36987879/) · [DOI](https://doi.org/10.4274/dir.2021.0849) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10679714/)
-
-
----
-
 ### Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
 
 *Mascia AE, Daugherty EC, Zhang Y, Lee E, Xiao Z, Sertorio M et al.* — JAMA oncology (2023)  
@@ -715,44 +696,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24951204/) · [DOI](https://doi.org/10.2214/AJR.13.11842)
-
-
----
-
-### Clinical utility of ultra high pitch dual source thoracic CT imaging of acute pulmonary embolism in the emergency department: are we one step closer towards a non-gated triple rule out?
-
-*Hou DJ, Tso DK, Davison C, Inacio J, Louis LJ, Nicolaou S et al.* — European journal of radiology (2013)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Aim of this study was to retrospectively compare the image quality and the radiation dose of an ultra high pitch CT scan for the evaluation of pulmonary embolism and visualization of cardiac structures in comparison to our institution&#x27;s standard pulmonary embolism protocol. METHOD AND MATERIALS: The study cohort consisted of 115 consecutive patients, 57 underwent CT pulmonary angiography on a dual…
-
-
-??? note "Abstract"
-    OBJECTIVES/PURPOSE: Aim of this study was to retrospectively compare the image quality and the radiation dose of an ultra high pitch CT scan for the evaluation of pulmonary embolism and visualization of cardiac structures in comparison to our institution&#x27;s standard pulmonary embolism protocol. METHOD AND MATERIALS: The study cohort consisted of 115 consecutive patients, 57 underwent CT pulmonary angiography on a dual source 128 slice scanner (Siemens Somatom Definition FLASH) via an ultra high pitch mode (Pitch 2.8) while 58 were scanned on a dual source 64 slice scanner (Siemens Somatom Definition Dual Source) with standard pitch (Pitch 0.9). Qualitative image assessment was determined by two blinded radiologists with 3 and 15 years&#x27; experience in chest and cardiac CT. Quantitative image assessment was determined by the signal to noise ratio (SNR) and contrast to noise ratio (CNR). Effective radiation dose was calculated via the product of the dose length product. RESULTS: For the ultra high pitch protocol, 14% (8/57) were positive for pulmonary embolus compared to 13.7% (8/58) for the standard pitch group. 98.2% of the ultra high pitch scans were diagnostic for pulmonary embolus vs. 94.8% of the standard protocol. Visualization of cardiac structures was significantly improved with the ultra high pitch protocol (p&lt;0.0001). Significantly more lung parenchymal motion was observed on the standard protocol (p&lt;0.0001). The mean pulmonary vessel attenuation, SNR, and CNR were not significantly different. The mean effective dose was lower for the ultra high pitch studies (4.09mSv±0.78 vs. 7.72mSv±2.60, p&lt;0.0001). CONCLUSION: Ultra high pitch CT imaging for pulmonary embolus is a technique which has potential to assess motion free evaluation of most cardiac structures and proximal coronary arteries at lower radiation doses.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/23743054/) · [DOI](https://doi.org/10.1016/j.ejrad.2013.05.003)
-
-
----
-
-### Low-dose, prospective triggered high-pitch spiral coronary computed tomography angiography: comparison with retrospective spiral technique.
-
-*Srichai MB, Lim RP, Donnino R, Mannelli L, Hiralal R, Avery R et al.* — Academic radiology (2012)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Cardiac computed tomographic angiography algorithms emphasize radiation reduction while maintaining diagnostic image quality (IQ). The aim of this study was to evaluate IQ and interreader variability using prospective electrocardiographically triggered high-pitch spiral cardiac computed tomographic angiography (FLASH-CT) compared to retrospective electrocardiographic gating (RETRO-CT) for coronary…
-
-
-??? note "Abstract"
-    RATIONALE AND OBJECTIVES: Cardiac computed tomographic angiography algorithms emphasize radiation reduction while maintaining diagnostic image quality (IQ). The aim of this study was to evaluate IQ and interreader variability using prospective electrocardiographically triggered high-pitch spiral cardiac computed tomographic angiography (FLASH-CT) compared to retrospective electrocardiographic gating (RETRO-CT) for coronary artery disease evaluation in a patient population including overweight and obese individuals. MATERIALS AND METHODS: Seventy patients (24 women; mean age, 60 years) matched for gender, age, body mass index (27.4 ± 5.5 kg/m(2)), and calcium score (184 ± 328) underwent cardiac computed tomographic angiography, 35 with FLASH-CT (Definition Flash) and 35 with RETRO-CT (Somatom Definition). Images were reconstructed using standard protocols and least motion phase for RETRO-CT acquisitions. Two independent, blinded readers evaluated the coronary arteries using an 18-segment model, grading IQ on a 5-point, Likert-type scale and coronary stenosis on a 5-point semiquantitative and binary scale. RESULTS: Effective radiation dose (1.50 vs 17.3 mSv, P &lt; .0001) and mean heart rate (58 vs 62 beats/min, P &lt; .05) were significantly lower for FLASH-CT compared to RETRO-CT. Seven hundred forty segments (&gt; 1.5 mm) were evaluated. There was no significant difference between FLASH-CT and RETRO-CT scans in overall per-segment IQ (3.11 ± 0.75 vs 3.10 ± 0.82, P = .94). FLASH-CT had noninferior IQ relative to RETRO-CT (95% confidence interval, -0.25 to 0.26). There was no significant difference in interreader variability in diagnosis between FLASH-CT and RETRO-CT for all coronary segments (77.5% vs 78.2%, P = .83). CONCLUSIONS: FLASH-CT is an acceptable coronary computed tomographic angiographic method for reducing radiation dose without compromising IQ for a patient population including overweight and obese individuals.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/22366557/) · [DOI](https://doi.org/10.1016/j.acra.2012.01.009)
 
 
 ---

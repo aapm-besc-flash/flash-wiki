@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*172 records. Newest first.*
+*171 records. Newest first.*
 
 ---
 
@@ -2936,25 +2936,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22839678/) · [DOI](https://doi.org/10.1021/ja306522b)
-
-
----
-
-### Extracting atomic numbers and electron densities from a dual source dual energy CT scanner: experiments and a simulation model.
-
-*Landry G, Reniers B, Granton PV, van Rooijen B, Beaulieu L, Wildberger JE et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2011)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Dual energy CT (DECT) imaging can provide both the electron density ρ(e) and effective atomic number Z(eff), thus facilitating tissue type identification. This paper investigates the accuracy of a dual source DECT scanner by means of measurements and simulations.
-
-
-??? note "Abstract"
-    BACKGROUND AND PURPOSE: Dual energy CT (DECT) imaging can provide both the electron density ρ(e) and effective atomic number Z(eff), thus facilitating tissue type identification. This paper investigates the accuracy of a dual source DECT scanner by means of measurements and simulations. Previous simulation work suggested improved Monte Carlo dose calculation accuracy when compared to single energy CT for low energy photon brachytherapy, but lacked validation. As such, we aim to validate our DECT simulation model in this work. MATERIALS AND METHODS: A cylindrical phantom containing tissue mimicking inserts was scanned with a second generation dual source scanner (SOMATOM Definition FLASH) to obtain Z(eff) and ρ(e). A model of the scanner was designed in ImaSim, a CT simulation program, and was used to simulate the experiment. RESULTS: Accuracy of measured Z(eff) (labelled Z) was found to vary from -10% to 10% from low to high Z tissue substitutes while the accuracy on ρ(e) from DECT was about 2.5%. Our simulation reproduced the experiments within ±5% for both Z and ρ(e). CONCLUSIONS: A clinical DECT scanner was able to extract Z and ρ(e) of tissue substitutes. Our simulation tool replicates the experiments within a reasonable accuracy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/21924780/) · [DOI](https://doi.org/10.1016/j.radonc.2011.08.029)
 
 
 ---

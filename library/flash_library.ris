@@ -2227,26 +2227,6 @@ KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
-TI  - Matching the protocol to the clinical question in pediatric coronary CT - one size doesn't have to fit all.
-AU  - Cuculovic V
-AU  - Ashworth E
-AU  - Sheikh F
-AU  - Castellano I
-AU  - McDonagh E
-AU  - Rubens M
-AU  - Padley S
-AU  - Nicol E
-AU  - Semple T
-PY  - 2026
-JO  - Journal of cardiovascular computed tomography
-AB  - PURPOSE: To compare image quality and radiation dose between pediatric coronary CT protocols. METHODS: A retrospective observational study of pediatric coronary CT in children under 2 years old undergoing awake, non-sedated imaging in a pediatric cardiac surgical centre, comparing non-gated high-pitch dual source spiral (ng-FLASH); ECG-gated FLASH (FLASH); single-phase (30 ​% R-R) and multiphase (30-50 ​% R-R) sequential acquisition protocols. Dose metrics (DLP and CTDIvol) were collected and coronary visualisation assessed for the left mainstem (0 ​= ​not visible; 1 ​= ​visible), anterior descending, circumflex and right coronary arteries (0 ​= ​not visible; 1 ​= ​origin only; 2 ​= ​to mid-vessel; 3 ​= ​whole vessel). RESULTS: 128 consecutive studies were identified (84 ​ng-FLASH, 23 FLASH, 7 single-phase and 14 multi-phase sequential); median age was 3 months (range 1 day-17 months). Multi-phase sequential scans were the highest dose (median CTDI vol 1.66 ​mGy); cf. single-phase sequential 1.20 ​mGy (p ​= ​1.00); FLASH 0.57 ​mGy (p ​< ​0.001) and ng-FLASH 0.45 ​mGy (p ​< ​0.001). Multi-phase sequential scans had best image quality (median score 8, IQR 1.75) cf. single-phase sequential scans; 6, 5, p ​= ​0.95; FLASH 5, 5, p ​= ​0.15, and ng-FLASH 4, 3, p ​= ​0.001). Multi-phase acquisitions visualised coronaries to at least the mid-portion in 71.4 ​% (vs. 28.6 ​% single-phase sequential, 30.4 ​% FLASH and 13.1 ​% ng-FLASH). CONCLUSIONS: Coronary visualisation via CT in under-2 year olds can be achieved at a fraction of the dose expected from retrospective ECG gating, without anaesthesia. Where full coronary visualisation is not the primary aim of the examination, scan protocol can be adjusted accordingly. Stepwise increases in radiation exposure can be added according to level of coronary assessment required.
-DO  - 10.1016/j.jcct.2026.02.004
-AN  - 41966903
-UR  - https://pubmed.ncbi.nlm.nih.gov/41966903/
-KW  - FLASH:Uncategorized
-ER  - 
-
-TY  - JOUR
 TI  - Split-Dose FLASH Irradiation to Investigate the Clinical Feasibility of Multifield Treatments: The Effect of Split Dose and Dose Rate on FLASH.
 AU  - Erickson DPJ
 AU  - Shaver BA
@@ -14813,26 +14793,6 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Minimizing Contrast Media Dose in CT Pulmonary Angiography with Clinical Photon Counting Using High Pitch Technique.
-AU  - Saeed S
-AU  - Niehoff JH
-AU  - Boriesosdick J
-AU  - Michael A
-AU  - Woeltjen MM
-AU  - Surov A
-AU  - Moenninghoff C
-AU  - Borggrefe J
-AU  - Kroeger JR
-PY  - 2024
-JO  - Academic radiology
-AB  - RATIONALE AND OBJECTIVES: To evaluate the potential to reduce the amount of iodinated contrast media (CM) for computer tomographic pulmonary angiography (CTPA) with a novel photon-counting-detector CT (PCCT). MATERIALS AND METHODS: Overall, 105 patients referred for CTPA were retrospectively included in this study. CTPA was performed using bolus tracking and high-pitch dual-source scanning (FLASH mode) on a novel PCCT (Naeotom Alpha, Siemens Healthineers). CM (Accupaque 300, GE Healthcare) dose was lowered stepwise following the introduction of the new CT scanner. Thus, patients could be divided into 3 groups as follows: group 1, n = 29, 35 ml of CM; group 2, n = 62, 45 ml of CM and group 3, n = 14, 60 ml of CM. Four readers independently assessed the image quality (Likert-scale 1-5) and adequate assessment of the segmental pulmonary arteries. Additionally, the pulmonary arterial contrast opacification was measured. RESULTS: The subjective image quality was rated highest in group 1 with 4.6 compared to 4.5 (group 2) and 4.1 (group 3) with a significant difference between groups 1 and 3 (p < 0.001) and between groups 2 and 3 (p = 0.003). In all groups, almost all segmental pulmonary arteries could be assessed adequately without significant differences (18.5 vs. 18.7 vs. 18.4). Mean attenuation in the pulmonary trunk did not differ significantly between groups 321 ± 92 HU versus 345 ± 93 HU versus 347 ± 88 HU (p = 0.69). CONCLUSION: Significant CM dose reduction is possible without a reduction in image quality. PCCT enables diagnostic CTPA with 35 ml of CM.
-DO  - 10.1016/j.acra.2023.05.018
-AN  - 37393176
-UR  - https://pubmed.ncbi.nlm.nih.gov/37393176/
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
 TI  - A Prototype Scintillator Real-Time Beam Monitor for Ultra-high Dose Rate Radiotherapy.
 AU  - Levin DS
 AU  - Friedman PS
@@ -17262,25 +17222,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Low-dose ultra-high-pitch computed tomography coronary angiography: identifying the optimum combination of iteration strength and radiation dose reduction strategies to achieve true submillisievert scans.
-AU  - Kumari N
-AU  - Ganga KP
-AU  - Ojha V
-AU  - Kumar S
-AU  - Jagia P
-AU  - Naik N
-AU  - Gulati G
-AU  - Sharma S
-PY  - 2023
-JO  - Diagnostic and interventional radiology (Ankara, Turkey)
-AB  - PURPOSE: To identify the optimum strength of advanced modeled iterative reconstruction (ADMIRE) to achieve the best subjective and objective image quality when combining three-dose reduction strategies, ultra-high-pitch computed tomography coronary angiography (FLASH CTCA; with single-dose ivabradine to lower heart rate), low tube voltage, and ADMIRE. METHODS: Sixty consecutive patients underwent FLASH CTCA at 100 kVp in this single-center prospective study. Single-dose ivabradine was administered to patients whose heart rate was above 75 bpm. Images were reconstructed using the three highest strengths of ADMIRE (A3, A4, and A5). Objective and subjective image quality (using a Likert scale) were evaluated in the three datasets. RESULTS: The signal strength remained unchanged but mean noise significantly reduced across the increasing strengths of ADMIRE [signal: 513.78 ± 101.7 Hounsfield units (HU) at A3, 515.6 ± 100.5 HU at A4, and 519.7 ± 107.9 HU at A5; noise: 23.4 ± 4.5 HU at A3, 20.2 ± 3.6 HU at A4, and 17.2 ± 3.3 HU at A5]. Signal-to-noise and contrast-to-noise ratios were the highest at A5, and A5 offered significantly higher Likert scores in image noise, vessel sharpness, and overall image quality than A3 or A4. Additionally, A5 did not interfere with image interpretation in any patient. CONCLUSION: Using all three dose reduction strategies during FLASH CTCA along with single-dose ivabradine administration ensures minimal radiation exposure in daily practice. In this study, A5 datasets had the best overall subjective and objective image quality despite their "plastic appearance". In the future, enhanced dose reduction can be obtained by further lowering tube voltages.
-DO  - 10.4274/dir.2021.0849
-AN  - 36987879
-UR  - https://pubmed.ncbi.nlm.nih.gov/36987879/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Do We Preserve Tumor Control Probability (TCP) in FLASH Radiotherapy? A Model-Based Analysis.
 AU  - Liew H
 AU  - Mein S
@@ -17465,6 +17406,33 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
+TI  - Novel unconventional radiotherapy techniques: Current status and future perspectives - Report from the 2nd international radiation oncology online seminar.
+AU  - Tubin S
+AU  - Vozenin MC
+AU  - Prezado Y
+AU  - Durante M
+AU  - Prise KM
+AU  - Lara PC
+AU  - Greco C
+AU  - Massaccesi M
+AU  - Guha C
+AU  - Wu X
+AU  - Mohiuddin MM
+AU  - Vestergaard A
+AU  - Bassler N
+AU  - Gupta S
+AU  - Stock M
+AU  - Timmerman R
+PY  - 2023
+JO  - Clinical and translational radiation oncology
+AB  - •Improvement of therapeutic ratio by novel unconventional radiotherapy approaches.•Immunomodulation using high-dose spatially fractionated radiotherapy.•Boosting radiation anti-tumor effects by adding an immune-mediated cell killing.
+DO  - 10.1016/j.ctro.2023.100605
+AN  - 36910025
+UR  - https://pubmed.ncbi.nlm.nih.gov/36910025/
+KW  - FLASH:Reviews & Consensus
+ER  - 
+
+TY  - JOUR
 TI  - Erratum: Technical note: Validation of an ultrahigh dose rate pulsed electron beam monitoring system using a current transformer for FLASH preclinical studies.
 PY  - 2023
 JO  - Medical physics
@@ -17522,26 +17490,6 @@ AN  - 36780153
 UR  - https://pubmed.ncbi.nlm.nih.gov/36780153/
 KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Influence of heart rate and heart rate variability on the feasibility of ultra-fast, high-pitch coronary photon-counting computed tomography angiography.
-AU  - Rotkopf LT
-AU  - Froelich MF
-AU  - Riffel P
-AU  - Ziener CH
-AU  - Reid C
-AU  - Schlemmer HP
-AU  - Schoenberg SO
-AU  - Ayx I
-PY  - 2023
-JO  - The international journal of cardiovascular imaging
-AB  - Coronary computed tomography angiography has become a mainstay in diagnosing coronary artery disease and is increasingly used in screening symptomatic patients. Recently, photon-counting computed tomography (PCCT) has been introduced into clinical practice, offering higher spatial and temporal resolution. As the applied radiation dose is highly dependent on the choice of scan mode and is lowest using the ultra-fast high-pitch (FLASH) mode, guidelines for their application are needed. From a retrospective study investigating the properties of a novel photon-counting computed tomography, all patients who underwent FLASH-mode PCCT angiography were selected between January and April 2022. This resulted in a study population of 46 men and 27 women. We recorded pre- and intrascan ECG readings and calculated heart rate (maximum heart rate 73 bpm) as well heart rate variability (maximum HRV 37 bpm) as measured by the standard deviation of the heart rate. Diagnostic quality and motion artifacts scores were recorded for each coronary artery segment by consensus between two readers. We found a highly significant association between heart rate variability and image quality (p < 0.001). The heart rate itself was not independently associated with image quality. Both heart rate and heart rate variability were significantly associated with the presence of motion artifacts in a combined model. Scan heart rate variability-but not heart rate itself-is a highly significant predictor of reduced image quality on high-pitch coronary photon-counting computed tomography angiography. This may be due to better scanner architecture and an increased temporal resolution compared to conventional energy-integrating detector computed tomography, which has to be addressed in a comparison study in the future.
-DO  - 10.1007/s10554-023-02808-y
-AN  - 36773035
-UR  - https://pubmed.ncbi.nlm.nih.gov/36773035/
-KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
@@ -25913,23 +25861,6 @@ KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
-TI  - Sinogram Affirmed Iterative Reconstruction (SAFIRE) versus weighted filtered back projection (WFBP) effects on quantitative measure in the COPDGene 2 test object.
-AU  - Sieren JP
-AU  - Hoffman EA
-AU  - Fuld MK
-AU  - Chan KS
-AU  - Guo J
-AU  - Newell JD
-PY  - 2014
-JO  - Medical physics
-AB  - PURPOSE: Assessing pulmonary emphysema using Quantitative CT of the lung depends on accurate measures of CT density. Sinogram-Affirmed-Iterative-Reconstruction (SAFIRE) is a new approach for reconstructing CT data acquired at significantly lower doses. However, quantitative effects of this method remain unexplored. The authors investigated the effects on the median values of materials in the COPDGene2 test-object as a function of the reconstruction method [weighted filtered back projection (WFBP) versus SAFIRE], test-object size, dose, and material composition using a Siemens SOMATOM Definition FLASH CT scanner. METHODS: The COPDGene2 test-object contains eight materials; acrylic, water, four foams (20 lb, 12 lb, lung-equivalent, and 4 lb emphysema-equivalent), internal and external-air. The test-object was scanned with three different outer ring sizes, simulating three different body habitus. There is an average size (36 cm) Ring A, large size (40 cm) Ring B, and small size Ring C (30 cm). The CT protocol used 120 kVp, 0.5 s rotation, 1.0 pitch, and a 0.6 slice collimation with progressively decreasing x-ray exposure values, 11.94-0.74 mGy. With a thorax length of 30 cm, the corresponding effective doses would be 5.01-0.31 mSv. The effects of using SAFIRE versus WFBP were assessed using a two tailed t-test for each ring size, material, and dose. Multivariable linear regression was used to evaluate the relative effects of ring size, material composition, dose, and reconstruction method on the measured median value in HU. RESULTS: SAFIRE versus WFBP, at the largest ring size and two lowest doses there was a significant difference in median values of 4 lb-foam, p<0.01. Using the smallest ring size at the lowest dose level there was a significant difference in the median value of 4 lb-foam, but the effect size was small, 1 HU. There is a significant difference in median values of both internal and external air using both the small and medium size rings at the three lowest dose levels, p<0.05. There are significant differences noted at both high and low dose levels when using the large ring size in the median values of internal and external air when, p<0.05. These effects on 4 lb-foam, inside and outside air are shown to be in part due to truncation effects on the median value since the lowest HU value in the CT scale used is -1024 HU. Multivariable linear regression results demonstrated significant effects on the measured material median value and standard deviation due to ring size, material composition, dose level, and reconstruction method, p<0.05. CONCLUSIONS: The authors have shown that there is no significant effect on the median values obtained when using WFBP versus SAFIRE in materials with CT density between 120 and -856 HU using three different test-object sizes and CT doses that vary from 11.94 to 0.74 mGy. The authors have demonstrated there are significant effects on median values obtained when using WFBP versus SAFIRE in materials with CT density values between -937 and -1000 HU depending on the ring size and dose used. As expected, there is considerable reduction in image noise (lower standard deviation) using SAFIRE versus WFBP with all ring sizes, doses, and materials in the COPDGene2 test-object.
-DO  - 10.1118/1.4893498
-AN  - 25186397
-UR  - https://pubmed.ncbi.nlm.nih.gov/25186397/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - Influence of the electron energy and number of beams on the absorbed dose distributions in radiotherapy of deep seated targets.
 AU  - Garnica-Garza HM
 PY  - 2014
@@ -26041,24 +25972,6 @@ DO  - 10.1016/j.watres.2013.12.033
 AN  - 24447955
 UR  - https://pubmed.ncbi.nlm.nih.gov/24447955/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Clinical utility of ultra high pitch dual source thoracic CT imaging of acute pulmonary embolism in the emergency department: are we one step closer towards a non-gated triple rule out?
-AU  - Hou DJ
-AU  - Tso DK
-AU  - Davison C
-AU  - Inacio J
-AU  - Louis LJ
-AU  - Nicolaou S
-AU  - Reimann AJ
-PY  - 2013
-JO  - European journal of radiology
-AB  - OBJECTIVES/PURPOSE: Aim of this study was to retrospectively compare the image quality and the radiation dose of an ultra high pitch CT scan for the evaluation of pulmonary embolism and visualization of cardiac structures in comparison to our institution's standard pulmonary embolism protocol. METHOD AND MATERIALS: The study cohort consisted of 115 consecutive patients, 57 underwent CT pulmonary angiography on a dual source 128 slice scanner (Siemens Somatom Definition FLASH) via an ultra high pitch mode (Pitch 2.8) while 58 were scanned on a dual source 64 slice scanner (Siemens Somatom Definition Dual Source) with standard pitch (Pitch 0.9). Qualitative image assessment was determined by two blinded radiologists with 3 and 15 years' experience in chest and cardiac CT. Quantitative image assessment was determined by the signal to noise ratio (SNR) and contrast to noise ratio (CNR). Effective radiation dose was calculated via the product of the dose length product. RESULTS: For the ultra high pitch protocol, 14% (8/57) were positive for pulmonary embolus compared to 13.7% (8/58) for the standard pitch group. 98.2% of the ultra high pitch scans were diagnostic for pulmonary embolus vs. 94.8% of the standard protocol. Visualization of cardiac structures was significantly improved with the ultra high pitch protocol (p<0.0001). Significantly more lung parenchymal motion was observed on the standard protocol (p<0.0001). The mean pulmonary vessel attenuation, SNR, and CNR were not significantly different. The mean effective dose was lower for the ultra high pitch studies (4.09mSv±0.78 vs. 7.72mSv±2.60, p<0.0001). CONCLUSION: Ultra high pitch CT imaging for pulmonary embolus is a technique which has potential to assess motion free evaluation of most cardiac structures and proximal coronary arteries at lower radiation doses.
-DO  - 10.1016/j.ejrad.2013.05.003
-AN  - 23743054
-UR  - https://pubmed.ncbi.nlm.nih.gov/23743054/
-KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
@@ -26176,26 +26089,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Low-dose, prospective triggered high-pitch spiral coronary computed tomography angiography: comparison with retrospective spiral technique.
-AU  - Srichai MB
-AU  - Lim RP
-AU  - Donnino R
-AU  - Mannelli L
-AU  - Hiralal R
-AU  - Avery R
-AU  - Ho C
-AU  - Babb JS
-AU  - Jacobs JE
-PY  - 2012
-JO  - Academic radiology
-AB  - RATIONALE AND OBJECTIVES: Cardiac computed tomographic angiography algorithms emphasize radiation reduction while maintaining diagnostic image quality (IQ). The aim of this study was to evaluate IQ and interreader variability using prospective electrocardiographically triggered high-pitch spiral cardiac computed tomographic angiography (FLASH-CT) compared to retrospective electrocardiographic gating (RETRO-CT) for coronary artery disease evaluation in a patient population including overweight and obese individuals. MATERIALS AND METHODS: Seventy patients (24 women; mean age, 60 years) matched for gender, age, body mass index (27.4 ± 5.5 kg/m(2)), and calcium score (184 ± 328) underwent cardiac computed tomographic angiography, 35 with FLASH-CT (Definition Flash) and 35 with RETRO-CT (Somatom Definition). Images were reconstructed using standard protocols and least motion phase for RETRO-CT acquisitions. Two independent, blinded readers evaluated the coronary arteries using an 18-segment model, grading IQ on a 5-point, Likert-type scale and coronary stenosis on a 5-point semiquantitative and binary scale. RESULTS: Effective radiation dose (1.50 vs 17.3 mSv, P < .0001) and mean heart rate (58 vs 62 beats/min, P < .05) were significantly lower for FLASH-CT compared to RETRO-CT. Seven hundred forty segments (> 1.5 mm) were evaluated. There was no significant difference between FLASH-CT and RETRO-CT scans in overall per-segment IQ (3.11 ± 0.75 vs 3.10 ± 0.82, P = .94). FLASH-CT had noninferior IQ relative to RETRO-CT (95% confidence interval, -0.25 to 0.26). There was no significant difference in interreader variability in diagnosis between FLASH-CT and RETRO-CT for all coronary segments (77.5% vs 78.2%, P = .83). CONCLUSIONS: FLASH-CT is an acceptable coronary computed tomographic angiographic method for reducing radiation dose without compromising IQ for a patient population including overweight and obese individuals.
-DO  - 10.1016/j.acra.2012.01.009
-AN  - 22366557
-UR  - https://pubmed.ncbi.nlm.nih.gov/22366557/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Dosimetric characteristics and quality control tests for the collimator sectors of the Leksell Gamma Knife(®) Perfexion(TM).
 AU  - Bhatnagar JP
 AU  - Novotny J
@@ -26251,24 +26144,6 @@ AN  - 22008289
 UR  - https://pubmed.ncbi.nlm.nih.gov/22008289/
 KW  - FLASH:Radiobiology
 KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Extracting atomic numbers and electron densities from a dual source dual energy CT scanner: experiments and a simulation model.
-AU  - Landry G
-AU  - Reniers B
-AU  - Granton PV
-AU  - van Rooijen B
-AU  - Beaulieu L
-AU  - Wildberger JE
-AU  - Verhaegen F
-PY  - 2011
-JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
-AB  - BACKGROUND AND PURPOSE: Dual energy CT (DECT) imaging can provide both the electron density ρ(e) and effective atomic number Z(eff), thus facilitating tissue type identification. This paper investigates the accuracy of a dual source DECT scanner by means of measurements and simulations. Previous simulation work suggested improved Monte Carlo dose calculation accuracy when compared to single energy CT for low energy photon brachytherapy, but lacked validation. As such, we aim to validate our DECT simulation model in this work. MATERIALS AND METHODS: A cylindrical phantom containing tissue mimicking inserts was scanned with a second generation dual source scanner (SOMATOM Definition FLASH) to obtain Z(eff) and ρ(e). A model of the scanner was designed in ImaSim, a CT simulation program, and was used to simulate the experiment. RESULTS: Accuracy of measured Z(eff) (labelled Z) was found to vary from -10% to 10% from low to high Z tissue substitutes while the accuracy on ρ(e) from DECT was about 2.5%. Our simulation reproduced the experiments within ±5% for both Z and ρ(e). CONCLUSIONS: A clinical DECT scanner was able to extract Z and ρ(e) of tissue substitutes. Our simulation tool replicates the experiments within a reasonable accuracy.
-DO  - 10.1016/j.radonc.2011.08.029
-AN  - 21924780
-UR  - https://pubmed.ncbi.nlm.nih.gov/21924780/
-KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
@@ -26714,27 +26589,6 @@ DO  - 10.1016/s0167-8140(03)00024-0
 AN  - 12758237
 UR  - https://pubmed.ncbi.nlm.nih.gov/12758237/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Radiotherapy treatment planning of prostate cancer using magnetic resonance imaging alone.
-AU  - Lee YK
-AU  - Bollet M
-AU  - Charles-Edwards G
-AU  - Flower MA
-AU  - Leach MO
-AU  - McNair H
-AU  - Moore E
-AU  - Rowbottom C
-AU  - Webb S
-PY  - 2003
-JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
-AB  - PURPOSE: Accurate anatomical delineation of the gross tumour volume (GTV) is crucial for effective radiotherapy (RT) treatment of prostate cancers. Although reference to pelvic magnetic resonance (MR) for improved delineation of the prostate is a regular practice in some clinics, MR has not replaced CT due to its geometrical distortions and lack of electron-density information. The possibility and practicality of using MR only for RT treatment planning were studied. MATERIALS AND METHODS: The addition of electron-density information to MR images for conformal radiotherapy (CRT) planning of the prostate was quantified by comparing dose distributions created on the homogeneous density- and bulk-density assigned images to original CT for four patients. To quantify the MR geometrical distortions measurements of a phantom imaged in CT (Siemens Somatom Plus 4) and FLASH 3D T1-weighted MR (1.5 T whole body Siemens Magnetom Vision) were compared. Dose statistics from CRT treatment plans made on CT and MR for five patient data were compared to determine if MR-only treatment plans can be made. RESULTS: The differences between dose-plans on bulk-density assigned images when compared to CT were less than 2% when water and bone values were assigned. Dose differences greater than 2% were observed when images of homogeneous-density assignment were compared to the CT. Phantom measurements showed that the distortions in the FLASH 3D T1-weighted MR averaged 2 mm in the volume of interest for prostate RT planning. For the CT and MR prostate planning study, doses delivered to the planning target volume (PTV) in CT and MR were always inside a 93-107% dose range normalised to the isocentre. Also, the doses to the organs-at-risk in the MR images were similar to the doses delivered to the volumes in the registered CT image when the organ volumes between the two images were similar. CONCLUSIONS: Negligible differences were observed in dose distribution between CRT plans using bone+water CT number bulk-assigned image and original CT. Also, the MR distortions were reduced to negligible amounts using large bandwidth MR sequence for prostate CRT planning. MR treatment planning was demonstrated using a large bandwidth sequence and bulk-assigned images. The development of higher quality, low distortion MR sequence will allow regular practice of this technique.
-DO  - 10.1016/s0167-8140(02)00440-1
-AN  - 12648793
-UR  - https://pubmed.ncbi.nlm.nih.gov/12648793/
-KW  - FLASH:Treatment Planning & Optimization
-KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR

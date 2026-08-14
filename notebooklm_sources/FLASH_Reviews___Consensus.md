@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Reviews & Consensus
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 203 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 204 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -1490,7 +1490,18 @@ Abstract: This article reviews the results of various non-surgical curative trea
 
 ---
 
-## 136. Ultra-high dose rate FLASH radiation therapy for cancer.
+## 136. Novel unconventional radiotherapy techniques: Current status and future perspectives - Report from the 2nd international radiation oncology online seminar.
+Authors: Tubin S, Vozenin MC, Prezado Y, Durante M, Prise KM, Lara PC, Greco C, Massaccesi M et al.
+Journal: Clinical and translational radiation oncology (2023)
+Identifiers: PMID 36910025; DOI 10.1016/j.ctro.2023.100605; PMC PMC9996385 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/36910025/
+Category: Reviews & Consensus | Tags: Reviews & Consensus
+
+Abstract: •Improvement of therapeutic ratio by novel unconventional radiotherapy approaches.•Immunomodulation using high-dose spatially fractionated radiotherapy.•Boosting radiation anti-tumor effects by adding an immune-mediated cell killing.
+
+---
+
+## 137. Ultra-high dose rate FLASH radiation therapy for cancer.
 Authors: Kim MM, Zou W
 Journal: Medical physics (2023)
 Identifiers: PMID 36758965; DOI 10.1002/mp.16271; PMC PMC11056953 (open access)
@@ -1501,7 +1512,7 @@ Abstract: Conformality has been a key requirement in radiation therapy for cance
 
 ---
 
-## 137. Proton radiotherapy for glioma and glioblastoma.
+## 138. Proton radiotherapy for glioma and glioblastoma.
 Authors: Goff KM, Zheng C, Alonso-Basanta M
 Journal: Chinese clinical oncology (2022)
 Identifiers: PMID 36632979; DOI 10.21037/cco-22-92
@@ -1512,7 +1523,7 @@ Abstract: Radiotherapy (RT) continues to be an important component of treatment 
 
 ---
 
-## 138. Towards clinical translation of FLASH radiotherapy.
+## 139. Towards clinical translation of FLASH radiotherapy.
 Authors: Vozenin MC, Bourhis J, Durante M
 Journal: Nature reviews. Clinical oncology (2022)
 Identifiers: PMID 36303024; DOI 10.1038/s41571-022-00697-z
@@ -1523,7 +1534,7 @@ Abstract: The ultimate goal of radiation oncology is to eradicate tumours withou
 
 ---
 
-## 139. FLASH radiotherapy: an emerging approach in radiation therapy.
+## 140. FLASH radiotherapy: an emerging approach in radiation therapy.
 Authors: Matuszak N, Suchorska WM, Milecki P, Kruszyna-Mochalska M, Misiarz A, Pracz J, Malicki J
 Journal: Reports of practical oncology and radiotherapy : journal of Greatpoland Cancer Center in Poznan and Polish Society of Radiation Oncology (2022)
 Identifiers: PMID 36299375; DOI 10.5603/RPOR.a2022.0038; PMC PMC9591027 (open access)
@@ -1534,7 +1545,7 @@ Abstract: FLASH radiotherapy (RT) is a technique involving the delivery of ultra
 
 ---
 
-## 140. Radiation as a Tool against Neurodegeneration-A Potential Treatment for Amyloidosis in the Central Nervous System.
+## 141. Radiation as a Tool against Neurodegeneration-A Potential Treatment for Amyloidosis in the Central Nervous System.
 Authors: Coelho CM, Pereira L, Teubig P, Santos P, Mendes F, Viñals S, Galaviz D, Herrera F
 Journal: International journal of molecular sciences (2022)
 Identifiers: PMID 36293118; DOI 10.3390/ijms232012265; PMC PMC9603404 (open access)
@@ -1545,7 +1556,7 @@ Abstract: Radiotherapy (RT) is a relatively safe and established treatment for c
 
 ---
 
-## 141. Potential Molecular Mechanisms behind the Ultra-High Dose Rate "FLASH" Effect.
+## 142. Potential Molecular Mechanisms behind the Ultra-High Dose Rate "FLASH" Effect.
 Authors: Bogaerts E, Macaeva E, Isebaert S, Haustermans K
 Journal: International journal of molecular sciences (2022)
 Identifiers: PMID 36292961; DOI 10.3390/ijms232012109; PMC PMC9602825 (open access)
@@ -1556,7 +1567,7 @@ Abstract: FLASH radiotherapy, or the delivery of a dose at an ultra-high dose ra
 
 ---
 
-## 142. Radiobiological Aspects of FLASH Radiotherapy.
+## 143. Radiobiological Aspects of FLASH Radiotherapy.
 Authors: Hageman E, Che PP, Dahele M, Slotman BJ, Sminia P
 Journal: Biomolecules (2022)
 Identifiers: PMID 36291585; DOI 10.3390/biom12101376; PMC PMC9599153 (open access)
@@ -1567,7 +1578,7 @@ Abstract: Radiotherapy (RT) is one of the primary treatment modalities for cance
 
 ---
 
-## 143. FLASH radiotherapy: A promising new method for radiotherapy.
+## 144. FLASH radiotherapy: A promising new method for radiotherapy.
 Authors: Lv Y, Lv Y, Wang Z, Lan T, Feng X, Chen H, Zhu J, Ma X et al.
 Journal: Oncology letters (2022)
 Identifiers: PMID 36284652; DOI 10.3892/ol.2022.13539; PMC PMC9580247 (open access)
@@ -1578,7 +1589,7 @@ Abstract: Among the treatments for malignant tumors, radiotherapy is of great si
 
 ---
 
-## 144. Mechanisms of FLASH effect.
+## 145. Mechanisms of FLASH effect.
 Authors: Lin B, Huang D, Gao F, Yang Y, Wu D, Zhang Y, Feng G, Dai T et al.
 Journal: Frontiers in oncology (2022)
 Identifiers: PMID 36212435; DOI 10.3389/fonc.2022.995612; PMC PMC9537695 (open access)
@@ -1589,7 +1600,7 @@ Abstract: FLASH radiotherapy (FLASH-RT) is a novel radiotherapy technology defin
 
 ---
 
-## 145. A potential revolution in cancer treatment: A topical review of FLASH radiotherapy.
+## 146. A potential revolution in cancer treatment: A topical review of FLASH radiotherapy.
 Authors: Gao Y, Liu R, Chang CW, Charyyev S, Zhou J, Bradley JD, Liu T, Yang X
 Journal: Journal of applied clinical medical physics (2022)
 Identifiers: PMID 36168677; DOI 10.1002/acm2.13790; PMC PMC9588273 (open access)
@@ -1600,7 +1611,7 @@ Abstract: FLASH radiotherapy (RT) is a novel technique in which the ultrahigh do
 
 ---
 
-## 146. Deciphering the Biological Effects of Radiotherapy in Cancer Cells.
+## 147. Deciphering the Biological Effects of Radiotherapy in Cancer Cells.
 Authors: Lu Z, Zheng X, Ding C, Zou Z, Liang Y, Zhou Y, Li X
 Journal: Biomolecules (2022)
 Identifiers: PMID 36139006; DOI 10.3390/biom12091167; PMC PMC9496570 (open access)
@@ -1611,7 +1622,7 @@ Abstract: Radiotherapy remains an effective conventional method of treatment for
 
 ---
 
-## 147. FLASH radiotherapy treatment planning and models for electron beams.
+## 148. FLASH radiotherapy treatment planning and models for electron beams.
 Authors: Rahman M, Trigilio A, Franciosini G, Moeckli R, Zhang R, Böhlen TT
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35964763; DOI 10.1016/j.radonc.2022.08.009
@@ -1622,7 +1633,7 @@ Abstract: The FLASH effect designates normal tissue sparing at ultra-high dose r
 
 ---
 
-## 148. Treatment planning considerations for the development of FLASH proton therapy.
+## 149. Treatment planning considerations for the development of FLASH proton therapy.
 Authors: Rothwell B, Lowe M, Traneus E, Krieger M, Schuemann J
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35963397; DOI 10.1016/j.radonc.2022.08.003; PMC PMC10268866 (open access)
@@ -1633,7 +1644,7 @@ Abstract: With increasing focus on the translation of the observed FLASH effect 
 
 ---
 
-## 149. Intra-Operative Electron Radiation Therapy: An Update of the Evidence Collected in 40 Years to Search for Models for Electron-FLASH Studies.
+## 150. Intra-Operative Electron Radiation Therapy: An Update of the Evidence Collected in 40 Years to Search for Models for Electron-FLASH Studies.
 Authors: Calvo FA, Serrano J, Cambeiro M, Aristu J, Asencio JM, Rubio I, Delgado JM, Ferrer C et al.
 Journal: Cancers (2022)
 Identifiers: PMID 35954357; DOI 10.3390/cancers14153693; PMC PMC9367249 (open access)
@@ -1644,7 +1655,7 @@ Abstract: INTRODUCTION: The clinical practice and outcome results of intraoperat
 
 ---
 
-## 150. Combining FLASH and spatially fractionated radiation therapy: The best of both worlds.
+## 151. Combining FLASH and spatially fractionated radiation therapy: The best of both worlds.
 Authors: Schneider T, Fernandez-Palomo C, Bertho A, Fazzari J, Iturri L, Martin OA, Trappetti V, Djonov V et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35952978; DOI 10.1016/j.radonc.2022.08.004
@@ -1655,7 +1666,7 @@ Abstract: FLASH radiotherapy (FLASH-RT) and spatially fractionated radiation the
 
 ---
 
-## 151. Prospect of radiotherapy technology development in the era of immunotherapy.
+## 152. Prospect of radiotherapy technology development in the era of immunotherapy.
 Authors: Jin JY
 Journal: Journal of the National Cancer Center (2022)
 Identifiers: PMID 39034954; DOI 10.1016/j.jncc.2022.04.001; PMC PMC11256706 (open access)
@@ -1666,7 +1677,7 @@ Abstract: Radiotherapy (RT) is one of the important modalities for cancer treatm
 
 ---
 
-## 152. A roadmap to clinical trials for FLASH.
+## 153. A roadmap to clinical trials for FLASH.
 Authors: Taylor PA, Moran JM, Jaffray DA, Buchsbaum JC
 Journal: Medical physics (2022)
 Identifiers: PMID 35366339; DOI 10.1002/mp.15623; PMC PMC9321729 (open access)
@@ -1677,7 +1688,7 @@ Abstract: While FLASH radiation therapy is inspiring enthusiasm to transform the
 
 ---
 
-## 153. Key biological mechanisms involved in high-LET radiation therapies with a focus on DNA damage and repair.
+## 154. Key biological mechanisms involved in high-LET radiation therapies with a focus on DNA damage and repair.
 Authors: Nikitaki Z, Velalopoulou A, Zanni V, Tremi I, Havaki S, Kokkoris M, Gorgoulis VG, Koumenis C et al.
 Journal: Expert reviews in molecular medicine (2022)
 Identifiers: PMID 35357290; DOI 10.1017/erm.2022.6
@@ -1688,7 +1699,7 @@ Abstract: DNA damage and repair studies are at the core of the radiation biology
 
 ---
 
-## 154. Management of Motion and Anatomical Variations in Charged Particle Therapy: Past, Present, and Into the Future.
+## 155. Management of Motion and Anatomical Variations in Charged Particle Therapy: Past, Present, and Into the Future.
 Authors: Pakela JM, Knopf A, Dong L, Rucinski A, Zou W
 Journal: Frontiers in oncology (2022)
 Identifiers: PMID 35356213; DOI 10.3389/fonc.2022.806153; PMC PMC8959592 (open access)
@@ -1699,7 +1710,7 @@ Abstract: The major aim of radiation therapy is to provide curative or palliativ
 
 ---
 
-## 155. The Therapeutic Potential of FLASH-RT for Pancreatic Cancer.
+## 156. The Therapeutic Potential of FLASH-RT for Pancreatic Cancer.
 Authors: Okoro CM, Schüler E, Taniguchi CM
 Journal: Cancers (2022)
 Identifiers: PMID 35267474; DOI 10.3390/cancers14051167; PMC PMC8909276 (open access)
@@ -1710,7 +1721,7 @@ Abstract: Recent preclinical evidence has shown that ionizing radiation given at
 
 ---
 
-## 156. Imaging to optimize gynecological radiation oncology.
+## 157. Imaging to optimize gynecological radiation oncology.
 Authors: Kidd EA
 Journal: International journal of gynecological cancer : official journal of the International Gynecological Cancer Society (2022)
 Identifiers: PMID 35256424; DOI 10.1136/ijgc-2021-002460
@@ -1721,7 +1732,7 @@ Abstract: Gynecological cancers have particularly benefited from the increasing 
 
 ---
 
-## 157. A Comprehensive Analysis of the Relationship Between Dose Rate and Biological Effects in Preclinical and Clinical Studies, From Brachytherapy to Flattening Filter Free Radiation Therapy and FLASH Irradiation.
+## 158. A Comprehensive Analysis of the Relationship Between Dose Rate and Biological Effects in Preclinical and Clinical Studies, From Brachytherapy to Flattening Filter Free Radiation Therapy and FLASH Irradiation.
 Authors: Beddok A, Lahaye C, Calugaru V, De Marzi L, Fouillade C, Salvador S, Fontbonne JM, Favaudon V et al.
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 35227789; DOI 10.1016/j.ijrobp.2022.02.009
@@ -1732,7 +1743,7 @@ Abstract: PURPOSE: For many years, the effect of dose rate (DR) was considered n
 
 ---
 
-## 158. In vitro assays for investigating the FLASH effect.
+## 159. In vitro assays for investigating the FLASH effect.
 Authors: Adrian G, Ruan JL, Paillas S, Cooper CR, Petersson K
 Journal: Expert reviews in molecular medicine (2022)
 Identifiers: PMID 35225211; DOI 10.1017/erm.2022.5; PMC PMC9884768 (open access)
@@ -1743,7 +1754,7 @@ Abstract: FLASH radiotherapy is a novel technique that has been shown in numerou
 
 ---
 
-## 159. Approaches to modeling chemical reaction pathways in radiobiology.
+## 160. Approaches to modeling chemical reaction pathways in radiobiology.
 Authors: Wardman P
 Journal: International journal of radiation biology (2022)
 Identifiers: PMID 35073222; DOI 10.1080/09553002.2022.2033342
@@ -1754,7 +1765,7 @@ Abstract: PURPOSE: Recent interest in understanding effects of high dose-rate ('
 
 ---
 
-## 160. Ultra-high dose rate electron beams and the FLASH effect: From preclinical evidence to a new radiotherapy paradigm.
+## 161. Ultra-high dose rate electron beams and the FLASH effect: From preclinical evidence to a new radiotherapy paradigm.
 Authors: Schüler E, Acharya M, Montay-Gruel P, Loo BW, Vozenin MC, Maxim PG
 Journal: Medical physics (2022)
 Identifiers: PMID 34997969; DOI 10.1002/mp.15442; PMC PMC9032195 (open access)
@@ -1765,7 +1776,7 @@ Abstract: In their seminal paper from 2014, Fauvadon et al. coined the term FLA
 
 ---
 
-## 161. FLASH ultra-high dose rates in radiotherapy: preclinical and radiobiological evidence.
+## 162. FLASH ultra-high dose rates in radiotherapy: preclinical and radiobiological evidence.
 Authors: Borghini A, Vecoli C, Labate L, Panetta D, Andreassi MG, Gizzi LA
 Journal: International journal of radiation biology (2022)
 Identifiers: PMID 34913413; DOI 10.1080/09553002.2022.2009143
@@ -1776,7 +1787,7 @@ Abstract: PURPOSE: Flash radiotherapy (FLASH-RT) is currently being regarded as 
 
 ---
 
-## 162. Understanding the FLASH effect to unravel the potential of ultra-high dose rate irradiation.
+## 163. Understanding the FLASH effect to unravel the potential of ultra-high dose rate irradiation.
 Authors: Kacem H, Almeida A, Cherbuin N, Vozenin MC
 Journal: International journal of radiation biology (2022)
 Identifiers: PMID 34788193; DOI 10.1080/09553002.2021.2004328
@@ -1787,7 +1798,7 @@ Abstract: A reemergence of research implementing radiation delivery at ultra-hig
 
 ---
 
-## 163. The importance of hypoxia in radiotherapy for the immune response, metastatic potential and FLASH-RT.
+## 164. The importance of hypoxia in radiotherapy for the immune response, metastatic potential and FLASH-RT.
 Authors: Moon EJ, Petersson K, Olcina MM
 Journal: International journal of radiation biology (2022)
 Identifiers: PMID 34726575; DOI 10.1080/09553002.2021.1988178; PMC PMC7612434 (open access)
@@ -1798,7 +1809,7 @@ Abstract: PURPOSE: Hypoxia (low oxygen) is a common feature of solid tumors that
 
 ---
 
-## 164. The current status of preclinical proton FLASH radiation and future directions.
+## 165. The current status of preclinical proton FLASH radiation and future directions.
 Authors: Diffenderfer ES, Sørensen BS, Mazal A, Carlson DJ
 Journal: Medical physics (2022)
 Identifiers: PMID 34644403; DOI 10.1002/mp.15276
@@ -1809,7 +1820,7 @@ Abstract: We review the current status of proton FLASH experimental systems, inc
 
 ---
 
-## 165. FLASH radiotherapy with photon beams.
+## 166. FLASH radiotherapy with photon beams.
 Authors: Montay-Gruel P, Corde S, Laissue JA, Bazalova-Carter M
 Journal: Medical physics (2022)
 Identifiers: PMID 34519042; DOI 10.1002/mp.15222
@@ -1820,7 +1831,7 @@ Abstract: Ultra-high-dose rate "FLASH" radiotherapy (FLASH-RT) has been shown to
 
 ---
 
-## 166. Quantification of radiation-induced DNA double strand break repair foci to evaluate and predict biological responses to ionizing radiation.
+## 167. Quantification of radiation-induced DNA double strand break repair foci to evaluate and predict biological responses to ionizing radiation.
 Authors: Penninckx S, Pariset E, Cekanaviciute E, Costes SV
 Journal: NAR cancer (2021)
 Identifiers: PMID 35692378; DOI 10.1093/narcan/zcab046; PMC PMC8693576 (open access)
@@ -1831,7 +1842,7 @@ Abstract: Radiation-induced foci (RIF) are nuclear puncta visualized by immunost
 
 ---
 
-## 167. Future Developments in Charged Particle Therapy: Improving Beam Delivery for Efficiency and Efficacy.
+## 168. Future Developments in Charged Particle Therapy: Improving Beam Delivery for Efficiency and Efficacy.
 Authors: Yap J, De Franco A, Sheehy S
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34956897; DOI 10.3389/fonc.2021.780025; PMC PMC8697351 (open access)
@@ -1842,7 +1853,7 @@ Abstract: The physical and clinical benefits of charged particle therapy (CPT) a
 
 ---
 
-## 168. In-vitro 3D modelling for charged particle therapy - Uncertainties and opportunities.
+## 169. In-vitro 3D modelling for charged particle therapy - Uncertainties and opportunities.
 Authors: Thiagarajan A
 Journal: Advanced drug delivery reviews (2021)
 Identifiers: PMID 34688685; DOI 10.1016/j.addr.2021.114018
@@ -1853,7 +1864,7 @@ Abstract: Radiation therapy is a critical component of oncologic management, wit
 
 ---
 
-## 169. Back to the Future: Very High-Energy Electrons (VHEEs) and Their Potential Application in Radiation Therapy.
+## 170. Back to the Future: Very High-Energy Electrons (VHEEs) and Their Potential Application in Radiation Therapy.
 Authors: Ronga MG, Cavallone M, Patriarca A, Leite AM, Loap P, Favaudon V, Créhange G, De Marzi L
 Journal: Cancers (2021)
 Identifiers: PMID 34638424; DOI 10.3390/cancers13194942; PMC PMC8507836 (open access)
@@ -1864,7 +1875,7 @@ Abstract: The development of innovative approaches that would reduce the sensiti
 
 ---
 
-## 170. Target motion management in breast cancer radiation therapy.
+## 171. Target motion management in breast cancer radiation therapy.
 Authors: Piruzan E, Vosoughi N, Mahdavi SR, Khalafi L, Mahani H
 Journal: Radiology and oncology (2021)
 Identifiers: PMID 34626533; DOI 10.2478/raon-2021-0040; PMC PMC8647788 (open access)
@@ -1875,7 +1886,7 @@ Abstract: BACKGROUND: Over the last two decades, breast cancer remains the main 
 
 ---
 
-## 171. Can Rational Combination of Ultra-high Dose Rate FLASH Radiotherapy with Immunotherapy Provide a Novel Approach to Cancer Treatment?
+## 172. Can Rational Combination of Ultra-high Dose Rate FLASH Radiotherapy with Immunotherapy Provide a Novel Approach to Cancer Treatment?
 Authors: Zhang Y, Ding Z, Perentesis JP, Khuntia D, Pfister SX, Sharma RA
 Journal: Clinical oncology (Royal College of Radiologists (Great Britain)) (2021)
 Identifiers: PMID 34551871; DOI 10.1016/j.clon.2021.09.003
@@ -1886,7 +1897,7 @@ Abstract: FLASH radiotherapy (FLASH-RT) delivers radiation treatment at an ultra
 
 ---
 
-## 172. Review of Conventional and High Dose Rate Brain Radiation (FLASH): Neurobehavioural, Neurocognitive and Assessment Issues in Rodent Models.
+## 173. Review of Conventional and High Dose Rate Brain Radiation (FLASH): Neurobehavioural, Neurocognitive and Assessment Issues in Rodent Models.
 Authors: Vorhees CV, Vatner RE, Williams MT
 Journal: Clinical oncology (Royal College of Radiologists (Great Britain)) (2021)
 Identifiers: PMID 34548203; DOI 10.1016/j.clon.2021.09.002; PMC PMC10114147 (open access)
@@ -1897,7 +1908,7 @@ Abstract: Ionising radiation causes secondary tumours and/or enduring cognitive 
 
 ---
 
-## 173. Models for Translational Proton Radiobiology-From Bench to Bedside and Back.
+## 174. Models for Translational Proton Radiobiology-From Bench to Bedside and Back.
 Authors: Suckert T, Nexhipi S, Dietrich A, Koch R, Kunz-Schughart LA, Bahn E, Beyreuther E
 Journal: Cancers (2021)
 Identifiers: PMID 34439370; DOI 10.3390/cancers13164216; PMC PMC8395028 (open access)
@@ -1908,7 +1919,7 @@ Abstract: The number of proton therapy centers worldwide are increasing steadily
 
 ---
 
-## 174. Head and neck proton therapy in France: A missed opportunity or a challenge in front of us?
+## 175. Head and neck proton therapy in France: A missed opportunity or a challenge in front of us?
 Authors: Thariat J, Calugaru V, Aloi D, Maingon P, Grégoire V
 Journal: Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2021)
 Identifiers: PMID 34272183; DOI 10.1016/j.canrad.2021.06.018
@@ -1919,7 +1930,7 @@ Abstract: Following major advances of the best of photon-techniques such as inte
 
 ---
 
-## 175. FLASH Radiotherapy: History and Future.
+## 176. FLASH Radiotherapy: History and Future.
 Authors: Lin B, Gao F, Yang Y, Wu D, Zhang Y, Feng G, Dai T, Du X
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34113566; DOI 10.3389/fonc.2021.644400; PMC PMC8185194 (open access)
@@ -1930,7 +1941,7 @@ Abstract: The biological effects of radiation dose to organs at risk surrounding
 
 ---
 
-## 176. Future Directions in the Use of SAbR for the Treatment of Oligometastatic Cancers.
+## 177. Future Directions in the Use of SAbR for the Treatment of Oligometastatic Cancers.
 Authors: Morris Z, Dohopolski M, Rahimi A, Timmerman R
 Journal: Seminars in radiation oncology (2021)
 Identifiers: PMID 34090653; DOI 10.1016/j.semradonc.2021.03.004
@@ -1941,7 +1952,7 @@ Abstract: The role of local therapy as a sole therapy or part of a combined appr
 
 ---
 
-## 177. Novel Radiation Approaches.
+## 178. Novel Radiation Approaches.
 Authors: Kotecha R, Tom MC, Mehta MP
 Journal: Neurosurgery clinics of North America (2021)
 Identifiers: PMID 33781503; DOI 10.1016/j.nec.2020.12.007
@@ -1952,7 +1963,7 @@ Abstract: The standard of care treatment for glioblastoma is surgical resection 
 
 ---
 
-## 178. Translational Research in FLASH Radiotherapy-From Radiobiological Mechanisms to In Vivo Results.
+## 179. Translational Research in FLASH Radiotherapy-From Radiobiological Mechanisms to In Vivo Results.
 Authors: Marcu LG, Bezak E, Peukert DD, Wilson P
 Journal: Biomedicines (2021)
 Identifiers: PMID 33670409; DOI 10.3390/biomedicines9020181; PMC PMC7918545 (open access)
@@ -1963,7 +1974,7 @@ Abstract: FLASH radiotherapy, or the administration of ultra-high dose rate radi
 
 ---
 
-## 179. The impact of proton therapy on cardiotoxicity following radiation treatment.
+## 180. The impact of proton therapy on cardiotoxicity following radiation treatment.
 Authors: Frankart AJ, Nagarajan R, Pater L
 Journal: Journal of thrombosis and thrombolysis (2021)
 Identifiers: PMID 33033980; DOI 10.1007/s11239-020-02303-4
@@ -1974,7 +1985,7 @@ Abstract: Cardiac disease following radiation therapy represents a major conside
 
 ---
 
-## 180. Biological and Mechanical Synergies to Deal With Proton Therapy Pitfalls: Minibeams, FLASH, Arcs, and Gantryless Rooms.
+## 181. Biological and Mechanical Synergies to Deal With Proton Therapy Pitfalls: Minibeams, FLASH, Arcs, and Gantryless Rooms.
 Authors: Mazal A, Vera Sanchez JA, Sanchez-Parcerisa D, Udias JM, España S, Sanchez-Tembleque V, Fraile LM, Bragado P et al.
 Journal: Frontiers in oncology (2020)
 Identifiers: PMID 33585238; DOI 10.3389/fonc.2020.613669; PMC PMC7874206 (open access)
@@ -1985,7 +1996,7 @@ Abstract: Proton therapy has advantages and pitfalls comparing with photon thera
 
 ---
 
-## 181. APPLICATIONS OF OPTICALLY STIMULATED LUMINESCENCE IN MEDICAL DOSIMETRY.
+## 182. APPLICATIONS OF OPTICALLY STIMULATED LUMINESCENCE IN MEDICAL DOSIMETRY.
 Authors: Yukihara EG, Kron T
 Journal: Radiation protection dosimetry (2020)
 Identifiers: PMID 33412585; DOI 10.1093/rpd/ncaa213
@@ -1996,7 +2007,7 @@ Abstract: If the first decade of the new millennium saw the establishment of a m
 
 ---
 
-## 182. Efficacy and toxicity of FLASH radiotherapy: A systematic review.
+## 183. Efficacy and toxicity of FLASH radiotherapy: A systematic review.
 Authors: Omyan G, Musa AE, Shabeeb D, Akbardoost N, Gholami S
 Journal: Journal of cancer research and therapeutics (2020)
 Identifiers: PMID 33342774; DOI 10.4103/jcrt.JCRT_180_20
@@ -2007,7 +2018,7 @@ Abstract: In recent times, research on the use of ultrahigh-dose rates delivered
 
 ---
 
-## 183. External beam radiation therapy with kilovoltage x-rays.
+## 184. External beam radiation therapy with kilovoltage x-rays.
 Authors: Breitkreutz DY, Weil MD, Bazalova-Carter M
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 33221545; DOI 10.1016/j.ejmp.2020.11.001
@@ -2018,7 +2029,7 @@ Abstract: Kilovoltage (kV) x-rays are most commonly used for diagnostic imaging 
 
 ---
 
-## 184. Heavy charged particle beam therapy and related new radiotherapy technologies: The clinical potential, physics and technical developments required to deliver benefit for patients with cancer.
+## 185. Heavy charged particle beam therapy and related new radiotherapy technologies: The clinical potential, physics and technical developments required to deliver benefit for patients with cancer.
 Authors: Kirkby KJ, Kirkby NF, Burnet NG, Owen H, Mackay RI, Crellin A, Green S
 Journal: The British journal of radiology (2020)
 Identifiers: PMID 33021102; DOI 10.1259/bjr.20200247; PMC PMC7715999 (open access)
@@ -2029,7 +2040,7 @@ Abstract: In the UK, one in two people will develop cancer during their lifetime
 
 ---
 
-## 185. FLASH Radiotherapy: Current Knowledge and Future Insights Using Proton-Beam Therapy.
+## 186. FLASH Radiotherapy: Current Knowledge and Future Insights Using Proton-Beam Therapy.
 Authors: Hughes JR, Parsons JL
 Journal: International journal of molecular sciences (2020)
 Identifiers: PMID 32899466; DOI 10.3390/ijms21186492; PMC PMC7556020 (open access)
@@ -2040,7 +2051,7 @@ Abstract: FLASH radiotherapy is the delivery of ultra-high dose rate radiation s
 
 ---
 
-## 186. Physics and biology of ultrahigh dose-rate (FLASH) radiotherapy: a topical review.
+## 187. Physics and biology of ultrahigh dose-rate (FLASH) radiotherapy: a topical review.
 Authors: Esplen N, Mendonca MS, Bazalova-Carter M
 Journal: Physics in medicine and biology (2020)
 Identifiers: PMID 32721941; DOI 10.1088/1361-6560/abaa28
@@ -2051,7 +2062,7 @@ Abstract: Ultrahigh dose-rate radiotherapy (RT), or 'FLASH' therapy, has gained 
 
 ---
 
-## 187. History and current perspectives on the biological effects of high-dose spatial fractionation and high dose-rate approaches: GRID, Microbeam & FLASH radiotherapy.
+## 188. History and current perspectives on the biological effects of high-dose spatial fractionation and high dose-rate approaches: GRID, Microbeam & FLASH radiotherapy.
 Authors: Griffin RJ, Prise KM, McMahon SJ, Zhang X, Penagaricano J, Butterworth KT
 Journal: The British journal of radiology (2020)
 Identifiers: PMID 32706989; DOI 10.1259/bjr.20200217; PMC PMC7465857 (open access)
@@ -2062,7 +2073,7 @@ Abstract: The effects of various forms of ionising radiation are known to be med
 
 ---
 
-## 188. Novel Radiation Therapy Paradigms and Immunomodulation: Heresies and Hope.
+## 189. Novel Radiation Therapy Paradigms and Immunomodulation: Heresies and Hope.
 Authors: Dutt S, Ahmed MM, Loo BW, Strober S
 Journal: Seminars in radiation oncology (2020)
 Identifiers: PMID 32381299; DOI 10.1016/j.semradonc.2019.12.006; PMC PMC7213065 (open access)
@@ -2073,7 +2084,7 @@ Abstract: Radiation therapy benefits the majority of patients across the spectru
 
 ---
 
-## 189. The future of radiation-induced abscopal response: beyond conventional radiotherapy approaches.
+## 190. The future of radiation-induced abscopal response: beyond conventional radiotherapy approaches.
 Authors: Tubin S, Yan W, Mourad WF, Fossati P, Khan MK
 Journal: Future oncology (London, England) (2020)
 Identifiers: PMID 32338046; DOI 10.2217/fon-2020-0063
@@ -2084,7 +2095,7 @@ Abstract: Advances in the immunological pharmaceuticals, such as checkpoint inhi
 
 ---
 
-## 190. Understanding High-Dose, Ultra-High Dose Rate, and Spatially Fractionated Radiation Therapy.
+## 191. Understanding High-Dose, Ultra-High Dose Rate, and Spatially Fractionated Radiation Therapy.
 Authors: Griffin RJ, Ahmed MM, Amendola B, Belyakov O, Bentzen SM, Butterworth KT, Chang S, Coleman CN et al.
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 32298811; DOI 10.1016/j.ijrobp.2020.03.028
@@ -2095,7 +2106,7 @@ Abstract: The National Cancer Institute's Radiation Research Program, in collabo
 
 ---
 
-## 191. Technology-driven research for radiotherapy innovation.
+## 192. Technology-driven research for radiotherapy innovation.
 Authors: Fiorino C, Guckemberger M, Schwarz M, van der Heide UA, Heijmen B
 Journal: Molecular oncology (2020)
 Identifiers: PMID 32124546; DOI 10.1002/1878-0261.12659; PMC PMC7332218 (open access)
@@ -2106,7 +2117,7 @@ Abstract: Technology has a pivotal role in the continuous development of radioth
 
 ---
 
-## 192. [Biologic effects of high doses per fraction].
+## 193. [Biologic effects of high doses per fraction].
 Authors: Grellier N, Belkacemi Y
 Journal: Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2020)
 Identifiers: PMID 32089502; DOI 10.1016/j.canrad.2019.06.017
@@ -2117,7 +2128,7 @@ Abstract: The radiobiological concepts described for conventional doses per frac
 
 ---
 
-## 193. FLASH and minibeams in radiation therapy: the effect of microstructures on time and space and their potential application to protontherapy.
+## 194. FLASH and minibeams in radiation therapy: the effect of microstructures on time and space and their potential application to protontherapy.
 Authors: Mazal A, Prezado Y, Ares C, de Marzi L, Patriarca A, Miralbell R, Favaudon V
 Journal: The British journal of radiology (2020)
 Identifiers: PMID 32003574; DOI 10.1259/bjr.20190807; PMC PMC7066940 (open access)
@@ -2128,7 +2139,7 @@ Abstract: After years of lethargy, studies on two non-conventional microstructur
 
 ---
 
-## 194. Proton beam therapy: perspectives on the National Health Service England clinical service and research programme.
+## 195. Proton beam therapy: perspectives on the National Health Service England clinical service and research programme.
 Authors: Burnet NG, Mackay RI, Smith E, Chadwick AL, Whitfield GA, Thomson DJ, Lowe M, Kirkby NF et al.
 Journal: The British journal of radiology (2020)
 Identifiers: PMID 31860337; DOI 10.1259/bjr.20190873; PMC PMC7066938 (open access)
@@ -2139,7 +2150,7 @@ Abstract: The UK has an important role in the evaluation of proton beam therapy 
 
 ---
 
-## 195. FLASH radiotherapy: ultra-high dose rates to spare healthy tissue.
+## 196. FLASH radiotherapy: ultra-high dose rates to spare healthy tissue.
 Authors: de Kruijff RM
 Journal: International journal of radiation biology (2020)
 Identifiers: PMID 31829765; DOI 10.1080/09553002.2020.1704912
@@ -2150,7 +2161,7 @@ Abstract: A recent addition to the treatment options in external beam therapy, s
 
 ---
 
-## 196. Ultra-High Dose Rate (FLASH) Radiotherapy: Silver Bullet or Fool's Gold?
+## 197. Ultra-High Dose Rate (FLASH) Radiotherapy: Silver Bullet or Fool's Gold?
 Authors: Wilson JD, Hammond EM, Higgins GS, Petersson K
 Journal: Frontiers in oncology (2019)
 Identifiers: PMID 32010633; DOI 10.3389/fonc.2019.01563; PMC PMC6979639 (open access)
@@ -2161,7 +2172,7 @@ Abstract: Radiotherapy is a cornerstone of both curative and palliative cancer c
 
 ---
 
-## 197. [Flash radiotheray at very high dose-rate: A brief account of the current situation].
+## 198. [Flash radiotheray at very high dose-rate: A brief account of the current situation].
 Authors: Favaudon V
 Journal: Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2019)
 Identifiers: PMID 31420128; DOI 10.1016/j.canrad.2019.07.127
@@ -2172,7 +2183,7 @@ Abstract: In the last decade, major advances in high precision treatment deliver
 
 ---
 
-## 198. Ultra high dose rate Synchrotron Microbeam Radiation Therapy. Preclinical evidence in view of a clinical transfer.
+## 199. Ultra high dose rate Synchrotron Microbeam Radiation Therapy. Preclinical evidence in view of a clinical transfer.
 Authors: Eling L, Bouchet A, Nemoz C, Djonov V, Balosso J, Laissue J, Bräuer-Krisch E, Adam JF et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31307824; DOI 10.1016/j.radonc.2019.06.030
@@ -2183,7 +2194,7 @@ Abstract: This paper reviews the current state of the art of an emerging form of
 
 ---
 
-## 199. Clinical translation of FLASH radiotherapy: Why and how?
+## 200. Clinical translation of FLASH radiotherapy: Why and how?
 Authors: Bourhis J, Montay-Gruel P, Gonçalves Jorge P, Bailat C, Petit B, Ollivier J, Jeanneret-Sozzi W, Ozsahin M et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31253466; DOI 10.1016/j.radonc.2019.04.008
@@ -2194,7 +2205,7 @@ Abstract: Over the past decades, technological advances have transformed radiati
 
 ---
 
-## 200. PHASER: A platform for clinical translation of FLASH cancer radiotherapy.
+## 201. PHASER: A platform for clinical translation of FLASH cancer radiotherapy.
 Authors: Maxim PG, Tantawi SG, Loo BW
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31178058; DOI 10.1016/j.radonc.2019.05.005
@@ -2205,7 +2216,7 @@ Abstract: Pluridirectional high-energy agile scanning electronic radiotherapy (P
 
 ---
 
-## 201. Biological Benefits of Ultra-high Dose Rate FLASH Radiotherapy: Sleeping Beauty Awoken.
+## 202. Biological Benefits of Ultra-high Dose Rate FLASH Radiotherapy: Sleeping Beauty Awoken.
 Authors: Vozenin MC, Hendry JH, Limoli CL
 Journal: Clinical oncology (Royal College of Radiologists (Great Britain)) (2019)
 Identifiers: PMID 31010708; DOI 10.1016/j.clon.2019.04.001; PMC PMC6850216 (open access)
@@ -2216,7 +2227,7 @@ Abstract: FLASH radiotherapy (FLASH-RT) is a technology that could modify the wa
 
 ---
 
-## 202. Revisiting the ultra-high dose rate effect: implications for charged particle radiotherapy using protons and light ions.
+## 203. Revisiting the ultra-high dose rate effect: implications for charged particle radiotherapy using protons and light ions.
 Authors: Wilson P, Jones B, Yokoi T, Hill M, Vojnovic B
 Journal: The British journal of radiology (2012)
 Identifiers: PMID 22496068; DOI 10.1259/bjr/17827549; PMC PMC3474025 (open access)
@@ -2227,7 +2238,7 @@ Abstract: OBJECTIVE: To reinvestigate ultra-high dose rate radiation (UHDRR) rad
 
 ---
 
-## 203. Very high energy electrons (50-250 MeV) and radiation therapy.
+## 204. Very high energy electrons (50-250 MeV) and radiation therapy.
 Authors: Papiez L, DesRosiers C, Moskvin V
 Journal: Technology in cancer research & treatment (2002)
 Identifiers: PMID 12622516; DOI 10.1177/153303460200100202
