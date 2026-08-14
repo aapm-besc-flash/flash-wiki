@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*261 records. Newest first.*
+*259 records. Newest first.*
 
 ---
 
@@ -2735,25 +2735,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Minimizing Contrast Media Dose in CT Pulmonary Angiography with Clinical Photon Counting Using High Pitch Technique.
-
-*Saeed S, Niehoff JH, Boriesosdick J, Michael A, Woeltjen MM, Surov A et al.* — Academic radiology (2024)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** To evaluate the potential to reduce the amount of iodinated contrast media (CM) for computer tomographic pulmonary angiography (CTPA) with a novel photon-counting-detector CT (PCCT). MATERIALS AND METHODS: Overall, 105 patients referred for CTPA were retrospectively included in this study.
-
-
-??? note "Abstract"
-    RATIONALE AND OBJECTIVES: To evaluate the potential to reduce the amount of iodinated contrast media (CM) for computer tomographic pulmonary angiography (CTPA) with a novel photon-counting-detector CT (PCCT). MATERIALS AND METHODS: Overall, 105 patients referred for CTPA were retrospectively included in this study. CTPA was performed using bolus tracking and high-pitch dual-source scanning (FLASH mode) on a novel PCCT (Naeotom Alpha, Siemens Healthineers). CM (Accupaque 300, GE Healthcare) dose was lowered stepwise following the introduction of the new CT scanner. Thus, patients could be divided into 3 groups as follows: group 1, n = 29, 35 ml of CM; group 2, n = 62, 45 ml of CM and group 3, n = 14, 60 ml of CM. Four readers independently assessed the image quality (Likert-scale 1-5) and adequate assessment of the segmental pulmonary arteries. Additionally, the pulmonary arterial contrast opacification was measured. RESULTS: The subjective image quality was rated highest in group 1 with 4.6 compared to 4.5 (group 2) and 4.1 (group 3) with a significant difference between groups 1 and 3 (p &lt; 0.001) and between groups 2 and 3 (p = 0.003). In all groups, almost all segmental pulmonary arteries could be assessed adequately without significant differences (18.5 vs. 18.7 vs. 18.4). Mean attenuation in the pulmonary trunk did not differ significantly between groups 321 ± 92 HU versus 345 ± 93 HU versus 347 ± 88 HU (p = 0.69). CONCLUSION: Significant CM dose reduction is possible without a reduction in image quality. PCCT enables diagnostic CTPA with 35 ml of CM.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37393176/) · [DOI](https://doi.org/10.1016/j.acra.2023.05.018)
-
-
----
-
 ### A Prototype Scintillator Real-Time Beam Monitor for Ultra-high Dose Rate Radiotherapy.
 
 *Levin DS, Friedman PS, Ferretti C, Ristow N, Tecchio M, Litzenberg DW et al.* — ArXiv (2024)  
@@ -3325,25 +3306,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36843383/) · [DOI](https://doi.org/10.1002/mp.16315) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10479975/)
-
-
----
-
-### Influence of heart rate and heart rate variability on the feasibility of ultra-fast, high-pitch coronary photon-counting computed tomography angiography.
-
-*Rotkopf LT, Froelich MF, Riffel P, Ziener CH, Reid C, Schlemmer HP et al.* — The international journal of cardiovascular imaging (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Coronary computed tomography angiography has become a mainstay in diagnosing coronary artery disease and is increasingly used in screening symptomatic patients. Recently, photon-counting computed tomography (PCCT) has been introduced into clinical practice, offering higher spatial and temporal resolution.
-
-
-??? note "Abstract"
-    Coronary computed tomography angiography has become a mainstay in diagnosing coronary artery disease and is increasingly used in screening symptomatic patients. Recently, photon-counting computed tomography (PCCT) has been introduced into clinical practice, offering higher spatial and temporal resolution. As the applied radiation dose is highly dependent on the choice of scan mode and is lowest using the ultra-fast high-pitch (FLASH) mode, guidelines for their application are needed. From a retrospective study investigating the properties of a novel photon-counting computed tomography, all patients who underwent FLASH-mode PCCT angiography were selected between January and April 2022. This resulted in a study population of 46 men and 27 women. We recorded pre- and intrascan ECG readings and calculated heart rate (maximum heart rate 73 bpm) as well heart rate variability (maximum HRV 37 bpm) as measured by the standard deviation of the heart rate. Diagnostic quality and motion artifacts scores were recorded for each coronary artery segment by consensus between two readers. We found a highly significant association between heart rate variability and image quality (p &lt; 0.001). The heart rate itself was not independently associated with image quality. Both heart rate and heart rate variability were significantly associated with the presence of motion artifacts in a combined model. Scan heart rate variability-but not heart rate itself-is a highly significant predictor of reduced image quality on high-pitch coronary photon-counting computed tomography angiography. This may be due to better scanner architecture and an increased temporal resolution compared to conventional energy-integrating detector computed tomography, which has to be addressed in a comparison study in the future.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36773035/) · [DOI](https://doi.org/10.1007/s10554-023-02808-y) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10160151/)
 
 
 ---

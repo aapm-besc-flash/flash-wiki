@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Modeling & Mechanisms
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 172 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 171 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -1732,18 +1732,7 @@ Abstract: Second-order rate constants k(2) for the reactions of various donor- a
 
 ---
 
-## 158. Extracting atomic numbers and electron densities from a dual source dual energy CT scanner: experiments and a simulation model.
-Authors: Landry G, Reniers B, Granton PV, van Rooijen B, Beaulieu L, Wildberger JE, Verhaegen F
-Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2011)
-Identifiers: PMID 21924780; DOI 10.1016/j.radonc.2011.08.029
-URL: https://pubmed.ncbi.nlm.nih.gov/21924780/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: BACKGROUND AND PURPOSE: Dual energy CT (DECT) imaging can provide both the electron density ρ(e) and effective atomic number Z(eff), thus facilitating tissue type identification. This paper investigates the accuracy of a dual source DECT scanner by means of measurements and simulations. Previous simulation work suggested improved Monte Carlo dose calculation accuracy when compared to single energy CT for low energy photon brachytherapy, but lacked validation. As such, we aim to validate our DECT simulation model in this work. MATERIALS AND METHODS: A cylindrical phantom containing tissue mimicking inserts was scanned with a second generation dual source scanner (SOMATOM Definition FLASH) to obtain Z(eff) and ρ(e). A model of the scanner was designed in ImaSim, a CT simulation program, and was used to simulate the experiment. RESULTS: Accuracy of measured Z(eff) (labelled Z) was found to vary from -10% to 10% from low to high Z tissue substitutes while the accuracy on ρ(e) from DECT was about 2.5%. Our simulation reproduced the experiments within ±5% for both Z and ρ(e). CONCLUSIONS: A clinical DECT scanner was able to extract Z and ρ(e) of tissue substitutes. Our simulation tool replicates the experiments within a reasonable accuracy.
-
----
-
-## 159. Decay of cystalline order and equilibration during the solid-to-plasma transition induced by 20-fs microfocused 92-eV free-electron-laser pulses.
+## 158. Decay of cystalline order and equilibration during the solid-to-plasma transition induced by 20-fs microfocused 92-eV free-electron-laser pulses.
 Authors: Galtier E, Rosmej FB, Dzelzainis T, Riley D, Khattak FY, Heimann P, Lee RW, Nelson AJ et al.
 Journal: Physical review letters (2011)
 Identifiers: PMID 21599370; DOI 10.1103/PhysRevLett.106.164801
@@ -1754,7 +1743,7 @@ Abstract: We have studied a solid-to-plasma transition by irradiating Al foils w
 
 ---
 
-## 160. Damage mechanisms of MoN/SiN multilayer optics for next-generation pulsed XUV light sources.
+## 159. Damage mechanisms of MoN/SiN multilayer optics for next-generation pulsed XUV light sources.
 Authors: Sobierajski R, Bruijn S, Khorsand AR, Louis E, van de Kruijs RW, Burian T, Chalupsky J, Cihelka J et al.
 Journal: Optics express (2011)
 Identifiers: PMID 21263557; DOI 10.1364/OE.19.000193
@@ -1765,7 +1754,7 @@ Abstract: We investigated the damage mechanism of MoN/SiN multilayer XUV optics 
 
 ---
 
-## 161. Mechanistic and energetic aspects of the thermal and photochemical redox chemistry of the octanuclear cubane complexes, Fe(III)(8)(mu(4)-O(4))(mu-pyrazolate)(12)X(4) (X = Cl or Br).
+## 160. Mechanistic and energetic aspects of the thermal and photochemical redox chemistry of the octanuclear cubane complexes, Fe(III)(8)(mu(4)-O(4))(mu-pyrazolate)(12)X(4) (X = Cl or Br).
 Authors: Ferraudi G, Piñero D, Chakraborty I, Raptis RG, Lappin AG, Berlin N
 Journal: The journal of physical chemistry. A (2010)
 Identifiers: PMID 20394449; DOI 10.1021/jp911644e
@@ -1776,7 +1765,7 @@ Abstract: The mechanisms of the thermal and photochemical redox reactions of clu
 
 ---
 
-## 162. Visualizing changes in electron distribution in coupled chains of cytochrome bc(1) by modifying barrier for electron transfer between the FeS cluster and heme c(1).
+## 161. Visualizing changes in electron distribution in coupled chains of cytochrome bc(1) by modifying barrier for electron transfer between the FeS cluster and heme c(1).
 Authors: Cieluch E, Pietryga K, Sarewicz M, Osyczka A
 Journal: Biochimica et biophysica acta (2010)
 Identifiers: PMID 19917265; DOI 10.1016/j.bbabio.2009.11.003; PMC PMC2807467 (open access)
@@ -1787,7 +1776,7 @@ Abstract: Cytochrome c(1) of Rhodobacter (Rba.) species provides a series of mut
 
 ---
 
-## 163. Evidence for inverted region behavior in proton transfer to carbanions.
+## 162. Evidence for inverted region behavior in proton transfer to carbanions.
 Authors: Andrieux CP, Gamby J, Hapiot P, Savéant JM
 Journal: Journal of the American Chemical Society (2003)
 Identifiers: PMID 12914476; DOI 10.1021/ja035268f
@@ -1798,7 +1787,7 @@ Abstract: The diphenylmethane-diphenylmethyl anion acid/base couple in N,N-dimet
 
 ---
 
-## 164. Dynamics of proton transfer at nonactivated carbons from laser flash electron photoinjection experiments.
+## 163. Dynamics of proton transfer at nonactivated carbons from laser flash electron photoinjection experiments.
 Authors: Gamby J, Hapiot P, Savéant JM
 Journal: Journal of the American Chemical Society (2002)
 Identifiers: PMID 12137524; DOI 10.1021/ja026804r
@@ -1809,7 +1798,7 @@ Abstract: The investigation of proton exchange dynamics at carbon atoms has been
 
 ---
 
-## 165. Laser flash photolysis evidence for styryl radical cation cyclization in the SET-induced photorearrangement of a p-methoxy-substituted 2-phenylallyl phosphite.
+## 164. Laser flash photolysis evidence for styryl radical cation cyclization in the SET-induced photorearrangement of a p-methoxy-substituted 2-phenylallyl phosphite.
 Authors: Shukla D, Lu C, Schepp NP, Bentrude WG, Johnston LJ
 Journal: The Journal of organic chemistry (2000)
 Identifiers: PMID 10987955; DOI 10.1021/jo0006775
@@ -1820,7 +1809,7 @@ Abstract: The SET-induced photorearrangement of dimethyl 2-(4-methoxyphenyl)ally
 
 ---
 
-## 166. Comparison of Na+/K(+)-ATPase pump currents activated by ATP concentration or voltage jumps.
+## 165. Comparison of Na+/K(+)-ATPase pump currents activated by ATP concentration or voltage jumps.
 Authors: Friedrich T, Nagel G
 Journal: Biophysical journal (1997)
 Identifiers: PMID 9199783; DOI 10.1016/S0006-3495(97)78059-7; PMC PMC1180920 (open access)
@@ -1831,7 +1820,7 @@ Abstract: Using the giant patch technique, we combined two fast relaxation metho
 
 ---
 
-## 167. Adjuvant postoperative radiotherapy in rectal cancer: 148 cases treated at Florence University with 8 years median follow-up.
+## 166. Adjuvant postoperative radiotherapy in rectal cancer: 148 cases treated at Florence University with 8 years median follow-up.
 Authors: Cionini L, Marzano S, Boffi L, Cardona G, Ficari F, Fucini C, Tonelli F
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (1996)
 Identifiers: PMID 8884966; DOI 10.1016/0167-8140(96)01775-6
@@ -1842,7 +1831,7 @@ Abstract: BACKGROUND AND PURPOSE: To analyse the outcome, the treatment related 
 
 ---
 
-## 168. Mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) Formation in 350 nm Flash Irradiations of Re(2)(CO)(10).
+## 167. Mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) Formation in 350 nm Flash Irradiations of Re(2)(CO)(10).
 Authors: Sarakha M, Cozzi M, Ferraudi G
 Journal: Inorganic chemistry (1996)
 Identifiers: PMID 11666567; DOI 10.1021/ic951483o
@@ -1853,7 +1842,7 @@ Abstract: The mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) formation upon U
 
 ---
 
-## 169. Irradiation of mammalian cells in the presence of diamide and low concentrations of oxygen at conventional and at ultrahigh dose rates.
+## 168. Irradiation of mammalian cells in the presence of diamide and low concentrations of oxygen at conventional and at ultrahigh dose rates.
 Authors: Clark EP, Michaels HB, Peterson EC, Epp ER
 Journal: Radiation research (1983)
 Identifiers: PMID 6856753
@@ -1864,7 +1853,7 @@ Abstract: The response of cultured CHO cells to ultrahigh-dose-rate radiation (a
 
 ---
 
-## 170. Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
+## 169. Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
 Authors: Michaels HB
 Journal: International journal of radiation oncology, biology, physics (1982)
 Identifiers: PMID 7107363; DOI 10.1016/0360-3016(82)90653-8
@@ -1875,7 +1864,7 @@ Abstract: When CHO cells are equilibrated with a low level of oxygen (e.g. 0.4% 
 
 ---
 
-## 171. Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
+## 170. Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
 Authors: Ling CC
 Journal: Radiation research (1975)
 Identifiers: PMID 1099609
@@ -1886,7 +1875,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 172. Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
+## 171. Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
 Authors: Weiss H, Epp ER, Heslin JM, Ling CC, Santomasso A
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1974)
 Identifiers: PMID 4607987; DOI 10.1080/09553007414550901

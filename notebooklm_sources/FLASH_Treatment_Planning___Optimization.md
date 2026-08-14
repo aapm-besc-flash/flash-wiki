@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Treatment Planning & Optimization
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 55 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 54 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -588,18 +588,7 @@ Abstract: Background: This study aimed at evaluating spatially varying instantan
 
 ---
 
-## 54. Radiotherapy treatment planning of prostate cancer using magnetic resonance imaging alone.
-Authors: Lee YK, Bollet M, Charles-Edwards G, Flower MA, Leach MO, McNair H, Moore E, Rowbottom C et al.
-Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2003)
-Identifiers: PMID 12648793; DOI 10.1016/s0167-8140(02)00440-1
-URL: https://pubmed.ncbi.nlm.nih.gov/12648793/
-Category: Treatment Planning & Optimization | Tags: Treatment Planning & Optimization, Clinical & Translational
-
-Abstract: PURPOSE: Accurate anatomical delineation of the gross tumour volume (GTV) is crucial for effective radiotherapy (RT) treatment of prostate cancers. Although reference to pelvic magnetic resonance (MR) for improved delineation of the prostate is a regular practice in some clinics, MR has not replaced CT due to its geometrical distortions and lack of electron-density information. The possibility and practicality of using MR only for RT treatment planning were studied. MATERIALS AND METHODS: The addition of electron-density information to MR images for conformal radiotherapy (CRT) planning of the prostate was quantified by comparing dose distributions created on the homogeneous density- and bulk-density assigned images to original CT for four patients. To quantify the MR geometrical distortions measurements of a phantom imaged in CT (Siemens Somatom Plus 4) and FLASH 3D T1-weighted MR (1.5 T whole body Siemens Magnetom Vision) were compared. Dose statistics from CRT treatment plans made on CT and MR for five patient data were compared to determine if MR-only treatment plans can be made. RESULTS: The differences between dose-plans on bulk-density assigned images when compared to CT were less than 2% when water and bone values were assigned. Dose differences greater than 2% were observed when images of homogeneous-density assignment were compared to the CT. Phantom measurements showed that the distortions in the FLASH 3D T1-weighted MR averaged 2 mm in the volume of interest for prostate RT planning. For the CT and MR prostate planning study, doses delivered to the planning target volume (PTV) in CT and MR were always inside a 93-107% dose range normalised to the isocentre. Also, the doses to the organs-at-risk in the MR images were similar to the doses delivered to the volumes in the registered CT image when the organ volumes between the two images were similar. CONCLUSIONS: Negligible differences were observed in dose distribution between CRT plans using bone+water CT number bulk-assigned image and original CT. Also, the MR distortions were reduced to negligible amounts using large bandwidth MR sequence for prostate CRT planning. MR treatment planning was demonstrated using a large bandwidth sequence and bulk-assigned images. The development of higher quality, low distortion MR sequence will allow regular practice of this technique.
-
----
-
-## 55. Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.
+## 54. Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.
 Authors: Yeboah C, Sandison GA
 Journal: Physics in medicine and biology (2002)
 Identifiers: PMID 12164585; DOI 10.1088/0031-9155/47/13/305
