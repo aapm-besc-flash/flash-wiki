@@ -12,6 +12,18 @@ Re-run any time to refresh the living document (idempotent; dedup by PMID).
 Add NCBI_API_KEY env var to raise the rate limit to 10 req/s.
 
 Usage:  python3 pipeline/flash_harvest.py   (run from the folder root)
+
+--------------------------------------------------------------------
+REVISION 2026-08-13 - three changes, see the marked blocks below:
+  [FIX 1] parse_article() read identifiers from the wrong part of the XML,
+          so 503 DOIs and 672 PMC links in the 2026-08 corpus pointed at
+          other people's papers. This is the important one.
+  [FIX 2] QUERY: removed 5 redundant hyphenation variants (PubMed folds
+          punctuation, verified by esearch counts). Recall unchanged.
+  [FIX 3] Two precision gates added downstream: spatially-fractionated RT
+          declared in the title, and removal of the rad-signal escape
+          hatch from the ultra-high-dose-rate signature gate.
+--------------------------------------------------------------------
 """
 import os, sys, time, json, csv, re, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
@@ -64,16 +76,37 @@ API_KEY = _load_api_key()
 # very papers the modern field cites as its origin. ~250 records carry only the
 # plural form. Any new phrase added below must be added in both numbers.
 #
+# HYPHENS ARE NOT SIGNIFICANT. [FIX 2, 2026-08-13] PubMed folds hyphens and
+# other punctuation to whitespace when it indexes phrases, so the hyphenation
+# variants that used to be listed here were exact duplicates. Verified by
+# esearch count on 2026-08-13:
+#     "ultra-high dose rate"[tiab]   614
+#     "ultra high dose rate"[tiab]   614
+#     "ultra high dose-rate"[tiab]   614
+#     "ultra-high-dose-rate"[tiab]   614
+#     "ultra-high dose rates"[tiab]  206
+#     "ultra high dose-rates"[tiab]  206
+#     "ultrahigh dose-rates"[tiab]    46   <- genuinely different token
+# Only two axes actually matter: the closed compound "ultrahigh" versus the
+# open "ultra high", and singular versus plural. That is 4 phrases, not 9.
+# Do not re-add hyphenation variants; they cost readability and buy nothing.
+#
 # VHEE is included explicitly: very-high-energy-electron papers frequently never
 # use the words "FLASH" or "ultra-high dose rate" in title/abstract, so the rest
 # of this query cannot see them.
-QUERY = (
+#
+# The broad final clause stays deliberately loose. Narrowing it was considered
+# on 2026-08-13 and rejected: dropping "radiotherapy" and "irradiation" as
+# sufficient partners for the bare FLASH token would have removed 125 records
+# (9%) from the corpus, including genuine papers that mention the modality only
+# once. This pipeline's contract is high recall in the query and precision in
+# the screening gates below, where every rejection is written to
+# flash_screened_out.csv with a reason and can be reversed by one line in
+# CURATOR_OVERRIDES. That contract is deliberate. Tune the gates, not the query.
+ARM_A = (
     '("ultra-high dose rate"[tiab] OR "ultrahigh dose rate"[tiab] OR '
-    '"ultra high dose rate"[tiab] OR "ultra-high dose-rate"[tiab] OR '
-    '"ultrahigh dose-rate"[tiab] OR '
-    # --- plural forms of the above ---
+    # --- plural forms of the above (see note: plurals are separate tokens) ---
     '"ultra-high dose rates"[tiab] OR "ultrahigh dose rates"[tiab] OR '
-    '"ultra high dose rates"[tiab] OR "ultra-high dose-rates"[tiab] OR '
     # --- named modality ---
     '"FLASH radiotherapy"[tiab] OR "FLASH-RT"[tiab] OR '
     '"FLASH radiation"[tiab] OR "FLASH irradiation"[tiab] OR "FLASH effect"[tiab] OR '
@@ -85,9 +118,66 @@ QUERY = (
     '("FLASH"[tiab] AND ("dose rate"[tiab] OR "radiotherapy"[tiab] OR '
     '"radiation therapy"[tiab] OR "irradiation"[tiab] OR "Gy/s"[tiab] OR '
     '"conventional dose rate"[tiab])))'
-)  # High-recall query. Materials-science / photochemistry "flash" homonyms that
-   # slip through the broad fallback are caught downstream by the relevance gate
-   # (see categorize()) and routed to flash_screened_out.csv for human audit.
+)
+
+# [ADDED 2026-08-13, WG lead] Modality-token AND radiation-context block.
+#
+# What it buys that ARM_A does not:
+#   - UHDR[tiab] as a standalone token (316 records; ARM_A never had it)
+#   - the eFLASH / pFLASH / UHDR-RT abbreviations (16 / 10 / 18 records)
+#   - truncation inside the phrase, which DOES work in PubMed and folds the
+#     singular/plural pair into one term:
+#         "ultra high dose rate"[tiab]    614
+#         "ultra high dose rate*"[tiab]   709
+#         "ultrahigh dose rate*"[tiab]    141
+#     ("ultra fast dose rate*" returns 1 and "ultrafast dose rate*" returns 0
+#      today, but both are cheap to carry and may populate later.)
+#
+# ARM_A is kept and OR'd, not replaced. Measured 2026-08-13: this block alone
+# misses 83 records that ARM_A retrieves, 72 of which survive screening and 28
+# of which are VHEE papers - the VHEE literature routinely never writes "FLASH"
+# or "UHDR" at all, so a query whose left side requires a modality token cannot
+# see it. Dropping ARM_A would cost those 72 records.
+#
+# Cost of adding this block, measured against the gates below: 294 newly
+# retrieved records, of which 247 screen out and 47 are admitted. 17 of those 47
+# are Fast Low Angle SHot MRI/CT papers - a homonym class this corpus had never
+# been exposed to before, because ARM_A never paired a bare FLASH token with a
+# generic radiation term. See MR_FLASH_RX below, which is not optional now that
+# this block is in the query.
+#
+# As first drafted this block also carried `radiation[tiab]` as a context term.
+# It was removed the same day: it retrieved 721 rather than 294, admitted 135
+# rather than 47, and contributed 18 of the 35 FLASH-MRI records, while adding
+# no paper the block was added for. See the note in the context list below.
+ARM_B = (
+    '(('
+    'FLASH[tiab] OR eFLASH[tiab] OR pFLASH[tiab] OR "FLASH-RT"[tiab] OR '
+    'UHDR[tiab] OR "UHDR-RT"[tiab] OR '
+    '"ultra high dose rate*"[tiab] OR "ultra-high dose rate*"[tiab] OR '
+    '"ultrahigh dose rate*"[tiab] OR '
+    '"ultra fast dose rate*"[tiab] OR "ultrafast dose rate*"[tiab]'
+    ') AND ('
+    # NOTE: bare `radiation[tiab]` was deliberately removed from this list on
+    # 2026-08-13. It is not a context term - it matches essentially every
+    # radiology paper in MEDLINE, and paired with a bare FLASH token it was
+    # responsible for most of the Fast Low Angle SHot MR/CT intake. Removing it
+    # takes newly retrieved records from 721 to 294 and newly admitted from 135
+    # to 47, without dropping a single record the block was added for. The
+    # specific radiotherapy vocabulary below plus the four MeSH terms carry the
+    # recall. Do not re-add it.
+    'radiotherap*[tiab] OR "radiation therap*"[tiab] OR irradiat*[tiab] OR '
+    'radiobiolog*[tiab] OR dosimetr*[tiab] OR '
+    '"Radiotherapy"[mh] OR "Radiotherapy Dosage"[mh] OR '
+    '"Radiotherapy, High-Energy"[mh] OR "Radiation Dosage"[mh]'
+    '))'
+)
+
+QUERY = f"({ARM_A} OR {ARM_B})"
+# High-recall query. Materials-science / photochemistry / MR-imaging "flash"
+# homonyms that slip through are caught downstream by the relevance gates
+# (see categorize()) and routed to flash_screened_out.csv for human audit.
+# Retrieval on 2026-08-13: ARM_A 2,138 | ARM_B 2,776 | union 2,859.
 
 def _url(endpoint, **params):
     params.update(tool=TOOL, email=EMAIL)
@@ -260,6 +350,11 @@ HARD_OFFTOPIC_ANY = [
     "vanadium electroly", "redox flow batter",
     # virtual-bolus breast planning (the "flash" there is a field extension)
     "virtual bolus",
+    # [FIX 3, 2026-08-13] radiation-induced visual phosphenes. Patients on
+    # proton and photon beams report seeing "light flashes"; those papers are
+    # about the visual phenomenon, not the modality, and they carry heavy
+    # radiotherapy vocabulary so no other gate catches them.
+    "light flash", "light flashes", "visual flash", "phosphene",
 ]
 
 # Radiotherapy *aperture* flash — "skin flash", "auto flash", "flash margin" —
@@ -271,6 +366,31 @@ HARD_OFFTOPIC_ANY = [
 APERTURE_FLASH_RX = re.compile(
     r"\b(?:skin|auto|pseudo|integrated|manual)[\s\-](?!FLASH\b)[Ff]lash\b"
     r"|(?<!FLASH )\b[Ff]lash\s+margin\b"
+)
+
+# ------------------- FLASH = Fast Low Angle SHot (MR imaging) -----------------
+# [ADDED 2026-08-13] FLASH is also the name of a spoiled gradient-echo MR pulse
+# sequence, and "Turbo FLASH" is a Siemens CT/MR acquisition mode. Those papers
+# are radiology, and they are the hardest homonym in this corpus to screen
+# because they legitimately discuss radiation dose, dosimetry and irradiation -
+# every relevance signal fires, and the all-caps FLASH token rescues them from
+# the UHDR-signature gate.
+#
+# ARM_A never surfaced them (it required FLASH beside a radiotherapy noun).
+# ARM_B does: 35 of the 135 records ARM_B newly admits are FLASH-MRI/CT, and 23
+# were already sitting in the published corpus - MR thermometry, 4D-MRI tumour
+# motion, DCE-MRI of glioblastoma, breast MR diagnosis.
+#
+# Structured like the aperture-flash gate: screen only when there is no
+# ultra-high-dose-rate signature anywhere in the record. A genuine UHDR paper
+# that happens to acquire FLASH-sequence images is kept.
+MR_FLASH_RX = re.compile(
+    r"\bturbo[\s\-]?flash\b|fast low angle shot"
+    r"|\bflash\b[^.]{0,30}\b(sequence|sequences|mri|magnetic resonance"
+        r"|angiograph|gradient[\s\-]echo|turbo spin)\b"
+    r"|\b(mri|magnetic resonance|angiograph|gradient[\s\-]echo)\b"
+        r"[^.]{0,30}\bflash\b",
+    re.I,
 )
 
 # Flash X-ray: the historical pulsed ultra-high-dose-rate lineage the WG tracks.
@@ -305,6 +425,42 @@ HARD_OFFTOPIC_TITLE = [
     "superparamagnetic iron oxide", "uspio",
     "flash burn", "extreme heat and cold",
 ]
+
+# -------------------- Spatially fractionated radiotherapy ---------------------
+# [FIX 3, 2026-08-13] Minibeam, microbeam, GRID and lattice radiotherapy are a
+# separate unconventional-RT field. They share this corpus's vocabulary almost
+# word for word - synchrotron sources, sub-millisecond delivery, peak-to-valley
+# dosimetry, normal-tissue sparing - so every gate above passes them, and the
+# broad FLASH clause of the query catches any that mention a FLASH linac once.
+#
+# The rule is deliberately narrow: screen ONLY when a spatial-fractionation term
+# appears in the TITLE and no ultra-high-dose-rate term appears in the title.
+# A paper titled "FLASH proton minibeam radiotherapy" is squarely in scope and
+# is kept; "...investigation of electron and proton minibeams in the framework
+# of the INFN MIRO project" is a minibeam paper that happens to mention UHDR in
+# its abstract, and is not.
+#
+# Measured against the 2026-08-12 corpus: 49 records carry a spatial term in the
+# title, 29 of them also carry a UHDR term and are kept, 20 are screened. All 20
+# land in flash_screened_out.csv with a reason and can be reinstated with one
+# line in CURATOR_OVERRIDES. The synchrotron-microbeam papers in that set are
+# the ones worth a curator's eye - MRT is delivered at very high dose rates and
+# the WG may want it tracked deliberately rather than incidentally.
+SPATIAL_RX = re.compile(
+    r"minibeam|mini[\s\-]beam|microbeam|micro[\s\-]beam"
+    r"|spatially[\s\-]fractionat|\bsfrt\b|\bpmbrt\b|\bmbrt\b"
+    r"|grid therapy|grid radiotherap|grid[\s\-]based radiat"
+    r"|lattice radiotherap|lattice therapy",
+    re.I,
+)
+# UHDR vocabulary as it would appear in a TITLE (looser than UHDR_RX below:
+# a bare "FLASH" in a title is a reliable in-scope signal).
+UHDR_TITLE_RX = re.compile(
+    r"ultra[\s\-]?high[\s\-]dose[\s\-]?rate|\buhdr\b|\bflash\b"
+    r"|\bgy\s*/\s*s\b|dose[\s\-]per[\s\-]pulse"
+    r"|very[\s\-]high[\s\-]energy electron|\bvhee\b",
+    re.I,
+)
 
 # A genuine FLASH-RT record carries an explicit ultra-high-dose-rate signature:
 # either a UHDR phrase, or the token "FLASH" bound to a radiotherapy noun.
@@ -345,6 +501,10 @@ CURATOR_OVERRIDES = {
     "33667077": None,  # Ethynylhydroxycarbene (physical chemistry)
     "40503425": None,  # VMAT breast "skin flash" planning (aperture flash, not UHDR)
     "12999656": None,  # 1952 thermal flash-burn skin physiology
+    # Note (2026-08-13): PMID 42547911, the INFN MIRO minibeam paper reported by
+    # the WG lead, is NOT listed here on purpose. It is now screened by the
+    # SPATIAL_RX rule above, which generalizes to the other 19 minibeam/GRID
+    # records rather than adjudicating one PMID at a time.
     # --- forced re-categorizations ---
     "13663981": "Beam Delivery & Technology",  # X-ray flash tube, ultrahigh dosage (1959)
     "5307280":  "Radiobiology",  # Repair time of chromosome breaks, pulsed x-rays UHDR
@@ -404,10 +564,21 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
     if m and not UHDR_RX.search(text):
         return _screened(f"aperture/planning 'flash': {m.group(0).strip()}")
 
+    # --- hard gate 2b: FLASH as the MR pulse sequence / CT acquisition mode ---
+    m = MR_FLASH_RX.search(raw)
+    if m and not UHDR_RX.search(text):
+        return _screened(f"MR/CT 'FLASH' sequence: {m.group(0).strip()[:40]}")
+
     # --- hard gate 3: off-topic subject declared in the title ---
     hits = [k for k in HARD_OFFTOPIC_TITLE if k in tl]
     if hits:
         return _screened(f"off-topic title subject: {hits[0]}")
+
+    # --- hard gate 4: spatially fractionated RT declared in the title, with no
+    # ultra-high-dose-rate term in the title. [FIX 3, 2026-08-13] ---
+    m = SPATIAL_RX.search(title or "")
+    if m and not UHDR_TITLE_RX.search(title or ""):
+        return _screened(f"spatially fractionated RT, not UHDR: {m.group(0).strip()}")
 
     # --- soft gate: homonym vocabulary with no radiation signal whatsoever ---
     rad = relevance(text)
@@ -418,10 +589,26 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
     # --- UHDR signature gate: records that reached us only through the loose
     # FLASH[tiab] AND (dose rate | radiotherapy | ...) arm of the query, with no
     # ultra-high-dose-rate signature anywhere, are the classic false positives.
-    # The radiation-signal floor keeps borderline radiation-oncology papers in
-    # the corpus for human review rather than silently discarding them. ---
+    #
+    # [FIX 3, 2026-08-13] The old version of this gate carried an escape hatch:
+    # a record with no UHDR signature at all was still admitted if it scored 2 or
+    # more generic radiation-vocabulary hits. Because RAD_SIGNAL contains terms
+    # as common as "radiotherap" and "radiation dose", that floor admitted any
+    # radiation-oncology paper that used the word "flash" once in prose - 49
+    # records in the 2026-08-12 corpus, among them "Role of PET in Radiation
+    # Oncology", "Immunomodulatory Effects of Radiotherapy" and "Hypofractionation
+    # in Glioblastoma". None of them concerns ultra-high dose rate.
+    #
+    # A genuine ultra-high-dose-rate paper always says so somewhere in title or
+    # abstract, and the two rescues below - the all-caps FLASH token and the
+    # historical flash-X-ray lineage - cover the records that predate the modern
+    # vocabulary. Nothing is deleted: failures go to flash_screened_out.csv with
+    # this reason, and a curator reinstates any wrongly rejected paper through
+    # CURATOR_OVERRIDES. Two in that set of 49 are worth checking on the first
+    # run - the Geant4 water-radiolysis scavenging paper and the
+    # unconventional-radiotherapy-techniques review. ---
     if (not UHDR_RX.search(text) and not FLASH_ACRONYM_RX.search(raw)
-            and not FLASH_XRAY_RX.search(raw) and rad < 2):
+            and not FLASH_XRAY_RX.search(raw)):
         return _screened(f"no ultra-high-dose-rate signature (rad signal={rad})")
 
     scores = {}
@@ -463,10 +650,63 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
 def txt(el):
     return "".join(el.itertext()).strip() if el is not None else ""
 
+# ----------------------------- Identifier extraction --------------------------
+# [FIX 1, 2026-08-13] THE IMPORTANT ONE. Read the article's identifiers from its
+# OWN <ArticleIdList> and nowhere else.
+#
+# A <PubmedArticle> element contains, in order:
+#     MedlineCitation/            <- PMID, title, abstract, MeSH
+#     PubmedData/ArticleIdList/   <- THIS article's pubmed, doi, pii, pmc ids
+#     PubmedData/ReferenceList/   <- every matched reference, EACH with its own
+#                                    <ArticleIdList> of pubmed/doi/pmc ids
+#
+# The previous implementation searched ".//ArticleId" - an unanchored descendant
+# search over the whole element - and assigned on every match without breaking.
+# So it walked straight through the article's real ids and into the reference
+# list, and the *last* cited reference's DOI and PMC id won.
+#
+# Measured impact on the 2026-08-12 corpus (1,386 records), verified against
+# NCBI esummary on 2026-08-13:
+#     503 records carried the wrong DOI
+#     672 records carried the wrong PMC id
+# Every one of those rendered a "DOI" and "Full text (PMC)" button on the wiki
+# that opened an unrelated paper. The reported case, PMID 42547911 (INFN MIRO,
+# Med Phys), was published with DOI 10.1002/mp.70537 and PMC13433822 but the
+# site linked 10.1038/s41467-024-54591-6 / PMC11814273 - "Functional tissue
+# units in the Human Reference Atlas", Nat Commun.
+#
+# No separate repair of library/ is needed: re-running this harvest rewrites
+# every record from PubMed, so the first clean run fixes all 1,386.
+def _article_ids(art):
+    """Return (doi, pmc) for the article itself, never for its references."""
+    idlist = art.find("./PubmedData/ArticleIdList")
+    if idlist is None:
+        # Defensive fallback. find() returns the FIRST match in document order,
+        # and the article's own list precedes the reference list, so this is
+        # still correct - but prefer the anchored path above.
+        idlist = art.find(".//ArticleIdList")
+    doi = pmc = ""
+    if idlist is not None:
+        for aid in idlist.findall("ArticleId"):
+            t = (aid.get("IdType") or "").lower()
+            if t == "doi" and not doi:
+                doi = txt(aid)
+            elif t == "pmc" and not pmc:
+                pmc = txt(aid)
+    if not doi:
+        # Some records carry the DOI only as an ELocationID on the Article.
+        for el in art.findall("./MedlineCitation/Article/ELocationID"):
+            if (el.get("EIdType") or "").lower() == "doi":
+                doi = txt(el)
+                break
+    return doi, pmc
+
 def parse_article(art):
     def find(p):
         return art.find(p)
-    pmid = txt(find(".//PMID"))
+    # Anchored: the reference list carries PMIDs too. find() would return the
+    # citation's own PMID first either way, but say so explicitly.
+    pmid = txt(find("./MedlineCitation/PMID")) or txt(find(".//PMID"))
     title = txt(find(".//ArticleTitle"))
     # abstract may have multiple labeled sections
     abs_parts = []
@@ -483,14 +723,7 @@ def parse_article(art):
         ln = txt(a.find("LastName")); ini = txt(a.find("Initials"))
         if ln:
             authors.append(f"{ln} {ini}".strip())
-    doi = ""
-    for aid in art.findall(".//ArticleId"):
-        if aid.get("IdType") == "doi":
-            doi = txt(aid)
-    pmc = ""
-    for aid in art.findall(".//ArticleId"):
-        if aid.get("IdType") == "pmc":
-            pmc = txt(aid)
+    doi, pmc = _article_ids(art)
     pubtypes = [txt(pt) for pt in art.findall(".//PublicationType")]
     mesh = [txt(m) for m in art.findall(".//MeshHeading/DescriptorName")]
     primary, tags = categorize(title, abstract, mesh, pubtypes,
