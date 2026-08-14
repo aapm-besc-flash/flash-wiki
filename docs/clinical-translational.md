@@ -2,7 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*48 records. Newest first.*
+*43 records. Newest first.*
 
 ---
 
@@ -20,7 +20,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND/AIM: Head and neck photoimmunotherapy (HN-PIT) using cetuximab sarotalocan sodium requires post-treatment assessment for photosensitivity, but tests using direct sunlight are affected by weather and lack standardization. This study evaluated a simplified artificial irradiator for more consistent light irradiation testing. PATIENTS AND METHODS: This single-center retrospective study analyzed 16 HN-PIT treatments in 8 patients with unresectable locally advanced or recurrent head and neck cancer. On days 6-7 post-treatment, patients underwent both direct sunlight exposure and a simple irradiation test using a FLASH-PAK projector equipped with an R-60 filter to evaluate reactions around the clinically relevant 690 nm wavelength. Erythema and edema were assessed on the day of the test and 1 month later. RESULTS: No photosensitivity reactions occurred with either method, nor were delayed reactions observed. CONCLUSION: The simplified irradiator allows standardized, weather-independent photosensitivity testing after HN-PIT, although further studies are needed to confirm sensitivity and long-term reliability.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42379786/) · [DOI](https://doi.org/10.21873/anticanres.16985) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12384706/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42379786/) · [DOI](https://doi.org/10.21873/invivo.14389) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13322094/)
 
 
 ---
@@ -115,7 +115,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: The FLASH effect is considered being the widening of the therapeutic window at (ultra-)high dose rates due to sparing of normal tissues while preserving tumor response. Our goal was to provide first data on the safety in treating a patient using a conventional linear accelerator converted to deliver 9 MeV UHDR electron beams in the research setting. MATERIAL &amp; METHODS: A conventional Varian TrueBeam linac was converted in the research setting to become capable of delivering 9 MeV UHDR electron beams. A phase I trial protocol was approved by the local authorities (NCT06549439). One patient with ≥ 1 melanoma (sub)-cutaneous lesion(s) was treated with 3x 9 Gy. The first two fractions were applied via e-Flash and the third via conventional electrons. RESULTS: Here we present the experience of the first patient treated with e-Flash in a modified conventional linac. The e-Flash fractions were successfully delivered according to the protocol. The film in-vivo dosimetry confirmed correctness of the delivered dose. A good tumor response without severe or unexpected toxicity was observed up to six weeks after treatment. CONCLUSION: We demonstrate first-in-human application of e-Flash delivered by a modified conventional linear accelerator. Conversion of conventional linacs into e-Flash systems will accelerate testing Flash radiotherapy in clinical trials.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41080989/) · [DOI](https://doi.org/10.1016/j.ctro.2025.101047) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589460/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41080989/) · [DOI](https://doi.org/10.1016/j.ctro.2025.101047) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12509727/)
 
 
 ---
@@ -134,7 +134,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     Ultra-high dose rate FLASH Radiotherapy (FLASH-RT) has attracted wide attention because the well-known FLASH effect and the extremely short irradiation time. During FLASH-RT, high radiation doses and dose rate (usually thousands of times compared with conventional radiotherapy (CONV-RT)) are delivered to the tumor area. This novel irradiation technique shows a reduction of normal tissue injury (20-40%) in comparison to CONV-RT. Meanwhile, FLASH-RT maintaining comparable tumor killing effect as CONV-RT. With the progress of basic research on FLASH-RT in reducing radiation-induced injury to normal tissues, clinical trials of FLASH-RT have been carried out across the world. To date, there is no consensus in China focused on the exploration of clinical transformation and application of electron FLASH-RT. Therefore, the China Anti-Cancer Association Radiation Oncology Committee and the Chinese Medical Doctor Association Radiation Oncology Physician Committee gathered a group of experts together to develop this consensus statement. The authors discuss their current views on electron FLASH-RT, demonstrate the unresolved questions, provide insights for the further application of this technology in clinical practice.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41163974/) · [DOI](https://doi.org/10.1002/pro6.70001) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10526970/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41163974/) · [DOI](https://doi.org/10.1002/pro6.70001) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12559927/)
 
 
 ---
@@ -153,26 +153,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: Research on ultra-high dose rate (UHDR) radiation therapy has indicated its potential to spare normal tissue while maintaining equivalent tumor control compared to conventional treatments. First clinical trials are underway. The randomized phase II/III FEATHER clinical trial at the Paul Scherrer Institute in collaboration with the University of Zurich Animal Hospital is one of the first curative domestic animal trials to be attempted, and it is designed to provide a good example for human trials. However, the lack of standardized quality assurance (QA) guidelines for FLASH clinical trials presents a significant challenge in trial design. PURPOSE: This work aims to demonstrate the development and testing of QA and reporting procedures implemented in the FEATHER clinical trial. METHODS: We have expanded the clinical QA program to include UHDR-specific QA and additional patient-specific QA. Furthermore, we have modified the monitor readout to enable time-resolved measurements, allowing delivery log files to be used for dose and dose rate recalculations. Finally, we developed a reporting strategy encompassing relevant parameters for retrospective studies. RESULTS: We evaluated our QA and reporting procedures with simulated treatments. This testing confirmed that our QA procedures effectively ensure the correct and safe delivery of the planned dose (3%/3 mm gamma criteria, pass &gt; 90%). Additionally, we demonstrated that we could reconstruct the delivered dose and dose rate using the delivery log files. CONCLUSION: We developed and used in practice a comprehensive QA and reporting protocol for a FLASH clinical trial at the Paul Scherrer Institute. This work aims to establish guidelines and standardize reporting practices for future advancements in the FLASH-RT field.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40904039/) · [DOI](https://doi.org/10.5281/zenodo.10886631) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12149695/)
-
-
----
-
-### Clinical decision-making for uveal melanoma radiotherapy: comparative performance of experienced radiation oncologists and leading generative AI models.
-
-*Wang X, Wang P* — Frontiers in oncology (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Uveal melanoma is the most common primary intraocular malignancy in adults, yet radiotherapy decision-making for this disease often remains complex and variable. Although emerging generative AI models have shown promise in synthesizing vast clinical information, few studies have systematically compared their performance against experienced radiation oncologists in this specialized domain.
-
-
-??? note "Abstract"
-    BACKGROUND: Uveal melanoma is the most common primary intraocular malignancy in adults, yet radiotherapy decision-making for this disease often remains complex and variable. Although emerging generative AI models have shown promise in synthesizing vast clinical information, few studies have systematically compared their performance against experienced radiation oncologists in this specialized domain. This study examined the comparative accuracy of three leading generative AI models and experienced radiation oncologists in guideline-based clinical decision-making for uveal melanoma. METHODS: A structured, 20-question examination reflecting standard radiotherapy guidelines was developed. Fifty radiation oncologists, each with 10-15 years of experience, completed an open-book exam following a 15-day standardized review. Meanwhile, Grok 3 (Think), Gemini 2.0 Flash Thinking, and Open ai o1 pro were each tested through 10 independent chat sessions. Twelve recognized experts in uveal melanoma, blinded to the source of each submission, scored all answer sets. Kruskal-Wallis tests with post hoc comparisons were conducted to evaluate group-level differences in total and domain-specific performance. RESULTS: Of the 80 total sets (50 from oncologists, 30 from AI), Open ai o1 pro achieved the highest mean total score (98.0 ± 1.9), followed by oncologists (91.5 ± 3.2), Grok 3 (82.3 ± 2.1), and Gemini 2.0 (74.2 ± 3.4). Statistically significant differences emerged across all domains, with human experts particularly excelling in treatment selection but still trailing Open ai o1 pro overall. Completion time was significantly shorter for the AI models compared with oncologists. CONCLUSION: These findings suggest that advanced generative AI can exceed expert-level performance in certain aspects of radiotherapy decision-making for uveal melanoma. Although AI may expedite clinical workflows and offer highly accurate guidance, human judgment remains indispensable for nuanced patient care.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40896429/) · [DOI](https://doi.org/10.1186/s13000-024-01464-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10898121/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40904039/) · [DOI](https://doi.org/10.1002/mp.18100) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12409223/)
 
 
 ---
@@ -191,7 +172,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     PURPOSE: Radioresistant and immunosuppressive tumors, such as glioblastoma multiforme (GBM), remain a challenge, as current clinical approaches-surgical resection and chemoradiation-do not yet provide effective treatment. Immunotherapy (IT) has emerged as a powerful tool in cancer; however, phase III clinical trials in GBM have yielded unsuccessful results, likely due to its critical dependence on preexisting antitumor immunity. Given its immunomodulatory potential, radiotherapy (RT) could serve as a tool to induce tumor inflammation and enhance responsiveness to IT. However, the optimal radiation configuration required to achieve the critical level of tumor inflammation for IT success remains elusive. This study assessed the most effective dose fractionation scheme for maximizing immune cell infiltration into tumors. MATERIALS AND METHODS: Two orthotopic rat glioma models with differing vascularization and immunogenicity were irradiated with three dose fractionation schemes. Tumor immune cell populations were analyzed by flow cytometry. RESULTS: A single high dose (25 Gy) or extreme hypofractionation is required to elicit a significant immune infiltration in tumors. CONCLUSIONS: Using RT as an immune primer in GBM would require very high and toxic doses with conventional RT methods. While 25 Gy is used in conventional stereotactic radiosurgery, such a high dose is typically limited to small brain volumes. Novel approaches, such as FLASH-RT or minibeam RT, offer alternatives to mitigate toxicity while achieving the required doses.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40406256/) · [DOI](https://doi.org/10.1007/s11060-009-9875-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2730996/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40406256/) · [DOI](https://doi.org/10.3389/fonc.2025.1493436) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12095198/)
 
 
 ---
@@ -210,7 +191,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     Proton therapy is a relatively new modality for cancer treatment and has several open research questions, particularly in the biological realm. Due to large infrastructure costs the modality is reserved for specialist treatment, limiting the patient outcome dataset. This requires supplementation with fundamental research throughin vitroandin vivosystems. Similarly, the safety and potential benefits of new treatments, such as FLASH, should be demonstrated in lab environments prior to clinical translation. Greater access to clinically relevant research platforms is required. This work presents the capabilities of the Manchester proton therapy research facility for experimentalists&#x27; assessment to meet their research goals. Details of the research beamline geometry are presented, along with workflows forin vitrosample irradiation within an automated sample handling environmental chamber. Absolute dose and dose depth of the proton research beamline was measured. The dose calibration across a range of energies and dose rates is presented and fits are mathematically described. Methods to convert measured, or planned, dose to sample dose are presented including for biological studies investigating end of proton range effects. Elements of the beam optics, impacting on spot size and therefore field homogeneity, were measured for sample irradiation and beam model development. A Monte Carlo beam model was established to predict physically difficult measurements and is compared to measurements throughout. Achievable dose rates for FLASH are presented alongside absolute dosimetric accuracy. There was a focus on radiobiological research in establishing the beamline. Special care was taken to develop high-throughput repeatablein vitroirradiation workflows, with an adjacent radiobiological lab for immediate processing. This will lead to a reduction in experimental uncertainties seen in the literature with demonstrated accurate dosimetry, tight environmental control, and a high degree of versatility. The infrastructure presented in this work is a unique facility in the UK.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40403749/) · [DOI](https://doi.org/10.1002/mp.16364) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066978/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40403749/) · [DOI](https://doi.org/10.1088/2057-1976/addbe8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12296266/)
 
 
 ---
@@ -248,7 +229,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND AND PURPOSE: Proton arc therapy and FLASH radiotherapy (FLASH-RT) each offer unique advantages in proton therapy. However, clinical translation of FLASH-RT faces challenges in defining and delivering high dose rates. We propose the use of proton FLASH-arc therapy (PFAT) to leverage the benefits of arc while addressing FLASH delivery concerns by spatially fractionating dose delivery to healthy tissue. MATERIALS AND METHODS: Treatment plans for an abdominal phantom and a clinical brain case were designed in OpenTPS, using monoenergetic beams within a 360-degree gantry rotation. Beams were optimized to achieve target coverage while maximizing spatial fractionation in non-target regions. The temporal dose delivery to healthy-tissue voxels, or in specified organs-at-risk (OARs), was constrained via selective spot removal in the beamlets matrix. The dose, LET, number of spots per voxel, and voxel-wise average dose rate were calculated for each PFAT plan and compared to a corresponding IMPT scenario. RESULTS: PFAT plans demonstrated comparable dose conformity to IMPT, with LET hotspots shifted towards the target center. The number of spots influencing healthy-tissue voxels was reduced, leading to regions of substantially higher dose rates in many points outside the target. OAR dose-rate optimization in the brain plan resulted in dose rates exceeding 40 Gy/s in the majority of points in the brainstem. CONCLUSION: The PFAT technique combines the advantages of FLASH and arc therapy, providing improved LET distributions and enhanced biological effect in the target, while achieving high dose rates in healthy tissue, thus reducing healthy tissue damage. This feasibility study demonstrates the capability of PFAT, setting the foundation for further optimization and application in diverse patient cases and complex geometries.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39528113/) · [DOI](https://doi.org/10.1002/mp.12807) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066940/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39528113/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110623) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11663118/)
 
 
 ---
@@ -260,26 +241,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 <span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39605893/) · [DOI](https://doi.org/10.3389/fonc.2023.1256760) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10520273/)
-
-
----
-
-### Neuro-Oncologic Veterinary Trial for the Clinical Transfer of Microbeam Radiation Therapy: Acute to Subacute Radiotolerance after Brain Tumor Irradiation in Pet Dogs.
-
-*Eling L, Kefs S, Keshmiri S, Balosso J, Calvet S, Chamel G et al.* — Cancers (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Synchrotron Microbeam Radiation Therapy (MRT) has repeatedly proven its superiority compared with conventional radiotherapy for glioma control in preclinical research. The clinical transfer phase of MRT has recently gained momentum; seven dogs with suspected glioma were treated under clinical conditions to determine the feasibility and safety of MRT.
-
-
-??? note "Abstract"
-    Synchrotron Microbeam Radiation Therapy (MRT) has repeatedly proven its superiority compared with conventional radiotherapy for glioma control in preclinical research. The clinical transfer phase of MRT has recently gained momentum; seven dogs with suspected glioma were treated under clinical conditions to determine the feasibility and safety of MRT. We administered a single fraction of 3D-conformal, image-guided MRT. Ultra-high-dose rate synchrotron X-ray microbeams (50 µm-wide, 400 µm-spaced) were delivered through five conformal irradiation ports. The PTV received ~25 Gy peak dose (within microbeams) per port, corresponding to a minimal cumulated valley dose (diffusing between microbeams) of 2.8 Gy. The dogs underwent clinical and MRI follow-up, and owner evaluations. One dog was lost to follow-up. Clinical exams of the remaining six dogs during the first 3 months did not indicate radiotoxicity induced by MRT. Quality of life improved from 7.3/10 \[±0.7\] to 8.9/10 \[±0.3\]. Tumor-induced seizure activity decreased significantly. A significant tumor volume reduction of 69% \[±6%\] was reached 3 months after MRT. Our study is the first neuro-oncologic veterinary trial of 3D-conformal Synchrotron MRT and reveals that MRT does not induce acute to subacute radiotoxicity in normal brain tissues. MRT improves quality of life and leads to remarkable tumor volume reduction despite low valley dose delivery. This trial is an essential step towards the forthcoming clinical application of MRT against deep-seated human brain tumors.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39123429/) · [DOI](https://doi.org/10.1118/1.4950724) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11154279/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39605893/) · [DOI](https://doi.org/10.3389/fonc.2024.1515325) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11599187/)
 
 
 ---
@@ -341,7 +303,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: FLASH therapy is a treatment technique in which radiation is delivered at ultra-high dose rates (≥ 40 Gy/s). The first-in-human FAST-01 clinical trial demonstrated the clinical feasibility of proton FLASH in the treatment of extremity bone metastases. The objectives of this investigation are to assess the toxicities of treatment and pain relief in study participants with painful thoracic bone metastases treated with FLASH radiotherapy, as well as workflow metrics in a clinical setting. METHODS: This single-arm clinical trial is being conducted under an FDA investigational device exemption (IDE) approved for 10 patients with 1-3 painful bone metastases in the thorax, excluding bone metastases in the spine. Treatment will be 8 Gy in a single fraction administered at ≥ 40 Gy/s on a FLASH-enabled proton therapy system delivering a single transmission proton beam. Primary study endpoints are efficacy (pain relief) and safety. Patient questionnaires evaluating pain flare at the treatment site will be completed for 10 consecutive days post-RT. Pain response and adverse events (AEs) will be evaluated on the day of treatment and on day 7, day 15, months 1, 2, 3, 6, 9, and 12, and every 6 months thereafter. The outcomes for clinical workflow feasibility are the occurrence of any device issues as well as time on the treatment table. DISCUSSION: This prospective clinical trial will provide clinical data for evaluating the efficacy and safety of proton FLASH for palliation of bony metastases in the thorax. Positive findings will support the further exploration of FLASH radiation for other clinical indications including patient populations treated with curative intent. REGISTRATION: ClinicalTrials.gov NCT05524064.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38475815/) · [DOI](https://doi.org/10.1016/S1470-2045(15)00199-0) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9798627/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38475815/) · [DOI](https://doi.org/10.1186/s13014-024-02419-4) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10935811/)
 
 
 ---
@@ -360,7 +322,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: Cutaneous basal cell carcinoma (BCC) and squamous cell carcinoma (SCC) are the most prevalent skin cancers in western countries. Surgery is the standard of care for these cancers and conventional external radiotherapy (CONV-RT) with conventional dose rate (0.03-0.06 Gy/sec) represents a good alternative when the patients or tumors are not amenable to surgery but routinely generates skin side effects. Low energy electron FLASH radiotherapy (FLASH-RT) is a new form of radiotherapy exploiting the biological advantage of the FLASH effect, which consists in delivering radiation dose in milliseconds instead of minutes in CONV-RT. In pre-clinical studies, when compared to CONV-RT, FLASH-RT induced a robust, reproducible and remarkable sparing of the normal healthy tissues, while the efficacy on tumors was preserved. In this context, we aim to prospectively evaluate FLASH-RT versus CONV-RT with regards to toxicity and oncological outcome in localized cutaneous BCC and SCC. METHODS: This is a randomized selection, non-comparative, phase II study of curative FLASH-RT versus CONV-RT in patients with T1-T2 N0 M0 cutaneous BCC and SCC. Patients will be randomly allocated to low energy electron FLASH-RT (dose rate: 220-270 Gy/s) or to CONV-RT arm. Small lesions (T1) will receive a single dose of 22 Gy and large lesions (T2) will receive 30 Gy in 5 fractions of 6 Gy over two weeks.The primary endpoint evaluates safety at 6 weeks after RT through grade ≥ 3 toxicity and efficacy through local control rate at 12 months. Approximately 60 patients in total will be randomized, considering on average 1-2 lesions and a maximum of 3 lesions per patients corresponding to the total of 96 lesions required. FLASH-RT will be performed using the Mobetron® (IntraOp, USA) with high dose rate functionality.LANCE (NCT05724875) is the first randomized trial evaluating FLASH-RT and CONV-RT in a curative setting.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38362466/) · [DOI](https://doi.org/10.1016/j.ctro.2024.100743) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10093322/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38362466/) · [DOI](https://doi.org/10.1016/j.ctro.2024.100743) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10867306/)
 
 
 ---
@@ -455,7 +417,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     Cancer therapy with accelerated charged particles is one of the most valuable biomedical applications of nuclear physics. The technology has vastly evolved in the past 50 years, the number of clinical centers is exponentially growing, and recent clinical results support the physics and radiobiology rationale that particles should be less toxic and more effective than conventional X-rays for many cancer patients. Charged particles are also the most mature technology for clinical translation of ultra-high dose rate (FLASH) radiotherapy. However, the fraction of patients treated with accelerated particles is still very small and the therapy is only applied to a few solid cancer indications. The growth of particle therapy strongly depends on technological innovations aiming to make the therapy cheaper, more conformal and faster. The most promising solutions to reach these goals are superconductive magnets to build compact accelerators; gantryless beam delivery; online image-guidance and adaptive therapy with the support of machine learning algorithms; and high-intensity accelerators coupled to online imaging. Large international collaborations are needed to hasten the clinical translation of the research results.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37207092/) · [DOI](https://doi.org/10.1088/1361-6560/aca387) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9013042/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37207092/) · [DOI](https://doi.org/10.1016/j.ppnp.2023.104046) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614547/)
 
 
 ---
@@ -479,6 +441,25 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
+### Low-dose ultra-high-pitch computed tomography coronary angiography: identifying the optimum combination of iteration strength and radiation dose reduction strategies to achieve true submillisievert scans.
+
+*Kumari N, Ganga KP, Ojha V, Kumar S, Jagia P, Naik N et al.* — Diagnostic and interventional radiology (Ankara, Turkey) (2023)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** To identify the optimum strength of advanced modeled iterative reconstruction (ADMIRE) to achieve the best subjective and objective image quality when combining three-dose reduction strategies, ultra-high-pitch computed tomography coronary angiography (FLASH CTCA; with single-dose ivabradine to lower heart rate), low tube voltage, and ADMIRE. METHODS: Sixty consecutive patients underwent FLASH CTC…
+
+
+??? note "Abstract"
+    PURPOSE: To identify the optimum strength of advanced modeled iterative reconstruction (ADMIRE) to achieve the best subjective and objective image quality when combining three-dose reduction strategies, ultra-high-pitch computed tomography coronary angiography (FLASH CTCA; with single-dose ivabradine to lower heart rate), low tube voltage, and ADMIRE. METHODS: Sixty consecutive patients underwent FLASH CTCA at 100 kVp in this single-center prospective study. Single-dose ivabradine was administered to patients whose heart rate was above 75 bpm. Images were reconstructed using the three highest strengths of ADMIRE (A3, A4, and A5). Objective and subjective image quality (using a Likert scale) were evaluated in the three datasets. RESULTS: The signal strength remained unchanged but mean noise significantly reduced across the increasing strengths of ADMIRE \[signal: 513.78 ± 101.7 Hounsfield units (HU) at A3, 515.6 ± 100.5 HU at A4, and 519.7 ± 107.9 HU at A5; noise: 23.4 ± 4.5 HU at A3, 20.2 ± 3.6 HU at A4, and 17.2 ± 3.3 HU at A5\]. Signal-to-noise and contrast-to-noise ratios were the highest at A5, and A5 offered significantly higher Likert scores in image noise, vessel sharpness, and overall image quality than A3 or A4. Additionally, A5 did not interfere with image interpretation in any patient. CONCLUSION: Using all three dose reduction strategies during FLASH CTCA along with single-dose ivabradine administration ensures minimal radiation exposure in daily practice. In this study, A5 datasets had the best overall subjective and objective image quality despite their &quot;plastic appearance&quot;. In the future, enhanced dose reduction can be obtained by further lowering tube voltages.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36987879/) · [DOI](https://doi.org/10.4274/dir.2021.0849) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10679714/)
+
+
+---
+
 ### Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
 
 *Mascia AE, Daugherty EC, Zhang Y, Lee E, Xiao Z, Sertorio M et al.* — JAMA oncology (2023)  
@@ -493,7 +474,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     IMPORTANCE: To our knowledge, there have been no clinical trials of ultra-high-dose-rate radiotherapy delivered at more than 40 Gy/sec, known as FLASH therapy, nor first-in-human use of proton FLASH. OBJECTIVES: To assess the clinical workflow feasibility and treatment-related toxic effects of FLASH and pain relief at the treatment sites. DESIGN, SETTING, AND PARTICIPANTS: In the FAST-01 nonrandomized trial, participants treated at Cincinnati Children&#x27;s/UC Health Proton Therapy Center underwent palliative FLASH radiotherapy to extremity bone metastases. Patients 18 years and older with 1 to 3 painful extremity bone metastases and life expectancies of 2 months or more were eligible. Patients were excluded if they had foot, hand, and wrist metastases; metastases locally treated in the 2 weeks prior; metal implants in the treatment field; known enhanced tissue radiosensitivity; and implanted devices at risk of malfunction with radiotherapy. One of 11 patients who consented was excluded based on eligibility. The end points were evaluated at 3 months posttreatment, and patients were followed up through death or loss to follow-up for toxic effects and pain assessments. Of the 10 included patients, 2 died after the 2-month follow-up but before the 3-month follow-up; 8 participants completed the 3-month evaluation. Data were collected from November 3, 2020, to January 28, 2022, and analyzed from January 28, 2022, to September 1, 2022. INTERVENTIONS: Bone metastases were treated on a FLASH-enabled (≥40 Gy/sec) proton radiotherapy system using a single-transmission proton beam. This is consistent with standard of care using the same prescription (8 Gy in a single fraction) but on a conventional-dose-rate (approximately 0.03 Gy/sec) photon radiotherapy system. MAIN OUTCOME AND MEASURES: Main outcomes included patient time on the treatment couch, device-related treatment delays, adverse events related to FLASH, patient-reported pain scores, and analgesic use. RESULTS: A total of 10 patients (age range, 27-81 years \[median age, 63 years\]; 5 \[50%\] male) underwent FLASH radiotherapy at 12 metastatic sites. There were no FLASH-related technical issues or delays. The average (range) time on the treatment couch was 18.9 (11-33) minutes per patient and 15.8 (11-22) minutes per treatment site. Median (range) follow-up was 4.8 (2.3-13.0) months. Adverse events were mild and consistent with conventional radiotherapy. Transient pain flares occurred in 4 of the 12 treated sites (33%). In 8 of the 12 sites (67%) patients reported pain relief, and in 6 of the 12 sites (50%) patients reported a complete response (no pain). CONCLUSIONS AND RELEVANCE: In this nonrandomized trial, clinical workflow metrics, treatment efficacy, and safety data demonstrated that ultra-high-dose-rate proton FLASH radiotherapy was clinically feasible. The treatment efficacy and the profile of adverse events were comparable with those of standard-of-care radiotherapy. These findings support the further exploration of FLASH radiotherapy in patients with cancer. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04592887.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36273324/) · [DOI](https://doi.org/10.1016/j.ijrobp.2022.01.009) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4723641/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36273324/) · [DOI](https://doi.org/10.1001/jamaoncol.2022.5843) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589460/)
 
 
 ---
@@ -512,7 +493,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: In preclinical studies, FLASH therapy, in which radiation delivered at ultrahigh dose rates of ≥40 Gy per second, has been shown to cause less injury to normal tissues than radiotherapy delivered at conventional dose rates. This paper describes the protocol for the first-in-human clinical investigation of proton FLASH therapy. OBJECTIVE: FAST-01 is a prospective, single-center trial designed to assess the workflow feasibility, toxicity, and efficacy of FLASH therapy for the treatment of painful bone metastases in the extremities. METHODS: Following informed consent, 10 subjects aged ≥18 years with up to 3 painful bone metastases in the extremities (excluding the feet, hands, and wrists) will be enrolled. A treatment field selected from a predefined library of plans with fixed field sizes (from 7.5 cm × 7.5 cm up to 7.5 cm × 20 cm) will be used for treatment. Subjects will receive 8 Gy of radiation in a single fraction-a well-established palliative regimen evaluated in prior investigations using conventional dose rate photon radiotherapy. A FLASH-enabled Varian ProBeam proton therapy unit will be used to deliver treatment to the target volume at a dose rate of ≥40 Gy per second, using the plateau (transmission) portion of the proton beam. After treatment, subjects will be assessed for pain response as well as any adverse effects of FLASH radiation. The primary end points include assessing the workflow feasibility and toxicity of FLASH treatment. The secondary end point is pain response at the treated site(s), as measured by patient-reported pain scores, the use of pain medication, and any flare in bone pain after treatment. The results will be compared to those reported historically for conventional dose rate photon radiotherapy, using the same radiation dose and fractionation. RESULTS: FAST-01 opened to enrollment on November 3, 2020. Initial results are expected to be published in 2022. CONCLUSIONS: The results of this investigation will contribute to further developing and optimizing the FLASH-enabled ProBeam proton therapy system workflow. The pain response and toxicity data acquired in our study will provide a greater understanding of FLASH treatment effects on tumor responses and normal tissue toxicities, and they will inform future FLASH trial designs. TRIAL REGISTRATION: : ClinicalTrials.gov NCT04592887; http://clinicaltrials.gov/ct2/show/NCT04592887. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): DERR1-10.2196/41812.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36206189/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-06-0988) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4723641/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36206189/) · [DOI](https://doi.org/10.2196/41812) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9893728/)
 
 
 ---
@@ -531,26 +512,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: Local cancer therapy by combining real-time surgical exploration and resection with delivery of a single dose of high-energy electron irradiation entails a very precise and effective local therapeutic approach. Integrating the benefits from minimally invasive surgical techniques with the very precise delivery of intraoperative electron irradiation results in an efficient combined modality therapy. METHODS: Patients with locally advanced disease, who are candidates for laparoscopic and/or thoracoscopic surgery, received an integrated multimodal management. Preoperative treatment included induction chemotherapy and/or chemoradiation, followed by laparoscopic surgery and intraoperative electron radiation therapy. RESULTS: In a period of 5 consecutive years, 125 rectal cancer patients were treated, of which 35% underwent a laparoscopic approach. We found no differences in cancer outcomes and tolerance between the open and laparoscopic groups. Two esophageal cancer patients were treated with IOeRT during thoracoscopic resection, with the resection specimens showing intense downstaging effects. Two oligo-recurrent prostatic cancer patients (isolated nodal progression) had a robotic-assisted surgical resection and post-lymphadenectomy electron boost on the vascular and lateral pelvic wall. CONCLUSIONS: Minimally invasive and robotic-assisted surgery is feasible to combine with intraoperative electron radiation therapy and offers a new model explored with electron-FLASH beams.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36169803/) · [DOI](https://doi.org/10.1016/0360-3016(94)90013-2) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8864801/)
-
-
----
-
-### Comparison of Ultrashort TE Lung MRI and HRCT Lungs for Detection of Pulmonary Nodules in Oncology Patients.
-
-*Periaswamy G, Arunachalam VK, Varatharajaperumal R, Kalyan G, Selvaraj R, Mehta P et al.* — The Indian journal of radiology &amp; imaging (2022)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Purpose  The purpose of this study is to evaluate the detection rate of pulmonary nodules in ultrashort echo time (UTE) lung magnetic resonance imaging (MRI) and to compare it with computed tomography (CT) in oncology patients. Materials and Methods  All individuals undergoing radiotherapy/chemotherapy/regular follow-up or visiting the oncology department and referred to radiology department for n…
-
-
-??? note "Abstract"
-    Purpose  The purpose of this study is to evaluate the detection rate of pulmonary nodules in ultrashort echo time (UTE) lung magnetic resonance imaging (MRI) and to compare it with computed tomography (CT) in oncology patients. Materials and Methods  All individuals undergoing radiotherapy/chemotherapy/regular follow-up or visiting the oncology department and referred to radiology department for nodule detection, during the period of 1 year, were subjected to UTE lung MRI using the sequence Flash 3d_spiralvibe coronal 1.25 mm iso and high-resolution CT lungs and the images were analyzed. Results  Among the total number of nodules detected in both lungs of all patients, nodules detected by CT were 241, and nodules detected by MRI were 212. The nodule detection rate by MRI was 87.96%. The detection rate of nodules for size equal to or more than 5 mm was nearly 100%. For nodules less than 5 mm, and equal to or more than 4 mm, MRI showed a comparable detection rate of 75%, while for nodules less than 4 mm, the detection rate was only 25%. Conclusion  Our study results indicate that lung MRI had a near-complete detection rate for nodules equal to or more than 5 mm in size. Hence, in oncology patients who are undergoing regular follow-up of the lung nodules, lung MRI using UTE can replace low-dose CT, which in turn reduces the radiation dose to the patient.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36451941/) · [DOI](https://doi.org/10.1055/s-0042-1755242) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6877751/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36169803/) · [DOI](https://doi.org/10.1007/s12094-022-02955-z) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9873754/)
 
 
 ---
@@ -569,7 +531,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     PURPOSE: FLASH radiotherapy (FLASH-RT) is the potential for a major breakthrough in cancer care, as preclinical results have shown significantly reduced toxicities to healthy tissues while maintaining excellent tumor control. However, FLASH conditions were not considered in the current proton facilities&#x27; shielding designs. The purpose of this study is to validate the adequacy of conventionally shielded proton rooms used for FLASH-RT. METHODS: Clinical FLASH irradiations typically take place in a few 100 ms, orders of magnitude shorter than the response time of the wide-energy neutron detector (WENDI-II). The nozzle beam current (representing the dose rate) dependence of the WENDI-II detector response was empirically determined to stabilize with a beam current of ≤10 nA at the measurement point with the highest dose rate. A large, predefined proton transmission FLASH plan (250 MeV, 7 × 20 cm2 , 8 Gy at isocenter) was commissioned as part of a FLASH clinical trial. For purpose of this study, that field was adjusted from 250 to 244 MeV, allowing a lower beam current of 10 nA to provide reliable detector response. Radiation surveys were performed for the proton beams with/without extra beam stopper (30 × 30 × 40-cm3 solid water slabs) at 0°, 90°, 180°, and 270° gantry angles. RESULTS: Ambient doses were recorded at seven different locations. A 170-nA beam current, commonly used for clinical FLASH plans, was chosen to normalize the average ambient dose rate to FLASH conditions. Assuming 200-Gy/h workload (25 FLASH beams, 8 Gy/beam), annual occupational dose at controlled areas was calculated. For all gantry angles, ≤0.4 mSv/year is expected at treatment room door. The highest ambient dose, 2.46 mSv/year, ∼5% of the maximum annual permissible occupational dose, was identified at the isocenter of the adjacent treatment room with 90° gantry. CONCLUSION: These survey results indicate that our conventionally shielded proton rotating gantry rooms result in acceptable occupational and public doses when the transmission FLASH beams delivered at four cardinal gantry angles based on 200-Gy/h workload assumption. These findings support that FLASH clinical trials in our conventionally shielded proton facilities can be safely implemented.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36114793/) · [DOI](https://doi.org/10.1002/mp.15964) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5878049/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36114793/) · [DOI](https://doi.org/10.1002/mp.15964) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10091931/)
 
 
 ---
@@ -588,7 +550,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     PURPOSE: To ensure a clinical translation of FLASH radiation therapy (FLASH-RT) for a specific tumor type, studies on tumor control and toxicity within the same biological system are needed. In this study, our objective was to evaluate tumor control and toxicity for hypofractionated FLASH-RT and conventional radiation therapy (CONV-RT) in an immunocompetent rat glioma model. METHODS AND MATERIALS: Fisher 344 rats (N = 68) were inoculated subcutaneously with NS1 glioma cells and randomized into groups (n = 9-10 per group). CONV-RT (∼8 Gy/min) or FLASH-RT (70-90 Gy/s) was administered in 3 fractions of either 8 Gy, 12.5 Gy, or 15 Gy using a 10-MeV electron beam. The maximum tumor diameter was measured weekly, and overall survival was determined until day 100. Long-term tumor control was defined as no evident tumor on day 100. Animals were evaluated for acute dermal side effects at 2 to 5 weeks after completed RT and for late dermal side effects at 3 months after initiation of treatment. RESULTS: Survival was significantly increased in all irradiated groups compared with control animals (P &lt; .001). In general, irradiated tumors started to shrink at 1 week post-completed RT. In 40% (23 of 58) of the irradiated animals, long-term tumor control was achieved. Radiation-induced skin toxic effects were mild and consisted of hair loss, erythema, and dry desquamation. No severe toxic effect was observed. There was no significant difference between FLASH-RT and CONV-RT in overall survival, acute side effects, or late side effects for any of the dose levels. CONCLUSIONS: This study shows that hypofractionated FLASH-RT results in long-term tumor control rates similar to those of CONV-RT for the treatment of large subcutaneous glioblastomas in immunocompetent rats. Neither treatment technique induced severe skin toxic effects. Consequently, no significant difference in toxicity could be resolved, suggesting that higher doses may be required to detect a FLASH sparing of skin.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36092986/) · [DOI](https://doi.org/10.1016/j.adro.2022.101011) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6765190/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36092986/) · [DOI](https://doi.org/10.1016/j.adro.2022.101011) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9449779/)
 
 
 ---
@@ -607,45 +569,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     A recent study reported results from a clinical trial in cats and from experiments in mini-pigs in which a single dose of radiotherapy was delivered at ultrahigh dose rates (FLASH). There was acceptable acute toxicity; however, some animals suffered severe late toxicity, raising caution in the design of future trials. See related article by Rohrer Bley et al., p. 3814.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35736814/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-22-1255) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7854480/)
-
-
----
-
-### Light flashes during proton and photon radiotherapy: A multicenter prospective observational study.
-
-*Mizumoto M, Oshiro Y, Miyamoto T, Sumiya T, Murakami M, Baba K et al.* — Technical innovations &amp; patient support in radiation oncology (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Patients who receive radiation therapy sometimes complain of a light flash during irradiation. The details of the characteristics of this light have not been described.
-
-
-??? note "Abstract"
-    BACKGROUND: Patients who receive radiation therapy sometimes complain of a light flash during irradiation. The details of the characteristics of this light have not been described. PURPOSE: To evaluate light flashes during photon and proton radiotherapy. METHODS AND MATERIALS: A prospective observational study was performed in all adult patients (≥20 years old) who received photon and proton therapy at two centers between January 2019 and August 2020, except for patients who could not communicate and those with visual abnormality. Evaluations were obtained for the presence or absence of light flashes, light darkness (7 levels), light intensity (5 levels), frequency, light movement, light flashing, and time seeing the light, using a weekly checklist. RESULTS: A total of 650 courses were examined for 621 patients, of whom 416 received photon radiotherapy and 205 received proton beam therapy. The checklist indicated that 88 patients (16.1%) sensed light during photon or proton radiotherapy. In multivariate logistic regression analysis, the factors that were significantly associated with a light flash were a higher retina dose and younger age (p &lt; 0.001). Light flashes were seen by only 35/524 patients (6.7%) for whom the retina was not irradiated, but by 13/33 (39.4%) and 41/64 (64.1%) with maximum isodose lines for the retina of 10-50% and 60-100%, respectively. The numbers of patients who sensed blue, purple, yellow, red, white and other colors were 52, 15, 15, 9, 16 and 8, respectively (multiple selections possible). Light movement was observed by 52 patients (59%). The location of the light was defined as near, far, and middle by 70, 13, and 5 patients, respectively. The median time the light was seen was 10 s. CONCLUSIONS: Many patients sense light flashes during radiotherapy. The retina dose and a younger age were significantly associated with the frequency of light flashes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34901476/) · [DOI](https://doi.org/10.1016/j.tipsro.2021.11.003) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5610027/)
-
-
----
-
-### Development of an MRI-Guided Approach to Selective Internal Radiation Therapy Using Holmium-166 Microspheres.
-
-*Roosen J, Arntz MJ, Janssen MJR, de Jong SF, Fütterer JJ, Overduin CG et al.* — Cancers (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Selective internal radiation therapy (SIRT) is a treatment modality for liver tumours during which radioactive microspheres are injected into the hepatic arterial tree. Holmium-166 (166Ho) microspheres used for SIRT can be visualized and quantified with MRI, potentially allowing for MRI guidance during SIRT.
-
-
-??? note "Abstract"
-    Selective internal radiation therapy (SIRT) is a treatment modality for liver tumours during which radioactive microspheres are injected into the hepatic arterial tree. Holmium-166 (166Ho) microspheres used for SIRT can be visualized and quantified with MRI, potentially allowing for MRI guidance during SIRT. The purpose of this study was to investigate the MRI compatibility of two angiography catheters and a microcatheter typically used for SIRT, and to explore the detectability of 166Ho microspheres in a flow phantom using near real-time MRI. MR safety tests were performed at a 3 T MRI system according to American Society for Testing of Materials standard test methods. To assess the near real-time detectability of 166Ho microspheres, a flow phantom was placed in the MRI bore and perfused using a peristaltic pump, simulating the flow in the hepatic artery. Dynamic MR imaging was performed using a 2D FLASH sequence during injection of different concentrations of 166Ho microspheres. In the safety assessment, no significant heating (ΔTmax 0.7 °C) was found in any catheter, and no magnetic interaction was found in two out of three of the used catheters. Near real-time MRI visualization of 166Ho microsphere administration was feasible and depended on holmium concentration and vascular flow speed. Finally, we demonstrate preliminary imaging examples on the in vivo catheter visibility and near real-time imaging during 166Ho microsphere administration in an initial patient case treated with SIRT in a clinical 3 T MRI. These results support additional research to establish the feasibility and safety of this procedure in vivo and enable the further development of a personalized MRI-guided approach to SIRT.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34771626/) · [DOI](https://doi.org/10.1016/j.ijpharm.2018.06.036) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5815636/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35736814/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-22-1255) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9444945/)
 
 
 ---
@@ -664,7 +588,7 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     FLASH radiotherapy has emerged as a treatment technique with great potential to increase the differential effect between normal tissue toxicity and tumor response compared to conventional radiotherapy. To evaluate the feasibility of FLASH radiotherapy in a relevant clinical setting, we have commenced a feasibility and safety study of FLASH radiotherapy in canine cancer patients with spontaneous superficial solid tumors or microscopic residual disease, using the electron beam of our modified clinical linear accelerator. The setup for FLASH radiotherapy was established using a short electron applicator with a nominal source-to-surface distance of 70 cm and custom-made Cerrobend blocks for collimation. The beam was characterized by measuring dose profiles and depth dose curves for various field sizes. Ten canine cancer patients were included in this initial study; seven patients with nine solid superficial tumors and three patients with microscopic disease. The administered dose ranged from 15 to 35 Gy. To ensure correct delivery of the prescribed dose, film measurements were performed prior to and during treatment, and a Farmer-type ion-chamber was used for monitoring. Treatments were found to be feasible, with partial response, complete response or stable disease recorded in 11/13 irradiated tumors. Adverse events observed at follow-up ranging from 3-6 months were mild and consisted of local alopecia, leukotricia, dry desquamation, mild erythema or swelling. One patient receiving a 35 Gy dose to the nasal planum, had a grade 3 skin adverse event. Dosimetric procedures, safety and an efficient clincal workflow for FLASH radiotherapy was established. The experience from this initial study will be used as a basis for a veterinary phase I/II clinical trial with more specific patient inclusion selection, and subsequently for human trials.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34055624/) · [DOI](https://doi.org/10.1259/bjr.20190702) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055454/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34055624/) · [DOI](https://doi.org/10.3389/fonc.2021.658004) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8155542/)
 
 
 ---
@@ -688,21 +612,21 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Influence of the pandemic dissemination of COVID-19 on radiotherapy practice: A flash survey in Germany, Austria and Switzerland.
+### Defining a national reference level for intraoperative radiation exposure in urological procedures: FLASH, a retrospective multicentre UK study.
 
-*Reuter-Oppermann M, Müller-Polyzou R, Wirtz H, Georgiadis A* — PloS one (2020)  
+*Simson N, Stonier T, Suleyman N, Hendry J, Salib M, Peacock J et al.* — BJU international (2020)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
+<span class="badge tag">Clinical &amp; Translational</span>
 
 
-**TL;DR.** The COVID-19 pandemic has already changed our globalised world and its long-term impact is not yet known. It is apparent that businesses and institutions are increasingly affected.
+**TL;DR.** To define reference levels for intraoperative radiation during stent insertion, ureteroscopy (URS), and percutaneous nephrolithotomy (PCNL); to identify variation in radiation exposure between individual hospitals across the UK, between low- and high-volume PCNL centres, and between grade of lead surgeon. PATIENTS/SUBJECTS AND METHODS: In all, 3651 patients were identified retrospectively across 1…
 
 
 ??? note "Abstract"
-    BACKGROUND: The COVID-19 pandemic has already changed our globalised world and its long-term impact is not yet known. It is apparent that businesses and institutions are increasingly affected. COVID-19 discussions often focus on intensive care units in hospitals. However, COVID-19 also effects life-saving and -prolonging radiotherapy for patients suffering from cancer. METHOD: We have conducted a structured online survey among medical physicists in Germany, Austria and Switzerland from March 23rd to 26th 2020. In total 154 responses (82 completed, 72 partially completed) were analysed in the context of the COVID-19 dissemination. RESULTS: 72.4% of the respondent&#x27;s state that their processes are affected due to COVID-19, while the top three answers are longer processing times (54.2%), patient no-shows (42.5%) and staff reduction (36.7%). 75.8% expect further unavailability of their personnel in the upcoming weeks. All participants have already taken several measures, especially providing information for patients at the entrance (89.6%) or over the phone (73.6%), restricting access for accompanying persons (77.4%) and providing disinfectant at the entrance (72.6%). DISCUSSION: The results presented in this article aim to support business continuity and risk management for radiotherapy centres to prepare for future challenges. The results show that most radiotherapy centres has implemented initial contingency measures, applying them pragmatically. The main problem however remains, that is the high risk of infection both for patients and medical personnel along with the associated risk of temporarily loss of personnel and ordered closure of business.
+    OBJECTIVES: To define reference levels for intraoperative radiation during stent insertion, ureteroscopy (URS), and percutaneous nephrolithotomy (PCNL); to identify variation in radiation exposure between individual hospitals across the UK, between low- and high-volume PCNL centres, and between grade of lead surgeon. PATIENTS/SUBJECTS AND METHODS: In all, 3651 patients were identified retrospectively across 12 UK hospitals over a 1-year period. Radiation exposure was defined in terms of total fluoroscopy time (FT) and dose area product (DAP). The 75th percentiles of median values for each hospital were used to define reference levels for each procedure. RESULTS: Reference levels: ureteric stent insertion/replacement (DAP, 2.3 Gy/cm2 ; FT, 49 s); URS (DAP, 2.8 Gy/cm2 ; FT, 57 s); PCNL (DAP, 24.1 Gy/cm2 ; FT, 431 s). Significant variations in the median DAP and FT were identified between individual centres for all procedures (P &lt; 0.001). For PCNL, there was a statistically significant difference between DAP for low- (&lt;50 cases/annum) and high-volume centres (&gt;50 cases/annum), at a median DAP of 15.0 Gy/cm2 vs 4.2 Gy/cm2 (P &lt; 0.001). For stent procedures, the median DAP and FT differed significantly between grade of lead surgeon: Consultant (DAP, 2.17 Gy/cm2 ; FT, 41 s) vs Registrar (DAP, 1.38 Gy/cm2 ; FT, 26 s; P &lt; 0.001). CONCLUSION: This multicentre study is the largest of its kind. It provides the first national reference level to guide fluoroscopy use in urological procedures, thereby adding a quantitative and objective value to complement the principles of keeping radiation exposure &#x27;as low as reasonably achievable&#x27;. This snapshot of real-time data shows significant variation around the country, as well as significant differences between low- and high-volume centres for PCNL, and grade of lead surgeon for stent procedures.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32437381/) · [DOI](https://doi.org/10.1016/j.ijmedinf.2019.06.004) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8567950/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/31437345/) · [DOI](https://doi.org/10.1111/bju.14903)
 
 
 ---
@@ -738,40 +662,21 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### A Pilot Study in the Use of Activity Trackers for Assessing Response to Palliative Radiotherapy.
+### How Much Is the Dose Varying between Follow-Up CT-Examinations Performed on the Same Scanner with the Same Imaging Protocol?
 
-*Dorion V, Lambert L, Frazzi A, Cayer JF, Wong P* — Cureus (2017)  
+*Suntharalingam S, Stecker FF, Guberina N, Ringelstein A, Schlosser T, Theysohn JM et al.* — PloS one (2016)  
 
 <span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
 
 
-**TL;DR.** Purpose Radiation therapy (RT) has been a frequently used treatment for painful bone metastasis. The aim of this study was to determine the feasibility of using activity trackers (AT) to assess the patient prognosis and the effects of palliative RT.
+**TL;DR.** To investigate the dose variation between follow-up CT examinations, when a patient is examined several times on the same scanner with the identical scan protocol which comprised automated exposure control. MATERIAL AND METHODS: This retrospective study was approved by the local ethics committee.
 
 
 ??? note "Abstract"
-    Purpose Radiation therapy (RT) has been a frequently used treatment for painful bone metastasis. The aim of this study was to determine the feasibility of using activity trackers (AT) to assess the patient prognosis and the effects of palliative RT. Methods and materials Twelve patients planned to receive palliative RT for axial metastases and were prospectively recruited to participate in this pilot clinical trial. The patients were eligible if there was no intent to change the analgesic medications prior to or within seven days of palliative RT. All the patients were lent a Misfit FlashTM activity tracker (Misfit, Burlingame, California, United States of America) and were asked to wear it from the time of baseline assessment prior to RT until seven days after RT. The patients completed the European Organisation for Research and Treatment of Cancer quality of life (QOL) questionnaire (EORTC-QLQ C30) and the Short Form Brief Pain Inventory (SF-BPI) before the treatment and at days seven, 30 and 90 after completion of the RT. The patients&#x27; Karnofsky Performance Status (KPS) was assessed at each visit. The patients&#x27; overall survival at the end of the RT was recorded. Average daily steps before and after RT were compared using paired Wilcoxon signed-rank test. The patients&#x27; overall survival was estimated using the Kaplan-Meier curve and analyzed using the Log-Rank test. Results The median age of the patients was 62 years (range: 40-79 years). Of the 12 patients, there were five prostate, three breasts, three lungs, and one colon cancer-related patients. Six patients received 20 Gray (Gy) in five fractions and six received 8 Gy in one fraction. By day seven, post-RT, there was a 30% (p &lt;0.02) reduction in the patients&#x27; daily activity level. There was no correlation between improvements in the QOL or with the level of pain and with the number of daily steps. While baseline KPS was not prognostic of the patient survival, the patients who on average took more than 7800 steps per day prior to RT lived significantly (p=0.034) longer than those who were less active. Conclusions The baseline activity level is associated with the patient prognosis. A significant decline in the physical activity was observed at one week after palliative RT. The use of activity trackers was to prognosticate and to monitor the patients&#x27; response to the palliative RT and should be evaluated further.
+    PURPOSE: To investigate the dose variation between follow-up CT examinations, when a patient is examined several times on the same scanner with the identical scan protocol which comprised automated exposure control. MATERIAL AND METHODS: This retrospective study was approved by the local ethics committee. The volume computed tomography dose index (CTDIvol) and the dose-length-product (DLP) were recorded for 60 cancer patients (29 male, 31 female, mean age 60.1 years), who received 3 follow-up CT examinations each composed of a non-enhanced scan of the liver (LI-CT) and a contrast-enhanced scan of chest (CH-CT) and abdomen (AB-CT). Each examination was performed on the same scanner (Siemens Definition FLASH) equipped with automated exposure control (CARE Dose 4D and CARE KV) using the identical scan protocol. RESULTS: The median percentage difference in DLP between follow-up examinations was 9.6% for CH-CT, 10.3% for LI-CT, and 10.1% for AB-CT; the median percentage difference in CTDIvol 8.3% for CH-CT, 7.4% for LI-CT and 7.7% for AB-CT (p&lt;0.0001 for all values). The maximum difference in DLP between follow-up examinations was 67.5% for CH-CT, 50.8% for LI-CT and 74.3% for AB-CT; the maximum difference in CTDIvol 62.9% for CH-CT, 47.2% for LI-CT, and 49% for AB-CT. CONCLUSION: A significant variance in the radiation dose occurs between follow-up CT examinations when the same CT scanner and the identical imaging protocol are used in combination with automated exposure control.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/29383293/) · [DOI](https://doi.org/10.7759/cureus.1871) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1070876/)
-
-
----
-
-### Flashes of light-radiation therapy to the brain.
-
-*Blumenthal DT, Corn BW, Shtraus N* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2015)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** We present a series of three patients who received therapeutic external beam radiation to the brain and experienced a phenomenon of the sensation of flashes of bright or blue light, simultaneous with radiation delivery. We relate this benign phenomenon to low-dose exposure to the eye fields and postulate that the occurrence is underreported in this treated population.
-
-
-??? note "Abstract"
-    We present a series of three patients who received therapeutic external beam radiation to the brain and experienced a phenomenon of the sensation of flashes of bright or blue light, simultaneous with radiation delivery. We relate this benign phenomenon to low-dose exposure to the eye fields and postulate that the occurrence is underreported in this treated population.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26253952/) · [DOI](https://doi.org/10.1016/j.radonc.2015.07.034)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/27050659/) · [DOI](https://doi.org/10.1371/journal.pone.0152961) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822887/)
 
 
 ---
@@ -790,7 +695,64 @@ Clinical trials, veterinary studies, first-in-human experience and translational
     BACKGROUND: A low excitation flip angle (α &lt; 10°) steady-state free precession (SSFP) proton-density (PD) reference scan is often used to estimate the B1-field inhomogeneity for surface coil intensity correction (SCIC) of the saturation-recovery (SR) prepared high flip angle (α = 40-50°) SSFP myocardial perfusion images. The different SSFP off-resonance response for these two flip angles might lead to suboptimal SCIC when there is a spatial variation in the background B0-field. The low flip angle SSFP-PD frames are more prone to parallel imaging banding artifacts in the presence of off-resonance. The use of FLASH-PD frames would eliminate both the banding artifacts and the uneven frequency response in the presence of off-resonance in the surface coil inhomogeneity estimate and improve homogeneity of semi-quantitative and quantitative perfusion measurements. METHODS: B0-field maps, SSFP and FLASH-PD frames were acquired in 10 healthy volunteers to analyze the SSFP off-resonance response. Furthermore, perfusion scans preceded by both FLASH and SSFP-PD frames from 10 patients with no myocardial infarction were analyzed semi-quantitatively and quantitatively (rest n = 10 and stress n = 1). Intra-subject myocardial blood flow (MBF) coefficient of variation (CoV) over the whole left ventricle (LV), as well as intra-subject peak contrast (CE) and upslope (SLP) standard deviation (SD) over 6 LV sectors were investigated. RESULTS: In the 6 out of 10 cases where artifacts were apparent in the LV ROI of the SSFP-PD images, all three variability metrics were statistically significantly lower when using the FLASH-PD frames as input for the SCIC (CoVMBF-FLASH = 0.3 ± 0.1, CoVMBF-SSFP = 0.4 ± 0.1, p = 0.03; SDCE-FLASH = 10 ± 2, SDCE-SSFP = 32 ± 7, p = 0.01; SDSLP-FLASH = 0.02 ± 0.01, SDSLP-SSFP = 0.06 ± 0.02, p = 0.03). Example rest and stress data sets from the patient pool demonstrate that the low flip angle SSFP protocol can exhibit severe ghosting artifacts originating from off-resonance banding artifacts at the edges of the field of view that parallel imaging is not able to unfold. These artifacts lead to errors in the quantitative perfusion maps and the semi-quantitative perfusion indexes, such as false positives. It is shown that this can be avoided by using FLASH-PD frames as input for the SCIC. CONCLUSIONS: FLASH-PD images are recommended as input for SCIC of SSFP perfusion images instead of low flip angle SSFP-PD images.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25827180/) · [DOI](https://doi.org/10.1002/mrm.10171) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3733653/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/25827180/) · [DOI](https://doi.org/10.1186/s12968-015-0120-6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331176/)
+
+
+---
+
+### What is the minimal radiation dose that can be used for detecting pleural effusion?
+
+*Pourjabbar S, Singh S, Sharma A, Padole A, Khawaja RD, Lira D et al.* — AJR. American journal of roentgenology (2014)  
+
+<span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** The objective of our study was to assess the effect of radiation dose reduction on the detection of pleural effusions, thickening, and calcifications. MATERIALS AND METHODS: Forty-five human cadavers (mean age at death, 60 ± 17 \[SD\] years; male-female ratio, 29:16; mean body mass index, 29 ± 5.7 \[SD\] kg/m(2)) were scanned at seven different dose levels (CT Dose Index volume \[CTDIvol\] = 20, 12, 10,…
+
+
+??? note "Abstract"
+    OBJECTIVE: The objective of our study was to assess the effect of radiation dose reduction on the detection of pleural effusions, thickening, and calcifications. MATERIALS AND METHODS: Forty-five human cadavers (mean age at death, 60 ± 17 \[SD\] years; male-female ratio, 29:16; mean body mass index, 29 ± 5.7 \[SD\] kg/m(2)) were scanned at seven different dose levels (CT Dose Index volume \[CTDIvol\] = 20, 12, 10, 6, 4, 2, and 0.8 mGy) on a 128-MDCT unit (Definition FLASH). Images were reconstructed at a 3-mm slice thickness and 2-mm increment with filtered back projection (FBP) technique. Two chest radiologists independently reviewed all image series for the detection of pleural effusion, pleural calcification, and adjacent parenchymal opacification from atelectasis or consolidation. Objective image noise was measured at each dose level on the pleural effusion using ImageJ software. Data analysis was performed with the Student t test and kappa test. RESULTS: Pleural effusions were seen in 39 of 45 cadavers on image series acquired at 2-20 mGy. Only 14 of 39 pleural effusions were identified at 0.8 mGy. Pleural effusions were not detected in 25 of 39 cadavers at 0.8 mGy because of photon starvation and increased image noise. Patient size was significantly larger in subjects with undetected pleural effusion than in those with detectable pleural effusion at 0.8 mGy (p &lt; 0.01). Pleural calcifications and thickening (seen at 2-10 mGy images in three of three cadavers) were not identified on 0.8-mGy FBP images. On the other hand, adjacent parenchymal opacification could be assessed at all dose levels. The mean CT numbers of the pleural effusion were significantly lower on 0.8-mGy images than on images obtained at all other dose levels (-21 ± 55 \[SD\] vs 17.6 ± 19 HU, respectively) (p &lt; 0.001). CONCLUSION: Pleural effusions, thickening, and calcifications can be seen on FBP images reconstructed at a CTDIvol as low as 2 mGy (32-cm body phantom). CT at 0.8 mGy may provide suboptimal information on very small pleural effusions, pleural thickening, and calcifications.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/24951204/) · [DOI](https://doi.org/10.2214/AJR.13.11842)
+
+
+---
+
+### Clinical utility of ultra high pitch dual source thoracic CT imaging of acute pulmonary embolism in the emergency department: are we one step closer towards a non-gated triple rule out?
+
+*Hou DJ, Tso DK, Davison C, Inacio J, Louis LJ, Nicolaou S et al.* — European journal of radiology (2013)  
+
+<span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Aim of this study was to retrospectively compare the image quality and the radiation dose of an ultra high pitch CT scan for the evaluation of pulmonary embolism and visualization of cardiac structures in comparison to our institution&#x27;s standard pulmonary embolism protocol. METHOD AND MATERIALS: The study cohort consisted of 115 consecutive patients, 57 underwent CT pulmonary angiography on a dual…
+
+
+??? note "Abstract"
+    OBJECTIVES/PURPOSE: Aim of this study was to retrospectively compare the image quality and the radiation dose of an ultra high pitch CT scan for the evaluation of pulmonary embolism and visualization of cardiac structures in comparison to our institution&#x27;s standard pulmonary embolism protocol. METHOD AND MATERIALS: The study cohort consisted of 115 consecutive patients, 57 underwent CT pulmonary angiography on a dual source 128 slice scanner (Siemens Somatom Definition FLASH) via an ultra high pitch mode (Pitch 2.8) while 58 were scanned on a dual source 64 slice scanner (Siemens Somatom Definition Dual Source) with standard pitch (Pitch 0.9). Qualitative image assessment was determined by two blinded radiologists with 3 and 15 years&#x27; experience in chest and cardiac CT. Quantitative image assessment was determined by the signal to noise ratio (SNR) and contrast to noise ratio (CNR). Effective radiation dose was calculated via the product of the dose length product. RESULTS: For the ultra high pitch protocol, 14% (8/57) were positive for pulmonary embolus compared to 13.7% (8/58) for the standard pitch group. 98.2% of the ultra high pitch scans were diagnostic for pulmonary embolus vs. 94.8% of the standard protocol. Visualization of cardiac structures was significantly improved with the ultra high pitch protocol (p&lt;0.0001). Significantly more lung parenchymal motion was observed on the standard protocol (p&lt;0.0001). The mean pulmonary vessel attenuation, SNR, and CNR were not significantly different. The mean effective dose was lower for the ultra high pitch studies (4.09mSv±0.78 vs. 7.72mSv±2.60, p&lt;0.0001). CONCLUSION: Ultra high pitch CT imaging for pulmonary embolus is a technique which has potential to assess motion free evaluation of most cardiac structures and proximal coronary arteries at lower radiation doses.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/23743054/) · [DOI](https://doi.org/10.1016/j.ejrad.2013.05.003)
+
+
+---
+
+### Low-dose, prospective triggered high-pitch spiral coronary computed tomography angiography: comparison with retrospective spiral technique.
+
+*Srichai MB, Lim RP, Donnino R, Mannelli L, Hiralal R, Avery R et al.* — Academic radiology (2012)  
+
+<span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Cardiac computed tomographic angiography algorithms emphasize radiation reduction while maintaining diagnostic image quality (IQ). The aim of this study was to evaluate IQ and interreader variability using prospective electrocardiographically triggered high-pitch spiral cardiac computed tomographic angiography (FLASH-CT) compared to retrospective electrocardiographic gating (RETRO-CT) for coronary…
+
+
+??? note "Abstract"
+    RATIONALE AND OBJECTIVES: Cardiac computed tomographic angiography algorithms emphasize radiation reduction while maintaining diagnostic image quality (IQ). The aim of this study was to evaluate IQ and interreader variability using prospective electrocardiographically triggered high-pitch spiral cardiac computed tomographic angiography (FLASH-CT) compared to retrospective electrocardiographic gating (RETRO-CT) for coronary artery disease evaluation in a patient population including overweight and obese individuals. MATERIALS AND METHODS: Seventy patients (24 women; mean age, 60 years) matched for gender, age, body mass index (27.4 ± 5.5 kg/m(2)), and calcium score (184 ± 328) underwent cardiac computed tomographic angiography, 35 with FLASH-CT (Definition Flash) and 35 with RETRO-CT (Somatom Definition). Images were reconstructed using standard protocols and least motion phase for RETRO-CT acquisitions. Two independent, blinded readers evaluated the coronary arteries using an 18-segment model, grading IQ on a 5-point, Likert-type scale and coronary stenosis on a 5-point semiquantitative and binary scale. RESULTS: Effective radiation dose (1.50 vs 17.3 mSv, P &lt; .0001) and mean heart rate (58 vs 62 beats/min, P &lt; .05) were significantly lower for FLASH-CT compared to RETRO-CT. Seven hundred forty segments (&gt; 1.5 mm) were evaluated. There was no significant difference between FLASH-CT and RETRO-CT scans in overall per-segment IQ (3.11 ± 0.75 vs 3.10 ± 0.82, P = .94). FLASH-CT had noninferior IQ relative to RETRO-CT (95% confidence interval, -0.25 to 0.26). There was no significant difference in interreader variability in diagnosis between FLASH-CT and RETRO-CT for all coronary segments (77.5% vs 78.2%, P = .83). CONCLUSIONS: FLASH-CT is an acceptable coronary computed tomographic angiographic method for reducing radiation dose without compromising IQ for a patient population including overweight and obese individuals.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22366557/) · [DOI](https://doi.org/10.1016/j.acra.2012.01.009)
 
 
 ---
@@ -810,63 +772,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/11862505/) · [DOI](https://doi.org/10.1007/s00520-001-0313-4)
-
-
----
-
-### Pure methotrexate encephalopathy presenting with seizures: CT and MRI features.
-
-*Lövblad K, Kelkar P, Ozdoba C, Ramelli G, Remonda L, Schroth G* — Pediatric radiology (1998)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** With the advent of chemotherapy, mortality rates in acute lymphoblastic leukaemia (ALL) have decreased, but complications in the central nervous system have appeared. These include direct involvement of the brain itself and the development of chemotherapy-related encephalopathy as a delayed reaction.
-
-
-??? note "Abstract"
-    With the advent of chemotherapy, mortality rates in acute lymphoblastic leukaemia (ALL) have decreased, but complications in the central nervous system have appeared. These include direct involvement of the brain itself and the development of chemotherapy-related encephalopathy as a delayed reaction. In most reported cases, this encephalopathy is believed to be due to necrotising angiitis arising from the combination of chemotherapy with adjuvant radiotherapy. We report the cases of four children with ALL who had been treated with high-dose intravenous and intrathecal chemotherapy but no radiation therapy, and who were admitted to hospital because of seizures. CT of the brain revealed the presence of diffuse periventricular white matter hypodensities in all cases and subcortical hyperdense foci in three cases. MRI showed diffuse hyperintense white matter lesions on T2-weighted images in all four patients; hypointense changes were observed on susceptibility-sensitive FLASH sequences in the hyperdense foci seen on CT as well as changes that were hyperintense on T1-weighted images. It was, therefore, concluded that the lesions corresponded to a leukoencephalopathy with calcific deposits. These findings are of a pure form of methotrexate encephalopathy causing seizures.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/9472050/) · [DOI](https://doi.org/10.1007/s002470050299)
-
-
----
-
-### MRI-guided laser-induced interstitial thermotherapy of cerebral neoplasms.
-
-*Kahn T, Bettag M, Ulrich F, Schwarzmaier HJ, Schober R, Fürst G et al.* — Journal of computer assisted tomography (1994)  
-
-<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Laser-induced interstitial thermotherapy (LITT) using a neodymium:yttrium aluminum garnet (Nd: YAG) laser is a new therapeutic approach in the treatment of brain tumors. The purpose of our study was to determine the value of MRI in monitoring LITT.
-
-
-??? note "Abstract"
-    OBJECTIVE: Laser-induced interstitial thermotherapy (LITT) using a neodymium:yttrium aluminum garnet (Nd: YAG) laser is a new therapeutic approach in the treatment of brain tumors. The purpose of our study was to determine the value of MRI in monitoring LITT. MATERIALS AND METHODS: Eight patients with intracerebral tumors were treated with LITT. The light guide was inserted via an applicator sheath that was implanted stereotaxically with CT guidance. The laser irradiation was performed within the MR unit and monitored by repetitive measurements of a T1-weighted 2D-FLASH sequence. RESULTS: During therapy in all patients, typical changes of signal intensity were seen. A gradually increasing central zone of high signal intensity was surrounded by an increasing peripheral area of reduced signal intensity. The diameter of an enhancing rim at the outer border of the peripheral area after Gd-DTPA was considered as the total lesion size. The lesion size as determined on 2D-FLASH scans during LITT accounted for 88-100% (mean 93.5%) of total lesion size on T1-weighted images after Gd-DTPA acquired immediately after therapy. On T2-weighted images the signal intensities of the two zones were vice versa. Follow-up studies showed a decrease of total lesion size (15-87%). CONCLUSION: Our results demonstrate that MRI is feasible and effective in monitoring LITT. However, the role of LITT in the therapeutic workup of brain tumors still has to be defined in future clinical studies.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/8040431/) · [DOI](https://doi.org/10.1097/00004728-199407000-00002)
-
-
----
-
-### \[A new adjuvant therapy modality in the treatment of superficial bladder carcinoma. Study of feasibility of postoperative radiotherapy &quot;flash&quot;\].
-
-*Magrini S, Melone F, Chiavacci A, Biti G, Gazzarrini O, Muraro G et al.* — Minerva urologica e nefrologica = The Italian journal of urology and nephrology (1992)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** The Authors present the preliminary results of a feasibility study on the use of adjuvant radiotherapy (6 Gy single fraction, postoperatively, &quot;flash&quot;) as a new treatment modality for superficial bladder cancer (Ta-T1, N0, M0, previously relapsed or not, G I-III). The rationale for this study derives mainly from the favourable results obtained with external beam radiotherapy, when applied before i…
-
-
-??? note "Abstract"
-    The Authors present the preliminary results of a feasibility study on the use of adjuvant radiotherapy (6 Gy single fraction, postoperatively, &quot;flash&quot;) as a new treatment modality for superficial bladder cancer (Ta-T1, N0, M0, previously relapsed or not, G I-III). The rationale for this study derives mainly from the favourable results obtained with external beam radiotherapy, when applied before interstitial radiotherapy as a method to avoid scar relapses. Data regarding 55 cases treated with the &quot;flash&quot; are compared retrospectively with those regarding more than 100 cases treated with different types of &quot;conventional&quot; adjuvant therapy at the INRCA Center of Urology, during the last 3-4 years. The Authors stress the need for a prospective, randomized study of selected cases, to clarify if an adjuvant therapeutic modality is superior to the others. The radiotherapeutic option (&quot;flash&quot;), however, clearly produces less iatrogenic damage than the others, and is simpler and cheaper.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1529395/)
 
 
 ---
