@@ -2,7 +2,7 @@
 
 Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 
-*19 records. Newest first.*
+*18 records. Newest first.*
 
 ---
 
@@ -13,7 +13,7 @@ Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 <span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41278486/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110291) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10520273/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41278486/) · [DOI](https://doi.org/10.1016/j.phro.2025.100861) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12639323/)
 
 
 ---
@@ -56,7 +56,7 @@ Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 <span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38865549/) · [DOI](https://doi.org/10.1200/JGO.19.00261) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7193821/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38865549/) · [DOI](https://doi.org/10.1590/1806-9282.2024S130) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11164280/)
 
 
 ---
@@ -141,18 +141,6 @@ Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34979214/) · [DOI](https://doi.org/10.1016/j.radonc.2021.12.025)
-
-
----
-
-### Letter in Response to Doyen et al., &quot;Early Toxicities After High Dose Rate Proton Therapy in Cancer Treatments&quot;.
-
-*Montay-Gruel P, Vozenin MC, Limoli CL* — Frontiers in oncology (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34055651/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-20-0894) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7854480/)
 
 
 ---

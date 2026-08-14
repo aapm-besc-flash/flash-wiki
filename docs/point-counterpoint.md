@@ -25,7 +25,7 @@ Formal debate-column articles: Medical Physics Point/Counterpoint and the JACMP 
 <span class="badge oa">Open access</span> <span class="badge tag">Point-Counterpoint</span>
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37431574/) · [DOI](https://doi.org/10.1016/j.ijrobp.2023.05.012) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893711/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37431574/) · [DOI](https://doi.org/10.1002/acm2.14091) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10402688/)
 
 
 ---
@@ -37,7 +37,7 @@ Formal debate-column articles: Medical Physics Point/Counterpoint and the JACMP 
 <span class="badge oa">Open access</span> <span class="badge tag">Point-Counterpoint</span>
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35104025/) · [DOI](https://doi.org/10.1002/acm2.13547) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7894358/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35104025/) · [DOI](https://doi.org/10.1002/acm2.13547) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992943/)
 
 
 ---

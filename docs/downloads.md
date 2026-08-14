@@ -5,7 +5,7 @@ regenerate together on each refresh.
 
 | File | Description |
 |---|---|
-| `flash_library.xlsx` | Filterable master workbook — summary sheet + all 1,386 records with categories, tags, TL;DRs, DOIs and links |
+| `flash_library.xlsx` | Filterable master workbook — summary sheet + all 1,323 records with categories, tags, TL;DRs, DOIs and links |
 | `flash_library.csv` | Same data as plain CSV |
 | `flash_library.json` | The machine-readable source of truth that drives every view |
 | `flash_library.ris` | One-click import into **Zotero** / EndNote / Mendeley, pre-tagged by category |

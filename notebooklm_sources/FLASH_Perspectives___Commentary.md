@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Perspectives & Commentary
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-12. 19 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 18 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -8,7 +8,7 @@ Each entry below is one peer-reviewed publication: title, authors, journal/year,
 ## 1. New modalities for ultra-high dose rate irradiation and FLASH experiments.
 Authors: Adrian G, Moeckli R, Beyreuther E, Muren LP, Sørensen BS
 Journal: Physics and imaging in radiation oncology (2025)
-Identifiers: PMID 41278486; DOI 10.1016/j.radonc.2024.110291; PMC PMC10520273 (open access)
+Identifiers: PMID 41278486; DOI 10.1016/j.phro.2025.100861; PMC PMC12639323 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41278486/
 Category: Perspectives & Commentary | Tags: Perspectives & Commentary
 
@@ -41,7 +41,7 @@ Abstract: (no abstract available)
 ## 4. From "dose erythema" to FLASH radiotherapy: impacts on clinical practice.
 Authors: Carvalho HA, Mauro GP, Castilho MS
 Journal: Revista da Associacao Medica Brasileira (1992) (2024)
-Identifiers: PMID 38865549; DOI 10.1200/JGO.19.00261; PMC PMC7193821 (open access)
+Identifiers: PMID 38865549; DOI 10.1590/1806-9282.2024S130; PMC PMC11164280 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38865549/
 Category: Perspectives & Commentary | Tags: Perspectives & Commentary
 
@@ -126,18 +126,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 12. Letter in Response to Doyen et al., "Early Toxicities After High Dose Rate Proton Therapy in Cancer Treatments".
-Authors: Montay-Gruel P, Vozenin MC, Limoli CL
-Journal: Frontiers in oncology (2021)
-Identifiers: PMID 34055651; DOI 10.1158/1078-0432.CCR-20-0894; PMC PMC7854480 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/34055651/
-Category: Perspectives & Commentary | Tags: Perspectives & Commentary
-
-Abstract: (no abstract available)
-
----
-
-## 13. FLASH Radiation Therapy: New Technology Plus Biology Required.
+## 12. FLASH Radiation Therapy: New Technology Plus Biology Required.
 Authors: Buchsbaum JC, Coleman CN, Espey MG, Prasanna PGS, Capala J, Ahmed MM, Hong JA, Obcemea C
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 33548337; DOI 10.1016/j.ijrobp.2021.01.053
@@ -148,7 +137,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 14. FLASH Radiotherapy: A Clarification.
+## 13. FLASH Radiotherapy: A Clarification.
 Authors: Symonds P, Jones GDD
 Journal: Clinical oncology (Royal College of Radiologists (Great Britain)) (2020)
 Identifiers: PMID 32253105; DOI 10.1016/j.clon.2020.03.004
@@ -159,7 +148,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 15. Taking Care with FLASH Radiation Therapy.
+## 14. Taking Care with FLASH Radiation Therapy.
 Authors: Hendry J
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 32249014; DOI 10.1016/j.ijrobp.2020.01.029
@@ -170,7 +159,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 16. Corrigendum: Ultra-High Dose Rate (FLASH) Radiotherapy: Silver Bullet or Fool's Gold?
+## 15. Corrigendum: Ultra-High Dose Rate (FLASH) Radiotherapy: Silver Bullet or Fool's Gold?
 Authors: Wilson JD, Hammond EM, Higgins GS, Petersson K
 Journal: Frontiers in oncology (2020)
 Identifiers: PMID 32161721; DOI 10.3389/fonc.2020.00210; PMC PMC7053480 (open access)
@@ -181,7 +170,7 @@ Abstract: [This corrects the article DOI: 10.3389/fonc.2019.01563.].
 
 ---
 
-## 17. FLASH-radiotherapy: A new perspective in immunotherapy era?
+## 16. FLASH-radiotherapy: A new perspective in immunotherapy era?
 Authors: Yilmaz MT, Hurmuz P, Yazici G
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2020)
 Identifiers: PMID 31962256; DOI 10.1016/j.radonc.2019.12.015
@@ -192,7 +181,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 18. FLASH radiotherapy International Workshop.
+## 17. FLASH radiotherapy International Workshop.
 Authors: Vozenin MC, Baumann M, Coppes RP, Bourhis J
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31445836; DOI 10.1016/j.radonc.2019.07.020
@@ -203,7 +192,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 19. FLASH Radiotherapy: The Next Technological Advance in Radiation Therapy?
+## 18. FLASH Radiotherapy: The Next Technological Advance in Radiation Therapy?
 Authors: Symonds P, Jones GDD
 Journal: Clinical oncology (Royal College of Radiologists (Great Britain)) (2019)
 Identifiers: PMID 31178010; DOI 10.1016/j.clon.2019.05.011

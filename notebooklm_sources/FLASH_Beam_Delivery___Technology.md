@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Beam Delivery & Technology
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-12. 125 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 122 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -30,7 +30,7 @@ Abstract: This study presents a radioprotection assessment for an ultra-high dos
 ## 3. Transition Radiation Field Enhanced Laser Proton Acceleration Employing Near-Critical-Density Foam.
 Authors: Qin CY, Geng XS, Zhang H, Yu LH, Zhang LG, Dai YZ, Wang J, Zhang BW et al.
 Journal: Nature communications (2026)
-Identifiers: PMID 42297782; DOI 10.1088/0741-3335/57/11/113001; PMC PMC13409018 (open access)
+Identifiers: PMID 42297782; DOI 10.1038/s41467-026-74298-0; PMC PMC13409018 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42297782/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
 
@@ -41,7 +41,7 @@ Abstract: Laser-driven protons with ultrafast temporal properties attract great 
 ## 4. Multiscale Radiobiological Assessment of Laser-Driven Very High Energy Electrons Versus Conventional Electrons.
 Authors: Giaccaglia C, Bayart E, Dubail M, Varma C, Heinrich S, Gautier J, Tafzi A, Kononenko O et al.
 Journal: Advances in radiation oncology (2026)
-Identifiers: PMID 42183317; DOI 10.1016/j.adro.2026.102028; PMC PMC6979639 (open access)
+Identifiers: PMID 42183317; DOI 10.1016/j.adro.2026.102028; PMC PMC13194617 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42183317/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -52,7 +52,7 @@ Abstract: PURPOSE: This study systematically investigates the radiobiological ef
 ## 5. Addressing respiratory gating latency for accurate pulse delivery in preclinical electron FLASH irradiation on a clinical linear accelerator.
 Authors: Manjappa R, Wang J, Melemenidis S, Viswanathan V, Ashraf R, Skinner L, Soto LA, Lau B et al.
 Journal: ArXiv (2026)
-Identifiers: PMID 42094274; DOI 10.1002/mp.16418; PMC PMC6500588 (open access)
+Identifiers: PMID 42094274; PMC PMC13142555 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42094274/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -63,7 +63,7 @@ Abstract: BACKGROUND: Clinical linear accelerators are an accessible platform fo
 ## 6. Start-to-end modelling of laser-plasma acceleration, beam transport and dose deposition of very high-energy electrons for radiotherapy.
 Authors: Kalvala R, Golovanov A, Courvoisier A, Friling T, Kroupp E, Grishko L, Malka V
 Journal: Scientific reports (2026)
-Identifiers: PMID 42031987; DOI 10.1002/mp.17678; PMC PMC12059550 (open access)
+Identifiers: PMID 42031987; DOI 10.1038/s41598-026-49116-8; PMC PMC13272953 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42031987/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Clinical & Translational
 
@@ -74,7 +74,7 @@ Abstract: The proposed radiotherapy using very high-energy electron (VHEE) beams
 ## 7. A beam model and Boltzmann solver for radiotherapy treatment planning of superficial brain metastases using a scanned electron beam at ultra-high (FLASH) dose rate.
 Authors: Bedford J, Gross M, Riemer F, Amirkhanyan Z, Stephan F, Oelfke U
 Journal: Physics in medicine and biology (2026)
-Identifiers: PMID 42009057; DOI 10.1118/1.1382608; PMC PMC7971008 (open access)
+Identifiers: PMID 42009057; DOI 10.1088/1361-6560/ae6225; PMC PMC13145812 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42009057/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry, Treatment Planning & Optimization
 
@@ -85,7 +85,7 @@ Abstract: Objective.Contemporary particle accelerators allow for the generation 
 ## 8. Developing Bragg-peak FLASH proton irradiator using permanent magnet synchrotron.
 Authors: Qian X, Trbojevic D, Brooks S, Tsang T, Cattell R, Kim J, Zhang T, Ryu S
 Journal: Journal of radiosurgery and SBRT (2026)
-Identifiers: PMID 42004839; PMC PMC3493036 (open access)
+Identifiers: PMID 42004839; PMC PMC13007240 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42004839/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -96,7 +96,7 @@ Abstract: A novel Bragg peak FLASH proton radiation therapy facility using the f
 ## 9. Ultra-high dose rate electron FLASH beam irradiation using a modified clinical linear accelerator.
 Authors: Cho GS, Kim KT, Lee SS, Kim JH, Lee DH, Chang HS, Choi SH, Kim KB et al.
 Journal: PloS one (2026)
-Identifiers: PMID 41996464; DOI 10.1118/1.3190392; PMC PMC9544515 (open access)
+Identifiers: PMID 41996464; DOI 10.1371/journal.pone.0346577; PMC PMC13089894 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41996464/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -107,7 +107,7 @@ Abstract: FLASH radiation therapy reduced radiation-induced damage to normal tis
 ## 10. A preclinical setup for FLASH radiotherapy beam delivery at isocenter using downstream electron scattering.
 Authors: Ozoemelam I, Paplanus R, Pillainayagam M, Roberts DA, Litzenberg DW
 Journal: Journal of applied clinical medical physics (2026)
-Identifiers: PMID 41992376; DOI 10.1002/mp.16909; PMC PMC9780319 (open access)
+Identifiers: PMID 41992376; DOI 10.1002/acm2.70582; PMC PMC13086620 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41992376/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry
 
@@ -129,7 +129,7 @@ Abstract: Flash x-ray radiotherapy is an emerging, promising technique for tumor
 ## 12. PEERing into the Future: Benchmarking the ANSTO Australian Synchrotron's Very-High-Energy Electron Linac for Ultra-High Dose-Rate, In Vivo FLASH Radiotherapy Research.
 Authors: Cayley J, Engels E, Charles T, Roughley K, Wegner M, Koschny S, Brunt K, Cameron M et al.
 Journal: Cancers (2026)
-Identifiers: PMID 41749893; DOI 10.1088/2057-1976/abc967; PMC PMC7939035 (open access)
+Identifiers: PMID 41749893; DOI 10.3390/cancers18040640; PMC PMC12939895 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41749893/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry
 
@@ -140,7 +140,7 @@ Abstract: Background/Objectives: The PEER beamline at the ANSTO Australian Synch
 ## 13. FLASH radiotherapy preserves systemic and tissue homeostasis while maintaining antitumor efficacy.
 Authors: Furini G, Mota da Silva E, Usai A, Scabia G, Kusmic C, Faita F, Cavalieri A, Celentano M et al.
 Journal: BMC medicine (2026)
-Identifiers: PMID 41742130; DOI 10.1186/s12916-026-04724-z; PMC PMC6093334 (open access)
+Identifiers: PMID 41742130; DOI 10.1186/s12916-026-04724-z; PMC PMC13081300 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41742130/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Modeling & Mechanisms
 
@@ -173,7 +173,7 @@ Abstract: Objectives.This study aims to demonstrate the feasibility of combining
 ## 16. Comparison of protons and very high-energy electrons transmission pencil-beam-scanning for FLASH radiotherapy.
 Authors: Gesualdi F, Ermeneux L, Lansonneur P, Sitarz M, Loap P, Créhange G, Magliari A, De Marzi L
 Journal: Physics and imaging in radiation oncology (2025)
-Identifiers: PMID 41278487; DOI 10.1016/j.radonc.2023.109953; PMC PMC8303986 (open access)
+Identifiers: PMID 41278487; DOI 10.1016/j.phro.2025.100860; PMC PMC12639469 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41278487/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Treatment Planning & Optimization, Radiobiology
 
@@ -184,7 +184,7 @@ Abstract: BACKGROUND AND PURPOSE: Very High-Energy Electron (VHEE) radiotherapy 
 ## 17. Supersonic gas curtain based ionization beam profile monitor for FLASH proton beam therapy.
 Authors: Patel M, Kumar N, Thesni F, Butcher W, Price T, McLauchlan R, Welsch CP
 Journal: Frontiers in oncology (2025)
-Identifiers: PMID 41220944; DOI 10.1063/5.0157454; PMC PMC11302823 (open access)
+Identifiers: PMID 41220944; DOI 10.3389/fonc.2025.1694310; PMC PMC12597723 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41220944/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry
 
@@ -195,7 +195,7 @@ Abstract: INTRODUCTION: FLASH Proton Beam Therapy (FLASH-PBT) combines the preci
 ## 18. A compact, lightweight, variable-energy cyclotron for conventional and FLASH ion beam radiotherapy.
 Authors: Winklehner D, Minervini JV, Bromberg L, Forton E, Mandrillon J, Michael PC, Radovinsky A
 Journal: Frontiers in oncology (2025)
-Identifiers: PMID 41195279; DOI 10.1109/TASC.2019.2901190; PMC PMC6936748 (open access)
+Identifiers: PMID 41195279; DOI 10.3389/fonc.2025.1648237; PMC PMC12583090 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/41195279/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
 
@@ -250,7 +250,7 @@ Abstract: BACKGROUND AND PURPOSE: As the incidence and mortality rates of pancre
 ## 23. Beam intensity and stability control on a modified clinical linear accelerator for FLASH irradiation.
 Authors: Tan Y, Deoli NT, Harken AD, Brenner DJ, Garty G
 Journal: Physics in medicine and biology (2025)
-Identifiers: PMID 40769175; DOI 10.1002/mp.15920; PMC PMC12356227 (open access)
+Identifiers: PMID 40769175; DOI 10.1088/1361-6560/adf8ac; PMC PMC12351235 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/40769175/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry
 
@@ -283,7 +283,7 @@ Abstract: Objective.numerous preclinical and clinical experiments of proton FLAS
 ## 26. Monte Carlo simulation of a novel medical linac concept for highly conformal x-ray FLASH cancer radiotherapy.
 Authors: Krim DE, Whelan B, Harkness M, Otto K, Loo BW, Bazalova-Carter M
 Journal: Scientific reports (2025)
-Identifiers: PMID 40399395; DOI 10.1002/mp.14456; PMC PMC7894358 (open access)
+Identifiers: PMID 40399395; DOI 10.1038/s41598-025-02150-4; PMC PMC12095625 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/40399395/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Radiobiology
 
@@ -294,7 +294,7 @@ Abstract: A growing body of pre-clinical research has demonstrated the potential
 ## 27. Rapid Sterilization of Clinical Apheresis Blood Products Using Ultra-High Dose Rate Radiation.
 Authors: Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau HD, Ashraf MR, Manjappa R et al.
 Journal: International journal of molecular sciences (2025)
-Identifiers: PMID 40141066; DOI 10.1016/j.ijrobp.2024.03.017; PMC PMC12359262 (open access)
+Identifiers: PMID 40141066; DOI 10.3390/ijms26062424; PMC PMC11942528 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/40141066/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -305,7 +305,7 @@ Abstract: Blood products, including apheresis platelets and plasma, are essentia
 ## 28. A compact C-band FLASH electron linear accelerator prototype for the VHEE SAFEST project.
 Authors: Giuliano L, Alesini D, Cardelli F, Carillo M, Chiadroni E, Coppola M, Cuttone G, Curcio A et al.
 Journal: Frontiers in oncology (2025)
-Identifiers: PMID 40134606; DOI 10.1103/PhysRevSTAB.14.052001; PMC PMC8990885 (open access)
+Identifiers: PMID 40134606; DOI 10.3389/fonc.2025.1516576; PMC PMC11934386 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/40134606/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -316,7 +316,7 @@ Abstract: FLASH therapy, a novel cancer treatment technique, aims to control tum
 ## 29. Preparations for Ultra-High Dose Rate 25-90 MeV Electron Radiation Experiments with a Compact, High-Peak-Current, X-band Linear Accelerator.
 Authors: Effarah HH, Reutershan T, Seggebruch MWL, Algots M, Amador A, Baulch J, Drayson OGG, Hartemann FV et al.
 Journal: Radiation research (2025)
-Identifiers: PMID 40084756; DOI 10.6084/m9.figshare.25742997; PMC PMC3493036 (open access)
+Identifiers: PMID 40084756; DOI 10.1667/RADE-24-00120.1; PMC PMC12922569 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/40084756/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Physics & Dosimetry, Radiobiology
 
@@ -327,7 +327,7 @@ Abstract: The Distributed Charge Compton Source (DCCS) developed by Lumitron Tec
 ## 30. Preclinical tumor control with a laser-accelerated high-energy electron radiotherapy prototype.
 Authors: Guo Z, Liu S, Zhou B, Liu J, Wang H, Pi Y, Wang X, Mo Y et al.
 Journal: Nature communications (2025)
-Identifiers: PMID 39988613; DOI 10.1038/s41567-022-01520-3; PMC PMC3493036 (open access)
+Identifiers: PMID 39988613; DOI 10.1038/s41467-025-57122-z; PMC PMC11847918 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39988613/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Clinical & Translational
 
@@ -338,7 +338,7 @@ Abstract: Radiotherapy using very-high-energy electron (VHEE) beams (50-300 Me
 ## 31. Comparison of secondary radiation dose between pencil beam scanning and scattered delivery for proton and VHEE radiotherapy.
 Authors: Ronga MG, Gesualdi F, Bonfrate A, Patriarca A, Ferrand R, Créhange G, Buvat I, De Marzi L
 Journal: Medical physics (2025)
-Identifiers: PMID 39972099; DOI 10.1002/mp.17245; PMC PMC10091931 (open access)
+Identifiers: PMID 39972099; DOI 10.1002/mp.17700; PMC PMC12149673 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39972099/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
 
@@ -349,7 +349,7 @@ Abstract: BACKGROUND: Very high-energy electrons (VHEEs) in radiotherapy may off
 ## 32. Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion in a conduction-restricted plasma.
 Authors: Shou Y, Wu X, Pae KH, Ahn GE, Kim SY, Kim SH, Yoon JW, Sung JH et al.
 Journal: Nature communications (2025)
-Identifiers: PMID 39929819; DOI 10.1016/j.cpc.2017.09.024; PMC PMC11811029 (open access)
+Identifiers: PMID 39929819; DOI 10.1038/s41467-025-56667-3; PMC PMC11811029 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39929819/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -371,7 +371,7 @@ Abstract: Objective.The exact temporal characteristics of beam delivery affect t
 ## 34. Discordance in Acute Gastrointestinal Toxicity between Synchrotron-Based Proton and Linac-based Electron Ultra-High Dose Rate Irradiation.
 Authors: Liu K, Titt U, Esplen N, Connell L, Konradsson E, Yang M, Wang X, Takaoka T et al.
 Journal: International journal of radiation oncology, biology, physics (2025)
-Identifiers: PMID 39862897; DOI 10.1016/j.ijrobp.2025.01.007; PMC PMC10841640 (open access)
+Identifiers: PMID 39862897; DOI 10.1016/j.ijrobp.2025.01.007; PMC PMC13383351 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39862897/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Treatment Planning & Optimization, Clinical & Translational
 
@@ -404,7 +404,7 @@ Abstract: BACKGROUND: FLASH radiotherapy necessitates the development of advance
 ## 37. Design, Construction, and Test of Compact, Distributed-Charge, X-Band Accelerator Systems that Enable Image-Guided, VHEE FLASH Radiotherapy.
 Authors: Barty CPJ, Algots JM, Amador AJ, Barty JCR, Betts SM, Castañeda MA, Chu MM, Daley ME et al.
 Journal: ArXiv (2025)
-Identifiers: PMID 39148931; DOI 10.1364/EUVXRAY.2024.ETu2A.3; PMC PMC7856241 (open access)
+Identifiers: PMID 39148931; PMC PMC11326425 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39148931/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -415,7 +415,7 @@ Abstract: The design and optimization of laser-Compton x-ray systems based on co
 ## 38. Mimicking large spot-scanning radiation fields for proton FLASH preclinical studies with a robotic motion platform.
 Authors: Guan F, Jiang D, Wang X, Yang M, Iga K, Li Y, Bronk L, Bronk J et al.
 Journal: Precision radiation oncology (2024)
-Identifiers: PMID 40337456; DOI 10.21105/joss.04555; PMC PMC7014692 (open access)
+Identifiers: PMID 40337456; DOI 10.1002/pro6.1243; PMC PMC11934911 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/40337456/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry, Modeling & Mechanisms, Radiobiology
 
@@ -426,7 +426,7 @@ Abstract: Previously, a synchrotron-based horizontal proton beamline (87.2 MeV) 
 ## 39. Rapid Sterilization of Clinical Apheresis Blood Products using Ultra-High Dose Rate Radiation.
 Authors: Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau H, Ashraf MR, Manjappa R et al.
 Journal: bioRxiv : the preprint server for biology (2024)
-Identifiers: PMID 39713317; DOI 10.1101/2024.12.14.628469; PMC PMC6493948 (open access)
+Identifiers: PMID 39713317; DOI 10.1101/2024.12.14.628469; PMC PMC11661200 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39713317/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -448,7 +448,7 @@ Abstract: Objective.To evaluate spatially fractionated radiation therapy (SFRT) 
 ## 41. Mimicking large spot-scanning radiation fields for proton FLASH preclinical studies with a robotic motion platform.
 Authors: Guan F, Jiang D, Wang X, Yang M, Iga K, Li Y, Bronk L, Bronk J et al.
 Journal: ArXiv (2024)
-Identifiers: PMID 39314510; PMC PMC7014692 (open access)
+Identifiers: PMID 39314510; PMC PMC11419177 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39314510/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry, Modeling & Mechanisms, Radiobiology
 
@@ -470,7 +470,7 @@ Abstract: PURPOSE: Proton FLASH has been investigated using cyclotron and synchr
 ## 43. Organization and operation of multi particle therapy facilities: the Marburg Ion-Beam Therapy Center, Germany (MIT).
 Authors: Zink K, Baumann KS, Theiss U, Subtil F, Lahrmann S, Eberle F, Adeberg S
 Journal: Health and technology (2024)
-Identifiers: PMID 39219555; DOI 10.1088/1361-6560/aac30e; PMC PMC6851981 (open access)
+Identifiers: PMID 39219555; DOI 10.1007/s12553-024-00881-4; PMC PMC11358185 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39219555/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -481,7 +481,7 @@ Abstract: PURPOSE: The Marburg Ion-Beam Therapy Center (MIT) is one of two parti
 ## 44. Commissioning an ultra-high-dose-rate electron linac with end-to-end tests.
 Authors: Dai T, Sloop AM, Ashraf MR, Sunnerberg JP, Clark MA, Bruza P, Pogue BW, Jarvis L et al.
 Journal: Physics in medicine and biology (2024)
-Identifiers: PMID 39084661; DOI 10.1088/1361-6560/ad69fc; PMC PMC10137009 (open access)
+Identifiers: PMID 39084661; DOI 10.1088/1361-6560/ad69fc; PMC PMC12152580 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39084661/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry, Modeling & Mechanisms
 
@@ -503,7 +503,7 @@ Abstract: PURPOSE: To model relative biological effectiveness (RBE) differences 
 ## 46. The sparing effect of ultra-high dose rate irradiation on the esophagus.
 Authors: Ren W, Hou L, Zhang K, Chen H, Feng X, Jiang Z, Shao F, Dai J et al.
 Journal: Frontiers in oncology (2024)
-Identifiers: PMID 39070145; DOI 10.3390/cancers13051012; PMC PMC7957631 (open access)
+Identifiers: PMID 39070145; DOI 10.3389/fonc.2024.1442627; PMC PMC11272628 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39070145/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -525,7 +525,7 @@ Abstract: BACKGROUND: An ultra-high dose rate (UHDR) electron accelerator for FL
 ## 48. VHEE FLASH sparing effect measured at CLEAR, CERN with DNA damage of pBR322 plasmid as a biological endpoint.
 Authors: Wanstall HC, Korysko P, Farabolini W, Corsini R, Bateman JJ, Rieker V, Hemming A, Henthorn NT et al.
 Journal: Scientific reports (2024)
-Identifiers: PMID 38926450; DOI 10.1093/rpd/ncac286; PMC PMC10505938 (open access)
+Identifiers: PMID 38926450; DOI 10.1038/s41598-024-65055-8; PMC PMC11208499 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38926450/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Modeling & Mechanisms
 
@@ -558,7 +558,7 @@ Abstract: One challenge on the path to delivering FLASH-compatible beams with a 
 ## 51. CERN-based experiments and Monte-Carlo studies on focused dose delivery with very high energy electron (VHEE) beams for radiotherapy applications.
 Authors: Whitmore L, Mackay RI, van Herk M, Korysko P, Farabolini W, Malyzhenkov A, Corsini R, Jones RM
 Journal: Scientific reports (2024)
-Identifiers: PMID 38750131; DOI 10.2307/1402731; PMC PMC9042835 (open access)
+Identifiers: PMID 38750131; DOI 10.1038/s41598-024-60997-5; PMC PMC11096185 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38750131/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
 
@@ -580,7 +580,7 @@ Abstract: More than 70% of tumor patients require radiotherapy. Medical electron
 ## 53. Rapid Switching of a C-Series Linear Accelerator Between Conventional and Ultrahigh-Dose-Rate Research Mode With Beamline Modifications and Output Stabilization.
 Authors: Sloop A, Ashraf MR, Rahman M, Sunnerberg J, Dexter CA, Thompson L, Gladstone DJ, Pogue BW et al.
 Journal: International journal of radiation oncology, biology, physics (2024)
-Identifiers: PMID 38552990; DOI 10.1002/mp.15782; PMC PMC9543846 (open access)
+Identifiers: PMID 38552990; DOI 10.1016/j.ijrobp.2024.01.215; PMC PMC12356227 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38552990/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry, Clinical & Translational
 
@@ -591,7 +591,7 @@ Abstract: PURPOSE: In this study, a C-series linear accelerator was configured t
 ## 54. First Monte Carlo beam model for ultra-high dose rate radiotherapy with a compact electron LINAC.
 Authors: Dai T, Sloop AM, Rahman MR, Sunnerberg JP, Clark MA, Young R, Adamczyk S, Von Voigts-Rhetz P et al.
 Journal: Medical physics (2024)
-Identifiers: PMID 38493501; DOI 10.1002/mp.17031; PMC PMC3298565 (open access)
+Identifiers: PMID 38493501; DOI 10.1002/mp.17031; PMC PMC11316970 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38493501/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Physics & Dosimetry, Treatment Planning & Optimization, Clinical & Translational
 
@@ -602,7 +602,7 @@ Abstract: BACKGROUND: FLASH radiotherapy based on ultra-high dose rate (UHDR) is
 ## 55. Extending deterministic transport capabilities for very-high and ultra-high energy electron beams.
 Authors: Naceur A, Bienvenue C, Romano P, Chilian C, Carrier JF
 Journal: Scientific reports (2024)
-Identifiers: PMID 38307920; DOI 10.13182/NSE89-4; PMC PMC9873679 (open access)
+Identifiers: PMID 38307920; DOI 10.1038/s41598-023-51143-8; PMC PMC11226718 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38307920/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Clinical & Translational, Radiobiology
 
@@ -613,7 +613,7 @@ Abstract: Focused Very-High Energy Electron (VHEE, 50-300 MeV) and Ultra-High E
 ## 56. Beam control system and output fine-tuning for safe and precise delivery of FLASH radiotherapy at a clinical linear accelerator.
 Authors: Konradsson E, Wahlqvist P, Thoft A, Blad B, Bäck S, Ceberg C, Petersson K
 Journal: Frontiers in oncology (2024)
-Identifiers: PMID 38304871; DOI 10.1259/bjr.20220560; PMC PMC10392637 (open access)
+Identifiers: PMID 38304871; DOI 10.3389/fonc.2024.1342488; PMC PMC10830783 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/38304871/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry
 
@@ -635,7 +635,7 @@ Abstract: Objective.Spatially-fractionated radiotherapy (SFRT) delivered with a 
 ## 58. Feasibility study of high-power electron linac for clinical X-ray ROAD-FLASH therapy system.
 Authors: Kutsaev SV, Agustsson R, Boucher S, Carriere P, Ghoniem N, Kaneta K, Kravchenko M, Li A et al.
 Journal: Frontiers in medical engineering (2024)
-Identifiers: PMID 39925363; DOI 10.1088/1674-1137/38/6/067006; PMC PMC10795821 (open access)
+Identifiers: PMID 39925363; DOI 10.3389/fmede.2024.1382025; PMC PMC11805532 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/39925363/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Modeling & Mechanisms
 
@@ -646,7 +646,7 @@ Abstract: INTRODUCTION: This study examines how a practical source of X-ray radi
 ## 59. Construction and dosimetric characterization of a motorized scanning-slit system for electron FLASH experiments.
 Authors: Oesterle R, Bailat C, Buhlmann D, Bochud F, Grilj V
 Journal: Medical physics (2024)
-Identifiers: PMID 37439505; DOI 10.1002/mp.16610; PMC PMC7325740 (open access)
+Identifiers: PMID 37439505; DOI 10.1002/mp.16610; PMC PMC10787038 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/37439505/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry
 
@@ -679,7 +679,7 @@ Abstract: BACKGROUND AND PURPOSE: Radiotherapy delivery with ultra-high dose rat
 ## 62. Mean dose rate in ultra-high dose rate electron irradiation is a significant predictor for O2consumption and H2O2yield.
 Authors: Sunnerberg JP, Zhang R, Gladstone DJ, Swartz HM, Gui J, Pogue BW
 Journal: Physics in medicine and biology (2023)
-Identifiers: PMID 37463588; DOI 10.1667/RADE-21-00232.1; PMC PMC10176203 (open access)
+Identifiers: PMID 37463588; DOI 10.1088/1361-6560/ace877; PMC PMC10405361 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/37463588/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Modeling & Mechanisms
 
@@ -701,7 +701,7 @@ Abstract: Objective.FLASH radiation therapy with ultrahigh dose rates (UHDR) has
 ## 64. Single Ultra-High Dose Rate Proton Transmission Beam for Whole Breast FLASH-Irradiation: Quantification of FLASH-Dose and Relation with Beam Parameters.
 Authors: van Marlen P, van de Water S, Dahele M, Slotman BJ, Verbakel WFAR
 Journal: Cancers (2023)
-Identifiers: PMID 37174045; DOI 10.1016/j.radonc.2022.08.003; PMC PMC10268866 (open access)
+Identifiers: PMID 37174045; DOI 10.3390/cancers15092579; PMC PMC10177419 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/37174045/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Treatment Planning & Optimization
 
@@ -712,7 +712,7 @@ Abstract: Healthy tissue-sparing effects of FLASH (≥40 Gy/s, ≥4-8 Gy/fractio
 ## 65. Comparison of Gonadal Toxicity of Single-Fraction Ultra-High Dose Rate and Conventional Radiation in Mice.
 Authors: Cuitiño MC, Fleming JL, Jain S, Cetnar A, Ayan AS, Woollard J, Manring H, Meng W et al.
 Journal: Advances in radiation oncology (2023)
-Identifiers: PMID 37008254; DOI 10.1016/j.adro.2023.101201; PMC PMC7854480 (open access)
+Identifiers: PMID 37008254; DOI 10.1016/j.adro.2023.101201; PMC PMC10050676 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/37008254/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -745,7 +745,7 @@ Abstract: Objective.Carbon is an ion species of significant radiobiological inte
 ## 68. Failure Mode and Effects Analysis for Experimental Use of FLASH on a Clinical Accelerator.
 Authors: Rahman M, Zhang R, Gladstone DJ, Williams BB, Chen E, Dexter CA, Thompson L, Bruza P et al.
 Journal: Practical radiation oncology (2023)
-Identifiers: PMID 36375771; DOI 10.1016/j.ijrobp.2020.11.013; PMC PMC10544920 (open access)
+Identifiers: PMID 36375771; DOI 10.1016/j.prro.2022.10.011; PMC PMC10373055 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/36375771/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry, Clinical & Translational
 
@@ -756,7 +756,7 @@ Abstract: PURPOSE: The use of a linear accelerator (LINAC) in ultrahigh-dose-rat
 ## 69. Ultra-high dose rate FLASH irradiator at the radiological research accelerator facility.
 Authors: Garty G, Obaid R, Deoli N, Royba E, Tan Y, Harken AD, Brenner DJ
 Journal: Scientific reports (2022)
-Identifiers: PMID 36550150; DOI 10.1259/bjr.20211150; PMC PMC10505938 (open access)
+Identifiers: PMID 36550150; DOI 10.1038/s41598-022-19211-7; PMC PMC9780319 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/36550150/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -778,7 +778,7 @@ Abstract: At the Photo Injector Test facility at DESY in Zeuthen (PITZ), an R&D 
 ## 71. Practice-oriented solutions integrating intraoperative electron irradiation and personalized proton therapy for recurrent or unresectable cancers: Proof of concept and potential for dual FLASH effect.
 Authors: Calvo FA, Ayestaran A, Serrano J, Cambeiro M, Palma J, Meiriño R, Morcillo MA, Lapuente F et al.
 Journal: Frontiers in oncology (2022)
-Identifiers: PMID 36452493; DOI 10.1002/mp.15442; PMC PMC9032195 (open access)
+Identifiers: PMID 36452493; DOI 10.3389/fonc.2022.1037262; PMC PMC9703091 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/36452493/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Clinical & Translational, Modeling & Mechanisms
 
@@ -797,32 +797,10 @@ Abstract: PURPOSE: In order to translate the FLASH effect in clinical use and to
 
 ---
 
-## 73. The Microbeam Insert at the White Beam Beamline P61A at the Synchrotron PETRA III/DESY: A New Tool for High Dose Rate Irradiation Research.
-Authors: Schültke E, Fiedler S, Mewes C, Gargioni E, Klingenberg J, Abreu Faria G, Lerch M, Petasecca M et al.
-Journal: Cancers (2022)
-Identifiers: PMID 36291920; DOI 10.1371/journal.pone.0119924; PMC PMC4370487 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/36291920/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Clinical & Translational
-
-Abstract: High dose rate radiotherapies such as FLASH and microbeam radiotherapy (MRT) both have developed to the stage of first veterinary studies within the last decade. With the development of a new research tool for high dose rate radiotherapy at the end station P61A of the synchrotron beamline P61 on the DESY campus in Hamburg, we increased the research capacity in this field to speed up the translation of the radiotherapy techniques which are still experimental, from bench to bedside. At P61, dose rates of several hundred Gy/s can be delivered. Compared to dedicated biomedical beamlines, the beam width available for MRT experiments is a very restrictive factor. We developed two model systems specifically to suit these specific technical parameters and tested them in a first set of experiments.
-
----
-
-## 74. Prediction of phosphenes occurrence in patients undergoing photon irradiation to ocular structures due to brain tumor.
-Authors: Robles Díaz JF, Cabrera Moreno CM
-Journal: Archivos de la Sociedad Espanola de Oftalmologia (2022)
-Identifiers: PMID 35676025; DOI 10.1016/j.oftale.2022.02.008
-URL: https://pubmed.ncbi.nlm.nih.gov/35676025/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
-
-Abstract: BACKGROUND AND OBJECTIVE: Phosphenes are visual light phenomena that are experienced when there is no apparent light that stimulates the eye. In oncology, phosphenes are also present during radiation therapy for patients with tumors of the central nervous system, eyes, head and neck. Due to the discomfort of patients treated with irradiation to the head regions, research is conducted to determine whether the dose to the ocular structures is predictive for the occurrence of phosphenes. The objective was to demonstrate the relationship between the doses of the retina and vitreous humour with the appearance of phosphenes. MATERIAL AND METHOD: A descriptive study was carried out in a prospective cohort in 25 patients older than 18 years, with malignant tumours located at the level of the brain, both of primary and secondary origin, subjected to irradiation in 6 MV linear accelerators, during February 2020 to January 2021. As independent variables: Retinal dose and vitreous humour dose, and as dependent variables: Light flashes and stable light. Logistic regression analysis was used for prediction, using the SPSS statistical program (version 26.0). RESULT: A final date of 380 external radiotherapy treatments. The presence of any of the events in a prevalence of 58.7% of the total of fractions. The distribution for the presence of both events, flash of light and stable light, was 69.1%, 20.6% and 10.3% respectively. In the logistic regression analysis, for the light flare, only the dose factor in vitreous was significant (OR: 1.74, IC [1.059-2.419] p: 0.001). For stable light, the dose in the retina (OR: 1.73, IC [1.121-2.341] p: 0.005), and dose in the vitreous humor (OR: 1.82, IC [1.335-2.315] p: 0.003). CONCLUSIONS: There is a predictive relationship between the doses of irradiation of the retina and vitreous humour, for the generation of phosphenes. These results help radiotherapy centres take these anatomical structures into account to reduce the presence of phosphenes in patients. Likewise, it would help to reduce phosphenes, keeping the bunker area illuminated during the treatment.
-
----
-
-## 75. Ultra-high dose rate radiation production and delivery systems intended for FLASH.
+## 73. Ultra-high dose rate radiation production and delivery systems intended for FLASH.
 Authors: Farr J, Grilj V, Malka V, Sudharsan S, Schippers M
 Journal: Medical physics (2022)
-Identifiers: PMID 35403262; DOI 10.1142/9789812702807_0013:336-362; PMC PMC4108686 (open access)
+Identifiers: PMID 35403262; DOI 10.1002/mp.15659; PMC PMC9544515 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/35403262/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -830,7 +808,7 @@ Abstract: Higher dose rates, a trend for radiotherapy machines, can be beneficia
 
 ---
 
-## 76. Heat management of a compact x-ray source for microbeam radiotherapy and FLASH treatments.
+## 74. Heat management of a compact x-ray source for microbeam radiotherapy and FLASH treatments.
 Authors: Winter J, Dimroth A, Roetzer S, Zhang Y, Krämer KL, Petrich C, Matejcek C, Aulenbacher K et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35315089; DOI 10.1002/mp.15611
@@ -841,7 +819,7 @@ Abstract: BACKGROUND: Microbeam and x-ray FLASH radiation therapy are innovative
 
 ---
 
-## 77. Design optimization of an electron-to-photon conversion target for ultra-high dose rate x-ray (FLASH) experiments at TRIUMF.
+## 75. Design optimization of an electron-to-photon conversion target for ultra-high dose rate x-ray (FLASH) experiments at TRIUMF.
 Authors: Esplen N, Egoriti L, Paley B, Planche T, Hoehr C, Gottberg A, Bazalova-Carter M
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35299167; DOI 10.1088/1361-6560/ac5ed6
@@ -852,7 +830,7 @@ Abstract: OBJECTIVE: To develop a bremsstrahlung target and megavoltage (MV) x-r
 
 ---
 
-## 78. Quantifying the DNA-damaging Effects of FLASH Irradiation With Plasmid DNA.
+## 76. Quantifying the DNA-damaging Effects of FLASH Irradiation With Plasmid DNA.
 Authors: Perstin A, Poirier Y, Sawant A, Tambasco M
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 35124135; DOI 10.1016/j.ijrobp.2022.01.049
@@ -863,10 +841,10 @@ Abstract: PURPOSE: To investigate a plasmid DNA nicking assay approach for isola
 
 ---
 
-## 79. Technical note: Validation of an ultrahigh dose rate pulsed electron beam monitoring system using a current transformer for FLASH preclinical studies.
+## 77. Technical note: Validation of an ultrahigh dose rate pulsed electron beam monitoring system using a current transformer for FLASH preclinical studies.
 Authors: Gonçalves Jorge P, Grilj V, Bourhis J, Vozenin MC, Germond JF, Bochud F, Bailat C, Moeckli R
 Journal: Medical physics (2022)
-Identifiers: PMID 35066878; DOI 10.1002/mp.14885; PMC PMC8598141 (open access)
+Identifiers: PMID 35066878; DOI 10.1002/mp.15474; PMC PMC9303205 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/35066878/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry, Clinical & Translational
 
@@ -874,7 +852,7 @@ Abstract: PURPOSE: The Oriatron eRT6 is a linear accelerator (linac) used in FLA
 
 ---
 
-## 80. Phantom assessment of three-dimensional geometric distortion of a dedicated wide-bore MR-simulator for radiotherapy.
+## 78. Phantom assessment of three-dimensional geometric distortion of a dedicated wide-bore MR-simulator for radiotherapy.
 Authors: Law MWK, Yuan J, Wong OOL, Ding AY, Zhou Y, Cheung KY, Yu SK
 Journal: Biomedical physics & engineering express (2022)
 Identifiers: PMID 34874313; DOI 10.1088/2057-1976/ac3f4f
@@ -885,10 +863,10 @@ Abstract: This study evaluated the machine-dependent three-dimensional geometric
 
 ---
 
-## 81. Treatment Planning System for Electron FLASH Radiation Therapy: Open-Source for Clinical Implementation.
+## 79. Treatment Planning System for Electron FLASH Radiation Therapy: Open-Source for Clinical Implementation.
 Authors: Rahman M, Ashraf MR, Gladstone DJ, Bruza P, Jarvis LA, Schaner PE, Cao X, Pogue BW et al.
 Journal: International journal of radiation oncology, biology, physics (2022)
-Identifiers: PMID 34762969; DOI 10.1016/j.radonc.2019.01.031; PMC PMC4112394 (open access)
+Identifiers: PMID 34762969; DOI 10.1016/j.ijrobp.2021.10.148; PMC PMC10386889 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/34762969/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Radiobiology, Treatment Planning & Optimization, Clinical & Translational
 
@@ -896,10 +874,10 @@ Abstract: PURPOSE: To present a Monte Carlo (MC) beam model and its implementati
 
 ---
 
-## 82. Impact of high-dose rate radiotherapy on B and natural killer (NK) cell polarization in peripheral blood mononuclear cells (PBMCs) via inducing non-small cell lung cancer (NSCLC)-derived exosomes.
+## 80. Impact of high-dose rate radiotherapy on B and natural killer (NK) cell polarization in peripheral blood mononuclear cells (PBMCs) via inducing non-small cell lung cancer (NSCLC)-derived exosomes.
 Authors: Lei QQ, Sui JD, Jin F, Luo HL, Shan JJ, Tang L, Wang Y, Wu YZ
 Journal: Translational cancer research (2021)
-Identifiers: PMID 35116657; DOI 10.1016/S0169-5002(99)00072-0; PMC PMC2710917 (open access)
+Identifiers: PMID 35116657; DOI 10.21037/tcr-21-536; PMC PMC8797491 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/35116657/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -907,10 +885,10 @@ Abstract: BACKGROUND: Non-small cell lung cancer (NSCLC) is the most commonly di
 
 ---
 
-## 83. Deep Seated Tumour Treatments With Electrons of High Energy Delivered at FLASH Rates: The Example of Prostate Cancer.
+## 81. Deep Seated Tumour Treatments With Electrons of High Energy Delivered at FLASH Rates: The Example of Prostate Cancer.
 Authors: Sarti A, De Maria P, Battistoni G, De Simoni M, Di Felice C, Dong Y, Fischetti M, Franciosini G et al.
 Journal: Frontiers in oncology (2021)
-Identifiers: PMID 35024354; DOI 10.1016/j.ijrobp.2009.07.1754; PMC PMC4041542 (open access)
+Identifiers: PMID 35024354; DOI 10.3389/fonc.2021.777852; PMC PMC8744000 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/35024354/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Radiobiology, Treatment Planning & Optimization
 
@@ -918,10 +896,10 @@ Abstract: Different therapies are adopted for the treatment of deep seated tumou
 
 ---
 
-## 84. Dosimetry and radioprotection evaluations of very high energy electron beams.
+## 82. Dosimetry and radioprotection evaluations of very high energy electron beams.
 Authors: Masilela TAM, Delorme R, Prezado Y
 Journal: Scientific reports (2021)
-Identifiers: PMID 34642417; DOI 10.1667/rr2606.1; PMC PMC4149696 (open access)
+Identifiers: PMID 34642417; DOI 10.1038/s41598-021-99645-7; PMC PMC8511248 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/34642417/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Physics & Dosimetry
 
@@ -929,10 +907,10 @@ Abstract: Very high energy electrons (VHEEs) represent a promising alternative f
 
 ---
 
-## 85. Implementation and validation of a beam-current transformer on a medical pulsed electron beam LINAC for FLASH-RT beam monitoring.
+## 83. Implementation and validation of a beam-current transformer on a medical pulsed electron beam LINAC for FLASH-RT beam monitoring.
 Authors: Oesterle R, Gonçalves Jorge P, Grilj V, Bourhis J, Vozenin MC, Germond JF, Bochud F, Bailat C et al.
 Journal: Journal of applied clinical medical physics (2021)
-Identifiers: PMID 34609051; DOI 10.1002/mp.14885; PMC PMC9303205 (open access)
+Identifiers: PMID 34609051; DOI 10.1002/acm2.13433; PMC PMC8598141 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/34609051/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry
 
@@ -940,7 +918,7 @@ Abstract: PURPOSE: To implement and validate a beam current transformer as a pas
 
 ---
 
-## 86. Radiation shielding and safety implications following linac conversion to an electron FLASH-RT unit.
+## 84. Radiation shielding and safety implications following linac conversion to an electron FLASH-RT unit.
 Authors: Poirier Y, Mossahebi S, Becker SJ, Koger B, Xu J, Lamichhane N, Maxim PG, Sawant A
 Journal: Medical physics (2021)
 Identifiers: PMID 34287938; DOI 10.1002/mp.15105
@@ -951,10 +929,10 @@ Abstract: PURPOSE: Due to their finite range, electrons are typically ignored wh
 
 ---
 
-## 87. Focused VHEE (very high energy electron) beams and dose delivery for radiotherapy applications.
+## 85. Focused VHEE (very high energy electron) beams and dose delivery for radiotherapy applications.
 Authors: Whitmore L, Mackay RI, van Herk M, Jones JK, Jones RM
 Journal: Scientific reports (2021)
-Identifiers: PMID 34234203; DOI 10.1038/s41598-020-67997-1; PMC PMC7351755 (open access)
+Identifiers: PMID 34234203; DOI 10.1038/s41598-021-93276-8; PMC PMC8263594 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/34234203/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
 
@@ -962,10 +940,10 @@ Abstract: This paper presents the first demonstration of deeply penetrating dose
 
 ---
 
-## 88. First theoretical determination of relative biological effectiveness of very high energy electrons.
+## 86. First theoretical determination of relative biological effectiveness of very high energy electrons.
 Authors: Delorme R, Masilela TAM, Etoh C, Smekens F, Prezado Y
 Journal: Scientific reports (2021)
-Identifiers: PMID 34045625; DOI 10.1269/jrr.11080; PMC PMC7066940 (open access)
+Identifiers: PMID 34045625; DOI 10.1038/s41598-021-90805-3; PMC PMC8160353 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/34045625/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry, Modeling & Mechanisms
 
@@ -973,7 +951,7 @@ Abstract: Very high energy electrons (VHEEs, E > 70 MeV) present promising 
 
 ---
 
-## 89. Commissioning of a clinical pencil beam scanning proton therapy unit for ultra-high dose rates (FLASH).
+## 87. Commissioning of a clinical pencil beam scanning proton therapy unit for ultra-high dose rates (FLASH).
 Authors: Nesteruk KP, Togno M, Grossmann M, Lomax AJ, Weber DC, Schippers JM, Safai S, Meer D et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 33963576; DOI 10.1002/mp.14933
@@ -984,7 +962,7 @@ Abstract: PURPOSE: The purpose of this work was to provide a flexible platform f
 
 ---
 
-## 90. Characteristics of very high-energy electron beams for the irradiation of deep-seated targets.
+## 88. Characteristics of very high-energy electron beams for the irradiation of deep-seated targets.
 Authors: Böhlen TT, Germond JF, Traneus E, Bourhis J, Vozenin MC, Bailat C, Bochud F, Moeckli R
 Journal: Medical physics (2021)
 Identifiers: PMID 33884618; DOI 10.1002/mp.14891
@@ -995,10 +973,10 @@ Abstract: PURPOSE: Driven by advances in accelerator technology and the potentia
 
 ---
 
-## 91. A focused very high energy electron beam for fractionated stereotactic radiotherapy.
+## 89. A focused very high energy electron beam for fractionated stereotactic radiotherapy.
 Authors: Svendsen K, Guénot D, Svensson JB, Petersson K, Persson A, Lundh O
 Journal: Scientific reports (2021)
-Identifiers: PMID 33712653; DOI 10.1016/j.ejmp.2020.09.020; PMC PMC4410646 (open access)
+Identifiers: PMID 33712653; DOI 10.1038/s41598-021-85451-8; PMC PMC7971008 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/33712653/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Physics & Dosimetry
 
@@ -1006,10 +984,10 @@ Abstract: An electron beam of very high energy (50-250 MeV) can potentially pro
 
 ---
 
-## 92. Monitoring electron energies during FLASH irradiations.
+## 90. Monitoring electron energies during FLASH irradiations.
 Authors: Berne A, Petersson K, Tullis IDC, Newman RG, Vojnovic B
 Journal: Physics in medicine and biology (2021)
-Identifiers: PMID 33361551; DOI 10.3389/fonc.2019.01563; PMC PMC6979639 (open access)
+Identifiers: PMID 33361551; DOI 10.1088/1361-6560/abd672; PMC PMC8208618 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/33361551/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
 
@@ -1017,7 +995,7 @@ Abstract: When relativistic electrons are used to irradiate tissues, such as dur
 
 ---
 
-## 93. The European Joint Research Project UHDpulse - Metrology for advanced radiotherapy using particle beams with ultra-high pulse dose rates.
+## 91. The European Joint Research Project UHDpulse - Metrology for advanced radiotherapy using particle beams with ultra-high pulse dose rates.
 Authors: Schüller A, Heinrich S, Fouillade C, Subiel A, De Marzi L, Romano F, Peier P, Trachsel M et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 33181444; DOI 10.1016/j.ejmp.2020.09.020
@@ -1028,10 +1006,10 @@ Abstract: UHDpulse - Metrology for advanced radiotherapy using particle beams wi
 
 ---
 
-## 94. Toward an effective use of laser-driven very high energy electrons for radiotherapy: Feasibility assessment of multi-field and intensity modulation irradiation schemes.
+## 92. Toward an effective use of laser-driven very high energy electrons for radiotherapy: Feasibility assessment of multi-field and intensity modulation irradiation schemes.
 Authors: Labate L, Palla D, Panetta D, Avella F, Baffigi F, Brandi F, Di Martino F, Fulgentini L et al.
 Journal: Scientific reports (2020)
-Identifiers: PMID 33057078; DOI 10.1016/j.nima.2016.06.125; PMC PMC4637871 (open access)
+Identifiers: PMID 33057078; DOI 10.1038/s41598-020-74256-w; PMC PMC7560873 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/33057078/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -1039,10 +1017,10 @@ Abstract: Radiotherapy with very high energy electrons has been investigated for
 
 ---
 
-## 95. Initial Steps Towards a Clinical FLASH Radiotherapy System: Pediatric Whole Brain Irradiation with 40 MeV Electrons at FLASH Dose Rates.
+## 93. Initial Steps Towards a Clinical FLASH Radiotherapy System: Pediatric Whole Brain Irradiation with 40 MeV Electrons at FLASH Dose Rates.
 Authors: Breitkreutz DY, Shumail M, Bush KK, Tantawi SG, Maxime PG, Loo BW
 Journal: Radiation research (2020)
-Identifiers: PMID 32991725; DOI 10.1667/RADE-20-00069.1; PMC PMC6850216 (open access)
+Identifiers: PMID 32991725; DOI 10.1667/RADE-20-00069.1; PMC PMC7856241 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/32991725/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Physics & Dosimetry, Radiobiology, Clinical & Translational
 
@@ -1050,7 +1028,7 @@ Abstract: In this work, we investigated the delivery of a clinically acceptable 
 
 ---
 
-## 96. Beamline characterization of a dielectric-filled reentrant cavity resonator as beam current monitor for a medical cyclotron facility.
+## 94. Beamline characterization of a dielectric-filled reentrant cavity resonator as beam current monitor for a medical cyclotron facility.
 Authors: Srinivasan S, Duperrex PA, Schippers JM
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32956916; DOI 10.1016/j.ejmp.2020.09.006
@@ -1061,7 +1039,7 @@ Abstract: At PSI (Paul Scherrer Institute), Switzerland, a superconducting cyclo
 
 ---
 
-## 97. Technical challenges for FLASH proton therapy.
+## 95. Technical challenges for FLASH proton therapy.
 Authors: Jolly S, Owen H, Schippers M, Welsch C
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32947086; DOI 10.1016/j.ejmp.2020.08.005
@@ -1072,10 +1050,10 @@ Abstract: There is growing interest in the radiotherapy community in the applica
 
 ---
 
-## 98. A framework for defining FLASH dose rate for pencil beam scanning.
+## 96. A framework for defining FLASH dose rate for pencil beam scanning.
 Authors: Folkerts MM, Abel E, Busold S, Perez JR, Krishnamurthi V, Ling CC
 Journal: Medical physics (2020)
-Identifiers: PMID 32910460; DOI 10.1002/mp.14456; PMC PMC5689862 (open access)
+Identifiers: PMID 32910460; DOI 10.1002/mp.14456; PMC PMC7894358 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/32910460/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -1083,10 +1061,10 @@ Abstract: PURPOSE: To develop a method of (a) calculating the dose rate of voxel
 
 ---
 
-## 99. Evaluating the Reproducibility of Mouse Anatomy under Rotation in a Custom Immobilization Device for Conformal FLASH Radiotherapy.
+## 97. Evaluating the Reproducibility of Mouse Anatomy under Rotation in a Custom Immobilization Device for Conformal FLASH Radiotherapy.
 Authors: Ko RB, Soto LA, von Eyben R, Melemenidis S, Rankin EB, Maxim PG, Graves EE, Loo BW
 Journal: Radiation research (2020)
-Identifiers: PMID 32857849; DOI 10.1667/RADE-20-00095; PMC PMC6189049 (open access)
+Identifiers: PMID 32857849; DOI 10.1667/RADE-20-00095; PMC PMC7856226 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/32857849/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
 
@@ -1094,21 +1072,10 @@ Abstract: The observation of an enhanced therapeutic index for FLASH radiotherap
 
 ---
 
-## 100. [Organ-based Tube-current Modulation Applied on Different MDCT Scanners: Reduction in the Radiation Dose to the Eye Lens at Head CT].
-Authors: Kitera N, Matsubara K, Fujioka C, Yokomachi K, Nishimaru E, Kiguchi M, Morimoto A, Ishifuro M et al.
-Journal: Nihon Hoshasen Gijutsu Gakkai zasshi (2020)
-Identifiers: PMID 32307364; DOI 10.6009/jjrt.2020_JSRT_76.4.366
-URL: https://pubmed.ncbi.nlm.nih.gov/32307364/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: PURPOSE: Organ-based tube current modulation (OB-TCM) techniques, which are provided by three vendors, reduces the radiation dose to the lens of the eyes by decreasing the tube current, when the X-ray tube passes over the anterior surface of critical organs. However, the characteristics of dose modulation of these techniques are different. The purpose of this study was to understand the performance characteristics of OB-TCM technique of each computed tomography (CT) vendor at head CT. METHODS: We used three CT scanners (SOMATOM Definition Flash; Siemens Healthcare, Revolution CT; GE Healthcare, and Aquilion ONE Genesis Edition; Canon Medical Systems). We measured the radiation dose to the lens surface as evaluation of radiation dose reduction and measured the image noise as index of image quality. We measured the radiation dose rate in the air for analysis of the characteristics of dose modulation in each OB-TCM. RESULTS: When applying OB-TCM, the radiation doses for the lens surface were decreased by 28%, 22%, and 25% for Siemens, GE, and Canon CT scanners, respectively, and the image noise level was increased by 5.6%, 8.5%, and 15.1% for Siemens, GE, and Canon CT scanners, respectively. The characteristics of dose modulation in each OB-TCM were also confirmed by measured the radiation dose rate. CONCLUSION: We confirmed that each OB-TCM has different influence on image quality and radiation doses for lens surface, due to the different characteristics of dose modulation for each CT vendor.
-
----
-
-## 101. Particle physics experiments based on the AWAKE acceleration scheme.
+## 98. Particle physics experiments based on the AWAKE acceleration scheme.
 Authors: Wing M
 Journal: Philosophical transactions. Series A, Mathematical, physical, and engineering sciences (2019)
-Identifiers: PMID 31230578; DOI 10.1088/0954-3899/33/1/001; PMC PMC6786972 (open access)
+Identifiers: PMID 31230578; DOI 10.1098/rsta.2018.0185; PMC PMC6602917 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/31230578/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -1116,21 +1083,10 @@ Abstract: New particle acceleration schemes open up exciting opportunities, pote
 
 ---
 
-## 102. Whole breast radiotherapy in the isocentric lateral decubitus position: Role of the immobilization device and table on clinical results.
-Authors: Krhili S, Costa E, Xu HP, Kirova YM
-Journal: Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2019)
-Identifiers: PMID 31053514; DOI 10.1016/j.canrad.2018.09.001
-URL: https://pubmed.ncbi.nlm.nih.gov/31053514/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
-
-Abstract: PURPOSE: To evaluate clinical results and the "effect bolus" based on the table design of different linear accelerators in patients with breast cancer treated by previously published whole breast irradiation in the isocentric lateral decubitus position. MATERIAL AND METHODS: We studied 248 consecutive female patients with early stage breast cancer treated by conservative surgery followed by three-dimensional conformal whole breast irradiation in the isocentric lateral decubitus position between January 2013 and February 2014. Radiotherapy was performed on linear accelerators using a Varian. The energy used was 4 and 10MV photons or 6MV photons. All patients were evaluated weekly by the radiation oncologist, acute toxicity was assessed using the NCICTC v 3.0 scale. Late toxicity and cosmetic results were evaluated 18 months after the radiotherapy. Cosmetic results were defined as excellent, good, middle or bad. RESULTS: Among the 248 women included, the median age was 67 years (range: 35-91 years). All received whole breast radiotherapy with boost in 144 patients (58%). One-hundred-twenty patients received normofractionated and 124 patients hypofractionated whole breast radiotherapy. Median follow-up was 18 months. Acute skin toxicity in the whole breast radiotherapy in the isocentric lateral decubitus position was acceptable: there was 47% of grade 1 radiodermatitis, 50% of grade 2 and 3% grade 3 and no grade 4 for normofractionated radiotherapy; 89% of grade 1 dermatitis and 11% of grade 2 for hypofractionated radiotherapy; 89.7% of grade 0-1 dermatitis and 10.3% of grade 2 for the "flash" scheme and did not differ between the three linear accelerators (P=0.2, P=0.9 and P=0.2 respectively for the normofractionated radiotherapy, hypofractionated radiotherapy and the "flash"scheme). Late toxicity was acceptable with 84% of grade 0-1 fibrosis for normofractionated radiotherapy, 94% of patients for hypofractionated radiotherapy and 77% for "flash" scheme and did not differ between the three linear accelerators (P=0.44, P=1 and P=0.22 resp.). Most of patients (81%) had an excellent or a good cosmetic outcome. CONCLUSIONS: Whole breast radiotherapy in the isocentric lateral decubitus position is well tolerated. Clinical results are comparable based on different immobilization device allowed by linear accelerators. Particularly, there was no influence of the couch on skin tolerance and cosmetic results.
-
----
-
-## 103. DNA DSB Repair Dynamics following Irradiation with Laser-Driven Protons at Ultra-High Dose Rates.
+## 99. DNA DSB Repair Dynamics following Irradiation with Laser-Driven Protons at Ultra-High Dose Rates.
 Authors: Hanton F, Chaudhary P, Doria D, Gwynne D, Maiorino C, Scullion C, Ahmed H, Marshall T et al.
 Journal: Scientific reports (2019)
-Identifiers: PMID 30872656; DOI 10.1038/nmeth.2089; PMC PMC5554542 (open access)
+Identifiers: PMID 30872656; DOI 10.1038/s41598-019-40339-6; PMC PMC6418121 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/30872656/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology, Physics & Dosimetry
 
@@ -1138,7 +1094,7 @@ Abstract: Protontherapy has emerged as more effective in the treatment of certai
 
 ---
 
-## 104. Modifying a clinical linear accelerator for delivery of ultra-high dose rate irradiation.
+## 100. Modifying a clinical linear accelerator for delivery of ultra-high dose rate irradiation.
 Authors: Lempart M, Blad B, Adrian G, Bäck S, Knöös T, Ceberg C, Petersson K
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 30755324; DOI 10.1016/j.radonc.2019.01.031
@@ -1149,7 +1105,7 @@ Abstract: OBJECTIVES: The purpose of this study was to modify a clinical linear 
 
 ---
 
-## 105. Acceleration of electrons in the plasma wakefield of a proton bunch.
+## 101. Acceleration of electrons in the plasma wakefield of a proton bunch.
 Authors: Adli E, Ahuja A, Apsimon O, Apsimon R, Bachmann AM, Barrientos D, Batsch F, Bauche J et al.
 Journal: Nature (2018)
 Identifiers: PMID 30188496; DOI 10.1038/s41586-018-0485-4; PMC PMC6786972 (open access)
@@ -1160,10 +1116,10 @@ Abstract: High-energy particle accelerators have been crucial in providing a dee
 
 ---
 
-## 106. Optogenetic conditioning of paradigm and pattern discrimination in the rat somatosensory system.
+## 102. Optogenetic conditioning of paradigm and pattern discrimination in the rat somatosensory system.
 Authors: Abe K, Yawo H
 Journal: PloS one (2017)
-Identifiers: PMID 29267341; DOI 10.1038/nn1891; PMC PMC5193142 (open access)
+Identifiers: PMID 29267341; DOI 10.1371/journal.pone.0189439; PMC PMC5739416 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/29267341/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
@@ -1171,7 +1127,7 @@ Abstract: The rodent whisker-barrel cortical system is a model for studying soma
 
 ---
 
-## 107. Very high-energy electron (VHEE) beams in radiation therapy; Treatment plan comparison between VHEE, VMAT, and PPBS.
+## 103. Very high-energy electron (VHEE) beams in radiation therapy; Treatment plan comparison between VHEE, VMAT, and PPBS.
 Authors: Schüler E, Eriksson K, Hynning E, Hancock SL, Hiniker SM, Bazalova-Carter M, Wong T, Le QT et al.
 Journal: Medical physics (2017)
 Identifiers: PMID 28339108; DOI 10.1002/mp.12233
@@ -1182,7 +1138,7 @@ Abstract: PURPOSE: The aim of this study was to evaluate the performance of very
 
 ---
 
-## 108. Experimental Platform for Ultra-high Dose Rate FLASH Irradiation of Small Animals Using a Clinical Linear Accelerator.
+## 104. Experimental Platform for Ultra-high Dose Rate FLASH Irradiation of Small Animals Using a Clinical Linear Accelerator.
 Authors: Schüler E, Trovati S, King G, Lartey F, Rafat M, Villegas M, Praxel AJ, Loo BW et al.
 Journal: International journal of radiation oncology, biology, physics (2017)
 Identifiers: PMID 27816362; DOI 10.1016/j.ijrobp.2016.09.018
@@ -1193,7 +1149,7 @@ Abstract: PURPOSE: A key factor limiting the effectiveness of radiation therapy 
 
 ---
 
-## 109. Growth of nano-dots on the grazing-incidence mirror surface under FEL irradiation.
+## 105. Growth of nano-dots on the grazing-incidence mirror surface under FEL irradiation.
 Authors: Kozhevnikov IV, Buzmakov AV, Siewert F, Tiedtke K, Störmer M, Samoylova L, Sinn H
 Journal: Journal of synchrotron radiation (2016)
 Identifiers: PMID 26698048; DOI 10.1107/S160057751502202X
@@ -1204,7 +1160,7 @@ Abstract: A new phenomenon on X-ray optics surfaces has been observed: the growt
 
 ---
 
-## 110. Comparison of film measurements and Monte Carlo simulations of dose delivered with very high-energy electron beams in a polystyrene phantom.
+## 106. Comparison of film measurements and Monte Carlo simulations of dose delivered with very high-energy electron beams in a polystyrene phantom.
 Authors: Bazalova-Carter M, Liu M, Palma B, Dunning M, McCormick D, Hemsing E, Nelson J, Jobe K et al.
 Journal: Medical physics (2015)
 Identifiers: PMID 25832051; DOI 10.1118/1.4914371
@@ -1215,7 +1171,7 @@ Abstract: PURPOSE: To measure radiation dose in a water-equivalent medium from v
 
 ---
 
-## 111. Influence of the electron energy and number of beams on the absorbed dose distributions in radiotherapy of deep seated targets.
+## 107. Influence of the electron energy and number of beams on the absorbed dose distributions in radiotherapy of deep seated targets.
 Authors: Garnica-Garza HM
 Journal: Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine (2014)
 Identifiers: PMID 25151497; DOI 10.1016/j.apradiso.2014.07.018
@@ -1226,7 +1182,18 @@ Abstract: With the advent of compact laser-based electron accelerators, there ha
 
 ---
 
-## 112. SU-E-T-472: Characterization of the Very High Energy Electrons, ISO - 250 MeV (VHEE) Beam Generated by ALPHA-X Laser Wakefield Accelerator Beam Line for Utilization in Monte Carlo Simulation for Biomedical Experiment Planning.
+## 108. Recent results of irradiations of DIS-1 dosemeters with an XR200 X-ray flash unit.
+Authors: Zutz H, Hupe O
+Journal: Radiation protection dosimetry (2013)
+Identifiers: PMID 23075930; DOI 10.1093/rpd/ncs265
+URL: https://pubmed.ncbi.nlm.nih.gov/23075930/
+Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
+
+Abstract: Earlier measurements have revealed that active electronic dosemeters have deficiencies in pulsed fields of ionising radiation due to the counting technique used. The DIS-1 dosemeter uses a promising technology, which should be basically suitable for measurements in pulsed fields. In this paper, first measurements with the DIS-1 dosemeter at an X-ray flash generator XR200 with pulse durations of ∼115 ns and doses per pulse of a few microsievert are shown.
+
+---
+
+## 109. SU-E-T-472: Characterization of the Very High Energy Electrons, ISO - 250 MeV (VHEE) Beam Generated by ALPHA-X Laser Wakefield Accelerator Beam Line for Utilization in Monte Carlo Simulation for Biomedical Experiment Planning.
 Authors: Moskvin V, Subiel A, Desrosiers C, Wiggins M, Maryanski M, Mendonca M, Boyd M, Sorensen A et al.
 Journal: Medical physics (2012)
 Identifiers: PMID 28517464; DOI 10.1118/1.4735561
@@ -1237,7 +1204,7 @@ Abstract: PURPOSE: Progress in the development of compact high-energy pulsed las
 
 ---
 
-## 113. The extreme ultraviolet split and femtosecond delay unit at the plane grating monochromator beamline PG2 at FLASH.
+## 110. The extreme ultraviolet split and femtosecond delay unit at the plane grating monochromator beamline PG2 at FLASH.
 Authors: Sorgenfrei F, Schlotter WF, Beeck T, Nagasono M, Gieschen S, Meyer H, Föhlisch A, Beye M et al.
 Journal: The Review of scientific instruments (2010)
 Identifiers: PMID 20441325; DOI 10.1063/1.3374166
@@ -1248,7 +1215,7 @@ Abstract: An extreme ultraviolet split and femtosecond delay unit based on grazi
 
 ---
 
-## 114. Treatment planning for laser-accelerated very-high energy electrons.
+## 111. Treatment planning for laser-accelerated very-high energy electrons.
 Authors: Fuchs T, Szymanowski H, Oelfke U, Glinec Y, Rechatin C, Faure J, Malka V
 Journal: Physics in medicine and biology (2009)
 Identifiers: PMID 19430107; DOI 10.1088/0031-9155/54/11/003
@@ -1259,18 +1226,18 @@ Abstract: In recent experiments, quasi-monoenergetic and well-collimated very-hi
 
 ---
 
-## 115. 4D-Imaging of the lung: reproducibility of lesion size and displacement on helical CT, MRI, and cone beam CT in a ventilated ex vivo system.
-Authors: Biederer J, Dinkel J, Remmert G, Jetter S, Nill S, Moser T, Bendl R, Thierfelder C et al.
-Journal: International journal of radiation oncology, biology, physics (2009)
-Identifiers: PMID 19215826; DOI 10.1016/j.ijrobp.2008.09.014
-URL: https://pubmed.ncbi.nlm.nih.gov/19215826/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
+## 112. Application of low-cost Gallium Arsenide light-emitting-diodes as kerma dosemeter and fluence monitor for high-energy neutrons.
+Authors: Mukherjee B, Simrock S, Khachan J, Rybka D, Romaniuk R
+Journal: Radiation protection dosimetry (2007)
+Identifiers: PMID 17517672; DOI 10.1093/rpd/ncm053
+URL: https://pubmed.ncbi.nlm.nih.gov/17517672/
+Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
-Abstract: PURPOSE: Four-dimensional (4D) imaging is a key to motion-adapted radiotherapy of lung tumors. We evaluated in a ventilated ex vivo system how size and displacement of artificial pulmonary nodules are reproduced with helical 4D-CT, 4D-MRI, and linac-integrated cone beam CT (CBCT). METHODS AND MATERIALS: Four porcine lungs with 18 agarose nodules (mean diameters 1.3-1.9 cm), were ventilated inside a chest phantom at 8/min and subject to 4D-CT (collimation 24 x 1.2 mm, pitch 0.1, slice/increment 24 x 10(2)/1.5/0.8 mm, pitch 0.1, temporal resolution 0.5 s), 4D-MRI (echo-shared dynamic three-dimensional-flash; repetition/echo time 2.13/0.72 ms, voxel size 2.7 x 2.7 x 4.0 mm, temporal resolution 1.4 s) and linac-integrated 4D-CBCT (720 projections, 3-min rotation, temporal resolution approximately 1 s). Static CT without respiration served as control. Three observers recorded lesion size (RECIST-diameters x/y/z) and axial displacement. Interobserver- and interphase-variation coefficients (IO/IP VC) of measurements indicated reproducibility. RESULTS: Mean x/y/z lesion diameters in cm were equal on static and dynamic CT (1.88/1.87; 1.30/1.39; 1.71/1.73; p > 0.05), but appeared larger on MRI and CBCT (2.06/1.95 [p < 0.05 vs. CT]; 1.47/1.28 [MRI vs. CT/CBCT p < 0.05]; 1.86/1.83 [CT vs. CBCT p < 0.05]). Interobserver-VC for lesion sizes were 2.54-4.47% (CT), 2.29-4.48% (4D-CT); 5.44-6.22% (MRI) and 4.86-6.97% (CBCT). Interphase-VC for lesion sizes ranged from 2.28% (4D-CT) to 10.0% (CBCT). Mean displacement in cm decreased from static CT (1.65) to 4D-CT (1.40), CBCT (1.23) and MRI (1.16). CONCLUSIONS: Lesion sizes are exactly reproduced with 4D-CT but overestimated on 4D-MRI and CBCT with a larger variability due to limited temporal and spatial resolution. All 4D-modalities underestimate lesion displacement.
+Abstract: Displacement damage (DD) caused by fast neutrons in unbiased Gallium Arsenide (GaAs) light emitting diodes (LED) resulted in a reduction of the light output. On the other hand, a similar type of LED irradiated with gamma rays from a (60)Co source up to a dose level in excess of 1.0 kGy (1.0 x 10(5) rad) was found to show no significant drop of the light emission. This phenomenon was used to develop a low cost passive fluence monitor and kinetic energy released per unit mass dosemeter for accelerator-produced neutrons. These LED-dosemeters were used to assess the integrated fluence of photoneutrons, which were contaminated with a strong bremsstrahlung gamma-background generated by the 730 MeV superconducting electron linac driving the free electron laser in Hamburg (FLASH) at Deutsches Elektronen-Synchrotron. The applications of GaAs LED as a routine neutron fluence monitor and DD precursor for the electronic components located in high-energy accelerator environment are highlighted.
 
 ---
 
-## 116. Characteristics of focused soft X-ray free-electron laser beam determined by ablation of organic molecular solids.
+## 113. Characteristics of focused soft X-ray free-electron laser beam determined by ablation of organic molecular solids.
 Authors: Chalupský J, Juha L, Kuba J, Cihelka J, Hájková V, Koptyaev S, Krása J, Velyhan A et al.
 Journal: Optics express (2007)
 Identifiers: PMID 19546907; DOI 10.1364/oe.15.006036
@@ -1281,7 +1248,18 @@ Abstract: A linear accelerator based source of coherent radiation, FLASH (Free-e
 
 ---
 
-## 117. Irradiation of intense characteristic x-rays from weakly ionized linear molybdenum plasma.
+## 114. Compact monochromatic flash x-ray generator utilizing a disk-cathode molybdenum tube.
+Authors: Sato E, Tanaka E, Mori H, Kawai T, Ichimaru T, Sato S, Takayama K, Ido H
+Journal: Medical physics (2005)
+Identifiers: PMID 15719954; DOI 10.1118/1.1829247
+URL: https://pubmed.ncbi.nlm.nih.gov/15719954/
+Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
+
+Abstract: The high-voltage condensers in a polarity-inversion two-stage Marx surge generator are charged from -50 to -70 kV by a power supply, and the electric charges in the condensers are discharged to an x-ray tube after closing gap switches in the surge generator with a trigger device. The x-ray tube is a demountable diode, and the turbo molecular pump evacuates air from the tube with a pressure of approximately 1 mPa. Clean molybdenum Kalpha lines are produced using a 20 microm-thick zirconium filter, since the tube utilizes a disk cathode and a rod target, and bremsstrahlung rays are not emitted in the opposite direction to that of electron acceleration. At a charging voltage of -70 kV, the instantaneous tube voltage and current were 120 kV and 1.0 kA, respectively. The x-ray pulse widths were approximately 70 ns, and the generator produced instantaneous number of Kalpha photons was approximately 3 x 10(7) photons/cm2 per pulse at 0.5 m from the source of 3.0 mm in diameter.
+
+---
+
+## 115. Irradiation of intense characteristic x-rays from weakly ionized linear molybdenum plasma.
 Authors: Sato E, Hayasi Y, Germer R, Tanaka E, Mori H, Kawai T, Obara H, Ichimaru T et al.
 Journal: Igaku butsuri : Nihon Igaku Butsuri Gakkai kikanshi = Japanese journal of medical physics : an official journal of Japan Society of Medical Physics (2003)
 Identifiers: PMID 12949421
@@ -1292,7 +1270,7 @@ Abstract: In the plasma flash x-ray generator, a high-voltage main condenser of 
 
 ---
 
-## 118. Optimization of intensity-modulated very high energy (50-250 MeV) electron therapy.
+## 116. Optimization of intensity-modulated very high energy (50-250 MeV) electron therapy.
 Authors: Yeboah C, Sandison GA, Moskvin V
 Journal: Physics in medicine and biology (2002)
 Identifiers: PMID 12030556; DOI 10.1088/0031-9155/47/8/305
@@ -1303,18 +1281,7 @@ Abstract: This work evaluates the potential of very high energy (50-250 MeV) ele
 
 ---
 
-## 119. Improved target volume definition for precision radiotherapy planning of meningiomas by correlation of CT and dynamic, Gd-DTPA-enhanced FLASH MR imaging.
-Authors: Schad LR, Blüml S, Debus J, Scharf J, Lorenz WJ
-Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (1994)
-Identifiers: PMID 7878213; DOI 10.1016/0167-8140(94)90089-2
-URL: https://pubmed.ncbi.nlm.nih.gov/7878213/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Modeling & Mechanisms
-
-Abstract: In this methodological paper the authors report a fast, T1-weighted gradient-echo sequence (FLASH) for dynamic, Gd-DTPA-enhanced magnetic resonance (MR) imaging of meningiomas and its application in precision radiotherapy planning. Indications for radiotherapy included unresected tumors, tumor remaining after surgery, and recurrences. The patient's head was fixed in a stereotactic localization system which is usable at the CT, MR and the linear accelerator installations. By phantom measurements different materials (steel, aluminum, titanium, plastic, wood, ceramics) used for the stereotactic system were tested for mechanical stability and geometric MR image distortion. All metallic stereotactic rings (closed rings made of massive metal) led to a more or less dramatic geometric distortion and signal cancellation in the MR images. The best properties--nearly no distortion and high mechanic stability--are provided by a ceramic ring. If necessary, the remaining geometric MR image distortion can be 'corrected' (reducing displacements to the size of a pixel) by calculations based on modeling the distortion as a fourth order two-dimensional polynomial. The target volume was defined in dynamic, T1-weighted FLASH MR images, which were measured before, during, and after the controlled intravenous infusion of 0.1 mmol/kg body weight Gd-DTPA. The stereotactic localization technique allows the precise transfer of the target volume information from MR onto CT data to provide a map of the radiation attenuation coefficient for dose calculation. In genera, the superior soft tissue contrast of MR showed an excellent tumor delineation, especially in regions, such as the base of the skull, where the target often was obscured in CT images.(ABSTRACT TRUNCATED AT 250 WORDS)
-
----
-
-## 120. Sub-kilohertz flash X-ray generator utilising a glass-enclosed cold-cathode triode.
+## 117. Sub-kilohertz flash X-ray generator utilising a glass-enclosed cold-cathode triode.
 Authors: Sato E, Takahashi K, Sagae M, Kimura S, Oizumi T, Hayasi Y, Tamakawa Y, Yanagisawa T
 Journal: Medical & biological engineering & computing (1994)
 Identifiers: PMID 7934252; DOI 10.1007/BF02512524
@@ -1325,7 +1292,18 @@ Abstract: The construction and fundamental studies are described for a sub-kiloh
 
 ---
 
-## 121. Kinetics of the dichroic reorientation of phytochrome during photoconversion inMougeotia.
+## 118. Disk-cathode flash X-ray tube driven by a repetitive two-stage Marx pulser.
+Authors: Kimura S, Sato E, Sagae M, Shikoda A, Oizumi T, Takahashi K, Tamakawa Y, Yanagisawa T
+Journal: Medical & biological engineering & computing (1993)
+Identifiers: PMID 8231324; DOI 10.1007/BF02446648
+URL: https://pubmed.ncbi.nlm.nih.gov/8231324/
+Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
+
+Abstract: Fundamental studies of a repetitive flash X-ray generator using a disk-cathode radiation tube are described. The high-voltage pulser employed a modified two-stage surge-Marx circuit. The two condensers in the pulser were charged from 40 to 60 kV, and the electric charges were discharged to the X-ray tube repetitively to generate flash X-rays. The total capacity during the main discharge was 425 pF, and the maximum output voltage from the pulser was about 1.9 times the charged voltage. The flash X-ray tube was of the demountable-diode type and was composed of a rod-shaped anode tip made of tungsten, a disk cathode made of graphite and a tube body made of polymethylmethacrylate. The peak tube voltage was primarily determined by the anode-cathode (A-C) space, and the peak tube current was less than 0.5 kA. Thus the maximum photon energy could be easily controlled by varying the A-C space, and the tube current roughly increased according to increases in the charged voltage. The pulse width ranged from 40 to 100 ns, and the X-ray intensity was less than 1.1 microC kg-1 at 0.5 m per pulse. The repetition rate was less than 50 Hz, and the effective focal spot size was equivalent to the anode diameter.
+
+---
+
+## 119. Kinetics of the dichroic reorientation of phytochrome during photoconversion inMougeotia.
 Authors: Kraml M, Enders M, Bürkel N
 Journal: Planta (1984)
 Identifiers: PMID 24253646; DOI 10.1007/BF00982915
@@ -1336,7 +1314,7 @@ Abstract: In the green algaMougeotia, the dichroic orientation of the red-absorb
 
 ---
 
-## 122. Expandable flash x-ray tube (FXT) having a 0.5-mm source size.
+## 120. Expandable flash x-ray tube (FXT) having a 0.5-mm source size.
 Authors: Carmel Y, Eylon S
 Journal: The Review of scientific instruments (1979)
 Identifiers: PMID 18699329; DOI 10.1063/1.1135658
@@ -1347,7 +1325,7 @@ Abstract: An inexpensive, expandable, continuously pumped, all-metal flash x-ray
 
 ---
 
-## 123. Effects of radiation dose-rate from protracted, continuous irradiation to ultra-high dose-rates from pulsed accelerators.
+## 121. Effects of radiation dose-rate from protracted, continuous irradiation to ultra-high dose-rates from pulsed accelerators.
 Authors: Berry RJ
 Journal: British medical bulletin (1973)
 Identifiers: PMID 4208646; DOI 10.1093/oxfordjournals.bmb.a070955
@@ -1358,18 +1336,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 124. Developmental Physiology of Bean Leaf Plastids III. Tube Transformation and Protochlorophyll (ide) Photoconversion by a Flash Irradiation.
-Authors: Kahn A
-Journal: Plant physiology (1968)
-Identifiers: PMID 16656971; DOI 10.1104/pp.43.11.1781; PMC PMC1087078 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/16656971/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: A light flash of about 1 millisecond duration elicits tube transformation in paracrystalline prolamellar bodies as well as maximal protochlorophyll(ide) photoconversion in etiolated bean leaves (Phaseolus vulgaris L.). These findings support a more detailed hypothesis on the linkage between tube transformation and protochlorophyll(ide) photoconversion than has been offered previously.
-
----
-
-## 125. [X-ray flash tube as source of ultrahigh dosage production].
+## 122. [X-ray flash tube as source of ultrahigh dosage production].
 Authors: ANGERSTEIN W
 Journal: Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin (1959)
 Identifiers: PMID 13663981
