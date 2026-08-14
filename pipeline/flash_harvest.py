@@ -381,15 +381,33 @@ APERTURE_FLASH_RX = re.compile(
 # were already sitting in the published corpus - MR thermometry, 4D-MRI tumour
 # motion, DCE-MRI of glioblastoma, breast MR diagnosis.
 #
+# [EXTENDED 2026-08-14] The 2026-08-14 refresh showed the MR half of this rule
+# was only half the homonym. Siemens also named a CT scanner the SOMATOM
+# Definition *Flash*, so "high-pitch FLASH spiral" coronary CT and pulmonary
+# angiography papers were admitted too - 8 of the 31 records that refresh added.
+# The scanner-name half is caught by `somatom`, `dual-source CT` and
+# `high-pitch`, which together matched all 8 plus one older stray, and matched
+# nothing else in the 1,323-record corpus.
+#
+# `flash mode` and `flash spiral` are deliberately NOT listed: "delivered in
+# FLASH mode" is ordinary FLASH-RT prose. The scanner-specific terms carry the
+# discrimination on their own.
+#
 # Structured like the aperture-flash gate: screen only when there is no
 # ultra-high-dose-rate signature anywhere in the record. A genuine UHDR paper
-# that happens to acquire FLASH-sequence images is kept.
+# that happens to acquire FLASH-sequence images, or to report a planning CT, is
+# kept.
 MR_FLASH_RX = re.compile(
+    # --- MR pulse sequence ---
     r"\bturbo[\s\-]?flash\b|fast low angle shot"
     r"|\bflash\b[^.]{0,30}\b(sequence|sequences|mri|magnetic resonance"
         r"|angiograph|gradient[\s\-]echo|turbo spin)\b"
     r"|\b(mri|magnetic resonance|angiograph|gradient[\s\-]echo)\b"
-        r"[^.]{0,30}\bflash\b",
+        r"[^.]{0,30}\bflash\b"
+    # --- SOMATOM Definition Flash CT scanner ---
+    r"|\bsomatom\b"
+    r"|dual[\s\-]?source\s+(ct\b|computed tomograph)"
+    r"|high[\s\-]?pitch",
     re.I,
 )
 
@@ -518,6 +536,22 @@ CURATOR_OVERRIDES = {
     "18380325": "Radiobiology",  # Temperature & chromosome aberrations, pulsed irradiation
     "41179706": "Radiobiology",  # UHDR regulates mtDNA-induced interferon-beta secretion
     "34563608": "Treatment Planning & Optimization",  # Multibeam & hypofractionation delivery
+    # WG lead adjudication, 2026-08-14, on two records the tightened UHDR
+    # signature gate rejected in the 2026-08-14 refresh:
+    #   36910025  REINSTATED below. Tubin/Vozenin/Prezado/Durante/Prise/
+    #             Timmerman, 2nd International Radiation Oncology Online
+    #             Seminar report, Clin Transl Radiat Oncol 2023. Directly
+    #             relevant though not exclusively FLASH. It screened only
+    #             because PubMed carries no real abstract for it - the record
+    #             holds three highlight bullets - and its FLASH signal lives in
+    #             the author keyword list, which this pipeline does not index.
+    #             See the note on author keywords below.
+    #   36921424  LEFT OUT by decision. Geant4 modelling of scavenging systems
+    #             in water radiolysis: mechanistically related to the FLASH
+    #             chemistry, but not a FLASH treatment study. No entry needed;
+    #             the signature gate already excludes it. Recorded here so the
+    #             decision is not re-litigated each refresh.
+    "36910025": "Reviews & Consensus",
     # --- debate / opinion column assignments ---
     "35104025": "Point-Counterpoint",  # JACMP 3DCRT special debate
     "37431574": "Point-Counterpoint",  # JACMP: FLASH instead of proton arc therapy
@@ -525,6 +559,20 @@ CURATOR_OVERRIDES = {
     "31246281": "Point-Counterpoint",  # Med Phys P/C: Newsflash or flash in the pan?
     "40214346": "Opinions & Debate",   # FLASH radiotherapy: Challenges and its future
 }
+
+# ---- Candidate improvement, not implemented: index PubMed author keywords ----
+# categorize() reads title + abstract + MeSH. It does not read the author
+# <KeywordList>. PMID 36910025 is the worked example of why that matters: its
+# PubMed record has no true abstract (three highlight bullets only) and no MeSH
+# terms, but its author keywords are "Abscopal effect, Bystander effect, FLASH,
+# GRID, High doses, Immunomodulation, LATTICE, ...". Every FLASH signal in that
+# record sits in a field the pipeline never looks at, so it needed a manual
+# override.
+#
+# Adding KeywordList to the indexed text would generalize that rescue - but
+# author keywords are unvetted free text and would also feed the keyword scorer,
+# so it needs a dry run against the screened-out file before anyone ships it.
+# Parked deliberately; do not add it casually.
 
 def relevance(text):
     return sum(1 for k in RAD_SIGNAL if k in text)
@@ -567,7 +615,7 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
     # --- hard gate 2b: FLASH as the MR pulse sequence / CT acquisition mode ---
     m = MR_FLASH_RX.search(raw)
     if m and not UHDR_RX.search(text):
-        return _screened(f"MR/CT 'FLASH' sequence: {m.group(0).strip()[:40]}")
+        return _screened(f"MR/CT imaging 'FLASH': {m.group(0).strip()[:40]}")
 
     # --- hard gate 3: off-topic subject declared in the title ---
     hits = [k for k in HARD_OFFTOPIC_TITLE if k in tl]
