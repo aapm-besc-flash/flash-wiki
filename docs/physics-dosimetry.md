@@ -3637,7 +3637,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 *Cimmino A, Ambrožová I, Motta S, Versaci R, Olšovcová V, Chvátil D et al.* — Radiation protection dosimetry (2022)  
 
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+<span class="badge tag">Physics &amp; Dosimetry</span>
 
 
 **TL;DR.** The Microtron MT25 is a cyclic electron accelerator with a Kapitza resonator, maximum beam energy of 25 MeV, standard repetition frequency of 423 Hz, pulse length of 3.5 μs and mean current of 30 μA. Studies at conventional particle accelerators allow to understand the response of dosemeters in known and controllable radiation fields.

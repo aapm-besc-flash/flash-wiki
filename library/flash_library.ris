@@ -682,22 +682,6 @@ KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
-TI  - Utility of a Simplified Irradiator for Photosensitivity Testing in Head and Neck Photoimmunotherapy.
-AU  - Yamakura T
-AU  - Okamoto I
-AU  - Okada T
-AU  - Tokashiki K
-AU  - Tsukahara K
-PY  - 2026
-JO  - In vivo (Athens, Greece)
-AB  - BACKGROUND/AIM: Head and neck photoimmunotherapy (HN-PIT) using cetuximab sarotalocan sodium requires post-treatment assessment for photosensitivity, but tests using direct sunlight are affected by weather and lack standardization. This study evaluated a simplified artificial irradiator for more consistent light irradiation testing. PATIENTS AND METHODS: This single-center retrospective study analyzed 16 HN-PIT treatments in 8 patients with unresectable locally advanced or recurrent head and neck cancer. On days 6-7 post-treatment, patients underwent both direct sunlight exposure and a simple irradiation test using a FLASH-PAK projector equipped with an R-60 filter to evaluate reactions around the clinically relevant 690 nm wavelength. Erythema and edema were assessed on the day of the test and 1 month later. RESULTS: No photosensitivity reactions occurred with either method, nor were delayed reactions observed. CONCLUSION: The simplified irradiator allows standardized, weather-independent photosensitivity testing after HN-PIT, although further studies are needed to confirm sensitivity and long-term reliability.
-DO  - 10.21873/invivo.14389
-AN  - 42379786
-UR  - https://pubmed.ncbi.nlm.nih.gov/42379786/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - The central role of radiotherapy in remodeling the tumor immune microenvironment: mechanisms and therapeutic implications.
 AU  - Yi Z
 AU  - Chen N
@@ -5482,27 +5466,6 @@ DO  - 10.3389/fmicb.2025.1601244
 AN  - 41178971
 UR  - https://pubmed.ncbi.nlm.nih.gov/41178971/
 KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Diagnostic ultrasound irradiation combined with microbubbles to modulate carotid body activity for the treatment of obesity-related hypertension in rabbits.
-AU  - Jiang X
-AU  - Yu W
-AU  - Chen Z
-AU  - Tan X
-AU  - Xiong B
-AU  - Rong S
-AU  - Liu Y
-AU  - Liu H
-AU  - Zheng Y
-AU  - Huang J
-PY  - 2025
-JO  - Biomedical engineering online
-AB  - BACKGROUND: Carotid body (CB) ablation can reduce sympathetic activity and blood pressure but impair the body's ability to regulate hypoxia. This study explores the efficacy and safety of using microbubble contrast agents combined with high mechanical index diagnostic ultrasound irradiation (HMIUI) to modulate CB activity in treatment of hypertension in rabbits. METHODS: Obese hypertensive rabbits were randomly divided into three groups: unilateral intervention group (UIG, n = 6), bilateral intervention group (BIG, n = 10), and control group (CG, n = 7). Rabbits received intravenous injection of sulfur hexafluoride microbubbles for 15 min, and irradiation at the carotid bifurcation by continuous diagnostic ultrasound FLASH mode simultaneously. Blood pressure (BP), hypoxic ventilatory response (HVR), peripheral chemoreceptor sensitivity (PCS), and baroreceptor sensitivity (BRS) were measured, and values were compared with before the intervention and 1 month after. In addition, pathology and electron microscopy were used to observe the histological and ultrastructural changes of CB. RESULTS: In both UIG and BIG groups, systolic and diastolic blood pressure significantly decreased compared to pre-intervention (p < 0.05). Compared to the control group, the BIG group showed a decrease of 10 mmHg exceeding in systolic and diastolic blood pressures. HVR and PCS decreased by nearly 50% from pre-intervention. Changes in CB injury and fibrous tissue proliferation were found by Histological. TUNEL assay showed varying degrees of apoptosis in the treated CB, and immunofluorescence confirmed the reducing expression of type I and II cells. CONCLUSIONS: Ultrasound microbubbles combined with HMIUI effectively modulate CB function and reduce blood pressure in an obese hypertensive rabbit model in the short term.
-DO  - 10.1186/s12938-025-01451-z
-AN  - 41174588
-UR  - https://pubmed.ncbi.nlm.nih.gov/41174588/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -10598,7 +10561,7 @@ JO  - Frontiers in oncology
 DO  - 10.3389/fonc.2024.1515325
 AN  - 39605893
 UR  - https://pubmed.ncbi.nlm.nih.gov/39605893/
-KW  - FLASH:Clinical & Translational
+KW  - FLASH:Perspectives & Commentary
 ER  - 
 
 TY  - JOUR
@@ -16539,23 +16502,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - An Update on Recent Advances of Photodynamic Therapy for Primary Cutaneous Lymphomas.
-AU  - Liu WT
-AU  - Wang HT
-AU  - Yeh YH
-AU  - Wong TW
-PY  - 2023
-JO  - Pharmaceutics
-AB  - Primary cutaneous lymphomas are rare non-Hodgkin lymphomas consisting of heterogeneous disease entities. Photodynamic therapy (PDT) utilizing photosensitizers irradiated with a specific wavelength of light in the presence of oxygen exerts promising anti-tumor effects on non-melanoma skin cancer, yet its application in primary cutaneous lymphomas remains less recognized. Despite many in vitro data showing PDT could effectively kill lymphoma cells, clinical evidence of PDT against primary cutaneous lymphomas is limited. Recently, a phase 3 "FLASH" randomized clinical trial demonstrated the efficacy of topical hypericin PDT for early-stage cutaneous T-cell lymphoma. An update on recent advances of photodynamic therapy in primary cutaneous lymphomas is provided.
-DO  - 10.3390/pharmaceutics15051328
-AN  - 37242570
-UR  - https://pubmed.ncbi.nlm.nih.gov/37242570/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Clinical & Translational
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - Detailed Monte-Carlo characterization of a Faraday cup for proton therapy.
 AU  - Ehwald J
 AU  - Togno M
@@ -19065,7 +19011,6 @@ DO  - 10.1093/rpd/ncac117
 AN  - 36005969
 UR  - https://pubmed.ncbi.nlm.nih.gov/36005969/
 KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
@@ -25568,57 +25513,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Role of heat accumulation in the multi-shot damage of silicon irradiated with femtosecond XUV pulses at a 1 MHz repetition rate.
-AU  - Sobierajski R
-AU  - Jacyna I
-AU  - Dłużewski P
-AU  - Klepka MT
-AU  - Klinger D
-AU  - Pełka JB
-AU  - Burian T
-AU  - Hájková V
-AU  - Juha L
-AU  - Saksl K
-AU  - Vozda V
-AU  - Makhotkin I
-AU  - Louis E
-AU  - Faatz B
-AU  - Tiedtke K
-AU  - Toleikis S
-AU  - Enkisch H
-AU  - Hermann M
-AU  - Strobel S
-AU  - Loch RA
-AU  - Chalupsky J
-PY  - 2016
-JO  - Optics express
-AB  - The role played by heat accumulation in multi-shot damage of silicon was studied. Bulk silicon samples were exposed to intense XUV monochromatic radiation of a 13.5 nm wavelength in a series of 400 femtosecond pulses, repeated with a 1 MHz rate (pulse trains) at the FLASH facility in Hamburg. The observed surface morphological and structural modifications are formed as a result of sample surface melting. Modifications are threshold dependent on the mean fluence of the incident pulse train, with all threshold values in the range of approximately 36-40 mJ/cm2. Experimental data is supported by a theoretical model described by the heat diffusion equation. The threshold for reaching the melting temperature (45 mJ/cm2) and liquid state (54 mJ/cm2), estimated from this model, is in accordance with experimental values within measurement error. The model indicates a significant role of heat accumulation in surface modification processes.
-DO  - 10.1364/OE.24.015468
-AN  - 27410821
-UR  - https://pubmed.ncbi.nlm.nih.gov/27410821/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - How Much Is the Dose Varying between Follow-Up CT-Examinations Performed on the Same Scanner with the Same Imaging Protocol?
-AU  - Suntharalingam S
-AU  - Stecker FF
-AU  - Guberina N
-AU  - Ringelstein A
-AU  - Schlosser T
-AU  - Theysohn JM
-AU  - Forsting M
-AU  - Nassenstein K
-PY  - 2016
-JO  - PloS one
-AB  - PURPOSE: To investigate the dose variation between follow-up CT examinations, when a patient is examined several times on the same scanner with the identical scan protocol which comprised automated exposure control. MATERIAL AND METHODS: This retrospective study was approved by the local ethics committee. The volume computed tomography dose index (CTDIvol) and the dose-length-product (DLP) were recorded for 60 cancer patients (29 male, 31 female, mean age 60.1 years), who received 3 follow-up CT examinations each composed of a non-enhanced scan of the liver (LI-CT) and a contrast-enhanced scan of chest (CH-CT) and abdomen (AB-CT). Each examination was performed on the same scanner (Siemens Definition FLASH) equipped with automated exposure control (CARE Dose 4D and CARE KV) using the identical scan protocol. RESULTS: The median percentage difference in DLP between follow-up examinations was 9.6% for CH-CT, 10.3% for LI-CT, and 10.1% for AB-CT; the median percentage difference in CTDIvol 8.3% for CH-CT, 7.4% for LI-CT and 7.7% for AB-CT (p<0.0001 for all values). The maximum difference in DLP between follow-up examinations was 67.5% for CH-CT, 50.8% for LI-CT and 74.3% for AB-CT; the maximum difference in CTDIvol 62.9% for CH-CT, 47.2% for LI-CT, and 49% for AB-CT. CONCLUSION: A significant variance in the radiation dose occurs between follow-up CT examinations when the same CT scanner and the identical imaging protocol are used in combination with automated exposure control.
-DO  - 10.1371/journal.pone.0152961
-AN  - 27050659
-UR  - https://pubmed.ncbi.nlm.nih.gov/27050659/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Assessment of the quality of very high-energy electron radiotherapy planning.
 AU  - Palma B
 AU  - Bazalova-Carter M
@@ -25636,24 +25530,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/26898508/
 KW  - FLASH:Physics & Dosimetry
 KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Growth of nano-dots on the grazing-incidence mirror surface under FEL irradiation.
-AU  - Kozhevnikov IV
-AU  - Buzmakov AV
-AU  - Siewert F
-AU  - Tiedtke K
-AU  - Störmer M
-AU  - Samoylova L
-AU  - Sinn H
-PY  - 2016
-JO  - Journal of synchrotron radiation
-AB  - A new phenomenon on X-ray optics surfaces has been observed: the growth of nano-dots (40-55 nm diameter, 8-13 nm height, 9.4 dots µm(-2) surface density) on the grazing-incidence mirror surface under irradiation by the free-electron laser (FEL) FLASH (5-45 nm wavelength, 3° grazing-incidence angle). With a model calculation it is shown that these nano-dots may occur during the growth of a contamination layer due to polymerization of incoming hydrocarbon molecules. The crucial factors responsible for the growth of nano-dots in the model are the incident peak intensity and the reflection angle of the beam. A reduction of the peak intensity (e.g. replacement of the FEL beam by synchrotron radiation) as well as a decrease of the incident angle by just 1° (from 3° to 2°) may result in the total disappearance of the nano-dots. The model calculations are compared with surface analysis of two FLASH mirrors.
-DO  - 10.1107/S160057751502202X
-AN  - 26698048
-UR  - https://pubmed.ncbi.nlm.nih.gov/26698048/
-KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
@@ -25799,25 +25675,6 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Fast and effective inactivation of Bacillus atrophaeus endospores using light-activated derivatives of vitamin B2.
-AU  - Eichner A
-AU  - Gollmer A
-AU  - Späth A
-AU  - Bäumler W
-AU  - Regensburger J
-AU  - König B
-AU  - Maisch T
-PY  - 2015
-JO  - Photochemical & photobiological sciences : Official journal of the European Photochemistry Association and the European Society for Photobiology
-AB  - Highly resistant endospores may cause severe problems in medicine as well as in the food and packaging industries. We found that bacterial endospores can be inactivated quickly with reactive oxygen species (ROS) that were generated by a new generation of flavin photosensitizers. Flavins like the natural compound vitamin B2 are already known to produce ROS but they show a poor antimicrobial photodynamic killing efficacy due to the lack of positive charges. Therefore we synthesized new flavin photosensitizers that have one (FLASH-01a) or eight (FLASH-07a) positive charges and can hence attach to the negatively charged surface of endospores. In this study we used standardized Bacillus atrophaeus endospores (ATCC 9372) as a biological surrogate model for a proof-of-concept study of photodynamic inactivation experiments using FLASH-01a and FLASH-07a. After incubation of spores with different flavin concentrations, the flavin derivatives were excited with blue light at a light dose of 70 J cm(-2). The inactivation of spores was investigated either in suspension or after attachment to polyethylene terephthalate (PET) surfaces. Incubation of spores suspended in Millipore water with 4 mM FLASH-01a for 10 seconds and irradiation with blue light for 10 seconds caused a biologically relevant decrease of spore survival of 3.5 log10 orders. Using FLASH-07a under the same conditions we achieved a decrease of 4.4 log10 orders. Immobilized spores on PET surfaces were efficiently killed with 7.0 log10 orders using 8 mM FLASH-07a. The total treatment time (incubation + irradiation) was as short as 20 seconds. The results of this study show evidence that endospores can be fastly and effectively inactivated with new generations of flavin photosensitizers that may be useful for industrial or medical applications in the future.
-DO  - 10.1039/c4pp00285g
-AN  - 25423452
-UR  - https://pubmed.ncbi.nlm.nih.gov/25423452/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.
 AU  - Subiel A
 AU  - Moskvin V
@@ -25894,44 +25751,6 @@ AB  - In vitro studies suggested that sub-millisecond pulses of radiation elicit
 DO  - 10.1126/scitranslmed.3008973
 AN  - 25031268
 UR  - https://pubmed.ncbi.nlm.nih.gov/25031268/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - What is the minimal radiation dose that can be used for detecting pleural effusion?
-AU  - Pourjabbar S
-AU  - Singh S
-AU  - Sharma A
-AU  - Padole A
-AU  - Khawaja RD
-AU  - Lira D
-AU  - Kalra MK
-PY  - 2014
-JO  - AJR. American journal of roentgenology
-AB  - OBJECTIVE: The objective of our study was to assess the effect of radiation dose reduction on the detection of pleural effusions, thickening, and calcifications. MATERIALS AND METHODS: Forty-five human cadavers (mean age at death, 60 ± 17 [SD] years; male-female ratio, 29:16; mean body mass index, 29 ± 5.7 [SD] kg/m(2)) were scanned at seven different dose levels (CT Dose Index volume [CTDIvol] = 20, 12, 10, 6, 4, 2, and 0.8 mGy) on a 128-MDCT unit (Definition FLASH). Images were reconstructed at a 3-mm slice thickness and 2-mm increment with filtered back projection (FBP) technique. Two chest radiologists independently reviewed all image series for the detection of pleural effusion, pleural calcification, and adjacent parenchymal opacification from atelectasis or consolidation. Objective image noise was measured at each dose level on the pleural effusion using ImageJ software. Data analysis was performed with the Student t test and kappa test. RESULTS: Pleural effusions were seen in 39 of 45 cadavers on image series acquired at 2-20 mGy. Only 14 of 39 pleural effusions were identified at 0.8 mGy. Pleural effusions were not detected in 25 of 39 cadavers at 0.8 mGy because of photon starvation and increased image noise. Patient size was significantly larger in subjects with undetected pleural effusion than in those with detectable pleural effusion at 0.8 mGy (p < 0.01). Pleural calcifications and thickening (seen at 2-10 mGy images in three of three cadavers) were not identified on 0.8-mGy FBP images. On the other hand, adjacent parenchymal opacification could be assessed at all dose levels. The mean CT numbers of the pleural effusion were significantly lower on 0.8-mGy images than on images obtained at all other dose levels (-21 ± 55 [SD] vs 17.6 ± 19 HU, respectively) (p < 0.001). CONCLUSION: Pleural effusions, thickening, and calcifications can be seen on FBP images reconstructed at a CTDIvol as low as 2 mGy (32-cm body phantom). CT at 0.8 mGy may provide suboptimal information on very small pleural effusions, pleural thickening, and calcifications.
-DO  - 10.2214/AJR.13.11842
-AN  - 24951204
-UR  - https://pubmed.ncbi.nlm.nih.gov/24951204/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
-TI  - Ultrafast 3D spin-echo acquisition improves Gadolinium-enhanced MRI signal contrast enhancement.
-AU  - Han SH
-AU  - Cho FH
-AU  - Song YK
-AU  - Paulsen J
-AU  - Song YQ
-AU  - Kim YR
-AU  - Kim JK
-AU  - Cho G
-AU  - Cho H
-PY  - 2014
-JO  - Scientific reports
-AB  - Long scan times of 3D volumetric MR acquisitions usually necessitate ultrafast in vivo gradient-echo acquisitions, which are intrinsically susceptible to magnetic field inhomogeneities. This is especially problematic for contrast-enhanced (CE)-MRI applications, where non-negligible T2* effect of contrast agent deteriorates the positive signal contrast and limits the available range of MR acquisition parameters and injection doses. To overcome these shortcomings without degrading temporal resolution, ultrafast spin-echo acquisitions were implemented. Specifically, a multiplicative acceleration factor from multiple spin echoes (×32) and compressed sensing (CS) sampling (×8) allowed highly-accelerated 3D Multiple-Modulation-Multiple-Echo (MMME) acquisition. At the same time, the CE-MRI of kidney with Gd-DOTA showed significantly improved signal enhancement for CS-MMME acquisitions (×7) over that of corresponding FLASH acquisitions (×2). Increased positive contrast enhancement and highly accelerated acquisition of extended volume with reduced RF irradiations will be beneficial for oncological and nephrological applications, in which the accurate in vivo 3D quantification of contrast agent concentration is necessary with high temporal resolution.
-DO  - 10.1038/srep05061
-AN  - 24863102
-UR  - https://pubmed.ncbi.nlm.nih.gov/24863102/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -26147,76 +25966,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Decay of cystalline order and equilibration during the solid-to-plasma transition induced by 20-fs microfocused 92-eV free-electron-laser pulses.
-AU  - Galtier E
-AU  - Rosmej FB
-AU  - Dzelzainis T
-AU  - Riley D
-AU  - Khattak FY
-AU  - Heimann P
-AU  - Lee RW
-AU  - Nelson AJ
-AU  - Vinko SM
-AU  - Whitcher T
-AU  - Wark JS
-AU  - Tschentscher T
-AU  - Toleikis S
-AU  - Fäustlin RR
-AU  - Sobierajski R
-AU  - Jurek M
-AU  - Juha L
-AU  - Chalupsky J
-AU  - Hajkova V
-AU  - Kozlova M
-AU  - Krzywinski J
-AU  - Nagler B
-PY  - 2011
-JO  - Physical review letters
-AB  - We have studied a solid-to-plasma transition by irradiating Al foils with the FLASH free electron laser at intensities up to 10(16)  W/cm(2). Intense XUV self-emission shows spectral features that are consistent with emission from regions of high density, which go beyond single inner-shell photoionization of solids. Characteristic features of intrashell transitions allowed us to identify Auger heating of the electrons in the conduction band occurring immediately after the absorption of the XUV laser energy as the dominant mechanism. A simple model of a multicharge state inverse Auger effect is proposed to explain the target emission when the conduction band at solid density becomes more atomiclike as energy is transferred from the electrons to the ions. This allows one to determine, independent of plasma simulations, the electron temperature and density just after the decay of crystalline order and to characterize the early time evolution.
-DO  - 10.1103/PhysRevLett.106.164801
-AN  - 21599370
-UR  - https://pubmed.ncbi.nlm.nih.gov/21599370/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Damage mechanisms of MoN/SiN multilayer optics for next-generation pulsed XUV light sources.
-AU  - Sobierajski R
-AU  - Bruijn S
-AU  - Khorsand AR
-AU  - Louis E
-AU  - van de Kruijs RW
-AU  - Burian T
-AU  - Chalupsky J
-AU  - Cihelka J
-AU  - Gleeson A
-AU  - Grzonka J
-AU  - Gullikson EM
-AU  - Hajkova V
-AU  - Hau-Riege S
-AU  - Juha L
-AU  - Jurek M
-AU  - Klinger D
-AU  - Krzywinski J
-AU  - London R
-AU  - Pelka JB
-AU  - Płociński T
-AU  - Rasiński M
-AU  - Tiedtke K
-AU  - Toleikis S
-AU  - Vysin L
-AU  - Wabnitz H
-AU  - Bijkerk F
-PY  - 2011
-JO  - Optics express
-AB  - We investigated the damage mechanism of MoN/SiN multilayer XUV optics under two extreme conditions: thermal annealing and irradiation with single shot intense XUV pulses from the free-electron laser facility in Hamburg - FLASH. The damage was studied "post-mortem" by means of X-ray diffraction, interference-polarizing optical microscopy, atomic force microscopy, and scanning transmission electron microscopy. Although the timescale of the damage processes and the damage threshold temperatures were different (in the case of annealing it was the dissociation temperature of Mo2N and in the case of XUV irradiation it was the melting temperature of MoN) the main damage mechanism is very similar: molecular dissociation and the formation of N2, leading to bubbles inside the multilayer structure.
-DO  - 10.1364/OE.19.000193
-AN  - 21263557
-UR  - https://pubmed.ncbi.nlm.nih.gov/21263557/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - Apparent absence of a proton beam dose rate effect and possible differences in RBE between Bragg peak and plateau.
 AU  - Matsuura T
 AU  - Egashira Y
@@ -26292,24 +26041,6 @@ DO  - 10.1016/j.bbabio.2009.11.003
 AN  - 19917265
 UR  - https://pubmed.ncbi.nlm.nih.gov/19917265/
 KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - FLASH degradation in response to UV-C results in histone locus bodies disruption and cell-cycle arrest.
-AU  - Bongiorno-Borbone L
-AU  - De Cola A
-AU  - Barcaroli D
-AU  - Knight RA
-AU  - Di Ilio C
-AU  - Melino G
-AU  - De Laurenzi V
-PY  - 2010
-JO  - Oncogene
-AB  - Eucaryotic cell nuclei contain a number of different organelles that are highly dynamic structures and respond to a variety of stimuli. Here we investigated the effect of UV irradiation on a recently identified group of organelles, Histone Locus Bodies. Histone Locus Bodies contain at least two main proteins, FLASH and NPAT, and have been shown to be involved in replication-dependent histone gene transcription. We show that these organelles are disrupted after sublethal irradiation and both FLASH and NPAT are degraded, which in turn results in cell-cycle arrest at the S/G2 transition. The effect on the cell cycle is due to reduced transcription of histone genes and restoring normal histone protein levels by stabilizing histone mRNA allows cells to progress through the cell cycle. This provides a novel mechanism of S-phase arrest in response to DNA damage that potentially allows DNA repair before cells continue into mitosis, and thus prevents transmission of genomic alterations.
-DO  - 10.1038/onc.2009.388
-AN  - 19915611
-UR  - https://pubmed.ncbi.nlm.nih.gov/19915611/
-KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
@@ -26405,22 +26136,6 @@ DO  - 10.1371/journal.pone.0000742
 AN  - 17710142
 UR  - https://pubmed.ncbi.nlm.nih.gov/17710142/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Application of low-cost Gallium Arsenide light-emitting-diodes as kerma dosemeter and fluence monitor for high-energy neutrons.
-AU  - Mukherjee B
-AU  - Simrock S
-AU  - Khachan J
-AU  - Rybka D
-AU  - Romaniuk R
-PY  - 2007
-JO  - Radiation protection dosimetry
-AB  - Displacement damage (DD) caused by fast neutrons in unbiased Gallium Arsenide (GaAs) light emitting diodes (LED) resulted in a reduction of the light output. On the other hand, a similar type of LED irradiated with gamma rays from a (60)Co source up to a dose level in excess of 1.0 kGy (1.0 x 10(5) rad) was found to show no significant drop of the light emission. This phenomenon was used to develop a low cost passive fluence monitor and kinetic energy released per unit mass dosemeter for accelerator-produced neutrons. These LED-dosemeters were used to assess the integrated fluence of photoneutrons, which were contaminated with a strong bremsstrahlung gamma-background generated by the 730 MeV superconducting electron linac driving the free electron laser in Hamburg (FLASH) at Deutsches Elektronen-Synchrotron. The applications of GaAs LED as a routine neutron fluence monitor and DD precursor for the electronic components located in high-energy accelerator environment are highlighted.
-DO  - 10.1093/rpd/ncm053
-AN  - 17517672
-UR  - https://pubmed.ncbi.nlm.nih.gov/17517672/
-KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
@@ -26798,23 +26513,6 @@ DO  - 10.1016/S0006-3495(97)78059-7
 AN  - 9199783
 UR  - https://pubmed.ncbi.nlm.nih.gov/9199783/
 KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Magnetization transfer contrast of hepatic lesions in breath-hold gradient-echo images of different T1 weighting.
-AU  - Schick F
-AU  - Stern W
-AU  - Forster J
-AU  - Laniado M
-AU  - Lutz O
-AU  - Claussen CD
-PY  - 1997
-JO  - Journal of magnetic resonance imaging : JMRI
-AB  - Seventeen patients with hepatic lesions [six metastases from colon, breast, and gallbladder carcinoma; one gallbladder carcinoma; five hepatocellular carcinoma; three focal nodular hyperplasia (FNH); one adenoma; and one cyst] were examined by MR breath-hold two-dimensional gradient-echo imaging to assess the potential of magnetization transfer contrast (MTC) for improved conspicuity and classification. Imaging sequences were applied with and without irradiation of off-resonant radiofrequency (RF) prepulses, but other parameters were unchanged. Therefore, quantitative assessment of MTC could be performed. In contrast to former examinations of other researchers, no significant difference of MTC was found between malignant liver lesions and benign lesions as FNH or adenoma. MTC might provide differentiation between hemangioma and cysts versus solid tumors, but MTC is not capable of distinguishing benign and malignant types of solid liver tumors. Effects of unchanged MTC prepulses on signal intensity of normal liver tissue and most lesions were more pronounced for nearly proton density-weighted fast low-angle shot (FLASH) images than for T1-weighted FLASH images, obtained by using higher excitation flip angles. Liver-to-lesion contrast could not be improved clearly by MTC prepulses. The contrast between liver and lesions in the gradient-echo breath-hold images was compared with standard T1- and T2-weighted spin-echo images. Liver-to-lesion contrast in the breath-hold images was found to be inferior to T2-weighted spin-echo images in 14 of 17 cases. Lesion conspicuity in regions near the diaphragm was better in breath-hold images, because problems with marked breathing motion (as in standard imaging) could be avoided.
-DO  - 10.1002/jmri.1880070204
-AN  - 9090578
-UR  - https://pubmed.ncbi.nlm.nih.gov/9090578/
-KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR

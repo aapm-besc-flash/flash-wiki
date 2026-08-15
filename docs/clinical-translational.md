@@ -2,26 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*40 records. Newest first.*
-
----
-
-### Utility of a Simplified Irradiator for Photosensitivity Testing in Head and Neck Photoimmunotherapy.
-
-*Yamakura T, Okamoto I, Okada T, Tokashiki K, Tsukahara K* — In vivo (Athens, Greece) (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Head and neck photoimmunotherapy (HN-PIT) using cetuximab sarotalocan sodium requires post-treatment assessment for photosensitivity, but tests using direct sunlight are affected by weather and lack standardization. This study evaluated a simplified artificial irradiator for more consistent light irradiation testing.
-
-
-??? note "Abstract"
-    BACKGROUND/AIM: Head and neck photoimmunotherapy (HN-PIT) using cetuximab sarotalocan sodium requires post-treatment assessment for photosensitivity, but tests using direct sunlight are affected by weather and lack standardization. This study evaluated a simplified artificial irradiator for more consistent light irradiation testing. PATIENTS AND METHODS: This single-center retrospective study analyzed 16 HN-PIT treatments in 8 patients with unresectable locally advanced or recurrent head and neck cancer. On days 6-7 post-treatment, patients underwent both direct sunlight exposure and a simple irradiation test using a FLASH-PAK projector equipped with an R-60 filter to evaluate reactions around the clinically relevant 690 nm wavelength. Erythema and edema were assessed on the day of the test and 1 month later. RESULTS: No photosensitivity reactions occurred with either method, nor were delayed reactions observed. CONCLUSION: The simplified irradiator allows standardized, weather-independent photosensitivity testing after HN-PIT, although further studies are needed to confirm sensitivity and long-term reliability.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42379786/) · [DOI](https://doi.org/10.21873/invivo.14389) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13322094/)
-
+*36 records. Newest first.*
 
 ---
 
@@ -230,18 +211,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39528113/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110623) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11663118/)
-
-
----
-
-### Editorial: Harnessing the potential of FLASH: questions we must address prior to effective clinical translation.
-
-*Poulsen PR, Prise KM, MacKay RI* — Frontiers in oncology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39605893/) · [DOI](https://doi.org/10.3389/fonc.2024.1515325) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11599187/)
 
 
 ---
@@ -643,25 +612,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### How Much Is the Dose Varying between Follow-Up CT-Examinations Performed on the Same Scanner with the Same Imaging Protocol?
-
-*Suntharalingam S, Stecker FF, Guberina N, Ringelstein A, Schlosser T, Theysohn JM et al.* — PloS one (2016)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To investigate the dose variation between follow-up CT examinations, when a patient is examined several times on the same scanner with the identical scan protocol which comprised automated exposure control. MATERIAL AND METHODS: This retrospective study was approved by the local ethics committee.
-
-
-??? note "Abstract"
-    PURPOSE: To investigate the dose variation between follow-up CT examinations, when a patient is examined several times on the same scanner with the identical scan protocol which comprised automated exposure control. MATERIAL AND METHODS: This retrospective study was approved by the local ethics committee. The volume computed tomography dose index (CTDIvol) and the dose-length-product (DLP) were recorded for 60 cancer patients (29 male, 31 female, mean age 60.1 years), who received 3 follow-up CT examinations each composed of a non-enhanced scan of the liver (LI-CT) and a contrast-enhanced scan of chest (CH-CT) and abdomen (AB-CT). Each examination was performed on the same scanner (Siemens Definition FLASH) equipped with automated exposure control (CARE Dose 4D and CARE KV) using the identical scan protocol. RESULTS: The median percentage difference in DLP between follow-up examinations was 9.6% for CH-CT, 10.3% for LI-CT, and 10.1% for AB-CT; the median percentage difference in CTDIvol 8.3% for CH-CT, 7.4% for LI-CT and 7.7% for AB-CT (p&lt;0.0001 for all values). The maximum difference in DLP between follow-up examinations was 67.5% for CH-CT, 50.8% for LI-CT and 74.3% for AB-CT; the maximum difference in CTDIvol 62.9% for CH-CT, 47.2% for LI-CT, and 49% for AB-CT. CONCLUSION: A significant variance in the radiation dose occurs between follow-up CT examinations when the same CT scanner and the identical imaging protocol are used in combination with automated exposure control.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27050659/) · [DOI](https://doi.org/10.1371/journal.pone.0152961) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822887/)
-
-
----
-
 ### FLASH proton density imaging for improved surface coil intensity correction in quantitative and semi-quantitative SSFP perfusion cardiovascular magnetic resonance.
 
 *Nielles-Vallespin S, Kellman P, Hsu LY, Arai AE* — Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance (2015)  
@@ -677,25 +627,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/25827180/) · [DOI](https://doi.org/10.1186/s12968-015-0120-6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331176/)
-
-
----
-
-### What is the minimal radiation dose that can be used for detecting pleural effusion?
-
-*Pourjabbar S, Singh S, Sharma A, Padole A, Khawaja RD, Lira D et al.* — AJR. American journal of roentgenology (2014)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** The objective of our study was to assess the effect of radiation dose reduction on the detection of pleural effusions, thickening, and calcifications. MATERIALS AND METHODS: Forty-five human cadavers (mean age at death, 60 ± 17 \[SD\] years; male-female ratio, 29:16; mean body mass index, 29 ± 5.7 \[SD\] kg/m(2)) were scanned at seven different dose levels (CT Dose Index volume \[CTDIvol\] = 20, 12, 10,…
-
-
-??? note "Abstract"
-    OBJECTIVE: The objective of our study was to assess the effect of radiation dose reduction on the detection of pleural effusions, thickening, and calcifications. MATERIALS AND METHODS: Forty-five human cadavers (mean age at death, 60 ± 17 \[SD\] years; male-female ratio, 29:16; mean body mass index, 29 ± 5.7 \[SD\] kg/m(2)) were scanned at seven different dose levels (CT Dose Index volume \[CTDIvol\] = 20, 12, 10, 6, 4, 2, and 0.8 mGy) on a 128-MDCT unit (Definition FLASH). Images were reconstructed at a 3-mm slice thickness and 2-mm increment with filtered back projection (FBP) technique. Two chest radiologists independently reviewed all image series for the detection of pleural effusion, pleural calcification, and adjacent parenchymal opacification from atelectasis or consolidation. Objective image noise was measured at each dose level on the pleural effusion using ImageJ software. Data analysis was performed with the Student t test and kappa test. RESULTS: Pleural effusions were seen in 39 of 45 cadavers on image series acquired at 2-20 mGy. Only 14 of 39 pleural effusions were identified at 0.8 mGy. Pleural effusions were not detected in 25 of 39 cadavers at 0.8 mGy because of photon starvation and increased image noise. Patient size was significantly larger in subjects with undetected pleural effusion than in those with detectable pleural effusion at 0.8 mGy (p &lt; 0.01). Pleural calcifications and thickening (seen at 2-10 mGy images in three of three cadavers) were not identified on 0.8-mGy FBP images. On the other hand, adjacent parenchymal opacification could be assessed at all dose levels. The mean CT numbers of the pleural effusion were significantly lower on 0.8-mGy images than on images obtained at all other dose levels (-21 ± 55 \[SD\] vs 17.6 ± 19 HU, respectively) (p &lt; 0.001). CONCLUSION: Pleural effusions, thickening, and calcifications can be seen on FBP images reconstructed at a CTDIvol as low as 2 mGy (32-cm body phantom). CT at 0.8 mGy may provide suboptimal information on very small pleural effusions, pleural thickening, and calcifications.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24951204/) · [DOI](https://doi.org/10.2214/AJR.13.11842)
 
 
 ---
