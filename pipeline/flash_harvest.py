@@ -503,6 +503,35 @@ UHDR_RX = re.compile(
 # conventional"). Matched against the ORIGINAL, non-lowercased text.
 FLASH_ACRONYM_RX = re.compile(r"\bFLASH\b")
 
+# Things NAMED FLASH that are not the modality. The all-caps check above is
+# deliberately permissive - it rescues papers like "the potential of FLASH" that
+# carry no other signal - but that permissiveness admits anything sharing the
+# name. The recurring offenders:
+#
+#   FLASH       the free-electron laser at DESY Hamburg (optics / plasma physics)
+#   FLASH       "fast low-angle shot", a standard MRI pulse sequence since 1986
+#   Definition FLASH / SOMATOM   a Siemens CT scanner
+#   FLASH-PAK   a photographic projector used in photosensitivity testing
+#   FLASH-01a   a photosensitiser
+#   FLASH       a human protein (CASP8AP2), found in histone locus bodies
+#
+# Matching one of these screens the record out UNLESS it also carries a genuine
+# ultra-high-dose-rate signature: FLASHlab@PITZ and the FLASH-SARRP legitimately
+# mention a free-electron laser or a planning CT and must be kept.
+FLASH_NAMED_RX = re.compile(
+    r"fast low[-\s]angle shot"
+    r"|\bFLASH\b[^.]{0,40}\b(?:sequence|acquisitions?|images?)\b[^.]{0,60}"
+    r"\b(?:MRI|MR imaging|gradient[- ]echo|T1[- ]weighted|Gd-DTPA)\b"
+    r"|\b(?:MRI|MR imaging|gradient[- ]echo|T1[- ]weighted|Gd-DTPA)\b[^.]{0,60}"
+    r"\bFLASH\b[^.]{0,40}\b(?:sequence|acquisitions?|images?)\b"
+    r"|FLASH[^.]{0,30}free[-\s]electron laser|free[-\s]electron laser[^.]{0,30}FLASH"
+    r"|FLASH[^.]{0,25}(?:Hamburg|DESY)|(?:Hamburg|DESY)[^.]{0,25}FLASH"
+    r"|Definition FLASH|SOMATOM"
+    r"|FLASH[-\s]PAK|FLASH[-\s]?0\d[a-z]?\b"
+    r"|histone locus bod|CASP8AP2",
+    re.I,
+)
+
 # ---------------------- Curator overrides (human adjudication) ----------------
 # Decisions made by the WG lead during manual review of the corpus. These are
 # authoritative and survive every re-harvest. Value = target category, or None
@@ -528,7 +557,12 @@ CURATOR_OVERRIDES = {
     "5307280":  "Radiobiology",  # Repair time of chromosome breaks, pulsed x-rays UHDR
     "5539709":  "Radiobiology",  # Photobacterium fischeri, UHDR pulsed electron beam
     "11155330": "Radiobiology",  # Chromosome aberrations, pulsed vs continuous neutrons
-    "16209185": "Radiobiology",  # BARS-6 pulse reactor cytogenetics in lymphocytes
+    "16209185": "Radiobiology",
+    # Genuine FLASH papers whose PubMed record carries almost no radiation
+    # vocabulary; rescued by name rather than by loosening the gate for everyone.
+    "39605893": "Perspectives & Commentary",  # Editorial: Harnessing the potential of FLASH
+    "37086975": "Modeling & Mechanisms",      # Mechanisms of the 'FLASH' effect
+    "36005969": "Physics & Dosimetry",        # OSL/TL dosemeters, MT25 cyclotron + FLASH facilities  # BARS-6 pulse reactor cytogenetics in lymphocytes
     # Recovered by the 2026-08 recall audit (plural "dose-rates" / VHEE terms).
     # These predate the modern vocabulary and several carry no abstract at all,
     # so keyword scoring has nothing to work with - assign them by hand.
@@ -655,7 +689,16 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
     # CURATOR_OVERRIDES. Two in that set of 49 are worth checking on the first
     # run - the Geant4 water-radiolysis scavenging paper and the
     # unconventional-radiotherapy-techniques review. ---
-    if (not UHDR_RX.search(text) and not FLASH_ACRONYM_RX.search(raw)
+    # A named entity that merely shares the word FLASH is screened out, unless the
+    # record also carries a real ultra-high-dose-rate signature.
+    if FLASH_NAMED_RX.search(raw) and not UHDR_RX.search(text):
+        return _screened("named entity called FLASH (laser / MRI sequence / CT / product)")
+
+    # The all-caps FLASH rescue now requires corroboration: at least one
+    # radiation-oncology signal anywhere in the record. Uncorroborated, a bare
+    # FLASH token admits ultrasound "FLASH mode", trial acronyms and brand names.
+    if (not UHDR_RX.search(text)
+            and not (FLASH_ACRONYM_RX.search(raw) and rad >= 1)
             and not FLASH_XRAY_RX.search(raw)):
         return _screened(f"no ultra-high-dose-rate signature (rad signal={rad})")
 
