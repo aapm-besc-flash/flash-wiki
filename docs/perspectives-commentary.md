@@ -2,7 +2,7 @@
 
 Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 
-*18 records. Newest first.*
+*19 records. Newest first.*
 
 ---
 
@@ -45,6 +45,18 @@ Editorials, letters, comments and retraction notices on FLASH radiotherapy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40360330/) · [DOI](https://doi.org/10.1016/j.oraloncology.2025.107354)
+
+
+---
+
+### Editorial: Harnessing the potential of FLASH: questions we must address prior to effective clinical translation.
+
+*Poulsen PR, Prise KM, MacKay RI* — Frontiers in oncology (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Perspectives &amp; Commentary</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39605893/) · [DOI](https://doi.org/10.3389/fonc.2024.1515325) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11599187/)
 
 
 ---

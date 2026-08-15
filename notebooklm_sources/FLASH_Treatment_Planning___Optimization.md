@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Treatment Planning & Optimization
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 54 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-15. 54 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 

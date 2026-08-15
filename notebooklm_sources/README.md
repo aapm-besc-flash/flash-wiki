@@ -1,6 +1,6 @@
 # NotebookLM source pack
 
-Regenerated automatically 2026-08-14 by `build_notebooklm.py` (part of the monthly refresh). NotebookLM cannot read files from disk, so uploading is manual — but you only ever need to upload the small delta file after the first time.
+Regenerated automatically 2026-08-15 by `build_notebooklm.py` (part of the monthly refresh). NotebookLM cannot read files from disk, so uploading is manual — but you only ever need to upload the small delta file after the first time.
 
 ## First time — build the notebook
 
@@ -18,14 +18,14 @@ The refresh writes a dated file into **`monthly_additions/`** containing *only* 
 
 | Source file | Papers | ~Words |
 |---|---|---|
-| FLASH_Radiobiology.md | 442 | 124,198 |
-| FLASH_Physics___Dosimetry.md | 259 | 93,123 |
-| FLASH_Modeling___Mechanisms.md | 171 | 54,587 |
-| FLASH_Beam_Delivery___Technology.md | 122 | 37,917 |
+| FLASH_Radiobiology.md | 437 | 122,820 |
+| FLASH_Physics___Dosimetry.md | 259 | 93,119 |
+| FLASH_Modeling___Mechanisms.md | 168 | 54,004 |
+| FLASH_Beam_Delivery___Technology.md | 120 | 37,512 |
 | FLASH_Treatment_Planning___Optimization.md | 54 | 20,786 |
-| FLASH_Clinical___Translational.md | 40 | 12,280 |
-| FLASH_Reviews___Consensus.md | 204 | 51,505 |
-| FLASH_Perspectives___Commentary.md | 18 | 937 |
+| FLASH_Clinical___Translational.md | 36 | 11,343 |
+| FLASH_Reviews___Consensus.md | 203 | 51,354 |
+| FLASH_Perspectives___Commentary.md | 19 | 991 |
 | FLASH_Point_Counterpoint.md | 4 | 238 |
 | FLASH_Opinions___Debate.md | 1 | 76 |
 

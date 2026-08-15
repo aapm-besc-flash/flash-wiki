@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*171 records. Newest first.*
+*168 records. Newest first.*
 
 ---
 
@@ -2883,25 +2883,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Role of heat accumulation in the multi-shot damage of silicon irradiated with femtosecond XUV pulses at a 1 MHz repetition rate.
-
-*Sobierajski R, Jacyna I, Dłużewski P, Klepka MT, Klinger D, Pełka JB et al.* — Optics express (2016)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** The role played by heat accumulation in multi-shot damage of silicon was studied. Bulk silicon samples were exposed to intense XUV monochromatic radiation of a 13.5 nm wavelength in a series of 400 femtosecond pulses, repeated with a 1 MHz rate (pulse trains) at the FLASH facility in Hamburg.
-
-
-??? note "Abstract"
-    The role played by heat accumulation in multi-shot damage of silicon was studied. Bulk silicon samples were exposed to intense XUV monochromatic radiation of a 13.5 nm wavelength in a series of 400 femtosecond pulses, repeated with a 1 MHz rate (pulse trains) at the FLASH facility in Hamburg. The observed surface morphological and structural modifications are formed as a result of sample surface melting. Modifications are threshold dependent on the mean fluence of the incident pulse train, with all threshold values in the range of approximately 36-40 mJ/cm2. Experimental data is supported by a theoretical model described by the heat diffusion equation. The threshold for reaching the melting temperature (45 mJ/cm2) and liquid state (54 mJ/cm2), estimated from this model, is in accordance with experimental values within measurement error. The model indicates a significant role of heat accumulation in surface modification processes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/27410821/) · [DOI](https://doi.org/10.1364/OE.24.015468)
-
-
----
-
 ### Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.
 
 *Bazalova-Carter M, Qu B, Palma B, Hårdemark B, Hynning E, Jensen C et al.* — Medical physics (2015)  
@@ -2936,44 +2917,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/22839678/) · [DOI](https://doi.org/10.1021/ja306522b)
-
-
----
-
-### Decay of cystalline order and equilibration during the solid-to-plasma transition induced by 20-fs microfocused 92-eV free-electron-laser pulses.
-
-*Galtier E, Rosmej FB, Dzelzainis T, Riley D, Khattak FY, Heimann P et al.* — Physical review letters (2011)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** We have studied a solid-to-plasma transition by irradiating Al foils with the FLASH free electron laser at intensities up to 10(16)  W/cm(2). Intense XUV self-emission shows spectral features that are consistent with emission from regions of high density, which go beyond single inner-shell photoionization of solids.
-
-
-??? note "Abstract"
-    We have studied a solid-to-plasma transition by irradiating Al foils with the FLASH free electron laser at intensities up to 10(16)  W/cm(2). Intense XUV self-emission shows spectral features that are consistent with emission from regions of high density, which go beyond single inner-shell photoionization of solids. Characteristic features of intrashell transitions allowed us to identify Auger heating of the electrons in the conduction band occurring immediately after the absorption of the XUV laser energy as the dominant mechanism. A simple model of a multicharge state inverse Auger effect is proposed to explain the target emission when the conduction band at solid density becomes more atomiclike as energy is transferred from the electrons to the ions. This allows one to determine, independent of plasma simulations, the electron temperature and density just after the decay of crystalline order and to characterize the early time evolution.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/21599370/) · [DOI](https://doi.org/10.1103/PhysRevLett.106.164801)
-
-
----
-
-### Damage mechanisms of MoN/SiN multilayer optics for next-generation pulsed XUV light sources.
-
-*Sobierajski R, Bruijn S, Khorsand AR, Louis E, van de Kruijs RW, Burian T et al.* — Optics express (2011)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** thermal annealing and irradiation with single shot intense XUV pulses from the free-electron laser facility in Hamburg - FLASH. The damage was studied &quot;post-mortem&quot; by means of X-ray diffraction, interference-polarizing optical microscopy, atomic force microscopy, and scanning transmission electron microscopy.
-
-
-??? note "Abstract"
-    We investigated the damage mechanism of MoN/SiN multilayer XUV optics under two extreme conditions: thermal annealing and irradiation with single shot intense XUV pulses from the free-electron laser facility in Hamburg - FLASH. The damage was studied &quot;post-mortem&quot; by means of X-ray diffraction, interference-polarizing optical microscopy, atomic force microscopy, and scanning transmission electron microscopy. Although the timescale of the damage processes and the damage threshold temperatures were different (in the case of annealing it was the dissociation temperature of Mo2N and in the case of XUV irradiation it was the melting temperature of MoN) the main damage mechanism is very similar: molecular dissociation and the formation of N2, leading to bubbles inside the multilayer structure.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/21263557/) · [DOI](https://doi.org/10.1364/OE.19.000193)
 
 
 ---

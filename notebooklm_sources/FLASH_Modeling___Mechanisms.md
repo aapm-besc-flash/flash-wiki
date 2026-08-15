@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Modeling & Mechanisms
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 171 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-15. 168 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -1699,18 +1699,7 @@ Abstract: The increased inertia of very high-energy electrons (VHEEs) due to rel
 
 ---
 
-## 155. Role of heat accumulation in the multi-shot damage of silicon irradiated with femtosecond XUV pulses at a 1 MHz repetition rate.
-Authors: Sobierajski R, Jacyna I, Dłużewski P, Klepka MT, Klinger D, Pełka JB, Burian T, Hájková V et al.
-Journal: Optics express (2016)
-Identifiers: PMID 27410821; DOI 10.1364/OE.24.015468
-URL: https://pubmed.ncbi.nlm.nih.gov/27410821/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: The role played by heat accumulation in multi-shot damage of silicon was studied. Bulk silicon samples were exposed to intense XUV monochromatic radiation of a 13.5 nm wavelength in a series of 400 femtosecond pulses, repeated with a 1 MHz rate (pulse trains) at the FLASH facility in Hamburg. The observed surface morphological and structural modifications are formed as a result of sample surface melting. Modifications are threshold dependent on the mean fluence of the incident pulse train, with all threshold values in the range of approximately 36-40 mJ/cm2. Experimental data is supported by a theoretical model described by the heat diffusion equation. The threshold for reaching the melting temperature (45 mJ/cm2) and liquid state (54 mJ/cm2), estimated from this model, is in accordance with experimental values within measurement error. The model indicates a significant role of heat accumulation in surface modification processes.
-
----
-
-## 156. Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.
+## 155. Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.
 Authors: Bazalova-Carter M, Qu B, Palma B, Hårdemark B, Hynning E, Jensen C, Maxim PG, Loo BW
 Journal: Medical physics (2015)
 Identifiers: PMID 25979053; DOI 10.1118/1.4918923
@@ -1721,7 +1710,7 @@ Abstract: PURPOSE: The aim of this work was to develop a treatment planning work
 
 ---
 
-## 157. Free energy relationships for reactions of substituted benzhydrylium ions: from enthalpy over entropy to diffusion control.
+## 156. Free energy relationships for reactions of substituted benzhydrylium ions: from enthalpy over entropy to diffusion control.
 Authors: Ammer J, Nolte C, Mayr H
 Journal: Journal of the American Chemical Society (2012)
 Identifiers: PMID 22839678; DOI 10.1021/ja306522b
@@ -1732,29 +1721,7 @@ Abstract: Second-order rate constants k(2) for the reactions of various donor- a
 
 ---
 
-## 158. Decay of cystalline order and equilibration during the solid-to-plasma transition induced by 20-fs microfocused 92-eV free-electron-laser pulses.
-Authors: Galtier E, Rosmej FB, Dzelzainis T, Riley D, Khattak FY, Heimann P, Lee RW, Nelson AJ et al.
-Journal: Physical review letters (2011)
-Identifiers: PMID 21599370; DOI 10.1103/PhysRevLett.106.164801
-URL: https://pubmed.ncbi.nlm.nih.gov/21599370/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: We have studied a solid-to-plasma transition by irradiating Al foils with the FLASH free electron laser at intensities up to 10(16)  W/cm(2). Intense XUV self-emission shows spectral features that are consistent with emission from regions of high density, which go beyond single inner-shell photoionization of solids. Characteristic features of intrashell transitions allowed us to identify Auger heating of the electrons in the conduction band occurring immediately after the absorption of the XUV laser energy as the dominant mechanism. A simple model of a multicharge state inverse Auger effect is proposed to explain the target emission when the conduction band at solid density becomes more atomiclike as energy is transferred from the electrons to the ions. This allows one to determine, independent of plasma simulations, the electron temperature and density just after the decay of crystalline order and to characterize the early time evolution.
-
----
-
-## 159. Damage mechanisms of MoN/SiN multilayer optics for next-generation pulsed XUV light sources.
-Authors: Sobierajski R, Bruijn S, Khorsand AR, Louis E, van de Kruijs RW, Burian T, Chalupsky J, Cihelka J et al.
-Journal: Optics express (2011)
-Identifiers: PMID 21263557; DOI 10.1364/OE.19.000193
-URL: https://pubmed.ncbi.nlm.nih.gov/21263557/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: We investigated the damage mechanism of MoN/SiN multilayer XUV optics under two extreme conditions: thermal annealing and irradiation with single shot intense XUV pulses from the free-electron laser facility in Hamburg - FLASH. The damage was studied "post-mortem" by means of X-ray diffraction, interference-polarizing optical microscopy, atomic force microscopy, and scanning transmission electron microscopy. Although the timescale of the damage processes and the damage threshold temperatures were different (in the case of annealing it was the dissociation temperature of Mo2N and in the case of XUV irradiation it was the melting temperature of MoN) the main damage mechanism is very similar: molecular dissociation and the formation of N2, leading to bubbles inside the multilayer structure.
-
----
-
-## 160. Mechanistic and energetic aspects of the thermal and photochemical redox chemistry of the octanuclear cubane complexes, Fe(III)(8)(mu(4)-O(4))(mu-pyrazolate)(12)X(4) (X = Cl or Br).
+## 157. Mechanistic and energetic aspects of the thermal and photochemical redox chemistry of the octanuclear cubane complexes, Fe(III)(8)(mu(4)-O(4))(mu-pyrazolate)(12)X(4) (X = Cl or Br).
 Authors: Ferraudi G, Piñero D, Chakraborty I, Raptis RG, Lappin AG, Berlin N
 Journal: The journal of physical chemistry. A (2010)
 Identifiers: PMID 20394449; DOI 10.1021/jp911644e
@@ -1765,7 +1732,7 @@ Abstract: The mechanisms of the thermal and photochemical redox reactions of clu
 
 ---
 
-## 161. Visualizing changes in electron distribution in coupled chains of cytochrome bc(1) by modifying barrier for electron transfer between the FeS cluster and heme c(1).
+## 158. Visualizing changes in electron distribution in coupled chains of cytochrome bc(1) by modifying barrier for electron transfer between the FeS cluster and heme c(1).
 Authors: Cieluch E, Pietryga K, Sarewicz M, Osyczka A
 Journal: Biochimica et biophysica acta (2010)
 Identifiers: PMID 19917265; DOI 10.1016/j.bbabio.2009.11.003; PMC PMC2807467 (open access)
@@ -1776,7 +1743,7 @@ Abstract: Cytochrome c(1) of Rhodobacter (Rba.) species provides a series of mut
 
 ---
 
-## 162. Evidence for inverted region behavior in proton transfer to carbanions.
+## 159. Evidence for inverted region behavior in proton transfer to carbanions.
 Authors: Andrieux CP, Gamby J, Hapiot P, Savéant JM
 Journal: Journal of the American Chemical Society (2003)
 Identifiers: PMID 12914476; DOI 10.1021/ja035268f
@@ -1787,7 +1754,7 @@ Abstract: The diphenylmethane-diphenylmethyl anion acid/base couple in N,N-dimet
 
 ---
 
-## 163. Dynamics of proton transfer at nonactivated carbons from laser flash electron photoinjection experiments.
+## 160. Dynamics of proton transfer at nonactivated carbons from laser flash electron photoinjection experiments.
 Authors: Gamby J, Hapiot P, Savéant JM
 Journal: Journal of the American Chemical Society (2002)
 Identifiers: PMID 12137524; DOI 10.1021/ja026804r
@@ -1798,7 +1765,7 @@ Abstract: The investigation of proton exchange dynamics at carbon atoms has been
 
 ---
 
-## 164. Laser flash photolysis evidence for styryl radical cation cyclization in the SET-induced photorearrangement of a p-methoxy-substituted 2-phenylallyl phosphite.
+## 161. Laser flash photolysis evidence for styryl radical cation cyclization in the SET-induced photorearrangement of a p-methoxy-substituted 2-phenylallyl phosphite.
 Authors: Shukla D, Lu C, Schepp NP, Bentrude WG, Johnston LJ
 Journal: The Journal of organic chemistry (2000)
 Identifiers: PMID 10987955; DOI 10.1021/jo0006775
@@ -1809,7 +1776,7 @@ Abstract: The SET-induced photorearrangement of dimethyl 2-(4-methoxyphenyl)ally
 
 ---
 
-## 165. Comparison of Na+/K(+)-ATPase pump currents activated by ATP concentration or voltage jumps.
+## 162. Comparison of Na+/K(+)-ATPase pump currents activated by ATP concentration or voltage jumps.
 Authors: Friedrich T, Nagel G
 Journal: Biophysical journal (1997)
 Identifiers: PMID 9199783; DOI 10.1016/S0006-3495(97)78059-7; PMC PMC1180920 (open access)
@@ -1820,7 +1787,7 @@ Abstract: Using the giant patch technique, we combined two fast relaxation metho
 
 ---
 
-## 166. Adjuvant postoperative radiotherapy in rectal cancer: 148 cases treated at Florence University with 8 years median follow-up.
+## 163. Adjuvant postoperative radiotherapy in rectal cancer: 148 cases treated at Florence University with 8 years median follow-up.
 Authors: Cionini L, Marzano S, Boffi L, Cardona G, Ficari F, Fucini C, Tonelli F
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (1996)
 Identifiers: PMID 8884966; DOI 10.1016/0167-8140(96)01775-6
@@ -1831,7 +1798,7 @@ Abstract: BACKGROUND AND PURPOSE: To analyse the outcome, the treatment related 
 
 ---
 
-## 167. Mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) Formation in 350 nm Flash Irradiations of Re(2)(CO)(10).
+## 164. Mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) Formation in 350 nm Flash Irradiations of Re(2)(CO)(10).
 Authors: Sarakha M, Cozzi M, Ferraudi G
 Journal: Inorganic chemistry (1996)
 Identifiers: PMID 11666567; DOI 10.1021/ic951483o
@@ -1842,7 +1809,7 @@ Abstract: The mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) formation upon U
 
 ---
 
-## 168. Irradiation of mammalian cells in the presence of diamide and low concentrations of oxygen at conventional and at ultrahigh dose rates.
+## 165. Irradiation of mammalian cells in the presence of diamide and low concentrations of oxygen at conventional and at ultrahigh dose rates.
 Authors: Clark EP, Michaels HB, Peterson EC, Epp ER
 Journal: Radiation research (1983)
 Identifiers: PMID 6856753
@@ -1853,7 +1820,7 @@ Abstract: The response of cultured CHO cells to ultrahigh-dose-rate radiation (a
 
 ---
 
-## 169. Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
+## 166. Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
 Authors: Michaels HB
 Journal: International journal of radiation oncology, biology, physics (1982)
 Identifiers: PMID 7107363; DOI 10.1016/0360-3016(82)90653-8
@@ -1864,7 +1831,7 @@ Abstract: When CHO cells are equilibrated with a low level of oxygen (e.g. 0.4% 
 
 ---
 
-## 170. Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
+## 167. Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
 Authors: Ling CC
 Journal: Radiation research (1975)
 Identifiers: PMID 1099609
@@ -1875,7 +1842,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 171. Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
+## 168. Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
 Authors: Weiss H, Epp ER, Heslin JM, Ling CC, Santomasso A
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1974)
 Identifiers: PMID 4607987; DOI 10.1080/09553007414550901

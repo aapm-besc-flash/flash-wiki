@@ -2,7 +2,7 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*204 records. Newest first.*
+*203 records. Newest first.*
 
 ---
 
@@ -29,7 +29,7 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 *Visser SN, Habraken SJM, Puspitasari-Kokko A, Zur Horst AH, Rasch CRN, van Doorn-Wink KCJ* — Cancers (2026)  
 
-<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
 
 
 **TL;DR.** Alongside surgery and systemic treatments, radiotherapy plays a crucial role in the treatment of lung cancer but can affect healthy tissue and cause serious side effects. Compared to photon therapy, proton therapy can lower toxicity because protons deposit most of their energy within the tumor (the Bragg peak), sparing healthy tissue.
@@ -39,7 +39,7 @@ Review articles, roadmaps, consensus statements and guidance documents.
     Background/Objectives: Alongside surgery and systemic treatments, radiotherapy plays a crucial role in the treatment of lung cancer but can affect healthy tissue and cause serious side effects. Compared to photon therapy, proton therapy can lower toxicity because protons deposit most of their energy within the tumor (the Bragg peak), sparing healthy tissue. FLASH radiotherapy (FLASH-RT), which is characterized by using ultra-high dose rates (UHDR), may further enhance healthy tissue sparing. Preclinical studies using electrons, protons, or photons have shown that FLASH-RT may reduce toxicity, while tumor response is maintained, known as the FLASH-effect. FLASH-RT with protons (FLASH-PT) is a promising treatment for lung cancer, integrating the biological advantages of FLASH with the physical advantages of proton beams. Methods: A literature search was performed on preclinical evidence of the FLASH-effect on lung-related endpoints, the proposed mechanisms, and treatment planning and delivery strategies for FLASH-PT in lung cancer. Results: Preclinical studies have shown reduced pulmonary fibrosis, inflammation, vascular damage, and oxidative stress with FLASH-RT. Current evidence suggests that the FLASH-effect likely arises from multiple radiochemical and biological processes, can vary between tissues, and depends on dose, beam and/or delivery characteristics. Despite growing evidence, the exact dose delivery conditions and technological factors required to obtain a FLASH-effect remain unclear. Treatment planning studies achieved clinically acceptable thoracic FLASH-PT plans for lung cancer, with similar or improved organ-at-risk sparing compared with conventional radiotherapy, while meeting (fraction) dose and dose rate criteria for the FLASH-effect. However, clinically feasible technologies for conformal dose delivery under UHDR conditions with respiratory motion mitigation are still under development. Conclusions: FLASH-PT holds the potential to reduce radiation-induced pulmonary side effects and expand the therapeutic window of radiotherapy. Still, key (pre)clinical and technological challenges must be addressed before clinical implementation for patients with lung cancer.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42588638/) · [DOI](https://doi.org/10.3390/cancers18152418)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42588638/) · [DOI](https://doi.org/10.3390/cancers18152418) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13464957/)
 
 
 ---
@@ -2415,25 +2415,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/37276928/) · [DOI](https://doi.org/10.1016/j.ijrobp.2023.05.045)
-
-
----
-
-### An Update on Recent Advances of Photodynamic Therapy for Primary Cutaneous Lymphomas.
-
-*Liu WT, Wang HT, Yeh YH, Wong TW* — Pharmaceutics (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Primary cutaneous lymphomas are rare non-Hodgkin lymphomas consisting of heterogeneous disease entities. Photodynamic therapy (PDT) utilizing photosensitizers irradiated with a specific wavelength of light in the presence of oxygen exerts promising anti-tumor effects on non-melanoma skin cancer, yet its application in primary cutaneous lymphomas remains less recognized.
-
-
-??? note "Abstract"
-    Primary cutaneous lymphomas are rare non-Hodgkin lymphomas consisting of heterogeneous disease entities. Photodynamic therapy (PDT) utilizing photosensitizers irradiated with a specific wavelength of light in the presence of oxygen exerts promising anti-tumor effects on non-melanoma skin cancer, yet its application in primary cutaneous lymphomas remains less recognized. Despite many in vitro data showing PDT could effectively kill lymphoma cells, clinical evidence of PDT against primary cutaneous lymphomas is limited. Recently, a phase 3 &quot;FLASH&quot; randomized clinical trial demonstrated the efficacy of topical hypericin PDT for early-stage cutaneous T-cell lymphoma. An update on recent advances of photodynamic therapy in primary cutaneous lymphomas is provided.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37242570/) · [DOI](https://doi.org/10.3390/pharmaceutics15051328) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10223676/)
 
 
 ---

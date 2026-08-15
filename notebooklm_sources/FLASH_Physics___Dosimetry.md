@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Physics & Dosimetry
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-14. 259 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-15. 259 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -2122,7 +2122,7 @@ Authors: Cimmino A, Ambrožová I, Motta S, Versaci R, Olšovcová V, Chvátil D
 Journal: Radiation protection dosimetry (2022)
 Identifiers: PMID 36005969; DOI 10.1093/rpd/ncac117
 URL: https://pubmed.ncbi.nlm.nih.gov/36005969/
-Category: Physics & Dosimetry | Tags: Physics & Dosimetry, Beam Delivery & Technology
+Category: Physics & Dosimetry | Tags: Physics & Dosimetry
 
 Abstract: The Microtron MT25 is a cyclic electron accelerator with a Kapitza resonator, maximum beam energy of 25 MeV, standard repetition frequency of 423 Hz, pulse length of 3.5 μs and mean current of 30 μA. Studies at conventional particle accelerators allow to understand the response of dosemeters in known and controllable radiation fields. Subsequently, it is possible to develop models and predict their behavior in complex radiation fields, such as those generated at laser and FLASH facilities. Therefore, response of thermally and optically stimulated luminescence detectors outside of the beam was studied at the Microtron MT25. The detectors were placed on a Plexiglas phantom inside a lead and iron bunker to shield-off background radiation. In addition, GAFChromic™ films and track detectors were used. Two irradiations were performed: with and without an 8-cm thick polyethylene moderator. This paper presents a comparison of the responses of the different detection systems.
 
