@@ -1,9 +1,21 @@
+# ---------------------------------------------------------------------------
+# RETIRED 2026-08-23 -- superseded by refresh-corpus.yml
+#
+# This was an independent Europe PMC harvester. refresh-corpus.yml already
+# implements the same architecture against PubMed with a query measured at 98%
+# recall and guarded by pipeline/test_recall.py; this one had 8 search terms,
+# no plural variants, no VHEE, and no recall guard. Running both produced two
+# corpora and two paper counts with no way to say which was right.
+#
+# The schedule is removed, NOT the file. Kept for scripts/triage_agent.py,
+# prompts/triage.md and config/*.yml, which document the template this work
+# came from, and because Europe PMC preprint coverage may be worth revisiting
+# as a deliberate WG scope decision. Run by hand from the Actions tab if so.
+# ---------------------------------------------------------------------------
 name: Literature harvest
 
 on:
-  schedule:
-    # 06:00 UTC every Monday. Adjust to taste.
-    - cron: '0 6 * * 1'
+  # Scheduled runs disabled -- see the note above. Manual dispatch only.
   workflow_dispatch:
     inputs:
       since:
