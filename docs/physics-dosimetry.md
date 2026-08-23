@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*248 records. Newest first.*
+*247 records. Newest first.*
 
 ---
 
@@ -1155,30 +1155,15 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Objective.This study aims to investigate the responses of prototype diamond detectors under pulsed ultra-high dose rates (UHDRs) pencil-beam-scanning (PBS) protons from a compact proton synchrocyclotron (IBA Proteus®ONE) for small-field UHDR dosimetry.Approach. flashDiamond detectors (fDs) were cross-calibrated with their relative proton responses characterized at conventional dose rates (CONV).
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study evaluates prototype diamond detectors (flashDiamond, fD) for absolute and relative dosimetry in pulsed ultra-high dose rate pencil-beam-scanning proton beams from a medical synchrocyclotron (IBA Proteus ONE) at 228 MeV. Under conventional dose rates, fD detectors showed 28.6 cGy/nC sensitivity and dose-rate independence within ±0.50%, with energy-dependent over-responses of 5.49% to 13.7% at different Bragg peaks. Under pulsed UHDR irradiation at 32.6 cGy dose-per-pulse, fD responded within ±1% agreement with an ADCL-calibrated ionization chamber reference with negligible saturation, and agreed within ±1% with other small-field detectors and within ±2% of treatment planning system calculations.
+
+
 ??? note "Abstract"
     Objective.This study aims to investigate the responses of prototype diamond detectors under pulsed ultra-high dose rates (UHDRs) pencil-beam-scanning (PBS) protons from a compact proton synchrocyclotron (IBA Proteus®ONE) for small-field UHDR dosimetry.Approach. flashDiamond detectors (fDs) were cross-calibrated with their relative proton responses characterized at conventional dose rates (CONV). Then, absolute UHDR dosimetry was performed and small-field response assessed. These experiments were also conducted with Razor Diode and microdiamond detectors (mDs) for cross-reference. Cross-calibrations were performed against an ADCL-calibrated PPC05 plane-parallel ionization chamber with 59.23 cGy nC-1calibration coefficients. fD&#x27;s linearity, dose-rate, energy, and linear-energy-transfer (LET) responses were assessed under CONV protons. Pulsed UHDR PBS protons of 228 MeV were produced from a medical proton synchrocyclotron (IBA Proteus®ONE) for 1.5 × 1.5-3.0 × 3.0 cm2square fields. Nominal absolute UHDR dosimetry was performed at 3 × 3 cm2field sizes with relative responses at smaller fields benchmarked against it.Main results. fD had 28.6 ± 0.1 cGy nC-1sensitivities under CONV protons and were linear in response with dose-rate independence within ±0.50%. fD were similar to mD in proton energy and LET responses. However, there is an over-response of approximately 5.49%, 6.51% and 13.7% at the 226, 150 and 70 MeV Bragg peaks respectively. Under pulsed proton UHDR irradiation (0.80% s.t.d, 32.6 ± 0.5 cGy dose-per-pulse), fD responded within ±1% as PPC05 with negligible saturation. fD agreed within ±1% with other comparable small-field detectors under small-field UHDR beams and within ±2% of RayStation treatment planning system calculations. There is negligible partial volume averaging with fDs.Significance. Novel fD detectors did not saturate under pulsed UHDR PBS proton irradiation. Their miniscule active crystals make them suitable for small-field dosimetry but render them relatively insensitive compared to mDs. When cross-calibrated, they are suitable for absolute small-field UHDR dosimetry or for relative exit dosimetry monitoring purposes during UHDR radiobiological experiments.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40897358/) · [DOI](https://doi.org/10.1088/1361-6560/ae023b) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12451744/)
-
-
----
-
-### Experimental validation of coarse ridge filters for FLASH proton therapy.
-
-*Hotoiu L, Stappen FV, Pin A, Nilsson R, Ivoc J, Kim M et al.* — Medical physics (2025)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** To maximize the potential benefit of the FLASH sparing effect during treatment, normal tissue regions would ideally be irradiated only briefly, typically for a couple of hundred milliseconds. Achieving such fast proton irradiation involves a mono-energetic beam at the highest cyclotron energy and the use of 3D-printed conformal energy modulators (CEM).
-
-
-??? note "Abstract"
-    BACKGROUND: To maximize the potential benefit of the FLASH sparing effect during treatment, normal tissue regions would ideally be irradiated only briefly, typically for a couple of hundred milliseconds. Achieving such fast proton irradiation involves a mono-energetic beam at the highest cyclotron energy and the use of 3D-printed conformal energy modulators (CEM). In ConformalFLASH, a dedicated snout is mounted on the nozzle, containing the CEM, a range shifter, and an aperture. PURPOSE: Demonstrate that ConformalFLASH irradiation using a coarse 3D-printed CEM, defined by a geometry with spike resolution &gt; 0.5 mm in any dimension, is fulfilling existing clinical dose standards. The CEM is robust to printing errors and can be reliably manufactured with unmodified commercially available 3D printers. METHODS: Monte-Carlo simulations were conducted to define the 3D-printing specifications of the CEM. A variety of CEMs were then printed according to specifications. CT scans were acquired, and in-beam measurements were performed for each part, using the FLASH beam properties, the FLASH snout, and dosimetry detectors. RESULTS: Considering the proposed ConformaFLASH setup choice, it was possible to design coarse CEM that are both robust and easily printable using commercial technology. Over several measured cases, the 3D-printed CEM yields clinical-grade proton dose distributions. This confirms the irradiation set-up and the CEM manufacturing specifications as predefined through Monte Carlo simulations. CEM CT scans reinforce further the dosimetric results, to provide additional evidence of 3D printing quality. CONCLUSIONS: The dose distribution obtained through carefully specified CEM proves robust to production errors typically occurring in commercial 3D printing. The robustness opens the way to simplified manufacturing of relatively complex parts. Owing to the beam configuration, the snout, and the range shifter, the CEM was able to generate clinical-quality dose distributions. The integration of the FLASH snout with its elements on the nozzle of the proton therapy system represents an important step forward in comparison to existing state-of-the-art, facilitating easier preclinical and future clinical trial investigations.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40891043/) · [DOI](https://doi.org/10.1002/mp.18044)
 
 
 ---

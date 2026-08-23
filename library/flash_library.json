@@ -6711,7 +6711,15 @@
     "Radiobiology",
     "Beam Delivery & Technology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41703005/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41703005/",
+   "category_keyword": "Modeling & Mechanisms",
+   "summary": "Pilot experiment demonstrating ultra-intense laser-driven relativistic electron beams for FLASH research. Water phantom and biological media were irradiated with 20–50 Gy delivered at a dose rate of 70 Gy/ps (claimed as world's highest), enabling picosecond-scale temporal separation of oxygen ionization from subsequent chemical reactions. Measured sudden drops in molecular oxygen concentration as a function of delivered dose; water results were consistent with Monte Carlo simulations.",
+   "triage": {
+    "confidence": 0.72,
+    "contradictions": [],
+    "reviewer_note": "Categorized as Modeling & Mechanisms because the paper emphasizes Monte Carlo simulations of oxygen kinetics and chemical processes, with experimental measurements serving primarily as validation of the computational model. The keyword-model category designation is appropriate. However, the abstract is limited in mechanistic detail: it does not clearly explain whether oxygen depletion magnitude is presented in absolute terms or relative context, nor does it discuss implications for the FLASH effect or comparison to conventional dose-rate kinetics. The claim that this is the 'world's highest dose rate' is presented without qualification of how dose rate is defined at picosecond timescales, relevant to [PLAN-001]. The paper does not report biological endpoints (sparing, survival, etc.), so no direct evaluation against [BIO-001], [BIO-002], or [BIO-003] is possible from the abstract.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "41696018",
@@ -8537,7 +8545,26 @@
     "Treatment Planning & Optimization",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41411757/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41411757/",
+   "category_keyword": "Treatment Planning & Optimization",
+   "summary": "This study develops personalized dose-rate-dependent FLASH delivery pattern optimization (DPO) functions for lung intensity-modulated proton therapy (IMPT) to exploit the FLASH effect across a wider dose-rate range (10–60 Gy/s) rather than assuming a binary threshold at 40 Gy/s. Using 1397 FLASH optimization functions, the authors demonstrate substantial improvements in FLASH-weighted dose distributions and show that optimal optimization functions vary by patient and beam, with class solutions also providing overall improvements.",
+   "triage": {
+    "confidence": 0.88,
+    "contradictions": [
+     {
+      "claim_id": "BIO-002",
+      "nature": "qualifies",
+      "explanation": "The paper indicates that the FLASH effect threshold is not binary but follows a sigmoid response across dose rates, implying that normal-tissue sparing may occur at dose rates substantially below the currently accepted ~40 Gy/s minimum threshold, and that some patients may experience the FLASH effect at lower dose rates. This qualifies the claim that a discrete 40 Gy/s threshold is required."
+     },
+     {
+      "claim_id": "PLAN-001",
+      "nature": "qualifies",
+      "explanation": "The paper addresses the lack of consensus definition of dose rate for treatment planning by proposing personalized, dose-rate-dependent FLASH optimization functions that account for sigmoid-shaped dose-rate response rather than binary threshold models, suggesting a path toward more nuanced dose-rate metrics in planning."
+     }
+    ],
+    "reviewer_note": "Strong fit to Treatment Planning & Optimization category. The work is computational optimization focused on treatment planning, not on accelerator design, dosimetry measurements, or radiobiology endpoints. The qualifications to BIO-002 and PLAN-001 reflect the paper's central finding that FLASH effect thresholds are not binary but dose-rate-dependent across a continuum, which refines but does not directly contradict the registered claims.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "41397377",
@@ -9790,12 +9817,26 @@
     "Electrons",
     "Skin"
    ],
-   "category": "Radiobiology",
+   "category": "Modeling & Mechanisms",
    "tags": [
     "Radiobiology",
     "Beam Delivery & Technology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41395701/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41395701/",
+   "category_keyword": "Radiobiology",
+   "summary": "This study develops a mathematical framework for equivalent constant dose rate (Ḋ_eq,const) as a unifying dose rate metric applicable across different beam time structures including pulsed electron beams and pencil beam scanning proton fields. Using a phenomenological oxygen enhancement ratio (OER) weighted dose model, the authors derive analytical equations for calculating Ḋ_eq,const for piecewise constant dose rate irradiations and validate the metric against acute skin toxicity outcomes in mice irradiated with ∼40 Gy at various time structures. Results show Ḋ_eq,const ≈ n/(n+1)·Ḋ_mean for pulsed beams and demonstrate that toxicity occurrence follows the same trend as a function of Ḋ_eq,const across electron and proton modalities, indicating radiobiological relevance of the proposed concept.",
+   "triage": {
+    "confidence": 0.78,
+    "contradictions": [
+     {
+      "claim_id": "PLAN-001",
+      "nature": "qualifies",
+      "explanation": "The paper proposes Ḋ_eq,const as a biologically founded, unifying dose rate concept applicable across all beam time structures, addressing the lack of consensus noted in PLAN-001. This represents a new formulation with explicit mathematical framework intended to resolve the interchangeability problem between instantaneous, mean, dose-averaged and other metrics."
+     }
+    ],
+    "reviewer_note": "The paper is correctly categorized as Modeling & Mechanisms rather than Radiobiology because the primary contribution is the development and validation of a computational/phenomenological model (OER-weighted dose model) to predict the FLASH effect across different beam structures, not a primary radiobiological measurement. The radiobiological data (mouse acute skin toxicity) serves to validate the model, not the reverse. The work addresses PLAN-001 by proposing a concrete solution to the dose rate definition problem for treatment planning.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "41383043",
@@ -10777,13 +10818,21 @@
     "Dose-Response Relationship, Radiation",
     "Radiation Dosage"
    ],
-   "category": "Radiobiology",
+   "category": "Modeling & Mechanisms",
    "tags": [
     "Radiobiology",
     "Modeling & Mechanisms",
     "Clinical & Translational"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41272383/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41272383/",
+   "category_keyword": "Radiobiology",
+   "summary": "This study develops perturbed equilibrium state dynamics (ESD) modeling to describe temporal dose delivery dependencies of FLASH normal-tissue sparing. Using acute skin toxicity data from 721 mice across 60 experimental groups irradiated with pulsed electron and scanned proton beams, the authors optimized eight ESD model variants and identified a three-parameter model achieving mean absolute error of 0.034 and mean absolute percentage error of 4.3% in reproducing isoeffective dose ratios. The model reproduces experimentally observed dose-dependent saturation of FLASH sparing while remaining parsimonious and potentially adaptable to other tissues.",
+   "triage": {
+    "confidence": 0.78,
+    "contradictions": [],
+    "reviewer_note": "This is a computational modeling study, not an experimental radiobiology study. Although the keyword assignment suggested Radiobiology, the abstract describes development and fitting of a phenomenological mathematical model to existing experimental data rather than new experimental measurements or mechanistic investigation. The paper is appropriately categorized as Modeling & Mechanisms. The model does not contradict any registered claims; it provides a framework consistent with observations that FLASH sparing depends on dose and temporal delivery structure (relevant to BIO-001, BIO-002). The model is tissue-specific (murine skin) and requires refitting for clinical translation, limiting its current scope.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "41270160",
@@ -10832,7 +10881,15 @@
     "Modeling & Mechanisms",
     "Physics & Dosimetry"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41270160/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41270160/",
+   "category_keyword": "Modeling & Mechanisms",
+   "summary": "This paper describes the use of ultrahigh-dose-rate electron irradiation to generate nonpersistent radicals in alanine/glycerol mixtures for dissolution dynamic nuclear polarization. The radicals remain stable at room temperature for months, spontaneously quench upon dissolution, and achieve 17% nuclear polarization comparable to clinical trityl radicals (19%) through partial ordering and electron-electron interactions. The approach enables in vivo imaging of alanine metabolism in rat kidney and offers a sterilizing method for potential clinical translation of dDNP.",
+   "triage": {
+    "confidence": 0.25,
+    "contradictions": [],
+    "reviewer_note": "This paper is tangentially related to FLASH radiotherapy only through the mention of 'ultrahigh-dose rate electron irradiation' as a technical tool for generating chemical radicals. The work is fundamentally a physics/chemistry contribution to magnetic resonance imaging technology and metabolic imaging, not to radiobiology or FLASH effect mechanisms. The radiation doses and dose rates employed are not specified in the abstract and do not appear relevant to UHDR radiotherapy thresholds or mechanisms. The keyword-model assignment to 'Modeling & Mechanisms' is inapt; this is a methods paper in physical chemistry and diagnostic imaging, not FLASH-relevant science. The work should likely not be included in the BESC FLASH working group corpus.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "41261084",
@@ -12891,14 +12948,22 @@
     "Preprint"
    ],
    "mesh": [],
-   "category": "Beam Delivery & Technology",
+   "category": "Radiobiology",
    "tags": [
     "Beam Delivery & Technology",
     "Radiobiology",
     "Physics & Dosimetry",
     "Modeling & Mechanisms"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40964360/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40964360/",
+   "category_keyword": "Beam Delivery & Technology",
+   "summary": "Researchers developed a novel 35 MeV electron FLASH platform (HIGS) capable of delivering instantaneous dose rates up to 20.7 MGy/s and mean dose rates up to 20.7 MGy/s with variable inter-pulse spacing, paired with an organotypic rat brain slice/breast carcinoma co-culture model. HIGS-FLASH and conventional 20 MeV electron irradiation produced equivalent cancer cell growth inhibition, but HIGS-FLASH induced significantly elevated TNFα and fractalkine levels and distinct microglial morphological changes in normal brain tissue, suggesting acute innate immune activation as a potential mechanistic contributor to FLASH normal tissue effects.",
+   "triage": {
+    "confidence": 0.75,
+    "contradictions": [],
+    "reviewer_note": "Categorized as Radiobiology rather than the submitted Beam Delivery & Technology because the core contribution is an in vitro/ex vivo mechanistic radiobiology study examining normal tissue and tumor response endpoints (immune activation, cytokine profiles, microglial morphology, cancer cell growth). The accelerator development is instrumental to the biological investigation, not the primary focus. The paper reports normal tissue differential response to FLASH versus conventional dose rate (increased immune markers and microglial activation), which speaks to mechanism but does not directly measure oxygen depletion, sparing magnitude, or dose-rate thresholds covered by existing registered claims.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40963699",
@@ -13093,7 +13158,15 @@
     "Physics & Dosimetry",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40940290/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40940290/",
+   "category_keyword": "Treatment Planning & Optimization",
+   "summary": "This study presents a method for adaptive proton FLASH therapy using modularized pin ridge filters (pRF) optimized for single-energy 250 MeV proton beams. The authors developed an iterative approach to recycle and repurpose pRF modules from initial plans while minimizing adjustments during adaptive replanning on liver SBRT cases (50 Gy in five fractions). The proposed adaptive method recovered plan quality on re-computed tomography (V100 values ranging from 89.2% to 98.8%) compared to degraded initial pRF plans, while recycling 64.7% to 91.2% of pencil beam directions and maintaining FLASH effects (≥40 Gy/s dose rate threshold).",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [],
+    "reviewer_note": "This is a planning and optimization study focused on the practical engineering of adaptive FLASH delivery using modularized hardware (pin ridge filters). It does not present new radiobiological findings or mechanistic insights. The paper cites a FLASH effectiveness model with a 40 Gy/s threshold consistent with [BIO-002], but does not test this threshold experimentally—it is used as a planning constraint. The work is appropriately categorized as Treatment Planning & Optimization.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40937982",
@@ -13116,7 +13189,15 @@
     "Modeling & Mechanisms",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40937982/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40937982/",
+   "category_keyword": "Modeling & Mechanisms",
+   "summary": "Monte Carlo simulations based on Geant4-DNA quantified reactive oxygen species yield near gold nanoparticles of 5–100 nm diameter in water phantoms irradiated with pulsed electron beams (100 keV and 1 MeV) at dose rates of 60, 100, and 150 Gy/s. Yield enhancement factor increased with smaller nanoparticle size and lower dose rate, with maximum enhancement of 1.25 observed at 30 nm from 5 nm particles at 60 Gy/s. The study models physicochemical radical chemistry and transport to support future experimental investigation of nanoparticle-enhanced radiotherapy.",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [],
+    "reviewer_note": "Straightforward Monte Carlo study of radical chemistry near nanoparticles under ultrahigh dose rate conditions. The paper's focus on ROS yield enhancement near gold nanoparticles as a function of dose rate and particle size is mechanistic rather than experimental. No tension with registered claims; the work models oxygen radical production in a specialized geometry but does not address tissue-level sparing or oxygen depletion sufficiency claims.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40926707",
@@ -13149,7 +13230,21 @@
    "tags": [
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40926707/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40926707/",
+   "category_keyword": "Radiobiology",
+   "summary": "This study compared cellular senescence induction in primary human dermal fibroblasts following X-ray or proton irradiation at conventional dose rate (2 Gy/min) or ultra-high dose rate (454 Gy/s). Ultra-high dose rate proton irradiation induced more pronounced morphological changes than conventional protons or X-rays. All three irradiation types increased senescence-associated beta-gal-positive cells, caused irreversible cell cycle arrest, and led to accumulation of unrepaired DNA damage, but did not affect senescence-associated secretory phenotype.",
+   "triage": {
+    "confidence": 0.82,
+    "contradictions": [
+     {
+      "claim_id": "BIO-003",
+      "nature": "qualifies",
+      "explanation": "This is a normal-tissue study in fibroblasts examining senescence endpoints rather than tumour control. The finding that UHDR protons induce more pronounced morphological changes than conventional rate suggests potential differential effects on normal tissue, which qualifies the isoeffectiveness claim, though the study does not directly measure tumour control endpoints."
+     }
+    ],
+    "reviewer_note": "Study focuses on a normal-tissue surrogate (primary human dermal fibroblasts) and senescence as the endpoint, rather than traditional radiobiology endpoints like survival or reproductive capacity. The abstract does not clearly specify whether dose-matched comparisons were performed across all three conditions, which would be important for assessing isoeffectiveness. The finding that UHDR protons cause more pronounced morphological changes warrants attention to potential differential tissue responses, though the biological significance of this finding for clinical normal-tissue toxicity is unclear from the abstract.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40925823",
@@ -13228,7 +13323,15 @@
     "Radiobiology",
     "Modeling & Mechanisms"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40921334/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40921334/",
+   "category_keyword": "Radiobiology",
+   "summary": "This study examined the FLASH effect in patient-derived human lung tissue using precision-cut lung slices (Hu-PCLS) from 19 lobectomy patients. Slices were irradiated ex vivo at 9 Gy using the ElectronFLASH device operated in conventional or ultra-high dose rate mode. Ultra-high dose rate treatment resulted in higher cell division at 24 hours post-irradiation and attenuated responses in cell cycle checkpoint inhibition, p53 pro-apoptotic genes, DNA damage markers, and antioxidant pathways compared to conventional dose rate.",
+   "triage": {
+    "confidence": 0.78,
+    "contradictions": [],
+    "reviewer_note": "This is a valid radiobiology study examining cellular and molecular response to ultra-high dose rate in human tissue ex vivo. The abstract does not specify the exact dose rate achieved or whether it met the threshold for FLASH effect definition (≥40 Gy/s per BIO-002). The study uses a patient-derived tissue model rather than whole-animal endpoints, but remains appropriate for Radiobiology category as it measures cellular responses and mechanistic endpoints (RNAseq). No contradiction with registered claims; the findings are consistent with expected FLASH-mediated reduction in normal tissue damage markers.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40921332",
@@ -13269,7 +13372,21 @@
    "tags": [
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40921332/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40921332/",
+   "category_keyword": "Radiobiology",
+   "summary": "This study investigated dose, dose rate, and split-dose effects on murine skin toxicity using a novel photon FLASH system (FLASH-SARRP) at 72 Gy/s compared to conventional dose rate at 3.2 Gy/min. C57BL/6 mice received single or split photon exposures; skin toxicity was assessed visually and histopathologically at 8–12 weeks, and tumour control was evaluated in B16-F10 melanoma xenografts. Skin toxicity was delayed and fibrosis significantly reduced (p < 0.01) in FLASH versus conventional exposures in a dose-dependent manner, while split-dose delivery abrogated sparing. Tumour control was isoeffective between dose rates (p = 0.99).",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [
+     {
+      "claim_id": "BIO-003",
+      "nature": "supersedes",
+      "explanation": "This study reports tumour control isoeffectiveness between FLASH and conventional dose rate in a photon-irradiated melanoma xenograft model, consistent with BIO-003, but extends the claim to photon modality (prior reports were predominantly electron and proton), thereby superseding the scope of the original claim to include photons."
+     }
+    ],
+    "reviewer_note": "The abstract indicates skin is the primary normal-tissue endpoint; tumour control is secondary. The study uses photon FLASH, which is less commonly studied than electron or proton FLASH. The finding that split-dose abrogates sparing is noteworthy and suggests beam structure and temporal delivery parameters are critical. The dose rates tested (72 Gy/s FLASH, 3.2 Gy/min conventional) and doses (18.1–25.8 Gy FLASH, 20.2 Gy conventional) are within typical preclinical ranges. No apparent contradiction with BIO-001 (oxygen depletion insufficiency) or BIO-002 (dose-rate threshold ~40 Gy/s); the 72 Gy/s dose rate exceeds the putative threshold.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40904495",
@@ -13338,7 +13455,15 @@
     "Clinical & Translational",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40904039/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40904039/",
+   "category_keyword": "Clinical & Translational",
+   "summary": "The FEATHER trial, a randomized phase II/III clinical trial in veterinary oncology at the Paul Scherrer Institute, developed and implemented comprehensive quality assurance and reporting procedures for ultra-high dose rate radiation therapy. The authors expanded conventional clinical QA to include ultra-high dose rate–specific protocols, implemented time-resolved dose monitoring via delivery log reconstruction, and developed standardized reporting parameters for FLASH clinical trials. Testing of QA procedures using simulated treatments demonstrated >90% pass rate with 3%/3 mm gamma criteria and confirmed ability to reconstruct delivered dose and dose rate from delivery logs.",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [],
+    "reviewer_note": "Paper is appropriately categorized as Clinical & Translational. It describes the first veterinary clinical trial (domestic animals) in FLASH therapy with focus on QA, trial design, and reporting infrastructure rather than efficacy or toxicity endpoints. No conflict with registered claims. Abstract does not report clinical outcome data (sparing, control, toxicity) that would bear on BIO-001, BIO-002, BIO-003, or CLIN-001.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40898344",
@@ -13378,7 +13503,15 @@
     "Radiobiology",
     "Physics & Dosimetry"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40898344/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40898344/",
+   "category_keyword": "Radiobiology",
+   "summary": "A pilot study compared metabolomic responses in human precision-cut lung slices (hu-PCLS) exposed ex vivo to a single 12 Gy dose of standard-rate or ultra-high-dose-rate protons. Untargeted metabolomics at 24 hours post-exposure identified 22 metabolites of interest, with enrichment in β-alanine metabolism, sphingolipid metabolism, primary bile acid biosynthesis, and one-carbon pool metabolism. Receiver operating characteristic analysis revealed individual variability in metabolomic response patterns between subjects, suggesting the need for larger cohort studies.",
+   "triage": {
+    "confidence": 0.65,
+    "contradictions": [],
+    "reviewer_note": "Categorized as Radiobiology (cellular/tissue-level response to UHDR in an ex vivo human model system) rather than the suggested category. The study is exploratory and descriptive with small sample size (n=3 donors). No quantitative comparison of effect magnitude between standard and FLASH conditions is provided in the abstract. The paper does not directly address tissue sparing or injury outcomes, making assessment against established claims difficult. The metabolomic signature differences are presented as present but not characterized in terms of biological significance or mechanisms. Results warrant larger studies but current findings are preliminary.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40897687",
@@ -13435,7 +13568,21 @@
     "Radiobiology",
     "Modeling & Mechanisms"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40897687/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40897687/",
+   "category_keyword": "Radiobiology",
+   "summary": "This study investigates iron-dependent lipid peroxidation and ferroptosis as mechanistic mediators of normal-tissue sparing in ultra-high dose rate radiotherapy. Using mouse models, the authors demonstrate that FLASH radiotherapy increases lipid peroxidation and ferroptosis in tumor cells but not in normal tissues compared to conventional-rate therapy. When mice were fed a high-iron diet, the protective effect of FLASH was reversed, resulting in increased intestinal damage and lipid peroxidation, suggesting that tissue-specific iron levels and iron-driven oxidative stress modulate differential responses between normal and malignant tissues.",
+   "triage": {
+    "confidence": 0.78,
+    "contradictions": [
+     {
+      "claim_id": "MECH-001",
+      "nature": "qualifies",
+      "explanation": "The paper proposes iron-driven lipid peroxidation and ferroptosis as an additional mechanism beyond radiolytic oxygen depletion that may contribute to normal-tissue sparing in FLASH. This does not contradict the claim that oxygen depletion alone is insufficient, but rather offers a tissue-specific complementary mechanism involving iron metabolism."
+     }
+    ],
+    "reviewer_note": "The abstract does not specify dose, dose rate values, or beam quality (electron/photon/proton), limiting full contextualization within the corpus. The mechanism proposed (iron-dependent ferroptosis) is distinct from the oxygen-depletion-based mechanisms emphasized in existing registered claims. The study uses whole-animal endpoints (intestinal damage) in mice, appropriate for Radiobiology. Confidence is moderate-to-high; the only substantive gap is quantitative dosimetric specification.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40897368",
@@ -13475,7 +13622,15 @@
     "Radiobiology",
     "Beam Delivery & Technology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40897368/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40897368/",
+   "category_keyword": "Treatment Planning & Optimization",
+   "summary": "A treatment planning study evaluated the feasibility of delivering ultra-high dose rate proton stereotactic body radiotherapy for spine metastasis using a research version of RayStation TPS on an IBA Proteus Plus system. Conformal plans were generated for three fractionation regimens (5 fx × 7 Gy, 8 fx × 5 Gy, 10 fx × 4.2 Gy) with spot filtering and sorting to maximize dose rate in the spinal cord. Plans achieved robust target coverage and ensured spinal cord dose-rate-limiting volumes exceeded 40 Gy/s in each fraction, requiring flash-modifying factors of approximately 0.6–0.8 to enable treatment.",
+   "triage": {
+    "confidence": 0.82,
+    "contradictions": [],
+    "reviewer_note": "Paper is appropriately categorized as Treatment Planning & Optimization. It addresses dose-rate-aware planning objectives and FMF definition for a specific OAR (spinal cord) under multiple fractionation schemes, without new dosimetric or radiobiological measurements. The authors acknowledge dependence on optimistic parameters and unvalidated FMF thresholds, which aligns with the absence of clinical consensus on FLASH modifying factors. No registered claims are contradicted; the work is consistent with [BIO-002] (40 Gy/s threshold mentioned) and [PLAN-001] (varying dose-rate definitions across planning systems).",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40897358",
@@ -13512,7 +13667,15 @@
     "Treatment Planning & Optimization",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40897358/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40897358/",
+   "category_keyword": "Physics & Dosimetry",
+   "summary": "This study evaluates prototype diamond detectors (flashDiamond, fD) for absolute and relative dosimetry in pulsed ultra-high dose rate pencil-beam-scanning proton beams from a medical synchrocyclotron (IBA Proteus ONE) at 228 MeV. Under conventional dose rates, fD detectors showed 28.6 cGy/nC sensitivity and dose-rate independence within ±0.50%, with energy-dependent over-responses of 5.49% to 13.7% at different Bragg peaks. Under pulsed UHDR irradiation at 32.6 cGy dose-per-pulse, fD responded within ±1% agreement with an ADCL-calibrated ionization chamber reference with negligible saturation, and agreed within ±1% with other small-field detectors and within ±2% of treatment planning system calculations.",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [],
+    "reviewer_note": "Strong fit to Physics & Dosimetry category. The paper directly addresses detector response and recombination behavior at UHDR, which is core to DOS-001. The finding that diamond detectors show negligible saturation at 32.6 cGy/pulse (approximately 32.6 Gy/s for typical pulse duration) is informative but does not contradict DOS-001, which concerns ionization chambers. The absolute agreement with ADCL-calibrated ionization chamber references supports dosimetric traceability at UHDR. No contradictions with registered claims identified.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40897356",
@@ -13549,7 +13712,15 @@
     "Modeling & Mechanisms",
     "Physics & Dosimetry"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40897356/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40897356/",
+   "category_keyword": "Beam Delivery & Technology",
+   "summary": "This study optimizes aluminum electron scattering foils for a 6 MeV linear accelerator using Geant4 Monte Carlo simulations and the Nelder-Mead algorithm to achieve lateral dose uniformity at short source-to-surface distance. Using stacked-layer and ring scattering foil structures with collimators, the authors demonstrated uniform dose profiles (flatness <5%) for 3.5 cm diameter fields at 11 cm SSD. By modulating anode voltage, pulse width, and frequency, the system achieved dose-per-pulse adjustability from 0.09 to 8.37 Gy, yielding instantaneous dose rates from 4.25 × 10⁴ to 2.09 × 10⁶ Gy/s and mean dose rates from 10⁻² to 10³ Gy/s, enabling side-by-side comparison of conventional and ultra-high dose rate regimens on a single platform.",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [],
+    "reviewer_note": "Excellent fit to Beam Delivery & Technology category. Paper focuses on accelerator and beam transport optimization via scattering foil design and collimation to enable UHDR delivery. The Monte Carlo simulations support hardware engineering rather than constitute a modeling contribution per se. No contradiction with registered claims; the work provides an enabling platform for future radiobiological and dosimetric studies.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40892458",
@@ -13587,7 +13758,15 @@
    "tags": [
     "Modeling & Mechanisms"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40892458/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40892458/",
+   "category_keyword": "Modeling & Mechanisms",
+   "summary": "This study examined DNA damage induction in plasmid DNA (pBR322) irradiated at conventional (0.1 Gy/s) and ultra-high (50 Gy/s) dose rates with protons in Tris-HCl solutions at three ionic concentrations. A significant reduction in single-strand break (SSB) induction was observed only at the highest concentration (900 mM), corresponding to a scavenging time of approximately 1 nanosecond, suggesting that SSB suppression at ultra-high dose rate occurs through rapid radical-radical reactions within the first nanosecond following irradiation.",
+   "triage": {
+    "confidence": 0.85,
+    "contradictions": [],
+    "reviewer_note": "Paper uses in vitro plasmid DNA model rather than cellular or tissue systems. The 50 Gy/s dose rate is within the UHDR range but below the ~100 Gy/s threshold often discussed in preclinical normal-tissue sparing literature. Study mechanistically supports oxygen depletion/radical chemistry models but does not directly address the in vivo sparing claims in BIO-001 or BIO-002. Confidence slightly reduced due to limited scope of the experimental system (acellular) and lack of detail in abstract regarding DSB results and the number of replicates/statistical significance thresholds.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40891043",
@@ -13619,7 +13798,7 @@
     "Radiotherapy Dosage",
     "Radiometry"
    ],
-   "category": "Physics & Dosimetry",
+   "category": "Beam Delivery & Technology",
    "tags": [
     "Physics & Dosimetry",
     "Modeling & Mechanisms",
@@ -13627,7 +13806,15 @@
     "Radiobiology",
     "Clinical & Translational"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40891043/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40891043/",
+   "category_keyword": "Physics & Dosimetry",
+   "summary": "This study experimentally validates the design and manufacture of coarse 3D-printed conformal energy modulators (CEMs) for use in the ConformalFLASH proton therapy system. Monte Carlo simulations were used to define 3D-printing specifications for CEMs with spike resolution >0.5 mm. Multiple CEMs were then fabricated using commercial 3D printers, imaged by CT, and tested with FLASH beam properties using in-beam dosimetry measurements. The 3D-printed CEMs generated clinical-grade proton dose distributions robust to typical manufacturing tolerances, demonstrating feasibility of simplified manufacturing for complex modulator geometry and supporting integration of the FLASH snout onto clinical proton therapy nozzles.",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [],
+    "reviewer_note": "This paper is clearly Beam Delivery & Technology: it concerns accelerator/nozzle hardware integration, beam transport optimization via conformal modulators, and engineering feasibility of UHDR proton delivery. The keyword assignment to Physics & Dosimetry is reasonable but narrower than the contribution warrants. The work supports the FLASH framework by demonstrating practical manufacturing pathways for rapid-delivery hardware, but does not directly address dosimetry corrections, biological endpoints, or planning.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40867798",
@@ -13696,13 +13883,21 @@
     "Radiotherapy Dosage",
     "Radiotherapy, Intensity-Modulated"
    ],
-   "category": "Beam Delivery & Technology",
+   "category": "Treatment Planning & Optimization",
    "tags": [
     "Beam Delivery & Technology",
     "Radiobiology",
     "Modeling & Mechanisms"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/40858068/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40858068/",
+   "category_keyword": "Beam Delivery & Technology",
+   "summary": "In silico comparative planning study of very high energy electrons (80–130 MeV) for stereotactic body radiotherapy of pancreatic cancer in three patient cases. VHEE treatment plans were optimized for both conventional and ultra-high dose rate delivery scenarios and compared against volumetric modulated arc therapy (VMAT) clinical plans using dose-volume histograms and dose maps. VHEE demonstrated clinical acceptability even without FLASH dose escalation benefit; the authors explored potential additional normal-tissue sparing to duodenum through dose escalation to the planning target volume if the FLASH effect were realized.",
+   "triage": {
+    "confidence": 0.72,
+    "contradictions": [],
+    "reviewer_note": "Paper is planning and dosimetric in nature, not primarily about beam delivery hardware or accelerator design, despite the keyword assignment. The study is in silico (simulated plans) rather than measurement or implementation. No clinical data, beam characterization, or experimental validation is reported. The FLASH effect itself is not measured or modeled mechanistically; only a hypothetical dose-escalation scenario is explored. Confidence is moderate because the abstract provides limited detail on planning methodology, optimization constraints, and the biological dose model used for FLASH benefit estimation.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "40819335",

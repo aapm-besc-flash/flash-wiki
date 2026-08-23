@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*435 records. Newest first.*
+*434 records. Newest first.*
 
 ---
 
@@ -1685,25 +1685,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Equivalent constant dose rate as a unifying dose rate concept for FLASH across all beam time structures.
-
-*Poulsen PR, Sørensen BS, Kristensen L, Johansen JG* — Medical physics (2025)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** The FLASH effect has been investigated experimentally using beam modalities with different time structures such as pulsed electron beams and pencil beam scanning (PBS) proton fields. The different beam time structures make direct comparisons between experiments difficult.
-
-
-??? note "Abstract"
-    BACKGROUND: The FLASH effect has been investigated experimentally using beam modalities with different time structures such as pulsed electron beams and pencil beam scanning (PBS) proton fields. The different beam time structures make direct comparisons between experiments difficult. A biologically founded dose rate concept that is applicable across all beam time structures is highly needed. PURPOSE: For any dose delivery with a time-varying dose rate, we define the equivalent constant dose rate (  D ̇ $\dot{\mathrm{D}} $  eq,const) as the dose rate that would give the same FLASH sparing effect if the same dose had been delivered with a constant dose rate. This study develops a mathematical framework for  D ̇ $\dot{\mathrm{D}} $  eq,const and uses this to investigate  D ̇ $\dot{\mathrm{D}} $  eq,const for a range of beam time structures. METHODS: Calculation of  D ̇ $\dot{\mathrm{D}} $  eq,const requires a model of the FLASH sparing effect. Here,  D ̇ $\dot{\mathrm{D}} $  eq,const was investigated using a phenomenological oxygen enhancement ratio (OER) weighted dose model that has previously been used for successful quantification of the acute skin toxicity variations observed in mice across various proton PBS irradiations. Analytical equations were developed to calculate  D ̇ $\dot{\mathrm{D}} $  eq,const for any piece-wise constant dose rate irradiation and used to determine  D ̇ $\dot{\mathrm{D}} $  eq,const for several pulsed beams and PBS fields.  D ̇ $\dot{\mathrm{D}} $  eq,const was characterized systematically for pulsed beams and PBS fields, and the ability of  D ̇ $\dot{\mathrm{D}} $  eq,const to describe acute skin toxicity occurrence in previous mice experiments was investigated. RESULTS: For pulsed beams with mean dose rate  D ̇ $\dot{\mathrm{D}} $  mean, n pulses, pulse doses up to 5 Gy and pulse repetition times up to 100 ms,  D ̇ $\dot{\mathrm{D}} $  eq,const was approximately given by n/(n+1)⋅  D ̇ $\dot{\mathrm{D}} $  mean.  D ̇ $\dot{\mathrm{D}} $  eq,const for a 40 Gy PBS transmission proton field with  D ̇ $\dot{\mathrm{D}} $  mean = 60 Gy/s previously used for mouse irradiations was 155 Gy/s without repainting, 64 Gy/s with four repaintings, and 7.7 Gy/s when splitting the field into two deliveries separated by 2 minutes.  D ̇ $\dot{\mathrm{D}} $  eq,const was 98 Gy/s for spread-out Bragg peak irradiation without repainting. The occurrence of acute skin toxicity in mice after ∼40 Gy irradiations with various beam time structures, including pulsed electron beams and proton PBS, followed the same trend as function of  D ̇ $\dot{\mathrm{D}} $  eq,const, demonstrating its radiobiological relevance.  D ̇ $\dot{\mathrm{D}} $  eq,const only depended slightly on the phenomenological OER-model parameters. CONCLUSION: The generally applicable biologically founded dose rate concept  D ̇ $\dot{\mathrm{D}} $  eq,const allows direct comparison of FLASH dose rates across all beam time structures.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41395701/) · [DOI](https://doi.org/10.1002/mp.70205)
-
-
----
-
 ### Cytogenetic Effects of Conventional and Ultra High Dose Rates of Radiation in Human Lymphocytes: Comparative Analysis in Metaphase Chromosomes and G2-PCCs.
 
 *Escalona MB, Ryan TL, Gross SR, Iddins CJ, Turner HC, Balajee AS* — Disaster medicine and public health preparedness (2025)  
@@ -1838,25 +1819,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41279465/) · [DOI](https://doi.org/10.1101/2025.10.06.680759) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12632643/)
-
-
----
-
-### Equilibrium state dynamics-based modeling of temporal dose delivery dependencies of FLASH skin sparing.
-
-*Böhlen TT, Grilj V, Sesink A, Devanand P, Sørensen BS, Poulsen P et al.* — Medical physics (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** FLASH radiotherapy shows promise in sparing normal tissues while maintaining tumor control, with the magnitude of its sparing effect being strongly influenced by the temporal dose delivery (TDD) structure of ultra-high dose rate (UHDR) irradiation. Quantitatively describing these dependencies is critical for optimizing UHDR treatments and guiding preclinical and clinical applications.
-
-
-??? note "Abstract"
-    BACKGROUND: FLASH radiotherapy shows promise in sparing normal tissues while maintaining tumor control, with the magnitude of its sparing effect being strongly influenced by the temporal dose delivery (TDD) structure of ultra-high dose rate (UHDR) irradiation. Quantitatively describing these dependencies is critical for optimizing UHDR treatments and guiding preclinical and clinical applications. PURPOSE: This study introduces perturbed equilibrium state dynamics (ESD) as a minimal phenomenological framework to describe TDD dependencies of FLASH normal tissue sparing. METHODS: ESD-based modeling assumes a transient perturbation of a generic equilibrium state during irradiation, modulating the biological system&#x27;s instantaneous radiosensitivity. Isoeffective dose ratios (FLASH-modifying factors, FMF) were derived from a collection of acute skin toxicity data, consisting of both previously published and newly acquired data, from 721 mice across 60 experimental groups irradiated with pulsed electron beams and scanned proton beams spanning various TDD patterns. Eight ESD model variants were evaluated based on their ability to reproduce experimental FMF values, optimizing their three or four free parameters and assessing goodness-of-fit metrics. RESULTS: The best-ranked model based on the Bayesian Information Criterion (BIC) used three parameters to reproduce accurately 52 averaged FMF values (mean absolute error: 0.034, mean absolute percentage error: 4.3%). It consistently reproduces experimentally observed features of FLASH sparing in terms of FMF, including an increased sparing with dose followed by saturation at high doses. Two additional model variants received similar support by BIC, while the remaining five variants were less favored. CONCLUSIONS: ESD-based modeling offers an effective framework to describe TDD dependencies of FLASH murine skin sparing while limiting complexity and number of free parameters to avoid overfitting. Through parameter tuning, the ESD modeling aligns with key experimental data, supporting its potential as a predictive, parsimonious framework for experimental and translational research. By highlighting the potential role of a transient equilibrium perturbation modulating instantaneous radiosensitivity and quantifying respective measures, ESD-based models may also guide the exploration and modeling of underlying mechanisms. While the present application is tissue-specific, the approach is broadly adaptable, with clinical translation requiring refitting and validation in other contexts.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41272383/) · [DOI](https://doi.org/10.1002/mp.70143) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12638282/)
 
 
 ---
@@ -2115,6 +2077,29 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Investigating Rat-Brain Normal Tissue and Tumor FLASH Effects with a Novel Very High Energy Electron Beam.
+
+*Kay TV, Price AL, Sprenger M, Radosova VJP, Thompson A, Martin EL et al.* — bioRxiv : the preprint server for biology (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Ultra-high dose rate (FLASH) irradiation is reported to reduce normal tissue toxicity while maintaining tumor control, however mechanism(s) remain obscure. To study FLASH mechanisms in brain tissue, we developed a novel experimental platform featuring a unique high-energy electron linear accelerator (High Intensity Gamma Source, HIGS) paired with an organotypic ex vivo brain metastasis model.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Researchers developed a novel 35 MeV electron FLASH platform (HIGS) capable of delivering instantaneous dose rates up to 20.7 MGy/s and mean dose rates up to 20.7 MGy/s with variable inter-pulse spacing, paired with an organotypic rat brain slice/breast carcinoma co-culture model. HIGS-FLASH and conventional 20 MeV electron irradiation produced equivalent cancer cell growth inhibition, but HIGS-FLASH induced significantly elevated TNFα and fractalkine levels and distinct microglial morphological changes in normal brain tissue, suggesting acute innate immune activation as a potential mechanistic contributor to FLASH normal tissue effects.
+
+
+??? note "Abstract"
+    PURPOSE: Ultra-high dose rate (FLASH) irradiation is reported to reduce normal tissue toxicity while maintaining tumor control, however mechanism(s) remain obscure. To study FLASH mechanisms in brain tissue, we developed a novel experimental platform featuring a unique high-energy electron linear accelerator (High Intensity Gamma Source, HIGS) paired with an organotypic ex vivo brain metastasis model. METHODS: We varied inter-pulse spacing to modulate the mean dose rate (MDR) of our unique 35 MeV electron beam, while maintaining extremely high instantaneous dose rate (IDR), and used film dosimetry to characterize dosimetry and targeting accuracy. We combined this HIGS-FLASH beam with an organotypic rat brain slice/breast carcinoma co-culture model of brain metastasis to assess effects on normal and neoplastic tissues. Live cell and bioluminescence imaging demonstrated cancer cell growth effects, while normal tissue responses and immune activation were assessed with live cell imaging, cytokine profiles, and confocal microscopy. We performed comparison experiments with 20 MeV electrons from a Varian clinical linear accelerator (VCLA) operating at conventional dose rate. RESULTS: The highest IDR of the HIGS-FLASH beam to-date was 20.7 ± 0.6 MGy/s, with maximum MDR of 20.7 MGy/s (1 μs pulse of 20.7 Gy). Beam targeting was accurate to &lt; 1 mm and reproducible. HIGS-FLASH and VCLA dose rates equivalently decreased cancer cell growth. HIGS-FLASH irradiation significantly increased TNFα and fractalkine levels and confocal microscopy revealed distinct changes in microglial morphology in normal brain slices, suggesting microglia activation following HIGS-FLASH irradiation. CONCLUSIONS: Our novel experimental platform produces extremely high dose rates and rapid normal/neoplastic tissue readouts for mechanistic research into the effects of FLASH radiation on the brain. HIGS-FLASH irradiation induces comparable cancer cell growth inhibition but differential effects on cytokines and microglial morphology, suggesting that acute innate immune responses may be involved in FLASH normal tissue effects in the brain.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40964360/) · [DOI](https://doi.org/10.1101/2025.09.05.674499) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12439996/)
+
+
+---
+
 ### Anesthesia is a potent determinant of ultra-high dose rate sparing in the murine total abdominal irradiation model.
 
 *Tavakkoli AD, Daley WW, Hunter DI, Allen BA, Carpenter GC, Gladstone DJ et al.* — Frontiers in oncology (2025)  
@@ -2148,6 +2133,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Conventional radiotherapy based on X rays is used to treat more than 50% of cancers. Although effective, radiotherapy can damage healthy tissues around the tumor due to the X-ray dose deposition profile, as well as the safety margin needed to compensate for dose uncertainties.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study compared cellular senescence induction in primary human dermal fibroblasts following X-ray or proton irradiation at conventional dose rate (2 Gy/min) or ultra-high dose rate (454 Gy/s). Ultra-high dose rate proton irradiation induced more pronounced morphological changes than conventional protons or X-rays. All three irradiation types increased senescence-associated beta-gal-positive cells, caused irreversible cell cycle arrest, and led to accumulation of unrepaired DNA damage, but did not affect senescence-associated secretory phenotype.
+
+
 ??? note "Abstract"
     Conventional radiotherapy based on X rays is used to treat more than 50% of cancers. Although effective, radiotherapy can damage healthy tissues around the tumor due to the X-ray dose deposition profile, as well as the safety margin needed to compensate for dose uncertainties. A notable side effect is cellular senescence, characterized by the cessation of cell division while maintaining metabolic activity and promoting the secretion of various components, called the senescence-associated secretory phenotype. To minimize toxicity in healthy tissues, proton therapy holds great promise as it enables tumors to be targeted more precisely while sparing healthy tissues beyond the tumor site. Another innovative method is ultra-high dose rate irradiation, which seems to induce less damage to healthy tissues while generating an anti-tumor response similar to standard dose rate irradiation. In this work, we aimed to compare the effects of X rays and protons at conventional dose rate (2 Gy/min) and ultra-high dose rate (454 Gy/s), on the induction of senescence in primary normal human dermal fibroblasts by analyzing several senescence biomarkers. Irradiation with ultra-high dose rate protons caused more pronounced cellular and nuclear morphological changes in normal human dermal fibroblasts than irradiation with conventional protons or X-rays. For other biomarkers, all three types of irradiations induced an increase in the proportion of senescence-associated beta-gal-positive cells, an irreversible cell cycle arrest and an accumulation of unrepaired DNA damage, but did not affect senescence-associated secretory phenotype.
 
@@ -2165,6 +2154,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Radiation toxicities, such as pneumonitis and fibrosis, are major limitations affecting patients&#x27; quality of life. Developed a decade ago, FLASH radiotherapy is an innovative method that, by delivering radiation at ultrafast dose rate, reduces radiation toxicities on healthy tissue while preserving the anti-tumoral effect of radiotherapy.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study examined the FLASH effect in patient-derived human lung tissue using precision-cut lung slices (Hu-PCLS) from 19 lobectomy patients. Slices were irradiated ex vivo at 9 Gy using the ElectronFLASH device operated in conventional or ultra-high dose rate mode. Ultra-high dose rate treatment resulted in higher cell division at 24 hours post-irradiation and attenuated responses in cell cycle checkpoint inhibition, p53 pro-apoptotic genes, DNA damage markers, and antioxidant pathways compared to conventional dose rate.
 
 
 ??? note "Abstract"
@@ -2186,6 +2179,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Preclinical evidence has demonstrated the potential of FLASH radiotherapy (FLASH-RT) to spare normal tissues compared to conventional (CONV) exposures. Most FLASH studies have used ultra-high dose rate (&gt;40 Gy/sec) electrons and protons whilst comparatively few studies have reported photon FLASH responses.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study investigated dose, dose rate, and split-dose effects on murine skin toxicity using a novel photon FLASH system (FLASH-SARRP) at 72 Gy/s compared to conventional dose rate at 3.2 Gy/min. C57BL/6 mice received single or split photon exposures; skin toxicity was assessed visually and histopathologically at 8–12 weeks, and tumour control was evaluated in B16-F10 melanoma xenografts. Skin toxicity was delayed and fibrosis significantly reduced (p &lt; 0.01) in FLASH versus conventional exposures in a dose-dependent manner, while split-dose delivery abrogated sparing. Tumour control was isoeffective between dose rates (p = 0.99).
+
+
 ??? note "Abstract"
     INTRODUCTION: Preclinical evidence has demonstrated the potential of FLASH radiotherapy (FLASH-RT) to spare normal tissues compared to conventional (CONV) exposures. Most FLASH studies have used ultra-high dose rate (&gt;40 Gy/sec) electrons and protons whilst comparatively few studies have reported photon FLASH responses. Given the widespread use of photons clinically, there is a need to characterise the FLASH effect using photons. In this study, we applied a novel photon FLASH system (FLASH-SARRP, Xstrahl) to investigate the effects of dose, dose rate and split dose on murine skin toxicity. METHODS: Skin toxicity was assessed at CONV (3.2 Gy/min) and FLASH (72 Gy/s) dose rates using the SARRP or FLASH-SARRP. CONV responses were investigated at a dose of 20.2 Gy and FLASH responses at doses of 18.1, 21.3 &amp; 25.8 Gy. Comparative studies were conducted using a split dose exposure with an average dose rate of 2.8 Gy/s. Skin toxicity on the hind leg of C57BL/6 mice was visually scored and histopathological analysis performed at 8-12 weeks. Tumour growth delay was also assessed using a melanoma (B16-F10) xenograft model irradiated at FLASH and CONV dose rates. RESULTS: Skin toxicity was delayed for FLASH exposures and tissue analysis showed hyperplasia and significant fibrosis deposition (p &lt; 0.01) in CONV mice compared to FLASH. Tissue recovery was observed for both dose rates from 8 weeks post RT. A dose dependent relationship for FLASH sparing was observed, while a split dose exposure resulted in loss of sparing. FLASH was equally effective for tumour control in comparison to CONV exposures (p = 0.99). CONCLUSIONS: These results demonstrate it is feasible to deliver photon FLASH exposures with sparing consistent with observations from previous studies using proton and electron beams. Dose, average dose rate and beam structure are key parameters that modulate radiobiological responses to photon FLASH.
 
@@ -2205,6 +2202,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Recent advances in radiation biology and preclinical research have identified that high doses of radiation at ultra-high dose rate can lead to sparing of normal tissue, while maintaining tumor control. This has been termed the FLASH effect and has been extended from electrons to protons, heavy ions and photons.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A pilot study compared metabolomic responses in human precision-cut lung slices (hu-PCLS) exposed ex vivo to a single 12 Gy dose of standard-rate or ultra-high-dose-rate protons. Untargeted metabolomics at 24 hours post-exposure identified 22 metabolites of interest, with enrichment in β-alanine metabolism, sphingolipid metabolism, primary bile acid biosynthesis, and one-carbon pool metabolism. Receiver operating characteristic analysis revealed individual variability in metabolomic response patterns between subjects, suggesting the need for larger cohort studies.
+
+
 ??? note "Abstract"
     BACKGROUND: Recent advances in radiation biology and preclinical research have identified that high doses of radiation at ultra-high dose rate can lead to sparing of normal tissue, while maintaining tumor control. This has been termed the FLASH effect and has been extended from electrons to protons, heavy ions and photons. Lung cancer treatments, despite the advancements in radiotherapy with precise protons, are still associated with significant damage to the normal tissue. FLASH proton exposures have not been characterized yet with regards to lung tissue injury or sparing. METHODS: In this pilot study we used precision cut lung slices from human healthy non-smoker donors, two male and one female, and exposed this ex vivo model to a single dose of 12 Gy of standard or FLASH protons and analyzed them with untargeted metabolomics at 24 h after exposure. RESULTS: We identified 22 metabolites of interest, with primary enrichment in β-alanine metabolism, sphingolipid metabolism, primary bile acid biosynthesis, and one carbon pool by folate, while chemical classes showed that sphingoid bases and eicosanoids were two of the most enriched chemical classes after radiation exposure. Classification analysis with receiver operating characteristic curves based on the 22 metabolites indicated the presence of individual variability to responses, that warrant future studies with a larger cohort. CONCLUSIONS: Although this is a pilot study, we show the utility of ex vivo models in radiation research and particularly with standard and FLASH protons, and that further research in this area should include both male and female subjects. This ex vivo human model should therefore be investigated further to identify early responses to proton exposures.
 
@@ -2222,6 +2223,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Iron is vital to living cells, playing a key role in cellular respiration, DNA synthesis, and various metabolic functions. Importantly, cancer cells have a higher dependency on iron compared to normal cells to support their rapid growth and survival.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study investigates iron-dependent lipid peroxidation and ferroptosis as mechanistic mediators of normal-tissue sparing in ultra-high dose rate radiotherapy. Using mouse models, the authors demonstrate that FLASH radiotherapy increases lipid peroxidation and ferroptosis in tumor cells but not in normal tissues compared to conventional-rate therapy. When mice were fed a high-iron diet, the protective effect of FLASH was reversed, resulting in increased intestinal damage and lipid peroxidation, suggesting that tissue-specific iron levels and iron-driven oxidative stress modulate differential responses between normal and malignant tissues.
 
 
 ??? note "Abstract"
