@@ -48,6 +48,12 @@ CLAIMS = LIB / "claims.yml"
 REFRESH = ROOT / ".refresh"
 
 SCHEMA_VERSION = 1
+
+# Records between saves to library/triage.json. A long run that only writes at
+# the end loses everything to a timeout, a rate limit, or a dropped connection.
+# Because already-triaged PMIDs are skipped, checkpointing also means the next
+# run resumes exactly where this one stopped.
+CHECKPOINT_EVERY = 25
 MODEL = os.environ.get("TRIAGE_MODEL", "claude-sonnet-5")
 MAX_TOKENS = 1500
 MAX_ATTEMPTS = 2
@@ -292,6 +298,12 @@ def main() -> int:
                 "contradictions": payload.get("contradictions") or [],
                 "reviewer_note": payload.get("reviewer_note", ""),
             }
+
+            if not args.dry_run and i % CHECKPOINT_EVERY == 0:
+                TRIAGE.write_text(
+                    json.dumps(done, indent=1, sort_keys=True), encoding="utf-8")
+                print(f"  checkpoint: {len(done)} record(s) saved",
+                      file=sys.stderr)
 
         if failed:
             print(f"::warning::{len(failed)} record(s) failed triage validation",
