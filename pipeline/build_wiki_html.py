@@ -38,6 +38,10 @@ for r in RECS:
         "a": "; ".join(r["authors"]), "j": r["journal"],
         "c": r["category"], "g": r["tags"], "d": r["doi"],
         "m": r["pmc"], "u": r["url"], "s": tldr(r["abstract"]),
+        # "ai" = agent summary, present only for triaged records. Kept as a
+        # separate key from "s" so the UI can label it; it must never silently
+        # replace the authors' own words.
+        "ai": r.get("summary", ""),
         "b": r["abstract"],
     })
 cc = Counter(r["category"] for r in RECS)
@@ -113,6 +117,8 @@ font-size:.7rem;font-weight:600}}
 .tldr{{font-size:.9rem;margin:8px 0}}
 details{{margin-top:6px}}
 details summary{{cursor:pointer;color:var(--accent);font-size:.83rem;font-weight:600}}
+.aisum{{margin:.5rem 0;padding:.55rem .7rem;border-left:3px solid var(--accent);background:rgba(127,127,127,.07);font-size:.88rem;line-height:1.45}}
+.aitag{{font-size:.68rem;letter-spacing:.03em;text-transform:uppercase;opacity:.7;font-weight:600}}
 details p{{font-size:.86rem;color:#33475b;margin:8px 0 2px}}
 .links{{margin-top:10px;font-size:.83rem}}
 .links a{{color:var(--accent);text-decoration:none;margin-right:14px;font-weight:600}}
@@ -209,6 +215,7 @@ function card(d){{
     <div class="meta">${{hl(d.a,q)}} — ${{esc(d.j)}} (${{d.y||'n.d.'}})</div>
     <div class="badges">${{badges}}</div>
     ${{d.s?`<div class="tldr"><b>TL;DR.</b> ${{hl(d.s,q)}}</div>`:''}}
+    ${{d.ai?`<div class="aisum"><b>Summary</b> <span class="aitag">AI-generated, curator-reviewed</span><br>${{hl(d.ai,q)}}</div>`:''}}
     ${{d.b?`<details><summary>Abstract</summary><p>${{hl(d.b,q)}}</p></details>`:''}}
     <div class="links">${{links}}</div></div>`;
 }}
