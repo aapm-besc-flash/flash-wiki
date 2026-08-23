@@ -20,6 +20,12 @@ on:
     - cron: "0 11 1 * *"
   workflow_dispatch:
     inputs:
+      triage_model:
+        description: >-
+          Model for triage. claude-haiku-4-5-20251001 is roughly a third the
+          price of Sonnet; blank uses the workflow default below.
+        required: false
+        default: ""
       triage_limit:
         description: >-
           Max records sent to the agent this run. 0 = rebuild the site and
@@ -116,6 +122,10 @@ jobs:
           # Scheduled runs get the default; manual runs can dial it down (or to
           # 0) from the Run workflow form without editing this file.
           TRIAGE_LIMIT: ${{ inputs.triage_limit || '120' }}
+          # Haiku 4.5 at batch pricing is about one sixth of standard Sonnet.
+          # Set here rather than in the script so reverting is a one-line diff
+          # and a single manual run can override it from the dispatch form.
+          TRIAGE_MODEL: ${{ inputs.triage_model || 'claude-haiku-4-5-20251001' }}
         run: python3 pipeline/triage_agent.py
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
