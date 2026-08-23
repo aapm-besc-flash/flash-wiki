@@ -4632,8 +4632,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The registered claim states sparing requires mean dose rates above approximately 40 Gy/s with effect increasing up to roughly 100 Gy/s. This study reports a FLASH effect detected at dose rates as low as 20 Gy/s and no additional benefit increasing from 60 to 120 Gy/s, lowering the threshold and plateau point observed in this model."
+      "explanation": "The registered claim states sparing requires mean dose rates above approximately 40 Gy/s with effect increasing up to roughly 100 Gy/s. This study reports a FLASH effect detected at dose rates as low as 20 Gy/s and no additional benefit increasing from 60 to 120 Gy/s, lowering the threshold and plateau point observed in this model.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper's split-dose findings (attenuation of FLASH effect with interbeam pauses, relevance to multifield clinical delivery) are not addressed by any existing registered claim and may warrant a new claim regarding multifield/split-dose FLASH delivery.",
@@ -6943,8 +6943,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-001",
-      "nature": "qualifies",
-      "explanation": "BIO-001 states that sparing requires the full fraction to be delivered within a time short relative to oxygen re-diffusion (on the order of a few hundred milliseconds or less). This study shows sparing is maintained when the total dose is split across multiple beams with 1-minute intervals between them, meaning the overall fraction delivery time greatly exceeds hundreds of milliseconds while sparing still occurs. This qualifies the claim by suggesting the short-delivery-time requirement may apply per-beam rather than to the entire fractional dose."
+      "explanation": "BIO-001 states that sparing requires the full fraction to be delivered within a time short relative to oxygen re-diffusion (on the order of a few hundred milliseconds or less). This study shows sparing is maintained when the total dose is split across multiple beams with 1-minute intervals between them, meaning the overall fraction delivery time greatly exceeds hundreds of milliseconds while sparing still occurs. This qualifies the claim by suggesting the short-delivery-time requirement may apply per-beam rather than to the entire fractional dose.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not specify beam energy, field size, or the exact conventional dose rate used for comparison, which limits full physics characterization; category assignment as Radiobiology reflects the whole-animal tissue endpoints (survival, body weight, crypt regeneration) reported.",
@@ -7357,8 +7357,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-001",
-      "nature": "qualifies",
-      "explanation": "The registered claim states that ionization chambers require dose-per-pulse-dependent recombination correction at UHDR because uncorrected readings underestimate delivered dose. This paper demonstrates a low-pressure nitrogen-filled chamber design achieving charge collection efficiency close to one and linear response up to nearly 10 Gy/pulse without recombination losses, indicating that recombination correction is not universally required if chamber design (gas fill, pressure) is altered, qualifying the generality of DOS-001 for conventional atmospheric-pressure chambers."
+      "explanation": "The registered claim states that ionization chambers require dose-per-pulse-dependent recombination correction at UHDR because uncorrected readings underestimate delivered dose. This paper demonstrates a low-pressure nitrogen-filled chamber design achieving charge collection efficiency close to one and linear response up to nearly 10 Gy/pulse without recombination losses, indicating that recombination correction is not universally required if chamber design (gas fill, pressure) is altered, qualifying the generality of DOS-001 for conventional atmospheric-pressure chambers.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Paper is a proof-of-concept device characterization study rather than an intercomparison or standards effort, so it does not directly address DOS-002's claim about lack of primary standards or cross-institutional spread; it presents a candidate design that could eventually inform such standards work.",
@@ -7498,8 +7498,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-001",
-      "nature": "qualifies",
-      "explanation": "The paper confirms that dose-per-pulse-dependent recombination correction is required at ultra-high dose rate and that uncorrected readings would misrepresent dose, but demonstrates a chamber design that derives this correction automatically from a single measurement rather than requiring separate multi-voltage measurements, refining the practical workflow implied by the claim without contradicting its physical basis."
+      "explanation": "The paper confirms that dose-per-pulse-dependent recombination correction is required at ultra-high dose rate and that uncorrected readings would misrepresent dose, but demonstrates a chamber design that derives this correction automatically from a single measurement rather than requiring separate multi-voltage measurements, refining the practical workflow implied by the claim without contradicting its physical basis.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is an instrumentation/methods paper demonstrating a new chamber design rather than a cross-institutional intercomparison, so it does not directly address DOS-002's claim about intercomparison spread; it is a single-device validation across three modalities.",
@@ -7716,8 +7716,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper proposes a new sub-cellular diffusion mechanism (Hoover effect) that, if correct, would enhance the effective magnitude of radiolytic oxygen depletion within the nucleus specifically, potentially addressing the magnitude insufficiency noted in MECH-001. However, this is a theoretical hypothesis without in vivo or experimental validation, so it qualifies rather than directly refutes the registered claim."
+      "explanation": "The paper proposes a new sub-cellular diffusion mechanism (Hoover effect) that, if correct, would enhance the effective magnitude of radiolytic oxygen depletion within the nucleus specifically, potentially addressing the magnitude insufficiency noted in MECH-001. However, this is a theoretical hypothesis without in vivo or experimental validation, so it qualifies rather than directly refutes the registered claim.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract is purely theoretical with no simulation results, quantitative predictions, or comparison to experimental oxygen depletion data; confidence in the contradiction assessment is limited until the full model's magnitude estimates are available.",
@@ -7919,8 +7919,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "The paper reports a cross-detector intercomparison at UHDR (film vs. flashDiamond) showing agreement within 5%, a spread that would exceed typical conventional-dose-rate tolerances (~1-2%), consistent with and providing a concrete data point for the registered claim that no primary standard exists and inter-comparisons show elevated spread, rather than contradicting it."
+      "explanation": "The paper reports a cross-detector intercomparison at UHDR (film vs. flashDiamond) showing agreement within 5%, a spread that would exceed typical conventional-dose-rate tolerances (~1-2%), consistent with and providing a concrete data point for the registered claim that no primary standard exists and inter-comparisons show elevated spread, rather than contradicting it.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper does not test ionization chamber recombination correction directly (DOS-001), since the flashDiamond rather than an ionization chamber was used as the UHDR reference; this is a different detector system and does not bear on that claim.",
@@ -7972,13 +7972,13 @@
     "contradictions": [
      {
       "claim_id": "DOS-001",
-      "nature": "qualifies",
-      "explanation": "The paper proposes and simulates a low-pressure noble gas chamber design intended to eliminate ion recombination losses at UHDP, suggesting that dose-per-pulse-dependent recombination correction is not universally required if chamber design is modified, though this remains a simulation-only feasibility result rather than a validated measurement device."
+      "explanation": "The paper proposes and simulates a low-pressure noble gas chamber design intended to eliminate ion recombination losses at UHDP, suggesting that dose-per-pulse-dependent recombination correction is not universally required if chamber design is modified, though this remains a simulation-only feasibility result rather than a validated measurement device.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "The work is framed as a step toward a primary-standard-like reference dosimeter for UHDP by proposing an analytically describable, recombination-free chamber design, addressing the absence of a primary standard noted in DOS-002, though only through simulation without experimental validation or cross-institutional comparison."
+      "explanation": "The work is framed as a step toward a primary-standard-like reference dosimeter for UHDP by proposing an analytically describable, recombination-free chamber design, addressing the absence of a primary standard noted in DOS-002, though only through simulation without experimental validation or cross-institutional comparison.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is a purely computational/simulation study of detector physics, not an experimental measurement; it supports future chamber development rather than reporting a validated primary standard, so contradictions to DOS-001/DOS-002 are qualifications rather than direct empirical refutations.",
@@ -8078,8 +8078,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The registered claim states sparing requires mean dose rates above ~40 Gy/s with no further increase above ~100 Gy/s. This study's FSD arm, delivered at a much lower average dose rate (2.8 Gy/s, split over two pulses), failed to reproduce sparing seen at 85.6 Gy/s, consistent with the general dose-rate threshold claim, but the explicit dependence on beam structure (single vs. split pulse) at a similar total dose adds a temporal/pulse-structure dimension not captured in the existing claim, qualifying it rather than contradicting it outright."
+      "explanation": "The registered claim states sparing requires mean dose rates above ~40 Gy/s with no further increase above ~100 Gy/s. This study's FSD arm, delivered at a much lower average dose rate (2.8 Gy/s, split over two pulses), failed to reproduce sparing seen at 85.6 Gy/s, consistent with the general dose-rate threshold claim, but the explicit dependence on beam structure (single vs. split pulse) at a similar total dose adds a temporal/pulse-structure dimension not captured in the existing claim, qualifying it rather than contradicting it outright.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The FSD comparison introduces a beam-structure variable (single vs. two-pulse delivery at matched total dose) that is not addressed by any registered claim; this may warrant a new claim regarding beam structure/pulse timing effects on sparing, distinct from mean dose rate alone.",
@@ -8340,8 +8340,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "This study reports that in vivo tumor growth delay was not significantly different across MRT dose rates spanning 10 to 1000 Gy/s in a microbeam/broad-beam combined schedule, whereas BIO-002 describes a dose-rate threshold (~40 Gy/s) and saturation (~100 Gy/s) for normal-tissue sparing in preclinical models generally; this paper addresses tumor control and immune infiltration rather than normal-tissue sparing directly, and the model geometry (microbeam plus broad-beam) differs from the broad-beam UHDR systems underlying BIO-002, so it qualifies rather than directly contradicts the claim's scope."
+      "explanation": "This study reports that in vivo tumor growth delay was not significantly different across MRT dose rates spanning 10 to 1000 Gy/s in a microbeam/broad-beam combined schedule, whereas BIO-002 describes a dose-rate threshold (~40 Gy/s) and saturation (~100 Gy/s) for normal-tissue sparing in preclinical models generally; this paper addresses tumor control and immune infiltration rather than normal-tissue sparing directly, and the model geometry (microbeam plus broad-beam) differs from the broad-beam UHDR systems underlying BIO-002, so it qualifies rather than directly contradicts the claim's scope.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper's focus on microbeam radiation therapy (spatially fractionated, synchrotron-generated) combined with conventional broad-beam RT is a distinct delivery paradigm from the whole-field UHDR electron/proton FLASH studies underlying most registered claims; comparisons should be made cautiously given differing beam geometry and endpoints (immune infiltration markers rather than direct normal-tissue sparing assays).",
@@ -8489,8 +8489,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports no significant UHDR-vs-conventional difference in H2O2 yield across scavenging conditions, providing direct chemical measurement evidence consistent with the claim that radical/oxidative chemistry differences (here H2O2, related to oxygen depletion pathways) are not the dominant driver of dose-rate-dependent sparing, though it addresses H2O2 yield specifically rather than oxygen depletion magnitude directly."
+      "explanation": "The paper reports no significant UHDR-vs-conventional difference in H2O2 yield across scavenging conditions, providing direct chemical measurement evidence consistent with the claim that radical/oxidative chemistry differences (here H2O2, related to oxygen depletion pathways) are not the dominant driver of dose-rate-dependent sparing, though it addresses H2O2 yield specifically rather than oxygen depletion magnitude directly.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The study is a pure radiation chemistry measurement (H2O2 yield) with accompanying Monte Carlo simulation used to interpret the experimental data, so it sits at the boundary of Radiobiology and Modeling & Mechanisms; classified as Radiobiology because the simulation supports rather than drives the central experimental finding. No biological or tissue endpoint is reported, so linkage to BIO claims is indirect.",
@@ -8571,13 +8571,13 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "This paper addresses radiolytic chemical product (H2O2) yield rather than oxygen depletion magnitude directly, but its finding that radiolysis chemistry is highly sensitive to instantaneous dose rate and pulse structure adds nuance to mechanistic claims about radiolytic processes' role in sparing, without directly measuring oxygen depletion magnitude in vivo."
+      "explanation": "This paper addresses radiolytic chemical product (H2O2) yield rather than oxygen depletion magnitude directly, but its finding that radiolysis chemistry is highly sensitive to instantaneous dose rate and pulse structure adds nuance to mechanistic claims about radiolytic processes' role in sparing, without directly measuring oxygen depletion magnitude in vivo.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "PLAN-001",
-      "nature": "qualifies",
-      "explanation": "The study's demonstration that H2O2 yield depends critically on instantaneous dose rate distribution and pulse characteristics, not just mean dose rate, reinforces the registered claim that dose rate definitions are non-interchangeable, providing a mechanistic chemistry-based rationale for this non-equivalence."
+      "explanation": "The study's demonstration that H2O2 yield depends critically on instantaneous dose rate distribution and pulse characteristics, not just mean dose rate, reinforces the registered claim that dose rate definitions are non-interchangeable, providing a mechanistic chemistry-based rationale for this non-equivalence.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not specify absolute dose levels or exact pulse structures/energies used, limiting full characterization of experimental conditions for the corpus summary. This is a physicochemical mechanism study (Fricke-type dosimetry chemistry) rather than a biological or dosimetry hardware paper, consistent with Modeling & Mechanisms classification.",
@@ -8636,8 +8636,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports that GI toxicity under both FLASH and conventional irradiation correlates directly with in-vivo oxygen tension across a range of breathing-gas conditions, and that FLASH sparing is oxygen- and sex-dependent, providing in-vivo evidence linking oxygen tension to differential radiosensitivity that qualifies the claim that oxygen depletion alone cannot explain sparing, without directly overturning it since the manipulation here is baseline pO2 rather than radiolytic depletion magnitude."
+      "explanation": "The paper reports that GI toxicity under both FLASH and conventional irradiation correlates directly with in-vivo oxygen tension across a range of breathing-gas conditions, and that FLASH sparing is oxygen- and sex-dependent, providing in-vivo evidence linking oxygen tension to differential radiosensitivity that qualifies the claim that oxygen depletion alone cannot explain sparing, without directly overturning it since the manipulation here is baseline pO2 rather than radiolytic depletion magnitude.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report beam quality, dose, or dose rate values numerically, only qualitative FLASH vs CONV designation; a reviewer with access to the full text should verify these parameters and consider whether the sex-dependent findings warrant a note in BIO-002 or BIO-003 regarding model-system variability not currently captured in the wiki.",
@@ -8687,8 +8687,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "MECH-001 asserts that oxygen depletion alone is insufficient to explain in vivo sparing. This paper's abdominal (GI) result, where raising tissue oxygenation abolishes the FLASH sparing effect, is consistent with an oxygen-depletion-based mechanism operating in that tissue, while the skin result (sparing preserved despite increased oxygenation) argues against oxygen depletion as the operative mechanism there. The tissue-dependent divergence qualifies the generality of MECH-001 rather than refuting it outright."
+      "explanation": "MECH-001 asserts that oxygen depletion alone is insufficient to explain in vivo sparing. This paper's abdominal (GI) result, where raising tissue oxygenation abolishes the FLASH sparing effect, is consistent with an oxygen-depletion-based mechanism operating in that tissue, while the skin result (sparing preserved despite increased oxygenation) argues against oxygen depletion as the operative mechanism there. The tissue-dependent divergence qualifies the generality of MECH-001 rather than refuting it outright.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report beam quality, absolute dose values, or dose rates for CONV/FLASH arms, limiting full comparison against BIO-002's dose-rate threshold claim; consider follow-up on those parameters if available in the full text.",
@@ -8935,8 +8935,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "MECH-001 states radiolytic oxygen depletion alone is insufficient to explain in vivo sparing. This study shows that eliminating tissue oxygen via clamping abolishes and reverses the FLASH sparing effect, indicating oxygen status is mechanistically central to sparing in this model, which qualifies the generality of MECH-001 even though it does not directly measure radiolytic oxygen depletion magnitude."
+      "explanation": "MECH-001 states radiolytic oxygen depletion alone is insufficient to explain in vivo sparing. This study shows that eliminating tissue oxygen via clamping abolishes and reverses the FLASH sparing effect, indicating oxygen status is mechanistically central to sparing in this model, which qualifies the generality of MECH-001 even though it does not directly measure radiolytic oxygen depletion magnitude.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper manipulates baseline tissue oxygenation via vascular clamping rather than measuring radiolytic oxygen depletion during irradiation, so it does not directly quantify depletion magnitude as MECH-001 addresses; the relationship should be read as supportive evidence for an oxygen-dependent mechanism rather than a direct refutation of the depletion-magnitude argument.",
@@ -8987,8 +8987,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "BIO-002 frames normal-tissue sparing as dependent on mean dose rate thresholds (~40-100 Gy/s), but this paper reports that sparing magnitude depends strongly on dose-per-fraction and fractionation schedule even when dose rate itself is not the varied parameter, suggesting dose-per-fraction is a necessary co-factor not captured by the mean-dose-rate framing."
+      "explanation": "BIO-002 frames normal-tissue sparing as dependent on mean dose rate thresholds (~40-100 Gy/s), but this paper reports that sparing magnitude depends strongly on dose-per-fraction and fractionation schedule even when dose rate itself is not the varied parameter, suggesting dose-per-fraction is a necessary co-factor not captured by the mean-dose-rate framing.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This study does not directly measure dose rate thresholds or oxygen depletion mechanisms; it isolates dose-per-fraction and fractionation number as variables, which is a different axis than most registered BIO claims. It qualifies rather than contradicts BIO-002 and BIO-003 since it does not report on tumor control (BIO-003 concerns isoeffective tumor control, not addressed here) but does bear on generalizability of sparing across fractionation regimens relevant to clinical translation.",
@@ -9081,13 +9081,13 @@
     "contradictions": [
      {
       "claim_id": "BIO-001",
-      "nature": "qualifies",
-      "explanation": "The study finds that splitting the total dose into three deliveries with two 30-second pauses (FLASH3) still preserves a protective effect for whole-body, whole-thorax, and skin tissue, suggesting that strict sub-second delivery of the full fraction is not universally required for sparing; however, for whole-abdomen irradiation the interrupted delivery was less protective than single delivery, indicating tissue-dependent sensitivity to interruption that qualifies rather than overturns the general claim."
+      "explanation": "The study finds that splitting the total dose into three deliveries with two 30-second pauses (FLASH3) still preserves a protective effect for whole-body, whole-thorax, and skin tissue, suggesting that strict sub-second delivery of the full fraction is not universally required for sparing; however, for whole-abdomen irradiation the interrupted delivery was less protective than single delivery, indicating tissue-dependent sensitivity to interruption that qualifies rather than overturns the general claim.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "Tumor control at ultra-high dose rate (244-388 Gy/s) was isoeffective with conventional dose rate at matched dose in CT26 and Lewis lung carcinoma models, consistent with the registered claim, adding two additional model systems to the reported isoeffectiveness pattern."
+      "explanation": "Tumor control at ultra-high dose rate (244-388 Gy/s) was isoeffective with conventional dose rate at matched dose in CT26 and Lewis lung carcinoma models, consistent with the registered claim, adding two additional model systems to the reported isoeffectiveness pattern.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report specific total dose values or pulse structure parameters (pulse width, PRF) needed to fully assess dose-rate dependence claims such as BIO-002; only average dose rate range is given.",
@@ -9170,8 +9170,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The paper reports a continuous dependence of sparing magnitude on average dose rate rather than confirming a specific threshold (~40 Gy/s) or plateau (~100 Gy/s); without numeric dose-rate values in the abstract, it is unclear whether the reported relationship matches the plateau behavior asserted in BIO-002."
+      "explanation": "The paper reports a continuous dependence of sparing magnitude on average dose rate rather than confirming a specific threshold (~40 Gy/s) or plateau (~100 Gy/s); without numeric dose-rate values in the abstract, it is unclear whether the reported relationship matches the plateau behavior asserted in BIO-002.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Abstract omits specific dose, dose rate, and toxicity grading values, limiting precise comparison to registered dose-rate threshold claims (BIO-002). The demonstration of a FLASH-like effect for a 6 MV photon beam (not electron or proton) extends the empirical base beyond the modalities implicit in most registered claims, but this is a new observation rather than a contradiction.",
@@ -9238,8 +9238,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "The paper reports equivalent tumor cell growth inhibition between UHDR and conventional dose rate in this ex vivo brain metastasis coculture model, consistent with isoeffective tumor control, but the differential cytokine and microglial findings suggest the mechanism extends beyond simple isoeffectiveness and involves immune-mediated normal tissue effects, which the registered claim does not address."
+      "explanation": "The paper reports equivalent tumor cell growth inhibition between UHDR and conventional dose rate in this ex vivo brain metastasis coculture model, consistent with isoeffective tumor control, but the differential cytokine and microglial findings suggest the mechanism extends beyond simple isoeffectiveness and involves immune-mediated normal tissue effects, which the registered claim does not address.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report absolute physical dose values (Gy) delivered, only dose rate metrics, limiting full characterization of the dose-response relationship. This is an ex vivo organotypic model rather than an in vivo whole-animal study, so it does not directly test BIO-001 or BIO-002 thresholds for oxygen re-diffusion timing or dose rate thresholds, though the interpulse spacing manipulation is relevant to those mechanistic questions.",
@@ -9283,8 +9283,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "The paper reports isoeffective tumor control (similar survival benefit) between FLASH and conventional proton irradiation in an orthotopic glioblastoma PDX model, extending the range of model systems supporting this claim rather than contradicting it."
+      "explanation": "The paper reports isoeffective tumor control (similar survival benefit) between FLASH and conventional proton irradiation in an orthotopic glioblastoma PDX model, extending the range of model systems supporting this claim rather than contradicting it.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Abstract does not specify dose, dose rate, or proton beam energy, so it cannot be evaluated against BIO-001, BIO-002, or MECH-001, which depend on quantitative dose-rate and timing thresholds. Normal tissue sparing is assessed via molecular DNA/RNA damage markers rather than a functional or histopathological endpoint, which may be relevant context for readers comparing across BIO-002/BIO-003 evidence.",
@@ -9342,13 +9342,13 @@
     "contradictions": [
      {
       "claim_id": "BIO-001",
-      "nature": "qualifies",
-      "explanation": "This study reports a critical temporal window of up to approximately 15 seconds between split UHDR beams for preserved sparing, and a measured tissue reoxygenation lifetime of 7.7 seconds, which extends the timescale for oxygen-dynamics-based sparing beyond the 'few hundred milliseconds or less' specified in BIO-001; the finding pertains to interbeam interruption time within a UHDR delivery rather than total fraction delivery time, but it directly refines the quantitative timescale claim."
+      "explanation": "This study reports a critical temporal window of up to approximately 15 seconds between split UHDR beams for preserved sparing, and a measured tissue reoxygenation lifetime of 7.7 seconds, which extends the timescale for oxygen-dynamics-based sparing beyond the 'few hundred milliseconds or less' specified in BIO-001; the finding pertains to interbeam interruption time within a UHDR delivery rather than total fraction delivery time, but it directly refines the quantitative timescale claim.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports that oxygen consumption per unit dose correlates with baseline tissue pO2 and that the sparing transition timescale matches oxygen reoxygenation kinetics, supporting (though not conclusively proving) oxygen depletion as a mechanism, which qualifies the categorical claim that oxygen depletion is insufficient to account for sparing."
+      "explanation": "The paper reports that oxygen consumption per unit dose correlates with baseline tissue pO2 and that the sparing transition timescale matches oxygen reoxygenation kinetics, supporting (though not conclusively proving) oxygen depletion as a mechanism, which qualifies the categorical claim that oxygen depletion is insufficient to account for sparing.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The interbeam interval measured here (up to ~15 s between split UHDR beams) is a distinct experimental parameter from the total fraction delivery time referenced in BIO-001; reviewers should consider whether these are commensurable timescales before treating this as a direct supersession rather than a qualification.",
@@ -9394,8 +9394,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports that UHDR reduces ROS (including H2O2) yield relative to CDR in a cell-free, oxygen-dependent manner, providing a chemical mechanism consistent with reduced oxidative damage at UHDR; this supports rather than contradicts the claim that oxygen depletion chemistry alone may be insufficient to explain in vivo sparing, since DNA damage itself showed no corresponding trend, suggesting a disconnect between ROS chemistry changes and biologically relevant damage."
+      "explanation": "The paper reports that UHDR reduces ROS (including H2O2) yield relative to CDR in a cell-free, oxygen-dependent manner, providing a chemical mechanism consistent with reduced oxidative damage at UHDR; this supports rather than contradicts the claim that oxygen depletion chemistry alone may be insufficient to explain in vivo sparing, since DNA damage itself showed no corresponding trend, suggesting a disconnect between ROS chemistry changes and biologically relevant damage.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is an acellular chemistry study without repair enzymes or scavengers, so it cannot directly test in vivo sparing magnitude (BIO-001, BIO-002) or tumor control (BIO-003); those claims are not addressed here rather than contradicted. Dose and dose rate values are not given numerically in the abstract, limiting full characterization of UHDR conditions used.",
@@ -9448,8 +9448,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "The registered claim states tumour control at UHDR is isoeffective with conventional dose rate at matched physical dose across model systems reported to date. This paper reports isoeffectiveness only for small spheroids under ambient oxygen, but demonstrates significant tumor sparing (DMFSCD50 up to 1.66) under reduced oxygen tension and in larger spheroids, indicating tumor control is not universally isoeffective and depends on oxygenation and tumor size."
+      "explanation": "The registered claim states tumour control at UHDR is isoeffective with conventional dose rate at matched physical dose across model systems reported to date. This paper reports isoeffectiveness only for small spheroids under ambient oxygen, but demonstrates significant tumor sparing (DMFSCD50 up to 1.66) under reduced oxygen tension and in larger spheroids, indicating tumor control is not universally isoeffective and depends on oxygenation and tumor size.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper's finding that UHDR can produce tumor sparing (higher DMF, i.e., reduced tumor control at matched dose) under hypoxia and in larger spheroids is directly relevant to MECH-001 regarding oxygen depletion mechanisms, though this study addresses tumor spheroid oxygen tension rather than in vivo normal-tissue oxygen dynamics; flagged as a qualifying observation rather than a direct contradiction of MECH-001.",
@@ -9487,8 +9487,8 @@
     "contradictions": [
      {
       "claim_id": "PLAN-001",
-      "nature": "qualifies",
-      "explanation": "The study evaluates dose rate coverage using multiple dose and dose rate thresholds and compares two distinct TPS platforms with different optimization approaches (MIROpt dose-rate-optimized vs. RayStation margin/robust non-dose-rate-optimized), reinforcing that dose rate metrics and planning approaches for FLASH-PT remain non-standardized and produce materially different plan quality trade-offs."
+      "explanation": "The study evaluates dose rate coverage using multiple dose and dose rate thresholds and compares two distinct TPS platforms with different optimization approaches (MIROpt dose-rate-optimized vs. RayStation margin/robust non-dose-rate-optimized), reinforcing that dose rate metrics and planning approaches for FLASH-PT remain non-standardized and produce materially different plan quality trade-offs.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract reports only planning-quality and dose-rate-coverage metrics, not biological or clinical endpoints, so it does not bear on the biological threshold claims (BIO-001/002/003) beyond adopting the commonly cited 40 Gy/s threshold as a planning constraint.",
@@ -9693,8 +9693,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The registered claim states sparing does not increase materially above ~100 Gy/s; this paper reports sparing effects at actual dose rates of 192-473 Gy/s, well above that threshold, extending the empirical range over which the plateau claim has been tested without reporting a decline in effect."
+      "explanation": "The registered claim states sparing does not increase materially above ~100 Gy/s; this paper reports sparing effects at actual dose rates of 192-473 Gy/s, well above that threshold, extending the empirical range over which the plateau claim has been tested without reporting a decline in effect.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Findings on tumor control isoeffectiveness (BIO-003) and normal-tissue sparing (BIO-002) are consistent with, not contradictory to, existing claims; this is additional supporting evidence from a new device platform (intraoperative electron FLASH) rather than a novel mechanism or contradictory finding. Quantitative dose values (Gy) per tissue/endpoint were not given in the abstract, limiting full quantitative comparison.",
@@ -9747,8 +9747,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports measurable, dose-rate-dependent reductions in oxygen consumption and radical availability at UHDR, providing mechanistic chemical-phase evidence relevant to oxygen depletion hypotheses, though it does not directly quantify in vivo sparing magnitude or claim sufficiency, so it qualifies rather than contradicts the claim that depletion alone is insufficient."
+      "explanation": "The paper reports measurable, dose-rate-dependent reductions in oxygen consumption and radical availability at UHDR, providing mechanistic chemical-phase evidence relevant to oxygen depletion hypotheses, though it does not directly quantify in vivo sparing magnitude or claim sufficiency, so it qualifies rather than contradicts the claim that depletion alone is insufficient.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is an in vitro radiochemistry study (E3 medium, ESR spectroscopy) rather than a computational model, so it is classified as Radiobiology despite the keyword-model suggestion of Modeling & Mechanisms; no whole-animal or cellular endpoint is reported, only chemical radical and oxygen measurements.",
@@ -10271,13 +10271,13 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "This study reports a dose-rate threshold for skin-sparing near 200-300 Gy/s in mouse hind-limb irradiation, with no protection at dose rates as high as 200 Gy/s, which is substantially higher than the approximately 40 Gy/s threshold and 100 Gy/s plateau registered in BIO-002; the paper's own dose-rate optimization data qualify the generality of that threshold across tissue/model systems."
+      "explanation": "This study reports a dose-rate threshold for skin-sparing near 200-300 Gy/s in mouse hind-limb irradiation, with no protection at dose rates as high as 200 Gy/s, which is substantially higher than the approximately 40 Gy/s threshold and 100 Gy/s plateau registered in BIO-002; the paper's own dose-rate optimization data qualify the generality of that threshold across tissue/model systems.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "The paper reports FLASH-RT (300 and 400 Gy/s) achieved tumor control equivalent to CONV-RT in the B16/F10 model, consistent with isoeffective tumor control, but also reports reduced lung metastasis nodules with FLASH-RT, suggesting a possible divergence from strict isoeffectiveness on a secondary endpoint not covered by BIO-003."
+      "explanation": "The paper reports FLASH-RT (300 and 400 Gy/s) achieved tumor control equivalent to CONV-RT in the B16/F10 model, consistent with isoeffective tumor control, but also reports reduced lung metastasis nodules with FLASH-RT, suggesting a possible divergence from strict isoeffectiveness on a secondary endpoint not covered by BIO-003.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not specify beam modality (electron, proton, etc.) or provide detailed statistics for the metastasis endpoint; these details would help assess generalizability of the dose-rate threshold finding relative to BIO-002.",
@@ -10413,8 +10413,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The registered claim states sparing requires mean dose rates above ~40 Gy/s with effect plateauing by ~100 Gy/s, generalized across preclinical models. This study reports that at low-LET, no differential sparing occurred despite presumably high dose rates, and sparing only appeared at high-LET with dose rate >100 Gy/s, indicating dose-rate threshold alone is insufficient and LET is a co-determining factor not captured in BIO-002."
+      "explanation": "The registered claim states sparing requires mean dose rates above ~40 Gy/s with effect plateauing by ~100 Gy/s, generalized across preclinical models. This study reports that at low-LET, no differential sparing occurred despite presumably high dose rates, and sparing only appeared at high-LET with dose rate >100 Gy/s, indicating dose-rate threshold alone is insufficient and LET is a co-determining factor not captured in BIO-002.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Abstract does not specify exact physical dose levels or precise FLASH/CONV dose rate values beyond the >100 Gy/s threshold, limiting full assessment of quantitative overlap with BIO-002. The LET-dependence finding is a novel variable not addressed by existing registered claims, which are largely electron/proton-derived.",
@@ -10520,8 +10520,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "The paper reports isoeffective tumor control between FLASH-RT and CONV-RT in two colon carcinoma models, consistent with and reinforcing BIO-003 rather than contradicting it, but it adds mechanistic detail (microbiota, metabolomics, single-cell immune data) not previously captured in that claim."
+      "explanation": "The paper reports isoeffective tumor control between FLASH-RT and CONV-RT in two colon carcinoma models, consistent with and reinforcing BIO-003 rather than contradicting it, but it adds mechanistic detail (microbiota, metabolomics, single-cell immune data) not previously captured in that claim.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Abstract does not specify beam energy, dose, dose rate, or pulse structure, so these parameters could not be included in the summary despite the corpus's interest in such details.",
@@ -10631,8 +10631,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The paper demonstrates that radiolytic oxygen depletion magnitude and its correlation with baseline pO2 directly determine presence or absence of in vivo sparing, suggesting oxygen depletion is mechanistically central under these conditions rather than merely insufficient, which qualifies the generality of the claim that oxygen depletion alone cannot account for sparing."
+      "explanation": "The paper demonstrates that radiolytic oxygen depletion magnitude and its correlation with baseline pO2 directly determine presence or absence of in vivo sparing, suggesting oxygen depletion is mechanistically central under these conditions rather than merely insufficient, which qualifies the generality of the claim that oxygen depletion alone cannot account for sparing.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report mean dose rate thresholds analogous to BIO-002 or timing data relevant to BIO-001, so no direct contradiction with those claims is asserted; this is a different system (oxygen-dependence) rather than a replication or refutation.",
@@ -10675,8 +10675,8 @@
     "contradictions": [
      {
       "claim_id": "PLAN-001",
-      "nature": "qualifies",
-      "explanation": "The paper introduces yet another dose rate metric (a model-free FLASH index) distinct from instantaneous, mean, dose-averaged, or percentile-based formulations, reinforcing the registered claim that no consensus definition exists rather than resolving it."
+      "explanation": "The paper introduces yet another dose rate metric (a model-free FLASH index) distinct from instantaneous, mean, dose-averaged, or percentile-based formulations, reinforcing the registered claim that no consensus definition exists rather than resolving it.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "No biological or clinical endpoint is reported; the 40 Gy/s threshold is used as a planning/delivery criterion consistent with BIO-002 rather than a new biological finding, so it is not flagged as a contradiction. Category reassigned from the keyword-model's Beam Delivery & Technology to Treatment Planning & Optimization because the core contribution is comparative plan quality and a dose-rate metric definition, not accelerator/delivery hardware design.",
@@ -10877,8 +10877,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The registered claim states normal-tissue sparing requires mean dose rates above ~40 Gy/s, with effect increasing up to ~100 Gy/s. This study delivered carbon-ion irradiation at ~96 Gy/s, within that range, yet found no substantial sparing effect for intestinal toxicity (survival, apoptosis, crypt regeneration), indicating the dose-rate threshold model does not generalize across all beam modalities and endpoints."
+      "explanation": "The registered claim states normal-tissue sparing requires mean dose rates above ~40 Gy/s, with effect increasing up to ~100 Gy/s. This study delivered carbon-ion irradiation at ~96 Gy/s, within that range, yet found no substantial sparing effect for intestinal toxicity (survival, apoptosis, crypt regeneration), indicating the dose-rate threshold model does not generalize across all beam modalities and endpoints.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper examines carbon-ion UHDR, a different modality than most electron/proton studies underlying BIO-002; this is a non-replication in a new system rather than a direct refutation of the general threshold claim, but it is worth flagging as a boundary case for the working group's synthesis.",
@@ -10973,8 +10973,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "This paper reports a successful institution-specific calibration approach (Faraday cup vs. FLASHTic) achieving strong correlation, offering a candidate reference method for UHDR proton dosimetry, but it does not establish a primary standard or perform cross-institutional comparison, so it qualifies rather than resolves DOS-002."
+      "explanation": "This paper reports a successful institution-specific calibration approach (Faraday cup vs. FLASHTic) achieving strong correlation, offering a candidate reference method for UHDR proton dosimetry, but it does not establish a primary standard or perform cross-institutional comparison, so it qualifies rather than resolves DOS-002.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is an engineering/commissioning paper describing hardware modification and beam monitoring calibration for preclinical SOBP proton FLASH delivery; it does not report biological endpoints, so BIO and MECH claims are not addressed. Keyword-model category (Physics & Dosimetry) was reassigned to Beam Delivery & Technology because the primary contribution is accelerator/nozzle modification and beam delivery engineering, with dosimetry (FLASHTic calibration) as a supporting component.",
@@ -11025,8 +11025,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "BIO-003 concerns tumour control isoeffectiveness at matched physical dose; this study addresses normal-tissue (skin) sparing rather than tumour control, so it does not directly bear on BIO-003 but is related to the broader FLASH sparing literature this claim summarizes."
+      "explanation": "BIO-003 concerns tumour control isoeffectiveness at matched physical dose; this study addresses normal-tissue (skin) sparing rather than tumour control, so it does not directly bear on BIO-003 but is related to the broader FLASH sparing literature this claim summarizes.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report tumor control endpoints, so no direct interaction with BIO-003. This paper adds a fractionation-dependence finding not covered by any existing registered claim; consider whether a new claim about fractionation abolishing FLASH sparing should be added to the wiki.",
@@ -11071,8 +11071,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "MECH-001 states that radiolytic oxygen depletion alone is insufficient to account for in vivo normal-tissue sparing. This paper instead models H2O2 production (not oxygen depletion magnitude directly) as differentially affected by dose rate and oxygenation, proposing an H2O2-mediated chemical mechanism that could contribute to sparing under physioxic conditions and iso-effect under hypoxic conditions. This qualifies the mechanistic landscape by introducing an alternative or complementary radical-chemistry pathway distinct from bulk oxygen depletion magnitude, without directly measuring or contradicting the oxygen-depletion-magnitude claim itself."
+      "explanation": "MECH-001 states that radiolytic oxygen depletion alone is insufficient to account for in vivo normal-tissue sparing. This paper instead models H2O2 production (not oxygen depletion magnitude directly) as differentially affected by dose rate and oxygenation, proposing an H2O2-mediated chemical mechanism that could contribute to sparing under physioxic conditions and iso-effect under hypoxic conditions. This qualifies the mechanistic landscape by introducing an alternative or complementary radical-chemistry pathway distinct from bulk oxygen depletion magnitude, without directly measuring or contradicting the oxygen-depletion-magnitude claim itself.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not specify a biological or experimental model system, beam quality, dose, or dose rate values used to validate the model beyond general CDR/UHDR comparison; this is a pure water chemistry simulation rather than an in vivo or in vitro measurement, consistent with Modeling & Mechanisms classification. No direct measurement of oxygen depletion magnitude is reported, so the relationship to MECH-001 is interpretive rather than a direct empirical contradiction.",
@@ -11512,8 +11512,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "The study reports similar tumor control between FLASH and CONV at matched physical dose, consistent with isoeffective tumor control, but also reports a survival advantage specific to the FLASH 5 Gy group not explained by tumor control alone, suggesting the isoeffectiveness claim may not fully capture survival outcomes in this pancreatic tumor model."
+      "explanation": "The study reports similar tumor control between FLASH and CONV at matched physical dose, consistent with isoeffective tumor control, but also reports a survival advantage specific to the FLASH 5 Gy group not explained by tumor control alone, suggesting the isoeffectiveness claim may not fully capture survival outcomes in this pancreatic tumor model.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Abstract does not report normal-tissue toxicity endpoints, so this study cannot be used to assess BIO-001, BIO-002, or MECH-001 despite being an in vivo tumor model; it primarily addresses tumor control and immune infiltration, with survival as a secondary endpoint influenced by the LIFE biomaterial combination rather than dose rate alone.",
@@ -11560,8 +11560,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The simulation quantifies oxygen depletion rate (0.028%/Gy) and explicitly concludes it is insufficient to cause significant depletion at typical UHDR doses of 10-40 Gy, providing a mechanistic simulation result consistent with and adding quantitative support to the existing claim that oxygen depletion alone cannot account for sparing."
+      "explanation": "The simulation quantifies oxygen depletion rate (0.028%/Gy) and explicitly concludes it is insufficient to cause significant depletion at typical UHDR doses of 10-40 Gy, providing a mechanistic simulation result consistent with and adding quantitative support to the existing claim that oxygen depletion alone cannot account for sparing.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is a computational/mechanistic modeling paper rather than an in vivo or in vitro measurement, so it does not directly address BIO-001, BIO-002, BIO-003, or DOS-001/002; those claims pertain to different experimental systems and are not contradicted, merely outside this paper's scope.",
@@ -11616,8 +11616,8 @@
     "contradictions": [
      {
       "claim_id": "PLAN-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports divergent V40Gy/s values depending on whether dose-averaged (DADR, reaching 100%) or averaged (ADR, 26.6-61.5%) dose rate metrics are used for the same plans, providing a concrete demonstration that these dose rate formulations are not interchangeable and can lead to different assessments of FLASH-effect achievement, reinforcing the registered lack of consensus."
+      "explanation": "The paper reports divergent V40Gy/s values depending on whether dose-averaged (DADR, reaching 100%) or averaged (ADR, 26.6-61.5%) dose rate metrics are used for the same plans, providing a concrete demonstration that these dose rate formulations are not interchangeable and can lead to different assessments of FLASH-effect achievement, reinforcing the registered lack of consensus.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is a planning/optimization study using simulated dose rate metrics rather than an experimental or biological measurement; it does not address radiobiological sparing thresholds (BIO-002) directly but its dose-rate metric comparison is directly relevant to PLAN-001.",
@@ -11666,8 +11666,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-003",
-      "nature": "qualifies",
-      "explanation": "This paper reports that FLASH and CONV tumor responses are not strictly isoeffective at matched physical dose when hyperthermia is added, since the FLASH normal-tissue sparing DMF decreases (from 1.53 to 1.45) and the tumor DMF drops to 1.00, indicating hyperthermia modifies the relative FLASH/CONV tumor and skin response ratios rather than confirming simple isoeffectiveness across conditions."
+      "explanation": "This paper reports that FLASH and CONV tumor responses are not strictly isoeffective at matched physical dose when hyperthermia is added, since the FLASH normal-tissue sparing DMF decreases (from 1.53 to 1.45) and the tumor DMF drops to 1.00, indicating hyperthermia modifies the relative FLASH/CONV tumor and skin response ratios rather than confirming simple isoeffectiveness across conditions.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The abstract does not report beam quality, dose levels, or dose rate values (e.g., Gy/s or Gy/pulse) for the FLASH and CONV arms, limiting full characterization for the corpus's dosimetric context.",
@@ -11769,8 +11769,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "The paper demonstrates that relative uncertainties below 10% are achievable at a new UHDR/spatially-fractionated synchrotron site through a dedicated procedure, suggesting site-level dosimetric accuracy is attainable even though no primary standard exists; however, the study does not perform a cross-institutional intercomparison, so it does not directly test the claimed spread across institutions."
+      "explanation": "The paper demonstrates that relative uncertainties below 10% are achievable at a new UHDR/spatially-fractionated synchrotron site through a dedicated procedure, suggesting site-level dosimetric accuracy is attainable even though no primary standard exists; however, the study does not perform a cross-institutional intercomparison, so it does not directly test the claimed spread across institutions.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is a single-site dosimetry development study, not a cross-institutional comparison, so it cannot directly confirm or refute the intercomparison-spread portion of DOS-002; it only shows that low-uncertainty measurement is achievable locally with careful methodology. No ionization chamber recombination correction data are reported, so no bearing on DOS-001.",
@@ -11964,8 +11964,8 @@
     "contradictions": [
      {
       "claim_id": "PLAN-001",
-      "nature": "qualifies",
-      "explanation": "This paper introduces local dose rate (LDR) and local irradiation time (LIT) as planning metrics for x-ray UHDR delivery, adding another dose-rate formulation to the set already noted as non-interchangeable and lacking consensus definition."
+      "explanation": "This paper introduces local dose rate (LDR) and local irradiation time (LIT) as planning metrics for x-ray UHDR delivery, adding another dose-rate formulation to the set already noted as non-interchangeable and lacking consensus definition.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This is a planning and dosimetric validation study for a specific x-ray UHDR delivery concept rather than a biological or clinical study; it does not address normal-tissue sparing thresholds or oxygen depletion mechanisms directly, so it neither confirms nor contradicts BIO-001/BIO-002/MECH-001. Classification as Treatment Planning & Optimization overrides the keyword-model tag of Beam Delivery & Technology because the core contribution is TPS development, dose-rate metric reporting, and plan comparison rather than accelerator/delivery hardware engineering.",
@@ -12021,13 +12021,13 @@
     "contradictions": [
      {
       "claim_id": "DOS-001",
-      "nature": "qualifies",
-      "explanation": "The paper reports ion recombination under 1% in the majority of cases for this specific chamber design at FLASH dose rates, suggesting a detector geometry that minimizes recombination effects rather than requiring large post-hoc correction, which nuances but does not overturn the general claim that ionization chambers need dose-per-pulse-dependent recombination correction at UHDR."
+      "explanation": "The paper reports ion recombination under 1% in the majority of cases for this specific chamber design at FLASH dose rates, suggesting a detector geometry that minimizes recombination effects rather than requiring large post-hoc correction, which nuances but does not overturn the general claim that ionization chambers need dose-per-pulse-dependent recombination correction at UHDR.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "PLAN-001",
-      "nature": "qualifies",
-      "explanation": "The demonstration that 3D dose rate distributions were generated using different definitions and are presented as non-interchangeable outputs of the same measurement supports and empirically illustrates the registered claim that no consensus dose rate definition exists for UHDR."
+      "explanation": "The demonstration that 3D dose rate distributions were generated using different definitions and are presented as non-interchangeable outputs of the same measurement supports and empirically illustrates the registered claim that no consensus dose rate definition exists for UHDR.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "No physical dose or dose rate values (Gy, Gy/s) are given in the abstract for the FLASH plan delivered, limiting comparison to BIO-002 thresholds; this is a dosimetry feasibility/instrumentation study rather than a biological or clinical measurement.",
@@ -12082,13 +12082,13 @@
     "contradictions": [
      {
       "claim_id": "DOS-001",
-      "nature": "qualifies",
-      "explanation": "The paper confirms that dose-per-pulse-dependent recombination correction (Boag-Wilson theory) is required for the DGIC at UHDR, reducing uncertainty from an uncorrected state to less than 3%, consistent with rather than contradicting the registered claim."
+      "explanation": "The paper confirms that dose-per-pulse-dependent recombination correction (Boag-Wilson theory) is required for the DGIC at UHDR, reducing uncertainty from an uncorrected state to less than 3%, consistent with rather than contradicting the registered claim.",
+      "nature": "qualifies"
      },
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "The paper demonstrates a single-institution integrated dosimetry system achieving 2-3% agreement across three independent detectors at UHDR proton dose rates, indicating progress toward a reference standard, but it does not perform or report a cross-institutional intercomparison, so it does not resolve the claimed lack of a primary standard or the reported inter-institutional spread."
+      "explanation": "The paper demonstrates a single-institution integrated dosimetry system achieving 2-3% agreement across three independent detectors at UHDR proton dose rates, indicating progress toward a reference standard, but it does not perform or report a cross-institutional intercomparison, so it does not resolve the claimed lack of a primary standard or the reported inter-institutional spread.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Validation was performed at a single facility (INFN-LNS) with one beam energy (62 MeV); no cross-institutional comparison data are reported, so DOS-002's claim about inter-institutional spread remains untested by this work rather than directly contradicted.",
@@ -12424,8 +12424,8 @@
     "contradictions": [
      {
       "claim_id": "BIO-002",
-      "nature": "qualifies",
-      "explanation": "The registered claim asserts normal-tissue sparing occurs above ~40 Gy/s dose rate in preclinical models, but this study reports that in a lung acute-injury/metastasis model, FLASH and CONV produced equivalent lung injury and equivalent enhanced metastatic colonization, with no sparing effect detected at the acute time point studied, suggesting the sparing effect is not universal across endpoints or timepoints even when dose rate criteria may be met."
+      "explanation": "The registered claim asserts normal-tissue sparing occurs above ~40 Gy/s dose rate in preclinical models, but this study reports that in a lung acute-injury/metastasis model, FLASH and CONV produced equivalent lung injury and equivalent enhanced metastatic colonization, with no sparing effect detected at the acute time point studied, suggesting the sparing effect is not universal across endpoints or timepoints even when dose rate criteria may be met.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "Abstract does not report specific dose, dose rate, or pulse structure values for the FLASH beam, so the qualification of BIO-002 is based on outcome comparison rather than dose-rate parameters; the paper's focus on NET-mediated metastasis after radiation-induced lung injury is a distinct endpoint from the tissue-sparing endpoints in most BIO-series claims and may warrant a note rather than a strict contradiction depending on reviewer interpretation of 'acute time point' scope.",
@@ -12590,8 +12590,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "DOS-002 states that cross-institutional dosimetric intercomparisons continue to show spread exceeding conventional-dose-rate tolerances. This paper reports a third-party (IROC) intercomparison at ultra-high dose rate showing agreement within 1% between planned and delivered dose, which is within conventional tolerance, qualifying the claim by demonstrating at least one institutional case achieving tight agreement rather than excessive spread."
+      "explanation": "DOS-002 states that cross-institutional dosimetric intercomparisons continue to show spread exceeding conventional-dose-rate tolerances. This paper reports a third-party (IROC) intercomparison at ultra-high dose rate showing agreement within 1% between planned and delivered dose, which is within conventional tolerance, qualifying the claim by demonstrating at least one institutional case achieving tight agreement rather than excessive spread.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper does not report an independent multi-institutional spread analysis; it presents a single-institution calibration validated by one third-party dosimetry service (IROC), so it qualifies rather than overturns DOS-002 regarding broader cross-institutional variability.",
@@ -12675,8 +12675,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "This paper reports a dosimetry protocol with quantified inter-dosimeter agreement (within 2.0%-5.9%) and low combined uncertainties (2.4%-3.5%, k=1), suggesting progress toward reduced cross-comparison spread, though it does not establish a primary standard and explicitly notes the field awaits AAPM TG-359 guidelines, consistent with the claim's overall assertion of no established primary standard."
+      "explanation": "This paper reports a dosimetry protocol with quantified inter-dosimeter agreement (within 2.0%-5.9%) and low combined uncertainties (2.4%-3.5%, k=1), suggesting progress toward reduced cross-comparison spread, though it does not establish a primary standard and explicitly notes the field awaits AAPM TG-359 guidelines, consistent with the claim's overall assertion of no established primary standard.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "The paper is a dosimetry method/validation study rather than a recombination-correction study, so it does not directly address DOS-001; it is included here as a qualifying data point for DOS-002 regarding intercomparison spread, not a direct contradiction.",
@@ -12847,8 +12847,8 @@
     "contradictions": [
      {
       "claim_id": "DOS-002",
-      "nature": "qualifies",
-      "explanation": "The paper reports that chemical dosimeter relative effectiveness systematically decreases under UHDR and with increasing LET compared to conventional dose rate, indicating that dosimeter-specific response variation under UHDR conditions is a contributing factor to spread in dosimetric intercomparisons, consistent with but adding mechanistic detail to the claim that no primary standard exists and cross-institutional spread persists."
+      "explanation": "The paper reports that chemical dosimeter relative effectiveness systematically decreases under UHDR and with increasing LET compared to conventional dose rate, indicating that dosimeter-specific response variation under UHDR conditions is a contributing factor to spread in dosimetric intercomparisons, consistent with but adding mechanistic detail to the claim that no primary standard exists and cross-institutional spread persists.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This study concerns chemical (ESR) dosimeters, not ionization chambers, so it does not directly bear on DOS-001's recombination-correction claim; that distinction should be preserved rather than treated as contradiction.",
@@ -13009,8 +13009,8 @@
     "contradictions": [
      {
       "claim_id": "MECH-001",
-      "nature": "qualifies",
-      "explanation": "The finding that elevated baseline pO2 under isoflurane abolishes sparing while lower baseline pO2 under ketamine/xylazine preserves it suggests that baseline oxygen tension, and by extension oxygen depletion dynamics, plays a mechanistically significant role in normal-tissue sparing, which qualifies the claim that radiolytic oxygen depletion alone is insufficient to explain sparing by highlighting that starting oxygenation state is a critical modulating variable."
+      "explanation": "The finding that elevated baseline pO2 under isoflurane abolishes sparing while lower baseline pO2 under ketamine/xylazine preserves it suggests that baseline oxygen tension, and by extension oxygen depletion dynamics, plays a mechanistically significant role in normal-tissue sparing, which qualifies the claim that radiolytic oxygen depletion alone is insufficient to explain sparing by highlighting that starting oxygenation state is a critical modulating variable.",
+      "nature": "qualifies"
      }
     ],
     "reviewer_note": "This paper concerns physiological confounders (anesthesia, baseline tissue oxygenation) affecting FLASH sparing outcomes rather than directly measuring oxygen depletion magnitude, so its relevance to MECH-001 is indirect and interpretive rather than a direct empirical contradiction.",

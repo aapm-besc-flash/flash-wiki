@@ -24,7 +24,7 @@ A continuously updated, categorized index of Medline-indexed FLASH radiotherapy
 
 Use the **search box** (top) to query across every title, abstract and author in the
 corpus. Each entry links to PubMed and, where available, DOI and open-access full text.
-Every paper shows a one-line **TL;DR** with the full abstract one click away.
+Every paper shows a one-line **TL;DR** with the full abstract one click away, and — where triage has reached it — a labelled AI-generated summary.
 
 This site is generated from a single source of truth (`flash_library.json`) produced by
 an automated PubMed harvest pipeline. Re-running the pipeline refreshes every page — see

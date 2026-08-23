@@ -16,6 +16,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 **TL;DR.** Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This is a case report of the first patient reported to receive fractionated ultra-high-dose-rate FLASH radiotherapy, an elderly male with extramammary Paget disease of the scrotum and multiple lymph node and bone metastases. Treatment used 9 MeV electron FLASH-RT at a dose rate of 120 Gy/s, field size 5 cm x 5 cm, prescribed dose 40 Gy in five fractions, with daily dosimetric verification. Transient skin toxicity occurred 2-5 weeks post-treatment with alleviation of exudation and burning pain, complete response was achieved at 2-3 months, and at one-year follow-up the tumor lesions continued to respond with no additional injury to irradiated areas. The authors conclude fractionated electron FLASH-RT is feasible and safe for scrotal skin tumors.
+
+
 ??? note "Abstract"
     OBJECTIVE: Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT. METHODS: An elderly male patient was diagnosed with extramammary Paget disease of the scrotum along with multiple lymph node and bone metastases. After 6 cycles of chemotherapy, the disease progressed in the scrotum. The scrotal lesions were evaluated for FLASH-RT. 9 MeV electron FLASH-RT was performed at a dose rate of 120 Gy/s. The field size was 5 cm × 5 cm, and the prescribed dose was 40 Gy in five fractions. Dosimetric verification was performed daily. Treatment response was evaluated at 3-month post FLASH-RT, and normal tissue toxicity was assessed from the beginning of FLASH-RT to 12-month post-irradiation. RESULTS: A 1-year follow-up was achieved for scrotal lesions treated with electron FLASH-RT in patients with extramammary Paget disease. Electron FLASH-RT was safe, and treatment-related adverse events were mild. Transient skin toxicity occurred 2-5 weeks post FLASH-RT, and exudation and burning pain were significantly alleviated. A complete response was achieved 2-3 months post FLASH-RT, and the tumor lesions were covered by the normal epithelium of the scrotum. At the end of the one-year follow-up, the tumor lesions continued to respond, and one-year survival was achieved without additional injury to the irradiated areas after FLASH-RT. CONCLUSION: Fractionated electron FLASH-RT is feasible and safe for the treatment of extramammary Paget disease of the scrotum. Our findings support further exploration of electron FLASH-RT in patients with skin tumors.
 
@@ -33,6 +37,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 **TL;DR.** FAST-01 demonstrated that proton FLASH radiotherapy (FLASH-RT) is clinically feasible and has an acceptable safety profile in patients with painful bone metastases of the extremities. FAST-02 expanded the investigation of FLASH-RT to patients whose treatment sites lie closer to critical normal structures.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    FAST-02 was a prospective, single-arm FDA IDE trial evaluating single-fraction proton FLASH-RT (8 Gy, dose rate ≥40 Gy/second) for 1-3 painful non-vertebral thoracic bone metastases in patients with lung, prostate, or kidney cancer histologies, treating sites in the rib or scapula near thoracic critical structures. Ten of twelve enrolled patients completed treatment per protocol, with average time-on-table of 14.6 minutes. At a median follow-up of 189 days, no grade ≥2 acute or late adverse events at least possibly related to FLASH-RT were observed. Among patients with pain data, 6 achieved complete response, 3 partial response, and 1 stable response, with pain flares reported in 3 patients by day 11.
 
 
 ??? note "Abstract"
@@ -54,6 +62,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 **TL;DR.** Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study compares ChatGPT-4.0 and Gemini 2.5 Flash as AI chatbot tools for answering patient questions about radiotherapy-induced skin toxicity in breast cancer, using 23 simulated patient questions evaluated by 16 expert radiation therapists on a seven-point Likert scale. Gemini achieved higher median expert ratings (6/7) than ChatGPT (5/7) and greater inter-rater consistency (alpha 0.78, kappa 0.70 vs 0.72/0.65), while ChatGPT produced more concise, lower-reading-level (8th grade vs 11th grade) responses. Semantic cosine similarity between the two models&#x27; answers was low (median 0.78). The study concerns conventional radiotherapy patient education content, not ultra-high dose rate FLASH radiotherapy delivery, dosimetry, or biology; &#x27;Gemini 2.5 Flash&#x27; refers to the AI model name only.
+
+
 ??? note "Abstract"
     INTRODUCTION: Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated. However, the comparative performance of different AI models in addressing patient concerns about radiotherapy side effects remains unclear, creating uncertainty regarding the optimal tool selection for patient education and support. This study aimed to compare the performance of ChatGPT 4.0 and Gemini 2.5 FLASH using a mixed-methods analytical-descriptive approach. METHODS: Twenty-three unique questions, derived from a literature review and rephrased to simulate patient enquiries about the skin effects of radiotherapy, were submitted to both models. Sixteen expert Radiation Therapists (RTTs) independently assessed the responses using a seven-point Likert scale. The analyses included semantic cosine similarity and linguistic readability (Flesch Reading Ease/Flesch-Kincaid Grade Level), with statistical comparisons performed using Mann-Whitney tests. RESULTS: Gemini 2.5 FLASH achieved higher median scores (6/7) than ChatGPT 4.0 (5/7), demonstrating particular strengths in clinical detail and empathy. Conversely, ChatGPT 4.0 produced more direct and structured answers, although it occasionally simplified complex concepts. Models showed low semantic similarity (median 0.78). Readability analysis revealed that ChatGPT aligned with an 8th-grade level, whereas Gemini operated at an 11th-grade level. Expert agreement was robust, with Gemini achieving greater consistency (α = 0.78; κ = 0.70) than ChatGPT (α = 0.72; κ = 0.65). CONCLUSION: Gemini was more effective for complex psychosocial issues, whereas ChatGPT provided better accessible guidance, necessitating ongoing professional validation for reliable integration into patient education workflows. IMPLICATIONS FOR PRACTICE: The use of AI in counselling patients undergoing breast radiotherapy enhances accessibility but requires ongoing professional validation to ensure clinical reliability.
 
@@ -71,6 +83,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 **TL;DR.** The observation in preclinical studies that FLASH radiotherapy (FLASH-RT) can spare normal tissues while maintaining its anti-tumoral effect provided the rational for its clinical translation. In this context, this clinical trial presents the first-in-human dose-escalation trial of FLASH-RT.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This phase I dose-escalation trial (IMPulse) is a first-in-human study of FLASH radiotherapy in patients with progressive cutaneous melanoma metastases refractory to systemic therapy. Using a 9 MeV Mobetron delivering dose rates exceeding 200 Gy/s in 10 pulses over 90 ms, 11 patients with 15 lesions were treated in a 3+3 design at single-fraction doses from 22 to 28 Gy. No dose-limiting toxicities (Grade ≥3 adverse events in the irradiated field within 4 weeks) were observed at any dose level, and the maximum tolerated dose was not reached; the trial was discontinued at 28 Gy due to slow accrual before reaching the planned 34 Gy ceiling. Dosimetry was performed using alanine, TLD, and film.
 
 
 ??? note "Abstract"
@@ -92,6 +108,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 **TL;DR.** The combination of reduced normal tissue damage and unaffected tumor control is referred to as Flash-effect. This phenomenon has been observed with ultra-high dose rate (UHDR) radiotherapy in preclinical models.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This phase I trial (Flash-Skin I, NCT06549439) treated seven patients with melanoma skin metastases using a converted C-arm clinical linear accelerator delivering 9 MeV UHDR electrons. The protocol combined two 9 Gy UHDR fractions with one 9 Gy conventional-dose-rate fraction, for fourteen total UHDR fractions across patients. A dedicated preclinical radiotherapy quality assurance program, validated over more than one year, used radiochromic film, OSLD, scintillator, and diamond detector measurements to characterize skin dose, output, pulse counting, and inter- and intra-pulse stability. All fourteen UHDR fractions achieved dose accuracy within 4.6%, delivered pulse counts matched planned values, and intra-pulse and inter-pulse stability were within 3.8% and 2.8% respectively.
+
+
 ??? note "Abstract"
     BACKGROUND AND PURPOSE: The combination of reduced normal tissue damage and unaffected tumor control is referred to as Flash-effect. This phenomenon has been observed with ultra-high dose rate (UHDR) radiotherapy in preclinical models. The Flash-Skin I (NCT06549439) treated seven patients with melanoma skin metastasis. The treatment protocol included 2 × 9 Gy UHDR followed by 1 × 9 Gy conventional radiotherapy. Here we report on the implementation of the study at a converted C-arm clinical linear accelerator. MATERIALS AND METHODS: A dedicated preclinical radiation therapy quality assurance (RTQA) program was developed and the linac performance was validated for more than one year. Clinically, fourteen fractions of 9 Gy each were delivered with the 9 MeV UHDR electron linac. In-vivo measurements included: skin dose with radiochromic films, linac output with optically stimulated luminescent dosimeter (OSLD), pulse counting and inter-pulse stability with a scintillator, intra-pulse stability with a diamond detector. RESULTS: The preclinical RTQA identified reduced linac output, which prompted beam tuning and additional quality assurance. This formed the basis for initiation of the clinical trial and successful treatment of all seven patients. All fourteen UHDR fractions showed a dose accuracy within 4.6% or better. The number of delivered pulses consistently matched the planned value, and film measurements confirmed the skin dose. Intra- and inter-pulse stability were within 3.8% and 2.8%, respectively. CONCLUSION: The clinical implementation of Flash-Skin I at converted C-arm linac was successfully demonstrated and validated. The developed RTQA program may facilitate the development of future UHDR clinical trials.
 
@@ -109,6 +129,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 **TL;DR.** The FLASH effect is considered being the widening of the therapeutic window at (ultra-)high dose rates due to sparing of normal tissues while preserving tumor response. Our goal was to provide first data on the safety in treating a patient using a conventional linear accelerator converted to deliver 9 MeV UHDR electron beams in the research setting.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This is a first-in-human phase I trial report of e-Flash radiotherapy delivered by a Varian TrueBeam C-arm linear accelerator converted in a research setting to produce ultra-high-dose-rate 9 MeV electron beams. One patient with a subcutaneous/cutaneous melanoma lesion was treated with 3 fractions of 9 Gy each; the first two fractions were delivered as e-Flash UHDR electrons and the third fraction as conventional-dose-rate electrons. In-vivo film dosimetry confirmed that the delivered dose matched the intended dose, and the treatment was completed according to protocol without severe or unexpected toxicity observed up to six weeks post-treatment, alongside a good tumor response. The report is a safety and feasibility demonstration rather than a comparative efficacy or toxicity trial.
 
 
 ??? note "Abstract"
@@ -130,6 +154,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 **TL;DR.** Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerging as a novel technique to improve the normal tissue tolerance by delivering ultra-high dose rate radiation several orders of magnitude higher than convention radiotherapy. It has been shown in preclinical studies to cause less injury to surrounding normal tissues during radiation treatment, while still maintaining local tumor control.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This is a phase I trial protocol (ChiCTR2400080935) for fractionated electron FLASH-RT in patients with superficial skin tumors. Planned dosing is 24-40 Gy delivered in 3-5 fractions to the tumor volume at ultra-high dose rate, with acute skin toxicity (&lt;90 days) per CTCAE v5.0 as the primary safety endpoint. Secondary objectives include late toxicity (&gt;90 days) and treatment response. No trial results are reported; the paper describes study design and eligibility criteria in preparation for a subsequent phase II efficacy trial.
+
+
 ??? note "Abstract"
     OBJECTIVE: Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerging as a novel technique to improve the normal tissue tolerance by delivering ultra-high dose rate radiation several orders of magnitude higher than convention radiotherapy. It has been shown in preclinical studies to cause less injury to surrounding normal tissues during radiation treatment, while still maintaining local tumor control. The purpose of this protocol is to evaluate the safety of fractionated FLASH-RT in skin cancer. METHOD: Patients with superficial skin tumors will be enrolled. The eligible patients will undergo electron FLASH-RT (24-40 Gy/3-5 fractions) to the tumor volume. The primary outcome is to evaluate the safety of FLASH-RT by collecting the acute (&lt; 90 days) skin toxicity adverse events of radiation according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Secondary objectives include late (&gt; 90 days) skin toxicity after FLASH-RT according to CTCAE version 5.0 and treatment response. DISCUSSION: If the results show that delivering FLASH-RT is safe and feasible for skin tumors, further investigation will be conduct to evaluate efficacy of FLASH-RT in a phase II trial. TRIAL REGISTRATION NUMBER: ChiCTR2400080935. https://www.chictr.org.cn/showproj.html?proj=220336.
 
@@ -147,6 +175,10 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 **TL;DR.** Ultra-high dose rate FLASH Radiotherapy (FLASH-RT) has attracted wide attention because the well-known FLASH effect and the extremely short irradiation time. During FLASH-RT, high radiation doses and dose rate (usually thousands of times compared with conventional radiotherapy (CONV-RT)) are delivered to the tumor area.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This publication is a consensus statement developed jointly by the China Anti-Cancer Association Radiation Oncology Committee and the Chinese Medical Doctor Association Radiation Oncology Physician Committee addressing clinical translation of electron ultra-high dose rate FLASH radiotherapy. The document summarizes existing basic and clinical research showing a 20-40% reduction in normal tissue injury compared to conventional dose rate radiotherapy while maintaining comparable tumor killing effect, and notes that clinical trials of FLASH-RT are underway globally. No specific model system, beam energy, dose, or dose rate values are reported in the abstract; the statement instead addresses unresolved questions and provides expert guidance for clinical application in China. As a consensus/opinion document rather than a primary experimental or dosimetric study, it does not report new quantitative findings.
 
 
 ??? note "Abstract"
