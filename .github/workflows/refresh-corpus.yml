@@ -171,6 +171,20 @@ jobs:
             cat .refresh/triage_report.md >> .refresh/pr_body.md
           fi
 
+          # ci_refresh_report.py sets `changed` from records added/dropped only.
+          # That misses the other reason this run may need a PR: a change to the
+          # builders or templates that alters generated output while the corpus
+          # itself is identical. Without this, a code change can never reach the
+          # published site through the monthly workflow -- the rebuild happens in
+          # the runner and is thrown away. Re-assert `changed` if any tracked
+          # output file actually differs. Last write to $GITHUB_OUTPUT wins, and
+          # this only ever flips false -> true.
+          if [ -n "$(git status --porcelain -- docs/ library/ mkdocs.yml notebooklm_sources/)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Tracked output files differ - a pull request is needed."
+            git status --porcelain -- docs/ library/ mkdocs.yml notebooklm_sources/ | head -20
+          fi
+
       - name: Open pull request
         if: steps.report.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v8
