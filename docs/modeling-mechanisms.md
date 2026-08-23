@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*159 records. Newest first.*
+*160 records. Newest first.*
 
 ---
 
@@ -347,6 +347,29 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41881566/) · [DOI](https://doi.org/10.1002/mp.70383) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13017082/)
+
+
+---
+
+### How Important Is the FLASH Effect in a Nuclear Explosion?
+
+*Dutil Y, Gagnon IMB* — Health physics (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** A very high dose rate of ionizing radiation (&gt; 40 Gy s -1 , &quot;FLASH&quot; radiation) causes less damage to healthy cells than moderate dose rates. Following a nuclear explosion, a significant fraction of the radiation dose is delivered at this rate.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This analysis estimates the potential impact of the FLASH effect on radiation risk estimates derived from the Life Span Study of Hiroshima and Nagasaki atomic bomb survivors, where a substantial fraction of dose was delivered at dose rates exceeding 40 Gy/s. Drawing on published dose-response literature for genetic damage, the authors estimate a maximum protective effect (dose modification) of a factor of 0.6, corresponding to a 40% reduction. Applying this to Life Span Study dosimetry while excluding doses above 4 Gy, the estimated magnitude of the effect ranges from 3.3% to 13.1% for Hiroshima, depending on dose and assumed neutron RBE (nominally 10), and from 7.3% to 9.3% for Nagasaki with little sensitivity to neutron RBE. The paper also notes biodosimetric indications of a possible threshold near 1 Gy in the Nagasaki population and calls for further FLASH-effect research at epidemiologically relevant doses (0.1-4 Gy) rather than the higher therapeutic doses typically studied.
+
+
+??? note "Abstract"
+    A very high dose rate of ionizing radiation (&gt; 40 Gy s -1 , &quot;FLASH&quot; radiation) causes less damage to healthy cells than moderate dose rates. Following a nuclear explosion, a significant fraction of the radiation dose is delivered at this rate. Consequently, there is a potential impact on the radiation risk estimates currently in use, which are largely based on the studies of the populations of Hiroshima and Nagasaki. Based on the scientific literature covering the relevant dose range, we estimate the maximum protective effect on genetic damage is about a factor 0.6 (-40%). Using this number and the relevant dosimetry for the Life Span Study population, while excluding data doses above 4 Gy, the maximum magnitude of the effect for Hiroshima would be somewhere between 3.3% and 13.1%, depending on the dose received. These values are sensitive to the neutron relative biological effectiveness (RBE), which was assumed to be 10 in the nominal case. In Nagasaki, the magnitude varies little with the dose, between 7.3% and 9.3%, and is relatively insensitive to the neutron RBE. Nevertheless, there are some indications that a threshold for this effect around 1 Gy may be observed in biodosimetric studies of this population. Still, due to the high heterogeneity in the relevant experimental data, further research should be carried out to investigate the FLASH effect at doses relevant to epidemiology (between 0.1 to 4 Gy) instead of the higher doses used in radiotherapy, for which most research on FLASH effect is carried out.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41801040/) · [DOI](https://doi.org/10.1097/HP.0000000000002139)
 
 
 ---

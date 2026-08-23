@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*249 records. Newest first.*
+*248 records. Newest first.*
 
 ---
 
@@ -416,25 +416,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41861403/) · [DOI](https://doi.org/10.1088/1361-6560/ae556b)
-
-
----
-
-### How Important Is the FLASH Effect in a Nuclear Explosion?
-
-*Dutil Y, Gagnon IMB* — Health physics (2026)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** A very high dose rate of ionizing radiation (&gt; 40 Gy s -1 , &quot;FLASH&quot; radiation) causes less damage to healthy cells than moderate dose rates. Following a nuclear explosion, a significant fraction of the radiation dose is delivered at this rate.
-
-
-??? note "Abstract"
-    A very high dose rate of ionizing radiation (&gt; 40 Gy s -1 , &quot;FLASH&quot; radiation) causes less damage to healthy cells than moderate dose rates. Following a nuclear explosion, a significant fraction of the radiation dose is delivered at this rate. Consequently, there is a potential impact on the radiation risk estimates currently in use, which are largely based on the studies of the populations of Hiroshima and Nagasaki. Based on the scientific literature covering the relevant dose range, we estimate the maximum protective effect on genetic damage is about a factor 0.6 (-40%). Using this number and the relevant dosimetry for the Life Span Study population, while excluding data doses above 4 Gy, the maximum magnitude of the effect for Hiroshima would be somewhere between 3.3% and 13.1%, depending on the dose received. These values are sensitive to the neutron relative biological effectiveness (RBE), which was assumed to be 10 in the nominal case. In Nagasaki, the magnitude varies little with the dose, between 7.3% and 9.3%, and is relatively insensitive to the neutron RBE. Nevertheless, there are some indications that a threshold for this effect around 1 Gy may be observed in biodosimetric studies of this population. Still, due to the high heterogeneity in the relevant experimental data, further research should be carried out to investigate the FLASH effect at doses relevant to epidemiology (between 0.1 to 4 Gy) instead of the higher doses used in radiotherapy, for which most research on FLASH effect is carried out.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41801040/) · [DOI](https://doi.org/10.1097/HP.0000000000002139)
 
 
 ---
