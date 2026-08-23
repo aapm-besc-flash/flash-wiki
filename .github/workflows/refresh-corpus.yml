@@ -19,6 +19,13 @@ on:
     # GitHub cron is always UTC; this drifts one hour with daylight saving.
     - cron: "0 11 1 * *"
   workflow_dispatch:
+    inputs:
+      triage_limit:
+        description: >-
+          Max records sent to the agent this run. 0 = rebuild the site and
+          exports from summaries already in the library, with no API spend.
+        required: false
+        default: "120"
 
 permissions:
   contents: write
@@ -106,7 +113,9 @@ jobs:
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          TRIAGE_LIMIT: "120"
+          # Scheduled runs get the default; manual runs can dial it down (or to
+          # 0) from the Run workflow form without editing this file.
+          TRIAGE_LIMIT: ${{ inputs.triage_limit || '120' }}
         run: python3 pipeline/triage_agent.py
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
