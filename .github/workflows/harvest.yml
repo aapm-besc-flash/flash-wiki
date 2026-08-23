@@ -1,0 +1,83 @@
+name: Literature harvest
+
+on:
+  schedule:
+    # 06:00 UTC every Monday. Adjust to taste.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      since:
+        description: 'Override start date (YYYY-MM-DD). Blank = resume from data/state.json'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Run harvest + triage but do not write wiki pages or open a PR'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml anthropic
+
+      # ---- Stage 1: deterministic. No model involved. ----
+      - name: Harvest and deduplicate
+        run: python scripts/harvest.py --since "${{ inputs.since }}"
+
+      - name: Stop early if nothing new
+        id: check
+        run: |
+          COUNT=$(python -c "import json;print(len(json.load(open('data/new_items.json'))))")
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "Found $COUNT new records."
+
+      # ---- Stage 2: the agent. Judgment only. ----
+      - name: Triage new records
+        if: steps.check.outputs.count != '0'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/triage_agent.py
+
+      # ---- Stage 3: deterministic. Validate, render, stage. ----
+      - name: Render wiki pages
+        if: steps.check.outputs.count != '0' && inputs.dry_run != 'true'
+        run: python scripts/render.py
+
+      - name: Open pull request
+        if: steps.check.outputs.count != '0' && inputs.dry_run != 'true'
+        uses: peter-evans/create-pull-request@v8
+        with:
+          branch: harvest/${{ github.run_id }}
+          title: 'Literature harvest: ${{ steps.check.outputs.count }} new records'
+          body-path: data/pr_body.md
+          labels: |
+            harvest
+            needs-review
+          add-paths: |
+            wiki/**
+            data/corpus.json
+            data/state.json
+            references.bib
+
+      - name: Upload triage artifacts
+        if: always() && steps.check.outputs.count != '0'
+        uses: actions/upload-artifact@v6
+        with:
+          name: triage-${{ github.run_id }}
+          path: |
+            data/new_items.json
+            data/triage.json
+            data/triage_errors.json
+          if-no-files-found: ignore
