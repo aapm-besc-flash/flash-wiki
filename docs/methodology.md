@@ -24,9 +24,21 @@ is a first pass — a category editor can override any assignment in the master 
 and the correction propagates on the next site rebuild.
 
 ## Summaries
-Each record shows the authors' own peer-reviewed **abstract** as its authoritative summary,
-plus an auto-generated one-line **TL;DR**. This is a deliberate scientific-integrity choice:
-machine-writing fresh summaries for 1,600+ papers risks subtle misstatement of results.
+Each record shows the authors' own peer-reviewed **abstract** as its authoritative source,
+plus a one-line **TL;DR** extracted mechanically from the opening of that abstract. Neither
+is machine-written: the TL;DR is the authors' own sentences, verbatim.
+
+Records that have passed agent triage additionally carry a **Summary — AI-generated,
+curator-reviewed**. This is a model's reading of the abstract, stating what the study did
+and found rather than what motivated it. It is labelled wherever it appears and is never
+shown in place of the abstract, so a reader can always check it against the source in one
+click. Every such summary reaches this site only through a pull request merged by a human
+curator, and each is stored with a confidence score; low-confidence output is held back for
+review rather than published.
+
+Coverage is partial and growing. Triage processes a capped batch of records per monthly run,
+so older records acquire summaries gradually. A record without one has simply not been
+reached yet — it does not indicate a problem with the paper.
 
 ## Update cadence
 A scheduled monthly harvest adds new PMIDs and refreshes existing records; a curator reviews
