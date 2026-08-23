@@ -82,6 +82,20 @@ jobs:
         # silently shrinking the corpus. See pipeline/test_recall.py.
         run: python3 pipeline/test_recall.py
 
+      - name: Agent triage — category, summary, contradiction flags
+        # Model-assigned category, a written summary, and flags where a paper
+        # contradicts an assertion in library/claims.yml. Placed after the
+        # recall guard so a query or screening regression fails before any API
+        # spend. Only touches records the keyword model left in a content
+        # category or Uncategorized -- publication-type routing is preserved,
+        # and the keyword category is kept as category_keyword so every
+        # disagreement shows up in the pull request body. TRIAGE_LIMIT caps
+        # records per run, so the untriaged backlog drains over several months
+        # rather than arriving as one large bill.
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRIAGE_LIMIT: "250"
+        run: python3 pipeline/triage_agent.py
       - name: Rebuild deliverables and site source
         run: python pipeline/build_site.py
 
@@ -111,7 +125,14 @@ jobs:
 
       - name: Build the change report
         id: report
-        run: python pipeline/ci_refresh_report.py report .refresh/before.json .refresh/pr_body.md
+        run: |
+          python pipeline/ci_refresh_report.py report .refresh/before.json .refresh/pr_body.md
+          # Append the triage section -- contradiction flags, category
+          # disagreements, low-confidence records -- so it lands in the pull
+          # request body alongside the corpus diff.
+          if [ -f .refresh/triage_report.md ]; then
+            cat .refresh/triage_report.md >> .refresh/pr_body.md
+          fi
 
       - name: Open pull request
         if: steps.report.outputs.changed == 'true'
