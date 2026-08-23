@@ -1,0 +1,25 @@
+# Query configuration for scripts/harvest.py.
+#
+# Tune include_terms first, exclude_terms second. Run the workflow with
+# dry_run=true and inspect data/new_items.json before letting it write anything.
+
+bootstrap_since: '2024-01-01'   # used only on the very first run
+open_access_only: false
+
+include_terms:
+  - FLASH radiotherapy
+  - FLASH effect
+  - ultra-high dose rate
+  - ultrahigh dose rate
+  - UHDR irradiation
+  - dose rate sparing
+  - FLASH-RT
+  - conventional dose rate comparison
+
+exclude_terms:
+  # Collisions with unrelated literature that use the same tokens.
+  - flash memory
+  - flash chromatography
+  - hot flashes
+  - flash flood
+  - flash sintering
