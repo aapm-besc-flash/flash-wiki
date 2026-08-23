@@ -5931,12 +5931,20 @@
     "Journal Article"
    ],
    "mesh": [],
-   "category": "Physics & Dosimetry",
+   "category": "Modeling & Mechanisms",
    "tags": [
     "Physics & Dosimetry",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/41801040/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41801040/",
+   "category_keyword": "Physics & Dosimetry",
+   "summary": "This analysis estimates the potential impact of the FLASH effect on radiation risk estimates derived from the Life Span Study of Hiroshima and Nagasaki atomic bomb survivors, where a substantial fraction of dose was delivered at dose rates exceeding 40 Gy/s. Drawing on published dose-response literature for genetic damage, the authors estimate a maximum protective effect (dose modification) of a factor of 0.6, corresponding to a 40% reduction. Applying this to Life Span Study dosimetry while excluding doses above 4 Gy, the estimated magnitude of the effect ranges from 3.3% to 13.1% for Hiroshima, depending on dose and assumed neutron RBE (nominally 10), and from 7.3% to 9.3% for Nagasaki with little sensitivity to neutron RBE. The paper also notes biodosimetric indications of a possible threshold near 1 Gy in the Nagasaki population and calls for further FLASH-effect research at epidemiologically relevant doses (0.1-4 Gy) rather than the higher therapeutic doses typically studied.",
+   "triage": {
+    "confidence": 0.6,
+    "contradictions": [],
+    "reviewer_note": "This paper applies existing FLASH radiobiology literature to reinterpret atomic bomb survivor epidemiology rather than reporting new dosimetric or radiobiological measurements; it does not directly test any registered claim's mechanism or dose-rate threshold, though it uses the 40 Gy/s threshold from BIO-002 as a working definition. Category assignment as Modeling & Mechanisms reflects its nature as a literature-based quantitative estimate rather than a direct experimental or dosimetric study; it could also be argued to sit outside the working group's typical radiotherapy scope given its focus on nuclear explosion epidemiology.",
+    "model": "claude-sonnet-5"
+   }
   },
   {
    "pmid": "41795689",

@@ -6,8 +6,8 @@ This notebook covers 1306 Medline-indexed FLASH radiotherapy (ultra-high dose-ra
 ## Categories
 
 - Radiobiology: 435 papers
-- Physics & Dosimetry: 249 papers
-- Modeling & Mechanisms: 159 papers
+- Physics & Dosimetry: 248 papers
+- Modeling & Mechanisms: 160 papers
 - Beam Delivery & Technology: 130 papers
 - Treatment Planning & Optimization: 67 papers
 - Clinical & Translational: 38 papers

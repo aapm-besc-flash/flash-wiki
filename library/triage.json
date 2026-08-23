@@ -2423,6 +2423,24 @@
   "summary": "The paper describes a compact, portable multileaf Faraday cup (MLFC) with 128 channels designed to verify electron beam energy (3-25 MeV) via depth-charge curve measurement, intended as a faster alternative to water-phantom percent-depth-dose scans for quality assurance when switching between conventional and ultra-high dose rate irradiations. The device was tested in strongly pulsed ultra-high dose-per-pulse electron beams and in conventional clinical electron beams, resolving energy changes below 20 keV (0.1% of 20 MeV). In a single proof-of-concept campaign, the same detector was applied to pulsed synchrotron proton beams at conventional dose rate using a range shifter, detecting well-defined depth-charge peaks per spill with total charge of about 1 nC; Monte Carlo-derived energy values agreed with actual proton energies within 2%. The authors conclude the MLFC allows quick energy-stability validation across both electron dose-rate regimes and pulsed ion beams.",
   "triaged": "2026-08-23"
  },
+ "41801040": {
+  "category": "Modeling & Mechanisms",
+  "category_keyword": "Physics & Dosimetry",
+  "confidence": 0.6,
+  "contradictions": [],
+  "key_findings": [
+   "Maximum estimated protective factor for genetic damage from the FLASH effect is approximately 0.6 (a 40% reduction).",
+   "Estimated impact on Hiroshima Life Span Study risk estimates ranges from 3.3% to 13.1%, sensitive to assumed neutron RBE (nominal value 10).",
+   "Estimated impact on Nagasaki risk estimates ranges from 7.3% to 9.3%, with little sensitivity to neutron RBE.",
+   "Biodosimetric data suggest a possible threshold around 1 Gy for the effect in the Nagasaki population.",
+   "Authors highlight a gap in FLASH-effect literature at doses relevant to epidemiology (0.1-4 Gy) versus the higher therapeutic doses typically studied."
+  ],
+  "model": "claude-sonnet-5",
+  "reviewer_note": "This paper applies existing FLASH radiobiology literature to reinterpret atomic bomb survivor epidemiology rather than reporting new dosimetric or radiobiological measurements; it does not directly test any registered claim's mechanism or dose-rate threshold, though it uses the 40 Gy/s threshold from BIO-002 as a working definition. Category assignment as Modeling & Mechanisms reflects its nature as a literature-based quantitative estimate rather than a direct experimental or dosimetric study; it could also be argued to sit outside the working group's typical radiotherapy scope given its focus on nuclear explosion epidemiology.",
+  "schema": 1,
+  "summary": "This analysis estimates the potential impact of the FLASH effect on radiation risk estimates derived from the Life Span Study of Hiroshima and Nagasaki atomic bomb survivors, where a substantial fraction of dose was delivered at dose rates exceeding 40 Gy/s. Drawing on published dose-response literature for genetic damage, the authors estimate a maximum protective effect (dose modification) of a factor of 0.6, corresponding to a 40% reduction. Applying this to Life Span Study dosimetry while excluding doses above 4 Gy, the estimated magnitude of the effect ranges from 3.3% to 13.1% for Hiroshima, depending on dose and assumed neutron RBE (nominally 10), and from 7.3% to 9.3% for Nagasaki with little sensitivity to neutron RBE. The paper also notes biodosimetric indications of a possible threshold near 1 Gy in the Nagasaki population and calls for further FLASH-effect research at epidemiologically relevant doses (0.1-4 Gy) rather than the higher therapeutic doses typically studied.",
+  "triaged": "2026-08-23"
+ },
  "41808240": {
   "category": "Radiobiology",
   "category_keyword": "Radiobiology",
