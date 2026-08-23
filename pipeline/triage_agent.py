@@ -79,7 +79,11 @@ PENDING_BATCH = LIB / ".triage_batch.json"
 
 # Per-million-token prices used only to print an estimate in the PR body.
 # Batch pricing is half of standard; override if the model or pricing changes.
-PRICE_IN, PRICE_OUT = 1.50, 7.50
+_PRICES = {           # $/Mtok at BATCH rates (half of standard)
+    "claude-sonnet-5": (1.50, 7.50),
+    "claude-haiku-4-5-20251001": (0.50, 2.50),
+}
+PRICE_IN, PRICE_OUT = _PRICES.get(MODEL, (1.50, 7.50))
 
 # Categories the agent is allowed to assign. Deliberately excludes the four
 # publication-type categories and Uncategorized: the agent must commit to a
@@ -172,6 +176,11 @@ findings contradict, qualify, or supersede any of them.
 
 {claims}
 
+`claim_id` must be copied exactly from the bracketed ids above. Do not invent an \
+id, do not renumber, and do not reference a claim that is not listed. If nothing \
+in this paper bears on any registered claim -- the usual case -- return \
+`"contradictions": []`.
+
 ## Publication
 
 Title: {title}
@@ -190,12 +199,26 @@ A single JSON object, no prose, no code fences:
   "summary": "...",
   "key_findings": ["...", "..."],
   "confidence": 0.0,
-  "contradictions": [
-    {{"claim_id": "...", "nature": "contradicts|qualifies|supersedes",
-      "explanation": "..."}}
-  ],
+  "contradictions": [],
   "reviewer_note": ""
 }}
+
+`contradictions` is usually `[]`. When it is not, each entry looks like:
+
+{{"claim_id": "<exact id from the list above>",
+  "nature": "contradicts|qualifies|supersedes",
+  "explanation": "..."}}
+
+## Hard constraints
+
+These are checked mechanically; violating one costs a full retry.
+
+- `category` must be exactly one of the names listed above. The publication-type
+  categories -- Reviews & Consensus, Perspectives & Commentary,
+  Point-Counterpoint, Opinions & Debate -- are assigned upstream and are NOT
+  valid answers here, even for a paper that is plainly a review.
+- `summary` must be at least 25 words.
+- `confidence` is a number between 0 and 1, not a percentage or a string.
 
 ## Style for `summary`
 
@@ -439,6 +462,14 @@ def main() -> int:
             items = [by_pmid[p] for p in retry if p in by_pmid]
             print(f"{len(items)} record(s) failed validation; one corrective batch",
                   file=sys.stderr)
+            # Log the reasons. Retries are the single largest cost multiplier
+            # in this job, so the failure mode needs to be measured rather than
+            # guessed at from the bill.
+            from collections import Counter
+            why = Counter(e.split(":")[0][:60]
+                          for errs in retry.values() for e in errs)
+            for reason, n in why.most_common():
+                print(f"    {n:3d}x {reason}", file=sys.stderr)
             if items:
                 b2 = client.messages.batches.create(
                     requests=_requests(items, claim_ids, cat_block, claim_block,
