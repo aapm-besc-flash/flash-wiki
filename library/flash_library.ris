@@ -1,4 +1,22 @@
 TY  - JOUR
+TI  - A Target-Specific, "Eco-Friendly" Experimental Setup for Small Field Proton Irradiation.
+AU  - Colizzi I
+AU  - Bornhauser Y
+AU  - Lomax AJ
+AU  - Meer D
+AU  - Psoroulas S
+PY  - 2026
+JO  - International journal of particle therapy
+AB  - PURPOSE: Increasing interest in proton FLASH radiotherapy has led to a focus on target-specific (TS) devices and passive scattering (PS) techniques. However, these techniques often require expensive, time-consuming custom devices like single-use collimators and compensators. Our study aims to improve this by creating a flexible TS-PS setup adaptable to various needs, specifically for small target structures. METHODS: The collimating and compensating elements are made from 3D-printed polylactide containers filled with reusable copper or polypropylene spheres. We designed these TSPS elements using the modified Python package Porespy and conducted simulations in Tool for Particle Simulation Monte Carlo. We evaluated the collimator's performance by comparing a solid collimator with our proposed approach. As a feasibility study, we developed 2 "eco-friendly" PS setups for irradiating a simple spherical target and a complex small structure, a murine brain tumor. RESULTS: We validated the computational model and MC simulations through depth dose curve and beam size measurements, demonstrating an agreement within a few percent. The "eco-friendly" collimators effectively collimated the beam, but we observed a dose halo at high energies due to protons not being stopped by the plastic bore; using higher-density materials can address this issue. We designed and validated the 2 "eco-friendly" setups via dose measurements and demonstrated that we could effectively compensate and collimate the beam to conform the dose to the target shape. The total time required to print the setup was under 45 minutes, and the filament cost was under $1. CONCLUSIONS: This innovative, "eco-friendly" approach using 3D printing allows for quick production of TS shapes, reducing waste and costs while enhancing conformity and improving the efficiency of PS treatments.
+DO  - 10.1016/j.ijpt.2026.101953
+AN  - 42633237
+UR  - https://pubmed.ncbi.nlm.nih.gov/42633237/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
 TI  - Proton Bragg peak flash stereotactic radiosurgery for recurrent glioblastoma reirradiation.
 AU  - Ma Y
 AU  - Wang Y

@@ -2,7 +2,7 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*63 records. Newest first.*
+*67 records. Newest first.*
 
 ---
 
@@ -253,6 +253,25 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
+### Development of a proof-of-concept treatment planning system for multi-beam photon FLASH intensity modulated radiation therapy.
+
+*Chenlei G, Weijie C, Hao Z, Meng Z, Jin Y, He W et al.* — Medical physics (2026)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** The development of FLASH radiotherapy has gained attention for its potential to deliver high doses in very short treatment times, minimizing damage to normal tissues. PURPOSE: This study developed and evaluated FLASHPlan, a treatment planning system (TPS) for multi-beam photon FLASH (XFLASH) therapy.
+
+
+??? note "Abstract"
+    BACKGROUND: The development of FLASH radiotherapy has gained attention for its potential to deliver high doses in very short treatment times, minimizing damage to normal tissues. PURPOSE: This study developed and evaluated FLASHPlan, a treatment planning system (TPS) for multi-beam photon FLASH (XFLASH) therapy. METHODS: FLASHPlan integrates the Fractional Combination Radiotherapy (FCRT) strategy with voxel-level biological correction, using an organ-specific dose-modifying factor model and biologically effective dose (BED)-based summation, under ultra-high dose rate constraints. FCRT distributes clinically required beam angles across multiple fractions, delivering fixed static beams per session with inter-fractional gantry reconfiguration. Fifty stereotactic body radiotherapy cases (single-target brain, multifocal brain, lung, pancreas, and concave-type prostate; 45 Gy in 3 fractions) were retrospectively replanned using FCRT and compared with conventional five static-beam plans (Conv_5F). Dose-volume metrics were reported on a common equivalent-dose scale, and a passing rate (PR) was defined as the percentage of cases meeting SBRT constraints. Sensitivity analyses varied organ-specific λ and the assumed FLASH plateau dose-rate between 40 and 200 Gy/s. RESULTS: Compared with Conv_5F, FCRT modestly increased mean gross tumor volume (GTV) V45Gy in all cohorts and raised PR for V45Gy ≥ 95% from 10%-80% to 100% (all p &lt; 0.05). On DMF-modified equivalent-dose distributions, FCRT improved conformity index (CI) and reduced gradient index (GI) and high-dose spillage in every cohort (all p &lt; 0.05), indicating tighter high-dose regions and steeper dose fall-off. High-dose exposure to critical CNS, thoracic, abdominal, and pelvic organs-at-risk (OARs) was reduced, with PR for the most restrictive OAR constraints reaching 100%, while Lyman-Kutcher-Burman-based normal tissue complication probability estimates for lung and brainstem changed minimally and remained within clinically acceptable ranges. In all λ and dose-rate sensitivity scenarios, cohort-averaged FCRT OAR doses varied only modestly and the dosimetric advantage of FCRT over Conv_5F was preserved. CONCLUSIONS: FLASHPlan establishes a proof-of-concept TPS framework for multi-beam XFLASH by combining geometry-aware FCRT delivery with biology-aware DMF/BED dose evaluation. Rather than demonstrating therapeutic superiority of FLASH-RT, this work provides a planning infrastructure to support future XFLASH system development, radiobiological modeling, and clinical translation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41665596/) · [DOI](https://doi.org/10.1002/mp.70331)
+
+
+---
+
 ### 3D range modulators for fast, conformal carbon ion therapy: anthropomorphic phantom validation and robustness analysis.
 
 *Hailey Ahn SH, Lysakovski P, Brons S, Karle C, Longarino F, Abdollahi A et al.* — Physics in medicine and biology (2026)  
@@ -405,6 +424,25 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
+### Comparison of protons and very high-energy electrons transmission pencil-beam-scanning for FLASH radiotherapy.
+
+*Gesualdi F, Ermeneux L, Lansonneur P, Sitarz M, Loap P, Créhange G et al.* — Physics and imaging in radiation oncology (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Very High-Energy Electron (VHEE) radiotherapy stands as a promising alternative to proton therapy in view of the FLASH effect, which allows for differential sparing of healthy tissues under ultra-high dose rate irradiation. This study compared the quality of transmission Pencil-Beam-Scanning proton and VHEE treatment plans, with emphasis on dose rate quantification relevant to the assessment of th…
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: Very High-Energy Electron (VHEE) radiotherapy stands as a promising alternative to proton therapy in view of the FLASH effect, which allows for differential sparing of healthy tissues under ultra-high dose rate irradiation. This study compared the quality of transmission Pencil-Beam-Scanning proton and VHEE treatment plans, with emphasis on dose rate quantification relevant to the assessment of the FLASH effect. MATERIALS AND METHODS: Proton (250 MeV) and VHEE (200 MeV and 150 MeV) treatment plans were designed for four patient cases. Plans were optimized using an in-house developed spot weight and position optimization algorithm. Objectives were set through scorecards based on RTOG protocols. Dose rate estimations were based on beam parameters of the ProBeam system for protons and of a realistic VHEE system. For each structure, a new, model-free FLASH index was calculated. RESULTS: VHEE treatment plans achieved a quality comparable to that of protons. While the conformity and homogeneity were similar, FLASH indices tended to be higher for protons due to higher dose rates covering more healthy tissues. A pulse repetition frequency of 500 Hz was found necessary to attain FLASH-compatible dose rates (≥40 Gy/s). CONCLUSIONS: The importance of treatment parameters (such as pulse repetition frequency) for VHEEs to reach ultra-high dose rates was assessed. With their high plan quality, VHEEs could constitute a viable alternative to proton transmission plans and a promising modality for FLASH therapy. The proposed FLASH index offers a robust tool to compare the FLASH potential across treatment modalities.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41278487/) · [DOI](https://doi.org/10.1016/j.phro.2025.100860) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12639469/)
+
+
+---
+
 ### Monoenergetic Bragg peak FLASH proton therapy with universal range shifter in multi-field optimization.
 
 *Zhang Q, Zeng Y, Pang B, Liu M, Chen S, Wang H et al.* — Physics in medicine and biology (2025)  
@@ -420,6 +458,25 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41125106/) · [DOI](https://doi.org/10.1088/1361-6560/ae1650)
+
+
+---
+
+### Translating FLASH to the clinic: treatment planning system for a FLASH-compatible dose delivery using a novel x-ray UHDR machine.
+
+*Krim DE, Whelan B, Harkness M, Otto K, W Loo B, Bazalova-Carter M* — Physics in medicine and biology (2025)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Objective.To develop and validate a treatment planning system (TPS) for a novel x-ray ultra-high dose rate (UHDR) system and compare its performance with conventional volumetric modulated arc therapy (VMAT).Approach.A TPS was developed for a novel x-ray UHDR system featuring stationary beamlines and a Scanning Pencil-beam High-speed Intensity-modulated x-ray source (SPHINX). We studied an exemplar…
+
+
+??? note "Abstract"
+    Objective.To develop and validate a treatment planning system (TPS) for a novel x-ray ultra-high dose rate (UHDR) system and compare its performance with conventional volumetric modulated arc therapy (VMAT).Approach.A TPS was developed for a novel x-ray UHDR system featuring stationary beamlines and a Scanning Pencil-beam High-speed Intensity-modulated x-ray source (SPHINX). We studied an exemplary case using 16 beam angles, 1D scanning perpendicular to the bore axis, and a linear accelerator operating at 12 MeV electron energy with 1 mA average beam current. Treatment plans were generated using various system configurations and compared with clinical VMAT plans for lung (PTV:239cm3), brain (PTV:372cm3), and head-and-neck (PTV:55cm3) cases. Configurations included different beamlet widths for lung cancer, coplanar and conical beam arrangements for brain cancer, and different beamlet spacings for head-and-neck cancer. Dose distributions in terms of target conformity and homogeneity indices, local dose rates (LDR), local irradiation time (LIT), and organ-at-risk (OAR) sparing were compared. A validation workflow combining Monte Carlo simulations with TPS-generated treatment parameters was developed and tested on a lung case to ensure TPS dose calculation accuracy.Main results.TPS-generated plans achieved comparable target coverage to VMAT while delivering significantly higher dose rates (⩾12.5Gy/s vs. 0.03 Gy/s) and ultra-short LITs. However, UHDR plans in general showed increased OAR mean doses. Conical beam arrangements in the brain case yielded higher maximum LDRs at isocenter of up to 49 Gy/s with LITs as low as 37 ms, but increased integral dose. The head-and-neck case demonstrated high LDRs (62 Gy/s to 98% of PTV) within 20 ms, with minimal differences between beamlet spacing configurations. The lung case validation workflow demonstrated⩾98%3Dγ-index pass rate using3%/3mm threshold, confirming plan accuracy.Significance.The developed UHDR-TPS enables treatment planning for a novel x-ray UHDR system. In this preliminary study, it achieved plan quality comparable to VMAT for the specific lung, brain, and head-and-neck cancer cases studied, while delivering significantly higher dose rates and shorter irradiation times. Further optimization of the UHDR delivery with x-rays is needed, however, to decrease OAR doses and validate these initial findings.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41056970/) · [DOI](https://doi.org/10.1088/1361-6560/ae107b)
 
 
 ---
@@ -458,6 +515,25 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41038240/) · [DOI](https://doi.org/10.1088/1361-6560/ae0ef7)
+
+
+---
+
+### Treatment parameters consideration for universal range shifter-based multi-energy proton FLASH-RT.
+
+*Zeng Y, Quan H, Zhang Q, Wang W, Liu X, Qin B et al.* — Medical physics (2025)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Compared to conventional dose rate irradiation, ultra-high dose rate irradiation provides superior normal tissue sparing. Multi-energy proton beams combined with a universal range shifter (URS) and fast energy-switching gantry enable ultra-high dose rate delivery.
+
+
+??? note "Abstract"
+    BACKGROUND: Compared to conventional dose rate irradiation, ultra-high dose rate irradiation provides superior normal tissue sparing. Multi-energy proton beams combined with a universal range shifter (URS) and fast energy-switching gantry enable ultra-high dose rate delivery. PURPOSE: This study investigates the effects of the URS, planning parameters, and patient selection on multi-energy Bragg peak (MEBP) proton FLASH radiotherapy (FLASH-RT) plans. METHODS: Single-field plans were generated for water phantoms and a brain case, comparing beam setups with and without the URS. Planning parameters, including spot spacing, layer spacing, and beam orientation, were varied. The effects of fractional dose and target size were also assessed. Dose and FLASH-related metrics were analyzed. RESULTS: The use of a URS increased the spot size, which reduced the number of required spots and energy layers but also resulted in a broader penumbra, a prolonged distal falloff, and a higher Dmean in normal tissue. These effects became more pronounced with greater URS thickness. A spot spacing of 1.5 times the spot size (σ) and a layer spacing of 1.0 times the Bragg peak width (Proximal and Distal R80) improved V40Gy/s, while effectively maintaining plan quality. Beam orientations with smaller field sizes increased V40Gy/s. As the fractional dose increased, V40Gy/s also increased, reaching saturation around 25 GyRBE. Additionally, V40Gy/s improved with smaller target volumes. CONCLUSIONS: The URS has a significant impact on plan quality, requiring a balance between normal tissue sparing and the FLASH effect in MEBP planning. Although MEBP plan is suitable for treating tumors with complex shapes, careful selection of planning parameters is critical for achieving effective FLASH treatment.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41028909/) · [DOI](https://doi.org/10.1002/mp.70039)
 
 
 ---

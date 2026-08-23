@@ -2,7 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*36 records. Newest first.*
+*38 records. Newest first.*
 
 ---
 
@@ -82,6 +82,25 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
+### The prospective phase I &quot;Flash-Skin I&quot; trial: ultra-high dose rate radiotherapy implementation and quality assurance at a clinical linear accelerator.
+
+*Dal Bello R, Psoroulas S, Flückiger D, Krayenbühl J, Moeckli R, Bailat C et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** The combination of reduced normal tissue damage and unaffected tumor control is referred to as Flash-effect. This phenomenon has been observed with ultra-high dose rate (UHDR) radiotherapy in preclinical models.
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: The combination of reduced normal tissue damage and unaffected tumor control is referred to as Flash-effect. This phenomenon has been observed with ultra-high dose rate (UHDR) radiotherapy in preclinical models. The Flash-Skin I (NCT06549439) treated seven patients with melanoma skin metastasis. The treatment protocol included 2 × 9 Gy UHDR followed by 1 × 9 Gy conventional radiotherapy. Here we report on the implementation of the study at a converted C-arm clinical linear accelerator. MATERIALS AND METHODS: A dedicated preclinical radiation therapy quality assurance (RTQA) program was developed and the linac performance was validated for more than one year. Clinically, fourteen fractions of 9 Gy each were delivered with the 9 MeV UHDR electron linac. In-vivo measurements included: skin dose with radiochromic films, linac output with optically stimulated luminescent dosimeter (OSLD), pulse counting and inter-pulse stability with a scintillator, intra-pulse stability with a diamond detector. RESULTS: The preclinical RTQA identified reduced linac output, which prompted beam tuning and additional quality assurance. This formed the basis for initiation of the clinical trial and successful treatment of all seven patients. All fourteen UHDR fractions showed a dose accuracy within 4.6% or better. The number of delivered pulses consistently matched the planned value, and film measurements confirmed the skin dose. Intra- and inter-pulse stability were within 3.8% and 2.8%, respectively. CONCLUSION: The clinical implementation of Flash-Skin I at converted C-arm linac was successfully demonstrated and validated. The developed RTQA program may facilitate the development of future UHDR clinical trials.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41520733/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111372)
+
+
+---
+
 ### First-in-human e-Flash radiotherapy using a modified conventional C-arm linear accelerator.
 
 *von der Grün J, Dal Bello R, Psoroulas S, Krayenbuehl J, Fesslmeier D, Ramelyte E et al.* — Clinical and translational radiation oncology (2026)  
@@ -97,6 +116,25 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41080989/) · [DOI](https://doi.org/10.1016/j.ctro.2025.101047) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12509727/)
+
+
+---
+
+### A safety study of ultra-high dose rate FLASH radiotherapy in the treatment of superficial skin tumors: study protocol of a phase I trial (ChiCTR2400080935).
+
+*Yang C, Luo H, Leijie M, Mao R, Lei H, Zhang Y et al.* — Precision radiation oncology (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerging as a novel technique to improve the normal tissue tolerance by delivering ultra-high dose rate radiation several orders of magnitude higher than convention radiotherapy. It has been shown in preclinical studies to cause less injury to surrounding normal tissues during radiation treatment, while still maintaining local tumor control.
+
+
+??? note "Abstract"
+    OBJECTIVE: Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerging as a novel technique to improve the normal tissue tolerance by delivering ultra-high dose rate radiation several orders of magnitude higher than convention radiotherapy. It has been shown in preclinical studies to cause less injury to surrounding normal tissues during radiation treatment, while still maintaining local tumor control. The purpose of this protocol is to evaluate the safety of fractionated FLASH-RT in skin cancer. METHOD: Patients with superficial skin tumors will be enrolled. The eligible patients will undergo electron FLASH-RT (24-40 Gy/3-5 fractions) to the tumor volume. The primary outcome is to evaluate the safety of FLASH-RT by collecting the acute (&lt; 90 days) skin toxicity adverse events of radiation according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Secondary objectives include late (&gt; 90 days) skin toxicity after FLASH-RT according to CTCAE version 5.0 and treatment response. DISCUSSION: If the results show that delivering FLASH-RT is safe and feasible for skin tumors, further investigation will be conduct to evaluate efficacy of FLASH-RT in a phase II trial. TRIAL REGISTRATION NUMBER: ChiCTR2400080935. https://www.chictr.org.cn/showproj.html?proj=220336.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41164421/) · [DOI](https://doi.org/10.1002/pro6.70010) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12559900/)
 
 
 ---

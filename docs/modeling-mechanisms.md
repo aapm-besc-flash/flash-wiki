@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*164 records. Newest first.*
+*159 records. Newest first.*
 
 ---
 
@@ -348,25 +348,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Experimental characterization of proton minibeam therapy delivery under FLASH dose-rate conditions.
-
-*Lin Y, Wu W, Setianegara J, Wang A, Gerard N, Nys J et al.* — Scientific reports (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge.
-
-
-??? note "Abstract"
-    Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge. This study explores the feasibility of integrating pMBRT with ultra-high-dose-rates (UHDR) to overcome this limitation while leveraging potential biological synergies to enhance the therapeutic index and advance clinical applications. The study utilized the IBA ProteusONE compact proton therapy system equipped with two MSCs, each with center-to-center distances of 2.8 mm, slit widths of 1.0 mm, and thicknesses of 6.5 cm and 10 cm. UHDR delivery was achieved with 228 MeV protons at a current of 125 nA, while clinical beams operated at 226 MeV with 1-5 nA. Dose measurements using Gafchromic films in solid water phantoms were compared with Monte Carlo simulations. Delivery times were compared for FLASH and clinical beams. PBS dose rate was calculated based on the spot delivery log file. The study successfully demonstrated pMBRT dose distributions under UHDR, significantly reducing treatment times to 2.5 s compared to 3 min for clinical beams. The 10 cm collimator achieved higher peak-to-valley dose ratios (PVDRs) at 2 cm depth (4.36) than the 6.5 cm collimator (2.57), optimizing UHDR delivery conditions. Results highlight the potential to improve dose delivery efficiency while maintaining spatial resolution and dose modulation, supporting future clinical advancements. This study demonstrates the feasibility of integrating pMBRT with UHDR using a clinical proton therapy system. By addressing challenges associated with delivery times and leveraging the combined advantages of spatial fractionation and ultra-high-dose-rates, this work paves the way for the clinical translation of pMBRT with UHDR, offering innovative possibilities for treating challenging malignancies with high-dose precision therapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41656319/) · [DOI](https://doi.org/10.1038/s41598-026-36739-0) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12949032/)
-
-
----
-
 ### Dependence of the radical dynamics on the beam temporal profile in FLASH radiotherapy.
 
 *Sun J, Kong X, Lv J, Liu X, Wang J, Lin C et al.* — Physics in medicine and biology (2026)  
@@ -424,44 +405,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Biological effects of conventional and ultra high dose rate radiation in human cells.
-
-*Ryan TL, Escalona MB, O&#x27;Brien K, Tan Y, Kanagaraj K, Taveras M et al.* — Scientific reports (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** FLASH radiotherapy (FLASH-RT) that uses an ultra-high dose rate (UHDR) radiation is emerging as an effective cancer treatment modality but the biological effects of UHDR are not fully understood. In this study, biological effects induced by conventional dose rate (CDR; 1 Gy/min) and UHDR (600 Gy/s) were evaluated in human peripheral blood lymphocytes of 10 donors at two different radiation doses (…
-
-
-??? note "Abstract"
-    FLASH radiotherapy (FLASH-RT) that uses an ultra-high dose rate (UHDR) radiation is emerging as an effective cancer treatment modality but the biological effects of UHDR are not fully understood. In this study, biological effects induced by conventional dose rate (CDR; 1 Gy/min) and UHDR (600 Gy/s) were evaluated in human peripheral blood lymphocytes of 10 donors at two different radiation doses (3 Gy and 8 Gy) of 9 MeV electrons. Cytogenetic analysis revealed that the unstable chromosome aberrations (dicentrics, rings and fragments) were reduced by 1.5–twofold after UHDR exposure (600 Gy/s) relative to CDR (1 Gy/min) at both radiation doses (3 Gy and 8 Gy). A similar trend was observed for the stable chromosome aberrations (insertions, balanced and unbalanced translocations) detected by fluorescence in situ hybridization (FISH) using a cocktail of DNA probes for chromosomes 1, 2 and 4. Pooled data indicated that the translocations (color junctions) were reduced by 40–50% in 600 Gy/s irradiated lymphocytes at both 3 Gy and 8 Gy doses relative to CDR. In corroboration, genome wide analysis of translocations by the multicolor FISH technique revealed reduced yields of chromosome exchange events after UHDR compared to CDR of electrons. In agreement with inter-chromosomal aberrations, intra-chromosomal aberrations detected by multicolor BAND analysis of chromosome 1 also showed reduced yields of different aberrations (inversions, insertions, and p- and q arm translocations) after UHDR exposure relative to CDR. Quantitative modeling of dicentrics and translocations, utilizing the linear-quadratic formalism with polynomial regression (inverse-variance weighting) and quantile regression, revealed significant dose response reductions at 600 Gy/s versus 1 Gy/min. In agreement with the reduced yields of unstable and stable chromosome aberrations, UHDR of electrons resulted in a modest increase in leukocyte viability and reduced BAX protein expression. Further molecular studies using well defined human cell model systems are required for gaining insight into the cellular DNA repair mechanisms for UHDR radiation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41484408/) · [DOI](https://doi.org/10.1038/s41598-025-33817-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12852176/)
-
-
----
-
-### Measurements of Hydrogen Peroxide Yields in Ultra-High-Dose-Rate vs. Conventional Radiation.
-
-*Rothwell B, Shin WG, LaVerne JA, Rodriguez Gonzalez T, Joseph K, Chan TY et al.* — Radiation research (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Hydrogen peroxide (H2O2), a key product of water radiolysis formed predominantly through hydroxyl (OH) radical recombination, plays a critical role in understanding radiation-induced oxidation processes. Differences in H2O2 yields under ultra-high dose rate (UHDR) and conventional dose rate (CDR) radiation have been proposed as a potential contributor to the FLASH healthy tissue sparing effect.
-
-
-??? note "Abstract"
-    Hydrogen peroxide (H2O2), a key product of water radiolysis formed predominantly through hydroxyl (OH) radical recombination, plays a critical role in understanding radiation-induced oxidation processes. Differences in H2O2 yields under ultra-high dose rate (UHDR) and conventional dose rate (CDR) radiation have been proposed as a potential contributor to the FLASH healthy tissue sparing effect. Radiolytic H2O2 yields were determined under UHDR (∼120 Gy/s) and CDR (1-5 Gy/s) proton irradiation in both deaerated and oxygen-saturated systems. An escape yield of ∼0.7 molecules/100 eV was observed in deaerated solutions. In oxygen-saturated systems, yields increased to ∼1.0 molecules/100 eV due to reactions involving oxygen-derived radicals. To investigate the temporal dependence of H2O2 production, various concentrations of methanol or dimethyl sulfoxide (DMSO) were added as OH radical scavengers. In deaerated systems, H2O2 yields approached zero as scavenging capacity increased, highlighting the critical role of OH radical combination reactions. In oxygen-saturated systems, moderate scavenging initially increased H2O2 yields via interactions between OH radicals and oxygen-derived species, but at higher scavenging capacities (∼108 s-1), yields declined sharply due to the suppression of OH radical combination reactions. Methanol produced higher H2O2 yields than DMSO under oxygenated conditions, with a maximum yield approximately 40% greater than that for DMSO. Measurements using γ rays produced the same trends. UHDR irradiation did not yield statistically significant differences in H2O2 production compared to conventional radiation. Simulations using the TOPAS-nBio framework confirmed the experimental findings and provided insight into the influence of scavenger concentrations on H2O2 yields. These findings highlight the sensitivity of H2O2 yields to scavenging conditions and emphasize the need for more complex models to study fundamental radiation chemistry in biological systems. This work provides essential data for validating radiation chemistry models and advancing our understanding of radiation chemistry in different environments.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41421382/) · [DOI](https://doi.org/10.1667/RADE-25-00190.1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13430615/)
-
-
----
-
 ### Impact of dose rate and its definition on the production of hydrogen peroxide in pure water.
 
 *Weishaar D, Derksen L, Erdmann R, Hornik N, Theiss U, Keil B et al.* — Physics in medicine and biology (2026)  
@@ -477,63 +420,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41397377/) · [DOI](https://doi.org/10.1088/1361-6560/ae2cde)
-
-
----
-
-### 3D Imaging of Proton FLASH Radiation Using a Multi-Detector Small Animal PET System.
-
-*Li W, Zhong Y, Lai Y, Yin L, Sforza D, Miles D et al.* — Tomography (Ann Arbor, Mich.) (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Ultra-high dose-rate FLASH radiotherapy has demonstrated strong potential in reducing normal tissue toxicity while maintaining effective tumor control. However, its underlying radiobiological mechanisms remain unclear, highlighting the need for novel approaches to probe the effects of radiation during and immediately after delivery.
-
-
-??? note "Abstract"
-    Objectives: Ultra-high dose-rate FLASH radiotherapy has demonstrated strong potential in reducing normal tissue toxicity while maintaining effective tumor control. However, its underlying radiobiological mechanisms remain unclear, highlighting the need for novel approaches to probe the effects of radiation during and immediately after delivery. This study presents the first exploration of 3D PET imaging of positron-emitting nuclei (PENs) generated by a FLASH proton beam. Methods: A home-built 12-panel preclinical small-animal PET system was employed for recording coincidence events. A 142.4 MeV FLASH proton beam with a 100 ms delivery time was directed into a solid water phantom. PET coincidence signals were recorded during the first 1 s and up to 11 min. The system&#x27;s capability for 3D localization was also assessed, and Monte Carlo simulations were performed for validation. Results: The PET system successfully recorded coincidence data within the first second, including the 100 ms beam delivery interval. Detector dead-time effects under the high beam flux were observed, leading to underestimated event counts. Following irradiation, the measured activity and decay behavior were consistent with simulations. The PET system accurately reconstructed the spatial distribution of PEN activities, with discrepancies in measured versus calculated line profiles ranging from 3.35-6.85%. Reconstructed PET images enabled reliable 3D localization with sub-millimeter accuracy in both lateral and depth dimensions. Conclusions: Our findings demonstrate that a multi-detector PET system is a promising tool for investigating the radiation effects of FLASH beams.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41441383/) · [DOI](https://doi.org/10.3390/tomography11120131) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12737159/)
-
-
----
-
-### Electron spin resonance measurements of radiation-induced radicals under conventional and ultra-high dose rate electron irradiation.
-
-*Pehlivan J, Beyreuther E, Horst F, Nasse MJ, Pawelke J, Leichtle D et al.* — Physics in medicine and biology (2025)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Ultra-high dose rate (UHDR) radiotherapy has been shown in preclinical studies to reduce normal tissue toxicity without compromising tumour control, a phenomenon referred to as the Flash effect. The radiochemical and biological mechanisms responsible for this effect remain unclear.
-
-
-??? note "Abstract"
-    Ultra-high dose rate (UHDR) radiotherapy has been shown in preclinical studies to reduce normal tissue toxicity without compromising tumour control, a phenomenon referred to as the Flash effect. The radiochemical and biological mechanisms responsible for this effect remain unclear. This study investigates radical formation and oxygen depletion under UHDR and conventional dose rate (CDR) conditions to gain mechanistic insight. Radical formation was investigated using electron spin resonance (ESR) spectroscopy with both spin trapping and spin probe techniques. Oxygen consumption was monitored continuously during irradiation to complement radical yield measurements. E3 medium containing either spin traps (DMPO, DEPMPO, BMPO) or spin probes (CMH, TMTH, CAT1H) was prepared under hypoxic, physioxic, and normoxic conditions. Irradiations were performed at the Electron Linac for beams with high Brilliance and low Emittance at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) with 30 MeV electrons across a broad range of dose rates (0.1 Gy s-1-105 Gy s-1). Spin probe measurements enabled consistent comparisons between CDR and UHDR, revealing a significant dependence of spin concentration on both oxygenation and dose rate. In contrast, spin trapping showed reduced radical yields with decreasing oxygen levels, but no significant dose-rate dependence. Direct comparisons between UHDR and CDR were limited by differences in the decay kinetics of the spin adducts. Oxygen measurements confirmed a reduced oxygen consumption at UHDR, with the extent of depletion strongly dependent on initial oxygen concentration. The results support the hypothesis that UHDR conditions promote radical-radical recombination, shifting the reaction equilibrium and reducing the pool of radicals available to react in the homogeneous chemical phase, particularly with oxygen. The combined application of ESR spin trapping, spin probes, and real-time oxygen measurements offers complementary insight into dose-rate-dependent radical processes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41401511/) · [DOI](https://doi.org/10.1088/1361-6560/ae2db6)
-
-
----
-
-### Advancing Proton Therapy: Integration of Minibeam Spatial Fractionation and FLASH Dose Rates.
-
-*Lin Y, Wu W, Setianegara J, Wang A, Gerard N, Nys J et al.* — Research square (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge.
-
-
-??? note "Abstract"
-    BACKGROUND: Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge. This study explores the feasibility of integrating pMBRT with ultra-high-dose-rates (UHDR) to overcome this limitation while leveraging potential biological synergies to enhance the therapeutic index and advance clinical applications. METHODS: The study utilized the IBA Proteus®ONE compact proton therapy system equipped with two MSCs, each with center-to-center distances of 2.8 mm, slit widths of 1.0 mm, and thicknesses of 6.5 cm and 10 cm. FLASH delivery was achieved with 228 MeV protons at a current of 125 nA, while clinical beams operated at 226 MeV with 1-5 nA. Dose measurements using Gafchromic films in solid water phantoms were compared with Monte Carlo simulations. Delivery times were compared for FLASH and clinical beams. PBS dose rate was calculated based on the spot delivery log file. RESULTS: The study successfully demonstrated pMBRT dose distributions under FLASH dose rates, significantly reducing treatment times to 2.5 seconds compared to 3 minutes for clinical beams. The 10 cm collimator achieved higher peak-to-valley dose ratios (PVDRs) at 2 cm depth (4.36) than the 6.5 cm collimator (2.57), optimizing FLASH delivery conditions. Results highlight the potential to improve dose delivery efficiency while maintaining spatial resolution and dose modulation, supporting future clinical advancements. CONCLUSION: This study demonstrates the feasibility of integrating pMBRT with FLASH dose rates using a clinical proton therapy system. By addressing challenges associated with delivery times and leveraging the combined advantages of spatial fractionation and ultra-high-dose-rates, this work paves the way for the clinical translation of pMBRT with FLASH, offering innovative possibilities for treating challenging malignancies with high-dose precision therapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41377978/) · [DOI](https://doi.org/10.21203/rs.3.rs-8116270/v1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12687803/)
 
 
 ---
@@ -572,6 +458,25 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41344028/) · [DOI](https://doi.org/10.1088/1361-6560/ae281d)
+
+
+---
+
+### VHEE-SSB grid: spot-scanning beam enabled spatially fractionated and FLASH radiotherapy with very high energy electron beams.
+
+*An C, Dai Z, Dai Z, Li J, Tan X, Jia Y et al.* — Physics in medicine and biology (2025)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Objectives.This study aims to demonstrate the feasibility of combining spatially fractionated radiotherapy (SFRT) and FLASH radiotherapy (FLASH-RT) techniques using very high energy electron (VHEE) through Monte Carlo simulations and to develop a simulation platform for this purpose.Approach.The simulation platform was built in TOPAS based on the beam parameters of the Wuhan Advanced Light Source …
+
+
+??? note "Abstract"
+    Objectives.This study aims to demonstrate the feasibility of combining spatially fractionated radiotherapy (SFRT) and FLASH radiotherapy (FLASH-RT) techniques using very high energy electron (VHEE) through Monte Carlo simulations and to develop a simulation platform for this purpose.Approach.The simulation platform was built in TOPAS based on the beam parameters of the Wuhan Advanced Light Source (WALS) linear accelerator. Quadrupole magnets are used to focus VHEE beams to control the longitudinal depth of the maximum dose. Lateral scanning irradiation is achieved by combining deflecting magnets. The spread-out electron peak (SOEP) depth adjustment, and spot scanning were achieved through magnetic field adjustments. The dose distribution of VHEE in the water phantom was simulated, and the three-dimensional dose distribution, dose volume histogram (DVH), and peak-to-valley ratio were analyzed.Main results.Based on the fitted relationships, Monte Carlo simulations with 106particles were conducted in TOPAS to verify the positions of maximum dose, yielding millimeter errors. The SOEP flatness between 12-17 cm depths exceeded 98.7%. SFRT simulated at four target points showed a peak-to-valley dose ratio (D10%/D90%) of 11.026, where D10%is the minimum dose within the highest 10% dose voxels, and D90%is the minimum dose received by 90% of the target volume. A volume fraction of 4.41% within the PTV received ⩾90% of the maximum dose. The dose rate in the PTV reached up to 54.25 Gy s-1under 200 nA electron beam irradiation.Significance.Take the example of beam parameters of the linear accelerator at WALS, the simulation platform is validated for conducting research on combined SFRT and FLASH-RT for deep tumor radiation treatment. This also demonstrates the feasibility of combining SFRT and FLASH-RT using VHEE.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41313815/) · [DOI](https://doi.org/10.1088/1361-6560/ae25b1)
 
 
 ---
