@@ -1,0 +1,42 @@
+# The claims register: the load-bearing assertions your wiki currently makes.
+#
+# This file is the reason contradiction-flagging works at all. You cannot pass
+# the whole wiki to the model on every run -- so the wiki maintains a distilled
+# statement of what it asserts, and the agent checks new literature against it.
+#
+# Curation rules that keep this useful:
+#   - Register a claim only if you would have to *edit the wiki* were it
+#     overturned. Background facts do not belong here.
+#   - State a threshold or effect size wherever one exists. "Sparing requires
+#     high dose rate" is unfalsifiable and will produce noise; a number is
+#     checkable.
+#   - Keep it under roughly 100 entries. Beyond that, prune rather than extend.
+#   - When you retire a claim, set `status: retired` and keep it. The history of
+#     what the wiki used to assert is worth as much as the current state.
+#
+# These three are illustrative. Replace them.
+
+- id: DR-001
+  claim: >
+    Normal-tissue sparing in preclinical models requires mean dose rates above
+    approximately 40 Gy/s, with sparing magnitude increasing up to roughly
+    100 Gy/s and plateauing thereafter.
+  domains: [dosimetry, preclinical_normal_tissue]
+  status: active
+  supported_by: [smith2023example]
+
+- id: MECH-002
+  claim: >
+    Transient radiolytic oxygen depletion alone is insufficient to account for
+    the magnitude of normal-tissue sparing observed in vivo.
+  domains: [radiobiology]
+  status: active
+  supported_by: []
+
+- id: TUM-003
+  claim: >
+    Tumor control at ultra-high dose rate is isoeffective with conventional
+    dose rate at matched physical dose across the model systems reported to date.
+  domains: [preclinical_tumor]
+  status: active
+  supported_by: []
