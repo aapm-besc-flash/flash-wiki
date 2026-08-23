@@ -1,0 +1,83 @@
+# Registered claims — the load-bearing assertions the FLASH wiki makes.
+#
+# triage_agent.py sends the active claims below with every record and asks
+# whether the paper's own findings contradict, qualify, or supersede any of
+# them. This is the one thing a keyword model cannot do: notice that a new
+# result undermines something the corpus already asserts.
+#
+# Curation rules
+#   - Register a claim only if overturning it would force an edit to the wiki.
+#     Background facts do not belong here.
+#   - State a threshold or effect size wherever one exists. "Sparing needs a
+#     high dose rate" is unfalsifiable and produces noise; a number is checkable.
+#   - Keep it under ~100 entries. Prune rather than extend.
+#   - Retire with status: retired; never delete. What the wiki used to assert,
+#     and when it stopped, is worth as much as the current state.
+#
+# These eight are a starting set stated as the field currently stands. Correct
+# them to match what the corpus actually asserts before the first live run --
+# a wrong claim here produces confident, wrong flags, which is the most
+# expensive failure mode in this pipeline.
+
+- id: DOS-001
+  claim: >
+    Ionization chambers require dose-per-pulse-dependent recombination
+    correction at ultra-high dose rate; uncorrected chamber readings
+    underestimate delivered dose.
+  category: Physics & Dosimetry
+  status: active
+
+- id: DOS-002
+  claim: >
+    No primary standard for reference dosimetry at ultra-high dose rate has
+    been established, and cross-institutional dosimetric intercomparisons
+    continue to show spread exceeding conventional-dose-rate tolerances.
+  category: Physics & Dosimetry
+  status: active
+
+- id: MECH-001
+  claim: >
+    Radiolytic oxygen depletion alone is insufficient in magnitude to account
+    for the normal-tissue sparing observed in vivo.
+  category: Modeling & Mechanisms
+  status: active
+
+- id: BIO-001
+  claim: >
+    Normal-tissue sparing requires delivery of the full fraction in a time
+    short relative to oxygen re-diffusion, on the order of a few hundred
+    milliseconds or less.
+  category: Radiobiology
+  status: active
+
+- id: BIO-002
+  claim: >
+    Normal-tissue sparing in preclinical models requires mean dose rates above
+    approximately 40 Gy/s, with the effect increasing up to roughly 100 Gy/s
+    and not increasing materially thereafter.
+  category: Radiobiology
+  status: active
+
+- id: BIO-003
+  claim: >
+    Tumour control at ultra-high dose rate is isoeffective with conventional
+    dose rate at matched physical dose across the model systems reported to
+    date.
+  category: Radiobiology
+  status: active
+
+- id: CLIN-001
+  claim: >
+    Human FLASH treatments reported to date have used single-fraction or
+    hypofractionated regimens to superficial or bone targets, and no randomized
+    comparison against conventional dose rate has reported outcomes.
+  category: Clinical & Translational
+  status: active
+
+- id: PLAN-001
+  claim: >
+    There is no consensus definition of dose rate for treatment planning
+    purposes; instantaneous, mean, dose-averaged and percentile-based
+    formulations are all in use and are not interchangeable.
+  category: Treatment Planning & Optimization
+  status: active
