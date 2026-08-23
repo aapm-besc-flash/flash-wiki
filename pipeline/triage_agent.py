@@ -21,6 +21,11 @@ flash_harvest.py gave them. Publication type is metadata, not a judgment call,
 and the deterministic router is correct. The agent only categorizes records
 sitting in the six content categories or in Uncategorized.
 
+Records listed as forced re-categorizations in CURATOR_OVERRIDES are likewise
+never changed. A human read those papers and decided; that adjudication
+outranks the agent. If the agent disagrees confidently it is reported in the
+PR under "Agent disagrees with a curator decision", but the category stands.
+
 The keyword category is never discarded. It is preserved as
 `category_keyword` and any disagreement with the agent is surfaced in the PR
 body, so a month of disagreements tells you whether to trust the agent, retune
@@ -37,6 +42,7 @@ import datetime
 import json
 import os
 import pathlib
+import re
 import sys
 
 HERE = pathlib.Path(__file__).resolve().parent
@@ -107,6 +113,31 @@ PUBTYPE_CATEGORIES = {
 # Below this, the agent's category is recorded but the keyword category is kept
 # as the live value. Raise it if you find the agent overconfident.
 CONFIDENCE_FLOOR = 0.60
+
+
+def _curator_pinned() -> set[str]:
+    """PMIDs the WG lead has re-categorized by hand in flash_harvest.py.
+
+    These are adjudications, not guesses: someone read the paper and decided.
+    They must outrank the agent exactly as they outrank the keyword model, or
+    the same argument gets re-litigated every month by a model that never saw
+    the reasoning. Parsed rather than imported so this script keeps working if
+    flash_harvest.py grows an import-time dependency (an API key, a network
+    call) that triage does not need.
+
+    Only forced *re-categorizations* are returned. Forced removals (value None)
+    never enter the corpus, so there is nothing here to protect.
+    """
+    src = (pathlib.Path(__file__).with_name("flash_harvest.py")
+           .read_text(encoding="utf-8"))
+    block = re.search(r"CURATOR_OVERRIDES\s*=\s*\{(.*?)\n\}", src, re.S)
+    if not block:
+        print("::warning::CURATOR_OVERRIDES not found in flash_harvest.py; "
+              "curator re-categorizations are NOT protected this run.",
+              file=sys.stderr)
+        return set()
+    return {m.group(1) for m in
+            re.finditer(r'"(\d+)"\s*:\s*"[^"]+"', block.group(1))}
 
 PROMPT = """You are triaging one publication for the AAPM BESC FLASH Working \
 Group living literature corpus.
@@ -312,13 +343,28 @@ def main() -> int:
                 print(f"  {pmid} {title[:50]} -- {'; '.join(errs)}", file=sys.stderr)
 
     # ---- merge triage into the library ----
+    pinned = _curator_pinned()
     disagreements, flagged, low_conf, merged = [], [], [], 0
+    overruled = []
     for rec in records:
-        t = done.get(str(rec.get("pmid")))
+        pmid = str(rec.get("pmid"))
+        t = done.get(pmid)
         if not t or t.get("schema") != SCHEMA_VERSION:
             continue
         if rec.get("category") in PUBTYPE_CATEGORIES:
             continue  # never override publication-type routing
+        if pmid in pinned:
+            # Hand-adjudicated by the WG lead. Record what the agent thought so
+            # a persistently confident disagreement is visible and can be
+            # reconsidered deliberately, but do not change the category.
+            rec["summary"] = t["summary"]
+            rec["triage"] = {k: t[k] for k in
+                             ("confidence", "contradictions", "reviewer_note",
+                              "model")}
+            if (t["category"] != rec.get("category")
+                    and t["confidence"] >= CONFIDENCE_FLOOR):
+                overruled.append((rec, t))
+            continue
         merged += 1
         rec["category_keyword"] = t["category_keyword"]
         rec["summary"] = t["summary"]
@@ -335,7 +381,8 @@ def main() -> int:
 
     if args.dry_run:
         print(f"[dry run] would merge {merged}; {len(disagreements)} disagreements, "
-              f"{len(flagged)} flags, {len(low_conf)} low-confidence.", file=sys.stderr)
+              f"{len(flagged)} flags, {len(low_conf)} low-confidence, "
+              f"{len(overruled)} curator-pinned left unchanged.", file=sys.stderr)
         return 0
 
     TRIAGE.write_text(json.dumps(done, indent=1, sort_keys=True), encoding="utf-8")
@@ -346,7 +393,20 @@ def main() -> int:
     out = ["", "## Agent triage", "",
            f"{merged} record(s) carry triage; {len(flagged)} contradiction "
            f"flag(s); {len(disagreements)} category disagreement(s); "
-           f"{len(low_conf)} below the {CONFIDENCE_FLOOR:.2f} confidence floor.", ""]
+           f"{len(low_conf)} below the {CONFIDENCE_FLOOR:.2f} confidence floor; "
+           f"{len(overruled)} curator-pinned record(s) left unchanged.", ""]
+
+    if overruled:
+        out += ["### Agent disagrees with a curator decision — no change made",
+                "",
+                "These PMIDs are hand-adjudicated in `CURATOR_OVERRIDES`. The "
+                "curator category stands. Listed only so a repeated, confident "
+                "disagreement can be reconsidered on purpose rather than by "
+                "accident.", ""]
+        out += [f"- PMID {r['pmid']}: kept **{r['category']}**, agent said "
+                f"{t['category']} ({t['confidence']:.2f}) — {r['title'][:70]}"
+                for r, t in overruled]
+        out += [""]
 
     if flagged:
         out += ["### Contradiction flags — read first", ""]
