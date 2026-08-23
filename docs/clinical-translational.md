@@ -6,6 +6,25 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
+### One-year follow-up after fractionated ultra-high-dose-rate FLASH radiotherapy in patient with extramammary Paget disease of the scrotum.
+
+*Luo H, Yang C, Mao R, Ma L, Lei H, Chen P et al.* — Precision radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT.
+
+
+??? note "Abstract"
+    OBJECTIVE: Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT. METHODS: An elderly male patient was diagnosed with extramammary Paget disease of the scrotum along with multiple lymph node and bone metastases. After 6 cycles of chemotherapy, the disease progressed in the scrotum. The scrotal lesions were evaluated for FLASH-RT. 9 MeV electron FLASH-RT was performed at a dose rate of 120 Gy/s. The field size was 5 cm × 5 cm, and the prescribed dose was 40 Gy in five fractions. Dosimetric verification was performed daily. Treatment response was evaluated at 3-month post FLASH-RT, and normal tissue toxicity was assessed from the beginning of FLASH-RT to 12-month post-irradiation. RESULTS: A 1-year follow-up was achieved for scrotal lesions treated with electron FLASH-RT in patients with extramammary Paget disease. Electron FLASH-RT was safe, and treatment-related adverse events were mild. Transient skin toxicity occurred 2-5 weeks post FLASH-RT, and exudation and burning pain were significantly alleviated. A complete response was achieved 2-3 months post FLASH-RT, and the tumor lesions were covered by the normal epithelium of the scrotum. At the end of the one-year follow-up, the tumor lesions continued to respond, and one-year survival was achieved without additional injury to the irradiated areas after FLASH-RT. CONCLUSION: Fractionated electron FLASH-RT is feasible and safe for the treatment of extramammary Paget disease of the scrotum. Our findings support further exploration of electron FLASH-RT in patients with skin tumors.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42358284/) · [DOI](https://doi.org/10.1002/pro6.70045) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13292164/)
+
+
+---
+
 ### FAST-02: Results from the second in-human prospective evaluation of single-fraction proton FLASH for symptomatic thoracic bone metastases.
 
 *Daugherty EC, Zhang Y, Xiao Z, Backus L, McDonald JM, Stockman B et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)  
@@ -40,25 +59,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42287986/) · [DOI](https://doi.org/10.1016/j.radi.2026.103469)
-
-
----
-
-### 4D robust evaluation for the intensity-modulated-proton-radiotherapy plans for patients with ventricular tachycardia based on cardiopulmonary motion characteristics.
-
-*Wang S, Fan X, Tong Y, Su M, Li W, Sha X et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
-
-<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Clinical trials and case reports have demonstrated that radiotherapy effectively reduces the frequency of ventricular tachycardia (VT) events. Given the sensitive anatomy of the treatment target, it is important to minimize the normal tissue dose while optimizing the target dose.
-
-
-??? note "Abstract"
-    BACKGROUND: Clinical trials and case reports have demonstrated that radiotherapy effectively reduces the frequency of ventricular tachycardia (VT) events. Given the sensitive anatomy of the treatment target, it is important to minimize the normal tissue dose while optimizing the target dose. This retrospective study investigated the optimal treatment planning strategy utilizing proton beams for VT patients to mitigate the effect of both cardiac and respiratory motion. METHODS: Twelve patients with respiratory-related 4DCT data and six patients with cardiac 4DCT data were enrolled in this study. The left ventricular wall was segmented into four regions (Anterior, Inferior, Lateral and Septal) according to Milo&#x27;s delineation guidelines to simulate various CTVs. Single-field plans with five different kinds of beam angle and multi-field plans were created to identify the optimal angle. RESULTS: The selection of beam angles significantly affected target coverage. The dose uncertainty due to respiratory motion was found to be greater than that of the heartbeat based on the 4D dynamic dose evaluation. Multi-field plans provided better protection for the heart and lungs but showed limitations in ensuring sufficient target coverage under respiratory motion, particularly for Inferior and Lateral targets. CONCLUSION: For optimal dose delivery (defined as achieving robust target coverage), a multiple-field plan with beam angles of 60° (targets A and I), 90° (targets L) and 30° (targets S) as the primary field is recommended. Patient-specific 4D dynamic evaluations are of great importance to ensure the treatment&#x27;s safety and effectiveness. ABBREVIATIONS: VT, ventricular tachycardia; r4DCT, respiratory-related 4DCT; c4DCT, cardiac 4DCT; VF, ventricular fibrillation; ICD, implantable cardioverter defibrillators; SART, stereotactic ablative radiotherapy; CTV, clinical target volume; ICTV, internal clinical target volume; RBE, relative biological effectiveness; 4DDD, 4D dynamic dose; PBS, pencil beam scanning; DIR, deformable image registration; WEL, water-equivalent path length; OARs, organs at risk; DIR, deformable Image Registration; HI, homogeneity index; CI, conformability index; rCT, repeat CT; UHDR, ultra-high dose-rate; Lung-L, left lung; Lung-R, right lung; Lung-All, left lung + right lung.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41871504/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.105790)
 
 
 ---

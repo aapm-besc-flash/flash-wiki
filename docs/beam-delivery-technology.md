@@ -2,7 +2,26 @@
 
 Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-delivery hardware for UHDR.
 
-*120 records. Newest first.*
+*127 records. Newest first.*
+
+---
+
+### Modeling and optimization of a multiple-ring double scattering system for proton therapy.
+
+*de Oliveira Lima JP, Weber A, Kourkafas G, Denker A, Heufelder J* — Zeitschrift fur medizinische Physik (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** This study investigates proton beam scattering systems with the aim of improving beam-shaping efficiency and increasing transmission within the radiation field for low-energy beams under intensity-limited conditions. These improvements are particularly relevant for delivering radiation fields at high dose rates for ocular proton therapy (OPT) and even at ultra-high dose rates for potential FLASH r…
+
+
+??? note "Abstract"
+    This study investigates proton beam scattering systems with the aim of improving beam-shaping efficiency and increasing transmission within the radiation field for low-energy beams under intensity-limited conditions. These improvements are particularly relevant for delivering radiation fields at high dose rates for ocular proton therapy (OPT) and even at ultra-high dose rates for potential FLASH radiotherapy applications. A systematic methodology was developed to design multiple-ring double-scattering systems that maximize transmission under a field-homogeneity constraint while controlling the outgoing kinetic energy after each ring. Although generally applicable, the framework was specifically motivated by clinical and experimental requirements for proton-based ocular therapy using a 70 MeV cyclotron at the Helmholtz-Zentrum Berlin für Materialien und Energie (HZB). A Python-based graphical user interface (GUI) was implemented to integrate a mathematical optimization model for two to four concentric rings that maximizes transmission under homogeneity constraints. The software incorporates energy degradation, range shifting, and the conversion of optimized scattering angles into physical dimensions. The mathematical optimization accurately reproduced the two-ring results reported by Takada (1994) and extended the approach to three- and four-ring configurations. The four-ring system achieved a transmission of 53±2% with a dose homogeneity of ±3%, corresponding to a dose rate of 77Gy/s at 100nA for a 30 mm field size, exceeding the threshold for FLASH conditions. Bragg-peak measurements and Monte Carlo simulations using TOPAS showed a distal penumbra below 1 mm and a water range agreement within 0.1 mm of predictions, supporting the adopted energy degradation methodology. The developed GUI provides a practical tool for designing and refining double-scattering systems, significantly improving transmission compared with single-scattering approaches. The four-ring design increased beam transmission more than tenfold compared with single scattering, making it a promising candidate for high-dose-rate irradiation in small fields.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42608218/) · [DOI](https://doi.org/10.1016/j.zemedi.2026.07.006)
+
 
 ---
 
@@ -63,6 +82,63 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
+### Development and characterization of a 1-2 MeV electron beam platform with magnetic focusing and steering for shallow high-dose-rate irradiation.
+
+*Huang J, Hu S, Mo C, Ye Y, Zhang T, Dai Z et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Objective.To develop and experimentally characterize a 1-2 MeV electron linac platform with magnetic focusing and steering for superficial FLASH-compatible irradiation and electronically tunable spatial dose modulation.Approach.A preclinical 1-2 MeV electron linac was equipped with a solenoid for magnetic focusing and nested saddle-type scanning magnets for two-dimensional beam steering. Three-dim…
+
+
+??? note "Abstract"
+    Objective.To develop and experimentally characterize a 1-2 MeV electron linac platform with magnetic focusing and steering for superficial FLASH-compatible irradiation and electronically tunable spatial dose modulation.Approach.A preclinical 1-2 MeV electron linac was equipped with a solenoid for magnetic focusing and nested saddle-type scanning magnets for two-dimensional beam steering. Three-dimensional magnetic-field maps were computed in Opera and imported into a TOPAS Monte Carlo (MC) model incorporating the accelerator geometry, titanium exit foil, air gap, and water phantom for dose scoring. Dose distributions were measured using Gafchromic EBT-XD film. Film measurements of spot size, lateral dose profiles, and percentage depth-dose curves were compared with MC simulations. Multi-spot dose patterns were generated by varying scanning-magnet field strength, and peak spacing, peak-to-valley dose ratio, and dose rate as a function of repetition frequency were quantified.Main Results.In the solenoid-focused configuration, the beam size at the 80% isodose diameter was reduced from approximately 6 cm without solenoid focusing to 2 cm, and the measured dose rate reached 125 Gy s-1at 50 Hz. The measured full-width-at-half-maximum of the focused beam was 1.26 cm in theXdirection and 1.39 cm in theYdirection, and the TOPAS model agreed with EBT-XD film measurements to within about 4% in the high-dose region. Magnetic steering generated tunable three-spot shallow dose distributions with peak-to-peak spacing up to approximately 2.9 cm and a maximum peak-to-valley dose ratio of 28.0. By superposition of adjacent scanned beam positions, the system also produced a broadened shallow field with a 95%Dmaxflat-top width of 2.46 cm.Significance.The results demonstrate that a compact low-energy electron linac can provide a useful platform for studying FLASH-compatible superficial irradiation and electronically controlled spatial dose modulation in a regime where shallow dose confinement is advantageous.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42285143/) · [DOI](https://doi.org/10.1088/1361-6560/ae7cd3)
+
+
+---
+
+### Development and validation of a novel pulse optimization and beam control system for conventional and ultra high dose-per-pulse (FLASH) irradiation.
+
+*Connell L, Esplen N, Lim R, Baikalov A, Coupey N, Nguyen C et al.* — Medical physics (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** FLASH radiotherapy requires precise control and minimal variation of dose per pulse (DPP). However, clinical linear accelerators and their beam control systems are designed to ensure accuracy of the temporally integrated dose and do not control for transient variations in DPP during radiation delivery.
+
+
+??? note "Abstract"
+    BACKGROUND: FLASH radiotherapy requires precise control and minimal variation of dose per pulse (DPP). However, clinical linear accelerators and their beam control systems are designed to ensure accuracy of the temporally integrated dose and do not control for transient variations in DPP during radiation delivery. PURPOSE: We introduce a robust external beam control system (EBCS) with radiofrequency optimization and beam monitoring that addresses this need. This system was designed to precisely control the output of FLASH-capable electron linear accelerators within a clinical range of energies (6-20 MeV) and to monitor the output by using a beam current transformer. METHODS: An EBCS, using either an internal transmission ion chamber or a multistage beam current transformer, was implemented to support delivery of conventional DPPs and ultrahigh DPPs (UH-DPPs) on a modified clinical linear accelerator. The EBCS was interfaced with the accelerator&#x27;s gating system, and beam output and stability were maximized by optimizing the accelerating radiofrequency power efficiency through voltage inputs (VEXT) to the automatic frequency control interface while the beam was held. The EBCS performance was tested by characterizing the beam-off latency; beam output stability within and between pulsed deliveries; sensitivity to deviations from optimization solutions; and beam current transformer linearity from conventional DPPs to UH-DPPs. RESULTS: The measured beam-off latency of the system was 56.7 µs (± 4.9 µs). The radiofrequency optimization was shown to reduce the DPP variability within the first five pulses from 26.7% to less than 0.5% for both conventional DPPs and UH-DPPs. Total output was reduced by up to 20% when VEXT voltage inputs varied from the optimal solution by more than ± 10%. CONCLUSION: We developed an EBCS capable of delivering reproducible doses and implemented it on a modified clinical linear accelerator. Through real time readout of the beam current transformer signal and automatic radiofrequency optimization, the uncertainty in DPP within and between each delivery was reduced to &lt; 0.5%, offering unprecedented precision and accuracy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42284309/) · [DOI](https://doi.org/10.1002/mp.70522) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13262809/)
+
+
+---
+
+### Lung ion-fluoroscopy Guided Hadron therapy: LIGHT concept and proof-of-principle.
+
+*Shaikh S, Simard M, Hetzel R, Dick M, Weber U, Baumann KS et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Objective.This work provides proof-of-concept for the use of real-time ion imaging and treatment gating for lung cancer radiotherapy using 3D range modulators (3DRM).Approach.The accuracy of a fully real-time, plastic scintillator-based portal ion radiography detector was determined by tracking a 3 cm spherical plastic tumour undergoing breathing-style motion in a mock lung geometry. The ability t…
+
+
+??? note "Abstract"
+    Objective.This work provides proof-of-concept for the use of real-time ion imaging and treatment gating for lung cancer radiotherapy using 3D range modulators (3DRM).Approach.The accuracy of a fully real-time, plastic scintillator-based portal ion radiography detector was determined by tracking a 3 cm spherical plastic tumour undergoing breathing-style motion in a mock lung geometry. The ability to gate the delivered treatment using a trigger from the ion radiography detector at the desired tumour position was investigated. Finally, an offline simulated study was performed to compare the dosimetric benefits of the advanced image guidance against the standard clinical motion mitigation practice of rescanning.Main Results.The ion radiography detector was shown to track tumour motion in a mock lung phantom setup to 0.1 mm accuracy. The imaging dose was found to be approximately 1/3 of comparable x-ray fluoroscopy methods. While dynamically driving in the 3DRM is not currently possible, preliminary measurements showed modulator positioning to be reproducible to 0.3%. A technical demonstration was provided showing a real-time switch from imaging to treatment using a trigger from the ion-imaging detector, with the mock tumour found in the expected position. The simulated dosimetric study showed that the tracking accuracy in an idealised scenario allows the tumour to be treated quasi-statically, with aD95%of 98% and 99.2% using passive and active treatment beam energy switching respectively.Significance.Lung Ion-fluoroscopy Guided Hadron Therapy (LIGHT) provides a promising approach for (a) mitigating tumour motion using a real-time, in-plane ion imaging device and (b) avoiding interplay effects with scanned beams by using a patient-specific 3D-range modulator to passively scatter a mono-energetic treatment beam. This technique also shows promise for future FLASH treatment delivery methods. Future work will fully determine the tracking performance and dosimetric benefits of LIGHT in more realistic clinical scenarios.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42246123/) · [DOI](https://doi.org/10.1088/1361-6560/ae788c) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13281394/)
+
+
+---
+
 ### Multiscale Radiobiological Assessment of Laser-Driven Very High Energy Electrons Versus Conventional Electrons.
 
 *Giaccaglia C, Bayart E, Dubail M, Varma C, Heinrich S, Gautier J et al.* — Advances in radiation oncology (2026)  
@@ -78,6 +154,44 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42183317/) · [DOI](https://doi.org/10.1016/j.adro.2026.102028) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13194617/)
+
+
+---
+
+### Noninvasive Reversible Software-Based Electron FLASH Irradiation Configuration of a Linear Accelerator in Clinical Use.
+
+*Melemenidis S, Chen D, Jensen C, Schulz JB, Surucu M, Yu AS et al.* — International journal of radiation oncology, biology, physics (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Configuring clinical linear accelerators (linacs) for ultra-high-dose-rate (UHDR) electron experiments typically requires invasive hardware manipulation and/or irreversible modifications, limiting broader implementation. This work reports a reversible and noninvasive UHDR electron configuration of a clinical TrueBeam linac that enables switching between preclinical UHDR and conventional (CONV) cli…
+
+
+??? note "Abstract"
+    BACKGROUND: Configuring clinical linear accelerators (linacs) for ultra-high-dose-rate (UHDR) electron experiments typically requires invasive hardware manipulation and/or irreversible modifications, limiting broader implementation. This work reports a reversible and noninvasive UHDR electron configuration of a clinical TrueBeam linac that enables switching between preclinical UHDR and conventional (CONV) clinical treatment modes through software settings, without accessing the linac interior. METHODS AND MATERIALS: Built-in service mode software was used to configure the UHDR mode with settings typical of a standard megavoltage photon beam. Using service mode, the photon target and monitor chambers were retracted. An unused low-energy electron scattering foil was loaded. An external AC current transformer for beam control and monitoring was mounted on the accessory tray, with an ionization chamber placed downstream in solid water to monitor exit dose. Dose profiles were measured for UHDR and CONV beams with radiochromic films for open field, in vivo, and in vitro setups. Dose per pulse was varied by adjusting the gun voltage and quantified. Day-to-day output variation was assessed to evaluate dose reproducibility. RESULTS: Percent depth-dose measurements confirmed similar energy between UHDR (9.2 and 12.6 MeV) and CONV electron beams (8.4 and 11.7 MeV), with matching profiles throughout the typical thickness of a mouse or cell culture media. Maximum dose per pulse reached 1.5 Gy/pulse and 0.7 Gy/pulse for in vivo and in vitro setups at 64 and 82 cm source-to-surface distances, respectively. Field flatness and symmetry were maintained between UHDR and CONV, supporting organ-specific in vivo irradiation and a maximum of 5 × 5-cm2 field for in vitro irradiation. Day-to-day output variation remained small, with both inter- and intra-animal coefficients of variation averaging &lt;3% for FLASH and &lt;1% for CONV. CONCLUSION: Accurate and reproducible UHDR electron delivery was demonstrated without invasive hardware manipulation, enabling preclinical FLASH research on a clinical linac.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42155735/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.05.010) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13309057/)
+
+
+---
+
+### Retrofitting a clinical pencil beam scanning proton therapy unit for 2D ultra-high dose rate scanning.
+
+*Dellepiane G, Colizzi I, Meer D, Psoroulas S, Schaefer R* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Purpose.This work aimed to demonstrate how existing clinical infrastructure can be adapted to enable ultra-high dose rate (UHDR) pencil beam scanning (PBS) for FLASH research. Leveraging available hardware and minimizing modifications, we extended the capabilities of PSI Gantry 1, previously used as a flexible UHDR fixed-beam delivery platform, by enabling true 2D PBS for UHDR small-field irradiat…
+
+
+??? note "Abstract"
+    Purpose.This work aimed to demonstrate how existing clinical infrastructure can be adapted to enable ultra-high dose rate (UHDR) pencil beam scanning (PBS) for FLASH research. Leveraging available hardware and minimizing modifications, we extended the capabilities of PSI Gantry 1, previously used as a flexible UHDR fixed-beam delivery platform, by enabling true 2D PBS for UHDR small-field irradiations through the addition of a second scanning direction and multiple gantry angles.Methods.A second (vertical) scanning direction was implemented by repurposing an existing steering magnet and integrating it into the control system. Inter-spot dead times were minimized through software optimizations that synchronized control processes and magnet settling times, optimizing the local average dose rate. A precise spot map acquisition process ensured accurate dose delivery across different gantry angles. Additionally, a1kHzlogging system was introduced, enabling the reconstruction of lateral dose and dose-rate distributions from recorded beam parameters.Results.Gantry 1 was successfully commissioned for 2D scanning of small fields (100×24mm2) at gantry angles from 0∘(beam towards floor) to-120∘. Dose-uniform field deliveries were achieved at local average dose rates up to75Gys-1. The reconstructed lateral dose distributions were in good agreement with CCD measurements regarding the90%iso-dose contour, while the dose-rate distributions were validated againstmicro-Diamonddetector measurements, confirming the precision of the recalculated dose rates.Conclusions.By repurposing existing hardware and optimizing beam delivery, Gantry 1 has been upgraded to a true 2D PBS UHDR scanning system, capable of delivering fields at local average dose rates exceeding70Gys-1. The high-frequency logging system enables future reanalysis of data as the mechanisms underlying the FLASH effect become clearer. This transformation makes Gantry 1 a versatile platform for preclinical research and small animal irradiation, advancing the investigation of the FLASH effect.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42128001/) · [DOI](https://doi.org/10.1088/1361-6560/ae6d6b)
 
 
 ---
@@ -120,21 +234,21 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### A beam model and Boltzmann solver for radiotherapy treatment planning of superficial brain metastases using a scanned electron beam at ultra-high (FLASH) dose rate.
+### Emerging FLASH therapy platforms for stereotactic radiosurgery and body radiotherapy.
 
-*Bedford J, Gross M, Riemer F, Amirkhanyan Z, Stephan F, Oelfke U* — Physics in medicine and biology (2026)  
+*Chen D, Schulz JB, Melemenidis S, Skinner L, Xing L, Loo BW et al.* — Journal of radiosurgery and SBRT (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
-**TL;DR.** Objective.Contemporary particle accelerators allow for the generation of a narrow pencil beam of electrons which can be scanned to deliver a clinical dose distribution at an ultra-high (FLASH) dose rate. This study develops a radiotherapy beam model and discrete ordinates Boltzmann solver for such an accelerator and then applies the method to treatment planning for superficial brain metastases.App…
+**TL;DR.** The integration of FLASH radiotherapy with stereotactic techniques presents a promising avenue for improving therapeutic outcomes through normal tissue sparing while maintaining tumor control. However, significant technical challenges must be addressed for successful clinical implementation.
 
 
 ??? note "Abstract"
-    Objective.Contemporary particle accelerators allow for the generation of a narrow pencil beam of electrons which can be scanned to deliver a clinical dose distribution at an ultra-high (FLASH) dose rate. This study develops a radiotherapy beam model and discrete ordinates Boltzmann solver for such an accelerator and then applies the method to treatment planning for superficial brain metastases.Approach.Beam profiles for the quasi-monoenergetic 17.5 MeV electron beam from the Photo Injector Test facility at Deutsches Elektronen-Synchrotron laboratory in Zeuthen (PITZ) were measured at various depths in a water tank using radiochromic film. The incident radiation was modelled as a Gaussian source and the electron distribution in the patient was modelled using classical observations with continuous slowing down approximation (CSDA). This distribution then formed the fixed source component in a discrete ordinates Boltzmann solver. The dose calculation method was then applied to a retrospective study of six patients with superficial brain metastases. The dose due to scanned electrons was compared with that from a single passively scattered proton beam at ultra-high dose rate (UHDR), a proton arc, and a robotic photon treatment.Main results.The calculated dose distribution in a homogeneous water phantom agreed with the measured data to within the 3% experimental uncertainty at all depths. Scanned electron beams were able to provide dose distributions for superficial brain metastases that had a better conformity index than either passively scattered protons or robotic photon treatment (1.02 ± 0.13 versus 1.54 ± 0.13 and 1.35 ± 0.26 respectively; median ± hemi-range; p &lt; 0.05). Brain V12Gyand skin dose were acceptable for all treatments.Significance.The dose calculation provides a fast and efficient method for inverse planning in the potential clinical application of a scanned electron beam at UHDR. The results show that such an approach could be useful in the treatment of superficial target volumes.
+    The integration of FLASH radiotherapy with stereotactic techniques presents a promising avenue for improving therapeutic outcomes through normal tissue sparing while maintaining tumor control. However, significant technical challenges must be addressed for successful clinical implementation. This review evaluates emerging platforms and technical requirements for combining FLASH delivery with stereotactic radiosurgery (SRS) and stereotactic body radiotherapy (SBRT). While electrons have enabled extensive preclinical FLASH research, their limited penetration depth makes them unsuitable for most stereotactic applications. Photon-based systems face significant engineering challenges in achieving both FLASH dose rates (&gt;40 Gy/s) and the beam characteristics necessary for stereotactic delivery, particularly regarding heat management and multi-angle treatment capabilities. Proton and heavy ion systems offer advantages through the Bragg peak but require substantial development to overcome technical limitations in beam delivery and scanning speeds. We evaluate emerging platforms including novel accelerator designs, beam monitoring systems, and delivery techniques aimed at clinical translation. Critical technical requirements are discussed, including specialized dosimetry systems capable of ultra-high dose rate measurements, quality assurance protocols, treatment planning systems that optimize both spatial and temporal aspects of delivery, and novel image guidance strategies.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42009057/) · [DOI](https://doi.org/10.1088/1361-6560/ae6225) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13145812/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42004842/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13007232/)
 
 
 ---
@@ -196,6 +310,44 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
+### Monte Carlo and film dosimetry study of collimator effects on penumbra and out-of-field dose for very high-energy electrons.
+
+*Fischer J, Gilardi A, Malyzhenkov A, Korysko P, Hart A, Rieker V et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Objective.Very high-energy electrons (VHEEs) offer deep penetration, low scattering, and the potential for ultra-high dose rate delivery, making them promising candidates for future radiotherapy. However, the collimation of VHEE beams to achieve sharp beam penumbra remains poorly characterized.
+
+
+??? note "Abstract"
+    Objective.Very high-energy electrons (VHEEs) offer deep penetration, low scattering, and the potential for ultra-high dose rate delivery, making them promising candidates for future radiotherapy. However, the collimation of VHEE beams to achieve sharp beam penumbra remains poorly characterized. This study experimentally and computationally investigates how collimator material, thickness, and beam characteristics affect penumbra and out-of-field dose for VHEEs and establishes an initial foundation for the design of clinically feasible VHEE collimators.Approach.Tungsten, lead, and brass 5 mm diameter collimators were evaluated using film dosimetry with a 200 MeV electron beam delivered at the CERN Linear Electron Accelerator for Research and validated through Monte Carlo (MC) simulations. Experimental measurements of penumbra and out-of-field dose were compared with simulations that systematically varied material (tungsten, lead, brass), thickness (20-80 mm), and beam energy (150-250 MeV). Additional sensitivity tests quantified the impact of beam instability on field shaping.Main results.For measurements in air, penumbrae increased linearly with distance from the collimator and was smallest for tungsten. Out-of-field dose decreased with increasing thickness, falling below 0.5% for a 40 mm thick tungsten collimator. Brass exhibited the highest out-of-field dose (up to 4.8%) and broadest penumbra. MC models reproduced experimental trends within 5% for penumbrae but underestimated out-of-field dose, particularly for brass. The simulations indicated that VHEE beam divergence, beam size and collimator misalignment strongly influence beam penumbra and out-of-field dose.Significance.The presented work demonstrates that collimator material and geometry play a critical role in defining VHEE beam quality. Tungsten provided optimal attenuation and sharpness compared to brass and lead. These results establish quantitative benchmarks for VHEE collimator design and emphasize the importance of beam stability.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41985517/) · [DOI](https://doi.org/10.1088/1361-6560/ae6018)
+
+
+---
+
+### Enable preclinical, high-precision image-guided radiotherapy research with a stand-alone small animal IGRT system.
+
+*Deng W, Han D, Byrne KE, Bhandary B, Jiang K, Poirier YP et al.* — Medical physics (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Many preclinical studies involving novel particle radiotherapy techniques have been conducted without precise image guidance due to the lack of an image-guided small animal radiotherapy research platform for them, such as ultra-high dose rate radiation (UHDR), mini-beam, and grid therapy. This limitation restricts the complexity of research questions that can be effectively addressed.
+
+
+??? note "Abstract"
+    BACKGROUND: Many preclinical studies involving novel particle radiotherapy techniques have been conducted without precise image guidance due to the lack of an image-guided small animal radiotherapy research platform for them, such as ultra-high dose rate radiation (UHDR), mini-beam, and grid therapy. This limitation restricts the complexity of research questions that can be effectively addressed. PURPOSE: We developed a workflow to utilize 3D imaging on a Small Animal Radiation Research Platform (SARRP) for precise targeting of internal regions in small animals with a separated treatment beam. METHODS: Our approach mimics the workflow of patient treatment to decouple the imaging process from the radiation system. The SARRP cone-beam CT system was used to image and center the target. Alignment markers were then added to the top surface of the animal platform using the SARRP&#x27;s well-calibrated laser system, which was consequently transferred and aligned to a collimator in a clinical treatment room. Validation of the method was performed using BB targets within both a mouse phantom and a euthanized rat. The distance between the center of the radiation field and the BB was measured to determine the setup error for the entire procedure. The use of a collimator reduces the impact of setup uncertainty in the treatment room. RESULTS: Our approach achieved a setup accuracy of approximately 0.5 mm, ensuring the target was consistently positioned at the center of the collimated radiation field center after transferring from the SARRP system. This is comparable to the isocentricity of the SARRP itself (∼±0.5 mm). CONCLUSIONS: By decoupling the imaging and radiation systems while maintaining sub-millimeter setup accuracy, this workflow introduces flexibility for conducting high-precision, image-guided preclinical studies across different radiation modalities and techniques, for example, protons, electrons, neutrons, UHDR (FLASH), Small-Field-RT, etc. The workflow uses simple equipment and can be easily implemented by other centers.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41984545/) · [DOI](https://doi.org/10.1002/mp.70426) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13082439/)
+
+
+---
+
 ### A square-wave pulse generator with approximately 100 kV amplitude and kHz repetition rates.
 
 *Shen Y, Huang Z, Cai X, Su Z, Zhang H, Liu Y et al.* — The Review of scientific instruments (2026)  
@@ -215,40 +367,21 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### PEERing into the Future: Benchmarking the ANSTO Australian Synchrotron&#x27;s Very-High-Energy Electron Linac for Ultra-High Dose-Rate, In Vivo FLASH Radiotherapy Research.
+### A fully 3D-printed contoured double passive scattering system for ultra-high-dose-rate irradiations.
 
-*Cayley J, Engels E, Charles T, Roughley K, Wegner M, Koschny S et al.* — Cancers (2026)  
+*Ferro A, Van der Wal E, Puspitasari-Kokko A, Lathouwers D, Hoogeman M, Sacchi R et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The PEER beamline at the ANSTO Australian Synchrotron has been developed to enable VHEE FLASH radiotherapy studies, both dosimetric and biological. Featuring a 100 MeV electron linac, it delivers single or multi-pulse irradiations consisting of 100 ps bunches with a 2 ns spacing, resulting in average dose-rates and instantaneous dose-rates as high as 108 Gy/s and 109 Gy/s, respectively.
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
-??? note "Abstract"
-    Background/Objectives: The PEER beamline at the ANSTO Australian Synchrotron has been developed to enable VHEE FLASH radiotherapy studies, both dosimetric and biological. Featuring a 100 MeV electron linac, it delivers single or multi-pulse irradiations consisting of 100 ps bunches with a 2 ns spacing, resulting in average dose-rates and instantaneous dose-rates as high as 108 Gy/s and 109 Gy/s, respectively. Much work has been conducted to realise a stable accelerator facility, complete with the tooling and diagnostics required to undertake such studies. However, to truly confirm its suitability required a successful biological benchmarking. Methods: Three cell lines were irradiated utilising real-time dosimetry to compare linear quadratic cell survival curves with other facilities. Also, mouse cadavers were transported and irradiated, mimicking live animals, to assess the feasibility and logistics of small animal experiments. Results: By comparing the trends of the linear quadratic model, evident in the α and β parameters, the PEER cell survival results were shown to be in agreement with VHEE results from the ARES beamline at DESY, Hamburg, Germany. Evident in the survival trends, VHEE produced more cell sparing in all cell lines compared to 2 Gy/s X-rays delivered on the IMBL, another beamline at the Australian Synchrotron. The results of the mouse cadaver irradiations showed that PEER can safely and efficiently irradiate small animals. Conclusions: The PEER beamline is shown to possess suitable capabilities, including real-time dosimetry, repeatable alignment, and linac diagnostics, rendering it suitable for future in vivo VHEE UHDR FLASH radiotherapy investigations.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41749893/) · [DOI](https://doi.org/10.3390/cancers18040640) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12939895/)
-
-
----
-
-### FLASH radiotherapy preserves systemic and tissue homeostasis while maintaining antitumor efficacy.
-
-*Furini G, Mota da Silva E, Usai A, Scabia G, Kusmic C, Faita F et al.* — BMC medicine (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Conventional radiotherapy (CONV-RT) is widely used for cancer treatment, but its efficacy is limited by toxicity to surrounding healthy tissues. Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising approach, maintaining tumor control while sparing normal tissues.
+**TL;DR.** Ultra-High Dose-Rate (UHDR) Proton Therapy is an area of active research due to its potential to target cancer cells while sparing healthy tissues. To deepen the knowledge of underlying biological mechanisms of FLASH effect, pre-clinical experiments are required, necessitating large uniform field achieving dose rates above 40 Gy/s.
 
 
 ??? note "Abstract"
-    BACKGROUND: Conventional radiotherapy (CONV-RT) is widely used for cancer treatment, but its efficacy is limited by toxicity to surrounding healthy tissues. Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising approach, maintaining tumor control while sparing normal tissues. Melanoma is highly radioresistant, and deep-seated lesions expose skin and muscle to radiation, causing long-term fibrosis, stiffness, and loss of elasticity. The aim of this study is to compare the efficacy and collateral effects of CONV-RT and FLASH-RT, using melanoma as a benchmark for tumor response and skin-muscle as a model for normal tissue toxicity, and to investigate the underlying molecular and systemic mechanisms. METHODS: A novel linear accelerator (LINAC) delivering low-energy electrons at ultra-high dose rate via a triode gun with precise tissue targeting and dose delivery was used. CONV-RT and FLASH-RT were administered to a syngeneic melanoma mouse model. Tumor growth, skin and muscle integrity, transcriptional changes, and systemic homeostasis were analyzed in tumor-bearing and naïve mice. RESULTS: Both modalities achieved comparable tumor suppression. CONV-RT induced persistent skin damage, dermal fibrosis, muscle dysfunction, and systemic inflammatory-metabolic alterations, whereas FLASH-RT largely preserved tissue architecture and systemic balance. Bulk RNA sequencing revealed minimal transcriptional disruption after FLASH-RT, while CONV-RT triggered thousands of differentially expressed genes, including pathways related to fibrosis, inflammation, cell death in skin, and muscle remodeling, function, and the unfolded protein response. Histological and ultrastructural analyses confirmed reduced immune infiltration and preserved tissue structure following FLASH-RT. CONCLUSIONS: FLASH-RT provides effective tumor control while largely preserving normal tissues. CONV-RT and FLASH-RT elicit substantially different biological responses, suggesting the involvement of upstream modulators that vary depending on the dose rate.
+    Ultra-High Dose-Rate (UHDR) Proton Therapy is an area of active research due to its potential to target cancer cells while sparing healthy tissues. To deepen the knowledge of underlying biological mechanisms of FLASH effect, pre-clinical experiments are required, necessitating large uniform field achieving dose rates above 40 Gy/s. To achieve this, in the Research &amp; Development (R&amp;D) fixed horizontal proton beam line of HollandPTC, a fully 3D printed contoured passive scattering system has been developed. This system is designed to shape a 250 MeV proton beam into a suitable configuration for pre-clinical radiobiological experiments, achieving the necessary dose rates and uniform field distribution. The beamline configuration was initially modelled using the Monte Carlo-based Tool for Particle Therapy Simulation (TOPAS). Subsequently, the contoured passive scattering system was optimized through simulations to generate a sufficiently uniform field for future radiobiological experiments. To validate simulations, the system was fabricated using advanced 3D printing technology. A tungsten-heavy filament blend, consisting of approximately 75% tungsten by mass, was employed in a fused deposition modelling (FDM) process. Simulations were validated against experimental data. The measured dose distributions demonstrated a lateral field uniformity exceeding 95%, corresponding to a dose homogeneity within ± 3% over a field diameter of 2.8 cm. Dose rates above 40 Gy/s were achieved under experimental conditions, with measured values reaching up to approximately 60 Gy/s at the beam entrance, and 100 Gy/s within the Spread-Out Bragg Peak (SOBP). These results confirm the system&#x27;s design and performance, thus opening multiple possibilities for UHDR radiobiological experiments.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41742130/) · [DOI](https://doi.org/10.1186/s12916-026-04724-z) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13081300/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41855699/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.105770)
 
 
 ---

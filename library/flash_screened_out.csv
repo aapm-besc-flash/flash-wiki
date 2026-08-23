@@ -1,5 +1,6 @@
 pmid,year,title,journal,screen_reason,url
-42595062,2026,Light-Induced Structural Rearrangements of Axitinib and Their Role in Phototoxic Responses.,Free radical biology & medicine,no ultra-high-dose-rate signature (rad signal=0),https://pubmed.ncbi.nlm.nih.gov/42595062/
+42613851,2026,Impact of millimeter-scale target motion on the precision of spatially fractionated radiation therapy using proton minibeams.,Medical physics,"spatially fractionated RT, not UHDR: spatially fractionat",https://pubmed.ncbi.nlm.nih.gov/42613851/
+42595062,2026,Light-induced structural rearrangements of axitinib and their role in phototoxic responses.,Free radical biology & medicine,no ultra-high-dose-rate signature (rad signal=0),https://pubmed.ncbi.nlm.nih.gov/42595062/
 42547911,2026,A multidisciplinary experimental and methodological investigation of electron and proton minibeams in the framework of the INFN MIRO project.,Medical physics,"spatially fractionated RT, not UHDR: minibeam",https://pubmed.ncbi.nlm.nih.gov/42547911/
 42542970,2026,Treatment of Hot Flashes in Men With Prostate Cancer Undergoing Androgen Deprivation Therapy.,The Prostate,off-topic sense of 'flash': hot flash,https://pubmed.ncbi.nlm.nih.gov/42542970/
 42489217,2026,Flash Production of High-Purity V3.5+ Electrolyte via Electron Beam-Induced Radiolysis Under Ambient Conditions.,Angewandte Chemie (International ed. in English),off-topic sense of 'flash': vanadium electroly,https://pubmed.ncbi.nlm.nih.gov/42489217/

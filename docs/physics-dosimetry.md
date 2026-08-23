@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*259 records. Newest first.*
+*253 records. Newest first.*
 
 ---
 
@@ -59,25 +59,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42525493/) · [DOI](https://doi.org/10.1002/mp.70556) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13420986/)
-
-
----
-
-### Commissioning and Validation of a Synchrocyclotron - Based Ultra-High-Dose-Rate Beamline for FLASH.
-
-*Lin Y, Setianegara J, Wang A, Gerard N, Nys J, Labarbe R et al.* — International journal of particle therapy (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** FLASH radiotherapy delivers ultra-high dose rate radiation (&gt;40 Gy/s) has shown promise in reducing normal tissue toxicity while maintaining tumor control. IBA&#x27;s single-room proton system, equipped with S2C2 superconducting synchrocyclotron accelerator, has recently demonstrated to achieve UHDR delivery.
-
-
-??? note "Abstract"
-    PURPOSE: FLASH radiotherapy delivers ultra-high dose rate radiation (&gt;40 Gy/s) has shown promise in reducing normal tissue toxicity while maintaining tumor control. IBA&#x27;s single-room proton system, equipped with S2C2 superconducting synchrocyclotron accelerator, has recently demonstrated to achieve UHDR delivery. Integrating the UHDR beam line in the treatment planning system (TPS) is crucial for accurate dose calculation in preclinical study, optimization of the 2D dose profile as well as paving the way for further accessory development for spread-out Bragg peak FLASH. This study aims to commission and validate a synchrocyclotron-based pencil beam scanning UHDR proton beamline on the IBA ProteusONE system in RayStation TPS. The goal is to establish a framework for TPS modeling and validation, facilitating preclinical FLASH radiotherapy studies. METHODS: The transmission UHDR beamline using scanning proton beam energy of 228 MeV was characterized at gantry 0° using comprehensive point dose and 2D lateral profiles measurements. The beam model was developed in RayStation, incorporating key parameters such as virtual source position, spot size, integrated depth dose (IDD), and absolute dose calibration. Extensive validations were conducted using ionization chambers, film dosimetry, and 2D scintillation detectors, with gamma analysis performed to assess the accuracy of the TPS model with open field and field in the presence of brass apertures. RESULTS: The UHDR beamline achieved ultra-high dose rates exceeding 40 Gy/s (average dose rate for a 2.5 x 2.5 cm field) with consistent dose output validated across multiple detectors. The nozzle current was measured to be linear with respect to the requested MU in the range of 45 to 126 nA. The RayStation beam model demonstrated excellent agreement with experimental measurements, achieving less than 2.5% deviation for all point dose measurements. For 2D profile measurements, gamma passing rates &gt;95% under 2%/2 mm criteria for all fields. The TPS allowed optimization of the spot pattern for UHDR FLASH beams aligned closely with clinical beam profiles, enabling accurate preclinical study comparisons. CONCLUSIONS: A synchrocyclotron-based UHDR beamline was successfully commissioned and validated through a reliable TPS model for transmission FLASH application. The results provide a foundation for preclinical FLASH-RT research and future clinical applications, demonstrating the feasibility of integrating FLASH-RT into existing proton therapy platforms. Future work will extend the commissioning to all gantry angles and explore spread-out Bragg peak FLASH delivery for improved dose conformality.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42502287/) · [DOI](https://doi.org/10.1016/j.ijpt.2026.101323) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13400413/)
 
 
 ---
@@ -158,59 +139,21 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Development and validation of a novel pulse optimization and beam control system for conventional and ultra high dose-per-pulse (FLASH) irradiation.
+### Volumetric FLASH dosimetryin vivousing real-time radiacoustic imaging.
 
-*Connell L, Esplen N, Lim R, Baikalov A, Coupey N, Nguyen C et al.* — Medical physics (2026)  
+*Bjegovic K, Whitmore L, Pandey PK, Sun L, Connell L, Xu Y et al.* — Physics in medicine and biology (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** FLASH radiotherapy requires precise control and minimal variation of dose per pulse (DPP). However, clinical linear accelerators and their beam control systems are designed to ensure accuracy of the temporally integrated dose and do not control for transient variations in DPP during radiation delivery.
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
 
 
-??? note "Abstract"
-    BACKGROUND: FLASH radiotherapy requires precise control and minimal variation of dose per pulse (DPP). However, clinical linear accelerators and their beam control systems are designed to ensure accuracy of the temporally integrated dose and do not control for transient variations in DPP during radiation delivery. PURPOSE: We introduce a robust external beam control system (EBCS) with radiofrequency optimization and beam monitoring that addresses this need. This system was designed to precisely control the output of FLASH-capable electron linear accelerators within a clinical range of energies (6-20 MeV) and to monitor the output by using a beam current transformer. METHODS: An EBCS, using either an internal transmission ion chamber or a multistage beam current transformer, was implemented to support delivery of conventional DPPs and ultrahigh DPPs (UH-DPPs) on a modified clinical linear accelerator. The EBCS was interfaced with the accelerator&#x27;s gating system, and beam output and stability were maximized by optimizing the accelerating radiofrequency power efficiency through voltage inputs (VEXT) to the automatic frequency control interface while the beam was held. The EBCS performance was tested by characterizing the beam-off latency; beam output stability within and between pulsed deliveries; sensitivity to deviations from optimization solutions; and beam current transformer linearity from conventional DPPs to UH-DPPs. RESULTS: The measured beam-off latency of the system was 56.7 µs (± 4.9 µs). The radiofrequency optimization was shown to reduce the DPP variability within the first five pulses from 26.7% to less than 0.5% for both conventional DPPs and UH-DPPs. Total output was reduced by up to 20% when VEXT voltage inputs varied from the optimal solution by more than ± 10%. CONCLUSION: We developed an EBCS capable of delivering reproducible doses and implemented it on a modified clinical linear accelerator. Through real time readout of the beam current transformer signal and automatic radiofrequency optimization, the uncertainty in DPP within and between each delivery was reduced to &lt; 0.5%, offering unprecedented precision and accuracy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42284309/) · [DOI](https://doi.org/10.1002/mp.70522) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13262809/)
-
-
----
-
-### Lung ion-fluoroscopy Guided Hadron therapy: LIGHT concept and proof-of-principle.
-
-*Shaikh S, Simard M, Hetzel R, Dick M, Weber U, Baumann KS et al.* — Physics in medicine and biology (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Objective.This work provides proof-of-concept for the use of real-time ion imaging and treatment gating for lung cancer radiotherapy using 3D range modulators (3DRM).Approach.The accuracy of a fully real-time, plastic scintillator-based portal ion radiography detector was determined by tracking a 3 cm spherical plastic tumour undergoing breathing-style motion in a mock lung geometry. The ability t…
+**TL;DR.** Objective.The main goal of this research is to verify the spatial fidelity of radiacoustic imaging (RAI) as a quantitative dosimetric monitoring tool for FLASH radiotherapy (FLASH-RT)in vivo. FLASH-RT delivers therapeutic radiation at ultra-high instantaneous dose rates (&gt;106Gy s-1), offering substantial reductions in normal tissue toxicity while maintaining tumor control.
 
 
 ??? note "Abstract"
-    Objective.This work provides proof-of-concept for the use of real-time ion imaging and treatment gating for lung cancer radiotherapy using 3D range modulators (3DRM).Approach.The accuracy of a fully real-time, plastic scintillator-based portal ion radiography detector was determined by tracking a 3 cm spherical plastic tumour undergoing breathing-style motion in a mock lung geometry. The ability to gate the delivered treatment using a trigger from the ion radiography detector at the desired tumour position was investigated. Finally, an offline simulated study was performed to compare the dosimetric benefits of the advanced image guidance against the standard clinical motion mitigation practice of rescanning.Main Results.The ion radiography detector was shown to track tumour motion in a mock lung phantom setup to 0.1 mm accuracy. The imaging dose was found to be approximately 1/3 of comparable x-ray fluoroscopy methods. While dynamically driving in the 3DRM is not currently possible, preliminary measurements showed modulator positioning to be reproducible to 0.3%. A technical demonstration was provided showing a real-time switch from imaging to treatment using a trigger from the ion-imaging detector, with the mock tumour found in the expected position. The simulated dosimetric study showed that the tracking accuracy in an idealised scenario allows the tumour to be treated quasi-statically, with aD95%of 98% and 99.2% using passive and active treatment beam energy switching respectively.Significance.Lung Ion-fluoroscopy Guided Hadron Therapy (LIGHT) provides a promising approach for (a) mitigating tumour motion using a real-time, in-plane ion imaging device and (b) avoiding interplay effects with scanned beams by using a patient-specific 3D-range modulator to passively scatter a mono-energetic treatment beam. This technique also shows promise for future FLASH treatment delivery methods. Future work will fully determine the tracking performance and dosimetric benefits of LIGHT in more realistic clinical scenarios.
+    Objective.The main goal of this research is to verify the spatial fidelity of radiacoustic imaging (RAI) as a quantitative dosimetric monitoring tool for FLASH radiotherapy (FLASH-RT)in vivo. FLASH-RT delivers therapeutic radiation at ultra-high instantaneous dose rates (&gt;106Gy s-1), offering substantial reductions in normal tissue toxicity while maintaining tumor control. However, clinical translation remains limited by the absence of real-time,in vivodosimetry systems capable of resolving dose delivery at microsecond timescales.Approach.Here, we present an RAI platform that enables volumetric, single-pulse mapping of radiation dose deposition during FLASH-RTin vivo. The system utilizes a 16 × 16 ultrasound transducer matrix array with a model-based reconstruction algorithm to generate quantitative, three-dimensional dose maps with single pulse-level temporal resolution.Main results.In both water phantoms andin vivomurine models, RAI demonstrates high concordance with film dosimetry and TOPAS Monte Carlo simulations (3%/3 mm gamma index pass rates greater than 90% for small fields).Significance.This work establishes RAI as a viable technology for real-time, quantitative electron FLASH dosimetryin vivofor the first time, with the potential to support adaptive delivery, improve treatment safety, and facilitate the clinical translation of FLASH-RT.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42246123/) · [DOI](https://doi.org/10.1088/1361-6560/ae788c) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13281394/)
-
-
----
-
-### Noninvasive Reversible Software-Based Electron FLASH Irradiation Configuration of a Linear Accelerator in Clinical Use.
-
-*Melemenidis S, Chen D, Jensen C, Schulz JB, Surucu M, Yu AS et al.* — International journal of radiation oncology, biology, physics (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Configuring clinical linear accelerators (linacs) for ultra-high-dose-rate (UHDR) electron experiments typically requires invasive hardware manipulation and/or irreversible modifications, limiting broader implementation. This work reports a reversible and noninvasive UHDR electron configuration of a clinical TrueBeam linac that enables switching between preclinical UHDR and conventional (CONV) cli…
-
-
-??? note "Abstract"
-    BACKGROUND: Configuring clinical linear accelerators (linacs) for ultra-high-dose-rate (UHDR) electron experiments typically requires invasive hardware manipulation and/or irreversible modifications, limiting broader implementation. This work reports a reversible and noninvasive UHDR electron configuration of a clinical TrueBeam linac that enables switching between preclinical UHDR and conventional (CONV) clinical treatment modes through software settings, without accessing the linac interior. METHODS AND MATERIALS: Built-in service mode software was used to configure the UHDR mode with settings typical of a standard megavoltage photon beam. Using service mode, the photon target and monitor chambers were retracted. An unused low-energy electron scattering foil was loaded. An external AC current transformer for beam control and monitoring was mounted on the accessory tray, with an ionization chamber placed downstream in solid water to monitor exit dose. Dose profiles were measured for UHDR and CONV beams with radiochromic films for open field, in vivo, and in vitro setups. Dose per pulse was varied by adjusting the gun voltage and quantified. Day-to-day output variation was assessed to evaluate dose reproducibility. RESULTS: Percent depth-dose measurements confirmed similar energy between UHDR (9.2 and 12.6 MeV) and CONV electron beams (8.4 and 11.7 MeV), with matching profiles throughout the typical thickness of a mouse or cell culture media. Maximum dose per pulse reached 1.5 Gy/pulse and 0.7 Gy/pulse for in vivo and in vitro setups at 64 and 82 cm source-to-surface distances, respectively. Field flatness and symmetry were maintained between UHDR and CONV, supporting organ-specific in vivo irradiation and a maximum of 5 × 5-cm2 field for in vitro irradiation. Day-to-day output variation remained small, with both inter- and intra-animal coefficients of variation averaging &lt;3% for FLASH and &lt;1% for CONV. CONCLUSION: Accurate and reproducible UHDR electron delivery was demonstrated without invasive hardware manipulation, enabling preclinical FLASH research on a clinical linac.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42155735/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.05.010) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13309057/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42302829/) · [DOI](https://doi.org/10.1088/1361-6560/ae7e38) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13475674/)
 
 
 ---
@@ -230,25 +173,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42128006/) · [DOI](https://doi.org/10.1088/1361-6560/ae6d6e)
-
-
----
-
-### Retrofitting a clinical pencil beam scanning proton therapy unit for 2D ultra-high dose rate scanning.
-
-*Dellepiane G, Colizzi I, Meer D, Psoroulas S, Schaefer R* — Physics in medicine and biology (2026)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Purpose.This work aimed to demonstrate how existing clinical infrastructure can be adapted to enable ultra-high dose rate (UHDR) pencil beam scanning (PBS) for FLASH research. Leveraging available hardware and minimizing modifications, we extended the capabilities of PSI Gantry 1, previously used as a flexible UHDR fixed-beam delivery platform, by enabling true 2D PBS for UHDR small-field irradiat…
-
-
-??? note "Abstract"
-    Purpose.This work aimed to demonstrate how existing clinical infrastructure can be adapted to enable ultra-high dose rate (UHDR) pencil beam scanning (PBS) for FLASH research. Leveraging available hardware and minimizing modifications, we extended the capabilities of PSI Gantry 1, previously used as a flexible UHDR fixed-beam delivery platform, by enabling true 2D PBS for UHDR small-field irradiations through the addition of a second scanning direction and multiple gantry angles.Methods.A second (vertical) scanning direction was implemented by repurposing an existing steering magnet and integrating it into the control system. Inter-spot dead times were minimized through software optimizations that synchronized control processes and magnet settling times, optimizing the local average dose rate. A precise spot map acquisition process ensured accurate dose delivery across different gantry angles. Additionally, a1kHzlogging system was introduced, enabling the reconstruction of lateral dose and dose-rate distributions from recorded beam parameters.Results.Gantry 1 was successfully commissioned for 2D scanning of small fields (100×24mm2) at gantry angles from 0∘(beam towards floor) to-120∘. Dose-uniform field deliveries were achieved at local average dose rates up to75Gys-1. The reconstructed lateral dose distributions were in good agreement with CCD measurements regarding the90%iso-dose contour, while the dose-rate distributions were validated againstmicro-Diamonddetector measurements, confirming the precision of the recalculated dose rates.Conclusions.By repurposing existing hardware and optimizing beam delivery, Gantry 1 has been upgraded to a true 2D PBS UHDR scanning system, capable of delivering fields at local average dose rates exceeding70Gys-1. The high-frequency logging system enables future reanalysis of data as the mechanisms underlying the FLASH effect become clearer. This transformation makes Gantry 1 a versatile platform for preclinical research and small animal irradiation, advancing the investigation of the FLASH effect.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42128001/) · [DOI](https://doi.org/10.1088/1361-6560/ae6d6b)
 
 
 ---
@@ -287,25 +211,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42108226/) · [DOI](https://doi.org/10.1002/mp.70464) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13158171/)
-
-
----
-
-### Use of apertures in single-energy pristine Bragg peak FLASH radiotherapy.
-
-*Ma Y, Selvaraj B, Zhao X, Cheng C, Chen CC, Diao L et al.* — Journal of applied clinical medical physics (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Proton single-energy Bragg peak (SEBP) FLASH delivery can achieve dosimetric distributions equivalent to conventional intensity-modulated proton therapy (IMPT). However, range-pulling and field compensator devices enlarge the proton pencil beam spot size, increasing lateral penumbra and compromising dose conformality and high-dose-rate distribution.
-
-
-??? note "Abstract"
-    BACKGROUND: Proton single-energy Bragg peak (SEBP) FLASH delivery can achieve dosimetric distributions equivalent to conventional intensity-modulated proton therapy (IMPT). However, range-pulling and field compensator devices enlarge the proton pencil beam spot size, increasing lateral penumbra and compromising dose conformality and high-dose-rate distribution. Apertures are employed to mitigate these effects, enhancing dose metrics while preserving ultra-high dose rate performance. PURPOSE: To investigate the efficacy of apertures in sharpening lateral dose falloff and enhancing dose conformity in proton pencil beam scanning (PBS) Bragg peak (BP) FLASH radiotherapy (RT), addressing increased lateral dose spillage caused by universal range shifter (URS) and range compensator (RC) usage. METHODS: PBS Single-energy BP (SEBP) FLASH treatment plans with and without brass apertures were optimized using an in-house planning system. Dose and dose rate characteristics were simulated using MCSquare. Penumbra reduction was assessed in a water phantom for 3 and 5 cm square fields under varying pullback (10 cm, 20 cm. 30 cm) and air gap (5 cm, 10 cm, 15 cm) conditions. Aperture effects were evaluated at the entrance, midpoint, and BP positions. The rGBM cancer plan was optimized using SEBP with various dose thresholds (0, 2, and 5 Gy) applied to analyze dose and ultra-high dose rate (V40Gy(RBE)/s) performance. RESULTS: Use of aperture significantly reduced lateral penumbra across all spatial positions. The degree of penumbra reduction increased significantly with the increased pullback, and the reduction effect at the BP was generally comparable to that at the entrance. The 5 cm field generally showed greater penumbra reduction than the 3 cm field. In the rGBM case, apertures improved gross tumor volume (GTV) dose conformity and reduced organ-at-risk (OAR) exposure but decreased ultra-high dose rate coverage for both GTV and OARs. The ultra-high dose rate coverage of GTV was not affected by the dose threshold, while the ultra-high dose rate coverage of the brain increased with the increasing dose threshold. CONCLUSION: Apertures effectively reduce lateral penumbra and dose spalliage to OARs, improving target dose conformity in range shifter-based SEBP FLASH-RT. They also can reduce ultra-high dose-rate exposure to critical OARs in the low-dose region while maintaining the FLASH ratio in the high-dose region.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42050792/) · [DOI](https://doi.org/10.1002/acm2.70593) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13125415/)
 
 
 ---
@@ -382,25 +287,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42005725/) · [DOI](https://doi.org/10.1016/j.phro.2026.100959) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13085076/)
-
-
----
-
-### Experimental data-driven design of 3D range modulators for proton conformal FLASH applications.
-
-*Wang A, Setianegara J, Lin Y, Xiao P, Gerard N, Nys J et al.* — Medical physics (2026)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Proton ultra-high-dose-rate (FLASH) radiotherapy has shown great potential in proton therapy owing to its superior sparing of organs at risk. Current FLASH-capable cyclotrons are restricted to single-energy deliveries and hence, preclinical FLASH experiments have been performed with transmission beams.
-
-
-??? note "Abstract"
-    BACKGROUND: Proton ultra-high-dose-rate (FLASH) radiotherapy has shown great potential in proton therapy owing to its superior sparing of organs at risk. Current FLASH-capable cyclotrons are restricted to single-energy deliveries and hence, preclinical FLASH experiments have been performed with transmission beams. Recently, 3D range modulators (3D RMs) have been increasingly investigated to confer better dose conformality versus transmission beams. However, existing RM designs rely heavily on time-consuming and resource-intensive simulation-based iterations, posing substantial barriers to clinical applicability. PURPOSE: This work developed and experimentally validated a data-driven design method of 3D RMs for proton conformal FLASH. METHODS: Three 3D RMs corresponding to different target geometries were designed from an extensive base data library consisting of experimental proton spot profiles and IDDs through varying 3D RM material thicknesses from a FLASH-capable proton synchrocyclotron&#x27;s (IBA Proteus®ONE) beam model. Each RM was designed to create conformal dose distributions of varying geometries from a single-energy beam by creating spread-out-Bragg-peaks per spot. Expedient dose calculations were performed with a MATLAB-based simplified dose engine consisting of pencil beam algorithms. All RMs were 3D-printed with resin. All plans were experimentally delivered. 1D absolute dose measurements were performed with a plane-parallel ion chamber (PPC05), 2D profile measurements were performed with radiochromic films (EBT-XD) and an end-to-end test performed with a 2D ionization chamber array (MatriXX ONE) with absolute dose calibration. Compared with traditional simulation-based approaches, which often require several days to develop a reliable machine-specific model, the proposed data-driven framework enables model establishment using approximately one day of experimental measurements. RESULTS: Good dose conformities were achieved for all targets with the FLASH dose-rates achieved through all 3D RMs. Experimentally measured doses had gamma passing rates above 95% at 2%/2 mm showing good dose calculation agreements with our expedient data-driven approach. CONCLUSIONS: This study experimentally validated an expedient data-driven design method of 3D RMs, demonstrating the feasibility of a non-simulation-based approach for 3D RM design and providing a practical foundation for clinical translation of proton conformal FLASH.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41984546/) · [DOI](https://doi.org/10.1002/mp.70436)
 
 
 ---
