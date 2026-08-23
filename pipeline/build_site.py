@@ -72,11 +72,12 @@ def build_xlsx():
             cell = ws.cell(1, c); cell.fill = hdr_fill; cell.font = hdr_font
             cell.alignment = Alignment(vertical="center", wrap_text=True)
         ws.freeze_panes = "A2"; ws.auto_filter.ref = f"A1:{get_column_letter(ncol)}{ws.max_row}"
-    cols = ["PMID","Year","Title","Authors","Journal","Category","Tags","TL;DR","DOI","PMC (open access)","PubMed URL"]
+    cols = ["PMID","Year","Title","Authors","Journal","Category","Tags","TL;DR","Summary (AI)","DOI","PMC (open access)","PubMed URL"]
     ws = wb.active; ws.title = "Master Library"; ws.append(cols)
     for r in sorted(RECS, key=lambda x: (x["category"], x.get("year") or "0")):
         ws.append([r["pmid"], r["year"], r["title"], "; ".join(r["authors"]), r["journal"],
-                   r["category"], "; ".join(r["tags"]), tldr(r["abstract"]), r["doi"], r["pmc"], r["url"]])
+                   r["category"], "; ".join(r["tags"]), tldr(r["abstract"]),
+                   r.get("summary",""), r["doi"], r["pmc"], r["url"]])
     for i, w in enumerate([10,6,60,34,26,26,30,60,24,16,34], 1):
         ws.column_dimensions[get_column_letter(i)].width = w
     style_header(ws, len(cols))
@@ -134,6 +135,16 @@ def paper_block(r):
     tl = tldr(r["abstract"]); md = [f'### {esc(r["title"])}\n',
         f'*{esc(authors)}* — {esc(r["journal"])} ({r["year"]})  ', "\n" + " ".join(badges) + "\n"]
     if tl: md.append(f'\n**TL;DR.** {esc(tl)}\n')
+    # Agent summary, where triage has reached this record. Shown *below* the
+    # authors' own words and explicitly labelled -- never in place of them.
+    # Coverage is partial while the triage backlog drains, so the label also
+    # explains why some records have this block and others do not.
+    if r.get("summary"):
+        # Collapsed, not open: summaries run ~127 words and a category page
+        # carries >100 papers. The title bar keeps it discoverable; the click
+        # keeps the page scannable.
+        md.append(f'\n??? abstract "Summary — AI-generated, curator-reviewed"\n'
+                  f'    {esc(r["summary"])}\n')
     if r["abstract"]: md.append(f'\n??? note "Abstract"\n    {esc(r["abstract"])}\n')
     md.append("\n" + " · ".join(links) + "\n"); md.append("\n---\n")
     return "\n".join(md)
@@ -204,7 +215,7 @@ A continuously updated, categorized index of Medline-indexed FLASH radiotherapy
 
 Use the **search box** (top) to query across every title, abstract and author in the
 corpus. Each entry links to PubMed and, where available, DOI and open-access full text.
-Every paper shows a one-line **TL;DR** with the full abstract one click away.
+Every paper shows a one-line **TL;DR** with the full abstract one click away, and — where triage has reached it — a labelled AI-generated summary.
 
 This site is generated from a single source of truth (`flash_library.json`) produced by
 an automated PubMed harvest pipeline. Re-running the pipeline refreshes every page — see
@@ -268,9 +279,21 @@ is a first pass — a category editor can override any assignment in the master 
 and the correction propagates on the next site rebuild.
 
 ## Summaries
-Each record shows the authors' own peer-reviewed **abstract** as its authoritative summary,
-plus an auto-generated one-line **TL;DR**. This is a deliberate scientific-integrity choice:
-machine-writing fresh summaries for 1,600+ papers risks subtle misstatement of results.
+Each record shows the authors' own peer-reviewed **abstract** as its authoritative source,
+plus a one-line **TL;DR** extracted mechanically from the opening of that abstract. Neither
+is machine-written: the TL;DR is the authors' own sentences, verbatim.
+
+Records that have passed agent triage additionally carry a **Summary — AI-generated,
+curator-reviewed**. This is a model's reading of the abstract, stating what the study did
+and found rather than what motivated it. It is labelled wherever it appears and is never
+shown in place of the abstract, so a reader can always check it against the source in one
+click. Every such summary reaches this site only through a pull request merged by a human
+curator, and each is stored with a confidence score; low-confidence output is held back for
+review rather than published.
+
+Coverage is partial and growing. Triage processes a capped batch of records per monthly run,
+so older records acquire summaries gradually. A record without one has simply not been
+reached yet — it does not indicate a problem with the paper.
 
 ## Update cadence
 A scheduled monthly harvest adds new PMIDs and refreshes existing records; a curator reviews
