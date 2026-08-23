@@ -1,7 +1,7 @@
 # Statistics
 
-Corpus generated **2026-08-23** — **1,305** curated FLASH-RT records,
-**680** with open-access full text.
+Corpus generated **2026-08-23** — **1,306** curated FLASH-RT records,
+**681** with open-access full text.
 
 ## Publications per year
 ![Per year](assets/per_year.png)

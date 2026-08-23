@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*434 records. Newest first.*
+*435 records. Newest first.*
 
 ---
 
@@ -899,25 +899,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Development of a proof-of-concept treatment planning system for multi-beam photon FLASH intensity modulated radiation therapy.
-
-*Chenlei G, Weijie C, Hao Z, Meng Z, Jin Y, He W et al.* — Medical physics (2026)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** The development of FLASH radiotherapy has gained attention for its potential to deliver high doses in very short treatment times, minimizing damage to normal tissues. PURPOSE: This study developed and evaluated FLASHPlan, a treatment planning system (TPS) for multi-beam photon FLASH (XFLASH) therapy.
-
-
-??? note "Abstract"
-    BACKGROUND: The development of FLASH radiotherapy has gained attention for its potential to deliver high doses in very short treatment times, minimizing damage to normal tissues. PURPOSE: This study developed and evaluated FLASHPlan, a treatment planning system (TPS) for multi-beam photon FLASH (XFLASH) therapy. METHODS: FLASHPlan integrates the Fractional Combination Radiotherapy (FCRT) strategy with voxel-level biological correction, using an organ-specific dose-modifying factor model and biologically effective dose (BED)-based summation, under ultra-high dose rate constraints. FCRT distributes clinically required beam angles across multiple fractions, delivering fixed static beams per session with inter-fractional gantry reconfiguration. Fifty stereotactic body radiotherapy cases (single-target brain, multifocal brain, lung, pancreas, and concave-type prostate; 45 Gy in 3 fractions) were retrospectively replanned using FCRT and compared with conventional five static-beam plans (Conv_5F). Dose-volume metrics were reported on a common equivalent-dose scale, and a passing rate (PR) was defined as the percentage of cases meeting SBRT constraints. Sensitivity analyses varied organ-specific λ and the assumed FLASH plateau dose-rate between 40 and 200 Gy/s. RESULTS: Compared with Conv_5F, FCRT modestly increased mean gross tumor volume (GTV) V45Gy in all cohorts and raised PR for V45Gy ≥ 95% from 10%-80% to 100% (all p &lt; 0.05). On DMF-modified equivalent-dose distributions, FCRT improved conformity index (CI) and reduced gradient index (GI) and high-dose spillage in every cohort (all p &lt; 0.05), indicating tighter high-dose regions and steeper dose fall-off. High-dose exposure to critical CNS, thoracic, abdominal, and pelvic organs-at-risk (OARs) was reduced, with PR for the most restrictive OAR constraints reaching 100%, while Lyman-Kutcher-Burman-based normal tissue complication probability estimates for lung and brainstem changed minimally and remained within clinically acceptable ranges. In all λ and dose-rate sensitivity scenarios, cohort-averaged FCRT OAR doses varied only modestly and the dosimetric advantage of FCRT over Conv_5F was preserved. CONCLUSIONS: FLASHPlan establishes a proof-of-concept TPS framework for multi-beam XFLASH by combining geometry-aware FCRT delivery with biology-aware DMF/BED dose evaluation. Rather than demonstrating therapeutic superiority of FLASH-RT, this work provides a planning infrastructure to support future XFLASH system development, radiobiological modeling, and clinical translation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41665596/) · [DOI](https://doi.org/10.1002/mp.70331)
-
-
----
-
 ### Long-term Musculoskeletal and Marrow Sparing with Proton FLASH in Juvenile Mice: Implications for Pediatric Osteosarcoma.
 
 *Hu Z, Titt U, Li Y, Konradsson E, Aguilar EA, Neill DW et al.* — bioRxiv : the preprint server for biology (2026)  
@@ -1032,6 +1013,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Biological effects of conventional and ultra high dose rate radiation in human cells.
+
+*Ryan TL, Escalona MB, O&#x27;Brien K, Tan Y, Kanagaraj K, Taveras M et al.* — Scientific reports (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** FLASH radiotherapy (FLASH-RT) that uses an ultra-high dose rate (UHDR) radiation is emerging as an effective cancer treatment modality but the biological effects of UHDR are not fully understood. In this study, biological effects induced by conventional dose rate (CDR; 1 Gy/min) and UHDR (600 Gy/s) were evaluated in human peripheral blood lymphocytes of 10 donors at two different radiation doses (…
+
+
+??? note "Abstract"
+    FLASH radiotherapy (FLASH-RT) that uses an ultra-high dose rate (UHDR) radiation is emerging as an effective cancer treatment modality but the biological effects of UHDR are not fully understood. In this study, biological effects induced by conventional dose rate (CDR; 1 Gy/min) and UHDR (600 Gy/s) were evaluated in human peripheral blood lymphocytes of 10 donors at two different radiation doses (3 Gy and 8 Gy) of 9 MeV electrons. Cytogenetic analysis revealed that the unstable chromosome aberrations (dicentrics, rings and fragments) were reduced by 1.5–twofold after UHDR exposure (600 Gy/s) relative to CDR (1 Gy/min) at both radiation doses (3 Gy and 8 Gy). A similar trend was observed for the stable chromosome aberrations (insertions, balanced and unbalanced translocations) detected by fluorescence in situ hybridization (FISH) using a cocktail of DNA probes for chromosomes 1, 2 and 4. Pooled data indicated that the translocations (color junctions) were reduced by 40–50% in 600 Gy/s irradiated lymphocytes at both 3 Gy and 8 Gy doses relative to CDR. In corroboration, genome wide analysis of translocations by the multicolor FISH technique revealed reduced yields of chromosome exchange events after UHDR compared to CDR of electrons. In agreement with inter-chromosomal aberrations, intra-chromosomal aberrations detected by multicolor BAND analysis of chromosome 1 also showed reduced yields of different aberrations (inversions, insertions, and p- and q arm translocations) after UHDR exposure relative to CDR. Quantitative modeling of dicentrics and translocations, utilizing the linear-quadratic formalism with polynomial regression (inverse-variance weighting) and quantile regression, revealed significant dose response reductions at 600 Gy/s versus 1 Gy/min. In agreement with the reduced yields of unstable and stable chromosome aberrations, UHDR of electrons resulted in a modest increase in leukocyte viability and reduced BAX protein expression. Further molecular studies using well defined human cell model systems are required for gaining insight into the cellular DNA repair mechanisms for UHDR radiation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41484408/) · [DOI](https://doi.org/10.1038/s41598-025-33817-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12852176/)
+
+
+---
+
 ### The Impacts of FLASH Radiation Therapy and Conventional Radiation Therapy on the Cognitive Abilities of Mice.
 
 *He R, Xie S, Du L, Li W, Wang J, Liu X et al.* — Advances in radiation oncology (2026)  
@@ -1066,6 +1066,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41458175/) · [DOI](https://doi.org/10.1016/j.adro.2025.101949) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12741283/)
+
+
+---
+
+### Measurements of Hydrogen Peroxide Yields in Ultra-High-Dose-Rate vs. Conventional Radiation.
+
+*Rothwell B, Shin WG, LaVerne JA, Rodriguez Gonzalez T, Joseph K, Chan TY et al.* — Radiation research (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Hydrogen peroxide (H2O2), a key product of water radiolysis formed predominantly through hydroxyl (OH) radical recombination, plays a critical role in understanding radiation-induced oxidation processes. Differences in H2O2 yields under ultra-high dose rate (UHDR) and conventional dose rate (CDR) radiation have been proposed as a potential contributor to the FLASH healthy tissue sparing effect.
+
+
+??? note "Abstract"
+    Hydrogen peroxide (H2O2), a key product of water radiolysis formed predominantly through hydroxyl (OH) radical recombination, plays a critical role in understanding radiation-induced oxidation processes. Differences in H2O2 yields under ultra-high dose rate (UHDR) and conventional dose rate (CDR) radiation have been proposed as a potential contributor to the FLASH healthy tissue sparing effect. Radiolytic H2O2 yields were determined under UHDR (∼120 Gy/s) and CDR (1-5 Gy/s) proton irradiation in both deaerated and oxygen-saturated systems. An escape yield of ∼0.7 molecules/100 eV was observed in deaerated solutions. In oxygen-saturated systems, yields increased to ∼1.0 molecules/100 eV due to reactions involving oxygen-derived radicals. To investigate the temporal dependence of H2O2 production, various concentrations of methanol or dimethyl sulfoxide (DMSO) were added as OH radical scavengers. In deaerated systems, H2O2 yields approached zero as scavenging capacity increased, highlighting the critical role of OH radical combination reactions. In oxygen-saturated systems, moderate scavenging initially increased H2O2 yields via interactions between OH radicals and oxygen-derived species, but at higher scavenging capacities (∼108 s-1), yields declined sharply due to the suppression of OH radical combination reactions. Methanol produced higher H2O2 yields than DMSO under oxygenated conditions, with a maximum yield approximately 40% greater than that for DMSO. Measurements using γ rays produced the same trends. UHDR irradiation did not yield statistically significant differences in H2O2 production compared to conventional radiation. Simulations using the TOPAS-nBio framework confirmed the experimental findings and provided insight into the influence of scavenger concentrations on H2O2 yields. These findings highlight the sensitivity of H2O2 yields to scavenging conditions and emphasize the need for more complex models to study fundamental radiation chemistry in biological systems. This work provides essential data for validating radiation chemistry models and advancing our understanding of radiation chemistry in different environments.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41421382/) · [DOI](https://doi.org/10.1667/RADE-25-00190.1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13430615/)
 
 
 ---
@@ -1355,6 +1374,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### Electron spin resonance measurements of radiation-induced radicals under conventional and ultra-high dose rate electron irradiation.
+
+*Pehlivan J, Beyreuther E, Horst F, Nasse MJ, Pawelke J, Leichtle D et al.* — Physics in medicine and biology (2025)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Ultra-high dose rate (UHDR) radiotherapy has been shown in preclinical studies to reduce normal tissue toxicity without compromising tumour control, a phenomenon referred to as the Flash effect. The radiochemical and biological mechanisms responsible for this effect remain unclear.
+
+
+??? note "Abstract"
+    Ultra-high dose rate (UHDR) radiotherapy has been shown in preclinical studies to reduce normal tissue toxicity without compromising tumour control, a phenomenon referred to as the Flash effect. The radiochemical and biological mechanisms responsible for this effect remain unclear. This study investigates radical formation and oxygen depletion under UHDR and conventional dose rate (CDR) conditions to gain mechanistic insight. Radical formation was investigated using electron spin resonance (ESR) spectroscopy with both spin trapping and spin probe techniques. Oxygen consumption was monitored continuously during irradiation to complement radical yield measurements. E3 medium containing either spin traps (DMPO, DEPMPO, BMPO) or spin probes (CMH, TMTH, CAT1H) was prepared under hypoxic, physioxic, and normoxic conditions. Irradiations were performed at the Electron Linac for beams with high Brilliance and low Emittance at the Helmholtz-Zentrum Dresden-Rossendorf (HZDR) with 30 MeV electrons across a broad range of dose rates (0.1 Gy s-1-105 Gy s-1). Spin probe measurements enabled consistent comparisons between CDR and UHDR, revealing a significant dependence of spin concentration on both oxygenation and dose rate. In contrast, spin trapping showed reduced radical yields with decreasing oxygen levels, but no significant dose-rate dependence. Direct comparisons between UHDR and CDR were limited by differences in the decay kinetics of the spin adducts. Oxygen measurements confirmed a reduced oxygen consumption at UHDR, with the extent of depletion strongly dependent on initial oxygen concentration. The results support the hypothesis that UHDR conditions promote radical-radical recombination, shifting the reaction equilibrium and reducing the pool of radicals available to react in the homogeneous chemical phase, particularly with oxygen. The combined application of ESR spin trapping, spin probes, and real-time oxygen measurements offers complementary insight into dose-rate-dependent radical processes.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41401511/) · [DOI](https://doi.org/10.1088/1361-6560/ae2db6)
+
+
+---
+
 ### Equivalent constant dose rate as a unifying dose rate concept for FLASH across all beam time structures.
 
 *Poulsen PR, Sørensen BS, Kristensen L, Johansen JG* — Medical physics (2025)  
@@ -1576,21 +1614,21 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### A safety study of ultra-high dose rate FLASH radiotherapy in the treatment of superficial skin tumors: study protocol of a phase I trial (ChiCTR2400080935).
+### Exploring the role of intestinal microbiota in mitigating acute radiation-induced intestinal injury through high-energy X-ray FLASH radiotherapy via metagenomic analysis.
 
-*Yang C, Luo H, Leijie M, Mao R, Lei H, Zhang Y et al.* — Precision radiation oncology (2025)  
+*Du H, Hao X, Lin B, Zhu Y, Yang Y, Tang M et al.* — Frontiers in microbiology (2025)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerging as a novel technique to improve the normal tissue tolerance by delivering ultra-high dose rate radiation several orders of magnitude higher than convention radiotherapy. It has been shown in preclinical studies to cause less injury to surrounding normal tissues during radiation treatment, while still maintaining local tumor control.
+**TL;DR.** This study preliminarily examines the potential correlation between the gut microbiome and the protective effects of FLASH radiotherapy (FLASH-RT) on intestinal tissue using metagenomic analysis. METHODS: Compact single high-energy X-ray source (CHEXs) FLASH-RT was employed for FLASH irradiation, while EBT3 radiochromic film and a fast current transformer were used to measure the absolute dose and…
 
 
 ??? note "Abstract"
-    OBJECTIVE: Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerging as a novel technique to improve the normal tissue tolerance by delivering ultra-high dose rate radiation several orders of magnitude higher than convention radiotherapy. It has been shown in preclinical studies to cause less injury to surrounding normal tissues during radiation treatment, while still maintaining local tumor control. The purpose of this protocol is to evaluate the safety of fractionated FLASH-RT in skin cancer. METHOD: Patients with superficial skin tumors will be enrolled. The eligible patients will undergo electron FLASH-RT (24-40 Gy/3-5 fractions) to the tumor volume. The primary outcome is to evaluate the safety of FLASH-RT by collecting the acute (&lt; 90 days) skin toxicity adverse events of radiation according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. Secondary objectives include late (&gt; 90 days) skin toxicity after FLASH-RT according to CTCAE version 5.0 and treatment response. DISCUSSION: If the results show that delivering FLASH-RT is safe and feasible for skin tumors, further investigation will be conduct to evaluate efficacy of FLASH-RT in a phase II trial. TRIAL REGISTRATION NUMBER: ChiCTR2400080935. https://www.chictr.org.cn/showproj.html?proj=220336.
+    OBJECTIVES: This study preliminarily examines the potential correlation between the gut microbiome and the protective effects of FLASH radiotherapy (FLASH-RT) on intestinal tissue using metagenomic analysis. METHODS: Compact single high-energy X-ray source (CHEXs) FLASH-RT was employed for FLASH irradiation, while EBT3 radiochromic film and a fast current transformer were used to measure the absolute dose and the pulsed beam characteristics. Sham radiotherapy (control), FLASH-RT (333 Gy/s), and Conventional dose rate radiotherapy (CONV-RT, 0.07 Gy/s) were performed on whole abdomen of normal C57BL/6J female mice (10 Gy, 12 Gy, 14 Gy). At 72 h post-irradiation, intestinal contents from normal C57BL/6J female mice were collected for metagenomic analysis. The survival status, body weight, and damage to normal tissues were observed. RESULTS: At 28 days post-whole abdomen irradiation with doses of 12 Gy, the survival rate of the FLASH group was higher than that of the CONV group (p &lt; 0.05). Histological analysis of intestinal tissues by H&amp;E staining revealed significantly less acute intestinal damage and inflammation in the FLASH group compared to the CONV group. Further macrobiome analysis using LEfSe indicated that the abundance of beneficial bacteria, including Weissella, Lactobacillus ruminis and Lactobacillus taiwanensis was significantly higher in the FLASH group than in the CONV group. Moreover, compared to the CONV group, the FLASH group exhibited significant upregulation of several signaling pathways, including the glycosaminoglycan degradation, PI3K/Akt and arabinogalactan biosynthesis Mycobacterium signaling pathway. CONCLUSION: Compared to CONV-RT, high-energy X-ray FLASH irradiation exerts radioprotective effects on normal intestinal tissue. Alterations in the gut microbiota and associated signaling pathways may be linked to the protective effects of FLASH.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41164421/) · [DOI](https://doi.org/10.1002/pro6.70010) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12559900/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41178971/) · [DOI](https://doi.org/10.3389/fmicb.2025.1601244) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12575193/)
 
 
 ---
@@ -1686,25 +1724,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41040527/) · [DOI](https://doi.org/10.3389/fonc.2025.1657392) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12486310/)
-
-
----
-
-### Treatment parameters consideration for universal range shifter-based multi-energy proton FLASH-RT.
-
-*Zeng Y, Quan H, Zhang Q, Wang W, Liu X, Qin B et al.* — Medical physics (2025)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Compared to conventional dose rate irradiation, ultra-high dose rate irradiation provides superior normal tissue sparing. Multi-energy proton beams combined with a universal range shifter (URS) and fast energy-switching gantry enable ultra-high dose rate delivery.
-
-
-??? note "Abstract"
-    BACKGROUND: Compared to conventional dose rate irradiation, ultra-high dose rate irradiation provides superior normal tissue sparing. Multi-energy proton beams combined with a universal range shifter (URS) and fast energy-switching gantry enable ultra-high dose rate delivery. PURPOSE: This study investigates the effects of the URS, planning parameters, and patient selection on multi-energy Bragg peak (MEBP) proton FLASH radiotherapy (FLASH-RT) plans. METHODS: Single-field plans were generated for water phantoms and a brain case, comparing beam setups with and without the URS. Planning parameters, including spot spacing, layer spacing, and beam orientation, were varied. The effects of fractional dose and target size were also assessed. Dose and FLASH-related metrics were analyzed. RESULTS: The use of a URS increased the spot size, which reduced the number of required spots and energy layers but also resulted in a broader penumbra, a prolonged distal falloff, and a higher Dmean in normal tissue. These effects became more pronounced with greater URS thickness. A spot spacing of 1.5 times the spot size (σ) and a layer spacing of 1.0 times the Bragg peak width (Proximal and Distal R80) improved V40Gy/s, while effectively maintaining plan quality. Beam orientations with smaller field sizes increased V40Gy/s. As the fractional dose increased, V40Gy/s also increased, reaching saturation around 25 GyRBE. Additionally, V40Gy/s improved with smaller target volumes. CONCLUSIONS: The URS has a significant impact on plan quality, requiring a balance between normal tissue sparing and the FLASH effect in MEBP planning. Although MEBP plan is suitable for treating tumors with complex shapes, careful selection of planning parameters is critical for achieving effective FLASH treatment.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41028909/) · [DOI](https://doi.org/10.1002/mp.70039)
 
 
 ---

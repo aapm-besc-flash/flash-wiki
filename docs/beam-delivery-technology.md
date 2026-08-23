@@ -2,7 +2,26 @@
 
 Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-delivery hardware for UHDR.
 
-*127 records. Newest first.*
+*130 records. Newest first.*
+
+---
+
+### A Target-Specific, &quot;Eco-Friendly&quot; Experimental Setup for Small Field Proton Irradiation.
+
+*Colizzi I, Bornhauser Y, Lomax AJ, Meer D, Psoroulas S* — International journal of particle therapy (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Increasing interest in proton FLASH radiotherapy has led to a focus on target-specific (TS) devices and passive scattering (PS) techniques. However, these techniques often require expensive, time-consuming custom devices like single-use collimators and compensators.
+
+
+??? note "Abstract"
+    PURPOSE: Increasing interest in proton FLASH radiotherapy has led to a focus on target-specific (TS) devices and passive scattering (PS) techniques. However, these techniques often require expensive, time-consuming custom devices like single-use collimators and compensators. Our study aims to improve this by creating a flexible TS-PS setup adaptable to various needs, specifically for small target structures. METHODS: The collimating and compensating elements are made from 3D-printed polylactide containers filled with reusable copper or polypropylene spheres. We designed these TSPS elements using the modified Python package Porespy and conducted simulations in Tool for Particle Simulation Monte Carlo. We evaluated the collimator&#x27;s performance by comparing a solid collimator with our proposed approach. As a feasibility study, we developed 2 &quot;eco-friendly&quot; PS setups for irradiating a simple spherical target and a complex small structure, a murine brain tumor. RESULTS: We validated the computational model and MC simulations through depth dose curve and beam size measurements, demonstrating an agreement within a few percent. The &quot;eco-friendly&quot; collimators effectively collimated the beam, but we observed a dose halo at high energies due to protons not being stopped by the plastic bore; using higher-density materials can address this issue. We designed and validated the 2 &quot;eco-friendly&quot; setups via dose measurements and demonstrated that we could effectively compensate and collimate the beam to conform the dose to the target shape. The total time required to print the setup was under 45 minutes, and the filament cost was under $1. CONCLUSIONS: This innovative, &quot;eco-friendly&quot; approach using 3D printing allows for quick production of TS shapes, reducing waste and costs while enhancing conformity and improving the efficiency of PS treatments.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42633237/) · [DOI](https://doi.org/10.1016/j.ijpt.2026.101953) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13499423/)
+
 
 ---
 
@@ -405,59 +424,78 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### VHEE-SSB grid: spot-scanning beam enabled spatially fractionated and FLASH radiotherapy with very high energy electron beams.
+### FLASH-therapy suitable single-pulse proton generation using TiH2 under nanosecond laser irradiation.
 
-*An C, Dai Z, Dai Z, Li J, Tan X, Jia Y et al.* — Physics in medicine and biology (2025)  
+*Matsui S, Kanesue T, Ikeda S, Sakabe T, Okamura M* — The Review of scientific instruments (2026)  
 
-<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+<span class="badge tag">Physics &amp; Dosimetry</span>
 
 
-**TL;DR.** Objectives.This study aims to demonstrate the feasibility of combining spatially fractionated radiotherapy (SFRT) and FLASH radiotherapy (FLASH-RT) techniques using very high energy electron (VHEE) through Monte Carlo simulations and to develop a simulation platform for this purpose.Approach.The simulation platform was built in TOPAS based on the beam parameters of the Wuhan Advanced Light Source …
+**TL;DR.** We investigated proton emission from titanium hydride (TiH2) targets irradiated in vacuum by a 6-ns, 1064-nm Nd:YAG laser. Time-of-flight measurements with a Faraday cup and an electrostatic ion analyzer resolved distinct proton peaks at high pulse energies, with yields on the order of 109 protons per shot.
 
 
 ??? note "Abstract"
-    Objectives.This study aims to demonstrate the feasibility of combining spatially fractionated radiotherapy (SFRT) and FLASH radiotherapy (FLASH-RT) techniques using very high energy electron (VHEE) through Monte Carlo simulations and to develop a simulation platform for this purpose.Approach.The simulation platform was built in TOPAS based on the beam parameters of the Wuhan Advanced Light Source (WALS) linear accelerator. Quadrupole magnets are used to focus VHEE beams to control the longitudinal depth of the maximum dose. Lateral scanning irradiation is achieved by combining deflecting magnets. The spread-out electron peak (SOEP) depth adjustment, and spot scanning were achieved through magnetic field adjustments. The dose distribution of VHEE in the water phantom was simulated, and the three-dimensional dose distribution, dose volume histogram (DVH), and peak-to-valley ratio were analyzed.Main results.Based on the fitted relationships, Monte Carlo simulations with 106particles were conducted in TOPAS to verify the positions of maximum dose, yielding millimeter errors. The SOEP flatness between 12-17 cm depths exceeded 98.7%. SFRT simulated at four target points showed a peak-to-valley dose ratio (D10%/D90%) of 11.026, where D10%is the minimum dose within the highest 10% dose voxels, and D90%is the minimum dose received by 90% of the target volume. A volume fraction of 4.41% within the PTV received ⩾90% of the maximum dose. The dose rate in the PTV reached up to 54.25 Gy s-1under 200 nA electron beam irradiation.Significance.Take the example of beam parameters of the linear accelerator at WALS, the simulation platform is validated for conducting research on combined SFRT and FLASH-RT for deep tumor radiation treatment. This also demonstrates the feasibility of combining SFRT and FLASH-RT using VHEE.
+    We investigated proton emission from titanium hydride (TiH2) targets irradiated in vacuum by a 6-ns, 1064-nm Nd:YAG laser. Time-of-flight measurements with a Faraday cup and an electrostatic ion analyzer resolved distinct proton peaks at high pulse energies, with yields on the order of 109 protons per shot. Systematic scans over pulse energy and up to 1000 repeated shots showed that, while the peak amplitude gradually decreased, the integrated proton number remained nearly constant. This behavior is consistent with surface-induced broadening of the plasma expansion while bulk hydrogen is replenished by diffusion and repeated ablation of fresh TiH2 layers. Using the measured proton numbers and pulse widths, a simple direct-plasma-injection-style scaling indicates peak currents of ∼100 mA and sub-microsecond pulse durations. The pulse structure and yield satisfy key ultra-high-dose-rate criteria and, together with sustained output over 1000 shots, support TiH2-based laser ion sources as practical candidates for FLASH-therapy (ultra-high-dose-rate)-oriented studies and injector development using direct plasma injection.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41313815/) · [DOI](https://doi.org/10.1088/1361-6560/ae25b1)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41493204/) · [DOI](https://doi.org/10.1063/5.0303349)
 
 
 ---
 
-### Comparison of protons and very high-energy electrons transmission pencil-beam-scanning for FLASH radiotherapy.
+### Experimental design and control methods for dose rate optimization in a synchrotron-based proton therapy beamline.
 
-*Gesualdi F, Ermeneux L, Lansonneur P, Sitarz M, Loap P, Créhange G et al.* — Physics and imaging in radiation oncology (2025)  
+*Tang J, Liu D, Mathew J, Campelo S, Bronk L, Taylor P et al.* — Precision radiation oncology (2025)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
-**TL;DR.** Very High-Energy Electron (VHEE) radiotherapy stands as a promising alternative to proton therapy in view of the FLASH effect, which allows for differential sparing of healthy tissues under ultra-high dose rate irradiation. This study compared the quality of transmission Pencil-Beam-Scanning proton and VHEE treatment plans, with emphasis on dose rate quantification relevant to the assessment of th…
+**TL;DR.** Ultra-high dose rate radiotherapy (typically defined &gt;40 Gy/s) has shown promise for enhanced normal tissue sparing while maintaining tumor control, termed the FLASH effect when this biological response is observed. However, precise dose rate control remains a technical challenge in proton therapy systems, particularly for research applications investigating dose rate effects.
 
 
 ??? note "Abstract"
-    BACKGROUND AND PURPOSE: Very High-Energy Electron (VHEE) radiotherapy stands as a promising alternative to proton therapy in view of the FLASH effect, which allows for differential sparing of healthy tissues under ultra-high dose rate irradiation. This study compared the quality of transmission Pencil-Beam-Scanning proton and VHEE treatment plans, with emphasis on dose rate quantification relevant to the assessment of the FLASH effect. MATERIALS AND METHODS: Proton (250 MeV) and VHEE (200 MeV and 150 MeV) treatment plans were designed for four patient cases. Plans were optimized using an in-house developed spot weight and position optimization algorithm. Objectives were set through scorecards based on RTOG protocols. Dose rate estimations were based on beam parameters of the ProBeam system for protons and of a realistic VHEE system. For each structure, a new, model-free FLASH index was calculated. RESULTS: VHEE treatment plans achieved a quality comparable to that of protons. While the conformity and homogeneity were similar, FLASH indices tended to be higher for protons due to higher dose rates covering more healthy tissues. A pulse repetition frequency of 500 Hz was found necessary to attain FLASH-compatible dose rates (≥40 Gy/s). CONCLUSIONS: The importance of treatment parameters (such as pulse repetition frequency) for VHEEs to reach ultra-high dose rates was assessed. With their high plan quality, VHEEs could constitute a viable alternative to proton transmission plans and a promising modality for FLASH therapy. The proposed FLASH index offers a robust tool to compare the FLASH potential across treatment modalities.
+    BACKGROUND: Ultra-high dose rate radiotherapy (typically defined &gt;40 Gy/s) has shown promise for enhanced normal tissue sparing while maintaining tumor control, termed the FLASH effect when this biological response is observed. However, precise dose rate control remains a technical challenge in proton therapy systems, particularly for research applications investigating dose rate effects. PURPOSE: To develop and validate a passive beam modulation technique using tungsten scatterers for controllable dose rate adjustment in a synchrotron-based proton therapy beamline without modifying accelerator parameters. METHODS: We investigated dose rate modulation using tungsten foils of varying thicknesses (0.1-3.5 mm) positioned upstream in an 87.2 MeV experimental proton beamline. Monte Carlo simulations using Geant4 were performed to model the dose rate variation as a function of the tungsten scatter&#x27;s thickness. Experimental validation was conducted using an Advanced Markus ionization chamber for dose rate measurements and EBT-XD radiochromic films for lateral dose profile analysis. Five tungsten thicknesses were tested with full-spill deliveries (∼1400 monitor units (MUs), and ∼100 milliseconds (ms) pulse width). RESULTS: An inverse exponential relationship between dose rate and scatterer thickness was observed, with measured dose rates ranging from 288.9±0.7 Gy/s (0.1 mm tungsten) to 10.2±0.2 Gy/s (3.5 mm tungsten). Experimental measurements validated the accuracy of Monte Carlo predictions at the standard condition (1400 MU delivered in 100 ms) by falling within the 95% confidence intervals. Lateral beam profiles demonstrated progressive broadening with increased scatterer thickness, and the film measurements showed good agreements with Monte Carlo simulation (&lt;2% difference at beam center). CONCLUSIONS: Tungsten scatterer thickness modulation provides a practical, controllable method for dose rate adjustment spanning conventional to FLASH regimes. This passive approach enables precise dose rate control for preclinical radiobiological research without requiring modifications of accelerator structure and parameters.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41278487/) · [DOI](https://doi.org/10.1016/j.phro.2025.100860) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12639469/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41477292/) · [DOI](https://doi.org/10.1002/pro6.70032) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12750309/)
 
 
 ---
 
-### Supersonic gas curtain based ionization beam profile monitor for FLASH proton beam therapy.
+### Advancing Proton Therapy: Integration of Minibeam Spatial Fractionation and FLASH Dose Rates.
 
-*Patel M, Kumar N, Thesni F, Butcher W, Price T, McLauchlan R et al.* — Frontiers in oncology (2025)  
+*Lin Y, Wu W, Setianegara J, Wang A, Gerard N, Nys J et al.* — Research square (2025)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
 
 
-**TL;DR.** FLASH Proton Beam Therapy (FLASH-PBT) combines the precision targeting ability of proton beam with radiobiological advantage of FLASH effect at ultra-high dose rates (&gt; 40 Gy/s) to improve tumor control while reducing the damage to surrounding healthy tissues. The commonly used spot-scanning proton therapy technique relies on real-time beam monitoring to provide feedback to the accelerator for spo…
+**TL;DR.** Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge.
 
 
 ??? note "Abstract"
-    INTRODUCTION: FLASH Proton Beam Therapy (FLASH-PBT) combines the precision targeting ability of proton beam with radiobiological advantage of FLASH effect at ultra-high dose rates (&gt; 40 Gy/s) to improve tumor control while reducing the damage to surrounding healthy tissues. The commonly used spot-scanning proton therapy technique relies on real-time beam monitoring to provide feedback to the accelerator for spot switching. This study introduces a novel Supersonic Gas Curtain Ionization Profile Monitor (SGC-IPM) for non-invasive, high-resolution proton beam profile monitoring, aiming to provide real-time feedback to medical accelerators. METHODS: The SGC-IPM uses a supersonic gas jet shaped into a curtain to measure the 2D transverse profile of the beam. Initial tests of the device was conducted on a DC Pelletron accelerator at Dalton Cumbrian Facility (DCF), Whitehaven, UK, followed by later tests on MC40 cyclotron at the University of Birmingham (UoB), UK. Across both the experiments, the device was directly coupled to the vacuum side of the beamlines and beam profiles were recorded for protons at energies ranging from 4-28 MeV and currents ranging from 1-100 nA, with various beam sizes and shapes. RESULTS: The SGC-IPM successfully measured beam profiles and demonstrated a linear response to beam currents across the measurement range, and its response at different energies was quantified by introducing an energy-dependent detection factor, D which is used to quantify the sensitivity of the device. The detector was upgraded after the first set of experiments at DCF resulting in sensitivity improvement by a factor of 80 in later experiments at UoB. DISCUSSIONS: A mathematical model is introduced to show that device&#x27;s response depends on particle fluence, a quantity independent of dose rate. It&#x27;s linear response to beam current is used to extrapolate measurements at conventional dose rates to assess its performance at FLASH dose rates. The performance is evaluated in terms of threshold dose required to measure beam profile for a standard 1-liter clinical volume positioned 15-20 cm deep in water. CONCLUSION: This study presents a viable solution for non-invasive proton beam profile monitoring for FLASH-PBT. The device shows a linear response to beam current within the measurement range. The mathematical model quantifies the device&#x27;s sensitivity and provides a means to calibrate it for dose estimation.
+    BACKGROUND: Proton minibeam radiation therapy (pMBRT) introduces spatial fractionation of dose distributions at submillimeter resolution, offering a promising approach to reducing normal tissue toxicity while maintaining effective tumor control. However, the high monitor unit (MU) requirements of multi-slit collimators (MSC) result in extended delivery times, posing a significant challenge. This study explores the feasibility of integrating pMBRT with ultra-high-dose-rates (UHDR) to overcome this limitation while leveraging potential biological synergies to enhance the therapeutic index and advance clinical applications. METHODS: The study utilized the IBA Proteus®ONE compact proton therapy system equipped with two MSCs, each with center-to-center distances of 2.8 mm, slit widths of 1.0 mm, and thicknesses of 6.5 cm and 10 cm. FLASH delivery was achieved with 228 MeV protons at a current of 125 nA, while clinical beams operated at 226 MeV with 1-5 nA. Dose measurements using Gafchromic films in solid water phantoms were compared with Monte Carlo simulations. Delivery times were compared for FLASH and clinical beams. PBS dose rate was calculated based on the spot delivery log file. RESULTS: The study successfully demonstrated pMBRT dose distributions under FLASH dose rates, significantly reducing treatment times to 2.5 seconds compared to 3 minutes for clinical beams. The 10 cm collimator achieved higher peak-to-valley dose ratios (PVDRs) at 2 cm depth (4.36) than the 6.5 cm collimator (2.57), optimizing FLASH delivery conditions. Results highlight the potential to improve dose delivery efficiency while maintaining spatial resolution and dose modulation, supporting future clinical advancements. CONCLUSION: This study demonstrates the feasibility of integrating pMBRT with FLASH dose rates using a clinical proton therapy system. By addressing challenges associated with delivery times and leveraging the combined advantages of spatial fractionation and ultra-high-dose-rates, this work paves the way for the clinical translation of pMBRT with FLASH, offering innovative possibilities for treating challenging malignancies with high-dose precision therapy.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41220944/) · [DOI](https://doi.org/10.3389/fonc.2025.1694310) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12597723/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41377978/) · [DOI](https://doi.org/10.21203/rs.3.rs-8116270/v1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12687803/)
+
+
+---
+
+### Commissioning of a gantry-mounted synchrocyclotron for preclinical FLASH studies utilizing spread-out Bragg peaks.
+
+*Lowe M, Zhang H, Owen D, Darafsheh A, Zhao T* — Journal of applied clinical medical physics (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Preclinical studies demonstrate the benefits of ultra-high dose-rate (FLASH) radiation, reducing normal tissue toxicity while maintaining tumoricidal effects. Proton FLASH (pFLASH) studies typically use transmission beams, missing the normal tissue-sparing advantage of the spread-out Bragg peak (SOBP).
+
+
+??? note "Abstract"
+    BACKGROUND: Preclinical studies demonstrate the benefits of ultra-high dose-rate (FLASH) radiation, reducing normal tissue toxicity while maintaining tumoricidal effects. Proton FLASH (pFLASH) studies typically use transmission beams, missing the normal tissue-sparing advantage of the spread-out Bragg peak (SOBP). PURPOSE: This study aims to propose and implement a series of modifications to enable a clinical Mevion S250i gantry-mounted synchrocyclotron to deliver pFLASH within the SOBP of the proton beam. METHODS: A clinical synchrocyclotron was modified to enable FLASH proton beam delivery using the Mevion FLASH accessory kit, a commercially available tool that allows for the delivery of a single spot SOBP at FLASH dose rates. To ensure accurate beam monitoring, a Faraday cup was utilized to measure the integral charge per delivery at different dose rates and calibrate the FLASH transmission ion chamber (FLASHTic), which is integrated in the FLASH accessory mount attached to the nozzle of the gantry. The FLASHTic was specifically designed to prevent saturation at the dose rates associated with FLASH. To generate the desired single spot SOBP, boron carbide absorbers, a range modulating hole filter, and an 11-mm-diameter circle brass aperture were employed on the FLASH nozzle mount. RESULTS: The results indicate that the FLASHTic measurements demonstrated a strong correlation with the Faraday cup post calibration, suggesting that the FLASHTic can be effectively utilized for both monitoring and terminating the proton beam. The 80%-80% width of the SOBP was 2.01 cm. The peak dose rate at the SOBP proximal peak reached 105.03 Gy/s, with an average of 96.18 Gy/s over five days. Transitioning between FLASH and clinical mode required less than one hour without affecting the clinical beam. CONCLUSIONS: The commissioning of a 230 MeV proton synchrocyclotron for SOBP FLASH delivery was achieved, providing a platform for preclinical small animal studies on pFLASH effects.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41253689/) · [DOI](https://doi.org/10.1002/acm2.70357) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12626749/)
 
 
 ---
@@ -481,21 +519,40 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Translating FLASH to the clinic: treatment planning system for a FLASH-compatible dose delivery using a novel x-ray UHDR machine.
+### Non-invasive Reversible Software-based Configuration of a Clinically Used Linear Accelerator for Preclinical Electron FLASH Radiobiology.
 
-*Krim DE, Whelan B, Harkness M, Otto K, W Loo B, Bazalova-Carter M* — Physics in medicine and biology (2025)  
+*Melemenidis S, Chen D, Jensen C, Schulz JB, Surucu M, Yu AS et al.* — ArXiv (2025)  
 
-<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** Objective.To develop and validate a treatment planning system (TPS) for a novel x-ray ultra-high dose rate (UHDR) system and compare its performance with conventional volumetric modulated arc therapy (VMAT).Approach.A TPS was developed for a novel x-ray UHDR system featuring stationary beamlines and a Scanning Pencil-beam High-speed Intensity-modulated x-ray source (SPHINX). We studied an exemplar…
+**TL;DR.** Configuring clinical linear accelerators (linacs) for ultra-high dose rate (UHDR) electron experiments typically requires invasive hardware manipulation and/or irreversible manufacturer modifications, limiting broader implementation. We present an independently developed UHDR electron configuration of a clinical TrueBeam linac that allows reversible switching between preclinical UHDR and conventio…
 
 
 ??? note "Abstract"
-    Objective.To develop and validate a treatment planning system (TPS) for a novel x-ray ultra-high dose rate (UHDR) system and compare its performance with conventional volumetric modulated arc therapy (VMAT).Approach.A TPS was developed for a novel x-ray UHDR system featuring stationary beamlines and a Scanning Pencil-beam High-speed Intensity-modulated x-ray source (SPHINX). We studied an exemplary case using 16 beam angles, 1D scanning perpendicular to the bore axis, and a linear accelerator operating at 12 MeV electron energy with 1 mA average beam current. Treatment plans were generated using various system configurations and compared with clinical VMAT plans for lung (PTV:239cm3), brain (PTV:372cm3), and head-and-neck (PTV:55cm3) cases. Configurations included different beamlet widths for lung cancer, coplanar and conical beam arrangements for brain cancer, and different beamlet spacings for head-and-neck cancer. Dose distributions in terms of target conformity and homogeneity indices, local dose rates (LDR), local irradiation time (LIT), and organ-at-risk (OAR) sparing were compared. A validation workflow combining Monte Carlo simulations with TPS-generated treatment parameters was developed and tested on a lung case to ensure TPS dose calculation accuracy.Main results.TPS-generated plans achieved comparable target coverage to VMAT while delivering significantly higher dose rates (⩾12.5Gy/s vs. 0.03 Gy/s) and ultra-short LITs. However, UHDR plans in general showed increased OAR mean doses. Conical beam arrangements in the brain case yielded higher maximum LDRs at isocenter of up to 49 Gy/s with LITs as low as 37 ms, but increased integral dose. The head-and-neck case demonstrated high LDRs (62 Gy/s to 98% of PTV) within 20 ms, with minimal differences between beamlet spacing configurations. The lung case validation workflow demonstrated⩾98%3Dγ-index pass rate using3%/3mm threshold, confirming plan accuracy.Significance.The developed UHDR-TPS enables treatment planning for a novel x-ray UHDR system. In this preliminary study, it achieved plan quality comparable to VMAT for the specific lung, brain, and head-and-neck cancer cases studied, while delivering significantly higher dose rates and shorter irradiation times. Further optimization of the UHDR delivery with x-rays is needed, however, to decrease OAR doses and validate these initial findings.
+    Configuring clinical linear accelerators (linacs) for ultra-high dose rate (UHDR) electron experiments typically requires invasive hardware manipulation and/or irreversible manufacturer modifications, limiting broader implementation. We present an independently developed UHDR electron configuration of a clinical TrueBeam linac that allows reversible switching between preclinical UHDR and conventional (CONV) modes using only non-invasive software settings. UHDR mode was achieved via service mode software with RF and beam current settings typical of a photon beam, the photon target and monitor chamber retracted, and a clinically unused low-energy scattering foil inserted. An external AC current transformer (ACCT) for beam monitoring, anatomy-specific collimator, and sample holder were mounted on the accessory tray, with external ion chamber in solid water for exit dose monitoring. Percent depth dose (PDD) was measured for UHDR and CONV beams. Dose-per-pulse (DPP) was varied by adjusting gun voltage and quantified with radiochromic film at different source-to-surface distances (SSD). Beam profiles assessed dose uniformity and usable field size. Dose calibration was established between film, ACCT, and ion chamber, and day-to-day reproducibility was tested. PDD confirmed similar energies for UHDR (12.8MeV) and CONV (11.9MeV) beams with matching profiles through mouse thickness. Maximum DPP exceeded 0.5Gy, reaching ~1.5Gy for collimated in vivo setups and ~0.7Gy at extended SSD for tissue culture. Field flatness and symmetry were maintained, supporting organ-specific irradiations and up to 5cm fields for culture. Calibration showed strong linearity across detectors, and output variation was &lt;4%. We demonstrated accurate, reproducible UHDR delivery on a widely available clinical linac with no invasive hardware manipulation, enabling preclinical FLASH research on a clinical treatment machine.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41056970/) · [DOI](https://doi.org/10.1088/1361-6560/ae107b)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41040806/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12486054/)
+
+
+---
+
+### Optimization and fabrication of a novel 3D-printed variable density range modulation device for proton FLASH beams.
+
+*Gu W, Shoniyozov K, Mei K, Lin A, Zou W, Dong L et al.* — Medical physics (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** For proton FLASH therapy, range-modulating devices are inserted in the beam path to create a spread-out-Bragg-peak (SOBP) for ultrafast delivery using a single energy pencil beam scanning technique. Current design typically consists of uniform density spikes with range modulation achieved by changing the area and height of the spikes, which has limited structural stability and modulation flexibili…
+
+
+??? note "Abstract"
+    BACKGROUND: For proton FLASH therapy, range-modulating devices are inserted in the beam path to create a spread-out-Bragg-peak (SOBP) for ultrafast delivery using a single energy pencil beam scanning technique. Current design typically consists of uniform density spikes with range modulation achieved by changing the area and height of the spikes, which has limited structural stability and modulation flexibility. PURPOSE: We present a new class of 3D-printed range-modulating devices for particle therapy with spatially modulated density. METHODS: PixelPrint technology (Laboratory for Advanced Computed Tomography Imaging, University of Pennsylvania, PA) was used to 3D-print the variable density range-modulator, by continuously varying the ratio of filament to air in each voxel. With specific thickness and spatial density modulation, SOBP of varying widths can be created. A calibration phantom was 3D printed and scanned by a dual-energy computed tomography (CT) scanner to characterize the physical and radiological properties of the PixelPrint technology. We developed an inverse optimization algorithm to generate the density map for producing SOBP from monoenergetic proton beam and verified by MCsquare (http://www.openmcsquare.org/), an open-source Monte Carlo (MC) simulation platform. The range modulation characteristics were measured using a multi-layer ionization chamber (MLIC) under monoenergetic proton field irradiation. RESULTS: The proposed optimization framework generated the density distributions for multiple SOBP widths. MC simulation verified the width and flatness of created SOBPs. The CT scan of a 3-cm SOBP modulator showed good fidelity of the desired density distribution, except for the highest density regions. MLIC measurements confirmed the accuracy of the produced SOBP with multiple proton beam energies. CONCLUSION: A novel variable density range-modulating device for proton therapy was successfully developed. These devices have the potential to be handled easily and significantly speed-up proton therapy treatment delivery.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40983920/) · [DOI](https://doi.org/10.1002/mp.70013) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12454734/)
 
 
 ---

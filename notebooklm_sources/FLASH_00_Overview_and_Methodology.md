@@ -1,16 +1,16 @@
 # FLASH Radiotherapy Living Literature — Overview & Methodology
 AAPM BESC FLASH Working Group. Corpus generated 2026-08-23.
 
-This notebook covers 1305 Medline-indexed FLASH radiotherapy (ultra-high dose-rate) publications, 680 with open-access full text, organized into the categories below. Each category is provided as a separate source document containing full abstracts.
+This notebook covers 1306 Medline-indexed FLASH radiotherapy (ultra-high dose-rate) publications, 681 with open-access full text, organized into the categories below. Each category is provided as a separate source document containing full abstracts.
 
 ## Categories
 
-- Radiobiology: 434 papers
-- Physics & Dosimetry: 253 papers
-- Modeling & Mechanisms: 164 papers
-- Beam Delivery & Technology: 127 papers
-- Treatment Planning & Optimization: 63 papers
-- Clinical & Translational: 36 papers
+- Radiobiology: 435 papers
+- Physics & Dosimetry: 249 papers
+- Modeling & Mechanisms: 159 papers
+- Beam Delivery & Technology: 130 papers
+- Treatment Planning & Optimization: 67 papers
+- Clinical & Translational: 38 papers
 - Reviews & Consensus: 204 papers
 - Perspectives & Commentary: 19 papers
 - Point-Counterpoint: 4 papers
