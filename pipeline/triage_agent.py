@@ -44,6 +44,7 @@ import os
 import pathlib
 import re
 import sys
+import time
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
@@ -63,6 +64,22 @@ CHECKPOINT_EVERY = 25
 MODEL = os.environ.get("TRIAGE_MODEL", "claude-sonnet-5")
 MAX_TOKENS = 1500
 MAX_ATTEMPTS = 2
+
+# Batch API: half price for input and output, in exchange for asynchronous
+# delivery. This job is monthly, unattended and latency-indifferent, so the
+# trade is free money. Anthropic allows up to 24h; batches this size finish in
+# minutes, but the budget below bounds the GitHub job.
+BATCH_POLL_SECONDS = 20
+BATCH_BUDGET_SECONDS = int(os.environ.get("BATCH_BUDGET_SECONDS", "3600"))
+
+# If a batch is submitted but the job dies or times out before results are
+# collected, the spend is already incurred. Persisting the id lets the next run
+# claim those results instead of paying twice.
+PENDING_BATCH = LIB / ".triage_batch.json"
+
+# Per-million-token prices used only to print an estimate in the PR body.
+# Batch pricing is half of standard; override if the model or pricing changes.
+PRICE_IN, PRICE_OUT = 1.50, 7.50
 
 # Categories the agent is allowed to assign. Deliberately excludes the four
 # publication-type categories and Uncategorized: the agent must commit to a
@@ -251,6 +268,95 @@ def parse(text: str) -> dict:
     return json.loads(t.strip())
 
 
+class Usage:
+    """Real token accounting. Estimating this was a mistake made repeatedly."""
+
+    def __init__(self):
+        self.inp = self.out = self.calls = 0
+
+    def add(self, u):
+        if not u:
+            return
+        self.inp += getattr(u, "input_tokens", 0) or 0
+        self.out += getattr(u, "output_tokens", 0) or 0
+        self.calls += 1
+
+    @property
+    def dollars(self):
+        return (self.inp * PRICE_IN + self.out * PRICE_OUT) / 1e6
+
+    def line(self):
+        return (f"{self.calls} call(s) - {self.inp:,} input + {self.out:,} output "
+                f"tokens - about ${self.dollars:.2f} at batch pricing")
+
+
+def _requests(items, claim_ids, cat_block, claim_block, corrections=None):
+    """Build batch request payloads. corrections maps pmid -> list[str]."""
+    # Plain dicts rather than the SDK's typed Request/MessageCreateParams
+    # helpers: those symbols have moved between anthropic releases, and this
+    # file must keep working when CI resolves a newer version.
+    out = []
+    for rec in items:
+        pmid = str(rec.get("pmid"))
+        body = PROMPT.format(
+            categories=cat_block, claims=claim_block,
+            title=rec["title"], journal=rec.get("journal", ""),
+            year=rec.get("year", ""),
+            kw_category=rec.get("category", "Uncategorized"),
+            abstract=rec["abstract"],
+        )
+        errs = (corrections or {}).get(pmid)
+        if errs:
+            body += ("\n\nYour previous answer was rejected:\n"
+                     + "\n".join(f"- {e}" for e in errs)
+                     + "\nReturn corrected JSON only.")
+        out.append({
+            "custom_id": f"pmid-{pmid}",
+            "params": {
+                "model": MODEL,
+                "max_tokens": MAX_TOKENS,
+                "system": ("Return a single JSON object and nothing else. "
+                           "No preamble, no commentary, no code fences."),
+                "messages": [{"role": "user", "content": body}],
+            },
+        })
+    return out
+
+
+def _collect(client, batch_id, usage):
+    """Poll one batch to completion; return {pmid: payload_or_error}."""
+    waited = 0
+    while True:
+        b = client.messages.batches.retrieve(batch_id)
+        if b.processing_status == "ended":
+            break
+        if waited >= BATCH_BUDGET_SECONDS:
+            print(f"::warning::batch {batch_id} still running after "
+                  f"{waited}s; leaving it for the next run to collect.",
+                  file=sys.stderr)
+            return None
+        time.sleep(BATCH_POLL_SECONDS)
+        waited += BATCH_POLL_SECONDS
+        if waited % 120 == 0:
+            print(f"  batch {batch_id}: {b.processing_status} ({waited}s)",
+                  file=sys.stderr)
+
+    out = {}
+    for entry in client.messages.batches.results(batch_id):
+        pmid = entry.custom_id.removeprefix("pmid-")
+        r = entry.result
+        if r.type != "succeeded":
+            out[pmid] = ("error", [f"batch result: {r.type}"])
+            continue
+        usage.add(getattr(r.message, "usage", None))
+        try:
+            out[pmid] = ("ok", parse("".join(
+                b.text for b in r.message.content if b.type == "text")))
+        except Exception as exc:
+            out[pmid] = ("error", [f"{type(exc).__name__}: {exc}"])
+    return out
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int,
@@ -271,52 +377,92 @@ def main() -> int:
     print(f"{len(records)} records; {len(pending)} need triage; "
           f"processing {len(capped)} (limit {args.limit}).", file=sys.stderr)
 
+    usage = Usage()
+    failed = []
+    cat_block = "\n".join(f"- {k}: {v}" for k, v in CONTENT_CATEGORIES.items())
+    claim_block = "\n".join(
+        f"- [{c['id']}] {c['claim'].strip()}" for c in claims
+        if c.get("status", "active") == "active"
+    ) or "(none registered yet)"
+    by_pmid = {str(r.get("pmid")): r for r in records}
+
+    # ---- claim results from a batch a previous run paid for but never read ----
+    results = {}
+    if PENDING_BATCH.exists():
+        from anthropic import Anthropic
+        client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        prev = json.loads(PENDING_BATCH.read_text())
+        print(f"recovering unread batch {prev['id']} from {prev['submitted']}",
+              file=sys.stderr)
+        got = _collect(client, prev["id"], usage)
+        if got is None:
+            print("::warning::previous batch still not ready; nothing done this run.",
+                  file=sys.stderr)
+            return 0
+        results.update(got)
+        PENDING_BATCH.unlink()
+        capped = [r for r in capped if str(r.get("pmid")) not in results]
+
     if capped:
         from anthropic import Anthropic
         client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-        cat_block = "\n".join(f"- {k}: {v}" for k, v in CONTENT_CATEGORIES.items())
-        claim_block = "\n".join(
-            f"- [{c['id']}] {c['claim'].strip()}" for c in claims
-            if c.get("status", "active") == "active"
-        ) or "(none registered yet)"
+        reqs = _requests(capped, claim_ids, cat_block, claim_block)
+        batch = client.messages.batches.create(requests=reqs)
+        PENDING_BATCH.write_text(json.dumps(
+            {"id": batch.id, "submitted": datetime.datetime.now(
+                datetime.timezone.utc).isoformat(), "n": len(reqs)}, indent=1))
+        print(f"submitted batch {batch.id} with {len(reqs)} request(s)",
+              file=sys.stderr)
+        got = _collect(client, batch.id, usage)
+        if got is None:
+            return 0          # id persisted; next run collects it
+        PENDING_BATCH.unlink()
+        results.update(got)
 
-        failed = []
-        for i, rec in enumerate(capped, 1):
-            pmid = str(rec.get("pmid"))
-            print(f"  [{i}/{len(capped)}] {pmid} {rec['title'][:60]}", file=sys.stderr)
-            base = PROMPT.format(
-                categories=cat_block, claims=claim_block,
-                title=rec["title"], journal=rec.get("journal", ""),
-                year=rec.get("year", ""),
-                kw_category=rec.get("category", "Uncategorized"),
-                abstract=rec["abstract"],
-            )
-            payload, errs = None, ["not attempted"]
-            for attempt in range(MAX_ATTEMPTS):
-                msg = base if attempt == 0 else (
-                    base + "\n\nYour previous answer was rejected:\n"
-                    + "\n".join(f"- {e}" for e in errs)
-                    + "\nReturn corrected JSON only."
-                )
-                try:
-                    resp = client.messages.create(
-                        model=MODEL, max_tokens=MAX_TOKENS,
-                        system=("Return a single JSON object and nothing else. "
-                                "No preamble, no commentary, no code fences."),
-                        messages=[{"role": "user", "content": msg}],
-                    )
-                    payload = parse("".join(
-                        b.text for b in resp.content if b.type == "text"))
-                    errs = validate(payload, claim_ids)
-                    if not errs:
-                        break
-                except Exception as exc:
-                    errs, payload = [f"{type(exc).__name__}: {exc}"], None
+    if results:
+        from anthropic import Anthropic
+        client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
-            if payload is None or errs:
-                failed.append((pmid, rec["title"], errs))
+        # ---- validate, then one corrective batch for whatever failed ----
+        good, retry = {}, {}
+        for pmid, (kind, val) in results.items():
+            if kind != "ok":
+                retry[pmid] = val
                 continue
+            errs = validate(val, claim_ids)
+            if errs:
+                retry[pmid] = errs
+            else:
+                good[pmid] = val
 
+        if retry and MAX_ATTEMPTS > 1:
+            items = [by_pmid[p] for p in retry if p in by_pmid]
+            print(f"{len(items)} record(s) failed validation; one corrective batch",
+                  file=sys.stderr)
+            if items:
+                b2 = client.messages.batches.create(
+                    requests=_requests(items, claim_ids, cat_block, claim_block,
+                                       corrections=retry))
+                PENDING_BATCH.write_text(json.dumps(
+                    {"id": b2.id, "submitted": datetime.datetime.now(
+                        datetime.timezone.utc).isoformat(), "n": len(items)}, indent=1))
+                got2 = _collect(client, b2.id, usage)
+                if got2 is not None:
+                    PENDING_BATCH.unlink()
+                    for pmid, (kind, val) in got2.items():
+                        if kind != "ok":
+                            continue
+                        errs = validate(val, claim_ids)
+                        if not errs:
+                            good[pmid] = val
+                            retry.pop(pmid, None)
+
+        for pmid, errs in retry.items():
+            if pmid not in good:
+                failed.append((pmid, by_pmid.get(pmid, {}).get("title", "?"), errs))
+
+        for i, (pmid, payload) in enumerate(good.items(), 1):
+            rec = by_pmid[pmid]
             done[pmid] = {
                 "schema": SCHEMA_VERSION,
                 "model": MODEL,
@@ -395,6 +541,13 @@ def main() -> int:
            f"flag(s); {len(disagreements)} category disagreement(s); "
            f"{len(low_conf)} below the {CONFIDENCE_FLOOR:.2f} confidence floor; "
            f"{len(overruled)} curator-pinned record(s) left unchanged.", ""]
+
+    # Measured, not estimated. Printed so the run's real cost is visible in the
+    # PR rather than inferred from a billing dashboard days later.
+    if usage.calls:
+        out += [f"**API usage this run.** {usage.line()}.", ""]
+    elif not args.dry_run:
+        out += ["**API usage this run.** No model calls were made.", ""]
 
     if overruled:
         out += ["### Agent disagrees with a curator decision — no change made",
