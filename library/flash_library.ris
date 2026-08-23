@@ -1,4 +1,89 @@
 TY  - JOUR
+TI  - Proton Bragg peak flash stereotactic radiosurgery for recurrent glioblastoma reirradiation.
+AU  - Ma Y
+AU  - Wang Y
+AU  - Zhang T
+AU  - Zhao X
+AU  - Selvaraj B
+AU  - Cheng C
+AU  - Pennock M
+AU  - Jackson J
+AU  - Guo W
+AU  - Mou X
+AU  - Durkee B
+AU  - Choi JI
+AU  - Lin H
+AU  - Simone CB
+AU  - Kang M
+AU  - Wu H
+PY  - 2026
+JO  - Physics and imaging in radiation oncology
+AB  - BACKGROUND AND PURPOSE: Stereotactic Radiosurgery with robotic image-guided systems is promising for recurrent glioblastoma (rGBM), but long delivery times may increase morbidity and reduce accuracy. Proton single-energy Bragg-peak FLASH-RT (SEBP-FLASH) may address these limits by delivering each field in <1 s, with potential for normal-tissue sparing through the FLASH effect. MATERIALS AND METHODS: The SEBP-FLASH technique was used to reoptimize treatment for rGBM patients treated with robotic image-guided systems. Patient-specific aperture devices were incorporated into the SEBP-FLASH technique for sharper penumbra. The gross tumor volume (GTV) coverage, conformity index (CI), dose gradient index (GI50 and GI30), and dose-volume histogram (DVHs), were evaluated. Additionally, ultra-high dose-rate ratios in critical organs-at-risk were assessed. RESULTS: SEBP-FLASH successfully met all clinical objectives. Both SEBP-FLASH and robotic techniques showed comparable performance, with GI50 and GI30 values of 2.9 ± 0.5 and 6.2 ± 1.8 for SEBP-FLASH, versus 2.7 ± 0.2 and 5.5 ± 0.5 for robotic (p-values at 0.085 and 0.189). SEBP-FLASH demonstrated superior conformality, achieving a CI of 1.4 ± 0.2 compared to CK's 1.9 ± 0.3 (p-value 0.001). All other metrics were similar across both techniques. For the brain, the FLASH dose rate coverage (V40 Gy/s) exceeded 80% under a 5 Gy dose threshold and minimum monitor unit of 400. CONCLUSIONS: This study evaluated the dose-volume characteristics of SEBP-FLASH and robotic image-guided systems and found broadly comparable dose distributions, suggesting that SEBP-FLASH may be a feasible option for rGBM reirradiation. SEBP-FLASH also showed potential advantages in conformity, normal tissue sparing, and reduced on-table time.
+DO  - 10.1016/j.phro.2026.101044
+AN  - 42630800
+UR  - https://pubmed.ncbi.nlm.nih.gov/42630800/
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - FLASH radiotherapy: physico-chemical considerations on ionisation tracks, radical reactions, and the role of oxygen.
+AU  - Herskind C
+AU  - O'Neill P
+AU  - Horsman MR
+PY  - 2026
+JO  - Radiation oncology (London, England)
+AB  - The sparing effect of FLASH irradiation with ultrahigh dose rates (UHDR), by applying high dose fractions in less than one second, on adverse reaction in many normal tissues but not on tumour control has the potential to widen the therapeutic window and advance cancer radiotherapy. However, the mechanism is poorly understood, preventing its optimal application in the clinic. Here we review the current knowledge of radiation-induced radicals and their reactions, including time factors which are rarely considered. Furthermore, experimental in vitro and in vivo data in the framework of prevailing hypotheses, and the role of low oxygen concentrations and reoxygenation, are discussed. Finally, potential protective mechanisms are considered based on such reactions and the role of oxygen. We argue that more than one mechanism may contribute to dose-rate dependent protection, and that differences exist between protective mechanisms in vitro and in vivo. Furthermore, we propose a new protective reaction linking radiation chemistry to the role of oxygen in FLASH irradiation and incorporating the differential responses of normal tissue and tumours.
+DO  - 10.1186/s13014-026-02907-9
+AN  - 42625213
+UR  - https://pubmed.ncbi.nlm.nih.gov/42625213/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Biologically optimized 3D range modulators for fast conformal carbon ion therapy:in vitrovalidation, treatment planning, and robustness analysis.
+AU  - Ahn SHH
+AU  - Filosa DI
+AU  - Lysakovski P
+AU  - Brons S
+AU  - Abdollahi A
+AU  - Debus J
+AU  - Dokic I
+AU  - Tessonnier T
+AU  - Mairani A
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - &#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning. &#xD;&#xD;Approach.&#xD;A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1 (LEM1). Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks (SOBPs), 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.&#xD;&#xD;Main results.&#xD;Measured survival fractions agreed with mMKM predictions within 5% on average across the biological SOBP, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and OAR metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.&#xD;&#xD;Significance. &#xD;Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.&#xD.
+DO  - 10.1088/1361-6560/ae9c86
+AN  - 42624158
+UR  - https://pubmed.ncbi.nlm.nih.gov/42624158/
+KW  - FLASH:Treatment Planning & Optimization
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Modeling and optimization of a multiple-ring double scattering system for proton therapy.
+AU  - de Oliveira Lima JP
+AU  - Weber A
+AU  - Kourkafas G
+AU  - Denker A
+AU  - Heufelder J
+PY  - 2026
+JO  - Zeitschrift fur medizinische Physik
+AB  - This study investigates proton beam scattering systems with the aim of improving beam-shaping efficiency and increasing transmission within the radiation field for low-energy beams under intensity-limited conditions. These improvements are particularly relevant for delivering radiation fields at high dose rates for ocular proton therapy (OPT) and even at ultra-high dose rates for potential FLASH radiotherapy applications. A systematic methodology was developed to design multiple-ring double-scattering systems that maximize transmission under a field-homogeneity constraint while controlling the outgoing kinetic energy after each ring. Although generally applicable, the framework was specifically motivated by clinical and experimental requirements for proton-based ocular therapy using a 70 MeV cyclotron at the Helmholtz-Zentrum Berlin für Materialien und Energie (HZB). A Python-based graphical user interface (GUI) was implemented to integrate a mathematical optimization model for two to four concentric rings that maximizes transmission under homogeneity constraints. The software incorporates energy degradation, range shifting, and the conversion of optimized scattering angles into physical dimensions. The mathematical optimization accurately reproduced the two-ring results reported by Takada (1994) and extended the approach to three- and four-ring configurations. The four-ring system achieved a transmission of 53±2% with a dose homogeneity of ±3%, corresponding to a dose rate of 77Gy/s at 100nA for a 30 mm field size, exceeding the threshold for FLASH conditions. Bragg-peak measurements and Monte Carlo simulations using TOPAS showed a distal penumbra below 1 mm and a water range agreement within 0.1 mm of predictions, supporting the adopted energy degradation methodology. The developed GUI provides a practical tool for designing and refining double-scattering systems, significantly improving transmission compared with single-scattering approaches. The four-ring design increased beam transmission more than tenfold compared with single scattering, making it a promising candidate for high-dose-rate irradiation in small fields.
+DO  - 10.1016/j.zemedi.2026.07.006
+AN  - 42608218
+UR  - https://pubmed.ncbi.nlm.nih.gov/42608218/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
 TI  - Global clinical landscape and multidisciplinary translational frontiers of FLASH radiotherapy: a systematic review and visualized bibliometric mapping based on WoSCC and PubMed (2014-2025).
 AU  - Di Y
 AU  - Liu C
@@ -202,7 +287,7 @@ TI  - Pulse-resolved tumor control probability modeling for FLASH radiotherapy u
 AU  - Lee TK
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed TCP_LRF, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted TCP_LR, to connect FLASH beam microstructure, oxygen/radical kinetics, biological repair, and treatment-course repopulation.&#xD;Approach: TCPLR was used as the parent treatment-course TCP model because it accommodates variable interfraction timing and kick-off-time-dependent accelerated repopulation. Its conventional cumulative survival term was replaced by a FLASH-aware survival term derived from a reduced-order oxygen/radical ordinary differential equation kernel. Each FLASH fraction was represented as a pulse train. The same oxygen/radical kinetics, lesion-yield calculation, and post-fraction repair layer were also implemented for standard-dose-rate continuous delivery to provide an internal comparator. The implementation was verified against uniform-dose benchmarks reported in the original Lee-Rosen publication describing TCP_LR and then evaluated using exploratory FLASH, repair, pulse-structure, and standard-dose-rate scenarios.&#xD;Main results: Conventional verification reproduced published benchmark trends, with maximum absolute differences of 1.44, 1.21, and 3.48 percentage points for head-and-neck, breast, and prostate cases, respectively. In a 3 × 8 Gy starter case, calibrated null-FLASH TCP was 0.790. Moderate chemistry and strong radical recombination yielded TCP values of 0.713 and 0.703, respectively, whereas mild oxygen limitation reduced TCP to 0.276. Standard-dose-rate continuous delivery produced negligible oxygen depletion under null and moderate chemistry assumptions, while deliberately oxygen-limited standard-dose-rate cases showed reduced TCP.&#xD;Significance: This exploratory framework provides a mechanistic treatment-course TCP platform for hypothesis testing in FLASH radiotherapy. It demonstrates how pulse microstructure and continuous standard-dose-rate delivery can be evaluated within the same published variable-time TCP_LR formulation, while showing that FLASH TCP behavior depends on oxygen/radical kinetic assumptions, pulse structure, repair, and oxygen availability rather than being universally preserved or reduced.
+AB  - Objective.FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted, to connect FLASH beam microstructure, oxygen/radical kinetics, biological repair, and treatment-course repopulation.Approach.TCPLRwas used as the parent treatment-course TCP model because it accommodates variable interfraction timing and kick-off-time-dependent accelerated repopulation. Its conventional cumulative survival term was replaced by a FLASH-aware survival term derived from a reduced-order oxygen/radical ordinary differential equation kernel. Each FLASH fraction was represented as a pulse train. The same oxygen/radical kinetics, lesion-yield calculation, and post-fraction repair layer were also implemented for standard-dose-rate continuous delivery to provide an internal comparator. The implementation was verified against uniform-dose benchmarks reported in the original Lee-Rosen publication describingand then evaluated using exploratory FLASH, repair, pulse-structure, and standard-dose-rate scenarios.Main results.Conventional verification reproduced published benchmark trends, with maximum absolute differences of 1.44, 1.21, and 3.48 percentage points for head-and-neck, breast, and prostate cases, respectively. In a 3 × 8 Gy starter case, calibrated null-FLASH TCP was 0.790. Moderate chemistry and strong radical recombination yielded TCP values of 0.713 and 0.703, respectively, whereas mild oxygen limitation reduced TCP to 0.276. Standard-dose-rate continuous delivery produced negligible oxygen depletion under null and moderate chemistry assumptions, while deliberately oxygen-limited standard-dose-rate cases showed reduced TCP.Significance.This exploratory framework provides a mechanistic treatment-course TCP platform for hypothesis testing in FLASH radiotherapy. It demonstrates how pulse microstructure and continuous standard-dose-rate delivery can be evaluated within the same published variable-timeformulation, while showing that FLASH TCP behavior depends on oxygen/radical kinetic assumptions, pulse structure, repair, and oxygen availability rather than being universally preserved or reduced.
 DO  - 10.1088/1361-6560/ae944e
 AN  - 42546758
 UR  - https://pubmed.ncbi.nlm.nih.gov/42546758/

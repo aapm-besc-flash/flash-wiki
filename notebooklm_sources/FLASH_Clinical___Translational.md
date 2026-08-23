@@ -1,11 +1,22 @@
 # FLASH Radiotherapy Literature — Clinical & Translational
-AAPM BESC FLASH Working Group. Corpus generated 2026-08-15. 36 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-08-23. 36 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
 ---
 
-## 1. FAST-02: Results from the second in-human prospective evaluation of single-fraction proton FLASH for symptomatic thoracic bone metastases.
+## 1. One-year follow-up after fractionated ultra-high-dose-rate FLASH radiotherapy in patient with extramammary Paget disease of the scrotum.
+Authors: Luo H, Yang C, Mao R, Ma L, Lei H, Chen P, Zhang Y, Xu M et al.
+Journal: Precision radiation oncology (2026)
+Identifiers: PMID 42358284; DOI 10.1002/pro6.70045; PMC PMC13292164 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/42358284/
+Category: Clinical & Translational | Tags: Radiobiology, Physics & Dosimetry, Clinical & Translational
+
+Abstract: OBJECTIVE: Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT. METHODS: An elderly male patient was diagnosed with extramammary Paget disease of the scrotum along with multiple lymph node and bone metastases. After 6 cycles of chemotherapy, the disease progressed in the scrotum. The scrotal lesions were evaluated for FLASH-RT. 9 MeV electron FLASH-RT was performed at a dose rate of 120 Gy/s. The field size was 5 cm × 5 cm, and the prescribed dose was 40 Gy in five fractions. Dosimetric verification was performed daily. Treatment response was evaluated at 3-month post FLASH-RT, and normal tissue toxicity was assessed from the beginning of FLASH-RT to 12-month post-irradiation. RESULTS: A 1-year follow-up was achieved for scrotal lesions treated with electron FLASH-RT in patients with extramammary Paget disease. Electron FLASH-RT was safe, and treatment-related adverse events were mild. Transient skin toxicity occurred 2-5 weeks post FLASH-RT, and exudation and burning pain were significantly alleviated. A complete response was achieved 2-3 months post FLASH-RT, and the tumor lesions were covered by the normal epithelium of the scrotum. At the end of the one-year follow-up, the tumor lesions continued to respond, and one-year survival was achieved without additional injury to the irradiated areas after FLASH-RT. CONCLUSION: Fractionated electron FLASH-RT is feasible and safe for the treatment of extramammary Paget disease of the scrotum. Our findings support further exploration of electron FLASH-RT in patients with skin tumors.
+
+---
+
+## 2. FAST-02: Results from the second in-human prospective evaluation of single-fraction proton FLASH for symptomatic thoracic bone metastases.
 Authors: Daugherty EC, Zhang Y, Xiao Z, Backus L, McDonald JM, Stockman B, Woo J, McCann C et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 42342043; DOI 10.1016/j.radonc.2026.111671
@@ -16,7 +27,7 @@ Abstract: BACKGROUND AND PURPOSE: FAST-01 demonstrated that proton FLASH radioth
 
 ---
 
-## 2. Breast cancer patients' questions about radiotherapy-induced skin toxicity: A comparative analysis of ChatGPT-4.0 and Gemini 2.5 flash.
+## 3. Breast cancer patients' questions about radiotherapy-induced skin toxicity: A comparative analysis of ChatGPT-4.0 and Gemini 2.5 flash.
 Authors: Caetano M, Vicente D, Caetano L, Carolino E, Grilo A
 Journal: Radiography (London, England : 1995) (2026)
 Identifiers: PMID 42287986; DOI 10.1016/j.radi.2026.103469
@@ -24,17 +35,6 @@ URL: https://pubmed.ncbi.nlm.nih.gov/42287986/
 Category: Clinical & Translational | Tags: Clinical & Translational, Radiobiology
 
 Abstract: INTRODUCTION: Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated. However, the comparative performance of different AI models in addressing patient concerns about radiotherapy side effects remains unclear, creating uncertainty regarding the optimal tool selection for patient education and support. This study aimed to compare the performance of ChatGPT 4.0 and Gemini 2.5 FLASH using a mixed-methods analytical-descriptive approach. METHODS: Twenty-three unique questions, derived from a literature review and rephrased to simulate patient enquiries about the skin effects of radiotherapy, were submitted to both models. Sixteen expert Radiation Therapists (RTTs) independently assessed the responses using a seven-point Likert scale. The analyses included semantic cosine similarity and linguistic readability (Flesch Reading Ease/Flesch-Kincaid Grade Level), with statistical comparisons performed using Mann-Whitney tests. RESULTS: Gemini 2.5 FLASH achieved higher median scores (6/7) than ChatGPT 4.0 (5/7), demonstrating particular strengths in clinical detail and empathy. Conversely, ChatGPT 4.0 produced more direct and structured answers, although it occasionally simplified complex concepts. Models showed low semantic similarity (median 0.78). Readability analysis revealed that ChatGPT aligned with an 8th-grade level, whereas Gemini operated at an 11th-grade level. Expert agreement was robust, with Gemini achieving greater consistency (α = 0.78; κ = 0.70) than ChatGPT (α = 0.72; κ = 0.65). CONCLUSION: Gemini was more effective for complex psychosocial issues, whereas ChatGPT provided better accessible guidance, necessitating ongoing professional validation for reliable integration into patient education workflows. IMPLICATIONS FOR PRACTICE: The use of AI in counselling patients undergoing breast radiotherapy enhances accessibility but requires ongoing professional validation to ensure clinical reliability.
-
----
-
-## 3. 4D robust evaluation for the intensity-modulated-proton-radiotherapy plans for patients with ventricular tachycardia based on cardiopulmonary motion characteristics.
-Authors: Wang S, Fan X, Tong Y, Su M, Li W, Sha X, Yin Y, Dai T
-Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)
-Identifiers: PMID 41871504; DOI 10.1016/j.ejmp.2026.105790
-URL: https://pubmed.ncbi.nlm.nih.gov/41871504/
-Category: Clinical & Translational | Tags: Clinical & Translational, Treatment Planning & Optimization, Radiobiology, Beam Delivery & Technology
-
-Abstract: BACKGROUND: Clinical trials and case reports have demonstrated that radiotherapy effectively reduces the frequency of ventricular tachycardia (VT) events. Given the sensitive anatomy of the treatment target, it is important to minimize the normal tissue dose while optimizing the target dose. This retrospective study investigated the optimal treatment planning strategy utilizing proton beams for VT patients to mitigate the effect of both cardiac and respiratory motion. METHODS: Twelve patients with respiratory-related 4DCT data and six patients with cardiac 4DCT data were enrolled in this study. The left ventricular wall was segmented into four regions (Anterior, Inferior, Lateral and Septal) according to Milo's delineation guidelines to simulate various CTVs. Single-field plans with five different kinds of beam angle and multi-field plans were created to identify the optimal angle. RESULTS: The selection of beam angles significantly affected target coverage. The dose uncertainty due to respiratory motion was found to be greater than that of the heartbeat based on the 4D dynamic dose evaluation. Multi-field plans provided better protection for the heart and lungs but showed limitations in ensuring sufficient target coverage under respiratory motion, particularly for Inferior and Lateral targets. CONCLUSION: For optimal dose delivery (defined as achieving robust target coverage), a multiple-field plan with beam angles of 60° (targets A and I), 90° (targets L) and 30° (targets S) as the primary field is recommended. Patient-specific 4D dynamic evaluations are of great importance to ensure the treatment's safety and effectiveness. ABBREVIATIONS: VT, ventricular tachycardia; r4DCT, respiratory-related 4DCT; c4DCT, cardiac 4DCT; VF, ventricular fibrillation; ICD, implantable cardioverter defibrillators; SART, stereotactic ablative radiotherapy; CTV, clinical target volume; ICTV, internal clinical target volume; RBE, relative biological effectiveness; 4DDD, 4D dynamic dose; PBS, pencil beam scanning; DIR, deformable image registration; WEL, water-equivalent path length; OARs, organs at risk; DIR, deformable Image Registration; HI, homogeneity index; CI, conformability index; rCT, repeat CT; UHDR, ultra-high dose-rate; Lung-L, left lung; Lung-R, right lung; Lung-All, left lung + right lung.
 
 ---
 

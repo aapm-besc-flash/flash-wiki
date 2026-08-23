@@ -2,7 +2,26 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*203 records. Newest first.*
+*204 records. Newest first.*
+
+---
+
+### FLASH radiotherapy: physico-chemical considerations on ionisation tracks, radical reactions, and the role of oxygen.
+
+*Herskind C, O&#x27;Neill P, Horsman MR* — Radiation oncology (London, England) (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** The sparing effect of FLASH irradiation with ultrahigh dose rates (UHDR), by applying high dose fractions in less than one second, on adverse reaction in many normal tissues but not on tumour control has the potential to widen the therapeutic window and advance cancer radiotherapy. However, the mechanism is poorly understood, preventing its optimal application in the clinic.
+
+
+??? note "Abstract"
+    The sparing effect of FLASH irradiation with ultrahigh dose rates (UHDR), by applying high dose fractions in less than one second, on adverse reaction in many normal tissues but not on tumour control has the potential to widen the therapeutic window and advance cancer radiotherapy. However, the mechanism is poorly understood, preventing its optimal application in the clinic. Here we review the current knowledge of radiation-induced radicals and their reactions, including time factors which are rarely considered. Furthermore, experimental in vitro and in vivo data in the framework of prevailing hypotheses, and the role of low oxygen concentrations and reoxygenation, are discussed. Finally, potential protective mechanisms are considered based on such reactions and the role of oxygen. We argue that more than one mechanism may contribute to dose-rate dependent protection, and that differences exist between protective mechanisms in vitro and in vivo. Furthermore, we propose a new protective reaction linking radiation chemistry to the role of oxygen in FLASH irradiation and incorporating the differential responses of normal tissue and tumours.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42625213/) · [DOI](https://doi.org/10.1186/s13014-026-02907-9) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13495190/)
+
 
 ---
 

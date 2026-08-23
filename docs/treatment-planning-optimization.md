@@ -2,7 +2,159 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*54 records. Newest first.*
+*63 records. Newest first.*
+
+---
+
+### Proton Bragg peak flash stereotactic radiosurgery for recurrent glioblastoma reirradiation.
+
+*Ma Y, Wang Y, Zhang T, Zhao X, Selvaraj B, Cheng C et al.* — Physics and imaging in radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Stereotactic Radiosurgery with robotic image-guided systems is promising for recurrent glioblastoma (rGBM), but long delivery times may increase morbidity and reduce accuracy. Proton single-energy Bragg-peak FLASH-RT (SEBP-FLASH) may address these limits by delivering each field in &lt;1 s, with potential for normal-tissue sparing through the FLASH effect.
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: Stereotactic Radiosurgery with robotic image-guided systems is promising for recurrent glioblastoma (rGBM), but long delivery times may increase morbidity and reduce accuracy. Proton single-energy Bragg-peak FLASH-RT (SEBP-FLASH) may address these limits by delivering each field in &lt;1 s, with potential for normal-tissue sparing through the FLASH effect. MATERIALS AND METHODS: The SEBP-FLASH technique was used to reoptimize treatment for rGBM patients treated with robotic image-guided systems. Patient-specific aperture devices were incorporated into the SEBP-FLASH technique for sharper penumbra. The gross tumor volume (GTV) coverage, conformity index (CI), dose gradient index (GI50 and GI30), and dose-volume histogram (DVHs), were evaluated. Additionally, ultra-high dose-rate ratios in critical organs-at-risk were assessed. RESULTS: SEBP-FLASH successfully met all clinical objectives. Both SEBP-FLASH and robotic techniques showed comparable performance, with GI50 and GI30 values of 2.9 ± 0.5 and 6.2 ± 1.8 for SEBP-FLASH, versus 2.7 ± 0.2 and 5.5 ± 0.5 for robotic (p-values at 0.085 and 0.189). SEBP-FLASH demonstrated superior conformality, achieving a CI of 1.4 ± 0.2 compared to CK&#x27;s 1.9 ± 0.3 (p-value 0.001). All other metrics were similar across both techniques. For the brain, the FLASH dose rate coverage (V40 Gy/s) exceeded 80% under a 5 Gy dose threshold and minimum monitor unit of 400. CONCLUSIONS: This study evaluated the dose-volume characteristics of SEBP-FLASH and robotic image-guided systems and found broadly comparable dose distributions, suggesting that SEBP-FLASH may be a feasible option for rGBM reirradiation. SEBP-FLASH also showed potential advantages in conformity, normal tissue sparing, and reduced on-table time.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42630800/) · [DOI](https://doi.org/10.1016/j.phro.2026.101044) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13495584/)
+
+
+---
+
+### Biologically optimized 3D range modulators for fast conformal carbon ion therapy:in vitrovalidation, treatment planning, and robustness analysis.
+
+*Ahn SHH, Filosa DI, Lysakovski P, Brons S, Abdollahi A, Debus J et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** &amp;#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone.
+
+
+??? note "Abstract"
+    &amp;#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning. &amp;#xD;&amp;#xD;Approach.&amp;#xD;A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1 (LEM1). Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks (SOBPs), 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.&amp;#xD;&amp;#xD;Main results.&amp;#xD;Measured survival fractions agreed with mMKM predictions within 5% on average across the biological SOBP, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and OAR metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.&amp;#xD;&amp;#xD;Significance. &amp;#xD;Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.&amp;#xD.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42624158/) · [DOI](https://doi.org/10.1088/1361-6560/ae9c86)
+
+
+---
+
+### Commissioning and Validation of a Synchrocyclotron - Based Ultra-High-Dose-Rate Beamline for FLASH.
+
+*Lin Y, Setianegara J, Wang A, Gerard N, Nys J, Labarbe R et al.* — International journal of particle therapy (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** FLASH radiotherapy delivers ultra-high dose rate radiation (&gt;40 Gy/s) has shown promise in reducing normal tissue toxicity while maintaining tumor control. IBA&#x27;s single-room proton system, equipped with S2C2 superconducting synchrocyclotron accelerator, has recently demonstrated to achieve UHDR delivery.
+
+
+??? note "Abstract"
+    PURPOSE: FLASH radiotherapy delivers ultra-high dose rate radiation (&gt;40 Gy/s) has shown promise in reducing normal tissue toxicity while maintaining tumor control. IBA&#x27;s single-room proton system, equipped with S2C2 superconducting synchrocyclotron accelerator, has recently demonstrated to achieve UHDR delivery. Integrating the UHDR beam line in the treatment planning system (TPS) is crucial for accurate dose calculation in preclinical study, optimization of the 2D dose profile as well as paving the way for further accessory development for spread-out Bragg peak FLASH. This study aims to commission and validate a synchrocyclotron-based pencil beam scanning UHDR proton beamline on the IBA ProteusONE system in RayStation TPS. The goal is to establish a framework for TPS modeling and validation, facilitating preclinical FLASH radiotherapy studies. METHODS: The transmission UHDR beamline using scanning proton beam energy of 228 MeV was characterized at gantry 0° using comprehensive point dose and 2D lateral profiles measurements. The beam model was developed in RayStation, incorporating key parameters such as virtual source position, spot size, integrated depth dose (IDD), and absolute dose calibration. Extensive validations were conducted using ionization chambers, film dosimetry, and 2D scintillation detectors, with gamma analysis performed to assess the accuracy of the TPS model with open field and field in the presence of brass apertures. RESULTS: The UHDR beamline achieved ultra-high dose rates exceeding 40 Gy/s (average dose rate for a 2.5 x 2.5 cm field) with consistent dose output validated across multiple detectors. The nozzle current was measured to be linear with respect to the requested MU in the range of 45 to 126 nA. The RayStation beam model demonstrated excellent agreement with experimental measurements, achieving less than 2.5% deviation for all point dose measurements. For 2D profile measurements, gamma passing rates &gt;95% under 2%/2 mm criteria for all fields. The TPS allowed optimization of the spot pattern for UHDR FLASH beams aligned closely with clinical beam profiles, enabling accurate preclinical study comparisons. CONCLUSIONS: A synchrocyclotron-based UHDR beamline was successfully commissioned and validated through a reliable TPS model for transmission FLASH application. The results provide a foundation for preclinical FLASH-RT research and future clinical applications, demonstrating the feasibility of integrating FLASH-RT into existing proton therapy platforms. Future work will extend the commissioning to all gantry angles and explore spread-out Bragg peak FLASH delivery for improved dose conformality.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42502287/) · [DOI](https://doi.org/10.1016/j.ijpt.2026.101323) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13400413/)
+
+
+---
+
+### Optimizing Transmission FLASH Radiation Therapy for Large-Field Postmastectomy Breast Treatment.
+
+*Zafar AJ, Dutta SW, Case MJ, Diamond Z, Bohannon D, Jagsi R et al.* — International journal of radiation oncology, biology, physics (2026)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** We investigated the effect of scanning speed, beam configuration, and dose-rate modeling on the FLASH effect in postmastectomy proton transmission beams planning and evaluated the potential of spot scanning path optimization for enhancing the FLASH effect. METHODS AND MATERIALS: Five patients with left-sided postmastectomy breast cancer (32 Gy/5 fractions) were retrospectively replanned with singl…
+
+
+??? note "Abstract"
+    PURPOSE: We investigated the effect of scanning speed, beam configuration, and dose-rate modeling on the FLASH effect in postmastectomy proton transmission beams planning and evaluated the potential of spot scanning path optimization for enhancing the FLASH effect. METHODS AND MATERIALS: Five patients with left-sided postmastectomy breast cancer (32 Gy/5 fractions) were retrospectively replanned with single-energy (249 MeV) tangential transmission beams, supplemented by a clinical en face beam for dose homogenization. FLASH evaluation employed 2 models: Krieger&#x27;s FLASH effectiveness model (FEM) and Folkerts&#x27; average dose-rate (ADR) framework. Plans were simulated under conventional pencil beam scanning, split-field, and optimized spot sequences (using genetic algorithm \[GA\]), with vertical scan speeds varied from 10 to 20 mm/ms. FLASH effect in normal tissues was quantified by the percentage of voxels meeting the threshold (≥4 Gy at ≥40 Gy/s). A dose adjustment factor of 0.67 was applied to voxels meeting FLASH criteria to compute FLASH-weighted dose metrics in normal tissues within the chest wall target, whereas the physical dose to tumor cells remained unchanged. RESULTS: The FLASH effect showed high sensitivity to scanning patterns and model selection. Increasing vertical scan speed from 10 to 20 mm/ms increased the FLASH in clinical target volume (CTV) by 22% (ADR) and 12% (FEM), whereas in skin, it rose from 41.4% to 58.8% (ADR) and 8.4% to 13.1% (FEM). Split-field delivery improved the temporal distance between the vertical columns of the spot scanning pattern, yielding a superior FLASH effect, which is up to a 9.2 Gy reduction in CTV (FLASH-corrected) Dmean(mean dose) with the ADR model. GA-based optimization shortened scan time and provided FLASH comparable with split-field delivery, with a CTV Dmean reduction of 7.87 Gy (ADR GA), with skin Dmean reductions of 2 to 3 Gy. CONCLUSION: This study demonstrates that FLASH outcomes are highly sensitive to scanning trajectory, scan speed, and model selection. Beyond these parameters, optimizing spot delivery using a path minimizer, such as GA, can further improve the dose-rate distribution in healthy voxels across all scenarios.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42107782/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.04.095)
+
+
+---
+
+### Use of apertures in single-energy pristine Bragg peak FLASH radiotherapy.
+
+*Ma Y, Selvaraj B, Zhao X, Cheng C, Chen CC, Diao L et al.* — Journal of applied clinical medical physics (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Proton single-energy Bragg peak (SEBP) FLASH delivery can achieve dosimetric distributions equivalent to conventional intensity-modulated proton therapy (IMPT). However, range-pulling and field compensator devices enlarge the proton pencil beam spot size, increasing lateral penumbra and compromising dose conformality and high-dose-rate distribution.
+
+
+??? note "Abstract"
+    BACKGROUND: Proton single-energy Bragg peak (SEBP) FLASH delivery can achieve dosimetric distributions equivalent to conventional intensity-modulated proton therapy (IMPT). However, range-pulling and field compensator devices enlarge the proton pencil beam spot size, increasing lateral penumbra and compromising dose conformality and high-dose-rate distribution. Apertures are employed to mitigate these effects, enhancing dose metrics while preserving ultra-high dose rate performance. PURPOSE: To investigate the efficacy of apertures in sharpening lateral dose falloff and enhancing dose conformity in proton pencil beam scanning (PBS) Bragg peak (BP) FLASH radiotherapy (RT), addressing increased lateral dose spillage caused by universal range shifter (URS) and range compensator (RC) usage. METHODS: PBS Single-energy BP (SEBP) FLASH treatment plans with and without brass apertures were optimized using an in-house planning system. Dose and dose rate characteristics were simulated using MCSquare. Penumbra reduction was assessed in a water phantom for 3 and 5 cm square fields under varying pullback (10 cm, 20 cm. 30 cm) and air gap (5 cm, 10 cm, 15 cm) conditions. Aperture effects were evaluated at the entrance, midpoint, and BP positions. The rGBM cancer plan was optimized using SEBP with various dose thresholds (0, 2, and 5 Gy) applied to analyze dose and ultra-high dose rate (V40Gy(RBE)/s) performance. RESULTS: Use of aperture significantly reduced lateral penumbra across all spatial positions. The degree of penumbra reduction increased significantly with the increased pullback, and the reduction effect at the BP was generally comparable to that at the entrance. The 5 cm field generally showed greater penumbra reduction than the 3 cm field. In the rGBM case, apertures improved gross tumor volume (GTV) dose conformity and reduced organ-at-risk (OAR) exposure but decreased ultra-high dose rate coverage for both GTV and OARs. The ultra-high dose rate coverage of GTV was not affected by the dose threshold, while the ultra-high dose rate coverage of the brain increased with the increasing dose threshold. CONCLUSION: Apertures effectively reduce lateral penumbra and dose spalliage to OARs, improving target dose conformity in range shifter-based SEBP FLASH-RT. They also can reduce ultra-high dose-rate exposure to critical OARs in the low-dose region while maintaining the FLASH ratio in the high-dose region.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42050792/) · [DOI](https://doi.org/10.1002/acm2.70593) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13125415/)
+
+
+---
+
+### A beam model and Boltzmann solver for radiotherapy treatment planning of superficial brain metastases using a scanned electron beam at ultra-high (FLASH) dose rate.
+
+*Bedford J, Gross M, Riemer F, Amirkhanyan Z, Stephan F, Oelfke U* — Physics in medicine and biology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Objective.Contemporary particle accelerators allow for the generation of a narrow pencil beam of electrons which can be scanned to deliver a clinical dose distribution at an ultra-high (FLASH) dose rate. This study develops a radiotherapy beam model and discrete ordinates Boltzmann solver for such an accelerator and then applies the method to treatment planning for superficial brain metastases.App…
+
+
+??? note "Abstract"
+    Objective.Contemporary particle accelerators allow for the generation of a narrow pencil beam of electrons which can be scanned to deliver a clinical dose distribution at an ultra-high (FLASH) dose rate. This study develops a radiotherapy beam model and discrete ordinates Boltzmann solver for such an accelerator and then applies the method to treatment planning for superficial brain metastases.Approach.Beam profiles for the quasi-monoenergetic 17.5 MeV electron beam from the Photo Injector Test facility at Deutsches Elektronen-Synchrotron laboratory in Zeuthen (PITZ) were measured at various depths in a water tank using radiochromic film. The incident radiation was modelled as a Gaussian source and the electron distribution in the patient was modelled using classical observations with continuous slowing down approximation (CSDA). This distribution then formed the fixed source component in a discrete ordinates Boltzmann solver. The dose calculation method was then applied to a retrospective study of six patients with superficial brain metastases. The dose due to scanned electrons was compared with that from a single passively scattered proton beam at ultra-high dose rate (UHDR), a proton arc, and a robotic photon treatment.Main results.The calculated dose distribution in a homogeneous water phantom agreed with the measured data to within the 3% experimental uncertainty at all depths. Scanned electron beams were able to provide dose distributions for superficial brain metastases that had a better conformity index than either passively scattered protons or robotic photon treatment (1.02 ± 0.13 versus 1.54 ± 0.13 and 1.35 ± 0.26 respectively; median ± hemi-range; p &lt; 0.05). Brain V12Gyand skin dose were acceptable for all treatments.Significance.The dose calculation provides a fast and efficient method for inverse planning in the potential clinical application of a scanned electron beam at UHDR. The results show that such an approach could be useful in the treatment of superficial target volumes.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42009057/) · [DOI](https://doi.org/10.1088/1361-6560/ae6225) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13145812/)
+
+
+---
+
+### Experimental data-driven design of 3D range modulators for proton conformal FLASH applications.
+
+*Wang A, Setianegara J, Lin Y, Xiao P, Gerard N, Nys J et al.* — Medical physics (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Proton ultra-high-dose-rate (FLASH) radiotherapy has shown great potential in proton therapy owing to its superior sparing of organs at risk. Current FLASH-capable cyclotrons are restricted to single-energy deliveries and hence, preclinical FLASH experiments have been performed with transmission beams.
+
+
+??? note "Abstract"
+    BACKGROUND: Proton ultra-high-dose-rate (FLASH) radiotherapy has shown great potential in proton therapy owing to its superior sparing of organs at risk. Current FLASH-capable cyclotrons are restricted to single-energy deliveries and hence, preclinical FLASH experiments have been performed with transmission beams. Recently, 3D range modulators (3D RMs) have been increasingly investigated to confer better dose conformality versus transmission beams. However, existing RM designs rely heavily on time-consuming and resource-intensive simulation-based iterations, posing substantial barriers to clinical applicability. PURPOSE: This work developed and experimentally validated a data-driven design method of 3D RMs for proton conformal FLASH. METHODS: Three 3D RMs corresponding to different target geometries were designed from an extensive base data library consisting of experimental proton spot profiles and IDDs through varying 3D RM material thicknesses from a FLASH-capable proton synchrocyclotron&#x27;s (IBA Proteus®ONE) beam model. Each RM was designed to create conformal dose distributions of varying geometries from a single-energy beam by creating spread-out-Bragg-peaks per spot. Expedient dose calculations were performed with a MATLAB-based simplified dose engine consisting of pencil beam algorithms. All RMs were 3D-printed with resin. All plans were experimentally delivered. 1D absolute dose measurements were performed with a plane-parallel ion chamber (PPC05), 2D profile measurements were performed with radiochromic films (EBT-XD) and an end-to-end test performed with a 2D ionization chamber array (MatriXX ONE) with absolute dose calibration. Compared with traditional simulation-based approaches, which often require several days to develop a reliable machine-specific model, the proposed data-driven framework enables model establishment using approximately one day of experimental measurements. RESULTS: Good dose conformities were achieved for all targets with the FLASH dose-rates achieved through all 3D RMs. Experimentally measured doses had gamma passing rates above 95% at 2%/2 mm showing good dose calculation agreements with our expedient data-driven approach. CONCLUSIONS: This study experimentally validated an expedient data-driven design method of 3D RMs, demonstrating the feasibility of a non-simulation-based approach for 3D RM design and providing a practical foundation for clinical translation of proton conformal FLASH.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41984546/) · [DOI](https://doi.org/10.1002/mp.70436)
+
+
+---
+
+### FLASH Stereotactic radiosurgery for brain metastases using proton Bragg peak tracking can achieve IMPT equivalent dosimetry.
+
+*Lynch N, Jackson J, Cheng C, Zhao X, Wei Z, Lin H et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Stereotactic radiosurgery (SRS) is a primary technique for treating brain metastasis, however it can be associated with loss of neurocognitive function and necrosis. FLASH radiotherapy has demonstrated superior normal tissue sparing, however its clinical feasibility for treating multiple brain metastases has not yet been assessed.
+
+
+??? note "Abstract"
+    PURPOSE/OBJECTIVES: Stereotactic radiosurgery (SRS) is a primary technique for treating brain metastasis, however it can be associated with loss of neurocognitive function and necrosis. FLASH radiotherapy has demonstrated superior normal tissue sparing, however its clinical feasibility for treating multiple brain metastases has not yet been assessed. This study aims to establish a proof of concept for applying this novel modality in brain metastases treatment. METHODS: We implemented a single-energy Bragg peak (SEBP) tracking technique into an in house treatment planning platform. SEBP uses a single-energy layer from the cyclotron, along with a range shifter and range compensator, to achieve Bragg peak distal tracking and enable ultra high dose rate (UHDR) delivery. Standard of care IMPT was compared with the SEBP-FLASH method for delivering a single 18 Gy(RBE) fraction in eight patients with multiple brain metastases. Dosimetric parameters were compared between IMPT and SEBP-FLASH and dose rate volume histograms (DRVH) were used to evaluate the UHDR ratio (V40Gy(RBE)/s) to determine treatment feasibility and potential benefits. RESULTS: The 3D dose distributions were comparable between the two techniques, with each producing conformal dose distributions while remaining within clinical constraints. UHDR evaluation of SEBP-FLASH plans demonstrated that all critical organs at risk (OARs), including normal brain tissue and the brainstem achieved (&gt;97%) FLASH dose rate coverage at a dose threshold to 5 Gy(RBE). CONCLUSION: SEBP-FLASH delivery provides conformal dose distributions suitable for stereotactic treatment of multiple brain metastases, with dosimetric parameters meeting clinical recommendations and achieving the dose rates required for the FLASH effect. This approach shows promise in balancing effective tumor control with enhanced normal tissue protection, potentially reducing toxicities.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41933594/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111512)
+
 
 ---
 
@@ -21,6 +173,25 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41905127/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.105787)
+
+
+---
+
+### 4D robust evaluation for the intensity-modulated-proton-radiotherapy plans for patients with ventricular tachycardia based on cardiopulmonary motion characteristics.
+
+*Wang S, Fan X, Tong Y, Su M, Li W, Sha X et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
+
+<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Clinical trials and case reports have demonstrated that radiotherapy effectively reduces the frequency of ventricular tachycardia (VT) events. Given the sensitive anatomy of the treatment target, it is important to minimize the normal tissue dose while optimizing the target dose.
+
+
+??? note "Abstract"
+    BACKGROUND: Clinical trials and case reports have demonstrated that radiotherapy effectively reduces the frequency of ventricular tachycardia (VT) events. Given the sensitive anatomy of the treatment target, it is important to minimize the normal tissue dose while optimizing the target dose. This retrospective study investigated the optimal treatment planning strategy utilizing proton beams for VT patients to mitigate the effect of both cardiac and respiratory motion. METHODS: Twelve patients with respiratory-related 4DCT data and six patients with cardiac 4DCT data were enrolled in this study. The left ventricular wall was segmented into four regions (Anterior, Inferior, Lateral and Septal) according to Milo&#x27;s delineation guidelines to simulate various CTVs. Single-field plans with five different kinds of beam angle and multi-field plans were created to identify the optimal angle. RESULTS: The selection of beam angles significantly affected target coverage. The dose uncertainty due to respiratory motion was found to be greater than that of the heartbeat based on the 4D dynamic dose evaluation. Multi-field plans provided better protection for the heart and lungs but showed limitations in ensuring sufficient target coverage under respiratory motion, particularly for Inferior and Lateral targets. CONCLUSION: For optimal dose delivery (defined as achieving robust target coverage), a multiple-field plan with beam angles of 60° (targets A and I), 90° (targets L) and 30° (targets S) as the primary field is recommended. Patient-specific 4D dynamic evaluations are of great importance to ensure the treatment&#x27;s safety and effectiveness. ABBREVIATIONS: VT, ventricular tachycardia; r4DCT, respiratory-related 4DCT; c4DCT, cardiac 4DCT; VF, ventricular fibrillation; ICD, implantable cardioverter defibrillators; SART, stereotactic ablative radiotherapy; CTV, clinical target volume; ICTV, internal clinical target volume; RBE, relative biological effectiveness; 4DDD, 4D dynamic dose; PBS, pencil beam scanning; DIR, deformable image registration; WEL, water-equivalent path length; OARs, organs at risk; DIR, deformable Image Registration; HI, homogeneity index; CI, conformability index; rCT, repeat CT; UHDR, ultra-high dose-rate; Lung-L, left lung; Lung-R, right lung; Lung-All, left lung + right lung.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41871504/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.105790)
 
 
 ---

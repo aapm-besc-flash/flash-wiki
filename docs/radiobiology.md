@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*437 records. Newest first.*
+*434 records. Newest first.*
 
 ---
 
@@ -21,6 +21,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42582154/) · [DOI](https://doi.org/10.3389/fonc.2026.1857611) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13457129/)
+
+
+---
+
+### Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
+
+*Pang D, Kaphle A, Yin L, Bai H, Wells M, Miles D et al.* — International journal of radiation oncology, biology, physics (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventio…
+
+
+??? note "Abstract"
+    PURPOSE: This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of double strand breaks (DSB) per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10 mM HEPES concentration at the 1 kGy dose; however, at 3 kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10 mM HEPES concentration, this effect is dose-rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer-scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and LET.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42556588/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.07.043)
 
 
 ---
@@ -44,21 +63,21 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Influence of Fractionation and Beam Sequencing on Absorbed Dose to Circulating Lymphocytes During Ultra-High Dose Rate and Conventional Radiotherapy: An In Silico Study.
+### Changes in Yields of Water Radiolysis Species and Strand Breaks of Pbr322 Plasmid DNA under Ultra-high Dose Rate C Ions: Towards the Elucidation of the Mechanism of FLASH Radiotherapy.
 
-*de Kermenguy F, Satragno C, El-Aichi M, Diallo I, Veres C, Talebi F et al.* — JCO clinical cancer informatics (2026)  
+*Mamiya T, Kasamatsu K, Inaniwa T, Kurita K, Kodaira S, Konishi T et al.* — Radiation research (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** Several in silico models concluded that ultra-high dose rate (UHDR) radiotherapy could spare large quantities of circulating lymphocytes. However, preclinical studies failed to show a reduction in radiation-induced lymphopenia after UHDR irradiation compared with conventional dose rates (CONV).
+**TL;DR.** To clarify the mechanisms of FLASH radiotherapy using C ion beams (373 MeV/u and 90 MeV/u), we investigated the dose rate dependence of yields of water radiolysis species (OH radicals, hydrated electrons, and hydrogen peroxide). Additionally, we evaluated changes in the induction rate of DNA strand breaks as a function of dose rate using pBR322 plasmid DNA in solutions.
 
 
 ??? note "Abstract"
-    PURPOSE: Several in silico models concluded that ultra-high dose rate (UHDR) radiotherapy could spare large quantities of circulating lymphocytes. However, preclinical studies failed to show a reduction in radiation-induced lymphopenia after UHDR irradiation compared with conventional dose rates (CONV). This study aims to investigate the influence of fractionation and beam sequencing on absorbed dose to circulating lymphocytes during CONV and UHDR irradiations. MATERIALS AND METHODS: The LymphoDose framework was applied to a cohort of 162 patients treated for brain tumors with 3D conformal radiotherapy. Four scenarios of UHDR treatment were compared: (S1) one fraction with all beams delivered simultaneously, (S2) one fraction with sequentially delivered beams, (S3) three fractions with all beams delivered simultaneously, and (S4) three fractions with sequentially delivered beams. RESULTS: UHDR fractionation and the beam delivery scheme had a significant impact on irradiated blood volume (1.3% ± 0.1% for S1 v 13% ± 3.2% for S4) and lymphocyte pool (12.5% ± 0.1% for S1 v 32.8% ± 0.2% for S4). UHDR scenarios primarily irradiate lymphocytes through exposure of head-and-neck lymph node rather than circulating blood. CONV and UHDR result in distinct temporal dose patterns for lymphocytes, characterized by either numerous low-dose fractions or a few high-dose pulses. CONCLUSION: The doses delivered to lymphoid organs account for a substantial portion of the total dose received by the lymphocyte pool, showing only a limited difference between UHDR and CONV in terms of lymphocyte exposure. The fractionation strategy of UHDR irradiation beams could play an important role in successfully translating UHDR treatments into clinical practice.
+    To clarify the mechanisms of FLASH radiotherapy using C ion beams (373 MeV/u and 90 MeV/u), we investigated the dose rate dependence of yields of water radiolysis species (OH radicals, hydrated electrons, and hydrogen peroxide). Additionally, we evaluated changes in the induction rate of DNA strand breaks as a function of dose rate using pBR322 plasmid DNA in solutions. Average dose rates were 0.2 Gy/s \[conventional (CONV)\] and 75 Gy/s \[ultra-high dose rate (UHDR)\] for 373 MeV/u, and 0.3 Gy/s (CONV) and 100 Gy/s (UHDR) for 90 MeV/u. The G values of water radiolysis species decreased with UHDR irradiation compared to CONV dose rate, except for hydrogen peroxide exposed to 90 MeV/u C ions, whose yield remained independent of dose rate. Furthermore, the induction rate of single-strand breaks (SSB) was unaffected by dose rate, while the induction of double-strand breaks (DSB) decreased after UHDR irradiation. These findings suggest that radical-radical reactions occur more efficiently with increasing dose rate, resulting in a reduced contribution of water radiolysis species to DNA strand breaks, especially DSBs, after irradiation with C ions. Therefore, changes in the contribution of water radiolysis species to DNA strand breaks could play a crucial role in the sparing effects observed after UHDR irradiation.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42467876/) · [DOI](https://doi.org/10.1200/CCI-26-00091) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13399734/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42457184/) · [DOI](https://doi.org/10.1667/RADE-25-00210.1)
 
 
 ---
@@ -78,25 +97,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42448000/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.07.006)
-
-
----
-
-### FLASH effect tissue sparing comparison for X-ray, hadron, and VHEE irradiation modalities.
-
-*Ibrahimi A, Both S, van Goethem MJ, Romano F, Gerbershagen A* — Scientific reports (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** FLASH-RT is an irradiation modality using Ultra-High-Dose-Rates, where a healthy tissue sparing effect is observed. Different particle types have distinct characteristics in lateral and distal dose deposition, which can affect the amount of healthy tissue sparing by the FLASH effect.
-
-
-??? note "Abstract"
-    FLASH-RT is an irradiation modality using Ultra-High-Dose-Rates, where a healthy tissue sparing effect is observed. Different particle types have distinct characteristics in lateral and distal dose deposition, which can affect the amount of healthy tissue sparing by the FLASH effect. However, few comparative studies investigate this impact. In this Monte Carlo-based study, we compare different irradiation modalities in a simple geometrical model and demonstrate how dose, dose-rate, and particle type influence the volume of healthy tissue benefiting from FLASH. The results indicate that less conformal modalities, such as X-rays and VHEE, benefit more from the effect than hadrons. Despite this, FLASH X-rays and FLASH VHEE still deposit higher dose to healthy tissue than conventional hadrons. Assuming a FLASH-triggering dose threshold and dose-rate threshold from literature, we found that hadrons require a target dose of 20 Gy and target dose-rate of 75 Gy/s to achieve healthy tissue sparing, about twice as high as for VHEE and X-rays. The results imply that highly fractionated treatments cannot be applied under current assumptions of FLASH-triggering dose and dose-rate thresholds. Future studies using clinical dose distributions could explore the use of multiple angles, fractionation possibilities, and relative biological effectiveness (RBE) for more specific clinical cases.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42443232/) · [DOI](https://doi.org/10.1038/s41598-026-46934-8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13365477/)
 
 
 ---
@@ -192,25 +192,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42413926/) · [DOI](https://doi.org/10.1667/RADE-25-00051)
-
-
----
-
-### One-year follow-up after fractionated ultra-high-dose-rate FLASH radiotherapy in patient with extramammary Paget disease of the scrotum.
-
-*Luo H, Yang C, Mao R, Ma L, Lei H, Chen P et al.* — Precision radiation oncology (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT.
-
-
-??? note "Abstract"
-    OBJECTIVE: Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown to reduce radiation-induced normal tissue injury in preclinical studies. Here, we describe the first patient worldwide to receive fractionated FLASH-RT. METHODS: An elderly male patient was diagnosed with extramammary Paget disease of the scrotum along with multiple lymph node and bone metastases. After 6 cycles of chemotherapy, the disease progressed in the scrotum. The scrotal lesions were evaluated for FLASH-RT. 9 MeV electron FLASH-RT was performed at a dose rate of 120 Gy/s. The field size was 5 cm × 5 cm, and the prescribed dose was 40 Gy in five fractions. Dosimetric verification was performed daily. Treatment response was evaluated at 3-month post FLASH-RT, and normal tissue toxicity was assessed from the beginning of FLASH-RT to 12-month post-irradiation. RESULTS: A 1-year follow-up was achieved for scrotal lesions treated with electron FLASH-RT in patients with extramammary Paget disease. Electron FLASH-RT was safe, and treatment-related adverse events were mild. Transient skin toxicity occurred 2-5 weeks post FLASH-RT, and exudation and burning pain were significantly alleviated. A complete response was achieved 2-3 months post FLASH-RT, and the tumor lesions were covered by the normal epithelium of the scrotum. At the end of the one-year follow-up, the tumor lesions continued to respond, and one-year survival was achieved without additional injury to the irradiated areas after FLASH-RT. CONCLUSION: Fractionated electron FLASH-RT is feasible and safe for the treatment of extramammary Paget disease of the scrotum. Our findings support further exploration of electron FLASH-RT in patients with skin tumors.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42358284/) · [DOI](https://doi.org/10.1002/pro6.70045) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13292164/)
 
 
 ---
@@ -443,25 +424,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Optimizing Transmission FLASH Radiation Therapy for Large-Field Postmastectomy Breast Treatment.
-
-*Zafar AJ, Dutta SW, Case MJ, Diamond Z, Bohannon D, Jagsi R et al.* — International journal of radiation oncology, biology, physics (2026)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** We investigated the effect of scanning speed, beam configuration, and dose-rate modeling on the FLASH effect in postmastectomy proton transmission beams planning and evaluated the potential of spot scanning path optimization for enhancing the FLASH effect. METHODS AND MATERIALS: Five patients with left-sided postmastectomy breast cancer (32 Gy/5 fractions) were retrospectively replanned with singl…
-
-
-??? note "Abstract"
-    PURPOSE: We investigated the effect of scanning speed, beam configuration, and dose-rate modeling on the FLASH effect in postmastectomy proton transmission beams planning and evaluated the potential of spot scanning path optimization for enhancing the FLASH effect. METHODS AND MATERIALS: Five patients with left-sided postmastectomy breast cancer (32 Gy/5 fractions) were retrospectively replanned with single-energy (249 MeV) tangential transmission beams, supplemented by a clinical en face beam for dose homogenization. FLASH evaluation employed 2 models: Krieger&#x27;s FLASH effectiveness model (FEM) and Folkerts&#x27; average dose-rate (ADR) framework. Plans were simulated under conventional pencil beam scanning, split-field, and optimized spot sequences (using genetic algorithm \[GA\]), with vertical scan speeds varied from 10 to 20 mm/ms. FLASH effect in normal tissues was quantified by the percentage of voxels meeting the threshold (≥4 Gy at ≥40 Gy/s). A dose adjustment factor of 0.67 was applied to voxels meeting FLASH criteria to compute FLASH-weighted dose metrics in normal tissues within the chest wall target, whereas the physical dose to tumor cells remained unchanged. RESULTS: The FLASH effect showed high sensitivity to scanning patterns and model selection. Increasing vertical scan speed from 10 to 20 mm/ms increased the FLASH in clinical target volume (CTV) by 22% (ADR) and 12% (FEM), whereas in skin, it rose from 41.4% to 58.8% (ADR) and 8.4% to 13.1% (FEM). Split-field delivery improved the temporal distance between the vertical columns of the spot scanning pattern, yielding a superior FLASH effect, which is up to a 9.2 Gy reduction in CTV (FLASH-corrected) Dmean(mean dose) with the ADR model. GA-based optimization shortened scan time and provided FLASH comparable with split-field delivery, with a CTV Dmean reduction of 7.87 Gy (ADR GA), with skin Dmean reductions of 2 to 3 Gy. CONCLUSION: This study demonstrates that FLASH outcomes are highly sensitive to scanning trajectory, scan speed, and model selection. Beyond these parameters, optimizing spot delivery using a path minimizer, such as GA, can further improve the dose-rate distribution in healthy voxels across all scenarios.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42107782/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.04.095)
-
-
----
-
 ### Effect of oxygen and nanoparticles on human skin and colon cells exposed to synchrotron-based X-ray FLASH beams.
 
 *Geso M, Cameron M, Ffrench T, Forrester H, Lynch R, Nakayama M et al.* — Journal of synchrotron radiation (2026)  
@@ -557,25 +519,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Emerging FLASH therapy platforms for stereotactic radiosurgery and body radiotherapy.
-
-*Chen D, Schulz JB, Melemenidis S, Skinner L, Xing L, Loo BW et al.* — Journal of radiosurgery and SBRT (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** The integration of FLASH radiotherapy with stereotactic techniques presents a promising avenue for improving therapeutic outcomes through normal tissue sparing while maintaining tumor control. However, significant technical challenges must be addressed for successful clinical implementation.
-
-
-??? note "Abstract"
-    The integration of FLASH radiotherapy with stereotactic techniques presents a promising avenue for improving therapeutic outcomes through normal tissue sparing while maintaining tumor control. However, significant technical challenges must be addressed for successful clinical implementation. This review evaluates emerging platforms and technical requirements for combining FLASH delivery with stereotactic radiosurgery (SRS) and stereotactic body radiotherapy (SBRT). While electrons have enabled extensive preclinical FLASH research, their limited penetration depth makes them unsuitable for most stereotactic applications. Photon-based systems face significant engineering challenges in achieving both FLASH dose rates (&gt;40 Gy/s) and the beam characteristics necessary for stereotactic delivery, particularly regarding heat management and multi-angle treatment capabilities. Proton and heavy ion systems offer advantages through the Bragg peak but require substantial development to overcome technical limitations in beam delivery and scanning speeds. We evaluate emerging platforms including novel accelerator designs, beam monitoring systems, and delivery techniques aimed at clinical translation. Critical technical requirements are discussed, including specialized dosimetry systems capable of ultra-high dose rate measurements, quality assurance protocols, treatment planning systems that optimize both spatial and temporal aspects of delivery, and novel image guidance strategies.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42004842/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13007232/)
-
-
----
-
 ### Unraveling the Redox Mechanisms Underlying FLASH Radiotherapy: Critical Dose Thresholds and NRF2-Driven Sparing of Tissue.
 
 *Zhang Y, Huang C, Hu A, Wang Y, Wang W, Zhu Y et al.* — International journal of radiation oncology, biology, physics (2026)  
@@ -633,25 +576,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Enable preclinical, high-precision image-guided radiotherapy research with a stand-alone small animal IGRT system.
-
-*Deng W, Han D, Byrne KE, Bhandary B, Jiang K, Poirier YP et al.* — Medical physics (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Many preclinical studies involving novel particle radiotherapy techniques have been conducted without precise image guidance due to the lack of an image-guided small animal radiotherapy research platform for them, such as ultra-high dose rate radiation (UHDR), mini-beam, and grid therapy. This limitation restricts the complexity of research questions that can be effectively addressed.
-
-
-??? note "Abstract"
-    BACKGROUND: Many preclinical studies involving novel particle radiotherapy techniques have been conducted without precise image guidance due to the lack of an image-guided small animal radiotherapy research platform for them, such as ultra-high dose rate radiation (UHDR), mini-beam, and grid therapy. This limitation restricts the complexity of research questions that can be effectively addressed. PURPOSE: We developed a workflow to utilize 3D imaging on a Small Animal Radiation Research Platform (SARRP) for precise targeting of internal regions in small animals with a separated treatment beam. METHODS: Our approach mimics the workflow of patient treatment to decouple the imaging process from the radiation system. The SARRP cone-beam CT system was used to image and center the target. Alignment markers were then added to the top surface of the animal platform using the SARRP&#x27;s well-calibrated laser system, which was consequently transferred and aligned to a collimator in a clinical treatment room. Validation of the method was performed using BB targets within both a mouse phantom and a euthanized rat. The distance between the center of the radiation field and the BB was measured to determine the setup error for the entire procedure. The use of a collimator reduces the impact of setup uncertainty in the treatment room. RESULTS: Our approach achieved a setup accuracy of approximately 0.5 mm, ensuring the target was consistently positioned at the center of the collimated radiation field center after transferring from the SARRP system. This is comparable to the isocentricity of the SARRP itself (∼±0.5 mm). CONCLUSIONS: By decoupling the imaging and radiation systems while maintaining sub-millimeter setup accuracy, this workflow introduces flexibility for conducting high-precision, image-guided preclinical studies across different radiation modalities and techniques, for example, protons, electrons, neutrons, UHDR (FLASH), Small-Field-RT, etc. The workflow uses simple equipment and can be easily implemented by other centers.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41984545/) · [DOI](https://doi.org/10.1002/mp.70426) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13082439/)
-
-
----
-
 ### Split-Dose FLASH Irradiation to Investigate the Clinical Feasibility of Multifield Treatments: The Effect of Split Dose and Dose Rate on FLASH.
 
 *Erickson DPJ, Shaver BA, Grassberger C, Morimoto A, Seitz Z, Cui S et al.* — International journal of radiation oncology, biology, physics (2026)  
@@ -667,25 +591,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41962747/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.03.053)
-
-
----
-
-### FLASH Stereotactic radiosurgery for brain metastases using proton Bragg peak tracking can achieve IMPT equivalent dosimetry.
-
-*Lynch N, Jackson J, Cheng C, Zhao X, Wei Z, Lin H et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Stereotactic radiosurgery (SRS) is a primary technique for treating brain metastasis, however it can be associated with loss of neurocognitive function and necrosis. FLASH radiotherapy has demonstrated superior normal tissue sparing, however its clinical feasibility for treating multiple brain metastases has not yet been assessed.
-
-
-??? note "Abstract"
-    PURPOSE/OBJECTIVES: Stereotactic radiosurgery (SRS) is a primary technique for treating brain metastasis, however it can be associated with loss of neurocognitive function and necrosis. FLASH radiotherapy has demonstrated superior normal tissue sparing, however its clinical feasibility for treating multiple brain metastases has not yet been assessed. This study aims to establish a proof of concept for applying this novel modality in brain metastases treatment. METHODS: We implemented a single-energy Bragg peak (SEBP) tracking technique into an in house treatment planning platform. SEBP uses a single-energy layer from the cyclotron, along with a range shifter and range compensator, to achieve Bragg peak distal tracking and enable ultra high dose rate (UHDR) delivery. Standard of care IMPT was compared with the SEBP-FLASH method for delivering a single 18 Gy(RBE) fraction in eight patients with multiple brain metastases. Dosimetric parameters were compared between IMPT and SEBP-FLASH and dose rate volume histograms (DRVH) were used to evaluate the UHDR ratio (V40Gy(RBE)/s) to determine treatment feasibility and potential benefits. RESULTS: The 3D dose distributions were comparable between the two techniques, with each producing conformal dose distributions while remaining within clinical constraints. UHDR evaluation of SEBP-FLASH plans demonstrated that all critical organs at risk (OARs), including normal brain tissue and the brainstem achieved (&gt;97%) FLASH dose rate coverage at a dose threshold to 5 Gy(RBE). CONCLUSION: SEBP-FLASH delivery provides conformal dose distributions suitable for stereotactic treatment of multiple brain metastases, with dosimetric parameters meeting clinical recommendations and achieving the dose rates required for the FLASH effect. This approach shows promise in balancing effective tumor control with enhanced normal tissue protection, potentially reducing toxicities.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41933594/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111512)
 
 
 ---
@@ -895,6 +800,44 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41764525/) · [DOI](https://doi.org/10.1186/s13014-026-02809-w) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13059263/)
+
+
+---
+
+### PEERing into the Future: Benchmarking the ANSTO Australian Synchrotron&#x27;s Very-High-Energy Electron Linac for Ultra-High Dose-Rate, In Vivo FLASH Radiotherapy Research.
+
+*Cayley J, Engels E, Charles T, Roughley K, Wegner M, Koschny S et al.* — Cancers (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** The PEER beamline at the ANSTO Australian Synchrotron has been developed to enable VHEE FLASH radiotherapy studies, both dosimetric and biological. Featuring a 100 MeV electron linac, it delivers single or multi-pulse irradiations consisting of 100 ps bunches with a 2 ns spacing, resulting in average dose-rates and instantaneous dose-rates as high as 108 Gy/s and 109 Gy/s, respectively.
+
+
+??? note "Abstract"
+    Background/Objectives: The PEER beamline at the ANSTO Australian Synchrotron has been developed to enable VHEE FLASH radiotherapy studies, both dosimetric and biological. Featuring a 100 MeV electron linac, it delivers single or multi-pulse irradiations consisting of 100 ps bunches with a 2 ns spacing, resulting in average dose-rates and instantaneous dose-rates as high as 108 Gy/s and 109 Gy/s, respectively. Much work has been conducted to realise a stable accelerator facility, complete with the tooling and diagnostics required to undertake such studies. However, to truly confirm its suitability required a successful biological benchmarking. Methods: Three cell lines were irradiated utilising real-time dosimetry to compare linear quadratic cell survival curves with other facilities. Also, mouse cadavers were transported and irradiated, mimicking live animals, to assess the feasibility and logistics of small animal experiments. Results: By comparing the trends of the linear quadratic model, evident in the α and β parameters, the PEER cell survival results were shown to be in agreement with VHEE results from the ARES beamline at DESY, Hamburg, Germany. Evident in the survival trends, VHEE produced more cell sparing in all cell lines compared to 2 Gy/s X-rays delivered on the IMBL, another beamline at the Australian Synchrotron. The results of the mouse cadaver irradiations showed that PEER can safely and efficiently irradiate small animals. Conclusions: The PEER beamline is shown to possess suitable capabilities, including real-time dosimetry, repeatable alignment, and linac diagnostics, rendering it suitable for future in vivo VHEE UHDR FLASH radiotherapy investigations.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41749893/) · [DOI](https://doi.org/10.3390/cancers18040640) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12939895/)
+
+
+---
+
+### FLASH radiotherapy preserves systemic and tissue homeostasis while maintaining antitumor efficacy.
+
+*Furini G, Mota da Silva E, Usai A, Scabia G, Kusmic C, Faita F et al.* — BMC medicine (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Conventional radiotherapy (CONV-RT) is widely used for cancer treatment, but its efficacy is limited by toxicity to surrounding healthy tissues. Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising approach, maintaining tumor control while sparing normal tissues.
+
+
+??? note "Abstract"
+    BACKGROUND: Conventional radiotherapy (CONV-RT) is widely used for cancer treatment, but its efficacy is limited by toxicity to surrounding healthy tissues. Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising approach, maintaining tumor control while sparing normal tissues. Melanoma is highly radioresistant, and deep-seated lesions expose skin and muscle to radiation, causing long-term fibrosis, stiffness, and loss of elasticity. The aim of this study is to compare the efficacy and collateral effects of CONV-RT and FLASH-RT, using melanoma as a benchmark for tumor response and skin-muscle as a model for normal tissue toxicity, and to investigate the underlying molecular and systemic mechanisms. METHODS: A novel linear accelerator (LINAC) delivering low-energy electrons at ultra-high dose rate via a triode gun with precise tissue targeting and dose delivery was used. CONV-RT and FLASH-RT were administered to a syngeneic melanoma mouse model. Tumor growth, skin and muscle integrity, transcriptional changes, and systemic homeostasis were analyzed in tumor-bearing and naïve mice. RESULTS: Both modalities achieved comparable tumor suppression. CONV-RT induced persistent skin damage, dermal fibrosis, muscle dysfunction, and systemic inflammatory-metabolic alterations, whereas FLASH-RT largely preserved tissue architecture and systemic balance. Bulk RNA sequencing revealed minimal transcriptional disruption after FLASH-RT, while CONV-RT triggered thousands of differentially expressed genes, including pathways related to fibrosis, inflammation, cell death in skin, and muscle remodeling, function, and the unfolded protein response. Histological and ultrastructural analyses confirmed reduced immune infiltration and preserved tissue structure following FLASH-RT. CONCLUSIONS: FLASH-RT provides effective tumor control while largely preserving normal tissues. CONV-RT and FLASH-RT elicit substantially different biological responses, suggesting the involvement of upstream modulators that vary depending on the dose rate.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41742130/) · [DOI](https://doi.org/10.1186/s12916-026-04724-z) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13081300/)
 
 
 ---

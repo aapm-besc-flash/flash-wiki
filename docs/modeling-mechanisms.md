@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*168 records. Newest first.*
+*164 records. Newest first.*
 
 ---
 
@@ -25,25 +25,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
-
-*Pang D, Kaphle A, Yin L, Bai H, Wells M, Miles D et al.* — International journal of radiation oncology, biology, physics (2026)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventio…
-
-
-??? note "Abstract"
-    PURPOSE: This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of double strand breaks (DSB) per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10 mM HEPES concentration at the 1 kGy dose; however, at 3 kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10 mM HEPES concentration, this effect is dose-rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer-scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and LET.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42556588/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.07.043)
-
-
----
-
 ### Pulse-resolved tumor control probability modeling for FLASH radiotherapy using a variable-time treatment-course framework.
 
 *Lee TK* — Physics in medicine and biology (2026)  
@@ -51,11 +32,11 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
 
 
-**TL;DR.** FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed TCP_LRF, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted TCP_LR, to connect FLASH beam microstructure, oxygen/radical kinetics, bi…
+**TL;DR.** Objective.FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted, to connect FLASH beam microstructure, oxygen/radical kinetics, biologi…
 
 
 ??? note "Abstract"
-    FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed TCP_LRF, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted TCP_LR, to connect FLASH beam microstructure, oxygen/radical kinetics, biological repair, and treatment-course repopulation.&amp;#xD;Approach: TCPLR was used as the parent treatment-course TCP model because it accommodates variable interfraction timing and kick-off-time-dependent accelerated repopulation. Its conventional cumulative survival term was replaced by a FLASH-aware survival term derived from a reduced-order oxygen/radical ordinary differential equation kernel. Each FLASH fraction was represented as a pulse train. The same oxygen/radical kinetics, lesion-yield calculation, and post-fraction repair layer were also implemented for standard-dose-rate continuous delivery to provide an internal comparator. The implementation was verified against uniform-dose benchmarks reported in the original Lee-Rosen publication describing TCP_LR and then evaluated using exploratory FLASH, repair, pulse-structure, and standard-dose-rate scenarios.&amp;#xD;Main results: Conventional verification reproduced published benchmark trends, with maximum absolute differences of 1.44, 1.21, and 3.48 percentage points for head-and-neck, breast, and prostate cases, respectively. In a 3 × 8 Gy starter case, calibrated null-FLASH TCP was 0.790. Moderate chemistry and strong radical recombination yielded TCP values of 0.713 and 0.703, respectively, whereas mild oxygen limitation reduced TCP to 0.276. Standard-dose-rate continuous delivery produced negligible oxygen depletion under null and moderate chemistry assumptions, while deliberately oxygen-limited standard-dose-rate cases showed reduced TCP.&amp;#xD;Significance: This exploratory framework provides a mechanistic treatment-course TCP platform for hypothesis testing in FLASH radiotherapy. It demonstrates how pulse microstructure and continuous standard-dose-rate delivery can be evaluated within the same published variable-time TCP_LR formulation, while showing that FLASH TCP behavior depends on oxygen/radical kinetic assumptions, pulse structure, repair, and oxygen availability rather than being universally preserved or reduced.
+    Objective.FLASH radiotherapy introduces beam temporal structure at the pulse and sub-pulse scale, whereas most tumor control probability (TCP) models are formulated at the fraction or treatment-course scale. This study developed, a pulse-resolved extension of the published Lee-Rosen time-dependent TCP formulation, here denoted, to connect FLASH beam microstructure, oxygen/radical kinetics, biological repair, and treatment-course repopulation.Approach.TCPLRwas used as the parent treatment-course TCP model because it accommodates variable interfraction timing and kick-off-time-dependent accelerated repopulation. Its conventional cumulative survival term was replaced by a FLASH-aware survival term derived from a reduced-order oxygen/radical ordinary differential equation kernel. Each FLASH fraction was represented as a pulse train. The same oxygen/radical kinetics, lesion-yield calculation, and post-fraction repair layer were also implemented for standard-dose-rate continuous delivery to provide an internal comparator. The implementation was verified against uniform-dose benchmarks reported in the original Lee-Rosen publication describingand then evaluated using exploratory FLASH, repair, pulse-structure, and standard-dose-rate scenarios.Main results.Conventional verification reproduced published benchmark trends, with maximum absolute differences of 1.44, 1.21, and 3.48 percentage points for head-and-neck, breast, and prostate cases, respectively. In a 3 × 8 Gy starter case, calibrated null-FLASH TCP was 0.790. Moderate chemistry and strong radical recombination yielded TCP values of 0.713 and 0.703, respectively, whereas mild oxygen limitation reduced TCP to 0.276. Standard-dose-rate continuous delivery produced negligible oxygen depletion under null and moderate chemistry assumptions, while deliberately oxygen-limited standard-dose-rate cases showed reduced TCP.Significance.This exploratory framework provides a mechanistic treatment-course TCP platform for hypothesis testing in FLASH radiotherapy. It demonstrates how pulse microstructure and continuous standard-dose-rate delivery can be evaluated within the same published variable-timeformulation, while showing that FLASH TCP behavior depends on oxygen/radical kinetic assumptions, pulse structure, repair, and oxygen availability rather than being universally preserved or reduced.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42546758/) · [DOI](https://doi.org/10.1088/1361-6560/ae944e)
@@ -101,21 +82,40 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Changes in Yields of Water Radiolysis Species and Strand Breaks of Pbr322 Plasmid DNA under Ultra-high Dose Rate C Ions: Towards the Elucidation of the Mechanism of FLASH Radiotherapy.
+### Influence of Fractionation and Beam Sequencing on Absorbed Dose to Circulating Lymphocytes During Ultra-High Dose Rate and Conventional Radiotherapy: An In Silico Study.
 
-*Mamiya T, Kasamatsu K, Inaniwa T, Kurita K, Kodaira S, Konishi T et al.* — Radiation research (2026)  
+*de Kermenguy F, Satragno C, El-Aichi M, Diallo I, Veres C, Talebi F et al.* — JCO clinical cancer informatics (2026)  
 
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-**TL;DR.** To clarify the mechanisms of FLASH radiotherapy using C ion beams (373 MeV/u and 90 MeV/u), we investigated the dose rate dependence of yields of water radiolysis species (OH radicals, hydrated electrons, and hydrogen peroxide). Additionally, we evaluated changes in the induction rate of DNA strand breaks as a function of dose rate using pBR322 plasmid DNA in solutions.
+**TL;DR.** Several in silico models concluded that ultra-high dose rate (UHDR) radiotherapy could spare large quantities of circulating lymphocytes. However, preclinical studies failed to show a reduction in radiation-induced lymphopenia after UHDR irradiation compared with conventional dose rates (CONV).
 
 
 ??? note "Abstract"
-    To clarify the mechanisms of FLASH radiotherapy using C ion beams (373 MeV/u and 90 MeV/u), we investigated the dose rate dependence of yields of water radiolysis species (OH radicals, hydrated electrons, and hydrogen peroxide). Additionally, we evaluated changes in the induction rate of DNA strand breaks as a function of dose rate using pBR322 plasmid DNA in solutions. Average dose rates were 0.2 Gy/s \[conventional (CONV)\] and 75 Gy/s \[ultra-high dose rate (UHDR)\] for 373 MeV/u, and 0.3 Gy/s (CONV) and 100 Gy/s (UHDR) for 90 MeV/u. The G values of water radiolysis species decreased with UHDR irradiation compared to CONV dose rate, except for hydrogen peroxide exposed to 90 MeV/u C ions, whose yield remained independent of dose rate. Furthermore, the induction rate of single-strand breaks (SSB) was unaffected by dose rate, while the induction of double-strand breaks (DSB) decreased after UHDR irradiation. These findings suggest that radical-radical reactions occur more efficiently with increasing dose rate, resulting in a reduced contribution of water radiolysis species to DNA strand breaks, especially DSBs, after irradiation with C ions. Therefore, changes in the contribution of water radiolysis species to DNA strand breaks could play a crucial role in the sparing effects observed after UHDR irradiation.
+    PURPOSE: Several in silico models concluded that ultra-high dose rate (UHDR) radiotherapy could spare large quantities of circulating lymphocytes. However, preclinical studies failed to show a reduction in radiation-induced lymphopenia after UHDR irradiation compared with conventional dose rates (CONV). This study aims to investigate the influence of fractionation and beam sequencing on absorbed dose to circulating lymphocytes during CONV and UHDR irradiations. MATERIALS AND METHODS: The LymphoDose framework was applied to a cohort of 162 patients treated for brain tumors with 3D conformal radiotherapy. Four scenarios of UHDR treatment were compared: (S1) one fraction with all beams delivered simultaneously, (S2) one fraction with sequentially delivered beams, (S3) three fractions with all beams delivered simultaneously, and (S4) three fractions with sequentially delivered beams. RESULTS: UHDR fractionation and the beam delivery scheme had a significant impact on irradiated blood volume (1.3% ± 0.1% for S1 v 13% ± 3.2% for S4) and lymphocyte pool (12.5% ± 0.1% for S1 v 32.8% ± 0.2% for S4). UHDR scenarios primarily irradiate lymphocytes through exposure of head-and-neck lymph node rather than circulating blood. CONV and UHDR result in distinct temporal dose patterns for lymphocytes, characterized by either numerous low-dose fractions or a few high-dose pulses. CONCLUSION: The doses delivered to lymphoid organs account for a substantial portion of the total dose received by the lymphocyte pool, showing only a limited difference between UHDR and CONV in terms of lymphocyte exposure. The fractionation strategy of UHDR irradiation beams could play an important role in successfully translating UHDR treatments into clinical practice.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42457184/) · [DOI](https://doi.org/10.1667/RADE-25-00210.1)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42467876/) · [DOI](https://doi.org/10.1200/CCI-26-00091) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13399734/)
+
+
+---
+
+### FLASH effect tissue sparing comparison for X-ray, hadron, and VHEE irradiation modalities.
+
+*Ibrahimi A, Both S, van Goethem MJ, Romano F, Gerbershagen A* — Scientific reports (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** FLASH-RT is an irradiation modality using Ultra-High-Dose-Rates, where a healthy tissue sparing effect is observed. Different particle types have distinct characteristics in lateral and distal dose deposition, which can affect the amount of healthy tissue sparing by the FLASH effect.
+
+
+??? note "Abstract"
+    FLASH-RT is an irradiation modality using Ultra-High-Dose-Rates, where a healthy tissue sparing effect is observed. Different particle types have distinct characteristics in lateral and distal dose deposition, which can affect the amount of healthy tissue sparing by the FLASH effect. However, few comparative studies investigate this impact. In this Monte Carlo-based study, we compare different irradiation modalities in a simple geometrical model and demonstrate how dose, dose-rate, and particle type influence the volume of healthy tissue benefiting from FLASH. The results indicate that less conformal modalities, such as X-rays and VHEE, benefit more from the effect than hadrons. Despite this, FLASH X-rays and FLASH VHEE still deposit higher dose to healthy tissue than conventional hadrons. Assuming a FLASH-triggering dose threshold and dose-rate threshold from literature, we found that hadrons require a target dose of 20 Gy and target dose-rate of 75 Gy/s to achieve healthy tissue sparing, about twice as high as for VHEE and X-rays. The results imply that highly fractionated treatments cannot be applied under current assumptions of FLASH-triggering dose and dose-rate thresholds. Future studies using clinical dose distributions could explore the use of multiple angles, fractionation possibilities, and relative biological effectiveness (RBE) for more specific clinical cases.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42443232/) · [DOI](https://doi.org/10.1038/s41598-026-46934-8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13365477/)
 
 
 ---
@@ -154,44 +154,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42329660/) · [DOI](https://doi.org/10.1002/mp.70539) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13285896/)
-
-
----
-
-### Volumetric FLASH dosimetryin vivousing real-time radiacoustic imaging.
-
-*Bjegovic K, Whitmore L, Pandey PK, Sun L, Connell L, Xu Y et al.* — Physics in medicine and biology (2026)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Objective.The main goal of this research is to verify the spatial fidelity of radiacoustic imaging (RAI) as a quantitative dosimetric monitoring tool for FLASH radiotherapy (FLASH-RT)in vivo. FLASH-RT delivers therapeutic radiation at ultra-high instantaneous dose rates (&gt;106Gy s-1), offering substantial reductions in normal tissue toxicity while maintaining tumor control.
-
-
-??? note "Abstract"
-    Objective.The main goal of this research is to verify the spatial fidelity of radiacoustic imaging (RAI) as a quantitative dosimetric monitoring tool for FLASH radiotherapy (FLASH-RT)in vivo. FLASH-RT delivers therapeutic radiation at ultra-high instantaneous dose rates (&gt;106Gy s-1), offering substantial reductions in normal tissue toxicity while maintaining tumor control. However, clinical translation remains limited by the absence of real-time,in vivodosimetry systems capable of resolving dose delivery at microsecond timescales.Approach.Here, we present an RAI platform that enables volumetric, single-pulse mapping of radiation dose deposition during FLASH-RTin vivo. The system utilizes a 16 × 16 ultrasound transducer matrix array with a model-based reconstruction algorithm to generate quantitative, three-dimensional dose maps with single pulse-level temporal resolution.Main results.In both water phantoms andin vivomurine models, RAI demonstrates high concordance with film dosimetry and TOPAS Monte Carlo simulations (3%/3 mm gamma index pass rates greater than 90% for small fields).Significance.This work establishes RAI as a viable technology for real-time, quantitative electron FLASH dosimetryin vivofor the first time, with the potential to support adaptive delivery, improve treatment safety, and facilitate the clinical translation of FLASH-RT.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42302829/) · [DOI](https://doi.org/10.1088/1361-6560/ae7e38)
-
-
----
-
-### Development and characterization of a 1-2 MeV electron beam platform with magnetic focusing and steering for shallow high-dose-rate irradiation.
-
-*Huang J, Hu S, Mo C, Ye Y, Zhang T, Dai Z et al.* — Physics in medicine and biology (2026)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Objective.To develop and experimentally characterize a 1-2 MeV electron linac platform with magnetic focusing and steering for superficial FLASH-compatible irradiation and electronically tunable spatial dose modulation.Approach.A preclinical 1-2 MeV electron linac was equipped with a solenoid for magnetic focusing and nested saddle-type scanning magnets for two-dimensional beam steering. Three-dim…
-
-
-??? note "Abstract"
-    Objective.To develop and experimentally characterize a 1-2 MeV electron linac platform with magnetic focusing and steering for superficial FLASH-compatible irradiation and electronically tunable spatial dose modulation.Approach.A preclinical 1-2 MeV electron linac was equipped with a solenoid for magnetic focusing and nested saddle-type scanning magnets for two-dimensional beam steering. Three-dimensional magnetic-field maps were computed in Opera and imported into a TOPAS Monte Carlo (MC) model incorporating the accelerator geometry, titanium exit foil, air gap, and water phantom for dose scoring. Dose distributions were measured using Gafchromic EBT-XD film. Film measurements of spot size, lateral dose profiles, and percentage depth-dose curves were compared with MC simulations. Multi-spot dose patterns were generated by varying scanning-magnet field strength, and peak spacing, peak-to-valley dose ratio, and dose rate as a function of repetition frequency were quantified.Main Results.In the solenoid-focused configuration, the beam size at the 80% isodose diameter was reduced from approximately 6 cm without solenoid focusing to 2 cm, and the measured dose rate reached 125 Gy s-1at 50 Hz. The measured full-width-at-half-maximum of the focused beam was 1.26 cm in theXdirection and 1.39 cm in theYdirection, and the TOPAS model agreed with EBT-XD film measurements to within about 4% in the high-dose region. Magnetic steering generated tunable three-spot shallow dose distributions with peak-to-peak spacing up to approximately 2.9 cm and a maximum peak-to-valley dose ratio of 28.0. By superposition of adjacent scanned beam positions, the system also produced a broadened shallow field with a 95%Dmaxflat-top width of 2.46 cm.Significance.The results demonstrate that a compact low-energy electron linac can provide a useful platform for studying FLASH-compatible superficial irradiation and electronically controlled spatial dose modulation in a regime where shallow dose confinement is advantageous.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42285143/) · [DOI](https://doi.org/10.1088/1361-6560/ae7cd3)
 
 
 ---
@@ -291,25 +253,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Monte Carlo and film dosimetry study of collimator effects on penumbra and out-of-field dose for very high-energy electrons.
-
-*Fischer J, Gilardi A, Malyzhenkov A, Korysko P, Hart A, Rieker V et al.* — Physics in medicine and biology (2026)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Objective.Very high-energy electrons (VHEEs) offer deep penetration, low scattering, and the potential for ultra-high dose rate delivery, making them promising candidates for future radiotherapy. However, the collimation of VHEE beams to achieve sharp beam penumbra remains poorly characterized.
-
-
-??? note "Abstract"
-    Objective.Very high-energy electrons (VHEEs) offer deep penetration, low scattering, and the potential for ultra-high dose rate delivery, making them promising candidates for future radiotherapy. However, the collimation of VHEE beams to achieve sharp beam penumbra remains poorly characterized. This study experimentally and computationally investigates how collimator material, thickness, and beam characteristics affect penumbra and out-of-field dose for VHEEs and establishes an initial foundation for the design of clinically feasible VHEE collimators.Approach.Tungsten, lead, and brass 5 mm diameter collimators were evaluated using film dosimetry with a 200 MeV electron beam delivered at the CERN Linear Electron Accelerator for Research and validated through Monte Carlo (MC) simulations. Experimental measurements of penumbra and out-of-field dose were compared with simulations that systematically varied material (tungsten, lead, brass), thickness (20-80 mm), and beam energy (150-250 MeV). Additional sensitivity tests quantified the impact of beam instability on field shaping.Main results.For measurements in air, penumbrae increased linearly with distance from the collimator and was smallest for tungsten. Out-of-field dose decreased with increasing thickness, falling below 0.5% for a 40 mm thick tungsten collimator. Brass exhibited the highest out-of-field dose (up to 4.8%) and broadest penumbra. MC models reproduced experimental trends within 5% for penumbrae but underestimated out-of-field dose, particularly for brass. The simulations indicated that VHEE beam divergence, beam size and collimator misalignment strongly influence beam penumbra and out-of-field dose.Significance.The presented work demonstrates that collimator material and geometry play a critical role in defining VHEE beam quality. Tungsten provided optimal attenuation and sharpness compared to brass and lead. These results establish quantitative benchmarks for VHEE collimator design and emphasize the importance of beam stability.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41985517/) · [DOI](https://doi.org/10.1088/1361-6560/ae6018)
-
-
----
-
 ### Oxygen Depletion in FLASH Particle Therapy: Effects of Linear Energy Transfer and Ion Track Structure.
 
 *Meesungnoen J, Jay-Gerin JP* — Antioxidants (Basel, Switzerland) (2026)  
@@ -344,25 +287,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41881566/) · [DOI](https://doi.org/10.1002/mp.70383) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13017082/)
-
-
----
-
-### A fully 3D-printed contoured double passive scattering system for ultra-high-dose-rate irradiations.
-
-*Ferro A, Van der Wal E, Puspitasari-Kokko A, Lathouwers D, Hoogeman M, Sacchi R et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Ultra-High Dose-Rate (UHDR) Proton Therapy is an area of active research due to its potential to target cancer cells while sparing healthy tissues. To deepen the knowledge of underlying biological mechanisms of FLASH effect, pre-clinical experiments are required, necessitating large uniform field achieving dose rates above 40 Gy/s.
-
-
-??? note "Abstract"
-    Ultra-High Dose-Rate (UHDR) Proton Therapy is an area of active research due to its potential to target cancer cells while sparing healthy tissues. To deepen the knowledge of underlying biological mechanisms of FLASH effect, pre-clinical experiments are required, necessitating large uniform field achieving dose rates above 40 Gy/s. To achieve this, in the Research &amp; Development (R&amp;D) fixed horizontal proton beam line of HollandPTC, a fully 3D printed contoured passive scattering system has been developed. This system is designed to shape a 250 MeV proton beam into a suitable configuration for pre-clinical radiobiological experiments, achieving the necessary dose rates and uniform field distribution. The beamline configuration was initially modelled using the Monte Carlo-based Tool for Particle Therapy Simulation (TOPAS). Subsequently, the contoured passive scattering system was optimized through simulations to generate a sufficiently uniform field for future radiobiological experiments. To validate simulations, the system was fabricated using advanced 3D printing technology. A tungsten-heavy filament blend, consisting of approximately 75% tungsten by mass, was employed in a fused deposition modelling (FDM) process. Simulations were validated against experimental data. The measured dose distributions demonstrated a lateral field uniformity exceeding 95%, corresponding to a dose homogeneity within ± 3% over a field diameter of 2.8 cm. Dose rates above 40 Gy/s were achieved under experimental conditions, with measured values reaching up to approximately 60 Gy/s at the beam entrance, and 100 Gy/s within the Spread-Out Bragg Peak (SOBP). These results confirm the system&#x27;s design and performance, thus opening multiple possibilities for UHDR radiobiological experiments.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41855699/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.105770)
 
 
 ---
