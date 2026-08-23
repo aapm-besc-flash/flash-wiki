@@ -7,3 +7,9 @@ openpyxl>=3.1
 matplotlib>=3.8
 
 # flash_harvest.py uses only the standard library (urllib, xml.etree) - nothing to add.
+
+# triage_agent.py - the API client, and pyyaml to read library/claims.yml.
+# Without pyyaml the script still runs but silently skips contradiction
+# checking, so it is a hard requirement rather than an optional extra.
+anthropic>=0.40
+pyyaml>=6.0
