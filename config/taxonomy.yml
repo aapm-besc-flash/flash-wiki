@@ -1,0 +1,70 @@
+# REPLACE THESE WITH YOUR ACTUAL TEN DOMAINS.
+#
+# The `scope` line is not documentation -- it is passed verbatim to the agent
+# and is what it uses to decide placement. Write scopes as boundary conditions,
+# not topic labels: say what belongs here AND what belongs next door. A vague
+# scope is the single largest source of misfiling.
+
+domains:
+  dosimetry:
+    label: Dosimetry and detectors
+    scope: >
+      Detector response, dose-rate dependence, saturation and recombination
+      correction, reference dosimetry, calibration chains, temporal dosimetry.
+      Beam-monitoring hardware belongs in delivery, not here.
+
+  delivery:
+    label: Beam delivery and accelerator technology
+    scope: >
+      Accelerator design, RF systems, beam transport, scanning and spreading,
+      pulse structure, machine-side hardware for UHDR delivery. Detector
+      physics belongs in dosimetry.
+
+  radiobiology:
+    label: Radiobiological mechanisms
+    scope: >
+      Proposed mechanisms of the FLASH effect: oxygen depletion, radical
+      chemistry, DNA damage kinetics, immune and stromal mechanism. Whole-animal
+      sparing endpoints belong in preclinical-normal-tissue.
+
+  preclinical_normal_tissue:
+    label: Preclinical normal tissue sparing
+    scope: >
+      In vivo normal-tissue endpoints in animal models. Mechanistic assays
+      without a tissue endpoint belong in radiobiology.
+
+  preclinical_tumor:
+    label: Preclinical tumor response
+    scope: >
+      Tumor control, growth delay, and isoeffect in animal and xenograft models,
+      including abscopal and combination-with-immunotherapy work.
+
+  clinical:
+    label: Clinical translation and trials
+    scope: >
+      Human trials, first-in-human reports, case series, veterinary clinical
+      studies, trial design, regulatory pathway, reimbursement.
+
+  planning:
+    label: Treatment planning and optimization
+    scope: >
+      Dose-rate-aware optimization, planning objectives and metrics, TPS
+      development, conversion of conventional plans to UHDR delivery.
+
+  modeling:
+    label: Modeling and simulation
+    scope: >
+      Monte Carlo, analytic and chemical kinetic models, machine learning
+      applied to prediction of the FLASH effect.
+
+  qa_standards:
+    label: QA, safety, and standards
+    scope: >
+      Machine and patient-specific QA, interlocks and safety systems, task
+      group and consensus documents, nomenclature, guidelines.
+
+  comparative:
+    label: Comparative and cross-modality
+    scope: >
+      Direct comparisons of electron, photon, proton, and ion UHDR delivery;
+      cross-platform benchmarking and multi-institution intercomparison.
