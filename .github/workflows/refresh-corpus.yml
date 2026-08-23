@@ -95,6 +95,15 @@ jobs:
         # disagreement shows up in the pull request body. TRIAGE_LIMIT caps
         # records per run, so the untriaged backlog drains over several months
         # rather than arriving as one large bill.
+        #
+        # continue-on-error: an Anthropic outage or an expired key must not cost
+        # the month's corpus refresh. The deterministic half of this pipeline --
+        # harvest, recall guard, build, RIS export, NotebookLM pack -- does not
+        # depend on the model, so it still runs and the PR still opens, with a
+        # notice at the top saying triage was skipped. Records missed this run
+        # are picked up next run, because a PMID is triaged exactly once.
+        id: triage
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           TRIAGE_LIMIT: "120"
@@ -133,7 +142,23 @@ jobs:
           # Append the triage section -- contradiction flags, category
           # disagreements, low-confidence records -- so it lands in the pull
           # request body alongside the corpus diff.
-          if [ -f .refresh/triage_report.md ]; then
+          if [ "${{ steps.triage.outcome }}" != "success" ]; then
+            {
+              echo
+              echo "## :warning: Agent triage did not run"
+              echo
+              echo "The triage step failed and was skipped. This refresh is"
+              echo "**keyword-categorized only** -- no agent summaries,"
+              echo "category review or contradiction flags for the new records."
+              echo
+              echo "Everything else is unaffected: the corpus, RIS exports and"
+              echo "the NotebookLM pack do not depend on the model. Records"
+              echo "missed here are triaged on the next run automatically."
+              echo
+              echo "Most likely cause is the \`ANTHROPIC_API_KEY\` secret."
+              echo "Step log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            } >> .refresh/pr_body.md
+          elif [ -f .refresh/triage_report.md ]; then
             cat .refresh/triage_report.md >> .refresh/pr_body.md
           fi
 
