@@ -2,7 +2,7 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*160 records. Newest first.*
+*162 records. Newest first.*
 
 ---
 
@@ -407,6 +407,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Results of the pilot experiment on the ultra-intense irradiation of a water phantom and various biological media with laser-driven beams of relativistic electrons in context of the FLASH effect are presented. Directed high-current beams of MeV electrons were generated in the interaction of a sub-picosecond PHELIX laser pulse at 1019 W/cm2 intensity with a low-density polymer foam, which was conver…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Pilot experiment demonstrating ultra-intense laser-driven relativistic electron beams for FLASH research. Water phantom and biological media were irradiated with 20–50 Gy delivered at a dose rate of 70 Gy/ps (claimed as world&#x27;s highest), enabling picosecond-scale temporal separation of oxygen ionization from subsequent chemical reactions. Measured sudden drops in molecular oxygen concentration as a function of delivered dose; water results were consistent with Monte Carlo simulations.
+
+
 ??? note "Abstract"
     Results of the pilot experiment on the ultra-intense irradiation of a water phantom and various biological media with laser-driven beams of relativistic electrons in context of the FLASH effect are presented. Directed high-current beams of MeV electrons were generated in the interaction of a sub-picosecond PHELIX laser pulse at 1019 W/cm2 intensity with a low-density polymer foam, which was converted into a plasma of near-critical density by a preceding nanosecond laser pulse. The combination of 20-50 Gy of ionizing radiation delivered by the relativistic electron beam in a single laser shot and the world&#x27;s highest dose rate of 70 Gy/ps makes this source unique for studying the FLASH effect and for applications. The picosecond duration of the electron beam allows for separation of the process of ultrafast (instantaneous) oxygen ionization and the subsequent chemical reactions. In each laser shot, a sudden drop in the molecular oxygen concentration as a function of the delivered dose was measured in water and biological media. The dependence obtained for water is consistent with the results of the Monte Carlo simulations.
 
@@ -531,6 +535,29 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Equivalent constant dose rate as a unifying dose rate concept for FLASH across all beam time structures.
+
+*Poulsen PR, Sørensen BS, Kristensen L, Johansen JG* — Medical physics (2025)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** The FLASH effect has been investigated experimentally using beam modalities with different time structures such as pulsed electron beams and pencil beam scanning (PBS) proton fields. The different beam time structures make direct comparisons between experiments difficult.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study develops a mathematical framework for equivalent constant dose rate (Ḋ_eq,const) as a unifying dose rate metric applicable across different beam time structures including pulsed electron beams and pencil beam scanning proton fields. Using a phenomenological oxygen enhancement ratio (OER) weighted dose model, the authors derive analytical equations for calculating Ḋ_eq,const for piecewise constant dose rate irradiations and validate the metric against acute skin toxicity outcomes in mice irradiated with ∼40 Gy at various time structures. Results show Ḋ_eq,const ≈ n/(n+1)·Ḋ_mean for pulsed beams and demonstrate that toxicity occurrence follows the same trend as a function of Ḋ_eq,const across electron and proton modalities, indicating radiobiological relevance of the proposed concept.
+
+
+??? note "Abstract"
+    BACKGROUND: The FLASH effect has been investigated experimentally using beam modalities with different time structures such as pulsed electron beams and pencil beam scanning (PBS) proton fields. The different beam time structures make direct comparisons between experiments difficult. A biologically founded dose rate concept that is applicable across all beam time structures is highly needed. PURPOSE: For any dose delivery with a time-varying dose rate, we define the equivalent constant dose rate (  D ̇ $\dot{\mathrm{D}} $  eq,const) as the dose rate that would give the same FLASH sparing effect if the same dose had been delivered with a constant dose rate. This study develops a mathematical framework for  D ̇ $\dot{\mathrm{D}} $  eq,const and uses this to investigate  D ̇ $\dot{\mathrm{D}} $  eq,const for a range of beam time structures. METHODS: Calculation of  D ̇ $\dot{\mathrm{D}} $  eq,const requires a model of the FLASH sparing effect. Here,  D ̇ $\dot{\mathrm{D}} $  eq,const was investigated using a phenomenological oxygen enhancement ratio (OER) weighted dose model that has previously been used for successful quantification of the acute skin toxicity variations observed in mice across various proton PBS irradiations. Analytical equations were developed to calculate  D ̇ $\dot{\mathrm{D}} $  eq,const for any piece-wise constant dose rate irradiation and used to determine  D ̇ $\dot{\mathrm{D}} $  eq,const for several pulsed beams and PBS fields.  D ̇ $\dot{\mathrm{D}} $  eq,const was characterized systematically for pulsed beams and PBS fields, and the ability of  D ̇ $\dot{\mathrm{D}} $  eq,const to describe acute skin toxicity occurrence in previous mice experiments was investigated. RESULTS: For pulsed beams with mean dose rate  D ̇ $\dot{\mathrm{D}} $  mean, n pulses, pulse doses up to 5 Gy and pulse repetition times up to 100 ms,  D ̇ $\dot{\mathrm{D}} $  eq,const was approximately given by n/(n+1)⋅  D ̇ $\dot{\mathrm{D}} $  mean.  D ̇ $\dot{\mathrm{D}} $  eq,const for a 40 Gy PBS transmission proton field with  D ̇ $\dot{\mathrm{D}} $  mean = 60 Gy/s previously used for mouse irradiations was 155 Gy/s without repainting, 64 Gy/s with four repaintings, and 7.7 Gy/s when splitting the field into two deliveries separated by 2 minutes.  D ̇ $\dot{\mathrm{D}} $  eq,const was 98 Gy/s for spread-out Bragg peak irradiation without repainting. The occurrence of acute skin toxicity in mice after ∼40 Gy irradiations with various beam time structures, including pulsed electron beams and proton PBS, followed the same trend as function of  D ̇ $\dot{\mathrm{D}} $  eq,const, demonstrating its radiobiological relevance.  D ̇ $\dot{\mathrm{D}} $  eq,const only depended slightly on the phenomenological OER-model parameters. CONCLUSION: The generally applicable biologically founded dose rate concept  D ̇ $\dot{\mathrm{D}} $  eq,const allows direct comparison of FLASH dose rates across all beam time structures.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41395701/) · [DOI](https://doi.org/10.1002/mp.70205)
+
+
+---
+
 ### Including medium effects and longer temporal scales in TRAX-CHEMxt.
 
 *Camazzola G, Boscolo D, Abram V, Scifoni E, Dorn A, Durante M et al.* — Physics in medicine and biology (2025)  
@@ -600,6 +627,29 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
+### Equilibrium state dynamics-based modeling of temporal dose delivery dependencies of FLASH skin sparing.
+
+*Böhlen TT, Grilj V, Sesink A, Devanand P, Sørensen BS, Poulsen P et al.* — Medical physics (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** FLASH radiotherapy shows promise in sparing normal tissues while maintaining tumor control, with the magnitude of its sparing effect being strongly influenced by the temporal dose delivery (TDD) structure of ultra-high dose rate (UHDR) irradiation. Quantitatively describing these dependencies is critical for optimizing UHDR treatments and guiding preclinical and clinical applications.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study develops perturbed equilibrium state dynamics (ESD) modeling to describe temporal dose delivery dependencies of FLASH normal-tissue sparing. Using acute skin toxicity data from 721 mice across 60 experimental groups irradiated with pulsed electron and scanned proton beams, the authors optimized eight ESD model variants and identified a three-parameter model achieving mean absolute error of 0.034 and mean absolute percentage error of 4.3% in reproducing isoeffective dose ratios. The model reproduces experimentally observed dose-dependent saturation of FLASH sparing while remaining parsimonious and potentially adaptable to other tissues.
+
+
+??? note "Abstract"
+    BACKGROUND: FLASH radiotherapy shows promise in sparing normal tissues while maintaining tumor control, with the magnitude of its sparing effect being strongly influenced by the temporal dose delivery (TDD) structure of ultra-high dose rate (UHDR) irradiation. Quantitatively describing these dependencies is critical for optimizing UHDR treatments and guiding preclinical and clinical applications. PURPOSE: This study introduces perturbed equilibrium state dynamics (ESD) as a minimal phenomenological framework to describe TDD dependencies of FLASH normal tissue sparing. METHODS: ESD-based modeling assumes a transient perturbation of a generic equilibrium state during irradiation, modulating the biological system&#x27;s instantaneous radiosensitivity. Isoeffective dose ratios (FLASH-modifying factors, FMF) were derived from a collection of acute skin toxicity data, consisting of both previously published and newly acquired data, from 721 mice across 60 experimental groups irradiated with pulsed electron beams and scanned proton beams spanning various TDD patterns. Eight ESD model variants were evaluated based on their ability to reproduce experimental FMF values, optimizing their three or four free parameters and assessing goodness-of-fit metrics. RESULTS: The best-ranked model based on the Bayesian Information Criterion (BIC) used three parameters to reproduce accurately 52 averaged FMF values (mean absolute error: 0.034, mean absolute percentage error: 4.3%). It consistently reproduces experimentally observed features of FLASH sparing in terms of FMF, including an increased sparing with dose followed by saturation at high doses. Two additional model variants received similar support by BIC, while the remaining five variants were less favored. CONCLUSIONS: ESD-based modeling offers an effective framework to describe TDD dependencies of FLASH murine skin sparing while limiting complexity and number of free parameters to avoid overfitting. Through parameter tuning, the ESD modeling aligns with key experimental data, supporting its potential as a predictive, parsimonious framework for experimental and translational research. By highlighting the potential role of a transient equilibrium perturbation modulating instantaneous radiosensitivity and quantifying respective measures, ESD-based models may also guide the exploration and modeling of underlying mechanisms. While the present application is tissue-specific, the approach is broadly adaptable, with clinical translation requiring refitting and validation in other contexts.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41272383/) · [DOI](https://doi.org/10.1002/mp.70143) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12638282/)
+
+
+---
+
 ### Stable electron-irradiated \[1-13C\]alanine radicals for metabolic imaging with dynamic nuclear polarization.
 
 *Rooney CHE, Lau JYC, Hansen ESS, Christensen NV, Dang DA, Petersson K et al.* — Science advances (2025)  
@@ -608,6 +658,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 **TL;DR.** Dissolution dynamic nuclear polarization (dDNP) increases the sensitivity of magnetic resonance experiments by &gt;104-fold, permitting isotopically labeled molecules to be transiently visible in magnetic resonance imaging scans. dDNP mechanistically takes place at ~1 K and requires unpaired electrons and microwaves.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper describes the use of ultrahigh-dose-rate electron irradiation to generate nonpersistent radicals in alanine/glycerol mixtures for dissolution dynamic nuclear polarization. The radicals remain stable at room temperature for months, spontaneously quench upon dissolution, and achieve 17% nuclear polarization comparable to clinical trityl radicals (19%) through partial ordering and electron-electron interactions. The approach enables in vivo imaging of alanine metabolism in rat kidney and offers a sterilizing method for potential clinical translation of dDNP.
 
 
 ??? note "Abstract"
@@ -721,6 +775,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Ultrahigh dose rate (UHDR) radiotherapy, also known as FLASH radiotherapy (FLASH-RT), has shown potential for increasing tumor control while sparing normal tissue. In parallel, gold nanoparticles (GNPs) have been extensively explored as radiosensitizers due to their high atomic number and ability to enhance the generation of reactive oxygen species (ROS) through water radiolysis.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo simulations based on Geant4-DNA quantified reactive oxygen species yield near gold nanoparticles of 5–100 nm diameter in water phantoms irradiated with pulsed electron beams (100 keV and 1 MeV) at dose rates of 60, 100, and 150 Gy/s. Yield enhancement factor increased with smaller nanoparticle size and lower dose rate, with maximum enhancement of 1.25 observed at 30 nm from 5 nm particles at 60 Gy/s. The study models physicochemical radical chemistry and transport to support future experimental investigation of nanoparticle-enhanced radiotherapy.
+
+
 ??? note "Abstract"
     Ultrahigh dose rate (UHDR) radiotherapy, also known as FLASH radiotherapy (FLASH-RT), has shown potential for increasing tumor control while sparing normal tissue. In parallel, gold nanoparticles (GNPs) have been extensively explored as radiosensitizers due to their high atomic number and ability to enhance the generation of reactive oxygen species (ROS) through water radiolysis. In this study, we investigate the synergistic effects of UHDR electron beams and GNP-mediated radiosensitization using Monte Carlo (MC) simulations based on the Geant4-DNA code. A spherical water phantom with embedded GNPs of varying sizes (5-100 nm) was irradiated using pulsed electron beams (100 keV and 1 MeV) at dose rates of 60, 100, and 150 Gy/s. The chemical yield of ROS near the GNPs was quantified and compared to an equivalent water nanoparticle model, and the yield enhancement factor (YEF) was used to evaluate radiosensitization. Results demonstrated that YEF increased with smaller GNP sizes and at lower UHDR, particularly for 1 MeV electrons. A maximum YEF of 1.25 was observed at 30 nm from the GNP surface for 5 nm particles at 60 Gy/s. The elevated ROS concentration near GNPs under FLASH conditions is expected to intensify DNA damage, especially double-strand breaks, due to increased hydroxyl radical interactions within nanometric distances of critical biomolecular targets. These findings highlight the significance of nanoparticle size and beam parameters in optimizing ROS production for FLASH-RT. The results provide a computational basis for future experimental investigations into the combined use of GNPs and UHDR beams in nanoparticle-enhanced radiotherapy.
 
@@ -738,6 +796,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 **TL;DR.** This study investigated the impact of ultra-high dose rate (UHDR) proton radiotherapy on DNA damage compared to conventional dose rate (CONV) radiotherapy. We hypothesized that the unique physicochemical processes associated with UHDR could lead to a reduction of DNA damage.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study examined DNA damage induction in plasmid DNA (pBR322) irradiated at conventional (0.1 Gy/s) and ultra-high (50 Gy/s) dose rates with protons in Tris-HCl solutions at three ionic concentrations. A significant reduction in single-strand break (SSB) induction was observed only at the highest concentration (900 mM), corresponding to a scavenging time of approximately 1 nanosecond, suggesting that SSB suppression at ultra-high dose rate occurs through rapid radical-radical reactions within the first nanosecond following irradiation.
 
 
 ??? note "Abstract"

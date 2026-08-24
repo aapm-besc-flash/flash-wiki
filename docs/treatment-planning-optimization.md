@@ -2,7 +2,7 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*67 records. Newest first.*
+*68 records. Newest first.*
 
 ---
 
@@ -407,6 +407,10 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** Objective.It is generally assumed that the FLASH effect is triggered at dose rates (DRs) of at least 40 Gy s-1, while recent studies indicate that this threshold is not binary but follows a sigmoid across samples. Some patients may thus already experience the FLASH effect at lower DRs, while the current FLASH models do not account for this.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study develops personalized dose-rate-dependent FLASH delivery pattern optimization (DPO) functions for lung intensity-modulated proton therapy (IMPT) to exploit the FLASH effect across a wider dose-rate range (10–60 Gy/s) rather than assuming a binary threshold at 40 Gy/s. Using 1397 FLASH optimization functions, the authors demonstrate substantial improvements in FLASH-weighted dose distributions and show that optimal optimization functions vary by patient and beam, with class solutions also providing overall improvements.
+
+
 ??? note "Abstract"
     Objective.It is generally assumed that the FLASH effect is triggered at dose rates (DRs) of at least 40 Gy s-1, while recent studies indicate that this threshold is not binary but follows a sigmoid across samples. Some patients may thus already experience the FLASH effect at lower DRs, while the current FLASH models do not account for this. We propose a method that aims to maximally exploit the FLASH effect over a wider dose-rate range through dose-rate-dependent FLASH delivery pattern optimization (DPO) functions while maintaining the FLASH effect at the currently accepted binary dose-rate threshold of 40 Gy s-1.Approach.We optimized and evaluated FLASH-weighted dose (FWD) distributions for 1397 FLASH optimization functions. All FLASH optimization functions were used to optimize the FWD distribution using DPO. The generated FWD distributions were evaluated in case FLASH is triggered at DRs ranging from 10 to 60 Gy s-1and compared to the FWD distribution that was optimized under the assumption that FLASH is only and maximally triggered at 40 Gy s-1.Main results.(i) Substantial improvements in FWD distributions were obtained using FLASH optimization functions. (ii) The optimal FLASH optimization function differs both per patient and per beam. (iii) FLASH optimization function class solutions can also lead to an overall improvement of FWD distributions.Significance.We demonstrated that substantial improvements in FWD distributions can be achieved by using FLASH optimization functions that exploit the FLASH effect over a wider dose-rate range.
 
@@ -656,6 +660,10 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** In our previous study, we developed a modular pin ridge filter (pRF) design framework to streamline assembly, enabling the fast manufacture of custom filters optimized for single-energy proton FLASH planning. PURPOSE: In this paper, we propose a method to optimize adaptive proton FLASH therapy (ADP-FLASH) using modularized pRFs by recycling module pins from the initial plan while reducing pRF adju…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study presents a method for adaptive proton FLASH therapy using modularized pin ridge filters (pRF) optimized for single-energy 250 MeV proton beams. The authors developed an iterative approach to recycle and repurpose pRF modules from initial plans while minimizing adjustments during adaptive replanning on liver SBRT cases (50 Gy in five fractions). The proposed adaptive method recovered plan quality on re-computed tomography (V100 values ranging from 89.2% to 98.8%) compared to degraded initial pRF plans, while recycling 64.7% to 91.2% of pencil beam directions and maintaining FLASH effects (≥40 Gy/s dose rate threshold).
+
+
 ??? note "Abstract"
     BACKGROUND: In our previous study, we developed a modular pin ridge filter (pRF) design framework to streamline assembly, enabling the fast manufacture of custom filters optimized for single-energy proton FLASH planning. PURPOSE: In this paper, we propose a method to optimize adaptive proton FLASH therapy (ADP-FLASH) using modularized pRFs by recycling module pins from the initial plan while reducing pRF adjustments in adaptive FLASH planning. METHODS: Initially, single energy (250 MeV) FLASH-pRF plans were created using pencil beam directions (PBDs) from initial IMPT plans on the planning CT (pCT). PBDs are classified as new/changed (ΔE &gt; 5 MeV) or unchanged by comparing spot maps for targets between pCT and re-CT. We used an iterative least-square regression model to identify recyclable PBDs with minimal relative changes to spot MU weighting. Two PBDs with the least square error were retrieved per iteration and added to the background plan, and the remaining PBDs were reoptimized for the adaptive plan in subsequent iterations. The method was validated on three liver SBRT cases (50 Gy in five fractions) by comparing various dosimetric parameters across initial pRF plans on pCT, re-CT, and the ADP-FLASH-pRF plans on re-CT. RESULTS: V100 for initial-pRF plans on pCT, re-CT, and ADP-FLASH-pRF plans for the three cases were as follows: (93.7%, 89.2%, 91.4%), (93.5%, 60.2%, 91.7%), and (97.3%, 69.9%, 98.8%). We observe a decline in plan quality when applying the initial pRF to the re-CT, whereas the ADP-FLASH-pRF approach restores quality comparable to the initial pRF on the pCT. FLASH effect of the initial pRF and ADP pRF plans were evaluated with a dose and dose rate threshold of 1 and 40 Gy/s, respectively, using the FLASH effectiveness model. The proposed method recycled 91.2%, 71%, and 64.7% of PBDs from initial pRF plans for the three cases while maintaining all clinical goals and preserving FLASH effects. CONCLUSION: This study validated a method for recycling the pRFs in single-energy proton FLASH planning for SBRT cases. This framework offers a scalable solution for adaptive proton therapy, balancing clinical effectiveness and practicality.
 
@@ -675,11 +683,38 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** Objective. The FLASH effect, characterized by potential sparing of organs at risk (OARs) through ultra-high dose rate (DR) irradiation, has garnered significant attention for its capability to address indications previously untreatable at conventional DRs with hypofractionated schemes.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A treatment planning study evaluated the feasibility of delivering ultra-high dose rate proton stereotactic body radiotherapy for spine metastasis using a research version of RayStation TPS on an IBA Proteus Plus system. Conformal plans were generated for three fractionation regimens (5 fx × 7 Gy, 8 fx × 5 Gy, 10 fx × 4.2 Gy) with spot filtering and sorting to maximize dose rate in the spinal cord. Plans achieved robust target coverage and ensured spinal cord dose-rate-limiting volumes exceeded 40 Gy/s in each fraction, requiring flash-modifying factors of approximately 0.6–0.8 to enable treatment.
+
+
 ??? note "Abstract"
     Objective. The FLASH effect, characterized by potential sparing of organs at risk (OARs) through ultra-high dose rate (DR) irradiation, has garnered significant attention for its capability to address indications previously untreatable at conventional DRs with hypofractionated schemes. While considerable biological research is needed to understand the FLASH effect and determine the FLASH modifying factors (FMF) for individual OARs, treatment planning studies have also emerged. This study evaluates the feasibility of achieving FLASH conditions in proton stereotactic body radiotherapy for spine metastases and establishes the required FMFs under different fractionation regimens.Approach. A conformal FLASH Proton SBRT plan was generated for a patient with spine metastasis in a research version of RayStation11B (RaySearch laboratories AB, Stockholm) on an IBA Proteus Plus system. Two oblique posterior beams were used in the plan. The prescribed dose to the CTV was set according to 3 different fractionation regimens: 5 fractions (fx) of 7 Gy, 8 fx of 5 Gy, and 10 fx of 4.2 Gy. Spot filtering and sorting techniques were applied to maximize the 5% pencil beam scanning DR in the spinal cord (SC). The FLASH effect was assumed to be observed within irradiated regions above 40 Gy s-1and 4 Gy per fraction.Main results. The generated plans successfully ensure robust target coverage in each fraction. The volume of SC that does not comply with the clinical goal adheres to the FLASH effect conditions in each fraction. Depending on the aforementioned fractionation schemes used, a FMF of approximately 0.6 to 0.8 is necessary to enable such treatment in FLASH conditions.Significance. This study indicates that treating challenging spine metastases with protons using FLASH delivery is technically feasible. However, clinical viability depends on optimistic parameters to trigger the FLASH effect and FMF values below 0.8, which are not yet guaranteed given current research.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40897368/) · [DOI](https://doi.org/10.1088/1361-6560/ae023c)
+
+
+---
+
+### In silico evaluation of the potential of very high energy electrons delivered in both conventional and FLASH regimes for the SBRT treatment of pancreatic cancer: A report of three case studies.
+
+*De Gregorio A, Muscato A, Burattini A, Carlotti D, Fiore M, Franciosini G et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** As the incidence and mortality rates of pancreatic cancer continue to rise, the search for effective treatments is becoming increasingly urgent. Among the therapeutic approaches, highly hypofractionated stereotactic treatments are being explored.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In silico comparative planning study of very high energy electrons (80–130 MeV) for stereotactic body radiotherapy of pancreatic cancer in three patient cases. VHEE treatment plans were optimized for both conventional and ultra-high dose rate delivery scenarios and compared against volumetric modulated arc therapy (VMAT) clinical plans using dose-volume histograms and dose maps. VHEE demonstrated clinical acceptability even without FLASH dose escalation benefit; the authors explored potential additional normal-tissue sparing to duodenum through dose escalation to the planning target volume if the FLASH effect were realized.
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: As the incidence and mortality rates of pancreatic cancer continue to rise, the search for effective treatments is becoming increasingly urgent. Among the therapeutic approaches, highly hypofractionated stereotactic treatments are being explored. This paper explores the potential of Very High Energy Electrons (VHEE) in the range of 80-130 MeV, in light of recent advances in compact accelerator technology and its compatibility with ultra-high dose rate (UHDR) delivery. MATERIALS AND METHODS: Using dose-volume histograms and dose maps, we compared VHEE treatment plans simulated and optimized assuming both conventional and UHDR delivery scenarios against state-of-the-art volumetric modulated arc therapy (VMAT) treatment plans that were used to treat three patients. Dose maps have been obtained assuming an IMRT-like geometry. The implemented VHEE beam model assumes a C-band compact accelerating technology. Results show that electrons below 130 MeV have a clear potential for the effective treatment of pancreatic cancer, even if delivered in conventional conditions. UHDR delivery has been explored evaluating the gain that the FLASH effect could provide in terms of dose escalation to the PTV while constraining the maximum allowed biological dose to the duodenum. CONCLUSION: The obtained results demonstrate the suitability of VHEE for pancreatic cancer treatment with optimized plans that are clinically acceptable even without considering the additional sparing from the FLASH effect. Their suitability for being delivered at FLASH rates makes them an excellent candidate for the future of external beam radiotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40858068/) · [DOI](https://doi.org/10.1016/j.ejmp.2025.105076)
 
 
 ---

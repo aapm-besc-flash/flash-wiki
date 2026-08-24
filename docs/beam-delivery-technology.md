@@ -2,7 +2,7 @@
 
 Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-delivery hardware for UHDR.
 
-*130 records. Newest first.*
+*129 records. Newest first.*
 
 ---
 
@@ -673,25 +673,6 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Investigating Rat-Brain Normal Tissue and Tumor FLASH Effects with a Novel Very High Energy Electron Beam.
-
-*Kay TV, Price AL, Sprenger M, Radosova VJP, Thompson A, Martin EL et al.* — bioRxiv : the preprint server for biology (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Ultra-high dose rate (FLASH) irradiation is reported to reduce normal tissue toxicity while maintaining tumor control, however mechanism(s) remain obscure. To study FLASH mechanisms in brain tissue, we developed a novel experimental platform featuring a unique high-energy electron linear accelerator (High Intensity Gamma Source, HIGS) paired with an organotypic ex vivo brain metastasis model.
-
-
-??? note "Abstract"
-    PURPOSE: Ultra-high dose rate (FLASH) irradiation is reported to reduce normal tissue toxicity while maintaining tumor control, however mechanism(s) remain obscure. To study FLASH mechanisms in brain tissue, we developed a novel experimental platform featuring a unique high-energy electron linear accelerator (High Intensity Gamma Source, HIGS) paired with an organotypic ex vivo brain metastasis model. METHODS: We varied inter-pulse spacing to modulate the mean dose rate (MDR) of our unique 35 MeV electron beam, while maintaining extremely high instantaneous dose rate (IDR), and used film dosimetry to characterize dosimetry and targeting accuracy. We combined this HIGS-FLASH beam with an organotypic rat brain slice/breast carcinoma co-culture model of brain metastasis to assess effects on normal and neoplastic tissues. Live cell and bioluminescence imaging demonstrated cancer cell growth effects, while normal tissue responses and immune activation were assessed with live cell imaging, cytokine profiles, and confocal microscopy. We performed comparison experiments with 20 MeV electrons from a Varian clinical linear accelerator (VCLA) operating at conventional dose rate. RESULTS: The highest IDR of the HIGS-FLASH beam to-date was 20.7 ± 0.6 MGy/s, with maximum MDR of 20.7 MGy/s (1 μs pulse of 20.7 Gy). Beam targeting was accurate to &lt; 1 mm and reproducible. HIGS-FLASH and VCLA dose rates equivalently decreased cancer cell growth. HIGS-FLASH irradiation significantly increased TNFα and fractalkine levels and confocal microscopy revealed distinct changes in microglial morphology in normal brain slices, suggesting microglia activation following HIGS-FLASH irradiation. CONCLUSIONS: Our novel experimental platform produces extremely high dose rates and rapid normal/neoplastic tissue readouts for mechanistic research into the effects of FLASH radiation on the brain. HIGS-FLASH irradiation induces comparable cancer cell growth inhibition but differential effects on cytokines and microglial morphology, suggesting that acute innate immune responses may be involved in FLASH normal tissue effects in the brain.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40964360/) · [DOI](https://doi.org/10.1101/2025.09.05.674499) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12439996/)
-
-
----
-
 ### Geometry-optimized electron beam scattering foils enabling dose uniformity and dose rate enhancement for FLASH radiotherapy studies.
 
 *Lv J, Wang J, Li Q, Yang G, Gai W, Zhu K et al.* — Physics in medicine and biology (2025)  
@@ -700,6 +681,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 **TL;DR.** Objective.The development of FLASH radiotherapy (FLASH-RT) is limited by the availability of ultra-high dose rate (UHDR) irradiation platform. This study aims to optimize electron scattering foils (SFs) for a compact 6 MeV linear accelerator (linac) operating at a short source-to-surface distance (SSD), enabling lateral uniform dose delivery with UHDR for FLASH-RT studies.Approach.Based on a custo…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study optimizes aluminum electron scattering foils for a 6 MeV linear accelerator using Geant4 Monte Carlo simulations and the Nelder-Mead algorithm to achieve lateral dose uniformity at short source-to-surface distance. Using stacked-layer and ring scattering foil structures with collimators, the authors demonstrated uniform dose profiles (flatness &lt;5%) for 3.5 cm diameter fields at 11 cm SSD. By modulating anode voltage, pulse width, and frequency, the system achieved dose-per-pulse adjustability from 0.09 to 8.37 Gy, yielding instantaneous dose rates from 4.25 × 10⁴ to 2.09 × 10⁶ Gy/s and mean dose rates from 10⁻² to 10³ Gy/s, enabling side-by-side comparison of conventional and ultra-high dose rate regimens on a single platform.
 
 
 ??? note "Abstract"
@@ -711,21 +696,25 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### In silico evaluation of the potential of very high energy electrons delivered in both conventional and FLASH regimes for the SBRT treatment of pancreatic cancer: A report of three case studies.
+### Experimental validation of coarse ridge filters for FLASH proton therapy.
 
-*De Gregorio A, Muscato A, Burattini A, Carlotti D, Fiore M, Franciosini G et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)  
+*Hotoiu L, Stappen FV, Pin A, Nilsson R, Ivoc J, Kim M et al.* — Medical physics (2025)  
 
-<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** As the incidence and mortality rates of pancreatic cancer continue to rise, the search for effective treatments is becoming increasingly urgent. Among the therapeutic approaches, highly hypofractionated stereotactic treatments are being explored.
+**TL;DR.** To maximize the potential benefit of the FLASH sparing effect during treatment, normal tissue regions would ideally be irradiated only briefly, typically for a couple of hundred milliseconds. Achieving such fast proton irradiation involves a mono-energetic beam at the highest cyclotron energy and the use of 3D-printed conformal energy modulators (CEM).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study experimentally validates the design and manufacture of coarse 3D-printed conformal energy modulators (CEMs) for use in the ConformalFLASH proton therapy system. Monte Carlo simulations were used to define 3D-printing specifications for CEMs with spike resolution &gt;0.5 mm. Multiple CEMs were then fabricated using commercial 3D printers, imaged by CT, and tested with FLASH beam properties using in-beam dosimetry measurements. The 3D-printed CEMs generated clinical-grade proton dose distributions robust to typical manufacturing tolerances, demonstrating feasibility of simplified manufacturing for complex modulator geometry and supporting integration of the FLASH snout onto clinical proton therapy nozzles.
 
 
 ??? note "Abstract"
-    BACKGROUND AND PURPOSE: As the incidence and mortality rates of pancreatic cancer continue to rise, the search for effective treatments is becoming increasingly urgent. Among the therapeutic approaches, highly hypofractionated stereotactic treatments are being explored. This paper explores the potential of Very High Energy Electrons (VHEE) in the range of 80-130 MeV, in light of recent advances in compact accelerator technology and its compatibility with ultra-high dose rate (UHDR) delivery. MATERIALS AND METHODS: Using dose-volume histograms and dose maps, we compared VHEE treatment plans simulated and optimized assuming both conventional and UHDR delivery scenarios against state-of-the-art volumetric modulated arc therapy (VMAT) treatment plans that were used to treat three patients. Dose maps have been obtained assuming an IMRT-like geometry. The implemented VHEE beam model assumes a C-band compact accelerating technology. Results show that electrons below 130 MeV have a clear potential for the effective treatment of pancreatic cancer, even if delivered in conventional conditions. UHDR delivery has been explored evaluating the gain that the FLASH effect could provide in terms of dose escalation to the PTV while constraining the maximum allowed biological dose to the duodenum. CONCLUSION: The obtained results demonstrate the suitability of VHEE for pancreatic cancer treatment with optimized plans that are clinically acceptable even without considering the additional sparing from the FLASH effect. Their suitability for being delivered at FLASH rates makes them an excellent candidate for the future of external beam radiotherapy.
+    BACKGROUND: To maximize the potential benefit of the FLASH sparing effect during treatment, normal tissue regions would ideally be irradiated only briefly, typically for a couple of hundred milliseconds. Achieving such fast proton irradiation involves a mono-energetic beam at the highest cyclotron energy and the use of 3D-printed conformal energy modulators (CEM). In ConformalFLASH, a dedicated snout is mounted on the nozzle, containing the CEM, a range shifter, and an aperture. PURPOSE: Demonstrate that ConformalFLASH irradiation using a coarse 3D-printed CEM, defined by a geometry with spike resolution &gt; 0.5 mm in any dimension, is fulfilling existing clinical dose standards. The CEM is robust to printing errors and can be reliably manufactured with unmodified commercially available 3D printers. METHODS: Monte-Carlo simulations were conducted to define the 3D-printing specifications of the CEM. A variety of CEMs were then printed according to specifications. CT scans were acquired, and in-beam measurements were performed for each part, using the FLASH beam properties, the FLASH snout, and dosimetry detectors. RESULTS: Considering the proposed ConformaFLASH setup choice, it was possible to design coarse CEM that are both robust and easily printable using commercial technology. Over several measured cases, the 3D-printed CEM yields clinical-grade proton dose distributions. This confirms the irradiation set-up and the CEM manufacturing specifications as predefined through Monte Carlo simulations. CEM CT scans reinforce further the dosimetric results, to provide additional evidence of 3D printing quality. CONCLUSIONS: The dose distribution obtained through carefully specified CEM proves robust to production errors typically occurring in commercial 3D printing. The robustness opens the way to simplified manufacturing of relatively complex parts. Owing to the beam configuration, the snout, and the range shifter, the CEM was able to generate clinical-quality dose distributions. The integration of the FLASH snout with its elements on the nozzle of the proton therapy system represents an important step forward in comparison to existing state-of-the-art, facilitating easier preclinical and future clinical trial investigations.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40858068/) · [DOI](https://doi.org/10.1016/j.ejmp.2025.105076)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40891043/) · [DOI](https://doi.org/10.1002/mp.18044)
 
 
 ---
