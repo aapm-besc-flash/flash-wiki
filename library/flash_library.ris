@@ -1,4 +1,89 @@
 TY  - JOUR
+TI  - Mitochondrial remodeling after conventional and ultra-high dose rate irradiation in head and neck carcinoma cells in vitro.
+AU  - Silva LL
+AU  - Liu T
+AU  - Hörberger F
+AU  - Chamkha I
+AU  - Li N
+AU  - Ceberg C
+AU  - Elmér E
+AU  - Adrian G
+AU  - Ehinger JK
+PY  - 2026
+JO  - Clinical and translational radiation oncology
+AB  - BACKGROUND AND PURPOSE: Ultra-high dose rate (UHDR) irradiation is being investigated as a strategy to widen the therapeutic window of radiotherapy, but the biological mechanisms that distinguish UHDR from conventional dose rate (CONV) irradiation remain unresolved. Because mitochondria integrate bioenergetics, redox control and stress signaling after irradiation, they represent a plausible site at which dose-rate effects could emerge. This study evaluated mitochondrial function after CONV and UHDR irradiation in a head and neck squamous cell carcinoma in vitro model. MATERIALS AND METHODS: LU-HNSCC4 (HN4, an oral cavity HNSCC cell line) cells and VH10 fibroblasts were treated with 0, 2, 6, 10 or 20 Gy delivered at CONV or UHDR using electron irradiation from a modified linear accelerator. High-resolution respirometry was performed immediately after irradiation and 48 h later. In the 0 and 20 Gy groups, flow cytometry was used to assess cellular reactive oxygen species (ROS), mitochondrial ROS (mtROS), mitochondrial membrane potential (MMP) and Magnesium Green fluorescence as an indirect ATP-related readout. RNA sequencing was performed in HN4 cells 48 h after 20 Gy. RESULTS: Irradiation induced clear dose- and time-dependent increases in oxygen consumption in HN4 cells, affecting routine respiration, oxidative phosphorylation capacity and maximal electron transfer capacity. The effect was strongest at higher doses and at 48 h and involved both complex I- and complex II-linked pathways. No statistically significant differences between dose-rate modalities were detected for the principal respiratory endpoints. Flow-cytometric analyses at 20 Gy showed stress responses in both irradiation arms, with some possible differences in temporal pattern; but without a clearly distinct overall phenotype attributable to dose rate. CONCLUSION: The data support a model in which both CONV and UHDR engage a broadly similar post-irradiation mitochondrial adaptive program in HN4 cells. The findings are relevant to the study of radiation adaptation and support further testing of mitochondria-directed radiosensitization strategies in head and neck cancer.
+DO  - 10.1016/j.ctro.2026.101252
+AN  - 42662751
+UR  - https://pubmed.ncbi.nlm.nih.gov/42662751/
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - FLASH radiotherapy as an emerging paradigm in radioimmunotherapy: biological rationale, preclinical evidence, and translational roadmap.
+AU  - Li D
+AU  - Wang X
+AU  - Lu S
+AU  - Li L
+AU  - Su Y
+AU  - Wang X
+AU  - Li Y
+AU  - Lang J
+AU  - Zhou J
+PY  - 2026
+JO  - Frontiers in immunology
+AB  - Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising technology in recent years. Unlike conventional radiotherapy (CONV-RT), FLASH-RT delivers radiation at an ultra-high dose rate over a very short duration. This approach not only greatly shortens the treatment time, but also exhibits the "FLASH effect", which significantly spares healthy tissues while maintaining antitumor efficacy comparable to that of CONV-RT. Radiotherapy ignites immunity, fueling the radioimmunotherapy boom. However, even the most advanced radiotherapy techniques inevitably expose healthy tissue, immune organs, vasculature, and circulating or infiltrated lymphocytes to radiation-induced toxicity, limiting the synergistic effect of radioimmunotherapy. Notably, FLASH-RT offers a considerable alternative by protecting the immune system, converting the immunosuppressive tumor microenvironment (TME) into a moderately immune-infiltrated TME, and reducing immunosuppressive responses, thereby enhancing antitumor immunity. A growing number of studies have demonstrated that this combination shows synergistic antitumor effects even in drug-resistant tumor models. Despite these encouraging findings, the combination of FLASH-RT with immunotherapy remains in its early stages and has yet to reach clinical implementation. In this review, we present the current status, underlying mechanisms, and future prospects of FLASH-RT, with a particular focus on its immunomodulatory abilities and potential as a future platform for cancer radioimmunotherapy.
+DO  - 10.3389/fimmu.2026.1869222
+AN  - 42662452
+UR  - https://pubmed.ncbi.nlm.nih.gov/42662452/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - FLASH Proton Radiotherapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
+AU  - Amit U
+AU  - Bell BA
+AU  - Hoyek EE
+AU  - Velalopoulou A
+AU  - Assenmacher CA
+AU  - Kim MM
+AU  - Verginadis II
+AU  - Radaelli E
+AU  - Ben-Josef E
+AU  - Lee V
+AU  - Dunaief JL
+AU  - Koumenis C
+PY  - 2026
+JO  - International journal of radiation oncology, biology, physics
+AB  - PURPOSE: To evaluate the protective effects and therapeutic efficacy of FLASH proton therapy (FR) compared with standard dose-rate proton therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (>40 Gy/s) at identical doses. Longitudinal ocular structure and function were assessed over five months using spectral-domain optical coherence tomography, confocal scanning laser ophthalmoscopy, electroretinography (ERG), and histopathological analysis. Tumor control was evaluated in an intraocular B16F10 melanoma model using bioluminescence imaging and histopathology. RESULTS: Dose-response studies identified 24 Gy as the optimal dose, producing substantial visual impairment with SR (39.5% reduction in rod a-wave amplitude, p<0.001) without inducing complete blindness. SR induced progressive ocular injury, with significant corneal edema evident by 1 month (p<0.0001), advancing to ulceration by 5 months, whereas FR maintained corneal transparency comparable to non-irradiated controls. Consistent with these findings, TUNEL analysis demonstrated markedly increased corneal apoptosis following SR, whereas FR showed minimal apoptotic activity. ERG analysis revealed profound SR-induced functional deterioration by 5 months, with a 76% reduction in rod a-wave, 69% in rod b-wave, and 74% in cone b-wave amplitudes (all p<0.0001), reflecting extensive photoreceptor and bipolar cell dysfunction. FR eyes retained near-normal responses across retinal layers. Histopathology confirmed severe SR-associated pathology, including corneal perforation, uveal inflammation, and retinal disorganization, whereas FR largely preserved ocular architecture. Importantly, FR maintained short-term antitumor efficacy equivalent to SR, with comparable reductions in tumor burden (both p<0.05 vs. controls; p>0.05 SR vs. FR). CONCLUSIONS: FR provides substantial normal tissue protection across multiple ocular compartments while preserving therapeutic efficacy, effectively expanding the therapeutic window for ocular radiotherapy. These findings establish proof-of-principle for clinical translation of FR to improve visual outcomes in patients with ocular and orbital malignancies without compromising tumor control.
+DO  - 10.1016/j.ijrobp.2026.08.045
+AN  - 42648580
+UR  - https://pubmed.ncbi.nlm.nih.gov/42648580/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Combined ultra-high and conventional dose rate irradiation spares murine normal skin and intestine from radiation induced acute toxicity.
+AU  - Sesink A
+AU  - Soutter L
+AU  - Böhlen TT
+AU  - Geyer R
+AU  - Moeckli R
+AU  - Bailat C
+AU  - Grilj V
+PY  - 2026
+JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
+AB  - PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
+DO  - 10.1016/j.radonc.2026.111747
+AN  - 42633859
+UR  - https://pubmed.ncbi.nlm.nih.gov/42633859/
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
 TI  - A Target-Specific, "Eco-Friendly" Experimental Setup for Small Field Proton Irradiation.
 AU  - Colizzi I
 AU  - Bornhauser Y
@@ -177,10 +262,11 @@ AU  - Alabd R
 AU  - Franklin DR
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons. Laser plasma accelerators offer the potential for extremely high dose rates in a very compact physical footprint. While these radiation sources advancing rapidly, there remain many technical challenges to be overcome prior to clinical translation. In this work, we outline the current state of the art in laser-plasma accelerators for proton, carbon ion and very high energy electron radiation therapy, discuss recent in vitro and in vivo experimental results, and identify the key challenges and opportunities offered by this promising family of technologies.
+AB  - Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons. Laser plasma accelerators offer the potential for extremely high dose rates in a very compact physical footprint. While these radiation sources advancing rapidly, there remain many technical challenges to be overcome prior to clinical translation. In this work, we outline the current state of the art in laser-plasma accelerators for proton, carbon ion and very high energy electron radiation therapy, discuss recentin vitroandin vivoexperimental results, and identify the key challenges and opportunities offered by this promising family of technologies.
 DO  - 10.1088/1361-6560/ae97af
 AN  - 42575153
 UR  - https://pubmed.ncbi.nlm.nih.gov/42575153/
+KW  - FLASH:Reviews & Consensus
 KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Radiobiology
 KW  - FLASH:Clinical & Translational
@@ -215,17 +301,17 @@ AU  - Alexander DA
 AU  - Ota K
 AU  - Nichols M
 AU  - Boisseau P
-AU  - Vander Stappen F
+AU  - Stappen FV
 AU  - Gao Y
 AU  - Setianegara J
 AU  - Gu W
-AU  - Diffenderfer E
+AU  - Diffenderfer ES
 AU  - Teo BK
 AU  - Yin L
 AU  - Zou W
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - OBJECTIVE: Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDR). This work evaluated a multi-layer Faraday cup (MLFC) as a detector for proton therapy QA, capable of high-resolution energy verification, beam charge measurements, and operation at both conventional and UHDR. APPROACH: A commercial 128-layer MLFC made of thin copper layers separated by Kapton and equipped with a MicroHexTMenergy filter was used to measure conventional and UHDR proton pencil beams from a IBA ProteusPlus system. A TOPAS Monte Carlo model was developed to benchmark depth-charge readout. Energy calibration of the pencil beams was performed by Gaussian fitting charge peaks and comparing to nominal ranges in water. Delivered charge was determined by integrating the collected charge across all MLFC channels and comparing it with a reference Faraday cup. Its application to UHDR FLASH radiotherapy was evaluated using spread-out Bragg Peak Conformal FLASH plan deliveries. MAIN RESULTS: The MLFC provided a reproducible high-resolution energy calibration within 1 mm water equivalent depth (WED) resolution, with the MicroHexTMfilter broadening charge deposition peaks and improving measurement precision and accuracy. Integrated charge was linear with monitor units and agreed with Faraday cup measurements within 5% for all measured energies (100-228 MeV). The 4 kHz sampling rate enabled spot-by-spot energy and charge output measurements at UHDR. SIGNIFICANCE: The MLFC enables simultaneous energy and charge output verification in a compact, dose-rate-independent detector, providing a practical solution for routine QA in both conventional and FLASH proton therapy.
+AB  - Objective.Proton radiotherapy requires accurate quality assurance (QA) of beam range and output. Conventional QA methods using water phantoms and ionization chambers are time-consuming and may suffer from dose-rate dependence, limiting their use for FLASH radiation therapy at ultra-high dose rates (UHDRs). This work evaluated a multi-layer Faraday cup (MLFC) as a detector for proton therapy QA, capable of high-resolution energy verification, beam charge measurements, and operation at both conventional and UHDR.Approach.A commercial 128-layer MLFC made of thin copper layers separated by Kapton and equipped with a MicroHexTMenergy filter was used to measure conventional and UHDR proton pencil beams from a IBA ProteusPlus system. A TOPAS Monte Carlo model was developed to benchmark depth-charge readout. Energy calibration of the pencil beams was performed by Gaussian fitting charge peaks and comparing to nominal ranges in water. Delivered charge was determined by integrating the collected charge across all MLFC channels and comparing it with a reference Faraday cup. Its application to UHDR FLASH radiotherapy was evaluated using spread-out Bragg Peak Conformal FLASH plan deliveries.Main results.The MLFC provided a reproducible high-resolution energy calibration within 1 mm water equivalent depth resolution, with the MicroHexTMfilter broadening charge deposition peaks and improving measurement precision and accuracy. Integrated charge was linear with monitor units and agreed with Faraday cup measurements within 5% for all measured energies (100-228 MeV). The 4 kHz sampling rate enabled spot-by-spot energy and charge output measurements at UHDR.Significance.The MLFC enables simultaneous energy and charge output verification in a compact, dose-rate-independent detector, providing a practical solution for routine QA in both conventional and FLASH proton therapy.
 DO  - 10.1088/1361-6560/ae94d9
 AN  - 42551487
 UR  - https://pubmed.ncbi.nlm.nih.gov/42551487/
@@ -353,23 +439,23 @@ KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
-TI  - Evaluation of a simple graphite calorimeter for ultra‑high dose‑rate electron beam dosimetry.
+TI  - Evaluation of a simple graphite calorimeter for ultra-high dose-rate electron beam dosimetry.
 AU  - Subiel A
 AU  - Douralis A
-AU  - Bass GA
-AU  - Shipley DR
+AU  - Bass G
+AU  - Shipley D
 AU  - Flynn S
 AU  - Romano F
 AU  - Milluzzo G
-AU  - Di Martino F
-AU  - Del Sarto D
+AU  - Martino FD
+AU  - Sarto DD
 AU  - Masturzo L
 AU  - Pensavalle J
 AU  - Giuliano L
 AU  - Palmans H
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - This study evaluates the performance of a secondary‑standard graphite calorimeter (SSCal) for absorbed‑dose measurements in ultra‑high dose‑rate (UHDR) electron beams, motivated by the need for reliable, traceable dosimetry to support the development of FLASH radiotherapy.&#xD;Approach. The SSCal was calibrated against the primary absorbed‑dose standard at the National Physical Laboratory (NPL) and characterised in conventional 6-10 MeV electron beams. Monte Carlo (MC) simulations were used to derive detector‑specific perturbation and field‑size correction factors, including conversion from absorbed dose to graphite to absorbed dose to water. The SSCal was then tested in a 9 MeV UHDR beam (0.06-5.78 Gy pulse⁻¹) at the Centro Pisano FLASH Radiotherapy (CPFR) facility. Absorbed dose was determined using two independent approaches: (1) application of the calibration coefficient derived at NPL and (2) first‑principles calorimetry. Alanine dosimetry provided an independent traceability route for cross‑validation.&#xD;Main Results. Calibration coefficients obtained at NPL showed minimal dependence on field size or beam quality. MC simulations indicated that perturbations were dominated by internal air gaps, with increasing magnitude at smaller field sizes. Corresponding beam quality correction factors enabled accurate application of the NPL calibration to the UHDR beam. Across all dose‑per‑pulse (DPP) values, the two dose determination methods agreed within 1%. The SSCal exhibited excellent linearity with pulse number and stable response for three pulses or more. Deviations at low pulse numbers were attributed to transient beam current transformer (BCT) effects and potential heat‑transfer non‑linearities. Agreement between SSCal and alanine was within ±1%, except at the highest DPP (5.71 Gy pulse⁻¹), where a 2.6% deviation was observed, consistent with these low‑pulse effects.&#xD;Significance. The results demonstrate that the SSCal provides stable, linear, and largely dose‑rate‑independent absorbed‑dose measurements in UHDR electron beams when appropriate MC‑derived corrections are applied, supporting its suitability as a reference‑quality dosimeter for FLASH research and development.
+AB  - Objective.This study evaluates the performance of a simple secondary-standard graphite calorimeter (SSCal) for absorbed-dose measurements in ultra-high dose-rate (UHDR) electron beams, motivated by the need for reliable, traceable dosimetry for FLASH radiotherapy.Approach. The SSCal was calibrated against the primary absorbed-dose standard at the National Physical Laboratory (NPL) and characterised in conventional 6-10 MeV electron beams. Monte Carlo (MC) simulations were used to derive detector-specific perturbation and field-size correction factors, including conversion from absorbed dose to graphite to absorbed dose to water. The SSCal was then tested in a 9 MeV UHDR beam (0.06-5.78 Gy pulse-1) at the Centro Pisano Flash Radiotherapy facility. Absorbed dose was determined using two independent approaches: (1) application of the calibration coefficient derived experimentally at NPL, and (2) first-principles calorimetry. Alanine dosimetry provided an independent traceability route for cross-validation.Main results. Calibration coefficients obtained at NPL showed minimal dependence on field size or beam quality. MC simulations indicated that perturbations were dominated by internal air gaps, with increasing magnitude at small field sizes. Corresponding beam quality correction factors enabled accurate application of the NPL calibration to the UHDR beam. Across all dose-per-pulse (DPP) values, the two dose determination methods agreed within 1%. The SSCal exhibited excellent linearity with pulse number and stable response for three pulses or more. A systematic ΔT/MU trend was observed only for single- or double-pulse exposures, for which transient perturbations in the beam current transformer signal provide a plausible explanation. In addition, or alternatively, the observed reduction in detector response may be influenced by non-linear heat-transfer effects within the calorimeter, potentially associated with cumulative heating and delayed thermistor equilibration. Agreement between SSCal and alanine was within ±1% for all but the highest DPP (5.71 Gy pulse-1), where a 2.6% deviation was observed under low-pulse conditions, which is consistent with the ΔT/MU trend.Significance. The results demonstrate that the SSCal provides stable, linear, and largely dose-rate-independent absorbed-dose measurements in UHDR electron beams when appropriate MC-derived corrections are applied, while indicating that a potential deviation from ideal response cannot be excluded at the highest investigated DPP values (>5 Gy pulse-1). These findings support suitability of SSCal as a reference-quality dosimeter for FLASH research and development.
 DO  - 10.1088/1361-6560/ae9238
 AN  - 42526495
 UR  - https://pubmed.ncbi.nlm.nih.gov/42526495/
