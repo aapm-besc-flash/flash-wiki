@@ -2,7 +2,7 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*68 records. Newest first.*
+*73 records. Newest first.*
 
 ---
 
@@ -729,11 +729,38 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** To investigate the dosimetric performance and dose rate of Bragg peak FLASH (BP-FLASH) for spinal cord stereotactic body radiation therapy (SBRT). METHODS AND MATERIALS: Ten consecutive patients with spinal tumors treated with conventional intensity modulated proton therapy (CONV-IMPT) SBRT (40 Gy in 5 fractions) were selected for this study.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A comparative planning study of single-energy Bragg peak FLASH proton therapy versus conventional intensity-modulated proton therapy for spine stereotactic body radiation therapy in ten patients receiving 40 Gy in 5 fractions. Bragg peak FLASH plans achieved similar dose to organs at risk as conventional plans but delivered higher maximum dose to clinical target volume (115.1% vs 108.9%). Dose rates exceeded 40 Gy/s in organs at risk at a 2 Gy threshold, with &gt;95% volume receiving &gt;40 Gy/s at 5 Gy threshold. Dosimetric quality was maintained between approaches.
+
+
 ??? note "Abstract"
     PURPOSE: To investigate the dosimetric performance and dose rate of Bragg peak FLASH (BP-FLASH) for spinal cord stereotactic body radiation therapy (SBRT). METHODS AND MATERIALS: Ten consecutive patients with spinal tumors treated with conventional intensity modulated proton therapy (CONV-IMPT) SBRT (40 Gy in 5 fractions) were selected for this study. These patients were reoptimized using an in-house FLASH algorithm and a single-energy Bragg peak approach. The dose distributions and dose metrics for target coverage and critical organs-at-risk (OARs) were compared. BP-FLASH plans dose rates were calculated using an average-dose-rate. The FLASH ratios (V40Gy/s) were assessed with dose thresholds at 0.2, 2, and 5 Gy. The doses and dose rates for the 10 patients were averaged, and a t test was performed comparing CONV-IMPT and BP-FLASH. RESULTS: Dosimetric analysis revealed that the BP-FLASH plans deliver a similar dose as CONV-IMPT plans to critical OARs. However, in BP-FLASH, the clinical target volume received a higher maximum dose than CONV-IMPT (115.1% versus 108.9%, P = .001). No notable differences were observed in the maximum doses to the spinal cord (P = .122) or esophagus (P = .327). FLASH dose rates for all the OARs exceeded 80% with 2 Gy dose threshold. When increased to 5 Gy, V40Gy/s increased to &gt;95% for composite plan doses. CONCLUSIONS: BP-FLASH SBRT is a promising treatment for challenging spinal cord cancers, which achieved ultra-high-dose rates for FLASH effect and maintained the same dosimetry quality as the CONV-IMPT plans.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40416512/) · [DOI](https://doi.org/10.1016/j.adro.2025.101776) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12098142/)
+
+
+---
+
+### Investigating the therapeutic potential of FLASH radiotherapy - a treatment planning study.
+
+*Hörberger F, Petersson K, Ceberg S, Bäck S, Adrian G, Ceberg C* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2025)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Ultra-high dose rate radiotherapy (RT) has shown potential for differential normal tissue (NT) sparing (a phenomenon termed the &quot;FLASH effect&quot;), particularly for larger fraction doses (&gt;5 Gy). However, transitioning to hypofractionation may increase late-reacting NT toxicity, counteracting the FLASH effect.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A treatment planning study evaluating whether ultra-high dose rate radiotherapy can provide net sparing for organs at risk when hypofractionated schedules are used to maintain tumor control. The authors used the linear-quadratic model and logistic regression-based dose-modifying factors derived from preclinical data to simulate FLASH-modified dose distributions across five patients each with breast, head-and-neck, prostate, and glioblastoma tumors. Net sparing was defined as the difference in organ-at-risk dose-volume histogram parameters between standard and FLASH-modified plans. Breast and prostate cases showed positive net sparing even under conservative radiobiological assumptions, while glioblastoma and head-and-neck cases showed no net sparing, suggesting site-specific benefits.
+
+
+??? note "Abstract"
+    PURPOSE/BACKGROUND: Ultra-high dose rate radiotherapy (RT) has shown potential for differential normal tissue (NT) sparing (a phenomenon termed the &quot;FLASH effect&quot;), particularly for larger fraction doses (&gt;5 Gy). However, transitioning to hypofractionation may increase late-reacting NT toxicity, counteracting the FLASH effect. This study evaluates whether FLASH-RT can provide netsparing for organs at risk (OARs) and NT within the PTV under the assumption of standard-of-care dose-conformity. MATERIAL/METHODS: Five patients per tumor-site (breast, head-and-neck, prostate, and glioblastoma) were analyzed. Using the Linear-Quadratic model, dose-distributions with higher dose per fraction were derived from standard schedules while maintaining tumor control efficacy. FLASH-modified dose-distributions were simulated voxel-by-voxel using logistic regression-based dose-modifying factors modeled from preclinical data. These plans were converted to standard fractionation equivalents for radiobiological comparisons of NT damage. Netsparing was defined as the difference in OAR dose-volume histogram parameters between standard and FLASH-modified plans, normalized to the prescribed dose. Commonly used α/β-ratios for tumors and late-reacting NT were applied. RESULTS: The netsparing for OARs and PTV varied strongly by tumor location. Breast and prostate cases showed positive netsparing, indicating that the FLASH effect outweighed increased toxicity. Even under a conservative scenario (higher α/βT vs. α/βNT), most OARs showed positive netsparing. In glioblastoma and head-and-neck cases, no netsparing was observed, indicating increased toxicity even with FLASH induced NT-sparing. CONCLUSION: FLASH-RT appears to be beneficial for tumor sites where α/βT ≲ α/βNT, such as breast and prostate. However, not all tumor sites may benefit from FLASH-RT, highlighting the need for site-specific consideration for FLASH-RT implementation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40409370/) · [DOI](https://doi.org/10.1016/j.radonc.2025.110947)
 
 
 ---
@@ -748,11 +775,107 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** Ultra-high dose rate, or FLASH, radiotherapy has shown promise in preclinical experiments of sparing healthy tissue without compromising tumor control. This &quot;FLASH effect&quot; can compound with dosimetric sparing of the proton Bragg peak (BP) using a method called Single Energy Pristine Bragg Peak (SEPBP) FLASH.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work implements a single-energy pristine Bragg peak FLASH technique into a commercial proton treatment planning system (Eclipse, Varian) for SBRT planning. A 250 MeV clinical proton beam model was commissioned with range compensators and universal range shifter; inverse optimization with minimum monitor-unit constraints was applied to 15 previously-treated cases from liver, lung, and base-of-skull sites. Dose distributions showed no significant difference from clinically delivered plans in target uniformity and conformity, with mean 40 Gy/s FLASH ratios above 84% for critical organs at 2 Gy threshold and above 98% at 5 Gy threshold across all anatomical sites.
+
+
 ??? note "Abstract"
     BACKGROUND: Ultra-high dose rate, or FLASH, radiotherapy has shown promise in preclinical experiments of sparing healthy tissue without compromising tumor control. This &quot;FLASH effect&quot; can compound with dosimetric sparing of the proton Bragg peak (BP) using a method called Single Energy Pristine Bragg Peak (SEPBP) FLASH. However, this and other proposed FLASH techniques are constrained by lack of familiar treatment planning systems (TPSs). Creating modules to implement SEPBP FLASH into a commercial TPS opens up the possibility of more widespread investigation of FLASH and lays the groundwork for future clinical translation. PURPOSE: To implement, investigate, and benchmark the capacity of a commercial TPS research extension for BP FLASH SBRT treatment planning by studying the dosimetric properties and FLASH ratio for critical organs-at-risk (OARs) at several sites. METHODS: A 250 MeV clinical proton beam model was commissioned in the Eclipse TPS (Varian Medical Systems, Palo Alto, USA). BP FLASH fields were single-layer maximum-energy beams with a universal range shifter (URS) and field-specific range compensators (RCs). RCs for each beam angle were included as contours within the structure set, while the URS was modeled in the PBS beamline. Spotmaps were created using Lloyd&#x27;s algorithm with minimum monitor units (MU)-based spacing to ensure plan quality and preserve FLASH coverage for critical OARs. Inverse optimization while preserving minimum MU constraints was done with scorecard-based optimization. Fifteen SBRT cases from three anatomical sites (liver, lung, base-of-skull \[BOS\]) previously treated at the New York Proton Center were re-optimized using this method, and dosimetric characteristics of BP plans were compared to clinically treated plans. FLASH ratios for critical OARs were evaluated for BP FLASH plans. RESULTS: The dose distributions, including target uniformity, conformity index (CI), and DVHs, showed no significant difference in clinically-used metrics between BP FLASH and clinically delivered plans across all anatomical sites. Mean 40 Gy/s FLASH ratios for critical OARs were above 84% for all but one OAR with 2 Gy threshold and above 98% for all OARs with 5 Gy threshold. Dmax for liver and BOS cases was 111.3 ± 2.68 and 112.88 ± 1.29, respectively, and D2% for lung cases was 112.04 ± 1.09. All Dmax remained below 115%. CONCLUSIONS: Inverse planning using a single-energy BP FLASH technique based on sparse spots and ultra-high minimum MU/spot can achieve intensity-modulated proton therapy (IMPT)-equivalent quality and sufficient FLASH coverage. This successful prototype brings us closer to commercial implementation and may increase the availability of proton FLASH dosimetry studies.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40344192/) · [DOI](https://doi.org/10.1002/mp.17876) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12257904/)
+
+
+---
+
+### Comparative treatment planning of very high-energy electrons and photon volumetric modulated arc therapy: Optimising energy and beam parameters.
+
+*D&#x27;Andrea FS, Chuter R, Aitkenhead AH, MacKay RI, Jones RM* — Physics and imaging in radiation oncology (2025)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Very High-Energy Electron (VHEE) beams offer potential advantages over current clinical radiotherapy modalities due to their precise dose targeting and minimal peripheral dose spread, which is ideal for treating deep-seated tumours. To aid the development of clinical VHEE machines, this study adressed the need to identify optimum VHEE beam characteristics for tumours across various anatomical site…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Comparative treatment planning study using the matRad open-source treatment planning system to optimize very high-energy electron (VHEE) beam characteristics across 10 pelvic and 12 thoracic cases. VHEE plans generated via TOPAS Monte Carlo simulation were compared against clinical photon VMAT plans. VHEE plans achieved superior organ-at-risk sparing including 22.5% reduction in rectal Dmean, 13.8% decrease in bladder Dmean, 8.2% reduction in heart Dmean, and 24.4% decrease in lung V20Gy while maintaining or improving target coverage. Optimal energy was identified as 200 MeV for pelvic tumours and 70–110 MeV for superficial lung disease.
+
+
+??? note "Abstract"
+    BACKGROUND: Very High-Energy Electron (VHEE) beams offer potential advantages over current clinical radiotherapy modalities due to their precise dose targeting and minimal peripheral dose spread, which is ideal for treating deep-seated tumours. To aid the development of clinical VHEE machines, this study adressed the need to identify optimum VHEE beam characteristics for tumours across various anatomical sites. MATERIALS AND METHODS: VHEE treatment planning employed matRad, an open-source treatment planning system, by adapting its proton pencil beam scanning implementation. VHEE beam characteristics were generated using TOPAS Monte Carlo simulations. A total of 820 plans were retrospectively created and analysed across 10 pelvic and 12 thoracic cases and compared against clinical photon VMAT plans to identify the most optimal VHEE beam configuration and energy requirement. RESULTS: VHEE plans outperformed photon VMAT in sparing organs-at-risk (OARs) while maintaining or improving target coverage. While 150 MeV served as the threshold for effectively treating deep-seated sites, 200 MeV was identified as a more optimal energy in the pelvis for achieving the best balance of penetration and sparing abutting OARs. Lower energies (70-110 MeV) also benefitted mid-to-superficial disease in the lung cohort. Typically, VHEE plans required 3-5 fields, and resulted in notable dose reductions to OARs across treatment sites, including: 22.5% reduction in rectal Dmean; 13.8% decrease in bladder Dmean; 8.2% reduction in heart Dmean; and a 24.4% decrease in lung V20Gy. CONCLUSION: The study reinforces VHEE&#x27;s potential in clinical settings, emphasising the need for varied energy ranges to enhance treatment flexibility and effectiveness.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40123772/) · [DOI](https://doi.org/10.1016/j.phro.2025.100732) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11926434/)
+
+
+---
+
+### Anticipating potential bottlenecks in adaptive proton FLASH therapy: a ridge filter reuse strategy.
+
+*Roberfroid B, Chocan Vera MS, Draguet C, Lee JA, Barragán-Montero AM, Sterpin E* — Physics in medicine and biology (2025)  
+
+<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Objective.Achieving FLASH dose rate with pencil beam scanning intensity modulated proton therapy is challenging. However, utilizing a single energy layer with a ridge filter (RF) can maintain dose rate and conformality.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study evaluates adaptive treatment planning strategies for proton FLASH therapy in six head and neck cancer patients with repeated computed tomography. The authors compare full adaptation with a new ridge filter (FA), spot-weight adaptation using the initial ridge filter (SAO), and no adaptation (NoA) on a second CT, with prescribed dose 9 Gy per fraction. Spot-weight adaptation showed minimal differences from full adaptation (median D98% decrease 0.05 Gy, D2% increase 0.03 Gy, conformity decrease 0.03), with up to 16 of 20 evaluated SAO fractions deemed clinically acceptable, demonstrating that daily ridge filter reprinting may not be necessary for most treatment fractions.
+
+
+??? note "Abstract"
+    Objective.Achieving FLASH dose rate with pencil beam scanning intensity modulated proton therapy is challenging. However, utilizing a single energy layer with a ridge filter (RF) can maintain dose rate and conformality. Yet, changes in patient anatomy over the treatment course can render the RF obsolete. Unfortunately, creating a new RF is time-consuming, thus, incompatible with online adaptation. To address this, we propose to re-optimize the spot weights while keeping the same initial RF.Approach.Data from six head and neck cancer patients with a repeated computed tomography (CT2) were used. FLASH treatment plans were generated with three methods on CT2: &#x27;full-adaptation&#x27; (FA), optimized from scratch with a new RF; &#x27;spot-adaptation only&#x27; (SAO), re-using initial RF but adjusting plan spot weights; and &#x27;no adaptation&#x27; (NoA) where the dose from initial plans on initial CT (CT1) was recomputed on CT2. The prescribed dose per fraction was 9 Gy. Different beam angles were tested for each CT2(1 beam per fraction). The FA, SAO and NoA plans were then compared on CT2.Main results.Fractions with SAO showed a median decrease of 0.05 Gy forD98% and a median increase of 0.03 Gy forD2% of CTV when compared to their homologous FA plans on nominal case. Median conformity number decreased by 0.03. Median max dose to spinal cord increased by 0.09 Gy. The largest median increase in mean dose to organs was 0.03 Gy to the mandible. The largest observed median difference in organs receiving a minimal dose rate of 40 Gy s-1was 0.5% for the mandible. Up to 16 of the 20 evaluated SAO fractions were thus deemed clinically acceptable, with up to 8 NoA plans already acceptable before adaptation.Significance.Proposed SAO workflow showed that for most of our evaluated plans, daily reprinting of RF was not necessary.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39993377/) · [DOI](https://doi.org/10.1088/1361-6560/adb9b2)
+
+
+---
+
+### Biological dose-based fractional dose optimization of Bragg peak FLASH-RT for lung cancer treatment.
+
+*Zeng Y, Zhang Q, Wang W, Liu X, Qin B, Pang B et al.* — Medical physics (2025)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** The FLASH effect is dose-dependent, and fractional dose optimization may enhance it, improving normal tissue sparing. PURPOSE: This study investigates the performance of fractional dose optimization in enhancing normal tissue sparing for Bragg peak FLASH radiotherapy (FLASH-RT).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study investigates fractional dose optimization for proton Bragg peak FLASH radiotherapy in 15 lung cancer patients prescribed 50 Gy in five fractions. Non-uniform fractional dose plans, with doses ranging from 5.0 to 20.0 Gy per fraction, were compared to uniform 10 Gy fractional dose plans using a dose-dependent FLASH enhancement ratio integrated with biological equivalent dose. Non-uniform plans achieved similar target coverage (BED98%: 96.6 vs. 97.1 Gy) while reducing heart FER-BED15cc by 10.5% and ipsilateral lung V6.7GyFER-BED by 4.3%, demonstrating enhanced normal tissue sparing through fractional dose optimization.
+
+
+??? note "Abstract"
+    BACKGROUND: The FLASH effect is dose-dependent, and fractional dose optimization may enhance it, improving normal tissue sparing. PURPOSE: This study investigates the performance of fractional dose optimization in enhancing normal tissue sparing for Bragg peak FLASH radiotherapy (FLASH-RT). METHODS: 15 lung cancer patients, including eight with peripherally located tumors and seven with centrally located tumors, were retrospectively analyzed. A uniform fractionation prescription of 50 Gy in five fractions was utilized, corresponding to a biological equivalent dose (BED) of 100 Gy, calculated using an α/β value of 10 Gy. For each patient, uniform (UFD) and nonuniform fractional dose (non-UFD) plans were designed. In UFD FLASH plans, five multi-energy Bragg peak beams were optimized using single-field optimization, each delivering 10 Gy to the target. In non-UFD FLASH plans, fractional doses were optimized to enhance sparing effects while ensuring the target received a BED comparable to UFD plans. A dose-dependent FLASH enhancement ratio (FER) was integrated with the BED to form the FER-BED metric to compare the UFD and non-UFD plans. An α/β value of 3 Gy was applied for normal tissues in the calculations. RESULTS: Bragg peak FLASH plans showed high dose conformality for both peripheral and central tumors, with all plans achieving a conformality index (the ratio of the volume receiving the prescribed dose to the CTV volume) below 1.2. In non-UFD plans, fractional doses ranged from 5.0 Gy to 20.0 Gy. Compared to UFD plans, non-UFD plans achieved similar BED coverage (BED98%: 96.6 Gy vs. 97.1 Gy, p = 0.256), while offering improved organ-at-risk sparing. Specifically, the FER-BED15cc for the heart reduced by 10.5% (9.4 Gy vs. 10.5 Gy, p = 0.017) and the V6.7GyFER-BED for the ipsilateral lung decreased by 4.3% (29 .1% vs. 30.4%, p = 0.008). No significant difference was observed in FER-BED0.25cc of spinal cord (UFD: 7.1 Gy, non-UFD: 6.9 Gy, p = 0.626) and FER-BED5cc in esophagus (UFD: 0.4 Gy, non-UFD: 0.4 Gy, p = 0.831). CONCLUSIONS: Bragg peak FLASH-RT achieved high dose conformality for both peripheral and central tumors. Fractional dose optimization, using a single beam per fraction delivery mode, enhanced normal tissue sparing by leveraging both fractionation and FLASH effects.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39967009/) · [DOI](https://doi.org/10.1002/mp.17697)
+
+
+---
+
+### Pulse-by-pulse treatment planning and its application to generic observations of ultra-high dose rate (FLASH) radiotherapy with photons and protons.
+
+*Bedford JL* — Physics in medicine and biology (2025)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Objective.The exact temporal characteristics of beam delivery affect the efficacy and outcome of ultra-high dose rate (UHDR or &#x27;FLASH&#x27;) radiotherapy, mainly due to the influence of the beam pulse structure on mean dose rate. Single beams may also be delivered in separate treatment sessions to elevate mean dose rate.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A pulse-by-pulse treatment planning model was implemented in the AutoBeam inverse planning system to explicitly describe individual delivery pulses during optimization. The method calculates time-averaged and dose-averaged mean dose rate, applies a dose-modifying factor for FLASH effect, and was demonstrated on intensity-modulated photon therapy and passive-scattering and pencil-beam-scanning proton therapy delivering 36 Gy in 3 fractions to a phantom. Results showed highest dose and dose rate in the target region with more pronounced sparing around the planning target volume, greater sparing with photons than protons, and optimal sparing occurring close to the PTV for hypofractionated treatments.
+
+
+??? note "Abstract"
+    Objective.The exact temporal characteristics of beam delivery affect the efficacy and outcome of ultra-high dose rate (UHDR or &#x27;FLASH&#x27;) radiotherapy, mainly due to the influence of the beam pulse structure on mean dose rate. Single beams may also be delivered in separate treatment sessions to elevate mean dose rate. This paper therefore describes a model for pulse-by-pulse treatment planning and demonstrates its application by making some generic observations of the characteristics of FLASH radiotherapy with photons and protons.Approach.A beam delivery model was implemented into the AutoBeam (v6.3) inverse treatment planning system, so that the individual pulses of the delivery system could be explicitly described during optimisation. The delivery model was used to calculate distributions of time-averaged and dose-averaged mean dose rate and the dose modifying factor for FLASH was then determined and applied to dose calculated by a discrete ordinates Boltzmann solver. The method was applied to intensity-modulated radiation therapy with photons as well as to passive scattering and pencil beam scanning with protons for the case of a simple phantom geometry with a prescribed dose of 36 Gy in 3 fractions.Main results.Dose and dose rate are highest in the target region, so FLASH sparing is most pronounced around the planning target volume (PTV). When using a treatment session per beam, OAR sparing is possible more peripherally. The sparing with photons is higher than with protons because the dose to OAR is higher with photons.Significance.The framework provides an efficient method to determine the optimal technique for delivering clinical dose distributions using FLASH. The most sparing occurs close to the PTV for hypofractionated treatments.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39870031/) · [DOI](https://doi.org/10.1088/1361-6560/adaf04)
 
 
 ---
@@ -765,6 +888,10 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 **TL;DR.** The advent of ultra-high dose rate irradiation, known as FLASH radiation therapy, has shown promising potential in reducing toxicity while maintaining tumor control. However, the clinical translation of these benefits necessitates efficient treatment planning strategies.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study presents a traveling salesperson problem (TSP) heuristic-based approach to optimize the order of proton spots in scanned beam treatment planning for prostate cancer to enhance dose rates in FLASH regimens. The method was evaluated on 26 prostate cancer patients and compared against conventional sorting methods and global optimization techniques. TSP-based heuristics achieved comparable FLASH coverage to global optimization while reducing computation time from hours to seconds, offering a practical solution for clinical implementation of FLASH proton therapy.
 
 
 ??? note "Abstract"

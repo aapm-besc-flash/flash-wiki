@@ -2,7 +2,26 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*204 records. Newest first.*
+*206 records. Newest first.*
+
+---
+
+### FLASH radiotherapy as an emerging paradigm in radioimmunotherapy: biological rationale, preclinical evidence, and translational roadmap.
+
+*Li D, Wang X, Lu S, Li L, Su Y, Wang X et al.* — Frontiers in immunology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising technology in recent years. Unlike conventional radiotherapy (CONV-RT), FLASH-RT delivers radiation at an ultra-high dose rate over a very short duration.
+
+
+??? note "Abstract"
+    Ultra-high dose rate radiotherapy (FLASH-RT) has emerged as a promising technology in recent years. Unlike conventional radiotherapy (CONV-RT), FLASH-RT delivers radiation at an ultra-high dose rate over a very short duration. This approach not only greatly shortens the treatment time, but also exhibits the &quot;FLASH effect&quot;, which significantly spares healthy tissues while maintaining antitumor efficacy comparable to that of CONV-RT. Radiotherapy ignites immunity, fueling the radioimmunotherapy boom. However, even the most advanced radiotherapy techniques inevitably expose healthy tissue, immune organs, vasculature, and circulating or infiltrated lymphocytes to radiation-induced toxicity, limiting the synergistic effect of radioimmunotherapy. Notably, FLASH-RT offers a considerable alternative by protecting the immune system, converting the immunosuppressive tumor microenvironment (TME) into a moderately immune-infiltrated TME, and reducing immunosuppressive responses, thereby enhancing antitumor immunity. A growing number of studies have demonstrated that this combination shows synergistic antitumor effects even in drug-resistant tumor models. Despite these encouraging findings, the combination of FLASH-RT with immunotherapy remains in its early stages and has yet to reach clinical implementation. In this review, we present the current status, underlying mechanisms, and future prospects of FLASH-RT, with a particular focus on its immunomodulatory abilities and potential as a future platform for cancer radioimmunotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42662452/) · [DOI](https://doi.org/10.3389/fimmu.2026.1869222) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13520774/)
+
 
 ---
 
@@ -59,6 +78,25 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42588638/) · [DOI](https://doi.org/10.3390/cancers18152418) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13464957/)
+
+
+---
+
+### Laser-driven particle accelerators for cancer therapy: a review of state-of-the-art techniques, challenges and opportunities.
+
+*Alabd R, Franklin DR* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons.
+
+
+??? note "Abstract"
+    Charged particle radiation therapy (such as electron, proton and heavy ion therapies) is presently delivered via large linear or circular electromagnetic particle accelerators. There is growing interest in laser plasma accelerators as an alternative source for therapeutic charged particle radiation, including protons, carbon ions, and very high energy electrons. Laser plasma accelerators offer the potential for extremely high dose rates in a very compact physical footprint. While these radiation sources advancing rapidly, there remain many technical challenges to be overcome prior to clinical translation. In this work, we outline the current state of the art in laser-plasma accelerators for proton, carbon ion and very high energy electron radiation therapy, discuss recentin vitroandin vivoexperimental results, and identify the key challenges and opportunities offered by this promising family of technologies.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42575153/) · [DOI](https://doi.org/10.1088/1361-6560/ae97af)
 
 
 ---

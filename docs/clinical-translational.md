@@ -2,7 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*38 records. Newest first.*
+*37 records. Newest first.*
 
 ---
 
@@ -213,59 +213,48 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Optimal fractionation scheme for lymphocyte infiltration in glioblastoma multiforme radiotherapy.
+### Requirements and Study Design for the Next Proton FLASH Clinical Trials: an International Multidisciplinary Delphi Consensus.
 
-*Iturri L, Gilbert C, Espenon J, Bertho A, Potiron S, Juchaux M et al.* — Frontiers in oncology (2025)  
+*Klaver YLB, Hoogeman MS, Lu QR, Bradley JD, Choi JI, Ferris MJ et al.* — International journal of radiation oncology, biology, physics (2025)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
 
 
-**TL;DR.** Radioresistant and immunosuppressive tumors, such as glioblastoma multiforme (GBM), remain a challenge, as current clinical approaches-surgical resection and chemoradiation-do not yet provide effective treatment. Immunotherapy (IT) has emerged as a powerful tool in cancer; however, phase III clinical trials in GBM have yielded unsuccessful results, likely due to its critical dependence on preexist…
+**TL;DR.** The FLASH effect, defined as normal tissue sparing while maintaining tumor control with ultra-high dose-rate irradiation, has been demonstrated preclinically in different tumors and tissues. Although the biological mechanisms are unclear, there is a need for clinical trials investigating the value of proton FLASH irradiation (pFLASH).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    An international expert panel of 21 clinicians, physicists, and biologists used Delphi methodology to establish consensus recommendations for the design of next-generation proton FLASH clinical trials. The panel identified prerequisites including preclinical demonstration of normal-tissue sparing with tumor control maintenance, recommended enrollment of adult patients with expected overall survival ≥1 year, advocated toxicity reduction as the primary endpoint, and specified requirements for dose-rate accuracy and pretreatment verification. The panel could not reach consensus on fractionation schedules, multiple-beam planning, or fraction dose specification.
 
 
 ??? note "Abstract"
-    PURPOSE: Radioresistant and immunosuppressive tumors, such as glioblastoma multiforme (GBM), remain a challenge, as current clinical approaches-surgical resection and chemoradiation-do not yet provide effective treatment. Immunotherapy (IT) has emerged as a powerful tool in cancer; however, phase III clinical trials in GBM have yielded unsuccessful results, likely due to its critical dependence on preexisting antitumor immunity. Given its immunomodulatory potential, radiotherapy (RT) could serve as a tool to induce tumor inflammation and enhance responsiveness to IT. However, the optimal radiation configuration required to achieve the critical level of tumor inflammation for IT success remains elusive. This study assessed the most effective dose fractionation scheme for maximizing immune cell infiltration into tumors. MATERIALS AND METHODS: Two orthotopic rat glioma models with differing vascularization and immunogenicity were irradiated with three dose fractionation schemes. Tumor immune cell populations were analyzed by flow cytometry. RESULTS: A single high dose (25 Gy) or extreme hypofractionation is required to elicit a significant immune infiltration in tumors. CONCLUSIONS: Using RT as an immune primer in GBM would require very high and toxic doses with conventional RT methods. While 25 Gy is used in conventional stereotactic radiosurgery, such a high dose is typically limited to small brain volumes. Novel approaches, such as FLASH-RT or minibeam RT, offer alternatives to mitigate toxicity while achieving the required doses.
+    PURPOSE: The FLASH effect, defined as normal tissue sparing while maintaining tumor control with ultra-high dose-rate irradiation, has been demonstrated preclinically in different tumors and tissues. Although the biological mechanisms are unclear, there is a need for clinical trials investigating the value of proton FLASH irradiation (pFLASH). The purpose of this study was to establish an expert consensus regarding prerequisites, study design, and endpoints for the next clinical trials exploring the clinical potentials of pFLASH. METHODS AND MATERIALS: Delphi methodology was used to develop a systematic expert consensus. An international expert panel was composed of 21 clinicians, physicists, and biologists, well-balanced in expertise and geography, using predefined inclusion criteria. Statements were scored on a 5-point Likert scale in 2 rounds of online questionnaire voting. The definition of consensus was set a priori. RESULTS: The response rate was 100% in both rounds. Preclinical in vivo demonstration of the FLASH effect in normal tissue while maintaining tumor response was deemed essential before starting a clinical trial in a specific tumor site. The next clinical pFLASH trials are advised to include adult patients only, with a minimal expected overall survival of 1 year for palliative settings or, preferably, oligometastatic disease in the ablative setting. The pFLASH effect should be studied in a single treatment modality setting with toxicity reduction as the primary endpoint. Recommendations were formulated on the use of clinical targets and organs at risk constraints, requirements for evaluation and reporting, and accuracy levels and pretreatment verification of dose rates. No consensus was reached on the use of multiple beams, multiple fractions, and fraction dose. CONCLUSIONS: There is a need for additional data regarding the influence of fractionation and multiple beam planning. The results of this study can be used to develop roadmaps to guide future clinical trial design.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40406256/) · [DOI](https://doi.org/10.3389/fonc.2025.1493436) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12095198/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40174648/) · [DOI](https://doi.org/10.1016/j.ijrobp.2025.03.047)
 
 
 ---
 
-### The proton therapy research beamline at the Christie NHS foundation trust.
+### Rapid Sterilization of Clinical Apheresis Blood Products Using Ultra-High Dose Rate Radiation.
 
-*Henthorn NT, Warmenhoven JW, Ingram SP, Manger SP, Merchant MJ, Owen H et al.* — Biomedical physics &amp; engineering express (2025)  
+*Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau HD et al.* — International journal of molecular sciences (2025)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Proton therapy is a relatively new modality for cancer treatment and has several open research questions, particularly in the biological realm. Due to large infrastructure costs the modality is reserved for specialist treatment, limiting the patient outcome dataset.
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
-??? note "Abstract"
-    Proton therapy is a relatively new modality for cancer treatment and has several open research questions, particularly in the biological realm. Due to large infrastructure costs the modality is reserved for specialist treatment, limiting the patient outcome dataset. This requires supplementation with fundamental research throughin vitroandin vivosystems. Similarly, the safety and potential benefits of new treatments, such as FLASH, should be demonstrated in lab environments prior to clinical translation. Greater access to clinically relevant research platforms is required. This work presents the capabilities of the Manchester proton therapy research facility for experimentalists&#x27; assessment to meet their research goals. Details of the research beamline geometry are presented, along with workflows forin vitrosample irradiation within an automated sample handling environmental chamber. Absolute dose and dose depth of the proton research beamline was measured. The dose calibration across a range of energies and dose rates is presented and fits are mathematically described. Methods to convert measured, or planned, dose to sample dose are presented including for biological studies investigating end of proton range effects. Elements of the beam optics, impacting on spot size and therefore field homogeneity, were measured for sample irradiation and beam model development. A Monte Carlo beam model was established to predict physically difficult measurements and is compared to measurements throughout. Achievable dose rates for FLASH are presented alongside absolute dosimetric accuracy. There was a focus on radiobiological research in establishing the beamline. Special care was taken to develop high-throughput repeatablein vitroirradiation workflows, with an adjacent radiobiological lab for immediate processing. This will lead to a reduction in experimental uncertainties seen in the literature with demonstrated accurate dosimetry, tight environmental control, and a high degree of versatility. The infrastructure presented in this work is a unique facility in the UK.
+**TL;DR.** Blood products, including apheresis platelets and plasma, are essential for medical use but pose risks of bacterial contamination and viral transmission. Platelets are prone to bacterial growth due to their storage conditions, while plasma requires extensive screening.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40403749/) · [DOI](https://doi.org/10.1088/2057-1976/addbe8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12296266/)
-
-
----
-
-### Anticipating potential bottlenecks in adaptive proton FLASH therapy: a ridge filter reuse strategy.
-
-*Roberfroid B, Chocan Vera MS, Draguet C, Lee JA, Barragán-Montero AM, Sterpin E* — Physics in medicine and biology (2025)  
-
-<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Objective.Achieving FLASH dose rate with pencil beam scanning intensity modulated proton therapy is challenging. However, utilizing a single energy layer with a ridge filter (RF) can maintain dose rate and conformality.
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A clinical linear accelerator was configured to deliver ultra-high dose rate irradiation (6 kGy/min) for sterilization of blood products. Platelets spiked with E. coli received 0.1–20 kGy doses; 1 kGy reduced bacterial growth by 2.7-log without significant platelet loss, while 5 kGy achieved complete suppression. COVID-19 convalescent plasma irradiated at 25 kGy showed a 9.2% decrease in RBD-specific IgG binding. The study demonstrates proof-of-concept for rapid blood product sterilization as a point-of-care application.
 
 
 ??? note "Abstract"
-    Objective.Achieving FLASH dose rate with pencil beam scanning intensity modulated proton therapy is challenging. However, utilizing a single energy layer with a ridge filter (RF) can maintain dose rate and conformality. Yet, changes in patient anatomy over the treatment course can render the RF obsolete. Unfortunately, creating a new RF is time-consuming, thus, incompatible with online adaptation. To address this, we propose to re-optimize the spot weights while keeping the same initial RF.Approach.Data from six head and neck cancer patients with a repeated computed tomography (CT2) were used. FLASH treatment plans were generated with three methods on CT2: &#x27;full-adaptation&#x27; (FA), optimized from scratch with a new RF; &#x27;spot-adaptation only&#x27; (SAO), re-using initial RF but adjusting plan spot weights; and &#x27;no adaptation&#x27; (NoA) where the dose from initial plans on initial CT (CT1) was recomputed on CT2. The prescribed dose per fraction was 9 Gy. Different beam angles were tested for each CT2(1 beam per fraction). The FA, SAO and NoA plans were then compared on CT2.Main results.Fractions with SAO showed a median decrease of 0.05 Gy forD98% and a median increase of 0.03 Gy forD2% of CTV when compared to their homologous FA plans on nominal case. Median conformity number decreased by 0.03. Median max dose to spinal cord increased by 0.09 Gy. The largest median increase in mean dose to organs was 0.03 Gy to the mandible. The largest observed median difference in organs receiving a minimal dose rate of 40 Gy s-1was 0.5% for the mandible. Up to 16 of the 20 evaluated SAO fractions were thus deemed clinically acceptable, with up to 8 NoA plans already acceptable before adaptation.Significance.Proposed SAO workflow showed that for most of our evaluated plans, daily reprinting of RF was not necessary.
+    Blood products, including apheresis platelets and plasma, are essential for medical use but pose risks of bacterial contamination and viral transmission. Platelets are prone to bacterial growth due to their storage conditions, while plasma requires extensive screening. This study explores rapid irradiation as an innovative pathogen reduction method. A clinical linear accelerator was configured to deliver ultra-high dose rate (6 kGy/min) irradiation to platelet and plasma components. Platelets spiked with Escherichia coli (E. coli; 10⁵ colony-forming units) were irradiated at 0.1-20 kGy, followed by bacterial growth and platelet count analysis. COVID-19 convalescent plasma (CCP) was irradiated at 25 kGy, and receptor-binding domain (RBD)-specific immunoglobulins (Ig) were assessed. Irradiation at 1 kGy reduced E. coli growth by 2.7-log without significant platelet loss, while 5 kGy achieved complete suppression. The estimated 6-log bacterial reduction dose (2.3 kGy) led to a 31% platelet count drop. Administering a 25 kGy virus-sterilizing dose to CCP resulted in a 9.2% decrease in RBD-specific IgG binding. This study demonstrates the proof-of-concept for rapid blood sterilization using a clinical linear accelerator. The method maintains platelet counts and CCP antibody binding at sterilizing doses, highlighting its potential as a point-of-care blood product sterilization solution.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39993377/) · [DOI](https://doi.org/10.1088/1361-6560/adb9b2)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40141066/) · [DOI](https://doi.org/10.3390/ijms26062424) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11942528/)
 
 
 ---
