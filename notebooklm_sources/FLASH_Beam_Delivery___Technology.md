@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Beam Delivery & Technology
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-01. 127 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 116 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -929,18 +929,7 @@ Abstract: PURPOSE: The Oriatron eRT6 is a linear accelerator (linac) used in FLA
 
 ---
 
-## 85. Phantom assessment of three-dimensional geometric distortion of a dedicated wide-bore MR-simulator for radiotherapy.
-Authors: Law MWK, Yuan J, Wong OOL, Ding AY, Zhou Y, Cheung KY, Yu SK
-Journal: Biomedical physics & engineering express (2022)
-Identifiers: PMID 34874313; DOI 10.1088/2057-1976/ac3f4f
-URL: https://pubmed.ncbi.nlm.nih.gov/34874313/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: This study evaluated the machine-dependent three-dimensional geometric distortion images acquired from a 1.5T 700 mm-wide bore MR-simulator based on a large geometric accuracy phantom. With the consideration of radiation therapy (RT) application requirements, every sequence was examined in various combinations of acquisition-orientations and receiver-bandwidths with console-integrated distortion correction enabled. Distortion was repeatedly measured over a six-month period. The distortion measured from the images acquired at the beginning of this period was employed to retrospectively correct the distortion in the subsequent acquisitions. Geometric distortion was analyzed within the largest field-of-view allowed. Six sequences were examined for comprehensive distortion analysis-VIBE, SPACE, TSE, FLASH, BLADE and PETRA. Based on optimal acquisition parameters, their diameter-sphere-volumes (DSVs) of CT-comparable geometric fidelity (where 1 mm distortion was allowed) were 333.6 mm, 315.1 mm, 316.0 mm, 318.9 mm, 306.2 mm and 314.5 mm respectively. This was a significant increase from 254.0 mm, 245.5 mm, 228.9 mm, 256.6 mm, 230.8 mm and 254.2 mm DSVs respectively, when images were acquired using un-optimized parameters. The longitudinal stability of geometric distortion and the efficacy of retrospective correction of console-corrected images, based on prior distortion measurements, were inspected using VIBE and SPACE. The retrospectively corrected images achieved over 500 mm DSVs with 1 mm distortion allowed. The median distortion was below 1 mm after retrospective correction, proving that obtaining prior distortion map for subsequent retrospective distortion correction is beneficial. The systematic evaluation of distortion using various combinations of sequence-type, acquisition-orientation and receiver-bandwidth in a six-month time span would be a valuable guideline for optimizing sequence for various RT applications.
-
----
-
-## 86. Treatment Planning System for Electron FLASH Radiation Therapy: Open-Source for Clinical Implementation.
+## 85. Treatment Planning System for Electron FLASH Radiation Therapy: Open-Source for Clinical Implementation.
 Authors: Rahman M, Ashraf MR, Gladstone DJ, Bruza P, Jarvis LA, Schaner PE, Cao X, Pogue BW et al.
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 34762969; DOI 10.1016/j.ijrobp.2021.10.148; PMC PMC10386889 (open access)
@@ -951,18 +940,7 @@ Abstract: PURPOSE: To present a Monte Carlo (MC) beam model and its implementati
 
 ---
 
-## 87. Impact of high-dose rate radiotherapy on B and natural killer (NK) cell polarization in peripheral blood mononuclear cells (PBMCs) via inducing non-small cell lung cancer (NSCLC)-derived exosomes.
-Authors: Lei QQ, Sui JD, Jin F, Luo HL, Shan JJ, Tang L, Wang Y, Wu YZ
-Journal: Translational cancer research (2021)
-Identifiers: PMID 35116657; DOI 10.21037/tcr-21-536; PMC PMC8797491 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/35116657/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology, Radiobiology
-
-Abstract: BACKGROUND: Non-small cell lung cancer (NSCLC) is the most commonly diagnosed solid tumor. While it has been established that stereotactic body radiotherapy for NSCLC plays an important role in antitumor immune response, the possible effects of the dose rate on this response has not been fully clarified. METHODS: In vitro, A549 cells were irradiated on a Varian TrueBeam® Linear Accelerator with dose and dose rate escalation using the flattening filter-free (FFF) technique, which was followed by coculturing with peripheral blood mononuclear cells (PBMCs). The exosomes from irradiated A549 cells were isolated and then cocultured with PBMCs. Flow cytometry was performed to analyze the proportion of lymph cell clusters in PBMCs. RESULTS: The proportion of CD3- immune cell clusters in PBMCs was significantly higher in the 10 Gy treatment group than in the nonirradiated group and other lower-dose (2, 6 Gy) treatment groups at the dose rate of 1,000 MU/min. However, no influence was observed on the proportion of CD3+ T cell subsets. Further results showed that both natural killer (NK) and B cell proportions reached peaks in the 14 Gy treatment group when a dose rate of 1,200 MU/min was used. Notably, the peak values of these two cell proportions were reached at a lower radiation dose of 10 Gy when a greater dose rate, ranging from 1,600 to 2,400 MU/min, was used. We further found that a single, high dose of irradiation (10 Gy), as compared with a single, low dose of irradiation (2 Gy), could markedly stimulate the A549-related exosome secretion in a radiation dose rate-dependent manner. The ultrahigh dose rate radiation-derived exosomes contributed to the polarization of B and NK cell subsets in PBMCs. CONCLUSIONS: The optimized radiation regime, which depends on the appropriate radiation dose and dose rate, results in the production of exosomes derived from NSCLC cells and eventually the redistribution of immune cells in PBMCs.
-
----
-
-## 88. Deep Seated Tumour Treatments With Electrons of High Energy Delivered at FLASH Rates: The Example of Prostate Cancer.
+## 86. Deep Seated Tumour Treatments With Electrons of High Energy Delivered at FLASH Rates: The Example of Prostate Cancer.
 Authors: Sarti A, De Maria P, Battistoni G, De Simoni M, Di Felice C, Dong Y, Fischetti M, Franciosini G et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 35024354; DOI 10.3389/fonc.2021.777852; PMC PMC8744000 (open access)
@@ -973,7 +951,7 @@ Abstract: Different therapies are adopted for the treatment of deep seated tumou
 
 ---
 
-## 89. Dosimetry and radioprotection evaluations of very high energy electron beams.
+## 87. Dosimetry and radioprotection evaluations of very high energy electron beams.
 Authors: Masilela TAM, Delorme R, Prezado Y
 Journal: Scientific reports (2021)
 Identifiers: PMID 34642417; DOI 10.1038/s41598-021-99645-7; PMC PMC8511248 (open access)
@@ -984,7 +962,7 @@ Abstract: Very high energy electrons (VHEEs) represent a promising alternative f
 
 ---
 
-## 90. Implementation and validation of a beam-current transformer on a medical pulsed electron beam LINAC for FLASH-RT beam monitoring.
+## 88. Implementation and validation of a beam-current transformer on a medical pulsed electron beam LINAC for FLASH-RT beam monitoring.
 Authors: Oesterle R, Gonçalves Jorge P, Grilj V, Bourhis J, Vozenin MC, Germond JF, Bochud F, Bailat C et al.
 Journal: Journal of applied clinical medical physics (2021)
 Identifiers: PMID 34609051; DOI 10.1002/acm2.13433; PMC PMC8598141 (open access)
@@ -995,7 +973,7 @@ Abstract: PURPOSE: To implement and validate a beam current transformer as a pas
 
 ---
 
-## 91. Radiation shielding and safety implications following linac conversion to an electron FLASH-RT unit.
+## 89. Radiation shielding and safety implications following linac conversion to an electron FLASH-RT unit.
 Authors: Poirier Y, Mossahebi S, Becker SJ, Koger B, Xu J, Lamichhane N, Maxim PG, Sawant A
 Journal: Medical physics (2021)
 Identifiers: PMID 34287938; DOI 10.1002/mp.15105
@@ -1006,7 +984,7 @@ Abstract: PURPOSE: Due to their finite range, electrons are typically ignored wh
 
 ---
 
-## 92. Focused VHEE (very high energy electron) beams and dose delivery for radiotherapy applications.
+## 90. Focused VHEE (very high energy electron) beams and dose delivery for radiotherapy applications.
 Authors: Whitmore L, Mackay RI, van Herk M, Jones JK, Jones RM
 Journal: Scientific reports (2021)
 Identifiers: PMID 34234203; DOI 10.1038/s41598-021-93276-8; PMC PMC8263594 (open access)
@@ -1017,7 +995,7 @@ Abstract: This paper presents the first demonstration of deeply penetrating dose
 
 ---
 
-## 93. First theoretical determination of relative biological effectiveness of very high energy electrons.
+## 91. First theoretical determination of relative biological effectiveness of very high energy electrons.
 Authors: Delorme R, Masilela TAM, Etoh C, Smekens F, Prezado Y
 Journal: Scientific reports (2021)
 Identifiers: PMID 34045625; DOI 10.1038/s41598-021-90805-3; PMC PMC8160353 (open access)
@@ -1028,7 +1006,7 @@ Abstract: Very high energy electrons (VHEEs, E > 70 MeV) present promising 
 
 ---
 
-## 94. Commissioning of a clinical pencil beam scanning proton therapy unit for ultra-high dose rates (FLASH).
+## 92. Commissioning of a clinical pencil beam scanning proton therapy unit for ultra-high dose rates (FLASH).
 Authors: Nesteruk KP, Togno M, Grossmann M, Lomax AJ, Weber DC, Schippers JM, Safai S, Meer D et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 33963576; DOI 10.1002/mp.14933
@@ -1039,7 +1017,7 @@ Abstract: PURPOSE: The purpose of this work was to provide a flexible platform f
 
 ---
 
-## 95. Characteristics of very high-energy electron beams for the irradiation of deep-seated targets.
+## 93. Characteristics of very high-energy electron beams for the irradiation of deep-seated targets.
 Authors: Böhlen TT, Germond JF, Traneus E, Bourhis J, Vozenin MC, Bailat C, Bochud F, Moeckli R
 Journal: Medical physics (2021)
 Identifiers: PMID 33884618; DOI 10.1002/mp.14891
@@ -1050,7 +1028,7 @@ Abstract: PURPOSE: Driven by advances in accelerator technology and the potentia
 
 ---
 
-## 96. A focused very high energy electron beam for fractionated stereotactic radiotherapy.
+## 94. A focused very high energy electron beam for fractionated stereotactic radiotherapy.
 Authors: Svendsen K, Guénot D, Svensson JB, Petersson K, Persson A, Lundh O
 Journal: Scientific reports (2021)
 Identifiers: PMID 33712653; DOI 10.1038/s41598-021-85451-8; PMC PMC7971008 (open access)
@@ -1061,7 +1039,7 @@ Abstract: An electron beam of very high energy (50-250 MeV) can potentially pro
 
 ---
 
-## 97. Monitoring electron energies during FLASH irradiations.
+## 95. Monitoring electron energies during FLASH irradiations.
 Authors: Berne A, Petersson K, Tullis IDC, Newman RG, Vojnovic B
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 33361551; DOI 10.1088/1361-6560/abd672; PMC PMC8208618 (open access)
@@ -1072,7 +1050,7 @@ Abstract: When relativistic electrons are used to irradiate tissues, such as dur
 
 ---
 
-## 98. The European Joint Research Project UHDpulse - Metrology for advanced radiotherapy using particle beams with ultra-high pulse dose rates.
+## 96. The European Joint Research Project UHDpulse - Metrology for advanced radiotherapy using particle beams with ultra-high pulse dose rates.
 Authors: Schüller A, Heinrich S, Fouillade C, Subiel A, De Marzi L, Romano F, Peier P, Trachsel M et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 33181444; DOI 10.1016/j.ejmp.2020.09.020
@@ -1083,7 +1061,7 @@ Abstract: UHDpulse - Metrology for advanced radiotherapy using particle beams wi
 
 ---
 
-## 99. Toward an effective use of laser-driven very high energy electrons for radiotherapy: Feasibility assessment of multi-field and intensity modulation irradiation schemes.
+## 97. Toward an effective use of laser-driven very high energy electrons for radiotherapy: Feasibility assessment of multi-field and intensity modulation irradiation schemes.
 Authors: Labate L, Palla D, Panetta D, Avella F, Baffigi F, Brandi F, Di Martino F, Fulgentini L et al.
 Journal: Scientific reports (2020)
 Identifiers: PMID 33057078; DOI 10.1038/s41598-020-74256-w; PMC PMC7560873 (open access)
@@ -1094,7 +1072,7 @@ Abstract: Radiotherapy with very high energy electrons has been investigated for
 
 ---
 
-## 100. Initial Steps Towards a Clinical FLASH Radiotherapy System: Pediatric Whole Brain Irradiation with 40 MeV Electrons at FLASH Dose Rates.
+## 98. Initial Steps Towards a Clinical FLASH Radiotherapy System: Pediatric Whole Brain Irradiation with 40 MeV Electrons at FLASH Dose Rates.
 Authors: Breitkreutz DY, Shumail M, Bush KK, Tantawi SG, Maxime PG, Loo BW
 Journal: Radiation research (2020)
 Identifiers: PMID 32991725; DOI 10.1667/RADE-20-00069.1; PMC PMC7856241 (open access)
@@ -1105,7 +1083,7 @@ Abstract: In this work, we investigated the delivery of a clinically acceptable 
 
 ---
 
-## 101. Beamline characterization of a dielectric-filled reentrant cavity resonator as beam current monitor for a medical cyclotron facility.
+## 99. Beamline characterization of a dielectric-filled reentrant cavity resonator as beam current monitor for a medical cyclotron facility.
 Authors: Srinivasan S, Duperrex PA, Schippers JM
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32956916; DOI 10.1016/j.ejmp.2020.09.006
@@ -1116,7 +1094,7 @@ Abstract: At PSI (Paul Scherrer Institute), Switzerland, a superconducting cyclo
 
 ---
 
-## 102. Technical challenges for FLASH proton therapy.
+## 100. Technical challenges for FLASH proton therapy.
 Authors: Jolly S, Owen H, Schippers M, Welsch C
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32947086; DOI 10.1016/j.ejmp.2020.08.005
@@ -1127,7 +1105,7 @@ Abstract: There is growing interest in the radiotherapy community in the applica
 
 ---
 
-## 103. A framework for defining FLASH dose rate for pencil beam scanning.
+## 101. A framework for defining FLASH dose rate for pencil beam scanning.
 Authors: Folkerts MM, Abel E, Busold S, Perez JR, Krishnamurthi V, Ling CC
 Journal: Medical physics (2020)
 Identifiers: PMID 32910460; DOI 10.1002/mp.14456; PMC PMC7894358 (open access)
@@ -1138,7 +1116,7 @@ Abstract: PURPOSE: To develop a method of (a) calculating the dose rate of voxel
 
 ---
 
-## 104. Evaluating the Reproducibility of Mouse Anatomy under Rotation in a Custom Immobilization Device for Conformal FLASH Radiotherapy.
+## 102. Evaluating the Reproducibility of Mouse Anatomy under Rotation in a Custom Immobilization Device for Conformal FLASH Radiotherapy.
 Authors: Ko RB, Soto LA, von Eyben R, Melemenidis S, Rankin EB, Maxim PG, Graves EE, Loo BW
 Journal: Radiation research (2020)
 Identifiers: PMID 32857849; DOI 10.1667/RADE-20-00095; PMC PMC7856226 (open access)
@@ -1149,7 +1127,7 @@ Abstract: The observation of an enhanced therapeutic index for FLASH radiotherap
 
 ---
 
-## 105. Particle physics experiments based on the AWAKE acceleration scheme.
+## 103. Particle physics experiments based on the AWAKE acceleration scheme.
 Authors: Wing M
 Journal: Philosophical transactions. Series A, Mathematical, physical, and engineering sciences (2019)
 Identifiers: PMID 31230578; DOI 10.1098/rsta.2018.0185; PMC PMC6602917 (open access)
@@ -1160,7 +1138,7 @@ Abstract: New particle acceleration schemes open up exciting opportunities, pote
 
 ---
 
-## 106. DNA DSB Repair Dynamics following Irradiation with Laser-Driven Protons at Ultra-High Dose Rates.
+## 104. DNA DSB Repair Dynamics following Irradiation with Laser-Driven Protons at Ultra-High Dose Rates.
 Authors: Hanton F, Chaudhary P, Doria D, Gwynne D, Maiorino C, Scullion C, Ahmed H, Marshall T et al.
 Journal: Scientific reports (2019)
 Identifiers: PMID 30872656; DOI 10.1038/s41598-019-40339-6; PMC PMC6418121 (open access)
@@ -1171,7 +1149,7 @@ Abstract: Protontherapy has emerged as more effective in the treatment of certai
 
 ---
 
-## 107. Modifying a clinical linear accelerator for delivery of ultra-high dose rate irradiation.
+## 105. Modifying a clinical linear accelerator for delivery of ultra-high dose rate irradiation.
 Authors: Lempart M, Blad B, Adrian G, Bäck S, Knöös T, Ceberg C, Petersson K
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 30755324; DOI 10.1016/j.radonc.2019.01.031
@@ -1182,7 +1160,7 @@ Abstract: OBJECTIVES: The purpose of this study was to modify a clinical linear 
 
 ---
 
-## 108. Acceleration of electrons in the plasma wakefield of a proton bunch.
+## 106. Acceleration of electrons in the plasma wakefield of a proton bunch.
 Authors: Adli E, Ahuja A, Apsimon O, Apsimon R, Bachmann AM, Barrientos D, Batsch F, Bauche J et al.
 Journal: Nature (2018)
 Identifiers: PMID 30188496; DOI 10.1038/s41586-018-0485-4; PMC PMC6786972 (open access)
@@ -1193,18 +1171,7 @@ Abstract: High-energy particle accelerators have been crucial in providing a dee
 
 ---
 
-## 109. Optogenetic conditioning of paradigm and pattern discrimination in the rat somatosensory system.
-Authors: Abe K, Yawo H
-Journal: PloS one (2017)
-Identifiers: PMID 29267341; DOI 10.1371/journal.pone.0189439; PMC PMC5739416 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/29267341/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: The rodent whisker-barrel cortical system is a model for studying somatosensory discrimination at high spatiotemporal precision. Here, we applied optogenetics to produce somatosensory inputs in the whisker area using one of transgenic rat lines, W-TChR2V4, which expresses channelrhodopsin-2 (ChR2) in the mechanoreceptive nerve endings around whisker follicles. An awake W-TChR2V4 rat was head-fixed and irradiated by blue LED light on the whisker area with a paradigm conditioned with a reward. The Go task was designed so the rat is allowed to receive a reward, when it licked the nozzle within 5 s after photostimulation. The No-go task was designed so as the rat has to withhold licking for at least 5 s to obtain a reward after photostimulation. The Go-task conditioning was established within 1 hr of training with a reduction in the reaction time and increase of the success rate. To investigate the relationship between the spatiotemporal pattern of sensory inputs and the behavioral output, we designed a multi-optical fiber system that irradiates the whisker area at 9 spots in a 3×3 matrix. Although the Go-task conditioning was established using synchronous irradiation of 9 spots, the success rate was decreased with an increase of the reaction time for the asynchronous irradiation. After conditioning to the Go task, the rat responded to the blue LED flash irradiated on the barrel cortex, where many neurons also express ChR2, or photostimulation of the contralateral whisker area with a similar reaction time and success rate. Synchronous activation of the peripheral mechanoreceptive nerves is suggested to drive a neural circuit in the somatosensory cortex that efficiently couples with the decision. Our optogenetic system would enable the precise evaluation of the psychophysical values, such as the reaction time and success rate, to gain some insight into the brain mechanisms underlying conditioned behaviors.
-
----
-
-## 110. Very high-energy electron (VHEE) beams in radiation therapy; Treatment plan comparison between VHEE, VMAT, and PPBS.
+## 107. Very high-energy electron (VHEE) beams in radiation therapy; Treatment plan comparison between VHEE, VMAT, and PPBS.
 Authors: Schüler E, Eriksson K, Hynning E, Hancock SL, Hiniker SM, Bazalova-Carter M, Wong T, Le QT et al.
 Journal: Medical physics (2017)
 Identifiers: PMID 28339108; DOI 10.1002/mp.12233
@@ -1215,7 +1182,7 @@ Abstract: PURPOSE: The aim of this study was to evaluate the performance of very
 
 ---
 
-## 111. Experimental Platform for Ultra-high Dose Rate FLASH Irradiation of Small Animals Using a Clinical Linear Accelerator.
+## 108. Experimental Platform for Ultra-high Dose Rate FLASH Irradiation of Small Animals Using a Clinical Linear Accelerator.
 Authors: Schüler E, Trovati S, King G, Lartey F, Rafat M, Villegas M, Praxel AJ, Loo BW et al.
 Journal: International journal of radiation oncology, biology, physics (2017)
 Identifiers: PMID 27816362; DOI 10.1016/j.ijrobp.2016.09.018
@@ -1226,7 +1193,7 @@ Abstract: PURPOSE: A key factor limiting the effectiveness of radiation therapy 
 
 ---
 
-## 112. Comparison of film measurements and Monte Carlo simulations of dose delivered with very high-energy electron beams in a polystyrene phantom.
+## 109. Comparison of film measurements and Monte Carlo simulations of dose delivered with very high-energy electron beams in a polystyrene phantom.
 Authors: Bazalova-Carter M, Liu M, Palma B, Dunning M, McCormick D, Hemsing E, Nelson J, Jobe K et al.
 Journal: Medical physics (2015)
 Identifiers: PMID 25832051; DOI 10.1118/1.4914371
@@ -1237,7 +1204,7 @@ Abstract: PURPOSE: To measure radiation dose in a water-equivalent medium from v
 
 ---
 
-## 113. Influence of the electron energy and number of beams on the absorbed dose distributions in radiotherapy of deep seated targets.
+## 110. Influence of the electron energy and number of beams on the absorbed dose distributions in radiotherapy of deep seated targets.
 Authors: Garnica-Garza HM
 Journal: Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine (2014)
 Identifiers: PMID 25151497; DOI 10.1016/j.apradiso.2014.07.018
@@ -1248,18 +1215,7 @@ Abstract: With the advent of compact laser-based electron accelerators, there ha
 
 ---
 
-## 114. Recent results of irradiations of DIS-1 dosemeters with an XR200 X-ray flash unit.
-Authors: Zutz H, Hupe O
-Journal: Radiation protection dosimetry (2013)
-Identifiers: PMID 23075930; DOI 10.1093/rpd/ncs265
-URL: https://pubmed.ncbi.nlm.nih.gov/23075930/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: Earlier measurements have revealed that active electronic dosemeters have deficiencies in pulsed fields of ionising radiation due to the counting technique used. The DIS-1 dosemeter uses a promising technology, which should be basically suitable for measurements in pulsed fields. In this paper, first measurements with the DIS-1 dosemeter at an X-ray flash generator XR200 with pulse durations of ∼115 ns and doses per pulse of a few microsievert are shown.
-
----
-
-## 115. SU-E-T-472: Characterization of the Very High Energy Electrons, ISO - 250 MeV (VHEE) Beam Generated by ALPHA-X Laser Wakefield Accelerator Beam Line for Utilization in Monte Carlo Simulation for Biomedical Experiment Planning.
+## 111. SU-E-T-472: Characterization of the Very High Energy Electrons, ISO - 250 MeV (VHEE) Beam Generated by ALPHA-X Laser Wakefield Accelerator Beam Line for Utilization in Monte Carlo Simulation for Biomedical Experiment Planning.
 Authors: Moskvin V, Subiel A, Desrosiers C, Wiggins M, Maryanski M, Mendonca M, Boyd M, Sorensen A et al.
 Journal: Medical physics (2012)
 Identifiers: PMID 28517464; DOI 10.1118/1.4735561
@@ -1270,18 +1226,7 @@ Abstract: PURPOSE: Progress in the development of compact high-energy pulsed las
 
 ---
 
-## 116. The extreme ultraviolet split and femtosecond delay unit at the plane grating monochromator beamline PG2 at FLASH.
-Authors: Sorgenfrei F, Schlotter WF, Beeck T, Nagasono M, Gieschen S, Meyer H, Föhlisch A, Beye M et al.
-Journal: The Review of scientific instruments (2010)
-Identifiers: PMID 20441325; DOI 10.1063/1.3374166
-URL: https://pubmed.ncbi.nlm.nih.gov/20441325/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: An extreme ultraviolet split and femtosecond delay unit based on grazing incidence Mach-Zehnder geometry has been designed and implemented on the plane grating monochromator beamline PG2 at FLASH, the Free Electron Laser at DESY. This device splits the FLASH radiation into two beams, which can independently be steered, filtered and temporally delayed between -5.1 and +5.1 ps with uncertainty in the temporal accuracy of 210 as. To demonstrate the performance of this device, we have performed longitudinal coherence studies of FLASH radiation as well as measured the pulse length by nonlinear two-photon double-ionization in helium.
-
----
-
-## 117. Treatment planning for laser-accelerated very-high energy electrons.
+## 112. Treatment planning for laser-accelerated very-high energy electrons.
 Authors: Fuchs T, Szymanowski H, Oelfke U, Glinec Y, Rechatin C, Faure J, Malka V
 Journal: Physics in medicine and biology (2009)
 Identifiers: PMID 19430107; DOI 10.1088/0031-9155/54/11/003
@@ -1292,40 +1237,18 @@ Abstract: In recent experiments, quasi-monoenergetic and well-collimated very-hi
 
 ---
 
-## 118. Characteristics of focused soft X-ray free-electron laser beam determined by ablation of organic molecular solids.
-Authors: Chalupský J, Juha L, Kuba J, Cihelka J, Hájková V, Koptyaev S, Krása J, Velyhan A et al.
-Journal: Optics express (2007)
-Identifiers: PMID 19546907; DOI 10.1364/oe.15.006036
-URL: https://pubmed.ncbi.nlm.nih.gov/19546907/
+## 113. Application of low-cost Gallium Arsenide light-emitting-diodes as kerma dosemeter and fluence monitor for high-energy neutrons.
+Authors: Mukherjee B, Simrock S, Khachan J, Rybka D, Romaniuk R
+Journal: Radiation protection dosimetry (2007)
+Identifiers: PMID 17517672; DOI 10.1093/rpd/ncm053
+URL: https://pubmed.ncbi.nlm.nih.gov/17517672/
 Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
 
-Abstract: A linear accelerator based source of coherent radiation, FLASH (Free-electron LASer in Hamburg) provides ultra-intense femtosecond radiation pulses at wavelengths from the extreme ultraviolet (XUV; lambda<100nm) to the soft X-ray (SXR; lambda<30nm) spectral regions. 25-fs pulses of 32-nm FLASH radiation were used to determine the ablation parameters of PMMA - poly (methyl methacrylate). Under these irradiation conditions the attenuation length and ablation threshold were found to be (56.9+/-7.5) nm and approximately 2 mJ*cm(-2), respectively. For a second wavelength of 21.7 nm, the PMMA ablation was utilized to image the transverse intensity distribution within the focused beam at mum resolution by a method developed here.
+Abstract: Displacement damage (DD) caused by fast neutrons in unbiased Gallium Arsenide (GaAs) light emitting diodes (LED) resulted in a reduction of the light output. On the other hand, a similar type of LED irradiated with gamma rays from a (60)Co source up to a dose level in excess of 1.0 kGy (1.0 x 10(5) rad) was found to show no significant drop of the light emission. This phenomenon was used to develop a low cost passive fluence monitor and kinetic energy released per unit mass dosemeter for accelerator-produced neutrons. These LED-dosemeters were used to assess the integrated fluence of photoneutrons, which were contaminated with a strong bremsstrahlung gamma-background generated by the 730 MeV superconducting electron linac driving the free electron laser in Hamburg (FLASH) at Deutsches Elektronen-Synchrotron. The applications of GaAs LED as a routine neutron fluence monitor and DD precursor for the electronic components located in high-energy accelerator environment are highlighted.
 
 ---
 
-## 119. Compact monochromatic flash x-ray generator utilizing a disk-cathode molybdenum tube.
-Authors: Sato E, Tanaka E, Mori H, Kawai T, Ichimaru T, Sato S, Takayama K, Ido H
-Journal: Medical physics (2005)
-Identifiers: PMID 15719954; DOI 10.1118/1.1829247
-URL: https://pubmed.ncbi.nlm.nih.gov/15719954/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: The high-voltage condensers in a polarity-inversion two-stage Marx surge generator are charged from -50 to -70 kV by a power supply, and the electric charges in the condensers are discharged to an x-ray tube after closing gap switches in the surge generator with a trigger device. The x-ray tube is a demountable diode, and the turbo molecular pump evacuates air from the tube with a pressure of approximately 1 mPa. Clean molybdenum Kalpha lines are produced using a 20 microm-thick zirconium filter, since the tube utilizes a disk cathode and a rod target, and bremsstrahlung rays are not emitted in the opposite direction to that of electron acceleration. At a charging voltage of -70 kV, the instantaneous tube voltage and current were 120 kV and 1.0 kA, respectively. The x-ray pulse widths were approximately 70 ns, and the generator produced instantaneous number of Kalpha photons was approximately 3 x 10(7) photons/cm2 per pulse at 0.5 m from the source of 3.0 mm in diameter.
-
----
-
-## 120. Irradiation of intense characteristic x-rays from weakly ionized linear molybdenum plasma.
-Authors: Sato E, Hayasi Y, Germer R, Tanaka E, Mori H, Kawai T, Obara H, Ichimaru T et al.
-Journal: Igaku butsuri : Nihon Igaku Butsuri Gakkai kikanshi = Japanese journal of medical physics : an official journal of Japan Society of Medical Physics (2003)
-Identifiers: PMID 12949421
-URL: https://pubmed.ncbi.nlm.nih.gov/12949421/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: In the plasma flash x-ray generator, a high-voltage main condenser of approximately 200 nF is charged up to 55 kV by a power supply, and electric charges in the condenser are discharged to an x-ray tube after triggering the cathode electrode. The flash x-rays are then produced. The x-ray tube is a demountable triode that is connected to a turbo molecular pump with a pressure of approximately 1 mPa. As electron flows from the cathode electrode are roughly converged to a rod molybdenum target of 2.0 mm in diameter by the electric field in the x-ray tube, weakly ionized linear plasma, which consists of molybdenum ions and electrons, forms by target evaporation. At a charging voltage of 55 kV, the maximum tube voltage was almost equal to the charging voltage of the main condenser, and the peak current was about 20 kA. When the charging voltage was increased, the linear plasma formed, and the K-series characteristic x-ray intensities increased. The K lines were quite sharp and intense, and hardly any bremsstrahlung rays were detected. The x-ray pulse widths were approximately 700 ns, and the time-integrated x-ray intensity had a value of approximately 35 micro C/kg at 1.0 m from the x-ray source with a charging voltage of 50 kV.
-
----
-
-## 121. Optimization of intensity-modulated very high energy (50-250 MeV) electron therapy.
+## 114. Optimization of intensity-modulated very high energy (50-250 MeV) electron therapy.
 Authors: Yeboah C, Sandison GA, Moskvin V
 Journal: Physics in medicine and biology (2002)
 Identifiers: PMID 12030556; DOI 10.1088/0031-9155/47/8/305
@@ -1336,51 +1259,7 @@ Abstract: This work evaluates the potential of very high energy (50-250 MeV) ele
 
 ---
 
-## 122. Sub-kilohertz flash X-ray generator utilising a glass-enclosed cold-cathode triode.
-Authors: Sato E, Takahashi K, Sagae M, Kimura S, Oizumi T, Hayasi Y, Tamakawa Y, Yanagisawa T
-Journal: Medical & biological engineering & computing (1994)
-Identifiers: PMID 7934252; DOI 10.1007/BF02512524
-URL: https://pubmed.ncbi.nlm.nih.gov/7934252/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: The construction and fundamental studies are described for a sub-kilohertz X-ray generator for producing low-dose rate flash X-rays. The X-ray tube was a glass-enclosed cold-cathode triode, composed of a tungsten plate target, a rod-shaped graphite cathode, a mesh-type trigger electrode made of tungsten wires, and a glass tube body. The coaxial condenser was charged up to 60 kV by a power supply, and the electric charges in the condenser were discharged to the X-ray tube repetitively when a negative high-voltage pulse was applied to the trigger electrode. The maximum tube voltage before the discharging was equivalent to the initial charged voltage of the condenser, and the maximum tube current was about 0.3 kA with a charged voltage of 60 kV. The X-ray durations were about 1 microsecond, and the X-ray intensity was about 0.47 microC kg-1 at 0.5 m per pulse with a charged voltage of 60 kV. The maximum repetition rate of the X-rays was about 0.4 kHz, and high-speed radiography was performed.
-
----
-
-## 123. Disk-cathode flash X-ray tube driven by a repetitive two-stage Marx pulser.
-Authors: Kimura S, Sato E, Sagae M, Shikoda A, Oizumi T, Takahashi K, Tamakawa Y, Yanagisawa T
-Journal: Medical & biological engineering & computing (1993)
-Identifiers: PMID 8231324; DOI 10.1007/BF02446648
-URL: https://pubmed.ncbi.nlm.nih.gov/8231324/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: Fundamental studies of a repetitive flash X-ray generator using a disk-cathode radiation tube are described. The high-voltage pulser employed a modified two-stage surge-Marx circuit. The two condensers in the pulser were charged from 40 to 60 kV, and the electric charges were discharged to the X-ray tube repetitively to generate flash X-rays. The total capacity during the main discharge was 425 pF, and the maximum output voltage from the pulser was about 1.9 times the charged voltage. The flash X-ray tube was of the demountable-diode type and was composed of a rod-shaped anode tip made of tungsten, a disk cathode made of graphite and a tube body made of polymethylmethacrylate. The peak tube voltage was primarily determined by the anode-cathode (A-C) space, and the peak tube current was less than 0.5 kA. Thus the maximum photon energy could be easily controlled by varying the A-C space, and the tube current roughly increased according to increases in the charged voltage. The pulse width ranged from 40 to 100 ns, and the X-ray intensity was less than 1.1 microC kg-1 at 0.5 m per pulse. The repetition rate was less than 50 Hz, and the effective focal spot size was equivalent to the anode diameter.
-
----
-
-## 124. Kinetics of the dichroic reorientation of phytochrome during photoconversion inMougeotia.
-Authors: Kraml M, Enders M, Bürkel N
-Journal: Planta (1984)
-Identifiers: PMID 24253646; DOI 10.1007/BF00982915
-URL: https://pubmed.ncbi.nlm.nih.gov/24253646/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: In the green algaMougeotia, the dichroic orientation of the red-absorbing form of phytochrome (Pr) is parallel of the cell surface, whereas the far-red-absorbing form (Pfr) is oriented normal to it. The time course of the change from parallel to normal was investigated by double-flash irradiation with polarized red and far-red light. The results obtained by two different methods indicate that most of the phytochrome intermediates existing in the first 5 ms after the inducing red flash are still oriented parallel to the cell surface, similar to Pr. At increasing intervals between the red and the far-red flashes, more and more phytochrome molecules turn their transition moments to the Pfr orientation. This reaction is finished after approximately 30 ms. We conclude that the change in dichroic orientation of the phytochrome molecules inMougeotia occurs during the last relaxation steps of the intermediates on the way from Pr to Pfr. It cannot be decided yet, whether the first surface-normal phytochrome species is an intermediate or Pfr itself.
-
----
-
-## 125. Expandable flash x-ray tube (FXT) having a 0.5-mm source size.
-Authors: Carmel Y, Eylon S
-Journal: The Review of scientific instruments (1979)
-Identifiers: PMID 18699329; DOI 10.1063/1.1135658
-URL: https://pubmed.ncbi.nlm.nih.gov/18699329/
-Category: Beam Delivery & Technology | Tags: Beam Delivery & Technology
-
-Abstract: An inexpensive, expandable, continuously pumped, all-metal flash x-ray tube (FXT) was developed. It was coaxialy integrated at the end of a 70-Omega flexible coaxial transmission line. The tube, which has a small, 0.5-mm, x-ray source size when operated at 200 kV, produces a dose rate of 5x10(7) R/s (at exit port). The produced x-ray pulse has a duration of 20 ns, thus permitting the radiography of high-speed transient phenomena.
-
----
-
-## 126. Effects of radiation dose-rate from protracted, continuous irradiation to ultra-high dose-rates from pulsed accelerators.
+## 115. Effects of radiation dose-rate from protracted, continuous irradiation to ultra-high dose-rates from pulsed accelerators.
 Authors: Berry RJ
 Journal: British medical bulletin (1973)
 Identifiers: PMID 4208646; DOI 10.1093/oxfordjournals.bmb.a070955
@@ -1391,7 +1270,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 127. [X-ray flash tube as source of ultrahigh dosage production].
+## 116. [X-ray flash tube as source of ultrahigh dosage production].
 Authors: ANGERSTEIN W
 Journal: Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin (1959)
 Identifiers: PMID 13663981

@@ -2,7 +2,7 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*37 records. Newest first.*
+*30 records. Newest first.*
 
 ---
 
@@ -48,29 +48,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42342043/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111671)
-
-
----
-
-### Breast cancer patients&#x27; questions about radiotherapy-induced skin toxicity: A comparative analysis of ChatGPT-4.0 and Gemini 2.5 flash.
-
-*Caetano M, Vicente D, Caetano L, Carolino E, Grilo A* — Radiography (London, England : 1995) (2026)  
-
-<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated.
-
-
-??? abstract "Summary — AI-generated, curator-reviewed"
-    This study compares ChatGPT-4.0 and Gemini 2.5 Flash as AI chatbot tools for answering patient questions about radiotherapy-induced skin toxicity in breast cancer, using 23 simulated patient questions evaluated by 16 expert radiation therapists on a seven-point Likert scale. Gemini achieved higher median expert ratings (6/7) than ChatGPT (5/7) and greater inter-rater consistency (alpha 0.78, kappa 0.70 vs 0.72/0.65), while ChatGPT produced more concise, lower-reading-level (8th grade vs 11th grade) responses. Semantic cosine similarity between the two models&#x27; answers was low (median 0.78). The study concerns conventional radiotherapy patient education content, not ultra-high dose rate FLASH radiotherapy delivery, dosimetry, or biology; &#x27;Gemini 2.5 Flash&#x27; refers to the AI model name only.
-
-
-??? note "Abstract"
-    INTRODUCTION: Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated. However, the comparative performance of different AI models in addressing patient concerns about radiotherapy side effects remains unclear, creating uncertainty regarding the optimal tool selection for patient education and support. This study aimed to compare the performance of ChatGPT 4.0 and Gemini 2.5 FLASH using a mixed-methods analytical-descriptive approach. METHODS: Twenty-three unique questions, derived from a literature review and rephrased to simulate patient enquiries about the skin effects of radiotherapy, were submitted to both models. Sixteen expert Radiation Therapists (RTTs) independently assessed the responses using a seven-point Likert scale. The analyses included semantic cosine similarity and linguistic readability (Flesch Reading Ease/Flesch-Kincaid Grade Level), with statistical comparisons performed using Mann-Whitney tests. RESULTS: Gemini 2.5 FLASH achieved higher median scores (6/7) than ChatGPT 4.0 (5/7), demonstrating particular strengths in clinical detail and empathy. Conversely, ChatGPT 4.0 produced more direct and structured answers, although it occasionally simplified complex concepts. Models showed low semantic similarity (median 0.78). Readability analysis revealed that ChatGPT aligned with an 8th-grade level, whereas Gemini operated at an 11th-grade level. Expert agreement was robust, with Gemini achieving greater consistency (α = 0.78; κ = 0.70) than ChatGPT (α = 0.72; κ = 0.65). CONCLUSION: Gemini was more effective for complex psychosocial issues, whereas ChatGPT provided better accessible guidance, necessitating ongoing professional validation for reliable integration into patient education workflows. IMPLICATIONS FOR PRACTICE: The use of AI in counselling patients undergoing breast radiotherapy enhances accessibility but requires ongoing professional validation to ensure clinical reliability.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42287986/) · [DOI](https://doi.org/10.1016/j.radi.2026.103469)
 
 
 ---
@@ -397,25 +374,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Flash-Thermal Shock Synthesis of High-Entropy Alloys Toward High-Performance Water Splitting.
-
-*Cha JH, Cho SH, Kim DH, Jeon D, Park S, Jung JW et al.* — Advanced materials (Deerfield Beach, Fla.) (2023)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** High-entropy alloys (HEAs) provide unprecedented physicochemical properties over unary nanoparticles (NPs). According to the conventional alloying guideline (Hume-Rothery rule), however, only size-and-structure similar elements can be mixed, limiting the possible combinations of alloying elements.
-
-
-??? note "Abstract"
-    High-entropy alloys (HEAs) provide unprecedented physicochemical properties over unary nanoparticles (NPs). According to the conventional alloying guideline (Hume-Rothery rule), however, only size-and-structure similar elements can be mixed, limiting the possible combinations of alloying elements. Recently, it has been reported that based on carbon thermal shocks (CTS) in a vacuum atmosphere at high temperature, ultrafast heating/cooling rates and high-entropy environment play a critical role in the synthesis of HEAs, ruling out the possibility of phase separation. Since the CTS requires conducting supports, the Joule-heating efficiencies rely on the carbon qualities, featuring difficulties in uniform heating along the large area. This work proposes a photo-thermal approach as an alternative and innovative synthetic method that is compatible with ambient air, large-area, remote process, and free of materials selection. Single flash irradiation on carbon nanofibers induced momentary high-temperature annealing (&gt;1800 °C within 20 ms duration, and ramping/cooling rates &gt;104 K s-1 ) to successfully decorate HEA NPs up to nine elements with excellent compatibility for large-scale synthesis (6.0 × 6.0 cm2 of carbon nanofiber paper). To demonstrate their feasibility toward applications, senary HEA NPs (PtIrFeNiCoCe) are designed and screened, showing high activity (ηoverall = 777 mV) and excellent stability (&gt;5000 cycles) at the water splitting, including hydrogen evolution reactions and oxygen evolution reactions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37607534/) · [DOI](https://doi.org/10.1002/adma.202305222)
-
-
----
-
 ### Definition of dose rate for FLASH pencil-beam scanning proton therapy: A comparative study.
 
 *Deffet S, Hamaide V, Sterpin E* — Medical physics (2023)  
@@ -606,44 +564,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Imaged-guided and muscle sparing laparoscopic anorectoplasty using real-time magnetic resonance imaging.
-
-*Jarboe M, Ladino-Torres M, Wild L, Spremo D, Elkins S, Ladouceur R et al.* — Pediatric surgery international (2020)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** A challenge when repairing imperforate anus is positioning the neo-rectum into the center of the sphincter muscle complex (SMC) with limited muscle injury and scarring. Unfortunately, the path through the components of the SMC are often non-linear.
-
-
-??? note "Abstract"
-    A challenge when repairing imperforate anus is positioning the neo-rectum into the center of the sphincter muscle complex (SMC) with limited muscle injury and scarring. Unfortunately, the path through the components of the SMC are often non-linear. We have used MRI to delineate the complex and guide the needle through the center using standard MRI-guidance (Raschbaum GR et al. J Pediatr Surg 45:220-223, 2010; Thomas TT et al. J Pediatr Surg 35:927-930, 2000). However, asynchronous scanning requires multiple, time-consuming scans to advance the needle in stepwise fashion. Asynchronous scanning also prevents visualizing the needle as it is advanced. We recently integrated software into the MRI operative suite that allows placement of the needle with real-time MRI. We report the feasibility and utility of real-time MRI-assisted laparoscopic assisted anorectoplasty (RT MRI-LAARP). Needle guidance was performed with Siemens Espree 1.5 T MRI with T1 Flash RT Sequence. After needle placement, laparoscopic mobilization, fistula takedown and pull-through was performed using the needle to guide dilation to create a tract to pull-through the neo-rectum. Charts of patients who underwent RT MRI-LAARP were reviewed. Demographics, anatomy, number of needle passes, OR duration and complications are reported. There were five children that underwent RT MRI-LAARP; one was a redo secondary to a retracted rectovestibular fistula. Operative time ranged from 187-505 min. Average hospital stay was 4.0 ± 1.0 days. There were no intraoperative complications although one patient had temporary urinary retention post-op. Muscle sparring laparoscopic anorectoplasty using real-time MRI is feasible and facilitates needle placement through the SMC.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32638078/) · [DOI](https://doi.org/10.1007/s00383-020-04700-5)
-
-
----
-
-### Defining a national reference level for intraoperative radiation exposure in urological procedures: FLASH, a retrospective multicentre UK study.
-
-*Simson N, Stonier T, Suleyman N, Hendry J, Salib M, Peacock J et al.* — BJU international (2020)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** To define reference levels for intraoperative radiation during stent insertion, ureteroscopy (URS), and percutaneous nephrolithotomy (PCNL); to identify variation in radiation exposure between individual hospitals across the UK, between low- and high-volume PCNL centres, and between grade of lead surgeon. PATIENTS/SUBJECTS AND METHODS: In all, 3651 patients were identified retrospectively across 1…
-
-
-??? note "Abstract"
-    OBJECTIVES: To define reference levels for intraoperative radiation during stent insertion, ureteroscopy (URS), and percutaneous nephrolithotomy (PCNL); to identify variation in radiation exposure between individual hospitals across the UK, between low- and high-volume PCNL centres, and between grade of lead surgeon. PATIENTS/SUBJECTS AND METHODS: In all, 3651 patients were identified retrospectively across 12 UK hospitals over a 1-year period. Radiation exposure was defined in terms of total fluoroscopy time (FT) and dose area product (DAP). The 75th percentiles of median values for each hospital were used to define reference levels for each procedure. RESULTS: Reference levels: ureteric stent insertion/replacement (DAP, 2.3 Gy/cm2 ; FT, 49 s); URS (DAP, 2.8 Gy/cm2 ; FT, 57 s); PCNL (DAP, 24.1 Gy/cm2 ; FT, 431 s). Significant variations in the median DAP and FT were identified between individual centres for all procedures (P &lt; 0.001). For PCNL, there was a statistically significant difference between DAP for low- (&lt;50 cases/annum) and high-volume centres (&gt;50 cases/annum), at a median DAP of 15.0 Gy/cm2 vs 4.2 Gy/cm2 (P &lt; 0.001). For stent procedures, the median DAP and FT differed significantly between grade of lead surgeon: Consultant (DAP, 2.17 Gy/cm2 ; FT, 41 s) vs Registrar (DAP, 1.38 Gy/cm2 ; FT, 26 s; P &lt; 0.001). CONCLUSION: This multicentre study is the largest of its kind. It provides the first national reference level to guide fluoroscopy use in urological procedures, thereby adding a quantitative and objective value to complement the principles of keeping radiation exposure &#x27;as low as reasonably achievable&#x27;. This snapshot of real-time data shows significant variation around the country, as well as significant differences between low- and high-volume centres for PCNL, and grade of lead surgeon for stent procedures.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31437345/) · [DOI](https://doi.org/10.1111/bju.14903)
-
-
----
-
 ### Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
 
 *Koch CJ* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)  
@@ -671,63 +591,6 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/30093447/) · [DOI](https://doi.org/10.1158/1078-0432.CCR-18-1796)
-
-
----
-
-### FLASH proton density imaging for improved surface coil intensity correction in quantitative and semi-quantitative SSFP perfusion cardiovascular magnetic resonance.
-
-*Nielles-Vallespin S, Kellman P, Hsu LY, Arai AE* — Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance (2015)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** A low excitation flip angle (α &lt; 10°) steady-state free precession (SSFP) proton-density (PD) reference scan is often used to estimate the B1-field inhomogeneity for surface coil intensity correction (SCIC) of the saturation-recovery (SR) prepared high flip angle (α = 40-50°) SSFP myocardial perfusion images. The different SSFP off-resonance response for these two flip angles might lead to subopti…
-
-
-??? note "Abstract"
-    BACKGROUND: A low excitation flip angle (α &lt; 10°) steady-state free precession (SSFP) proton-density (PD) reference scan is often used to estimate the B1-field inhomogeneity for surface coil intensity correction (SCIC) of the saturation-recovery (SR) prepared high flip angle (α = 40-50°) SSFP myocardial perfusion images. The different SSFP off-resonance response for these two flip angles might lead to suboptimal SCIC when there is a spatial variation in the background B0-field. The low flip angle SSFP-PD frames are more prone to parallel imaging banding artifacts in the presence of off-resonance. The use of FLASH-PD frames would eliminate both the banding artifacts and the uneven frequency response in the presence of off-resonance in the surface coil inhomogeneity estimate and improve homogeneity of semi-quantitative and quantitative perfusion measurements. METHODS: B0-field maps, SSFP and FLASH-PD frames were acquired in 10 healthy volunteers to analyze the SSFP off-resonance response. Furthermore, perfusion scans preceded by both FLASH and SSFP-PD frames from 10 patients with no myocardial infarction were analyzed semi-quantitatively and quantitatively (rest n = 10 and stress n = 1). Intra-subject myocardial blood flow (MBF) coefficient of variation (CoV) over the whole left ventricle (LV), as well as intra-subject peak contrast (CE) and upslope (SLP) standard deviation (SD) over 6 LV sectors were investigated. RESULTS: In the 6 out of 10 cases where artifacts were apparent in the LV ROI of the SSFP-PD images, all three variability metrics were statistically significantly lower when using the FLASH-PD frames as input for the SCIC (CoVMBF-FLASH = 0.3 ± 0.1, CoVMBF-SSFP = 0.4 ± 0.1, p = 0.03; SDCE-FLASH = 10 ± 2, SDCE-SSFP = 32 ± 7, p = 0.01; SDSLP-FLASH = 0.02 ± 0.01, SDSLP-SSFP = 0.06 ± 0.02, p = 0.03). Example rest and stress data sets from the patient pool demonstrate that the low flip angle SSFP protocol can exhibit severe ghosting artifacts originating from off-resonance banding artifacts at the edges of the field of view that parallel imaging is not able to unfold. These artifacts lead to errors in the quantitative perfusion maps and the semi-quantitative perfusion indexes, such as false positives. It is shown that this can be avoided by using FLASH-PD frames as input for the SCIC. CONCLUSIONS: FLASH-PD images are recommended as input for SCIC of SSFP perfusion images instead of low flip angle SSFP-PD images.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25827180/) · [DOI](https://doi.org/10.1186/s12968-015-0120-6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331176/)
-
-
----
-
-### Double-flash, large-fraction radiation therapy as palliative treatment of malignant superior vena cava syndrome in the elderly.
-
-*Lonardi F, Gioga G, Agus G, Coeli M, Campostrini F* — Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer (2002)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Rapid control of symptoms is mandatory in cancer-induced superior vena cava syndrome (SVCS), but older patients often do not tolerate aggressive approaches. In order to maximize symptom relief and minimize treatment-related discomfort of aged patients in poor health we adopted a short-course, large-fraction radiation therapy (RT) schedule.
-
-
-??? note "Abstract"
-    Rapid control of symptoms is mandatory in cancer-induced superior vena cava syndrome (SVCS), but older patients often do not tolerate aggressive approaches. In order to maximize symptom relief and minimize treatment-related discomfort of aged patients in poor health we adopted a short-course, large-fraction radiation therapy (RT) schedule. Twenty-three consecutive patients aged over 70 who were suffering from solid-malignancy-related SVCS were enrolled. A total dose of 12 Gy was given in two 6-Gy fractions, 1 week apart, mainly in an out-patient setting. Completion of therapy to give up to 37-40 Gy was planned in the best-responding patients. Symptom relief was experienced by 8 patients as early as 4-5 days after the first fraction. The overall response rate was 87%. Despite some mild systemic side effects (chest pain, fever) reported by 5 patients (22%), overall toxicity was negligible. Short-course, double-flash RT stands as an effective and safe tool in the palliative treatment of malignant SVCS in older patients. Fractions larger than 6 Gy can be avoided in order to minimize side and toxic effects.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11862505/) · [DOI](https://doi.org/10.1007/s00520-001-0313-4)
-
-
----
-
-### Intra-arterial infusion of bromodeoxyuridine and radiotherapy in osteosarcoma and other bone malignancies.
-
-*Lejeune FJ, Regnier R, Nogaret JM, Jabri M* — Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer (1983)  
-
-<span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** In order to avoid amputation, which does not seem to improve survival in osteosarcoma, we have initiated a limb-preservation program using intra-arterial radiosensitization. Eleven osteosarcomas with soft tissue involvement and six other bone malignancies were prospectively treated according to the following protocol: (a) surgical insertion of an intra-arterial catheter through a Dacron patch, (b)…
-
-
-??? note "Abstract"
-    In order to avoid amputation, which does not seem to improve survival in osteosarcoma, we have initiated a limb-preservation program using intra-arterial radiosensitization. Eleven osteosarcomas with soft tissue involvement and six other bone malignancies were prospectively treated according to the following protocol: (a) surgical insertion of an intra-arterial catheter through a Dacron patch, (b) intra-arterial infusion of 15 mg/kg BUDR on days 1-2 every 5 days for 40 days, (c) 600 rads flash irradiation on day 3 every 5 days, X 8. Median follow-up time has been 36 months. In the osteosarcoma group, median survival has been 12 months. Four of the five osteosarcoma patients who died had received prophylactic HD methotrexate-vincristine-adriamycin systemic chemotherapy; one patient refused.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/6580684/) · [DOI](https://doi.org/10.1007/978-3-642-82025-0_34)
 
 
 ---

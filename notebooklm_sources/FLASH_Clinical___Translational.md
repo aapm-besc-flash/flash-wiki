@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Clinical & Translational
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-01. 37 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 30 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -27,18 +27,7 @@ Abstract: BACKGROUND AND PURPOSE: FAST-01 demonstrated that proton FLASH radioth
 
 ---
 
-## 3. Breast cancer patients' questions about radiotherapy-induced skin toxicity: A comparative analysis of ChatGPT-4.0 and Gemini 2.5 flash.
-Authors: Caetano M, Vicente D, Caetano L, Carolino E, Grilo A
-Journal: Radiography (London, England : 1995) (2026)
-Identifiers: PMID 42287986; DOI 10.1016/j.radi.2026.103469
-URL: https://pubmed.ncbi.nlm.nih.gov/42287986/
-Category: Clinical & Translational | Tags: Clinical & Translational, Radiobiology
-
-Abstract: INTRODUCTION: Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated. However, the comparative performance of different AI models in addressing patient concerns about radiotherapy side effects remains unclear, creating uncertainty regarding the optimal tool selection for patient education and support. This study aimed to compare the performance of ChatGPT 4.0 and Gemini 2.5 FLASH using a mixed-methods analytical-descriptive approach. METHODS: Twenty-three unique questions, derived from a literature review and rephrased to simulate patient enquiries about the skin effects of radiotherapy, were submitted to both models. Sixteen expert Radiation Therapists (RTTs) independently assessed the responses using a seven-point Likert scale. The analyses included semantic cosine similarity and linguistic readability (Flesch Reading Ease/Flesch-Kincaid Grade Level), with statistical comparisons performed using Mann-Whitney tests. RESULTS: Gemini 2.5 FLASH achieved higher median scores (6/7) than ChatGPT 4.0 (5/7), demonstrating particular strengths in clinical detail and empathy. Conversely, ChatGPT 4.0 produced more direct and structured answers, although it occasionally simplified complex concepts. Models showed low semantic similarity (median 0.78). Readability analysis revealed that ChatGPT aligned with an 8th-grade level, whereas Gemini operated at an 11th-grade level. Expert agreement was robust, with Gemini achieving greater consistency (α = 0.78; κ = 0.70) than ChatGPT (α = 0.72; κ = 0.65). CONCLUSION: Gemini was more effective for complex psychosocial issues, whereas ChatGPT provided better accessible guidance, necessitating ongoing professional validation for reliable integration into patient education workflows. IMPLICATIONS FOR PRACTICE: The use of AI in counselling patients undergoing breast radiotherapy enhances accessibility but requires ongoing professional validation to ensure clinical reliability.
-
----
-
-## 4. A phase I dose escalation of FLASH radiotherapy in patients with cutaneous metastases from melanoma: The IMPulse trial.
+## 3. A phase I dose escalation of FLASH radiotherapy in patients with cutaneous metastases from melanoma: The IMPulse trial.
 Authors: Kinj R, Schiappacasse L, Grilj V, Tsourti Z, Duclos F, Hebeisen M, Jeanneret-Sozzi W, Viguet-Carrin S et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41628698; DOI 10.1016/j.radonc.2026.111414
@@ -49,7 +38,7 @@ Abstract: INTRODUCTION: The observation in preclinical studies that FLASH radiot
 
 ---
 
-## 5. The prospective phase I "Flash-Skin I" trial: ultra-high dose rate radiotherapy implementation and quality assurance at a clinical linear accelerator.
+## 4. The prospective phase I "Flash-Skin I" trial: ultra-high dose rate radiotherapy implementation and quality assurance at a clinical linear accelerator.
 Authors: Dal Bello R, Psoroulas S, Flückiger D, Krayenbühl J, Moeckli R, Bailat C, Subiel A, Patallo IS et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41520733; DOI 10.1016/j.radonc.2026.111372
@@ -60,7 +49,7 @@ Abstract: BACKGROUND AND PURPOSE: The combination of reduced normal tissue damag
 
 ---
 
-## 6. First-in-human e-Flash radiotherapy using a modified conventional C-arm linear accelerator.
+## 5. First-in-human e-Flash radiotherapy using a modified conventional C-arm linear accelerator.
 Authors: von der Grün J, Dal Bello R, Psoroulas S, Krayenbuehl J, Fesslmeier D, Ramelyte E, Mangana J, Smith W et al.
 Journal: Clinical and translational radiation oncology (2026)
 Identifiers: PMID 41080989; DOI 10.1016/j.ctro.2025.101047; PMC PMC12509727 (open access)
@@ -71,7 +60,7 @@ Abstract: BACKGROUND: The FLASH effect is considered being the widening of the t
 
 ---
 
-## 7. A safety study of ultra-high dose rate FLASH radiotherapy in the treatment of superficial skin tumors: study protocol of a phase I trial (ChiCTR2400080935).
+## 6. A safety study of ultra-high dose rate FLASH radiotherapy in the treatment of superficial skin tumors: study protocol of a phase I trial (ChiCTR2400080935).
 Authors: Yang C, Luo H, Leijie M, Mao R, Lei H, Zhang Y, Xu M, Wang Y et al.
 Journal: Precision radiation oncology (2025)
 Identifiers: PMID 41164421; DOI 10.1002/pro6.70010; PMC PMC12559900 (open access)
@@ -82,7 +71,7 @@ Abstract: OBJECTIVE: Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerg
 
 ---
 
-## 8. Consensus statement on the exploration of clinical translation and application of electron ultra-high dose rate FLASH radiotherapy.
+## 7. Consensus statement on the exploration of clinical translation and application of electron ultra-high dose rate FLASH radiotherapy.
 Authors: Luo H, Yang C, Yue J, Ge H
 Journal: Precision radiation oncology (2025)
 Identifiers: PMID 41163974; DOI 10.1002/pro6.70001; PMC PMC12559927 (open access)
@@ -93,7 +82,7 @@ Abstract: Ultra-high dose rate FLASH Radiotherapy (FLASH-RT) has attracted wide 
 
 ---
 
-## 9. Quality assurance and reporting for FLASH clinical trials: The experience of the FEATHER trial.
+## 8. Quality assurance and reporting for FLASH clinical trials: The experience of the FEATHER trial.
 Authors: Colizzi I, Schäfer R, Brückner J, Dellepiane G, Grossmann M, Körner M, Lomax AJ, Meer D et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40904039; DOI 10.1002/mp.18100; PMC PMC12409223 (open access)
@@ -104,7 +93,7 @@ Abstract: BACKGROUND: Research on ultra-high dose rate (UHDR) radiation therapy 
 
 ---
 
-## 10. Requirements and Study Design for the Next Proton FLASH Clinical Trials: an International Multidisciplinary Delphi Consensus.
+## 9. Requirements and Study Design for the Next Proton FLASH Clinical Trials: an International Multidisciplinary Delphi Consensus.
 Authors: Klaver YLB, Hoogeman MS, Lu QR, Bradley JD, Choi JI, Ferris MJ, Grau C, Guha C et al.
 Journal: International journal of radiation oncology, biology, physics (2025)
 Identifiers: PMID 40174648; DOI 10.1016/j.ijrobp.2025.03.047
@@ -115,7 +104,7 @@ Abstract: PURPOSE: The FLASH effect, defined as normal tissue sparing while main
 
 ---
 
-## 11. Rapid Sterilization of Clinical Apheresis Blood Products Using Ultra-High Dose Rate Radiation.
+## 10. Rapid Sterilization of Clinical Apheresis Blood Products Using Ultra-High Dose Rate Radiation.
 Authors: Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau HD, Ashraf MR, Manjappa R et al.
 Journal: International journal of molecular sciences (2025)
 Identifiers: PMID 40141066; DOI 10.3390/ijms26062424; PMC PMC11942528 (open access)
@@ -126,7 +115,7 @@ Abstract: Blood products, including apheresis platelets and plasma, are essentia
 
 ---
 
-## 12. Proton FLASH-arc therapy (PFAT): A feasibility study for meeting FLASH dose-rate requirements in the clinic.
+## 11. Proton FLASH-arc therapy (PFAT): A feasibility study for meeting FLASH dose-rate requirements in the clinic.
 Authors: Rothwell B, Bertolet A, Schuemann J
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2025)
 Identifiers: PMID 39528113; DOI 10.1016/j.radonc.2024.110623; PMC PMC11663118 (open access)
@@ -137,7 +126,7 @@ Abstract: BACKGROUND AND PURPOSE: Proton arc therapy and FLASH radiotherapy (FLA
 
 ---
 
-## 13. Innovations in Physics, Biology and Clinical Translation of Spatially Fractionated and FLASH Radiotherapy.
+## 12. Innovations in Physics, Biology and Clinical Translation of Spatially Fractionated and FLASH Radiotherapy.
 Authors: Griffin RJ, Guha C
 Journal: Seminars in radiation oncology (2024)
 Identifiers: PMID 38880533; DOI 10.1016/j.semradonc.2024.05.005
@@ -148,7 +137,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 14. Minimum and optimal requirements for a safe clinical implementation of ultra-high dose rate radiotherapy: A focus on patient's safety and radiation protection.
+## 13. Minimum and optimal requirements for a safe clinical implementation of ultra-high dose rate radiotherapy: A focus on patient's safety and radiation protection.
 Authors: Garibaldi C, Beddar S, Bizzocchi N, Tobias Böhlen T, Iliaskou C, Moeckli R, Psoroulas S, Subiel A et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)
 Identifiers: PMID 38648991; DOI 10.1016/j.radonc.2024.110291
@@ -159,7 +148,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 15. IOeRT conventional and FLASH treatment planning system implementation exploiting fast GPU Monte Carlo: The case of breast cancer.
+## 14. IOeRT conventional and FLASH treatment planning system implementation exploiting fast GPU Monte Carlo: The case of breast cancer.
 Authors: Franciosini G, Carlotti D, Cattani F, De Gregorio A, De Liso V, De Rosa F, Di Francesco M, Di Martino F et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)
 Identifiers: PMID 38608421; DOI 10.1016/j.ejmp.2024.103346
@@ -170,7 +159,7 @@ Abstract: Partial breast irradiation for the treatment of early-stage breast can
 
 ---
 
-## 16. FLASH radiotherapy for the treatment of symptomatic bone metastases in the thorax (FAST-02): protocol for a prospective study of a novel radiotherapy approach.
+## 15. FLASH radiotherapy for the treatment of symptomatic bone metastases in the thorax (FAST-02): protocol for a prospective study of a novel radiotherapy approach.
 Authors: Daugherty EC, Zhang Y, Xiao Z, Mascia AE, Sertorio M, Woo J, McCann C, Russell KJ et al.
 Journal: Radiation oncology (London, England) (2024)
 Identifiers: PMID 38475815; DOI 10.1186/s13014-024-02419-4; PMC PMC10935811 (open access)
@@ -181,7 +170,7 @@ Abstract: BACKGROUND: FLASH therapy is a treatment technique in which radiation 
 
 ---
 
-## 17. Randomized phase II selection trial of FLASH and conventional radiotherapy for patients with localized cutaneous squamous cell carcinoma or basal cell carcinoma: A study protocol.
+## 16. Randomized phase II selection trial of FLASH and conventional radiotherapy for patients with localized cutaneous squamous cell carcinoma or basal cell carcinoma: A study protocol.
 Authors: Kinj R, Gaide O, Jeanneret-Sozzi W, Dafni U, Viguet-Carrin S, Sagittario E, Kypriotou M, Chenal J et al.
 Journal: Clinical and translational radiation oncology (2024)
 Identifiers: PMID 38362466; DOI 10.1016/j.ctro.2024.100743; PMC PMC10867306 (open access)
@@ -192,7 +181,7 @@ Abstract: BACKGROUND: Cutaneous basal cell carcinoma (BCC) and squamous cell car
 
 ---
 
-## 18. Multi-institutional consensus on machine QA for isochronous cyclotron-based systems delivering ultra-high dose rate (FLASH) pencil beam scanning proton therapy in transmission mode.
+## 17. Multi-institutional consensus on machine QA for isochronous cyclotron-based systems delivering ultra-high dose rate (FLASH) pencil beam scanning proton therapy in transmission mode.
 Authors: Spruijt K, Mossahebi S, Lin H, Lee E, Kraus J, Dhabaan A, Poulsen P, Lowe M et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 38103260; DOI 10.1002/mp.16854
@@ -203,7 +192,7 @@ Abstract: BACKGROUND: The first clinical trials to assess the feasibility of FLA
 
 ---
 
-## 19. Evaluation of intensity-modulated electron FLASH radiotherapy in a clinical setting using veterinary cases.
+## 18. Evaluation of intensity-modulated electron FLASH radiotherapy in a clinical setting using veterinary cases.
 Authors: Konradsson E, Szecsenyi RE, Adrian G, Coskun M, Børresen B, Arendt ML, Erhart K, Bäck SÅ et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37696040; DOI 10.1002/mp.16737
@@ -214,18 +203,7 @@ Abstract: PURPOSE: The increased normal tissue tolerance for FLASH radiotherapy 
 
 ---
 
-## 20. Flash-Thermal Shock Synthesis of High-Entropy Alloys Toward High-Performance Water Splitting.
-Authors: Cha JH, Cho SH, Kim DH, Jeon D, Park S, Jung JW, Kim ID, Choi SY
-Journal: Advanced materials (Deerfield Beach, Fla.) (2023)
-Identifiers: PMID 37607534; DOI 10.1002/adma.202305222
-URL: https://pubmed.ncbi.nlm.nih.gov/37607534/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: High-entropy alloys (HEAs) provide unprecedented physicochemical properties over unary nanoparticles (NPs). According to the conventional alloying guideline (Hume-Rothery rule), however, only size-and-structure similar elements can be mixed, limiting the possible combinations of alloying elements. Recently, it has been reported that based on carbon thermal shocks (CTS) in a vacuum atmosphere at high temperature, ultrafast heating/cooling rates and high-entropy environment play a critical role in the synthesis of HEAs, ruling out the possibility of phase separation. Since the CTS requires conducting supports, the Joule-heating efficiencies rely on the carbon qualities, featuring difficulties in uniform heating along the large area. This work proposes a photo-thermal approach as an alternative and innovative synthetic method that is compatible with ambient air, large-area, remote process, and free of materials selection. Single flash irradiation on carbon nanofibers induced momentary high-temperature annealing (>1800 °C within 20 ms duration, and ramping/cooling rates >104 K s-1 ) to successfully decorate HEA NPs up to nine elements with excellent compatibility for large-scale synthesis (6.0 × 6.0 cm2 of carbon nanofiber paper). To demonstrate their feasibility toward applications, senary HEA NPs (PtIrFeNiCoCe) are designed and screened, showing high activity (ηoverall = 777 mV) and excellent stability (>5000 cycles) at the water splitting, including hydrogen evolution reactions and oxygen evolution reactions.
-
----
-
-## 21. Definition of dose rate for FLASH pencil-beam scanning proton therapy: A comparative study.
+## 19. Definition of dose rate for FLASH pencil-beam scanning proton therapy: A comparative study.
 Authors: Deffet S, Hamaide V, Sterpin E
 Journal: Medical physics (2023)
 Identifiers: PMID 37439504; DOI 10.1002/mp.16607
@@ -236,7 +214,7 @@ Abstract: BACKGROUND: FLASH proton therapy has the potential to reduce side effe
 
 ---
 
-## 22. Emerging technologies for cancer therapy using accelerated particles.
+## 20. Emerging technologies for cancer therapy using accelerated particles.
 Authors: Graeff C, Volz L, Durante M
 Journal: Progress in particle and nuclear physics (2023)
 Identifiers: PMID 37207092; DOI 10.1016/j.ppnp.2023.104046; PMC PMC7614547 (open access)
@@ -247,7 +225,7 @@ Abstract: Cancer therapy with accelerated charged particles is one of the most v
 
 ---
 
-## 23. Surface guided electron FLASH radiotherapy for canine cancer patients.
+## 21. Surface guided electron FLASH radiotherapy for canine cancer patients.
 Authors: Mannerberg A, Konradsson E, Kügele M, Edvardsson A, Kadhim M, Ceberg C, Peterson K, Thomasson HM et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37190907; DOI 10.1002/mp.16453
@@ -258,7 +236,7 @@ Abstract: BACKGROUND: During recent years FLASH radiotherapy (FLASH-RT) has show
 
 ---
 
-## 24. Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
+## 22. Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
 Authors: Mascia AE, Daugherty EC, Zhang Y, Lee E, Xiao Z, Sertorio M, Woo J, Backus LR et al.
 Journal: JAMA oncology (2023)
 Identifiers: PMID 36273324; DOI 10.1001/jamaoncol.2022.5843; PMC PMC9589460 (open access)
@@ -269,7 +247,7 @@ Abstract: IMPORTANCE: To our knowledge, there have been no clinical trials of ul
 
 ---
 
-## 25. FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases (FAST-01): Protocol for the First Prospective Feasibility Study.
+## 23. FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases (FAST-01): Protocol for the First Prospective Feasibility Study.
 Authors: Daugherty EC, Mascia A, Zhang Y, Lee E, Xiao Z, Sertorio M, Woo J, McCann C et al.
 Journal: JMIR research protocols (2023)
 Identifiers: PMID 36206189; DOI 10.2196/41812; PMC PMC9893728 (open access)
@@ -280,7 +258,7 @@ Abstract: BACKGROUND: In preclinical studies, FLASH therapy, in which radiation 
 
 ---
 
-## 26. Clinical feasibility of combining intraoperative electron radiation therapy with minimally invasive surgery: a potential for electron-FLASH clinical development.
+## 24. Clinical feasibility of combining intraoperative electron radiation therapy with minimally invasive surgery: a potential for electron-FLASH clinical development.
 Authors: Calvo Manuel FÁ, Serrano J, Solé C, Cambeiro M, Palma J, Aristu J, Garcia-Sabrido JL, Cuesta MA et al.
 Journal: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (2023)
 Identifiers: PMID 36169803; DOI 10.1007/s12094-022-02955-z; PMC PMC9873754 (open access)
@@ -291,7 +269,7 @@ Abstract: BACKGROUND: Local cancer therapy by combining real-time surgical explo
 
 ---
 
-## 27. Evaluation of a conventionally shielded proton treatment room for FLASH radiotherapy.
+## 25. Evaluation of a conventionally shielded proton treatment room for FLASH radiotherapy.
 Authors: Xiao Z, Zhang Y, Speth J, Lee E, Mascia A, Lamba M
 Journal: Medical physics (2022)
 Identifiers: PMID 36114793; DOI 10.1002/mp.15964; PMC PMC10091931 (open access)
@@ -302,7 +280,7 @@ Abstract: PURPOSE: FLASH radiotherapy (FLASH-RT) is the potential for a major br
 
 ---
 
-## 28. Comparable Long-Term Tumor Control for Hypofractionated FLASH Versus Conventional Radiation Therapy in an Immunocompetent Rat Glioma Model.
+## 26. Comparable Long-Term Tumor Control for Hypofractionated FLASH Versus Conventional Radiation Therapy in an Immunocompetent Rat Glioma Model.
 Authors: Konradsson E, Liljedahl E, Gustafsson E, Adrian G, Beyer S, Ilaahi SE, Petersson K, Ceberg C et al.
 Journal: Advances in radiation oncology (2022)
 Identifiers: PMID 36092986; DOI 10.1016/j.adro.2022.101011; PMC PMC9449779 (open access)
@@ -313,7 +291,7 @@ Abstract: PURPOSE: To ensure a clinical translation of FLASH radiation therapy (
 
 ---
 
-## 29. Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
+## 27. Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
 Authors: Maity A, Koumenis C
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2022)
 Identifiers: PMID 35736814; DOI 10.1158/1078-0432.CCR-22-1255; PMC PMC9444945 (open access)
@@ -324,7 +302,7 @@ Abstract: A recent study reported results from a clinical trial in cats and from
 
 ---
 
-## 30. Establishment and Initial Experience of Clinical FLASH Radiotherapy in Canine Cancer Patients.
+## 28. Establishment and Initial Experience of Clinical FLASH Radiotherapy in Canine Cancer Patients.
 Authors: Konradsson E, Arendt ML, Bastholm Jensen K, Børresen B, Hansen AE, Bäck S, Kristensen AT, Munck Af Rosenschöld P et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34055624; DOI 10.3389/fonc.2021.658004; PMC PMC8155542 (open access)
@@ -335,29 +313,7 @@ Abstract: FLASH radiotherapy has emerged as a treatment technique with great pot
 
 ---
 
-## 31. Imaged-guided and muscle sparing laparoscopic anorectoplasty using real-time magnetic resonance imaging.
-Authors: Jarboe M, Ladino-Torres M, Wild L, Spremo D, Elkins S, Ladouceur R, Nagy D, Ehrlich P et al.
-Journal: Pediatric surgery international (2020)
-Identifiers: PMID 32638078; DOI 10.1007/s00383-020-04700-5
-URL: https://pubmed.ncbi.nlm.nih.gov/32638078/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: A challenge when repairing imperforate anus is positioning the neo-rectum into the center of the sphincter muscle complex (SMC) with limited muscle injury and scarring. Unfortunately, the path through the components of the SMC are often non-linear. We have used MRI to delineate the complex and guide the needle through the center using standard MRI-guidance (Raschbaum GR et al. J Pediatr Surg 45:220-223, 2010; Thomas TT et al. J Pediatr Surg 35:927-930, 2000). However, asynchronous scanning requires multiple, time-consuming scans to advance the needle in stepwise fashion. Asynchronous scanning also prevents visualizing the needle as it is advanced. We recently integrated software into the MRI operative suite that allows placement of the needle with real-time MRI. We report the feasibility and utility of real-time MRI-assisted laparoscopic assisted anorectoplasty (RT MRI-LAARP). Needle guidance was performed with Siemens Espree 1.5 T MRI with T1 Flash RT Sequence. After needle placement, laparoscopic mobilization, fistula takedown and pull-through was performed using the needle to guide dilation to create a tract to pull-through the neo-rectum. Charts of patients who underwent RT MRI-LAARP were reviewed. Demographics, anatomy, number of needle passes, OR duration and complications are reported. There were five children that underwent RT MRI-LAARP; one was a redo secondary to a retracted rectovestibular fistula. Operative time ranged from 187-505 min. Average hospital stay was 4.0 ± 1.0 days. There were no intraoperative complications although one patient had temporary urinary retention post-op. Muscle sparring laparoscopic anorectoplasty using real-time MRI is feasible and facilitates needle placement through the SMC.
-
----
-
-## 32. Defining a national reference level for intraoperative radiation exposure in urological procedures: FLASH, a retrospective multicentre UK study.
-Authors: Simson N, Stonier T, Suleyman N, Hendry J, Salib M, Peacock J, Connor M, Jones O et al.
-Journal: BJU international (2020)
-Identifiers: PMID 31437345; DOI 10.1111/bju.14903
-URL: https://pubmed.ncbi.nlm.nih.gov/31437345/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: OBJECTIVES: To define reference levels for intraoperative radiation during stent insertion, ureteroscopy (URS), and percutaneous nephrolithotomy (PCNL); to identify variation in radiation exposure between individual hospitals across the UK, between low- and high-volume PCNL centres, and between grade of lead surgeon. PATIENTS/SUBJECTS AND METHODS: In all, 3651 patients were identified retrospectively across 12 UK hospitals over a 1-year period. Radiation exposure was defined in terms of total fluoroscopy time (FT) and dose area product (DAP). The 75th percentiles of median values for each hospital were used to define reference levels for each procedure. RESULTS: Reference levels: ureteric stent insertion/replacement (DAP, 2.3 Gy/cm2 ; FT, 49 s); URS (DAP, 2.8 Gy/cm2 ; FT, 57 s); PCNL (DAP, 24.1 Gy/cm2 ; FT, 431 s). Significant variations in the median DAP and FT were identified between individual centres for all procedures (P < 0.001). For PCNL, there was a statistically significant difference between DAP for low- (<50 cases/annum) and high-volume centres (>50 cases/annum), at a median DAP of 15.0 Gy/cm2 vs 4.2 Gy/cm2 (P < 0.001). For stent procedures, the median DAP and FT differed significantly between grade of lead surgeon: Consultant (DAP, 2.17 Gy/cm2 ; FT, 41 s) vs Registrar (DAP, 1.38 Gy/cm2 ; FT, 26 s; P < 0.001). CONCLUSION: This multicentre study is the largest of its kind. It provides the first national reference level to guide fluoroscopy use in urological procedures, thereby adding a quantitative and objective value to complement the principles of keeping radiation exposure 'as low as reasonably achievable'. This snapshot of real-time data shows significant variation around the country, as well as significant differences between low- and high-volume centres for PCNL, and grade of lead surgeon for stent procedures.
-
----
-
-## 33. Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
+## 29. Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
 Authors: Koch CJ
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31431380; DOI 10.1016/j.radonc.2019.07.004
@@ -368,7 +324,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 34. Ultrahigh Dose-rate Radiotherapy: Next Steps for FLASH-RT.
+## 30. Ultrahigh Dose-rate Radiotherapy: Next Steps for FLASH-RT.
 Authors: Harrington KJ
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2019)
 Identifiers: PMID 30093447; DOI 10.1158/1078-0432.CCR-18-1796
@@ -376,38 +332,5 @@ URL: https://pubmed.ncbi.nlm.nih.gov/30093447/
 Category: Clinical & Translational | Tags: Clinical & Translational
 
 Abstract: A new way of delivering radiotherapy at very high dose rates is described and compared with conventional radiotherapy. The ultrahigh dose-rate therapy reduces damage to normal pig skin and exerts potent activity against spontaneous nasal tumors in cat patients. The implications for clinical development of this approach are discussed.See related article by Vozenin et al., p. 35.
-
----
-
-## 35. FLASH proton density imaging for improved surface coil intensity correction in quantitative and semi-quantitative SSFP perfusion cardiovascular magnetic resonance.
-Authors: Nielles-Vallespin S, Kellman P, Hsu LY, Arai AE
-Journal: Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance (2015)
-Identifiers: PMID 25827180; DOI 10.1186/s12968-015-0120-6; PMC PMC4331176 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/25827180/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: BACKGROUND: A low excitation flip angle (α < 10°) steady-state free precession (SSFP) proton-density (PD) reference scan is often used to estimate the B1-field inhomogeneity for surface coil intensity correction (SCIC) of the saturation-recovery (SR) prepared high flip angle (α = 40-50°) SSFP myocardial perfusion images. The different SSFP off-resonance response for these two flip angles might lead to suboptimal SCIC when there is a spatial variation in the background B0-field. The low flip angle SSFP-PD frames are more prone to parallel imaging banding artifacts in the presence of off-resonance. The use of FLASH-PD frames would eliminate both the banding artifacts and the uneven frequency response in the presence of off-resonance in the surface coil inhomogeneity estimate and improve homogeneity of semi-quantitative and quantitative perfusion measurements. METHODS: B0-field maps, SSFP and FLASH-PD frames were acquired in 10 healthy volunteers to analyze the SSFP off-resonance response. Furthermore, perfusion scans preceded by both FLASH and SSFP-PD frames from 10 patients with no myocardial infarction were analyzed semi-quantitatively and quantitatively (rest n = 10 and stress n = 1). Intra-subject myocardial blood flow (MBF) coefficient of variation (CoV) over the whole left ventricle (LV), as well as intra-subject peak contrast (CE) and upslope (SLP) standard deviation (SD) over 6 LV sectors were investigated. RESULTS: In the 6 out of 10 cases where artifacts were apparent in the LV ROI of the SSFP-PD images, all three variability metrics were statistically significantly lower when using the FLASH-PD frames as input for the SCIC (CoVMBF-FLASH = 0.3 ± 0.1, CoVMBF-SSFP = 0.4 ± 0.1, p = 0.03; SDCE-FLASH = 10 ± 2, SDCE-SSFP = 32 ± 7, p = 0.01; SDSLP-FLASH = 0.02 ± 0.01, SDSLP-SSFP = 0.06 ± 0.02, p = 0.03). Example rest and stress data sets from the patient pool demonstrate that the low flip angle SSFP protocol can exhibit severe ghosting artifacts originating from off-resonance banding artifacts at the edges of the field of view that parallel imaging is not able to unfold. These artifacts lead to errors in the quantitative perfusion maps and the semi-quantitative perfusion indexes, such as false positives. It is shown that this can be avoided by using FLASH-PD frames as input for the SCIC. CONCLUSIONS: FLASH-PD images are recommended as input for SCIC of SSFP perfusion images instead of low flip angle SSFP-PD images.
-
----
-
-## 36. Double-flash, large-fraction radiation therapy as palliative treatment of malignant superior vena cava syndrome in the elderly.
-Authors: Lonardi F, Gioga G, Agus G, Coeli M, Campostrini F
-Journal: Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer (2002)
-Identifiers: PMID 11862505; DOI 10.1007/s00520-001-0313-4
-URL: https://pubmed.ncbi.nlm.nih.gov/11862505/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: Rapid control of symptoms is mandatory in cancer-induced superior vena cava syndrome (SVCS), but older patients often do not tolerate aggressive approaches. In order to maximize symptom relief and minimize treatment-related discomfort of aged patients in poor health we adopted a short-course, large-fraction radiation therapy (RT) schedule. Twenty-three consecutive patients aged over 70 who were suffering from solid-malignancy-related SVCS were enrolled. A total dose of 12 Gy was given in two 6-Gy fractions, 1 week apart, mainly in an out-patient setting. Completion of therapy to give up to 37-40 Gy was planned in the best-responding patients. Symptom relief was experienced by 8 patients as early as 4-5 days after the first fraction. The overall response rate was 87%. Despite some mild systemic side effects (chest pain, fever) reported by 5 patients (22%), overall toxicity was negligible. Short-course, double-flash RT stands as an effective and safe tool in the palliative treatment of malignant SVCS in older patients. Fractions larger than 6 Gy can be avoided in order to minimize side and toxic effects.
-
----
-
-## 37. Intra-arterial infusion of bromodeoxyuridine and radiotherapy in osteosarcoma and other bone malignancies.
-Authors: Lejeune FJ, Regnier R, Nogaret JM, Jabri M
-Journal: Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer (1983)
-Identifiers: PMID 6580684; DOI 10.1007/978-3-642-82025-0_34
-URL: https://pubmed.ncbi.nlm.nih.gov/6580684/
-Category: Clinical & Translational | Tags: Clinical & Translational
-
-Abstract: In order to avoid amputation, which does not seem to improve survival in osteosarcoma, we have initiated a limb-preservation program using intra-arterial radiosensitization. Eleven osteosarcomas with soft tissue involvement and six other bone malignancies were prospectively treated according to the following protocol: (a) surgical insertion of an intra-arterial catheter through a Dacron patch, (b) intra-arterial infusion of 15 mg/kg BUDR on days 1-2 every 5 days for 40 days, (c) 600 rads flash irradiation on day 3 every 5 days, X 8. Median follow-up time has been 36 months. In the osteosarcoma group, median survival has been 12 months. Four of the five osteosarcoma patients who died had received prophylactic HD methotrexate-vincristine-adriamycin systemic chemotherapy; one patient refused.
 
 ---

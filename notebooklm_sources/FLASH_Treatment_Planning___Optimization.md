@@ -1,11 +1,22 @@
 # FLASH Radiotherapy Literature — Treatment Planning & Optimization
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-01. 73 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 74 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
 ---
 
-## 1. Proton Bragg peak flash stereotactic radiosurgery for recurrent glioblastoma reirradiation.
+## 1. Breathing-phase selection for gated proton therapy in lung cancer towards temporally targeted ultra-high dose rate delivery.
+Authors: Visser SN, van Doorn-Wink KCJ, Crama KF, Rasch CRN, Habraken SJM
+Journal: Physics and imaging in radiation oncology (2026)
+Identifiers: PMID 42699310; DOI 10.1016/j.phro.2026.101065; PMC PMC13544324 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/42699310/
+Category: Treatment Planning & Optimization | Tags: Treatment Planning & Optimization, Radiobiology
+
+Abstract: BACKGROUND AND PURPOSE: Ultra-high dose rate (UHDR) irradiation has been demonstrated to reduce normal tissue damage compared to conventional dose rates, while maintaining tumor response (FLASH-effect). UHDR could potentially freeze intra-fraction breathing motion, enabling margin reduction for moving tumors when accurately timed. Targeting the optimal breathing-phase could reduce organ-at-risk (OAR) dose and side effects. In this treatment planning study, the optimal phase(s) for UHDR proton therapy were identified and potential benefits were evaluated. MATERIALS AND METHODS: Twenty lung cancer patients, previously treated with 66 GyE/24 or 60 GyE/30 fractions, were included. Four-dimensional computed tomography (4D-CT) scans with clinical target and OAR delineations were used to create new treatment plans for individual 4D-CT phases, one-phase plans (OPP) and multiple-phase plans (MPP). Clinically relevant dose-volume parameters and normal tissue complication probabilities (NTCP) were evaluated. RESULTS: Phase-targeted proton therapy (PTPT) significantly reduced OAR dose. The largest reductions were achieved with OPP, while MPP showed smaller reductions. With OPP, mean lung dose (mean: -0.7 GyE, range: -1.7 to 0.3 GyE), mean heart dose (mean: -0.4 GyE, range: -1.4 to 0.5 GyE), and mean esophagus dose (mean: -0.9 GyE, range: -6.0 to 0 GyE) were reduced, with most reductions in the 0%, 40%, and 70% phases, respectively. NTCP values indicated reduced complication probabilities across all phases, with additional gains for optimal phases. CONCLUSIONS: With PTPT, OAR dose may be reduced with potential clinical benefit across all phases. The optimal phase depended on the endpoint, suggesting patient-specific phase targeting could further improve outcomes. Future research should address phase targetability, residual variation and required robustness.
+
+---
+
+## 2. Proton Bragg peak flash stereotactic radiosurgery for recurrent glioblastoma reirradiation.
 Authors: Ma Y, Wang Y, Zhang T, Zhao X, Selvaraj B, Cheng C, Pennock M, Jackson J et al.
 Journal: Physics and imaging in radiation oncology (2026)
 Identifiers: PMID 42630800; DOI 10.1016/j.phro.2026.101044; PMC PMC13495584 (open access)
@@ -16,18 +27,18 @@ Abstract: BACKGROUND AND PURPOSE: Stereotactic Radiosurgery with robotic image-g
 
 ---
 
-## 2. Biologically optimized 3D range modulators for fast conformal carbon ion therapy:in vitrovalidation, treatment planning, and robustness analysis.
+## 3. Biologically optimized 3D range modulators for fast conformal carbon ion therapy:in vitrovalidation, treatment planning, and robustness analysis.
 Authors: Ahn SHH, Filosa DI, Lysakovski P, Brons S, Abdollahi A, Debus J, Dokic I, Tessonnier T et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42624158; DOI 10.1088/1361-6560/ae9c86
 URL: https://pubmed.ncbi.nlm.nih.gov/42624158/
 Category: Treatment Planning & Optimization | Tags: Treatment Planning & Optimization, Radiobiology, Modeling & Mechanisms, Physics & Dosimetry, Beam Delivery & Technology, Clinical & Translational
 
-Abstract: &#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning. &#xD;&#xD;Approach.&#xD;A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1 (LEM1). Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks (SOBPs), 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.&#xD;&#xD;Main results.&#xD;Measured survival fractions agreed with mMKM predictions within 5% on average across the biological SOBP, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and OAR metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.&#xD;&#xD;Significance. &#xD;Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.&#xD.
+Abstract: Objective.Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning.Approach.A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1. Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks, 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.Main results.Measured survival fractions agreed with mMKM predictions within 5% on average across the biological spread-out Bragg peaks, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and organs at risk metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.Significance.Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.
 
 ---
 
-## 3. Commissioning and Validation of a Synchrocyclotron - Based Ultra-High-Dose-Rate Beamline for FLASH.
+## 4. Commissioning and Validation of a Synchrocyclotron - Based Ultra-High-Dose-Rate Beamline for FLASH.
 Authors: Lin Y, Setianegara J, Wang A, Gerard N, Nys J, Labarbe R, Traneus E, Gao H et al.
 Journal: International journal of particle therapy (2026)
 Identifiers: PMID 42502287; DOI 10.1016/j.ijpt.2026.101323; PMC PMC13400413 (open access)
@@ -38,7 +49,7 @@ Abstract: PURPOSE: FLASH radiotherapy delivers ultra-high dose rate radiation (>
 
 ---
 
-## 4. Optimizing Transmission FLASH Radiation Therapy for Large-Field Postmastectomy Breast Treatment.
+## 5. Optimizing Transmission FLASH Radiation Therapy for Large-Field Postmastectomy Breast Treatment.
 Authors: Zafar AJ, Dutta SW, Case MJ, Diamond Z, Bohannon D, Jagsi R, Yang X, Zhou J
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42107782; DOI 10.1016/j.ijrobp.2026.04.095
@@ -49,7 +60,7 @@ Abstract: PURPOSE: We investigated the effect of scanning speed, beam configurat
 
 ---
 
-## 5. Use of apertures in single-energy pristine Bragg peak FLASH radiotherapy.
+## 6. Use of apertures in single-energy pristine Bragg peak FLASH radiotherapy.
 Authors: Ma Y, Selvaraj B, Zhao X, Cheng C, Chen CC, Diao L, Wang Y, Wang Z et al.
 Journal: Journal of applied clinical medical physics (2026)
 Identifiers: PMID 42050792; DOI 10.1002/acm2.70593; PMC PMC13125415 (open access)
@@ -60,7 +71,7 @@ Abstract: BACKGROUND: Proton single-energy Bragg peak (SEBP) FLASH delivery can 
 
 ---
 
-## 6. A beam model and Boltzmann solver for radiotherapy treatment planning of superficial brain metastases using a scanned electron beam at ultra-high (FLASH) dose rate.
+## 7. A beam model and Boltzmann solver for radiotherapy treatment planning of superficial brain metastases using a scanned electron beam at ultra-high (FLASH) dose rate.
 Authors: Bedford J, Gross M, Riemer F, Amirkhanyan Z, Stephan F, Oelfke U
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42009057; DOI 10.1088/1361-6560/ae6225; PMC PMC13145812 (open access)
@@ -71,7 +82,7 @@ Abstract: Objective.Contemporary particle accelerators allow for the generation 
 
 ---
 
-## 7. Experimental data-driven design of 3D range modulators for proton conformal FLASH applications.
+## 8. Experimental data-driven design of 3D range modulators for proton conformal FLASH applications.
 Authors: Wang A, Setianegara J, Lin Y, Xiao P, Gerard N, Nys J, Chen RC, Xie Q et al.
 Journal: Medical physics (2026)
 Identifiers: PMID 41984546; DOI 10.1002/mp.70436
@@ -82,7 +93,7 @@ Abstract: BACKGROUND: Proton ultra-high-dose-rate (FLASH) radiotherapy has shown
 
 ---
 
-## 8. FLASH Stereotactic radiosurgery for brain metastases using proton Bragg peak tracking can achieve IMPT equivalent dosimetry.
+## 9. FLASH Stereotactic radiosurgery for brain metastases using proton Bragg peak tracking can achieve IMPT equivalent dosimetry.
 Authors: Lynch N, Jackson J, Cheng C, Zhao X, Wei Z, Lin H, Morris B, Glide-Hurst C et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41933594; DOI 10.1016/j.radonc.2026.111512
@@ -93,7 +104,7 @@ Abstract: PURPOSE/OBJECTIVES: Stereotactic radiosurgery (SRS) is a primary techn
 
 ---
 
-## 9. Enabling time-aware treatment plan evaluation for clinical proton pencil beam scanning systems.
+## 10. Enabling time-aware treatment plan evaluation for clinical proton pencil beam scanning systems.
 Authors: Meijers A, Reimold MN, Pisciotta P, Zou W, Burguete J, Knopf AC, Fracchiolla F
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)
 Identifiers: PMID 41905127; DOI 10.1016/j.ejmp.2026.105787
@@ -104,7 +115,7 @@ Abstract: INTRODUCTION: Clinical Treatment Planning Systems (TPS) for proton pen
 
 ---
 
-## 10. 4D robust evaluation for the intensity-modulated-proton-radiotherapy plans for patients with ventricular tachycardia based on cardiopulmonary motion characteristics.
+## 11. 4D robust evaluation for the intensity-modulated-proton-radiotherapy plans for patients with ventricular tachycardia based on cardiopulmonary motion characteristics.
 Authors: Wang S, Fan X, Tong Y, Su M, Li W, Sha X, Yin Y, Dai T
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)
 Identifiers: PMID 41871504; DOI 10.1016/j.ejmp.2026.105790
@@ -115,7 +126,7 @@ Abstract: BACKGROUND: Clinical trials and case reports have demonstrated that ra
 
 ---
 
-## 11. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy.
+## 12. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy.
 Authors: Luo Y, Zhu YN, Setianegara J, Hong X, Zhang W, Wang C, Lin Y, Li Q et al.
 Journal: Medical physics (2026)
 Identifiers: PMID 41833534; DOI 10.1002/mp.70291
@@ -126,7 +137,7 @@ Abstract: BACKGROUND: The FLASH effect can significantly reduce radiation-induce
 
 ---
 
-## 12. Treatment planning comparison of focused very high energy electron and volumetric modulated arc therapy.
+## 13. Treatment planning comparison of focused very high energy electron and volumetric modulated arc therapy.
 Authors: Amstutz F, Zhu C, Volken W, Loebner HA, Mueller S, Frei S, Bertholet J, Manser P et al.
 Journal: Physics and imaging in radiation oncology (2026)
 Identifiers: PMID 41783835; DOI 10.1016/j.phro.2026.100934; PMC PMC12955155 (open access)
@@ -137,7 +148,7 @@ Abstract: BACKGROUND AND PURPOSE: Very high energy electron (VHEE) radiotherapy 
 
 ---
 
-## 13. Spread-Out Bragg Peak FLASH Radiotherapy for Head and Neck Reirradiation: A Treatment Planning Study.
+## 14. Spread-Out Bragg Peak FLASH Radiotherapy for Head and Neck Reirradiation: A Treatment Planning Study.
 Authors: Alomar M, Pin A, Nilsson R, Traneus E, Gan GN, Gao H, Lin Y
 Journal: International journal of particle therapy (2026)
 Identifiers: PMID 41716727; DOI 10.1016/j.ijpt.2026.101302; PMC PMC12914863 (open access)
@@ -148,7 +159,7 @@ Abstract: PURPOSE: Proton FLASH radiotherapy offers the potential to enhance nor
 
 ---
 
-## 14. Development of a proof-of-concept treatment planning system for multi-beam photon FLASH intensity modulated radiation therapy.
+## 15. Development of a proof-of-concept treatment planning system for multi-beam photon FLASH intensity modulated radiation therapy.
 Authors: Chenlei G, Weijie C, Hao Z, Meng Z, Jin Y, He W, Weiping W, Hongyu Z et al.
 Journal: Medical physics (2026)
 Identifiers: PMID 41665596; DOI 10.1002/mp.70331
@@ -159,7 +170,7 @@ Abstract: BACKGROUND: The development of FLASH radiotherapy has gained attention
 
 ---
 
-## 15. 3D range modulators for fast, conformal carbon ion therapy: anthropomorphic phantom validation and robustness analysis.
+## 16. 3D range modulators for fast, conformal carbon ion therapy: anthropomorphic phantom validation and robustness analysis.
 Authors: Hailey Ahn SH, Lysakovski P, Brons S, Karle C, Longarino F, Abdollahi A, Debus J, Tessonnier T et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41525717; DOI 10.1088/1361-6560/ae36e5
@@ -170,7 +181,7 @@ Abstract: Objective. Fast and precise delivery of ion-beam therapy is essential 
 
 ---
 
-## 16. Novel Treatment Planning Strategy using Single Switching of Universal Range Shifters in Bragg Peak Proton FLASH Radiotherapy.
+## 17. Novel Treatment Planning Strategy using Single Switching of Universal Range Shifters in Bragg Peak Proton FLASH Radiotherapy.
 Authors: Zhang Q, Quan H, Zeng Y, Pang B, Liu M, Chen S, Wang H, Xie Q et al.
 Journal: Medical physics (2026)
 Identifiers: PMID 41521619; DOI 10.1002/mp.70275
@@ -181,7 +192,7 @@ Abstract: BACKGROUND: Bragg peak (BP) proton FLASH radiotherapy (FLASH-RT) holds
 
 ---
 
-## 17. Deliverable proton conformal FLASH radiotherapy treatment planning for head and neck re-irradiation patients.
+## 18. Deliverable proton conformal FLASH radiotherapy treatment planning for head and neck re-irradiation patients.
 Authors: Zou W, Dong L, Pin A, Nilsson R, Kim M, Apinorasethkul O, Pakela J, Friberg A et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41423134; DOI 10.1016/j.radonc.2025.111349; PMC PMC13151878 (open access)
@@ -192,7 +203,7 @@ Abstract: PURPOSE: Clinical translation of ultra-high dose rate (UHDR) delivery 
 
 ---
 
-## 18. Mitigating the impact of FLASH-model uncertainties through personalized FLASH optimization functions for delivery pattern optimization for lung IMPT.
+## 19. Mitigating the impact of FLASH-model uncertainties through personalized FLASH optimization functions for delivery pattern optimization for lung IMPT.
 Authors: van Zon MC, Breedveld S, Hoogeman MS, Habraken SJM
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41411757; DOI 10.1088/1361-6560/ae2f16
@@ -203,7 +214,7 @@ Abstract: Objective.It is generally assumed that the FLASH effect is triggered a
 
 ---
 
-## 19. Assessing the potential and pitfalls of spot sequence optimization for OAR-specific dose rate control in proton PBS Bragg peak FLASH radiotherapy.
+## 20. Assessing the potential and pitfalls of spot sequence optimization for OAR-specific dose rate control in proton PBS Bragg peak FLASH radiotherapy.
 Authors: Diao L, Zhao X, Cheng C, Zhang T, Wei S, Meng D, Wei Z, Ma Y et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41271173; DOI 10.1016/j.radonc.2025.111291
@@ -214,7 +225,7 @@ Abstract: PURPOSE: To evaluate the impact of key treatment planning parameters-i
 
 ---
 
-## 20. The impact of dose rate optimisation and robust optimisation on FLASH proton therapy treatment plan quality and dose rates.
+## 21. The impact of dose rate optimisation and robust optimisation on FLASH proton therapy treatment plan quality and dose rates.
 Authors: Lövgren N, Nilsson R, Traneus E, Petersson K
 Journal: Frontiers in oncology (2025)
 Identifiers: PMID 41487594; DOI 10.3389/fonc.2025.1638319; PMC PMC12757242 (open access)
@@ -225,7 +236,7 @@ Abstract: BACKGROUND AND PURPOSE: Bragg peak FLASH proton therapy (FLASH-PT) rel
 
 ---
 
-## 21. Proton pencil beam scanning ultra-high dose rate 3D lattice radiotherapy: A proof-of-concept FLASH SFRT study.
+## 22. Proton pencil beam scanning ultra-high dose rate 3D lattice radiotherapy: A proof-of-concept FLASH SFRT study.
 Authors: Wei S, Qi H, Xu L, Selvaraj B, Zhao X, Zheng A, Vermeulen M, Lee NY et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 41330730; DOI 10.1002/mp.70187
@@ -236,7 +247,7 @@ Abstract: BACKGROUND: 3D lattice radiation therapy (3D-LRT) is an effective trea
 
 ---
 
-## 22. Joint range-modulator and spot optimization for Bragg-peak proton FLASH radiotherapy.
+## 23. Joint range-modulator and spot optimization for Bragg-peak proton FLASH radiotherapy.
 Authors: Han J, Wang A, Zhu YN, Li W, Lin Y, Gao H
 Journal: Medical physics (2025)
 Identifiers: PMID 41316733; DOI 10.1002/mp.70171
@@ -247,7 +258,7 @@ Abstract: BACKGROUND: Ultra-high-dose-rate (UHDR) radiation therapy has demonstr
 
 ---
 
-## 23. Comparison of protons and very high-energy electrons transmission pencil-beam-scanning for FLASH radiotherapy.
+## 24. Comparison of protons and very high-energy electrons transmission pencil-beam-scanning for FLASH radiotherapy.
 Authors: Gesualdi F, Ermeneux L, Lansonneur P, Sitarz M, Loap P, Créhange G, Magliari A, De Marzi L
 Journal: Physics and imaging in radiation oncology (2025)
 Identifiers: PMID 41278487; DOI 10.1016/j.phro.2025.100860; PMC PMC12639469 (open access)
@@ -258,7 +269,7 @@ Abstract: BACKGROUND AND PURPOSE: Very High-Energy Electron (VHEE) radiotherapy 
 
 ---
 
-## 24. Monoenergetic Bragg peak FLASH proton therapy with universal range shifter in multi-field optimization.
+## 25. Monoenergetic Bragg peak FLASH proton therapy with universal range shifter in multi-field optimization.
 Authors: Zhang Q, Zeng Y, Pang B, Liu M, Chen S, Wang H, Xie Q, Deng J et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41125106; DOI 10.1088/1361-6560/ae1650
@@ -269,7 +280,7 @@ Abstract: Objective.Monoenergetic high-energy Bragg peak (monoBP) proton therapy
 
 ---
 
-## 25. Translating FLASH to the clinic: treatment planning system for a FLASH-compatible dose delivery using a novel x-ray UHDR machine.
+## 26. Translating FLASH to the clinic: treatment planning system for a FLASH-compatible dose delivery using a novel x-ray UHDR machine.
 Authors: Krim DE, Whelan B, Harkness M, Otto K, W Loo B, Bazalova-Carter M
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41056970; DOI 10.1088/1361-6560/ae107b
@@ -280,7 +291,7 @@ Abstract: Objective.To develop and validate a treatment planning system (TPS) fo
 
 ---
 
-## 26. A methodology for optimizing treatment head angle arrangement for multi-angle FLASH intensity modulated radiation therapy platforms.
+## 27. A methodology for optimizing treatment head angle arrangement for multi-angle FLASH intensity modulated radiation therapy platforms.
 Authors: Cui W, Guo C, Hu Z, Wang Y, Men K, Dai J
 Journal: Frontiers in oncology (2025)
 Identifiers: PMID 41040529; DOI 10.3389/fonc.2025.1628281; PMC PMC12483917 (open access)
@@ -291,7 +302,7 @@ Abstract: PURPOSE: Flash therapy technology has been introduced, and several sys
 
 ---
 
-## 27. Bragg-peak FLASH biological optimization enables enhanced normal tissue sparing and dose escalation for ocular stereotactic body radiation therapy.
+## 28. Bragg-peak FLASH biological optimization enables enhanced normal tissue sparing and dose escalation for ocular stereotactic body radiation therapy.
 Authors: Hamza M, Selvaraj B, Cheng C, Zhao X, Kaulfers T, Lattery G, Zhai H, Simone Ii CB et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41038240; DOI 10.1088/1361-6560/ae0ef7
@@ -302,7 +313,7 @@ Abstract: Objective.To evaluate proton Bragg peak FLASH for ocular treatments to
 
 ---
 
-## 28. Treatment parameters consideration for universal range shifter-based multi-energy proton FLASH-RT.
+## 29. Treatment parameters consideration for universal range shifter-based multi-energy proton FLASH-RT.
 Authors: Zeng Y, Quan H, Zhang Q, Wang W, Liu X, Qin B, Pang B, Liu M et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 41028909; DOI 10.1002/mp.70039
@@ -313,7 +324,7 @@ Abstract: BACKGROUND: Compared to conventional dose rate irradiation, ultra-high
 
 ---
 
-## 29. An adaptive proton FLASH therapy using modularized pin ridge filter.
+## 30. An adaptive proton FLASH therapy using modularized pin ridge filter.
 Authors: Zafar AJ, Yang X, Diamond Z, Sibo T, Yu D, Patel PR, Zhou J
 Journal: Medical physics (2025)
 Identifiers: PMID 40940290; DOI 10.1002/mp.18109
@@ -324,7 +335,7 @@ Abstract: BACKGROUND: In our previous study, we developed a modular pin ridge fi
 
 ---
 
-## 30. FLASH-enabled proton SBRT for a challenging case of spine metastasis.
+## 31. FLASH-enabled proton SBRT for a challenging case of spine metastasis.
 Authors: Wuyckens S, Vera MC, Nilsson R, Wase V, Di Perri D, Geets X, Lee JA, Sterpin E
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40897368; DOI 10.1088/1361-6560/ae023c
@@ -335,7 +346,7 @@ Abstract: Objective. The FLASH effect, characterized by potential sparing of org
 
 ---
 
-## 31. In silico evaluation of the potential of very high energy electrons delivered in both conventional and FLASH regimes for the SBRT treatment of pancreatic cancer: A report of three case studies.
+## 32. In silico evaluation of the potential of very high energy electrons delivered in both conventional and FLASH regimes for the SBRT treatment of pancreatic cancer: A report of three case studies.
 Authors: De Gregorio A, Muscato A, Burattini A, Carlotti D, Fiore M, Franciosini G, Insero T, Marafini M et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)
 Identifiers: PMID 40858068; DOI 10.1016/j.ejmp.2025.105076
@@ -346,7 +357,7 @@ Abstract: BACKGROUND AND PURPOSE: As the incidence and mortality rates of pancre
 
 ---
 
-## 32. FLASH Stereotactic Body Radiation Therapy for Spine Tumors Using a Single-Energy Proton Pristine Bragg Peak Delivery Technique.
+## 33. FLASH Stereotactic Body Radiation Therapy for Spine Tumors Using a Single-Energy Proton Pristine Bragg Peak Delivery Technique.
 Authors: Selvaraj B, Zhao X, Lin H, Shen J, Cheng C, Bookbinder A, Wu H, Zhai H et al.
 Journal: Advances in radiation oncology (2025)
 Identifiers: PMID 40416512; DOI 10.1016/j.adro.2025.101776; PMC PMC12098142 (open access)
@@ -357,7 +368,7 @@ Abstract: PURPOSE: To investigate the dosimetric performance and dose rate of Br
 
 ---
 
-## 33. Investigating the therapeutic potential of FLASH radiotherapy - a treatment planning study.
+## 34. Investigating the therapeutic potential of FLASH radiotherapy - a treatment planning study.
 Authors: Hörberger F, Petersson K, Ceberg S, Bäck S, Adrian G, Ceberg C
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2025)
 Identifiers: PMID 40409370; DOI 10.1016/j.radonc.2025.110947
@@ -368,7 +379,7 @@ Abstract: PURPOSE/BACKGROUND: Ultra-high dose rate radiotherapy (RT) has shown p
 
 ---
 
-## 34. Implementation of a novel pencil beam scanning Bragg peak FLASH technique to a commercial treatment planning system.
+## 35. Implementation of a novel pencil beam scanning Bragg peak FLASH technique to a commercial treatment planning system.
 Authors: Bookbinder A, Krieger M, Lansonneur P, Magliari A, Zhao X, Choi JI, Simone CB, Lin H et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40344192; DOI 10.1002/mp.17876; PMC PMC12257904 (open access)
@@ -379,7 +390,7 @@ Abstract: BACKGROUND: Ultra-high dose rate, or FLASH, radiotherapy has shown pro
 
 ---
 
-## 35. Comparative treatment planning of very high-energy electrons and photon volumetric modulated arc therapy: Optimising energy and beam parameters.
+## 36. Comparative treatment planning of very high-energy electrons and photon volumetric modulated arc therapy: Optimising energy and beam parameters.
 Authors: D'Andrea FS, Chuter R, Aitkenhead AH, MacKay RI, Jones RM
 Journal: Physics and imaging in radiation oncology (2025)
 Identifiers: PMID 40123772; DOI 10.1016/j.phro.2025.100732; PMC PMC11926434 (open access)
@@ -390,7 +401,7 @@ Abstract: BACKGROUND: Very High-Energy Electron (VHEE) beams offer potential adv
 
 ---
 
-## 36. Anticipating potential bottlenecks in adaptive proton FLASH therapy: a ridge filter reuse strategy.
+## 37. Anticipating potential bottlenecks in adaptive proton FLASH therapy: a ridge filter reuse strategy.
 Authors: Roberfroid B, Chocan Vera MS, Draguet C, Lee JA, Barragán-Montero AM, Sterpin E
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 39993377; DOI 10.1088/1361-6560/adb9b2
@@ -401,7 +412,7 @@ Abstract: Objective.Achieving FLASH dose rate with pencil beam scanning intensit
 
 ---
 
-## 37. Biological dose-based fractional dose optimization of Bragg peak FLASH-RT for lung cancer treatment.
+## 38. Biological dose-based fractional dose optimization of Bragg peak FLASH-RT for lung cancer treatment.
 Authors: Zeng Y, Zhang Q, Wang W, Liu X, Qin B, Pang B, Liu M, Chen S et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 39967009; DOI 10.1002/mp.17697
@@ -412,7 +423,7 @@ Abstract: BACKGROUND: The FLASH effect is dose-dependent, and fractional dose op
 
 ---
 
-## 38. Pulse-by-pulse treatment planning and its application to generic observations of ultra-high dose rate (FLASH) radiotherapy with photons and protons.
+## 39. Pulse-by-pulse treatment planning and its application to generic observations of ultra-high dose rate (FLASH) radiotherapy with photons and protons.
 Authors: Bedford JL
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 39870031; DOI 10.1088/1361-6560/adaf04
@@ -423,7 +434,7 @@ Abstract: Objective.The exact temporal characteristics of beam delivery affect t
 
 ---
 
-## 39. Fast spot order optimization to increase dose rates in scanned particle therapy FLASH treatments.
+## 40. Fast spot order optimization to increase dose rates in scanned particle therapy FLASH treatments.
 Authors: Wase V, Widenfalk O, Nilsson R, Fälth C, Fredriksson A
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 39774312; DOI 10.1088/1361-6560/ada715
@@ -434,7 +445,7 @@ Abstract: The advent of ultra-high dose rate irradiation, known as FLASH radiati
 
 ---
 
-## 40. The Radiosurgery Society Working Groups on GRID, LATTICE, Microbeam, and FLASH Radiotherapies: Advancements Symposium and Subsequent Progress Made.
+## 41. The Radiosurgery Society Working Groups on GRID, LATTICE, Microbeam, and FLASH Radiotherapies: Advancements Symposium and Subsequent Progress Made.
 Authors: Snider JW, Mayr NA, Molitoris J, Chhabra AM, Mossahebi S, Griffin R, Mohiuddin M, Zhang H et al.
 Journal: Practical radiation oncology (2025)
 Identifiers: PMID 39447865; DOI 10.1016/j.prro.2024.09.015; PMC PMC12128894 (open access)
@@ -445,7 +456,7 @@ Abstract: PURPOSE: Since the inaugural workshop "Understanding High-Dose, Ultra-
 
 ---
 
-## 41. Hybrid ultra-high and conventional dose rate treatments with electrons and photons for the clinical transfer of FLASH-RT to deep-seated targets: A treatment planning study.
+## 42. Hybrid ultra-high and conventional dose rate treatments with electrons and photons for the clinical transfer of FLASH-RT to deep-seated targets: A treatment planning study.
 Authors: Böhlen TT, Zeverino M, Germond JF, Kinj R, Schiappacasse L, Bochud F, Herrera F, Bourhis J et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)
 Identifiers: PMID 39395673; DOI 10.1016/j.radonc.2024.110576
@@ -456,7 +467,7 @@ Abstract: PURPOSE: This study explores the dosimetric feasibility and plan quali
 
 ---
 
-## 42. A Novel Dose Rate Optimization Method to Maximize Ultrahigh-Dose-Rate Coverage of Critical Organs at Risk Without Compromising Dosimetry Metrics in Proton Pencil Beam Scanning FLASH Radiation Therapy.
+## 43. A Novel Dose Rate Optimization Method to Maximize Ultrahigh-Dose-Rate Coverage of Critical Organs at Risk Without Compromising Dosimetry Metrics in Proton Pencil Beam Scanning FLASH Radiation Therapy.
 Authors: Zhao X, Huang S, Lin H, Choi JI, Zhu K, Simone CB, Yan X, Kang M
 Journal: International journal of radiation oncology, biology, physics (2024)
 Identifiers: PMID 38879087; DOI 10.1016/j.ijrobp.2024.06.002
@@ -467,7 +478,7 @@ Abstract: PURPOSE: This study aimed to investigate a dose rate optimization fram
 
 ---
 
-## 43. Simultaneous dose and dose rate optimization via dose modifying factor modeling for FLASH effective dose.
+## 44. Simultaneous dose and dose rate optimization via dose modifying factor modeling for FLASH effective dose.
 Authors: Ma J, Lin Y, Tang M, Zhu YN, Gan GN, Rotondo RL, Chen RC, Gao H
 Journal: Medical physics (2024)
 Identifiers: PMID 38873848; DOI 10.1002/mp.17251; PMC PMC11783338 (open access)
@@ -478,7 +489,7 @@ Abstract: BACKGROUND: Although the FLASH radiotherapy (FLASH) can improve the sp
 
 ---
 
-## 44. Technical note: Dosimetry and FLASH potential of UHDR proton PBS for small lung tumors: Bragg-peak-based delivery versus transmission beam and IMPT.
+## 45. Technical note: Dosimetry and FLASH potential of UHDR proton PBS for small lung tumors: Bragg-peak-based delivery versus transmission beam and IMPT.
 Authors: van Marlen P, van de Water S, Slotman BJ, Dahele M, Verbakel W
 Journal: Medical physics (2024)
 Identifiers: PMID 38795376; DOI 10.1002/mp.17185
@@ -489,7 +500,7 @@ Abstract: BACKGROUND: High-energy transmission beams (TBs) are currently the mai
 
 ---
 
-## 45. Combined optimization of spot positions and weights for better FLASH proton therapy.
+## 46. Combined optimization of spot positions and weights for better FLASH proton therapy.
 Authors: Lansonneur P, Magliari A, Rosa L, Perez J, Niemelä P, Folkerts M
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38749462; DOI 10.1088/1361-6560/ad4c53
@@ -500,7 +511,7 @@ Abstract: Objective.In Intensity Modulated Proton Therapy (IMPT), the weights of
 
 ---
 
-## 46. Feasibility and constraints of Bragg peak FLASH proton therapy treatment planning.
+## 47. Feasibility and constraints of Bragg peak FLASH proton therapy treatment planning.
 Authors: Lövgren N, Fagerström Kristensen I, Petersson K
 Journal: Frontiers in oncology (2024)
 Identifiers: PMID 38737902; DOI 10.3389/fonc.2024.1369065; PMC PMC11082391 (open access)
@@ -511,7 +522,7 @@ Abstract: INTRODUCTION: FLASH proton therapy (FLASH-PT) requires ultra-high dose
 
 ---
 
-## 47. Imaging and characterization of optical emission fromex vivotissue during conventional and UHDR PBS proton therapy.
+## 48. Imaging and characterization of optical emission fromex vivotissue during conventional and UHDR PBS proton therapy.
 Authors: Vasyltsiv R, Rahman M, Harms J, Clark M, Gladstone DJ, Pogue BW, Zhang R, Bruza P
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38422545; DOI 10.1088/1361-6560/ad2ee6; PMC PMC10945384 (open access)
@@ -522,7 +533,7 @@ Abstract: Objective. Imaging of optical photons emitted from tissue during radio
 
 ---
 
-## 48. Pencil Beam Scanning Proton Bragg Peak Conformal FLASH in Prostate Cancer Stereotactic Body Radiotherapy.
+## 49. Pencil Beam Scanning Proton Bragg Peak Conformal FLASH in Prostate Cancer Stereotactic Body Radiotherapy.
 Authors: Kaulfers T, Lattery G, Cheng C, Zhao X, Selvaraj B, Wu H, Chhabra AM, Choi JI et al.
 Journal: Cancers (2024)
 Identifiers: PMID 38398188; DOI 10.3390/cancers16040798; PMC PMC10886659 (open access)
@@ -533,7 +544,7 @@ Abstract: Bragg peak FLASH radiotherapy (RT) uses a distal tracking method to el
 
 ---
 
-## 49. A Novel Inverse Algorithm To Solve the Integrated Optimization of Dose, Dose Rate, and Linear Energy Transfer of Proton FLASH Therapy With Sparse Filters.
+## 50. A Novel Inverse Algorithm To Solve the Integrated Optimization of Dose, Dose Rate, and Linear Energy Transfer of Proton FLASH Therapy With Sparse Filters.
 Authors: Harrison N, Kang M, Liu R, Charyyev S, Wahl N, Liu W, Zhou J, Higgins KA et al.
 Journal: International journal of radiation oncology, biology, physics (2024)
 Identifiers: PMID 38104869; DOI 10.1016/j.ijrobp.2023.11.061
@@ -544,7 +555,7 @@ Abstract: PURPOSE: The recently proposed Integrated Physical Optimization Intens
 
 ---
 
-## 50. 3D-conformal very-high energy electron therapy as candidate modality for FLASH-RT: A treatment planning study for glioblastoma and lung cancer.
+## 51. 3D-conformal very-high energy electron therapy as candidate modality for FLASH-RT: A treatment planning study for glioblastoma and lung cancer.
 Authors: Böhlen TT, Germond JF, Traneus E, Vallet V, Desorgher L, Ozsahin EM, Bochud F, Bourhis J et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37427669; DOI 10.1002/mp.16586
@@ -555,7 +566,7 @@ Abstract: BACKGROUND: Pre-clinical ultra-high dose rate (UHDR) electron irradiat
 
 ---
 
-## 51. A Novel Ultrahigh-Dose-Rate Proton Therapy Technology: Spot-Scanning Proton Arc Therapy + FLASH (SPLASH).
+## 52. A Novel Ultrahigh-Dose-Rate Proton Therapy Technology: Spot-Scanning Proton Arc Therapy + FLASH (SPLASH).
 Authors: Liu G, Zhao L, Li X, Zhang S, Dai S, Lu X, Ding X
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 37196836; DOI 10.1016/j.ijrobp.2023.05.012
@@ -566,7 +577,7 @@ Abstract: PURPOSE: To take full advantage of FLASH dose rate (40 Gy/s) and high-
 
 ---
 
-## 52. Feasibility study of hybrid inverse planning with transmission beams and single-energy spread-out Bragg peaks for proton FLASH radiotherapy.
+## 53. Feasibility study of hybrid inverse planning with transmission beams and single-energy spread-out Bragg peaks for proton FLASH radiotherapy.
 Authors: Ma C, Yang X, Chang CW, Liu R, Bohannon D, Lin L, Liu T, Tian S et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 36932635; DOI 10.1002/mp.16370; PMC PMC11700378 (open access)
@@ -577,7 +588,7 @@ Abstract: BACKGROUND: Ultra-high dose rate (FLASH) proton planning with only tra
 
 ---
 
-## 53. An Integrated Physical Optimization Framework for Proton Stereotactic Body Radiation Therapy FLASH Treatment Planning Allows Dose, Dose Rate, and Linear Energy Transfer Optimization Using Patient-Specific Ridge Filters.
+## 54. An Integrated Physical Optimization Framework for Proton Stereotactic Body Radiation Therapy FLASH Treatment Planning Allows Dose, Dose Rate, and Linear Energy Transfer Optimization Using Patient-Specific Ridge Filters.
 Authors: Liu R, Charyyev S, Wahl N, Liu W, Kang M, Zhou J, Yang X, Baltazar F et al.
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 36736634; DOI 10.1016/j.ijrobp.2023.01.048
@@ -588,7 +599,7 @@ Abstract: PURPOSE: Patient-specific ridge filters provide a passive means to mod
 
 ---
 
-## 54. Pencil-beam Delivery Pattern Optimization Increases Dose Rate for Stereotactic FLASH Proton Therapy.
+## 55. Pencil-beam Delivery Pattern Optimization Increases Dose Rate for Stereotactic FLASH Proton Therapy.
 Authors: José Santo R, Habraken SJM, Breedveld S, Hoogeman MS
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 36057377; DOI 10.1016/j.ijrobp.2022.08.053
@@ -599,7 +610,7 @@ Abstract: PURPOSE: FLASH dose rates >40 Gy/s are readily available in proton the
 
 ---
 
-## 55. Dose and dose rate objectives in Bragg peak and shoot-through beam orientation optimization for FLASH proton therapy.
+## 56. Dose and dose rate objectives in Bragg peak and shoot-through beam orientation optimization for FLASH proton therapy.
 Authors: Ramesh P, Gu W, Ruan D, Sheng K
 Journal: Medical physics (2022)
 Identifiers: PMID 36222217; DOI 10.1002/mp.16009; PMC PMC9829523 (open access)
@@ -610,7 +621,7 @@ Abstract: PURPOSE: The combined use of Bragg peak (BP) and shoot-through (ST) be
 
 ---
 
-## 56. Dose rate and dose robustness for proton transmission FLASH-RT treatment in lung cancer.
+## 57. Dose rate and dose robustness for proton transmission FLASH-RT treatment in lung cancer.
 Authors: Wei S, Lin H, Huang S, Shi C, Xiong W, Zhai H, Hu L, Yu G et al.
 Journal: Frontiers in oncology (2022)
 Identifiers: PMID 36059710; DOI 10.3389/fonc.2022.970602; PMC PMC9435957 (open access)
@@ -621,7 +632,7 @@ Abstract: PURPOSES: To evaluate the plan quality and robustness of both dose and
 
 ---
 
-## 57. Advanced pencil beam scanning Bragg peak FLASH-RT delivery technique can enhance lung cancer planning treatment outcomes compared to conventional multiple-energy proton PBS techniques.
+## 58. Advanced pencil beam scanning Bragg peak FLASH-RT delivery technique can enhance lung cancer planning treatment outcomes compared to conventional multiple-energy proton PBS techniques.
 Authors: Wei S, Lin H, Isabelle Choi J, Shi C, Simone CB, Kang M
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35961583; DOI 10.1016/j.radonc.2022.08.005
@@ -632,7 +643,7 @@ Abstract: PURPOSE: To investigate the dosimetric characteristics between an adva
 
 ---
 
-## 58. Use of single-energy proton pencil beam scanning Bragg peak for intensity-modulated proton therapy FLASH treatment planning in liver-hypofractionated radiation therapy.
+## 59. Use of single-energy proton pencil beam scanning Bragg peak for intensity-modulated proton therapy FLASH treatment planning in liver-hypofractionated radiation therapy.
 Authors: Wei S, Lin H, Shi C, Xiong W, Chen CC, Huang S, Press RH, Hasan S et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35929404; DOI 10.1002/mp.15894
@@ -643,7 +654,7 @@ Abstract: PURPOSE: The transmission proton FLASH technique delivers high doses t
 
 ---
 
-## 59. Single-fraction 34 Gy Lung Stereotactic Body Radiation Therapy Using Proton Transmission Beams: FLASH-dose Calculations and the Influence of Different Dose-rate Methods and Dose/Dose-rate Thresholds.
+## 60. Single-fraction 34 Gy Lung Stereotactic Body Radiation Therapy Using Proton Transmission Beams: FLASH-dose Calculations and the Influence of Different Dose-rate Methods and Dose/Dose-rate Thresholds.
 Authors: van Marlen P, Verbakel WFAR, Slotman BJ, Dahele M
 Journal: Advances in radiation oncology (2022)
 Identifiers: PMID 35634574; DOI 10.1016/j.adro.2022.100954; PMC PMC9130077 (open access)
@@ -654,7 +665,7 @@ Abstract: PURPOSE: Research suggests that in addition to the dose-rate, a dose t
 
 ---
 
-## 60. Design of static and dynamic ridge filters for FLASH-IMPT: A simulation study.
+## 61. Design of static and dynamic ridge filters for FLASH-IMPT: A simulation study.
 Authors: Zhang G, Gao W, Peng H
 Journal: Medical physics (2022)
 Identifiers: PMID 35595708; DOI 10.1002/mp.15717
@@ -665,7 +676,7 @@ Abstract: PURPOSE: This paper focused on the design and optimization of ridge fi
 
 ---
 
-## 61. A Universal Range Shifter and Range Compensator Can Enable Proton Pencil Beam Scanning Single-Energy Bragg Peak FLASH-RT Treatment Using Current Commercially Available Proton Systems.
+## 62. A Universal Range Shifter and Range Compensator Can Enable Proton Pencil Beam Scanning Single-Energy Bragg Peak FLASH-RT Treatment Using Current Commercially Available Proton Systems.
 Authors: Kang M, Wei S, Choi JI, Lin H, Simone CB
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 35101597; DOI 10.1016/j.ijrobp.2022.01.009
@@ -676,7 +687,7 @@ Abstract: PURPOSE: Transmission beams have been proposed for ultra-high dose (or
 
 ---
 
-## 62. Simultaneous dose and dose rate optimization (SDDRO) of the FLASH effect for pencil-beam-scanning proton therapy.
+## 63. Simultaneous dose and dose rate optimization (SDDRO) of the FLASH effect for pencil-beam-scanning proton therapy.
 Authors: Gao H, Liu J, Lin Y, Gan GN, Pratx G, Wang F, Langen K, Bradley JD et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 34800301; DOI 10.1002/mp.15356; PMC PMC8917068 (open access)
@@ -687,7 +698,7 @@ Abstract: PURPOSE: Compared to CONV-RT (with conventional dose rate), FLASH-RT (
 
 ---
 
-## 63. FLASH Radiotherapy Using Single-Energy Proton PBS Transmission Beams for Hypofractionation Liver Cancer: Dose and Dose Rate Quantification.
+## 64. FLASH Radiotherapy Using Single-Energy Proton PBS Transmission Beams for Hypofractionation Liver Cancer: Dose and Dose Rate Quantification.
 Authors: Wei S, Lin H, Choi JI, Press RH, Lazarev S, Kabarriti R, Hajj C, Hasan S et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 35096620; DOI 10.3389/fonc.2021.813063; PMC PMC8794777 (open access)
@@ -698,7 +709,7 @@ Abstract: PURPOSE: This work aims to study the dose and ultra-high-dose rate cha
 
 ---
 
-## 64. A Novel Proton Pencil Beam Scanning FLASH RT Delivery Method Enables Optimal OAR Sparing and Ultra-High Dose Rate Delivery: A Comprehensive Dosimetry Study for Lung Tumors.
+## 65. A Novel Proton Pencil Beam Scanning FLASH RT Delivery Method Enables Optimal OAR Sparing and Ultra-High Dose Rate Delivery: A Comprehensive Dosimetry Study for Lung Tumors.
 Authors: Wei S, Lin H, Choi JI, Simone CB, Kang M
 Journal: Cancers (2021)
 Identifiers: PMID 34830946; DOI 10.3390/cancers13225790; PMC PMC8616118 (open access)
@@ -709,7 +720,7 @@ Abstract: PURPOSE: While transmission proton beams have been demonstrated to ach
 
 ---
 
-## 65. FLASH radiotherapy: Considerations for multibeam and hypofractionation dose delivery.
+## 66. FLASH radiotherapy: Considerations for multibeam and hypofractionation dose delivery.
 Authors: MacKay R, Burnet N, Lowe M, Rothwell B, Kirkby N, Kirkby K, Hendry J
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2021)
 Identifiers: PMID 34563608; DOI 10.1016/j.radonc.2021.09.011
@@ -720,7 +731,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 66. Quantitative Assessment of 3D Dose Rate for Proton Pencil Beam Scanning FLASH Radiotherapy and Its Application for Lung Hypofractionation Treatment Planning.
+## 67. Quantitative Assessment of 3D Dose Rate for Proton Pencil Beam Scanning FLASH Radiotherapy and Its Application for Lung Hypofractionation Treatment Planning.
 Authors: Kang M, Wei S, Choi JI, Simone CB, Lin H
 Journal: Cancers (2021)
 Identifiers: PMID 34298762; DOI 10.3390/cancers13143549; PMC PMC8303986 (open access)
@@ -731,7 +742,7 @@ Abstract: To quantitatively assess target and organs-at-risk (OAR) dose rate bas
 
 ---
 
-## 67. SDDRO-joint: simultaneous dose and dose rate optimization with the joint use of transmission beams and Bragg peaks for FLASH proton therapy.
+## 68. SDDRO-joint: simultaneous dose and dose rate optimization with the joint use of transmission beams and Bragg peaks for FLASH proton therapy.
 Authors: Lin Y, Lin B, Fu S, Folkerts MM, Abel E, Bradley J, Gao H
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 34010818; DOI 10.1088/1361-6560/ac02d8; PMC PMC9288107 (open access)
@@ -742,7 +753,7 @@ Abstract: Cancer radiotherapy (RT) with the irradiation at ultra-high dose rates
 
 ---
 
-## 68. Ultra-High Dose Rate Transmission Beam Proton Therapy for Conventionally Fractionated Head and Neck Cancer: Treatment Planning and Dose Rate Distributions.
+## 69. Ultra-High Dose Rate Transmission Beam Proton Therapy for Conventionally Fractionated Head and Neck Cancer: Treatment Planning and Dose Rate Distributions.
 Authors: van Marlen P, Dahele M, Folkerts M, Abel E, Slotman BJ, Verbakel W
 Journal: Cancers (2021)
 Identifiers: PMID 33924627; DOI 10.3390/cancers13081859; PMC PMC8070061 (open access)
@@ -753,7 +764,7 @@ Abstract: Transmission beam (TB) proton therapy (PT) uses single, high energy be
 
 ---
 
-## 69. High quality proton portal imaging using deep learning for proton radiation therapy: a phantom study.
+## 70. High quality proton portal imaging using deep learning for proton radiation therapy: a phantom study.
 Authors: Charyyev S, Lei Y, Harms J, Eaton B, McDonald M, Curran WJ, Liu T, Zhou J et al.
 Journal: Biomedical physics & engineering express (2020)
 Identifiers: PMID 33438674; DOI 10.1088/2057-1976/ab8a74; PMC PMC11682722 (open access)
@@ -764,7 +775,7 @@ Abstract: Purpose; For shoot-through proton treatments, like FLASH radiotherapy,
 
 ---
 
-## 70. Simultaneous dose and dose rate optimization (SDDRO) for FLASH proton therapy.
+## 71. Simultaneous dose and dose rate optimization (SDDRO) for FLASH proton therapy.
 Authors: Gao H, Lin B, Lin Y, Fu S, Langen K, Liu T, Bradley J
 Journal: Medical physics (2020)
 Identifiers: PMID 33068294; DOI 10.1002/mp.14531
@@ -775,7 +786,7 @@ Abstract: PURPOSE: FLASH radiotherapy (RT) can potentially reduce normal tissue 
 
 ---
 
-## 71. Bringing FLASH to the Clinic: Treatment Planning Considerations for Ultrahigh Dose-Rate Proton Beams.
+## 72. Bringing FLASH to the Clinic: Treatment Planning Considerations for Ultrahigh Dose-Rate Proton Beams.
 Authors: van Marlen P, Dahele M, Folkerts M, Abel E, Slotman BJ, Verbakel WFAR
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 31759074; DOI 10.1016/j.ijrobp.2019.11.011
@@ -786,7 +797,7 @@ Abstract: PURPOSE: Preclinical research into ultrahigh dose rate (eg, ≥40 Gy/s
 
 ---
 
-## 72. Towards FLASH proton therapy: the impact of treatment planning and machine characteristics on achievable dose rates.
+## 73. Towards FLASH proton therapy: the impact of treatment planning and machine characteristics on achievable dose rates.
 Authors: van de Water S, Safai S, Schippers JM, Weber DC, Lomax AJ
 Journal: Acta oncologica (Stockholm, Sweden) (2019)
 Identifiers: PMID 31241377; DOI 10.1080/0284186X.2019.1627416
@@ -797,7 +808,7 @@ Abstract: Background: This study aimed at evaluating spatially varying instantan
 
 ---
 
-## 73. Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.
+## 74. Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.
 Authors: Yeboah C, Sandison GA
 Journal: Physics in medicine and biology (2002)
 Identifiers: PMID 12164585; DOI 10.1088/0031-9155/47/13/305

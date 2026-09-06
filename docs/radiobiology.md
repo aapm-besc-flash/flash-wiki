@@ -2,7 +2,26 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*433 records. Newest first.*
+*403 records. Newest first.*
+
+---
+
+### Antitumor Activity of Combined Topoisomerase Inhibition and FLASH Radiotherapy in Head and Neck Carcinoma Biomodels.
+
+*Sarogni P, Brindani N, Frusca V, Santi M, Cavalieri A, Celentano M et al.* — MedComm (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Locally advanced head and neck carcinoma remains associated with high morbidity and long-term survival below 50%. Treatment commonly relies on cisplatin-based chemoradiotherapy, which is effective but frequently associated with significant acute and chronic systemic toxicities.
+
+
+??? note "Abstract"
+    Locally advanced head and neck carcinoma remains associated with high morbidity and long-term survival below 50%. Treatment commonly relies on cisplatin-based chemoradiotherapy, which is effective but frequently associated with significant acute and chronic systemic toxicities. Therefore, safer and more effective therapeutic strategies are urgently needed. FLASH radiotherapy (RT) has emerged as a promising irradiation modality because of its potential to reduce damage to healthy tissues while preserving antitumor efficacy. Here, we investigated the anticancer activity of the Topoisomerase (Topo)-II inhibitor ARN-24139, alone and combined with FLASHRT, in human papillomavirus-negative SCC-25 head and neck carcinoma biomodels. Antitumor activity was assessed in 2D cell cultures using viability, apoptosis, clonogenic, wound-healing, and γH2AX assays, as well as in SCC-25 3D spheroids and in chorioallantoic membrane (CAM) tumor models. ARN-24139 induced dose-dependent cytotoxicity in SCC-25 cells, with IC50 values of 7.3 ± 0.8 µM at 48 h and 7.2 ± 0.5 µM at 72 h, while showing limited toxicity in healthy HBEpC cells. Sequential low-dose FLASH-RT followed by ARN-24139 enhanced antitumor activity, reducing cell viability at 4 Gy after 8 days and decreasing tumor growth and Ki67 expression in CAM models. These proof-of-concept findings support further investigation in more clinically representative and mechanistically informative HNSCC models.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42688459/) · [DOI](https://doi.org/10.1002/mco2.70937) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13535334/)
+
 
 ---
 
@@ -67,7 +86,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 ??? note "Abstract"
-    PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
+    PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42633859/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111747)
@@ -1451,29 +1470,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41257326/) · [DOI](https://doi.org/10.1667/RADE-23-00181.1)
-
-
----
-
-### Flash Photodynamic Therapy - How the Saturation of Photosensitizer Absorption Enables Selective and Deeper Tumor Treatments.
-
-*Arnaut LG, Schaberle FA, Sereno J, Gomes-da-Silva LC* — Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** FLASH therapies are attracting tremendous interest because they spare normal tissues while maintaining tumor-destroying efficacy, when compared with continuous delivery of radiation. In Photodynamic Therapy (PDT), it has been noted that continuous-wave and pulsed lasers give comparable results for a variety of tumors, but the conditions for increased tumor-to-peritumoral tissue selectivity have ne…
-
-
-??? abstract "Summary — AI-generated, curator-reviewed"
-    This study addresses FLASH-PDT (photodynamic therapy), not ionizing radiation, using pulsed laser light in combination with photosensitizers, including redaporfin. The authors present a model showing that photosensitizer absorption must be saturated for pulsed light delivery to produce a FLASH-like sparing effect, and that the number of laser pulses governs the balance between tumor destruction and normal-tissue sparing. Predictions are tested in subcutaneous CT26 and orthotopic 4T1 murine tumor models, with FLASH-PDT using redaporfin reported to increase overall survival in mice bearing 4 mm orthotopic 4T1 tumors with lung metastasis. The authors report that FLASH-PDT permits order-of-magnitude higher drug or light doses without normal-tissue toxicity, enabling deeper and more selective tumor treatment compared with continuous-wave delivery.
-
-
-??? note "Abstract"
-    FLASH therapies are attracting tremendous interest because they spare normal tissues while maintaining tumor-destroying efficacy, when compared with continuous delivery of radiation. In Photodynamic Therapy (PDT), it has been noted that continuous-wave and pulsed lasers give comparable results for a variety of tumors, but the conditions for increased tumor-to-peritumoral tissue selectivity have never been reported. This work presents a model that explains how pulsed lasers, in combination with photosensitizers, can offer selective and in-depth tumor ablation. It is shown that the photosensitizer absorption must be saturated to obtain the FLASH effect. The importance of the number of laser pulses to destroy tumor tissue and spare normal tissue is demonstrated. The predictions of the model and the superiority of FLASH-PDT are validated with the treatment of subcutaneous CT26 and orthotopic 4T1 tumors models. Notably, FLASH-PDT with redaporfin significantly increases the overall survival of mice with 4 mm orthotopic 4T1 tumors and lung metastasis. FLASH-PDT allows for the use of order-of-magnitude higher drug or light doses without affecting healthy tissues, while promoting selective and deeper tumor treatments.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41241814/) · [DOI](https://doi.org/10.1002/advs.202513199) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12767129/)
 
 
 ---
@@ -5175,25 +5171,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Influence of the Hypersensitivity to Low Dose Phenomenon on the Tumor Response to Hypofractionated Stereotactic Body Radiation Therapy.
-
-*Le Reun E, Granzotto A, Pêtre A, Bodgi L, Beldjoudi G, Lacornerie T et al.* — Cancers (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Stereotactic body radiation therapy (SBRT) has made the hypofractionation of high doses delivered in a few sessions more acceptable. While the benefits of hypofractionated SBRT have been attributed to additional vascular, immune effects, or specific cell deaths, a radiobiological and mechanistic model is still needed.
-
-
-??? note "Abstract"
-    Stereotactic body radiation therapy (SBRT) has made the hypofractionation of high doses delivered in a few sessions more acceptable. While the benefits of hypofractionated SBRT have been attributed to additional vascular, immune effects, or specific cell deaths, a radiobiological and mechanistic model is still needed. By considering each session of SBRT, the dose is divided into hundreds of minibeams delivering some fractions of Gy. In such a dose range, the hypersensitivity to low dose (HRS) phenomenon can occur. HRS produces a biological effect equivalent to that produced by a dose 5-to-10 times higher. To examine whether HRS could contribute to enhancing radiation effects under SBRT conditions, we exposed tumor cells of different HRS statuses to SBRT. Four human HRS-positive and two HRS-negative tumor cell lines were exposed to different dose delivery modes: a single dose of 0.2 Gy, 2 Gy, 10 × 0.2 Gy, and a single dose of 2 Gy using a non-coplanar isocentric minibeams irradiation mode were delivered. Anti-γH2AX immunofluorescence, assessing DNA double-strand breaks (DSB), was applied. In the HRS-positive cells, the DSB produced by 10 × 0.2 Gy and 2 Gy, delivered by tens of minibeams, appeared to be more severe, and they provided more highly damaged cells than in the HRS-negative cells, suggesting that more severe DSB are induced in the &quot;SBRT modes&quot; conditions when HRS occurs in tumor. Each SBRT session can be viewed as hyperfractionated dose delivery by means of hundreds of low dose minibeams. Under current SBRT conditions (i.e., low dose per minibeam and not using ultra-high dose-rate), the response of HRS-positive tumors to SBRT may be enhanced significantly. Interestingly, similar conclusions were reached with HRS-positive and HRS-negative untransformed fibroblast cell lines, suggesting that the HRS phenomenon may also impact the risk of post-RT tissue overreactions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37568795/) · [DOI](https://doi.org/10.3390/cancers15153979) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10416967/)
-
-
----
-
 ### Deep learning-based Fast Volumetric Image Generation for Image-guided Proton FLASH Radiotherapy.
 
 *Chang CW, Lei Y, Wang T, Tian S, Roper J, Lin L et al.* — Research square (2023)  
@@ -7361,25 +7338,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Janus Graphene Liquid Crystalline Fiber with Tunable Properties Enabled by Ultrafast Flash Reduction.
-
-*Kim IH, Im TH, Lee HE, Jang JS, Wang HS, Lee GY et al.* — Small (Weinheim an der Bergstrasse, Germany) (2019)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Flash photothermal treatment via Xenon lamp with a broad wavelength spectrum can effectively remove oxygen functionalities and restore sp2 domains at graphitic carbon materials. The chemical composition and relevant structure formation of flash reduced graphene oxide liquid crystal (GOLC) fibers are investigated in accordance with flash irradiation conditions.
-
-
-??? note "Abstract"
-    Flash photothermal treatment via Xenon lamp with a broad wavelength spectrum can effectively remove oxygen functionalities and restore sp2 domains at graphitic carbon materials. The chemical composition and relevant structure formation of flash reduced graphene oxide liquid crystal (GOLC) fibers are investigated in accordance with flash irradiation conditions. Owing to the spatial controllability of reduction level via anisotropic flash irradiation, the mechanical properties and electrical conductivity of graphene fibers can be delicately counterbalanced to attain desired properties. High sensitivity humidity sensors can be fabricated from the flash reduced fibers demonstrating notably higher sensitivity over the thermally reduced counterparts. This ultrafast flash reduction holds great promise for multidimensional macroscopic GO based structures, enabling a wide range of potential applications, including textile electronics and wearable sensors.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/31259486/) · [DOI](https://doi.org/10.1002/smll.201901529)
-
-
----
-
 ### Reduced cognitive deficits after FLASH irradiation of whole mouse brain are associated with less hippocampal dendritic spine loss and neuroinflammation.
 
 *Simmons DA, Lartey FM, Schüler E, Rafat M, King G, Kim A et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)  
@@ -7587,25 +7545,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Evaluation of the Flash effect in breast irradiation using TomoDirect: an investigational study.
-
-*Kang DG, Park SI, Kim SH, Chung MJ, Lee KM, Lee JH* — Journal of radiation research (2015)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Flash is a specified function in TomoDirect that enables beam expansion by opening additional leaves to the target. This study assessed the theoretical dose distribution resulting from Flash in breast irradiation using TomoDirect.
-
-
-??? note "Abstract"
-    Flash is a specified function in TomoDirect that enables beam expansion by opening additional leaves to the target. This study assessed the theoretical dose distribution resulting from Flash in breast irradiation using TomoDirect. A cylindrical phantom that enabled dose distribution of the breast was used for verifying the effect of planning target volume (PTV) contouring and Flash. A total of 18 Gy in 10 fractions were prescribed to the PTV. Five PTVs were then created by Contracting this contour by 0, 1, 2, 3, 4 and 5 mm, giving PTV-x. Flash ±x is defined by opening x (number) of the leaves. The Flash effect in the air was compared with each set-up error of 5, 10 and 15 mm, respectively. The minimum PTV dose from PTV-1 to PTV-3 increased from 13.88 Gy to 15.86 Gy. In contrast, Dmin in PTV-4 and PTV-5 was 17.80 Gy in 98.88% of the prescription dose. Without Flash, when 5-, 10- and 15-mm set-up errors applied in the PTV, relative doses of 87.88, 23.73 and 7.94% were observed, respectively. However, in Flash 3, which was equal to the usual air margin of 1.875 cm, a relative dose of 104.24% ± 0.30% was observed, irrespective of set-up errors (5 mm to 15 mm). Flash opening is useful for countervailing set-up errors in breast cancer patients who receive breast irradiation with TomoDirect.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/25672612/) · [DOI](https://doi.org/10.1093/jrr/rru118) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4380062/)
-
-
----
-
 ### Comparison study of in vivo dose response to laser-driven versus conventional electron beam.
 
 *Oppelt M, Baumann M, Bergmann R, Beyreuther E, Brüchner K, Hartmann J et al.* — Radiation and environmental biophysics (2015)  
@@ -7659,44 +7598,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/24524347/) · [DOI](https://doi.org/10.1667/RR13464.1)
-
-
----
-
-### Experimental investigation of a local recirculation photobioreactor for mass cultures of photosynthetic microorganisms.
-
-*Moroni M, Cicci A, Bravi M* — Water research (2014)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The present work deals with the experimental fluid mechanics analysis of a wavy-bottomed cascade photobioreactor, to characterize the extent and period of recirculatory and straight-flowing streams establishing therein as a function of reactor inclination and liquid flow rate. The substream characterization via Feature Tracking (FT) showed that a local recirculation zone establishes in each vane o…
-
-
-??? note "Abstract"
-    The present work deals with the experimental fluid mechanics analysis of a wavy-bottomed cascade photobioreactor, to characterize the extent and period of recirculatory and straight-flowing streams establishing therein as a function of reactor inclination and liquid flow rate. The substream characterization via Feature Tracking (FT) showed that a local recirculation zone establishes in each vane only at inclinations ≤6° and that its location changes from the lower (≤3°) to the upper part of each vane (6°). A straight-flowing stream flows opposite (above or below) the local recirculation stream. The recirculation time ranges from 0.86 s to 0.23 s, corresponding, respectively, to the minimum flow rate at the minimum inclination and to the maximum flow rate at the maximum inclination where recirculation was observed. The increase of photosynthetic activity, resulting from the entailed &quot;flash effect&quot;, was estimated to range between 102 and 113% with respect to equivalent tubular and bubble column photobioreactors.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/24447955/) · [DOI](https://doi.org/10.1016/j.watres.2013.12.033)
-
-
----
-
-### Liquid crystal display screens as stimulators for visually evoked potentials: flash effect due to delay in luminance changes.
-
-*Matsumoto CS, Shinoda K, Matsumoto H, Funada H, Minoda H, Mizota A* — Documenta ophthalmologica. Advances in ophthalmology (2013)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The cathode-ray tube (CRT) screen has recently been replaced by liquid crystal display (LCD) screens as visual stimulators for pattern-reversal visually evoked potentials (p-VEPs). The aim of the study was to evaluate the usefulness of LCD screen to elicit p-VEPs.
-
-
-??? note "Abstract"
-    PURPOSE: The cathode-ray tube (CRT) screen has recently been replaced by liquid crystal display (LCD) screens as visual stimulators for pattern-reversal visually evoked potentials (p-VEPs). The aim of the study was to evaluate the usefulness of LCD screen to elicit p-VEPs. METHODS: The waveforms of the p-VEPs elicited by a LCD panel were compared with those elicited by a conventional CRT screen. The changes in the luminance of each screen were measured with a photodiode, and the mean luminance change was measured with a luminance meter. VEPs and electroretinograms (ERGs) were also recorded when the monitor was covered by a diffuser. RESULTS: The p-VEPs elicited by the LCD consisted of the N75 and P100 components of the conventional VEPs and had good reproducibility. The average latency of these components was significantly delayed by 9.8 ms for N75 and 10.2 ms for P100, and the N75-P100 amplitude was significantly larger than the conventional p-VEP elicited by the CRT screen. During the reversal phase, especially from black-to-white, the luminance of the LCD screen was transiently reduced, and it elicited a flash VEP and ERG. A reduction in the contrast of the checks minimized the transient change in the luminance, and the VEP waveform was more similar to that elicited by the CRT screen. CONCLUSIONS: The results suggest that when an LCD monitor is used as an alternative visual stimulator to elicit p-VEPs, the delay in the luminance change and the flash effect needs to be taken into account.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/23690204/) · [DOI](https://doi.org/10.1007/s10633-013-9387-9)
 
 
 ---
@@ -7758,44 +7659,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Flash reduction and patterning of graphite oxide and its polymer composite.
-
-*Cote LJ, Cruz-Silva R, Huang J* — Journal of the American Chemical Society (2009)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Graphite oxide (GO) is a promising precursor for the bulk production of graphene-based materials due to its relatively low cost of synthesis. The superior solvent processability of GO makes it particularly attractive for making composites by premixing with other materials.
-
-
-??? note "Abstract"
-    Graphite oxide (GO) is a promising precursor for the bulk production of graphene-based materials due to its relatively low cost of synthesis. The superior solvent processability of GO makes it particularly attractive for making composites by premixing with other materials. Typically, the reduction of GO has relied on either chemical agents or high temperature treatment. Here we report a room temperature, chemical-free flash reduction process where a photographic camera flash instantaneously triggers the deoxygenation reaction of GO by photothermal heating. Flash irradiation also rapidly creates a fused polymer composite from a random mixture of GO and polymer particles. Using a photomask, conducting patterns such as interdigitated electrode arrays can be readily made on flexible substrates.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/19601624/) · [DOI](https://doi.org/10.1021/ja902348k)
-
-
----
-
-### What does the illusory-flash look like?
-
-*McCormick D, Mamassian P* — Vision research (2008)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** In the illusory-flash effect (Shams, L., Kamitani, Y., &amp; Shimojo, S. (2000).
-
-
-??? note "Abstract"
-    In the illusory-flash effect (Shams, L., Kamitani, Y., &amp; Shimojo, S. (2000). Illusions. What you see is what you hear. Nature, 408, 788), one flash presented with two tones has a tendency to be seen as two flashes. Previous studies of this effect have been ill-equipped to establish whether this illusory-flash is the result of a genuine percept, or that of a shift in criterion. We addressed this issue by using a stimulus comprising two locations. This enabled contrast-threshold measurement by means of a location detection task. High-contrast white or black flashes were presented simultaneously to both locations, followed by threshold contrast flashes of the same contrast polarity at the two locations in half of the trials; observers reported whether or not the low-contrast flashes had been present. Irrelevant to the task, half of the trials contained one tone, the other half contained two tones. In this way, we were able to compute the change in sensitivity and shift in criterion between illusory and non-illusory trials. We observe both a decrease in visual sensitivity and a criterion shift in the illusory-flash conditions. In a second experiment, we were interested in determining whether this change in visual sensitivity gave rise to measurable visual attributes of the illusory-flash. If it has a contrast, it should interact with a spatio-temporally concurrent real flash. Using a similar two-location stimulus presentation, we found that under certain conditions, we were able to infer the polarity of the perceived illusory-flash. We conclude that the illusory-flash is indeed a perceptual effect with psychophysically assessable characteristics.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/18054372/) · [DOI](https://doi.org/10.1016/j.visres.2007.10.010)
-
-
----
-
 ### \[Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor\].
 
 *Sevan&#x27;kaev AV, Potetnia OI, Potetnia VI, Koriakina EV, Pozdyshkina OV, Piatenko VS* — Radiatsionnaia biologiia, radioecologiia (2007)  
@@ -7811,44 +7674,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18380325/)
-
-
----
-
-### Speech and non-speech audio-visual illusions: a developmental study.
-
-*Tremblay C, Champoux F, Voss P, Bacon BA, Lepore F, Théoret H* — PloS one (2007)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** It is well known that simultaneous presentation of incongruent audio and visual stimuli can lead to illusory percepts. Recent data suggest that distinct processes underlie non-specific intersensory speech as opposed to non-speech perception.
-
-
-??? note "Abstract"
-    It is well known that simultaneous presentation of incongruent audio and visual stimuli can lead to illusory percepts. Recent data suggest that distinct processes underlie non-specific intersensory speech as opposed to non-speech perception. However, the development of both speech and non-speech intersensory perception across childhood and adolescence remains poorly defined. Thirty-eight observers aged 5 to 19 were tested on the McGurk effect (an audio-visual illusion involving speech), the Illusory Flash effect and the Fusion effect (two audio-visual illusions not involving speech) to investigate the development of audio-visual interactions and contrast speech vs. non-speech developmental patterns. Whereas the strength of audio-visual speech illusions varied as a direct function of maturational level, performance on non-speech illusory tasks appeared to be homogeneous across all ages. These data support the existence of independent maturational processes underlying speech and non-speech audio-visual illusory effects.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17710142/) · [DOI](https://doi.org/10.1371/journal.pone.0000742) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1937019/)
-
-
----
-
-### Early cross-modal interactions in auditory and visual cortex underlie a sound-induced visual illusion.
-
-*Mishra J, Martinez A, Sejnowski TJ, Hillyard SA* — The Journal of neuroscience : the official journal of the Society for Neuroscience (2007)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** When a single flash of light is presented interposed between two brief auditory stimuli separated by 60-100 ms, subjects typically report perceiving two flashes (Shams et al., 2000, 2002). We investigated the timing and localization of the cortical processes that underlie this illusory flash effect in 34 subjects by means of 64-channel recordings of event-related potentials (ERPs).
-
-
-??? note "Abstract"
-    When a single flash of light is presented interposed between two brief auditory stimuli separated by 60-100 ms, subjects typically report perceiving two flashes (Shams et al., 2000, 2002). We investigated the timing and localization of the cortical processes that underlie this illusory flash effect in 34 subjects by means of 64-channel recordings of event-related potentials (ERPs). A difference ERP calculated to isolate neural activity associated with the illusory second flash revealed an early modulation of visual cortex activity at 30-60 ms after the second sound, which was larger in amplitude in subjects who saw the illusory flash more frequently. These subjects also showed this early modulation in response to other combinations of auditory and visual stimuli, thus pointing to consistent individual differences in the neural connectivity that underlies cross-modal integration. The overall pattern of cortical activity associated with the cross-modally induced illusory flash, however, differed markedly from that evoked by a real second flash. A trial-by-trial analysis showed that short-latency ERP activity localized to auditory cortex and polymodal cortex of the temporal lobe, concurrent with gamma bursts in visual cortex, were associated with perception of the double-flash illusion. These results provide evidence that perception of the illusory second flash is based on a very rapid dynamic interplay between auditory and visual cortical areas that is triggered by the second sound.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/17428990/) · [DOI](https://doi.org/10.1523/JNEUROSCI.4912-06.2007) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2905511/)
 
 
 ---
@@ -7910,44 +7735,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Quantitative tissue perfusion measurements in head and neck carcinoma patients before and during radiation therapy with a non-invasive MR imaging spin-labeling technique.
-
-*Schmitt P, Kotas M, Tobermann A, Haase A, Flentje M* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2003)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Tumor blood flow, tumor tissue perfusion and oxygen supply have substantial influence on the responsiveness of tumors to radiotherapy. This study was aimed at implementing and evaluating a non-invasive functional magnetic resonance (MR) imaging spin-labeling technique at a main magnetic field strength of 2T for measuring tissue perfusion changes in head and neck carcinoma patients before and durin…
-
-
-??? note "Abstract"
-    PURPOSE: Tumor blood flow, tumor tissue perfusion and oxygen supply have substantial influence on the responsiveness of tumors to radiotherapy. This study was aimed at implementing and evaluating a non-invasive functional magnetic resonance (MR) imaging spin-labeling technique at a main magnetic field strength of 2T for measuring tissue perfusion changes in head and neck carcinoma patients before and during radiotherapy. METHODS: Tissue perfusion was determined quantitatively in ten patients with head and neck cancer. Five patients were investigated twice during radiation therapy. For perfusion measurements, a non-invasive MR spin-labeling technique was employed: The longitudinal relaxation time T(1) was measured with segmented Snapshot-FLASH imaging after either slice-selective or non-selective spin inversion. Perfusion values were calculated pixelwise employing a two-compartment tissue model. With this technique no contrast agents are required so that repetitive measurements are possible. Perfusion images with a slice thickness of 10mm and an in-plane resolution of 1.9x2.8mm(2) were acquired at a total scan time of 8:30min per scan. RESULTS: With the non-invasive MR imaging technique it was possible to visualize tumor and normal tissue perfusion as well as perfusion changes in the course of radiotherapy with a spatial resolution of less than 3mm. Among the investigated subjects measured tumor perfusion and changes in perfusion were heterogenous. In 4/5 patients studied at the start and end of radiotherapy, perfusion decreased, while in one patient there was an increase. CONCLUSIONS: A method is presented that allows non-invasive and repetitive characterization of tissue perfusion. This parameter may be used for treatment stratification, especially in treatments that use vasomodulation or anti-angiogenic agents.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/12758237/) · [DOI](https://doi.org/10.1016/s0167-8140(03)00024-0)
-
-
----
-
-### \[Drugs and drug abusers\].
-
-*Schlatter J, Sitbon N, Saulnier JL* — Presse medicale (Paris, France : 1983) (2001)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Drugs are widely used by toxicomaniacs to reproduce drug effects. Drug abusers generally start with psychotrops, but other abuse drug classes.
-
-
-??? note "Abstract"
-    DRUG ABUSERS: Drugs are widely used by toxicomaniacs to reproduce drug effects. Drug abusers generally start with psychotrops, but other abuse drug classes. Toxicomanic behavior leads to addictive practices that are difficult to control. BARBITURATES: Both the oral and intravenous routes are used. The expected result is a state of ecstasy with a feeling of comfort. Intoxication may cause respiratory depression. Barbiturates induce physical and psychic dependence. Abuse is not widespread with this class of drugs. BENZODIAZEPINES: Drug abuses widely use benzodiazepines orally or intravenously. They search for a flash effect, with sedation and a feeling of comfort. All benzodiazepines induce physical and psychic dependence. Death may result from combinations leading to respiratory depression. Flunitrazepam is the most widely abused benzodiazepine in France. It induces serious neuropsychic disorders. ANTIDEPRESSANTS: Few are used, mostly at high doses. OPIATES: Administration gives the same effect as heroine injection. Opiates induce physical and psychic dependence. The adverse effects are similar to those of morphine with a higher risk of respiratory depression. AMPHETAMINES: Few are used, either orally or intravenously. They induce a flash with excitation, euphoria, and a period of invincibility. This is followed by a period of depression with risk of suicide. Psychic dependence is high. ANTICHOLINERGIC ANTIPARKINSONIANS: These drugs are well known to abusers for their hallucinatory effect. They induce atropinic adverse effects and physical and psychic dependence. GAMMA-HYDROXYBUTYRATE: This anesthetic is used for its euphoria and sedation effects. It may induce falling sickness or coma, with a risk of respiratory depression. KETAMINE: Administered via the intranasal route, ketamine induces a state of indifference. Death has been observed. ANABOLIC AND ANDROGENIC STEROIDS: These drugs are used for their physical and psychic stimulating effect. They induce potentially dangerous adverse effects such as cardiovascular, hepatic, neurological and psychiatric disorders. Clinical signs of addiction and weaning are observed. OTHERS: Several other drug classes are used by abusers, including analgics, beta-adrenergic agents, nasal vasoconstrictors and corticosteroids.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11252979/)
-
-
----
-
 ### \[Comparative study of chromosome aberration formation in lymphocytes culture under pulsed and continuous neutron irradiation\].
 
 *Pozdyshkina OV, Sevan&#x27;kaev AV, Obaturov GM* — Radiatsionnaia biologiia, radioecologiia (2000)  
@@ -7986,44 +7773,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### \[Contrast medium assisted dynamic MR-mammography after diagnostic and therapeutic interventions on the breast\].
-
-*Fischer U, Vosshenrich R, Kopka L, Kahlen O, Grabbe E* — Bildgebung = Imaging (1996)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** In a retrospective study, the authors evaluated the signal behavior of 150 patients after intervention in the breast (40 fine-needle biopsies, 10 core biopsies, 50 open biopsies, 50 tumor-ectomies with additional irradiation therapy). The MR imaging was performed on 1.5-Tesla whole-body scanners using T1-WI GRE sequences in 2D FLASH technique before and 5 times after i.v.
-
-
-??? note "Abstract"
-    In a retrospective study, the authors evaluated the signal behavior of 150 patients after intervention in the breast (40 fine-needle biopsies, 10 core biopsies, 50 open biopsies, 50 tumor-ectomies with additional irradiation therapy). The MR imaging was performed on 1.5-Tesla whole-body scanners using T1-WI GRE sequences in 2D FLASH technique before and 5 times after i.v. application of 0.1 mmol gadopentetate-dimeglumine per kg body weight. There was no signal enhancement after fine-needle biopsy. Hematoma due to core biopsy caused signal increase in every 5th patient. Enhancement after open biopsy was no more visible 6 months postoperatively. 12 months after tumorectomy and radiation therapy, most patients showed no more signal enhancement. In conclusion, MR mammography can be performed after fine-needle biopsy without problems. In case of core biopsy, hematoma should be excluded by sonography before. MR mammography should not be performed within 6 months after open biopsy, or within 12 months after tumorectomy and radiation therapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/8756151/)
-
-
----
-
-### Digital subtraction in Gd-DTPA enhanced imaging of the breast.
-
-*Flanagan FL, Murray JG, Gilligan P, Stack JP, Ennis JT* — Clinical radiology (1995)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** This study examines the role of digital subtraction magnetic resonance imaging (MRI) of the breast in the interpretation of the morphology and characteristics of breast disease. METHODS: Thirty-one patients with an abnormal mammogram or clinically palpable abnormality underwent MRI of the breast prior to surgical excision of the lesion.
-
-
-??? note "Abstract"
-    PURPOSE: This study examines the role of digital subtraction magnetic resonance imaging (MRI) of the breast in the interpretation of the morphology and characteristics of breast disease. METHODS: Thirty-one patients with an abnormal mammogram or clinically palpable abnormality underwent MRI of the breast prior to surgical excision of the lesion. FLASH 3-D images of the breast were acquired before and after IV contrast injection of Gd-DTPA. Digital subtraction was performed on selected images. The images were independently assessed by two radiologists experienced in both mammography and MRI. RESULTS: Accurate diagnosis was possible in 29 out of 31 patients using the subtraction technique compared to 23 cases using the pre-subtraction images alone. The actual extent of disease and multicentricity were also better appreciated on the subtracted image. Subtraction also provided better identification of tumour recurrence in the post-operative and post-radiotherapy breast. Chest wall and lymph node involvement were more easily appreciated on the subtraction images. CONCLUSION: Digital subtraction is a simple, effective and relatively cheap technique which can aid in the interpretation of magnetic resonance imaging of the breast.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/8536396/) · [DOI](https://doi.org/10.1016/s0009-9260(05)83106-x)
-
-
----
-
 ### The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
 
 *Cygler J, Klassen NV, Ross CK, Bichay TJ, Raaphorst GP* — Radiation research (1994)  
@@ -8039,139 +7788,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/7938458/)
-
-
----
-
-### The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
-
-*Lachapelle P, Benoit J, Blain L, Guité P, Roy MS* — Vision research (1990)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Previous studies reported that the oscillatory potentials (OPs) evoked to the first flash of a series were always smaller than those produced by the later flashes. This conditioning flash effect (CFE) was suggested to arise from rod inhibition of cone-mediated OPs.
-
-
-??? note "Abstract"
-    Previous studies reported that the oscillatory potentials (OPs) evoked to the first flash of a series were always smaller than those produced by the later flashes. This conditioning flash effect (CFE) was suggested to arise from rod inhibition of cone-mediated OPs. We investigated this CFE with the use of two stimulus intensities: 10 cd sec m-2 and 1 cd sec m-2. While the highest intensity did yield the previously reported CFE, the dimmest intensity did not. Our results further indicated that with the brightest stimulus, there is a significant increase in the interpeak interval of the OPs, while dimmest stimuli failed to reveal a similar marked increase. We also noted a significant correlation between the frequency domain of the OPs (as estimated with the interpeak interval) and the amplitude of the OPs (individual or collective: SOPs). Our results would also suggest that the observed CFE could result from a cone inhibition of rod-mediated OPs.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2339504/) · [DOI](https://doi.org/10.1016/0042-6989(90)90062-p)
-
-
----
-
-### Two pulses seen as three flashes: a superposition analysis.
-
-*Bowen RW* — Vision research (1989)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** If a single brief light pulse follows the offset of a light field by 0.1-0.3 sec, the pulse is seen as a double flash. This &quot;double flash effect&quot; is a suprathreshold phenomenon: the pulse must exceed detection threshold by 10 times or more for this temporal illusion to occur.
-
-
-??? note "Abstract"
-    If a single brief light pulse follows the offset of a light field by 0.1-0.3 sec, the pulse is seen as a double flash. This &quot;double flash effect&quot; is a suprathreshold phenomenon: the pulse must exceed detection threshold by 10 times or more for this temporal illusion to occur. A special case of this effect is demonstrated here: two brief, high-luminance pulses separated by 0.1 sec appear as three flashes. In a superposition analysis, hypothetical impulse response functions were added together with various delays to model flash perception. A biphasic impulse response (congruent with threshold flicker and pulse sensitivity) fails to predict perception of three flashes from two pulses. The analysis instead suggests that the visual response to a suprathreshold pulse has several alternating phases of excitation and inhibition.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/2781731/) · [DOI](https://doi.org/10.1016/0042-6989(89)90005-9)
-
-
----
-
-### Laser-induced chromatic adaptation.
-
-*Schmeisser ET* — American journal of optometry and physiological optics (1988)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Detecting a target in a visually noisy back-ground depends on the ability of the observer to discriminate the target from the surrounding terrain. Visible laser irradiation at less than damage levels may act as a masking source by reducing the observer&#x27;s ability to resolve differences in the visual scene.
-
-
-??? note "Abstract"
-    Detecting a target in a visually noisy back-ground depends on the ability of the observer to discriminate the target from the surrounding terrain. Visible laser irradiation at less than damage levels may act as a masking source by reducing the observer&#x27;s ability to resolve differences in the visual scene. The experiment reported here specifically investigates the comparability of shuttered CW and Q-switched visible lasers to alter/degrade color discrimination. Visual evoked potentials (VEP&#x27;s) were used to examine the short time course effects in monkeys of luminance-matched flashes from a 694 nm ruby Q-switched laser and 100 ms shuttered krypton CW laser (676, 568, and 531 nm lines). The test stimulus was a shifting pattern of alternating luminance-matched 510 and 550 nm green bars. With flashes equated to 4.8 log T-s, similar flash effect curves were seen, demonstrating 1.5-s changes in response magnitude. This level of flash did not extinguish the response to the stimulus. The flash effects curve was &quot;W&quot;-shaped, with an intermediate signal peak occurring at approximately 500 ms after the flash and whose level exceeded the baseline magnitude. The hypothesized mechanism for this result is an induced luminance imbalance caused by a transient shift in the peak color responsiveness of the visual system, which recovers with two different time constants. It is concluded that red and green colored laser flashes shift the color balance transiently in the visual system (yellow flashes to a lesser extent); thus, targets may change both hue and brightness after an observer receives colored flashes.(ABSTRACT TRUNCATED AT 250 WORDS)
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3177590/) · [DOI](https://doi.org/10.1097/00006324-198808000-00009)
-
-
----
-
-### Cone interaction occurs in the parafovea under pi 4 stimulus conditions.
-
-*Haegerstrom-Portnoy G, Verdon W, Adams AJ* — Vision research (1988)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** This study shows that stimulus parameters that isolate Stiles&#x27; pi 4 mechanism at the fovea do not isolate pi 4 parafoveally. Instead, the parafoveal test sensitivity peaks at 520 nm and is relatively depressed at longer wavelengths.
-
-
-??? note "Abstract"
-    This study shows that stimulus parameters that isolate Stiles&#x27; pi 4 mechanism at the fovea do not isolate pi 4 parafoveally. Instead, the parafoveal test sensitivity peaks at 520 nm and is relatively depressed at longer wavelengths. This narrowed spectral sensitivity is not due to rod intrusion or interaction but rather suggests cone interaction for a relatively wide range of spatial and temporal parameters. The anomalous shape of the parafoveal spectral sensitivity is not found in a protanope, further supporting the view that the effect seen in normal trichromats is the result of interaction between L and M cones. The study provides a unifying explanation for discrepant results by investigators studying the chromatic properties of spatial sensitization and the contrast after-flash effect. Foveal studies found independence of pi mechanisms while parafoveal studies found interaction. The present study emphasizes the importance of retinal eccentricity on color threshold experiments.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3188403/) · [DOI](https://doi.org/10.1016/0042-6989(88)90182-4)
-
-
----
-
-### Rod and cone system contributions to oscillatory potentials: an explanation for the conditioning flash effect.
-
-*Peachey NS, Alexander KR, Fishman GA* — Vision research (1987)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The oscillatory potentials (OPs) of the human electroretinogram (ERG) are smaller in response to the initial flash of a series than to subsequent flashes. To investigate a possible rod system contribution to this &quot;conditioning flash effect,&quot; we have examined OPs in normals and rod monochromats.
-
-
-??? note "Abstract"
-    The oscillatory potentials (OPs) of the human electroretinogram (ERG) are smaller in response to the initial flash of a series than to subsequent flashes. To investigate a possible rod system contribution to this &quot;conditioning flash effect,&quot; we have examined OPs in normals and rod monochromats. The OPs recorded from rod monochromats were similar to those recorded from normals under test conditions that selectively stimulate rods. However, under conditions that in normals stimulate both rods and cones and that result in maximal amplitude of the OPs, the rod monochromats exhibit markedly reduced OPs. This finding suggests that the initial (conditioning) flash operates by adapting the rod system contribution to the OPs, so that the OPs in response to subsequent flashes result primarily from the cone system. In agreement with this hypothesis, the conditioning flash effect did not occur when flashes were presented against a background which eliminated the rod system response nor during the cone plateau phase of dark adaptation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3499028/) · [DOI](https://doi.org/10.1016/0042-6989(87)90002-2)
-
-
----
-
-### Lightning injury caused by discharges accompanying flashovers--a clinical and experimental study of death and survival.
-
-*Ohashi M, Kitagawa N, Ishikawa T* — Burns, including thermal injury (1986)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** During the 17 years preceding March 1985, 140 patients sustained lightning injuries caused by 44 thunderbolts. Fifty patients showed evidence of current flow through their bodies.
-
-
-??? note "Abstract"
-    During the 17 years preceding March 1985, 140 patients sustained lightning injuries caused by 44 thunderbolts. Fifty patients showed evidence of current flow through their bodies. These 50 victims were classified into two groups, the first consisting of 9 victims who showed rupture of their clothes or linear superficial dermal burns along their whole bodies from head to feet, indicating the occurrence of surface flashovers. The remaining 41 patients showed no evidence of this flash effect. It is noteworthy that in the first group 5 of the 9 survived, whereas in the second group only 6 among 41 survived. The result indicates that when a flashover occurs along the whole body, the probability of survival is higher than 50 per cent. The conditions which determine death or survival were investigated experimentally, imposing artificial lightning voltage impulses on rats and developing flashovers on them. The rats survived when the voltage drop caused by flashover occurred immediately after the peak point, and the current waveform exhibited a sharp peak. In contrast, the rats were killed when the voltage drop caused by flashover was delayed by more than 20 microseconds, and the current waveform showed a blunt cone shape. It has been concluded that a fast flashover appreciably diminishes the energy dissipation within the body and consequently results in survival.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/3779473/) · [DOI](https://doi.org/10.1016/0305-4179(86)90076-8)
-
-
----
-
-### Visual evoked potential correlates of laser flashblindness in rhesus monkeys I. Argon laser flashes.
-
-*Previc FH, Blankenstein MF, Garcia PV, Allen RG* — American journal of optometry and physiological optics (1985)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The visual evoked potential (VEP) in four rhesus monkeys was used to assess the transient loss of visual function resulting from single 100-ms argon laser flashes (476.5 and 514.5 nm) whose energy levels did not exceed the maximum permissible exposure (MPE). VEP&#x27;s were elicited by high-contrast square-wave test gratings which were phase-reversed at a frequency of 6 Hz, and were recorded using bipo…
-
-
-??? note "Abstract"
-    The visual evoked potential (VEP) in four rhesus monkeys was used to assess the transient loss of visual function resulting from single 100-ms argon laser flashes (476.5 and 514.5 nm) whose energy levels did not exceed the maximum permissible exposure (MPE). VEP&#x27;s were elicited by high-contrast square-wave test gratings which were phase-reversed at a frequency of 6 Hz, and were recorded using bipolar electrodes implanted in the foveal projection region of area 17. The parameters which were investigated included (1) flash size (focused vs. expanded), (2) position of the electrode&#x27;s receptive field relative to the position of the flash (0, 1.5, 3.0, and 4.5-deg separation), (3) flash exposure level (50, 5.0, and 0.5% of the MPE), (4) peak wavelength of the test grating (454, 540, and 630 nm), and (5) spatial frequency of the test grating (1.0, 4.0, 6.0, and 12.0 c/deg). The results of the flash-size experiment revealed that the expanded flash, whose retinal diameter was approximately 750 microns, eliminated or severely attenuated the VEP for a longer duration than did the focused flash and also resulted in a more gradual recovery function. The combined results of the flash position and energy level experiments indicated that the effective energy of the focused flash declined rapidly beyond 1.5 deg, but still approximated 4% of its maximum value as far as 4.5 deg from its center. Few, if any, wavelength-specific effects were observed after exposure to either the 476.5- or 514.5-nm flashes, even when the energy of the flashes was reduced to a small fraction of the MPE. Finally, the flash effect was considerably longer in duration for the 12.0 c/deg grating relative to the low and intermediate frequency gratings. In general, the findings suggest that the focused and expanded argon laser flashes produce a VEP suppression whose time course and other characteristics correlate well with those associated with behaviorally observed flashblindness in humans after exposure to intense noncoherent flashes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/4003522/) · [DOI](https://doi.org/10.1097/00006324-198505000-00003)
 
 
 ---
@@ -8214,56 +7830,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### \[Bladder tumors treated with radical cystectomy. Results of 78 cases\].
-
-*Perrin P, Charroin P, Durand L* — Journal d&#x27;urologie (1983)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** The authors present the results of 78 radical cystectomies for bladder tumour, followed up for at least 3 years. All the patients received preoperative pelvic radiotherapy (in general a flash of 5 Gys).
-
-
-??? note "Abstract"
-    UNLABELLED: The authors present the results of 78 radical cystectomies for bladder tumour, followed up for at least 3 years. All the patients received preoperative pelvic radiotherapy (in general a flash of 5 Gys). Urinary derivation was of transintestinal cutaneous ureterostomy type. Surgery was followed by additional radiotherapy of 50 Gys in 9 patients and chemotherapy (adriamycin, Vehem and cis-platinum) in 6. RESULTS: stages 0 and A - 100% survival; stage B - 74%; stage C - 29% and stage D - 30%. Amongst the patients dying as a result of their carcinoma, 25% stage B, 36% stage C and 20% stage D had local recurrences. With regard to the prevention of recurrences, heavy preoperative radiotherapy is not more effective than flash radiotherapy of 5 Gy. For stage D and C patients together, overall survival was 50% at 3 years. Four stage D patients appear to be cured at 3 years, i.e. 17% of the stage D cases. This proves the possibility of &quot;cure&quot; of stage D disease by extended excision and thorough lymph node dissection. Adjuvant chemotherapy may certainly play a role.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/6886460/)
-
-
----
-
-### \[Role of radiotherapy in the treatment of bladder cancer. Comments apropos of 178 cases\].
-
-*Beurton D, Moller M, Cukier J* — Journal d&#x27;urologie (1983)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** In the light of their experience involving 178 patients suffering from carcinoma of the bladder and a study of the literature, the authors attempt to determine the role of radiotherapy in the treatment of carcinoma of the bladder. A number of points emerge: --the possibility of stopping the progression of a recurrent multifocal superficial malignant tumour by 2 flashes of 6.5 Gy; --the efficacy of…
-
-
-??? note "Abstract"
-    In the light of their experience involving 178 patients suffering from carcinoma of the bladder and a study of the literature, the authors attempt to determine the role of radiotherapy in the treatment of carcinoma of the bladder. A number of points emerge: --the possibility of stopping the progression of a recurrent multifocal superficial malignant tumour by 2 flashes of 6.5 Gy; --the efficacy of curative doses of radiotherapy associated with transurethral resection of the tumour in 20% of cases. These figures rise to 50% in anaplastic carcinomas. 20% efficacy of radiotherapy alone without surgery is a high figure. It tends to restore the radiotherapy sensitivity test suggested by R. Couvelaire to its true value; --when combined with excision surgery (partial cystectomy or total prostato-cystectomy), high doses of radiation do not give a better result than limited radiation. In view of the gravity of radiotherapy complications which may occur in up to 20% of cases where high doses of radiation have been administered, the authors would be inclined to limit radiotherapy when treatment of the tumour must be mixed, with surgery. A preoperative flash of 6.5 Gy followed by postoperative radiotherapy up to a total of 45 Gy when partial cystectomy is used. When a decision is made to perform cutaneous implantation of the ureters, the technique should consist of concentrated radiotherapy of 20 Gy in one week followed by excision by total prostato-cystectomy the next week. When urinary bypass is to involve uretero-colonic implantation or bladder replacement, flash radiotherapy of 6.5 Gy once or twice. No additional postoperative radiotherapy. Sandwich radiotherapy is too dangerous.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/6841985/)
-
-
----
-
-### The decrease in the threshold on the dark side of the luminance edge in the after-flash effect.
-
-*Mitsuboshi T, Mitsuboshi M, Torii S* — Vision research (1982)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/7179753/) · [DOI](https://doi.org/10.1016/0042-6989(82)90145-6)
-
-
----
-
 ### Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.
 
 *Michaels HB, Ling CC, Epp ER, Peterson EC* — Radiation research (1981)  
@@ -8272,37 +7838,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/7208811/)
-
-
----
-
-### Visual masking and the contrast-flash effect.
-
-*Alexander KR, Barry SH* — Vision research (1981)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/7269308/) · [DOI](https://doi.org/10.1016/0042-6989(81)90157-7)
-
-
----
-
-### \[Parenteral hyperalimentation and cystoprostatectomy for carcinoma of the bladder (author&#x27;s transl)\].
-
-*Pontonnier F, Plante P, Heulin T* — Journal d&#x27;urologie (1981)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** The authors report a series of 16 total cystoprostatectomies with only one postoperative death. Eleven of these operations, performed with the intention of achieving a complete cure, were carried out after flash radiotherapy of 1.000 rads on the day before surgery and were completed by uretero-sigmoidostomy.
-
-
-??? note "Abstract"
-    The authors report a series of 16 total cystoprostatectomies with only one postoperative death. Eleven of these operations, performed with the intention of achieving a complete cure, were carried out after flash radiotherapy of 1.000 rads on the day before surgery and were completed by uretero-sigmoidostomy. The five palliative operations were completed by direct bilateral cutaneous ureterostomy, the patients having received preoperative radiotherapy of 5 to 6,000 rads. The authors attribute the low postoperative mortality to the value of the energy and protein provided by parenteral hyperalimentation which made it possible to administer to the patient from the day after surgery onwards 1,400 to 2,600 calories per day (60% as carbohydrate and 40% as lipids) and 1 gram/kilo of protein per day. Infusion catheters were inserted under strictly aseptic conditions on the day prior to surgery into the deep main veins by percutaneous puncture of a subclavian vein or cutdown of an external jugular vein, and were kept in place until such time as oral alimentation could ensure an equivalent intake. For the 11 patients undergoing curative surgery, weight loss at the time of discharge was no more than 1 to 2 kilos, a figure to be contrasted with the 7 to 8 kilos before the use of parenteral hyperalimentation. The only death occurred amongst the 5 patients undergoing palliative surgery. In the latter group, the authors were stuck by the uncomplicated postoperative course, and the control of complications such as intestinal obstruction or bacteraemia which was obviously better in veiw of the maintenance of the calorie reserves of the body. All parenteral hyperalimentation was administered in the form of commercial solutions and emulsions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/6796625/)
 
 
 ---
@@ -8389,42 +7924,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/300727/) · [DOI](https://doi.org/10.1080/09553007714550291)
-
-
----
-
-### Color properties of the contrast flash effect: monoptic vs dichoptic comparisons.
-
-*Yellott JI, Wandell BA* — Vision research (1976)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/1006999/) · [DOI](https://doi.org/10.1016/0042-6989(76)90053-5)
-
-
----
-
-### Rod-cone interaction in the after-flash effect.
-
-*Foster DH* — Vision research (1976)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/941415/) · [DOI](https://doi.org/10.1016/0042-6989(76)90202-9)
-
-
----
-
-### Sensitization by annular surrounds: sensitization and the contrast-flash effect.
-
-*Alexander KR* — Vision research (1974)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/4421568/) · [DOI](https://doi.org/10.1016/0042-6989(74)90056-x)
 
 
 ---
@@ -8552,30 +8051,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/5307280/) · [DOI](https://doi.org/10.1080/09553006914550871)
-
-
----
-
-### THE SPECIFICITY OF THE CONE INTERACTION IN THE AFTER-FLASH EFFECT.
-
-*ALPERN M, RUSHTON WA* — The Journal of physiology (1965)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/14288519/) · [DOI](https://doi.org/10.1113/jphysiol.1965.sp007562) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1357208/)
-
-
----
-
-### ROD-CONE INDEPENDENCE IN THE AFTER-FLASH EFFECT.
-
-*ALPERN M* — The Journal of physiology (1965)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/14288518/) · [DOI](https://doi.org/10.1113/jphysiol.1965.sp007561) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1357207/)
 
 
 ---

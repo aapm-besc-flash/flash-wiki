@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Modeling & Mechanisms
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-01. 162 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 152 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -1600,18 +1600,7 @@ Abstract: Monte Carlo simulations of γ/fast electron-radiolysis of water show t
 
 ---
 
-## 146. Low-Thermal-Budget Doping of 2D Materials in Ambient Air Exemplified by Synthesis of Boron-Doped Reduced Graphene Oxide.
-Authors: Cha JH, Kim DH, Park C, Choi SJ, Jang JS, Yang SY, Kim ID, Choi SY
-Journal: Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2020)
-Identifiers: PMID 32274315; DOI 10.1002/advs.201903318; PMC PMC7140995 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/32274315/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: Graphene oxide (GO) doping and reduction allow for physicochemical property modification to suit practical application needs. Herein, the challenge of simultaneous low-thermal-budget heteroatom doping of GO and its reduction in ambient air is addressed through the synthesis of B-doped reduced GO (B@rGO) by flash irradiation of boric acid loaded onto a GO support with intense pulsed light (IPL). The effects of light power and number of shots on the in-depth sequential doping and reduction mechanisms are investigated by ex situ X-ray photoelectron spectroscopy and direct millisecond-scale temperature measurements (temperature >1600 °C, < 10-millisecond duration, ramping rate of 5.3 × 105 °C s-1). Single-flash IPL allows the large-scale synthesis of substantially doped B@rGO (≈3.60 at% B) to be realized with a thermal budget 106-fold lower than that of conventional thermal methods, and the prepared material with abundant B active sites is employed for highly sensitive and selective room-temperature NO2 sensing. Thus, this work showcases the great potential of optical annealing for millisecond-scale ultrafast reduction and heteroatom doping of GO in ambient air, which allows the tuning of multiple physicochemical GO properties.
-
----
-
-## 147. A computational model of radiolytic oxygen depletion during FLASH irradiation and its effect on the oxygen enhancement ratio.
+## 146. A computational model of radiolytic oxygen depletion during FLASH irradiation and its effect on the oxygen enhancement ratio.
 Authors: Pratx G, Kapp DS
 Journal: Physics in medicine and biology (2019)
 Identifiers: PMID 31365907; DOI 10.1088/1361-6560/ab3769
@@ -1622,7 +1611,7 @@ Abstract: Recent results from animal irradiation studies have demonstrated the p
 
 ---
 
-## 148. Focused very high-energy electron beams as a novel radiotherapy modality for producing high-dose volumetric elements.
+## 147. Focused very high-energy electron beams as a novel radiotherapy modality for producing high-dose volumetric elements.
 Authors: Kokurewicz K, Brunetti E, Welsh GH, Wiggins SM, Boyd M, Sorensen A, Chalmers AJ, Schettino G et al.
 Journal: Scientific reports (2019)
 Identifiers: PMID 31346184; DOI 10.1038/s41598-019-46630-w; PMC PMC6658670 (open access)
@@ -1633,7 +1622,7 @@ Abstract: The increased inertia of very high-energy electrons (VHEEs) due to rel
 
 ---
 
-## 149. Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.
+## 148. Treatment planning for radiotherapy with very high-energy electron beams and comparison of VHEE and VMAT plans.
 Authors: Bazalova-Carter M, Qu B, Palma B, Hårdemark B, Hynning E, Jensen C, Maxim PG, Loo BW
 Journal: Medical physics (2015)
 Identifiers: PMID 25979053; DOI 10.1118/1.4918923
@@ -1644,106 +1633,7 @@ Abstract: PURPOSE: The aim of this work was to develop a treatment planning work
 
 ---
 
-## 150. Free energy relationships for reactions of substituted benzhydrylium ions: from enthalpy over entropy to diffusion control.
-Authors: Ammer J, Nolte C, Mayr H
-Journal: Journal of the American Chemical Society (2012)
-Identifiers: PMID 22839678; DOI 10.1021/ja306522b
-URL: https://pubmed.ncbi.nlm.nih.gov/22839678/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: Second-order rate constants k(2) for the reactions of various donor- and acceptor-substituted benzhydrylium ions Ar(2)CH(+) with π-nucleophiles in CH(2)Cl(2) were determined by laser flash irradiation of benzhydryl triarylphosphonium salts Ar(2)CH-PAr(3)(+)X(-) in the presence of a large excess of the nucleophiles. This method allowed us to investigate fast reactions up to the diffusional limit including reactions of highly reactive benzhydrylium ions with m-fluoro and p-(trifluoromethyl) substituents. The rate constants determined in this work and relevant literature data were jointly subjected to a correlation analysis to derive the electrophilicity parameters E for acceptor-substituted benzhydrylium ions, as defined by the linear free energy relationship log k(2)(20 °C) = s(N)(N + E). The new correlation analysis also leads to the N and s(N) parameters of 18 π-nucleophiles, which have only vaguely been characterized previously. The correlations of log k(2) versus E are linear well beyond the range where the activation enthalpies ΔH(++) of the reactions are extrapolated to reach the value of ΔH(++) = 0, showing that the change from enthalpy control to entropy control does not cause a bend in the linear free energy relationship, a novel manifestation of the compensation effect. A flattening of the correlation lines only occurs for k(2) > 10(8) M(-1) s(-1) when the diffusion limit is approached.
-
----
-
-## 151. Mechanistic and energetic aspects of the thermal and photochemical redox chemistry of the octanuclear cubane complexes, Fe(III)(8)(mu(4)-O(4))(mu-pyrazolate)(12)X(4) (X = Cl or Br).
-Authors: Ferraudi G, Piñero D, Chakraborty I, Raptis RG, Lappin AG, Berlin N
-Journal: The journal of physical chemistry. A (2010)
-Identifiers: PMID 20394449; DOI 10.1021/jp911644e
-URL: https://pubmed.ncbi.nlm.nih.gov/20394449/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms, Physics & Dosimetry
-
-Abstract: The mechanisms of the thermal and photochemical redox reactions of clusters [Fe(III)(8)(mu(4)-O(4))(mu-Pz)(12)X(4)] (Pz = pyrazolate anion, X = Cl or Br) were investigated in this work. Reactions of the complexes with e(-)(sol), C(*)H(2)OH, and several powerful reducing transition metal complexes were investigated using the pulse radiolysis technique. Reaction rates of the outer-sphere electron transfer reactions with transition metal complexes had to be rationalized by invoking the formation of a [Fe(III)(7)Fe(II) '(mu(4)-O(4))(mu-Pz)(12)X(4)](-) intermediate or excited state. A transient species observed in the reaction of the e(-)(sol) with the cubanes can be either an excited state or a reaction intermediate mediating the formation of the stable product, [Fe(III)(7)Fe(II)(mu(4)-O(4))(mu-Pz)(12)X(4)](-). Photoredox reactions, characteristic of the ligand X(-) to Fe(III) charge transfer excited sates, were observed in the 350 nm steady state and 351 nm laser flash irradiations of the cubanes. Quantum yields are limited by the rapid recombination of the photofragments. The charge transfer spectroscopy of the products was rationalized on the basis of parameters derived from the thermal electron transfer reactions.
-
----
-
-## 152. Visualizing changes in electron distribution in coupled chains of cytochrome bc(1) by modifying barrier for electron transfer between the FeS cluster and heme c(1).
-Authors: Cieluch E, Pietryga K, Sarewicz M, Osyczka A
-Journal: Biochimica et biophysica acta (2010)
-Identifiers: PMID 19917265; DOI 10.1016/j.bbabio.2009.11.003; PMC PMC2807467 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/19917265/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: Cytochrome c(1) of Rhodobacter (Rba.) species provides a series of mutants which change barriers for electron transfer through the cofactor chains of cytochrome bc(1) by modifying heme c(1) redox midpoint potential. Analysis of post-flash electron distribution in such systems can provide useful information about the contribution of individual reactions to the overall electron flow. In Rba. capsulatus, the non-functional low-potential forms of cytochrome c(1) which are devoid of the disulfide bond naturally present in this protein revert spontaneously by introducing a second-site suppression (mutation A181T) that brings the potential of heme c(1) back to the functionally high levels, yet maintains it some 100 mV lower from the native value. Here we report that the disulfide and the mutation A181T can coexist in one protein but the mutation exerts a dominant effect on the redox properties of heme c(1) and the potential remains at the same lower value as in the disulfide-free form. This establishes effective means to modify a barrier for electron transfer between the FeS cluster and heme c(1) without breaking disulfide. A comparison of the flash-induced electron transfers in native and mutated cytochrome bc(1) revealed significant differences in the post-flash equilibrium distribution of electrons only when the connection of the chains with the quinone pool was interrupted at the level of either of the catalytic sites by the use of specific inhibitors, antimycin or myxothiazol. In the non-inhibited system no such differences were observed. We explain the results using a kinetic model in which a shift in the equilibrium of one reaction influences the equilibrium of all remaining reactions in the cofactor chains. It follows a rather simple description in which the direction of electron flow through the coupled chains of cytochrome bc(1) exclusively depends on the rates of all reversible partial reactions, including the Q/QH2 exchange rate to/from the catalytic sites.
-
----
-
-## 153. Evidence for inverted region behavior in proton transfer to carbanions.
-Authors: Andrieux CP, Gamby J, Hapiot P, Savéant JM
-Journal: Journal of the American Chemical Society (2003)
-Identifiers: PMID 12914476; DOI 10.1021/ja035268f
-URL: https://pubmed.ncbi.nlm.nih.gov/12914476/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: The diphenylmethane-diphenylmethyl anion acid/base couple in N,N-dimethylformamide is taken as an example for investigating the dynamics of proton transfer at carbon in a system where the acid is not activated by an electron-withdrawing group or by removal of an electron. The laser flash electron photoinjection technique is applied to the determination of the rate constant for the protonation of diphenylmethyl anion by an extended series of acids that offers a range of driving forces encompassing over 1.2 eV. The plot of the rate constant versus the pK(a) difference between diphenylmethane and the acids or of the activation free energy versus the standard free energy of the reaction exhibits clear "inverted region" behavior (by a factor of 80 in terms of rate constants). While such behaviors have been predicted and observed for outersphere electron-transfer reactions, previous evidence for proton-transfer reactions was scarce. Entropic factors, derived from an investigation of the temperature dependence of the experimental rate constants, are also discussed.
-
----
-
-## 154. Dynamics of proton transfer at nonactivated carbons from laser flash electron photoinjection experiments.
-Authors: Gamby J, Hapiot P, Savéant JM
-Journal: Journal of the American Chemical Society (2002)
-Identifiers: PMID 12137524; DOI 10.1021/ja026804r
-URL: https://pubmed.ncbi.nlm.nih.gov/12137524/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: The investigation of proton exchange dynamics at carbon atoms has been so far limited to molecules activated by an electron-withdrawing substituent or by the removal of one electron yielding the corresponding cation radical. A method is proposed to overcome this limitation and extend the gathering of data to nonactivated carbon acids, RH. It consists of using photoinjected electrons to generate the radical R. from a rapidly or concertedly cleaving substrate, RX. The variations of the radical "polarogram" (in which R. is converted into R-) upon addition of an acid are then exploited to derive the protonation rate constant of R-. The method is demonstrated with the example of the diphenylmethyl carbanion. The Brönsted plot thus obtained indicates that proton transfer to this carbanion is intrinsically slow, with a barrier on the order of 1 eV. An inverted region behavior seems to appear at large driving forces.
-
----
-
-## 155. Laser flash photolysis evidence for styryl radical cation cyclization in the SET-induced photorearrangement of a p-methoxy-substituted 2-phenylallyl phosphite.
-Authors: Shukla D, Lu C, Schepp NP, Bentrude WG, Johnston LJ
-Journal: The Journal of organic chemistry (2000)
-Identifiers: PMID 10987955; DOI 10.1021/jo0006775
-URL: https://pubmed.ncbi.nlm.nih.gov/10987955/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: The SET-induced photorearrangement of dimethyl 2-(4-methoxyphenyl)allyl phosphite, 9 (UV light, uranium glass filter, 9,10-dicyanoanthracene (DCA), biphenyl), gives phosphonate 12 in 83% isolated yield. Laser flash irradiation at 355 nm of oxygen saturated solutions of phosphite 9 containing DCA and biphenyl generates the transient UV spectrum of the biphenyl radical cation that is quenched by electron transfer from phosphite 9 (k(q) = 8.9 x 10(9) M(-1) s(-1) at 20 degrees C) to form the 4-methoxystyryl cation 10. The UV spectrum of 10 decays by a measured first-order rate constant of 8.0 x 10(6) s(-1), presumably to generate the cyclic distonic radical cation 11. Intermediate 10 was further characterized by measurement of the second-order rate constants for its reaction with azide, chloride, and bromide ions and with the neutral nucleophile trimethyl phosphite. This study provides the first spectroscopic evidence regarding the proposed mechanism (Schemes 1 and 2) for the SET-induced photorearrangements of dimethyl 2-arylallyl phosphites to the corresponding 2-arylallylphosphonates. Moreover, absolute rate constants for the intramolecular trapping of alkene radical cations have seldom been measured. The removal of the electron from the styryl moiety of phosphite 9, rather than from phosphorus, and the detectability of 10 arise from the stabilizing effect of the 4-methoxy substituent. These results, however, do not allow conclusions to be made concerning the site of removal of an electron in the SET-induced photorearrangement of dimethyl 2-phenylallyl phosphite 1 to phosphonate 6.
-
----
-
-## 156. Comparison of Na+/K(+)-ATPase pump currents activated by ATP concentration or voltage jumps.
-Authors: Friedrich T, Nagel G
-Journal: Biophysical journal (1997)
-Identifiers: PMID 9199783; DOI 10.1016/S0006-3495(97)78059-7; PMC PMC1180920 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/9199783/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: Using the giant patch technique, we combined two fast relaxation methods on excised patches from guinea pig cardiomyocytes to compare the rate constants of the involved reaction steps. Experiments were done in the absence of intra- or extracellular K+. Fast ATP concentration jumps were generated by photolysis of caged ATP at pH 6.3 with laser flash irradiation at a wavelength of 308 nm and 10 ns duration, as described previously. Transient outward currents with a fast rising phase, followed by a slower decay and a small stationary current, were obtained. Voltage pulses were applied to the same patch in the presence or absence of intracellular ATP. Subtraction of the voltage jump-induced currents in the absence of ATP from those taken in the presence of ATP yielded monoexponential transient current signals, which were dependent on external Na+ but did not differ between intracellular pH (pHi) values 6.3 or 7.4. Rate constants showed a characteristic voltage dependence, i.e., saturating at positive potentials (approximately 200 s-1, 24 degrees C) and exponentially rising with increasing negative potentials. Rate constants of the fast component from transient currents obtained after an ATP concentration jump agree well with rate constants from currents obtained after a voltage jump to zero or positive potentials (pHi 6.3), and the two exhibit the same activation energy of approximately 80 kJ.mol-1. For a given membrane patch, the amount of charge that is moved across the plasma membrane is roughly the same for each of the two relaxation techniques.
-
----
-
-## 157. Adjuvant postoperative radiotherapy in rectal cancer: 148 cases treated at Florence University with 8 years median follow-up.
-Authors: Cionini L, Marzano S, Boffi L, Cardona G, Ficari F, Fucini C, Tonelli F
-Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (1996)
-Identifiers: PMID 8884966; DOI 10.1016/0167-8140(96)01775-6
-URL: https://pubmed.ncbi.nlm.nih.gov/8884966/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: BACKGROUND AND PURPOSE: To analyse the outcome, the treatment related side effects, the prognostic significance of clinical parameters in a group of patients with rectal cancer receiving postoperative radiotherapy after radical resection. MATERIALS AND METHODS: From 1980 to 1990 148 consecutive patients with rectal carcinoma stage B2-B3 or C1-C2-C3 were treated with postoperative radiotherapy after radical surgery. All patients received 50 Gy in 25 sessions in 5 weeks. In 42 a "flash' dose of 5 Gy was also given within 24 h before surgery. Median follow up was 8.1 years. RESULTS: At 5 years the overall survival was 54%, the determined (cancer specific) survival 61%, the local recurrence-free survival 88%. The influence of stage, histotype, distance from anal margin, type of surgery, number of involved nodes and flash dose were analysed. Overall and determined survival and distant metastasis rate were significantly influenced (P < 0.005) by the pathological stage. Patients with more than 3 involved nodes presented a significantly lower determined survival (P < 0.001) and a higher distant relapse rate (P < 0.005) than those with 3 or less involved nodes. A higher determined survival (P < 0.01) was also found in patients receiving the preoperative "flash'; this group was however unbalanced in respect to the relative number of cases with 3 or less involved nodes. The incidence of major side effects requiring surgery or hospitalization for medical treatment was 35% before 1985 and 12% thereafter. The systematic use of small bowel visualization during simulation and the discontinuation of the flash dose were the main modifications introduced in the second period. As a consequence of the small bowel visualization the size of lateral fields was slightly reduced and some patients were excluded from the treatment. CONCLUSIONS: Value of postoperative radiotherapy to decrease the incidence of local recurrence was confirmed in this retrospective study; the incidence of side effects was however considerable and did not support the addition of chemotherapy as advised by the NIH consensus meeting. Our policy was therefore moved to preoperative irradiation whose combination with chemotherapy was recently reported to be better tolerated and highly effective.
-
----
-
-## 158. Mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) Formation in 350 nm Flash Irradiations of Re(2)(CO)(10).
-Authors: Sarakha M, Cozzi M, Ferraudi G
-Journal: Inorganic chemistry (1996)
-Identifiers: PMID 11666567; DOI 10.1021/ic951483o
-URL: https://pubmed.ncbi.nlm.nih.gov/11666567/
-Category: Modeling & Mechanisms | Tags: Modeling & Mechanisms
-
-Abstract: The mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) formation upon UV irradiations of Re(2)(CO)(10) in presence of olefin (styrene, trans-stilbene, 4-methyl-1-cyclohexane, and ethylene) was investigated by laser flash photolyses. Such photoproducts result from reactions of the olefin with eq-Re(2)(CO)(9). No reactions of Re(CO)(5) leading to hydride alkenyl products were observed. Dependences of the reaction rate on olefin concentration and solvent revealed an additional intermediate formed after the addition of the olefin to eq-Re(2)(CO)(9) and before the appearance of the &mgr;-hydrido-&mgr;-alkenyl products.
-
----
-
-## 159. Irradiation of mammalian cells in the presence of diamide and low concentrations of oxygen at conventional and at ultrahigh dose rates.
+## 149. Irradiation of mammalian cells in the presence of diamide and low concentrations of oxygen at conventional and at ultrahigh dose rates.
 Authors: Clark EP, Michaels HB, Peterson EC, Epp ER
 Journal: Radiation research (1983)
 Identifiers: PMID 6856753
@@ -1754,7 +1644,7 @@ Abstract: The response of cultured CHO cells to ultrahigh-dose-rate radiation (a
 
 ---
 
-## 160. Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
+## 150. Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
 Authors: Michaels HB
 Journal: International journal of radiation oncology, biology, physics (1982)
 Identifiers: PMID 7107363; DOI 10.1016/0360-3016(82)90653-8
@@ -1765,7 +1655,7 @@ Abstract: When CHO cells are equilibrated with a low level of oxygen (e.g. 0.4% 
 
 ---
 
-## 161. Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
+## 151. Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
 Authors: Ling CC
 Journal: Radiation research (1975)
 Identifiers: PMID 1099609
@@ -1776,7 +1666,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 162. Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
+## 152. Oxygen depletion in cells irradiated at ultra-high dose-rates and at conventional dose-rates.
 Authors: Weiss H, Epp ER, Heslin JM, Ling CC, Santomasso A
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1974)
 Identifiers: PMID 4607987; DOI 10.1080/09553007414550901

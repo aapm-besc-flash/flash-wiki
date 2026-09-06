@@ -2,7 +2,45 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*206 records. Newest first.*
+*208 records. Newest first.*
+
+---
+
+### pH responsive nanoplatforms for radiosensitization and radioprotection in cancer therapy.
+
+*Dai E, Qiu Y, Xu H, Zhong G, Feng W* — Discover oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Radiotherapy remains a cornerstone of cancer treatment, but its efficacy is limited by tumor hypoxia, adaptive antioxidant defenses, and the resulting radioresistance. Tumor extracellular acidity, commonly reported within an approximate pH range of 6.5-7.1, contributes to invasion, immune suppression, and treatment resistance while also providing a recurrent, although nonexclusive, stimulus for re…
+
+
+??? note "Abstract"
+    Radiotherapy remains a cornerstone of cancer treatment, but its efficacy is limited by tumor hypoxia, adaptive antioxidant defenses, and the resulting radioresistance. Tumor extracellular acidity, commonly reported within an approximate pH range of 6.5-7.1, contributes to invasion, immune suppression, and treatment resistance while also providing a recurrent, although nonexclusive, stimulus for responsive nanoplatform design. This narrative review critically examines pH-sensitive nanoplatforms that function as molecular switches by altering their structure, surface charge, assembly state, or payload accessibility under acidic conditions. The principal chemical strategies include acid-labile bond cleavage, pH-induced charge reversal, conformational gatekeeping, and ultra-pH-sensitive polymeric probes. Their radiotherapy-specific effects depend on the associated payload or inorganic component and may include increased tumor retention of high-Z materials, catalytic reactive oxygen species amplification, enhanced DNA damage, ferroptosis, cGAS-STING-mediated immune activation, and improved oxygen availability. The strength of evidence varies substantially among applications. Direct preclinical radiosensitization has been demonstrated for selected acid-triggered metal and gold nanoparticle systems, whereas many linker-based, nucleic-acid-gated, ferroptosis-inducing, and oxygen-delivering platforms remain supported mainly by complementary mechanistic studies or non-radiotherapy evidence. Nanoparticle-based radionuclide delivery and dual-responsive systems have also been investigated preclinically, although direct evidence for pH-gated renal sparing remains limited. The integration of pH-sensitive nanoplatforms with FLASH radiotherapy remains a conceptual and computationally informed direction without direct clinical validation. Beyond radiosensitization, pH-responsive gastrointestinal formulations have shown normal-tissue radioprotection in animal models, but tumor-selective reverse-switch nanoradioshields remain largely conceptual. Theranostic integration with MRI-CEST, acidity-sensitive PET, or Cherenkov-based sensing may support future image-guided treatment adaptation, but pH-informed dose painting has not yet been clinically validated. Clinical translation is further constrained by intratumoral pH heterogeneity, potential activation in inflammatory or ischemic tissues, protein-corona effects, manufacturing variability, uncertain pharmacokinetics, regulatory complexity, and the need to synchronize nanoparticle activation with irradiation. Progress will require compartment-specific switching, matched nonresponsive controls, patient-selection biomarkers, scalable manufacturing, and prospective demonstration of improved tumor control without unacceptable normal-tissue toxicity.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42678484/) · [DOI](https://doi.org/10.1007/s12672-026-05781-9) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13534406/)
+
+
+---
+
+### Precise delineation of radiation targets for thoracic tumors in the immunotherapy era: from immune mechanisms to clinical practice.
+
+*Chen X, Yi M, Deng Y, Shen Q* — Precision radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** As a core modality for local control of thoracic tumors, including lung and esophageal cancers, radiotherapy (RT) shows synergistic effects with immunotherapy, fundamentally reshaping the landscape of cancer treatment. Given the rapid advancements in immunotherapy, this review explores the critical role of precise delineation of radiotherapy targets in achieving synergistic effects between RT and …
+
+
+??? note "Abstract"
+    As a core modality for local control of thoracic tumors, including lung and esophageal cancers, radiotherapy (RT) shows synergistic effects with immunotherapy, fundamentally reshaping the landscape of cancer treatment. Given the rapid advancements in immunotherapy, this review explores the critical role of precise delineation of radiotherapy targets in achieving synergistic effects between RT and immunotherapy. It elucidates the dual-edged nature of RT, which can both activate antitumor immune responses and suppress immune function. Notably, larger radiation target volumes often cause destruction of tumor-draining lymph nodes and reduce the number of peripheral blood lymphocytes, thereby impairing the efficacy of immunotherapy. To address this challenge, we discuss strategies tailored to thoracic tumors, including reducing target volumes, optimizing irradiation fields, and adjusting target positioning to protect key immune components. Furthermore, we highlight recent advancements in multimodal imaging, real-time dynamic tracking technologies, and deep learning-enabled automated segmentation methods that can increase the precision of target delineation. Additionally, emerging RT techniques, such as proton therapy and FLASH-RT, demonstrate unique advantages in minimizing irradiation of normal tissues and circulating immune cells while enhancing immunomodulatory effects and thereby facilitating precise RT. This review aims to provide a theoretical foundation and technical support for accurate target delineation in the era of immunotherapy, particularly for thoracic malignancies, to promote the deep integration of RT and immunotherapy and improve patient outcomes.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42676629/) · [DOI](https://doi.org/10.1002/pro6.70090) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13527458/)
+
 
 ---
 

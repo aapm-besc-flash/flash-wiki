@@ -1,4 +1,109 @@
 TY  - JOUR
+TI  - Breathing-phase selection for gated proton therapy in lung cancer towards temporally targeted ultra-high dose rate delivery.
+AU  - Visser SN
+AU  - van Doorn-Wink KCJ
+AU  - Crama KF
+AU  - Rasch CRN
+AU  - Habraken SJM
+PY  - 2026
+JO  - Physics and imaging in radiation oncology
+AB  - BACKGROUND AND PURPOSE: Ultra-high dose rate (UHDR) irradiation has been demonstrated to reduce normal tissue damage compared to conventional dose rates, while maintaining tumor response (FLASH-effect). UHDR could potentially freeze intra-fraction breathing motion, enabling margin reduction for moving tumors when accurately timed. Targeting the optimal breathing-phase could reduce organ-at-risk (OAR) dose and side effects. In this treatment planning study, the optimal phase(s) for UHDR proton therapy were identified and potential benefits were evaluated. MATERIALS AND METHODS: Twenty lung cancer patients, previously treated with 66 GyE/24 or 60 GyE/30 fractions, were included. Four-dimensional computed tomography (4D-CT) scans with clinical target and OAR delineations were used to create new treatment plans for individual 4D-CT phases, one-phase plans (OPP) and multiple-phase plans (MPP). Clinically relevant dose-volume parameters and normal tissue complication probabilities (NTCP) were evaluated. RESULTS: Phase-targeted proton therapy (PTPT) significantly reduced OAR dose. The largest reductions were achieved with OPP, while MPP showed smaller reductions. With OPP, mean lung dose (mean: -0.7 GyE, range: -1.7 to 0.3 GyE), mean heart dose (mean: -0.4 GyE, range: -1.4 to 0.5 GyE), and mean esophagus dose (mean: -0.9 GyE, range: -6.0 to 0 GyE) were reduced, with most reductions in the 0%, 40%, and 70% phases, respectively. NTCP values indicated reduced complication probabilities across all phases, with additional gains for optimal phases. CONCLUSIONS: With PTPT, OAR dose may be reduced with potential clinical benefit across all phases. The optimal phase depended on the endpoint, suggesting patient-specific phase targeting could further improve outcomes. Future research should address phase targetability, residual variation and required robustness.
+DO  - 10.1016/j.phro.2026.101065
+AN  - 42699310
+UR  - https://pubmed.ncbi.nlm.nih.gov/42699310/
+KW  - FLASH:Treatment Planning & Optimization
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Antitumor Activity of Combined Topoisomerase Inhibition and FLASH Radiotherapy in Head and Neck Carcinoma Biomodels.
+AU  - Sarogni P
+AU  - Brindani N
+AU  - Frusca V
+AU  - Santi M
+AU  - Cavalieri A
+AU  - Celentano M
+AU  - Menicagli M
+AU  - Marranci A
+AU  - Luserna di Rorà AG
+AU  - Purificato F
+AU  - Nigro M
+AU  - Giannini N
+AU  - Gonnelli A
+AU  - Gadducci G
+AU  - Martino FD
+AU  - Paiar F
+AU  - De Vivo M
+AU  - Voliani V
+PY  - 2026
+JO  - MedComm
+AB  - Locally advanced head and neck carcinoma remains associated with high morbidity and long-term survival below 50%. Treatment commonly relies on cisplatin-based chemoradiotherapy, which is effective but frequently associated with significant acute and chronic systemic toxicities. Therefore, safer and more effective therapeutic strategies are urgently needed. FLASH radiotherapy (RT) has emerged as a promising irradiation modality because of its potential to reduce damage to healthy tissues while preserving antitumor efficacy. Here, we investigated the anticancer activity of the Topoisomerase (Topo)-II inhibitor ARN-24139, alone and combined with FLASHRT, in human papillomavirus-negative SCC-25 head and neck carcinoma biomodels. Antitumor activity was assessed in 2D cell cultures using viability, apoptosis, clonogenic, wound-healing, and γH2AX assays, as well as in SCC-25 3D spheroids and in chorioallantoic membrane (CAM) tumor models. ARN-24139 induced dose-dependent cytotoxicity in SCC-25 cells, with IC50 values of 7.3 ± 0.8 µM at 48 h and 7.2 ± 0.5 µM at 72 h, while showing limited toxicity in healthy HBEpC cells. Sequential low-dose FLASH-RT followed by ARN-24139 enhanced antitumor activity, reducing cell viability at 4 Gy after 8 days and decreasing tumor growth and Ki67 expression in CAM models. These proof-of-concept findings support further investigation in more clinically representative and mechanistically informative HNSCC models.
+DO  - 10.1002/mco2.70937
+AN  - 42688459
+UR  - https://pubmed.ncbi.nlm.nih.gov/42688459/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of the Exradin A30 Parallel Plate Ion Chamber as a Reference Dosimeter in Ultra-High Dose Rate (UHDR) Electron Beams.
+AU  - Alharbi M
+AU  - Liu K
+AU  - Hooten B
+AU  - Holmes S
+AU  - Alarcon-Nunez S
+AU  - Radtke J
+AU  - DeWerd L
+AU  - Beddar S
+AU  - Culberson W
+AU  - Schueler E
+AU  - Khan A
+PY  - 2026
+JO  - ArXiv
+AB  - Reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (>40 Gy/s) is challenging because conventional ionization chambers (ICs) exhibit saturation from ion recombination. The Exradin A30 IC uses an ultra-thin 0.3-mm electrode spacing to improve charge-collection efficiency (CCE). This study evaluated the commercial A30 as a reference dosimeter for UHDR electron beams by characterizing leakage current, CCE, polarity correction (Ppol), and beam-quality correction factors (kQ). Measurements were performed with a 9-MeV IntraOp Mobetron from the accelerator head, achieving up to 9 Gy per pulse (DPP) and an instantaneous dose rate of 2.25 MGy/s. Data were acquired in grounded water-equivalent plastic, distilled water, and saline water. DPP was varied by changing SSD at a fixed 4-μs pulse width, while pulse repetition frequency (PRF) ranged from 5 to 90 Hz. CCE was determined using EBT-XD film under matched UHDR and conventional dose and energy conditions. CCE and Ppol were also evaluated as functions of DPP and PRF in distilled and saline water. Values of kQ were calculated using Monte Carlo simulations and measured in TrueBeam electron beams. Leakage current was <2 fA. Both CCE and Ppol decreased with increasing DPP; however, CCE remained 90-99% across all three phantoms, while Ppol decreased from 0.990 to 0.981 in liquid and solid water. Neither CCE nor Ppol depended on PRF over 5-90 Hz. Measured and calculated kQ values agreed within 0.8% at all energies except 9 MeV, where they differed by 2%. The A30 exhibited 5% recombination at DPP up to 5 Gy in distilled and saline water. Its response in solid phantoms was affected by charge buildup, which was mitigated by grounding. With appropriate CCE corrections and grounded solid phantoms, the commercial A30 is suitable for reference dosimetry in UHDR electron beams.
+AN  - 42687884
+UR  - https://pubmed.ncbi.nlm.nih.gov/42687884/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - pH responsive nanoplatforms for radiosensitization and radioprotection in cancer therapy.
+AU  - Dai E
+AU  - Qiu Y
+AU  - Xu H
+AU  - Zhong G
+AU  - Feng W
+PY  - 2026
+JO  - Discover oncology
+AB  - Radiotherapy remains a cornerstone of cancer treatment, but its efficacy is limited by tumor hypoxia, adaptive antioxidant defenses, and the resulting radioresistance. Tumor extracellular acidity, commonly reported within an approximate pH range of 6.5-7.1, contributes to invasion, immune suppression, and treatment resistance while also providing a recurrent, although nonexclusive, stimulus for responsive nanoplatform design. This narrative review critically examines pH-sensitive nanoplatforms that function as molecular switches by altering their structure, surface charge, assembly state, or payload accessibility under acidic conditions. The principal chemical strategies include acid-labile bond cleavage, pH-induced charge reversal, conformational gatekeeping, and ultra-pH-sensitive polymeric probes. Their radiotherapy-specific effects depend on the associated payload or inorganic component and may include increased tumor retention of high-Z materials, catalytic reactive oxygen species amplification, enhanced DNA damage, ferroptosis, cGAS-STING-mediated immune activation, and improved oxygen availability. The strength of evidence varies substantially among applications. Direct preclinical radiosensitization has been demonstrated for selected acid-triggered metal and gold nanoparticle systems, whereas many linker-based, nucleic-acid-gated, ferroptosis-inducing, and oxygen-delivering platforms remain supported mainly by complementary mechanistic studies or non-radiotherapy evidence. Nanoparticle-based radionuclide delivery and dual-responsive systems have also been investigated preclinically, although direct evidence for pH-gated renal sparing remains limited. The integration of pH-sensitive nanoplatforms with FLASH radiotherapy remains a conceptual and computationally informed direction without direct clinical validation. Beyond radiosensitization, pH-responsive gastrointestinal formulations have shown normal-tissue radioprotection in animal models, but tumor-selective reverse-switch nanoradioshields remain largely conceptual. Theranostic integration with MRI-CEST, acidity-sensitive PET, or Cherenkov-based sensing may support future image-guided treatment adaptation, but pH-informed dose painting has not yet been clinically validated. Clinical translation is further constrained by intratumoral pH heterogeneity, potential activation in inflammatory or ischemic tissues, protein-corona effects, manufacturing variability, uncertain pharmacokinetics, regulatory complexity, and the need to synchronize nanoparticle activation with irradiation. Progress will require compartment-specific switching, matched nonresponsive controls, patient-selection biomarkers, scalable manufacturing, and prospective demonstration of improved tumor control without unacceptable normal-tissue toxicity.
+DO  - 10.1007/s12672-026-05781-9
+AN  - 42678484
+UR  - https://pubmed.ncbi.nlm.nih.gov/42678484/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Precise delineation of radiation targets for thoracic tumors in the immunotherapy era: from immune mechanisms to clinical practice.
+AU  - Chen X
+AU  - Yi M
+AU  - Deng Y
+AU  - Shen Q
+PY  - 2026
+JO  - Precision radiation oncology
+AB  - As a core modality for local control of thoracic tumors, including lung and esophageal cancers, radiotherapy (RT) shows synergistic effects with immunotherapy, fundamentally reshaping the landscape of cancer treatment. Given the rapid advancements in immunotherapy, this review explores the critical role of precise delineation of radiotherapy targets in achieving synergistic effects between RT and immunotherapy. It elucidates the dual-edged nature of RT, which can both activate antitumor immune responses and suppress immune function. Notably, larger radiation target volumes often cause destruction of tumor-draining lymph nodes and reduce the number of peripheral blood lymphocytes, thereby impairing the efficacy of immunotherapy. To address this challenge, we discuss strategies tailored to thoracic tumors, including reducing target volumes, optimizing irradiation fields, and adjusting target positioning to protect key immune components. Furthermore, we highlight recent advancements in multimodal imaging, real-time dynamic tracking technologies, and deep learning-enabled automated segmentation methods that can increase the precision of target delineation. Additionally, emerging RT techniques, such as proton therapy and FLASH-RT, demonstrate unique advantages in minimizing irradiation of normal tissues and circulating immune cells while enhancing immunomodulatory effects and thereby facilitating precise RT. This review aims to provide a theoretical foundation and technical support for accurate target delineation in the era of immunotherapy, particularly for thoracic malignancies, to promote the deep integration of RT and immunotherapy and improve patient outcomes.
+DO  - 10.1002/pro6.70090
+AN  - 42676629
+UR  - https://pubmed.ncbi.nlm.nih.gov/42676629/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
 TI  - Mitochondrial remodeling after conventional and ultra-high dose rate irradiation in head and neck carcinoma cells in vitro.
 AU  - Silva LL
 AU  - Liu T
@@ -76,7 +181,7 @@ AU  - Bailat C
 AU  - Grilj V
 PY  - 2026
 JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
-AB  - PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
+AB  - PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
 DO  - 10.1016/j.radonc.2026.111747
 AN  - 42633859
 UR  - https://pubmed.ncbi.nlm.nih.gov/42633859/
@@ -157,7 +262,7 @@ AU  - Tessonnier T
 AU  - Mairani A
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - &#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning. &#xD;&#xD;Approach.&#xD;A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1 (LEM1). Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks (SOBPs), 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.&#xD;&#xD;Main results.&#xD;Measured survival fractions agreed with mMKM predictions within 5% on average across the biological SOBP, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and OAR metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.&#xD;&#xD;Significance. &#xD;Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.&#xD.
+AB  - Objective.Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning.Approach.A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1. Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks, 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.Main results.Measured survival fractions agreed with mMKM predictions within 5% on average across the biological spread-out Bragg peaks, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and organs at risk metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.Significance.Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.
 DO  - 10.1088/1361-6560/ae9c86
 AN  - 42624158
 UR  - https://pubmed.ncbi.nlm.nih.gov/42624158/
@@ -1232,23 +1337,6 @@ AN  - 42297782
 UR  - https://pubmed.ncbi.nlm.nih.gov/42297782/
 KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Breast cancer patients' questions about radiotherapy-induced skin toxicity: A comparative analysis of ChatGPT-4.0 and Gemini 2.5 flash.
-AU  - Caetano M
-AU  - Vicente D
-AU  - Caetano L
-AU  - Carolino E
-AU  - Grilo A
-PY  - 2026
-JO  - Radiography (London, England : 1995)
-AB  - INTRODUCTION: Artificial Intelligence (AI) is increasingly being deployed in health communication, a trend particularly visible in specialised domains, such as breast cancer radiotherapy. The subsequent clinical and educational value is fundamentally determined by the reliability and clarity of the responses generated. However, the comparative performance of different AI models in addressing patient concerns about radiotherapy side effects remains unclear, creating uncertainty regarding the optimal tool selection for patient education and support. This study aimed to compare the performance of ChatGPT 4.0 and Gemini 2.5 FLASH using a mixed-methods analytical-descriptive approach. METHODS: Twenty-three unique questions, derived from a literature review and rephrased to simulate patient enquiries about the skin effects of radiotherapy, were submitted to both models. Sixteen expert Radiation Therapists (RTTs) independently assessed the responses using a seven-point Likert scale. The analyses included semantic cosine similarity and linguistic readability (Flesch Reading Ease/Flesch-Kincaid Grade Level), with statistical comparisons performed using Mann-Whitney tests. RESULTS: Gemini 2.5 FLASH achieved higher median scores (6/7) than ChatGPT 4.0 (5/7), demonstrating particular strengths in clinical detail and empathy. Conversely, ChatGPT 4.0 produced more direct and structured answers, although it occasionally simplified complex concepts. Models showed low semantic similarity (median 0.78). Readability analysis revealed that ChatGPT aligned with an 8th-grade level, whereas Gemini operated at an 11th-grade level. Expert agreement was robust, with Gemini achieving greater consistency (α = 0.78; κ = 0.70) than ChatGPT (α = 0.72; κ = 0.65). CONCLUSION: Gemini was more effective for complex psychosocial issues, whereas ChatGPT provided better accessible guidance, necessitating ongoing professional validation for reliable integration into patient education workflows. IMPLICATIONS FOR PRACTICE: The use of AI in counselling patients undergoing breast radiotherapy enhances accessibility but requires ongoing professional validation to ensure clinical reliability.
-DO  - 10.1016/j.radi.2026.103469
-AN  - 42287986
-UR  - https://pubmed.ncbi.nlm.nih.gov/42287986/
-KW  - FLASH:Clinical & Translational
-KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
@@ -4436,21 +4524,6 @@ AN  - 41257326
 UR  - https://pubmed.ncbi.nlm.nih.gov/41257326/
 KW  - FLASH:Radiobiology
 KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Flash Photodynamic Therapy - How the Saturation of Photosensitizer Absorption Enables Selective and Deeper Tumor Treatments.
-AU  - Arnaut LG
-AU  - Schaberle FA
-AU  - Sereno J
-AU  - Gomes-da-Silva LC
-PY  - 2026
-JO  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
-AB  - FLASH therapies are attracting tremendous interest because they spare normal tissues while maintaining tumor-destroying efficacy, when compared with continuous delivery of radiation. In Photodynamic Therapy (PDT), it has been noted that continuous-wave and pulsed lasers give comparable results for a variety of tumors, but the conditions for increased tumor-to-peritumoral tissue selectivity have never been reported. This work presents a model that explains how pulsed lasers, in combination with photosensitizers, can offer selective and in-depth tumor ablation. It is shown that the photosensitizer absorption must be saturated to obtain the FLASH effect. The importance of the number of laser pulses to destroy tumor tissue and spare normal tissue is demonstrated. The predictions of the model and the superiority of FLASH-PDT are validated with the treatment of subcutaneous CT26 and orthotopic 4T1 tumors models. Notably, FLASH-PDT with redaporfin significantly increases the overall survival of mice with 4 mm orthotopic 4T1 tumors and lung metastasis. FLASH-PDT allows for the use of order-of-magnitude higher drug or light doses without affecting healthy tissues, while promoting selective and deeper tumor treatments.
-DO  - 10.1002/advs.202513199
-AN  - 41241814
-UR  - https://pubmed.ncbi.nlm.nih.gov/41241814/
-KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
@@ -15874,25 +15947,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Flash-Thermal Shock Synthesis of High-Entropy Alloys Toward High-Performance Water Splitting.
-AU  - Cha JH
-AU  - Cho SH
-AU  - Kim DH
-AU  - Jeon D
-AU  - Park S
-AU  - Jung JW
-AU  - Kim ID
-AU  - Choi SY
-PY  - 2023
-JO  - Advanced materials (Deerfield Beach, Fla.)
-AB  - High-entropy alloys (HEAs) provide unprecedented physicochemical properties over unary nanoparticles (NPs). According to the conventional alloying guideline (Hume-Rothery rule), however, only size-and-structure similar elements can be mixed, limiting the possible combinations of alloying elements. Recently, it has been reported that based on carbon thermal shocks (CTS) in a vacuum atmosphere at high temperature, ultrafast heating/cooling rates and high-entropy environment play a critical role in the synthesis of HEAs, ruling out the possibility of phase separation. Since the CTS requires conducting supports, the Joule-heating efficiencies rely on the carbon qualities, featuring difficulties in uniform heating along the large area. This work proposes a photo-thermal approach as an alternative and innovative synthetic method that is compatible with ambient air, large-area, remote process, and free of materials selection. Single flash irradiation on carbon nanofibers induced momentary high-temperature annealing (>1800 °C within 20 ms duration, and ramping/cooling rates >104 K s-1 ) to successfully decorate HEA NPs up to nine elements with excellent compatibility for large-scale synthesis (6.0 × 6.0 cm2 of carbon nanofiber paper). To demonstrate their feasibility toward applications, senary HEA NPs (PtIrFeNiCoCe) are designed and screened, showing high activity (ηoverall = 777 mV) and excellent stability (>5000 cycles) at the water splitting, including hydrogen evolution reactions and oxygen evolution reactions.
-DO  - 10.1002/adma.202305222
-AN  - 37607534
-UR  - https://pubmed.ncbi.nlm.nih.gov/37607534/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Comparison of Tumor Control and Skin Damage in a Mouse Model after Ultra-High Dose Rate Irradiation and Conventional Irradiation.
 AU  - Duval KEA
 AU  - Aulwes E
@@ -16000,32 +16054,6 @@ AN  - 37569869
 UR  - https://pubmed.ncbi.nlm.nih.gov/37569869/
 KW  - FLASH:Radiobiology
 KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Influence of the Hypersensitivity to Low Dose Phenomenon on the Tumor Response to Hypofractionated Stereotactic Body Radiation Therapy.
-AU  - Le Reun E
-AU  - Granzotto A
-AU  - Pêtre A
-AU  - Bodgi L
-AU  - Beldjoudi G
-AU  - Lacornerie T
-AU  - Vallet V
-AU  - Bouchet A
-AU  - Al-Choboq J
-AU  - Bourguignon M
-AU  - Thariat J
-AU  - Bourhis J
-AU  - Lartigau E
-AU  - Foray N
-PY  - 2023
-JO  - Cancers
-AB  - Stereotactic body radiation therapy (SBRT) has made the hypofractionation of high doses delivered in a few sessions more acceptable. While the benefits of hypofractionated SBRT have been attributed to additional vascular, immune effects, or specific cell deaths, a radiobiological and mechanistic model is still needed. By considering each session of SBRT, the dose is divided into hundreds of minibeams delivering some fractions of Gy. In such a dose range, the hypersensitivity to low dose (HRS) phenomenon can occur. HRS produces a biological effect equivalent to that produced by a dose 5-to-10 times higher. To examine whether HRS could contribute to enhancing radiation effects under SBRT conditions, we exposed tumor cells of different HRS statuses to SBRT. Four human HRS-positive and two HRS-negative tumor cell lines were exposed to different dose delivery modes: a single dose of 0.2 Gy, 2 Gy, 10 × 0.2 Gy, and a single dose of 2 Gy using a non-coplanar isocentric minibeams irradiation mode were delivered. Anti-γH2AX immunofluorescence, assessing DNA double-strand breaks (DSB), was applied. In the HRS-positive cells, the DSB produced by 10 × 0.2 Gy and 2 Gy, delivered by tens of minibeams, appeared to be more severe, and they provided more highly damaged cells than in the HRS-negative cells, suggesting that more severe DSB are induced in the "SBRT modes" conditions when HRS occurs in tumor. Each SBRT session can be viewed as hyperfractionated dose delivery by means of hundreds of low dose minibeams. Under current SBRT conditions (i.e., low dose per minibeam and not using ultra-high dose-rate), the response of HRS-positive tumors to SBRT may be enhanced significantly. Interestingly, similar conclusions were reached with HRS-positive and HRS-negative untransformed fibroblast cell lines, suggesting that the HRS phenomenon may also impact the risk of post-RT tissue overreactions.
-DO  - 10.3390/cancers15153979
-AN  - 37568795
-UR  - https://pubmed.ncbi.nlm.nih.gov/37568795/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
@@ -21102,24 +21130,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Phantom assessment of three-dimensional geometric distortion of a dedicated wide-bore MR-simulator for radiotherapy.
-AU  - Law MWK
-AU  - Yuan J
-AU  - Wong OOL
-AU  - Ding AY
-AU  - Zhou Y
-AU  - Cheung KY
-AU  - Yu SK
-PY  - 2022
-JO  - Biomedical physics & engineering express
-AB  - This study evaluated the machine-dependent three-dimensional geometric distortion images acquired from a 1.5T 700 mm-wide bore MR-simulator based on a large geometric accuracy phantom. With the consideration of radiation therapy (RT) application requirements, every sequence was examined in various combinations of acquisition-orientations and receiver-bandwidths with console-integrated distortion correction enabled. Distortion was repeatedly measured over a six-month period. The distortion measured from the images acquired at the beginning of this period was employed to retrospectively correct the distortion in the subsequent acquisitions. Geometric distortion was analyzed within the largest field-of-view allowed. Six sequences were examined for comprehensive distortion analysis-VIBE, SPACE, TSE, FLASH, BLADE and PETRA. Based on optimal acquisition parameters, their diameter-sphere-volumes (DSVs) of CT-comparable geometric fidelity (where 1 mm distortion was allowed) were 333.6 mm, 315.1 mm, 316.0 mm, 318.9 mm, 306.2 mm and 314.5 mm respectively. This was a significant increase from 254.0 mm, 245.5 mm, 228.9 mm, 256.6 mm, 230.8 mm and 254.2 mm DSVs respectively, when images were acquired using un-optimized parameters. The longitudinal stability of geometric distortion and the efficacy of retrospective correction of console-corrected images, based on prior distortion measurements, were inspected using VIBE and SPACE. The retrospectively corrected images achieved over 500 mm DSVs with 1 mm distortion allowed. The median distortion was below 1 mm after retrospective correction, proving that obtaining prior distortion map for subsequent retrospective distortion correction is beneficial. The systematic evaluation of distortion using various combinations of sequence-type, acquisition-orientation and receiver-bandwidth in a six-month time span would be a valuable guideline for optimizing sequence for various RT applications.
-DO  - 10.1088/2057-1976/ac3f4f
-AN  - 34874313
-UR  - https://pubmed.ncbi.nlm.nih.gov/34874313/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
 TI  - Abdominopelvic FLASH Irradiation Improves PD-1 Immune Checkpoint Inhibition in Preclinical Models of Ovarian Cancer.
 AU  - Eggold JT
 AU  - Chow S
@@ -21466,26 +21476,6 @@ AB  - Conventional radiotherapy is a widely used non-invasive form of treatment 
 DO  - 10.7759/cureus.19317
 AN  - 35223216
 UR  - https://pubmed.ncbi.nlm.nih.gov/35223216/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Impact of high-dose rate radiotherapy on B and natural killer (NK) cell polarization in peripheral blood mononuclear cells (PBMCs) via inducing non-small cell lung cancer (NSCLC)-derived exosomes.
-AU  - Lei QQ
-AU  - Sui JD
-AU  - Jin F
-AU  - Luo HL
-AU  - Shan JJ
-AU  - Tang L
-AU  - Wang Y
-AU  - Wu YZ
-PY  - 2021
-JO  - Translational cancer research
-AB  - BACKGROUND: Non-small cell lung cancer (NSCLC) is the most commonly diagnosed solid tumor. While it has been established that stereotactic body radiotherapy for NSCLC plays an important role in antitumor immune response, the possible effects of the dose rate on this response has not been fully clarified. METHODS: In vitro, A549 cells were irradiated on a Varian TrueBeam® Linear Accelerator with dose and dose rate escalation using the flattening filter-free (FFF) technique, which was followed by coculturing with peripheral blood mononuclear cells (PBMCs). The exosomes from irradiated A549 cells were isolated and then cocultured with PBMCs. Flow cytometry was performed to analyze the proportion of lymph cell clusters in PBMCs. RESULTS: The proportion of CD3- immune cell clusters in PBMCs was significantly higher in the 10 Gy treatment group than in the nonirradiated group and other lower-dose (2, 6 Gy) treatment groups at the dose rate of 1,000 MU/min. However, no influence was observed on the proportion of CD3+ T cell subsets. Further results showed that both natural killer (NK) and B cell proportions reached peaks in the 14 Gy treatment group when a dose rate of 1,200 MU/min was used. Notably, the peak values of these two cell proportions were reached at a lower radiation dose of 10 Gy when a greater dose rate, ranging from 1,600 to 2,400 MU/min, was used. We further found that a single, high dose of irradiation (10 Gy), as compared with a single, low dose of irradiation (2 Gy), could markedly stimulate the A549-related exosome secretion in a radiation dose rate-dependent manner. The ultrahigh dose rate radiation-derived exosomes contributed to the polarization of B and NK cell subsets in PBMCs. CONCLUSIONS: The optimized radiation regime, which depends on the appropriate radiation dose and dose rate, results in the production of exosomes derived from NSCLC cells and eventually the redistribution of immune cells in PBMCs.
-DO  - 10.21037/tcr-21-536
-AN  - 35116657
-UR  - https://pubmed.ncbi.nlm.nih.gov/35116657/
-KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -24023,26 +24013,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Imaged-guided and muscle sparing laparoscopic anorectoplasty using real-time magnetic resonance imaging.
-AU  - Jarboe M
-AU  - Ladino-Torres M
-AU  - Wild L
-AU  - Spremo D
-AU  - Elkins S
-AU  - Ladouceur R
-AU  - Nagy D
-AU  - Ehrlich P
-AU  - Ralls M
-PY  - 2020
-JO  - Pediatric surgery international
-AB  - A challenge when repairing imperforate anus is positioning the neo-rectum into the center of the sphincter muscle complex (SMC) with limited muscle injury and scarring. Unfortunately, the path through the components of the SMC are often non-linear. We have used MRI to delineate the complex and guide the needle through the center using standard MRI-guidance (Raschbaum GR et al. J Pediatr Surg 45:220-223, 2010; Thomas TT et al. J Pediatr Surg 35:927-930, 2000). However, asynchronous scanning requires multiple, time-consuming scans to advance the needle in stepwise fashion. Asynchronous scanning also prevents visualizing the needle as it is advanced. We recently integrated software into the MRI operative suite that allows placement of the needle with real-time MRI. We report the feasibility and utility of real-time MRI-assisted laparoscopic assisted anorectoplasty (RT MRI-LAARP). Needle guidance was performed with Siemens Espree 1.5 T MRI with T1 Flash RT Sequence. After needle placement, laparoscopic mobilization, fistula takedown and pull-through was performed using the needle to guide dilation to create a tract to pull-through the neo-rectum. Charts of patients who underwent RT MRI-LAARP were reviewed. Demographics, anatomy, number of needle passes, OR duration and complications are reported. There were five children that underwent RT MRI-LAARP; one was a redo secondary to a retracted rectovestibular fistula. Operative time ranged from 187-505 min. Average hospital stay was 4.0 ± 1.0 days. There were no intraoperative complications although one patient had temporary urinary retention post-op. Muscle sparring laparoscopic anorectoplasty using real-time MRI is feasible and facilitates needle placement through the SMC.
-DO  - 10.1007/s00383-020-04700-5
-AN  - 32638078
-UR  - https://pubmed.ncbi.nlm.nih.gov/32638078/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Corrigendum to "Challenges of dosimetry of ultra-short pulsed very high energy electron beams" [Phys. Med. 42 (2017) 327-331].
 AU  - Subiel A
 AU  - Moskvin V
@@ -24361,25 +24331,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/32279337/
 KW  - FLASH:Radiobiology
 KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
-TI  - Low-Thermal-Budget Doping of 2D Materials in Ambient Air Exemplified by Synthesis of Boron-Doped Reduced Graphene Oxide.
-AU  - Cha JH
-AU  - Kim DH
-AU  - Park C
-AU  - Choi SJ
-AU  - Jang JS
-AU  - Yang SY
-AU  - Kim ID
-AU  - Choi SY
-PY  - 2020
-JO  - Advanced science (Weinheim, Baden-Wurttemberg, Germany)
-AB  - Graphene oxide (GO) doping and reduction allow for physicochemical property modification to suit practical application needs. Herein, the challenge of simultaneous low-thermal-budget heteroatom doping of GO and its reduction in ambient air is addressed through the synthesis of B-doped reduced GO (B@rGO) by flash irradiation of boric acid loaded onto a GO support with intense pulsed light (IPL). The effects of light power and number of shots on the in-depth sequential doping and reduction mechanisms are investigated by ex situ X-ray photoelectron spectroscopy and direct millisecond-scale temperature measurements (temperature >1600 °C, < 10-millisecond duration, ramping rate of 5.3 × 105 °C s-1). Single-flash IPL allows the large-scale synthesis of substantially doped B@rGO (≈3.60 at% B) to be realized with a thermal budget 106-fold lower than that of conventional thermal methods, and the prepared material with abundant B active sites is employed for highly sensitive and selective room-temperature NO2 sensing. Thus, this work showcases the great potential of optical annealing for millisecond-scale ultrafast reduction and heteroatom doping of GO in ambient air, which allows the tuning of multiple physicochemical GO properties.
-DO  - 10.1002/advs.201903318
-AN  - 32274315
-UR  - https://pubmed.ncbi.nlm.nih.gov/32274315/
-KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
@@ -24715,49 +24666,6 @@ KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
-TI  - Defining a national reference level for intraoperative radiation exposure in urological procedures: FLASH, a retrospective multicentre UK study.
-AU  - Simson N
-AU  - Stonier T
-AU  - Suleyman N
-AU  - Hendry J
-AU  - Salib M
-AU  - Peacock J
-AU  - Connor M
-AU  - Jones O
-AU  - Schuster-Bruce J
-AU  - Bottrell O
-AU  - Lovegrove C
-AU  - English L
-AU  - Hamami H
-AU  - Horn C
-AU  - Bagley J
-AU  - Bareh A
-AU  - Jaikaransingh D
-AU  - Mohamed N
-AU  - Ukwu U
-AU  - Shanmugathas N
-AU  - Batura D
-AU  - McDonald J
-AU  - Charitopoulos K
-AU  - Graham A
-AU  - Zakikhani P
-AU  - Taneja S
-AU  - Sells H
-AU  - Bolgeri M
-AU  - Wiseman O
-AU  - Bycroft J
-AU  - Qteishat A
-AU  - Aboumarzouk O
-PY  - 2020
-JO  - BJU international
-AB  - OBJECTIVES: To define reference levels for intraoperative radiation during stent insertion, ureteroscopy (URS), and percutaneous nephrolithotomy (PCNL); to identify variation in radiation exposure between individual hospitals across the UK, between low- and high-volume PCNL centres, and between grade of lead surgeon. PATIENTS/SUBJECTS AND METHODS: In all, 3651 patients were identified retrospectively across 12 UK hospitals over a 1-year period. Radiation exposure was defined in terms of total fluoroscopy time (FT) and dose area product (DAP). The 75th percentiles of median values for each hospital were used to define reference levels for each procedure. RESULTS: Reference levels: ureteric stent insertion/replacement (DAP, 2.3 Gy/cm2 ; FT, 49 s); URS (DAP, 2.8 Gy/cm2 ; FT, 57 s); PCNL (DAP, 24.1 Gy/cm2 ; FT, 431 s). Significant variations in the median DAP and FT were identified between individual centres for all procedures (P < 0.001). For PCNL, there was a statistically significant difference between DAP for low- (<50 cases/annum) and high-volume centres (>50 cases/annum), at a median DAP of 15.0 Gy/cm2 vs 4.2 Gy/cm2 (P < 0.001). For stent procedures, the median DAP and FT differed significantly between grade of lead surgeon: Consultant (DAP, 2.17 Gy/cm2 ; FT, 41 s) vs Registrar (DAP, 1.38 Gy/cm2 ; FT, 26 s; P < 0.001). CONCLUSION: This multicentre study is the largest of its kind. It provides the first national reference level to guide fluoroscopy use in urological procedures, thereby adding a quantitative and objective value to complement the principles of keeping radiation exposure 'as low as reasonably achievable'. This snapshot of real-time data shows significant variation around the country, as well as significant differences between low- and high-volume centres for PCNL, and grade of lead surgeon for stent procedures.
-DO  - 10.1111/bju.14903
-AN  - 31437345
-UR  - https://pubmed.ncbi.nlm.nih.gov/31437345/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Ultra-High Dose Rate (FLASH) Radiotherapy: Silver Bullet or Fool's Gold?
 AU  - Wilson JD
 AU  - Hammond EM
@@ -25002,26 +24910,6 @@ AB  - BACKGROUND AND PURPOSE: Motivated by first animal trials showing the norma
 DO  - 10.1016/j.radonc.2019.06.024
 AN  - 31266652
 UR  - https://pubmed.ncbi.nlm.nih.gov/31266652/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Janus Graphene Liquid Crystalline Fiber with Tunable Properties Enabled by Ultrafast Flash Reduction.
-AU  - Kim IH
-AU  - Im TH
-AU  - Lee HE
-AU  - Jang JS
-AU  - Wang HS
-AU  - Lee GY
-AU  - Kim ID
-AU  - Lee KJ
-AU  - Kim SO
-PY  - 2019
-JO  - Small (Weinheim an der Bergstrasse, Germany)
-AB  - Flash photothermal treatment via Xenon lamp with a broad wavelength spectrum can effectively remove oxygen functionalities and restore sp2 domains at graphitic carbon materials. The chemical composition and relevant structure formation of flash reduced graphene oxide liquid crystal (GOLC) fibers are investigated in accordance with flash irradiation conditions. Owing to the spatial controllability of reduction level via anisotropic flash irradiation, the mechanical properties and electrical conductivity of graphene fibers can be delicately counterbalanced to attain desired properties. High sensitivity humidity sensors can be fabricated from the flash reduced fibers demonstrating notably higher sensitivity over the thermally reduced counterparts. This ultrafast flash reduction holds great promise for multidimensional macroscopic GO based structures, enabling a wide range of potential applications, including textile electronics and wearable sensors.
-DO  - 10.1002/smll.201901529
-AN  - 31259486
-UR  - https://pubmed.ncbi.nlm.nih.gov/31259486/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -25585,37 +25473,6 @@ KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
-TI  - Optogenetic conditioning of paradigm and pattern discrimination in the rat somatosensory system.
-AU  - Abe K
-AU  - Yawo H
-PY  - 2017
-JO  - PloS one
-AB  - The rodent whisker-barrel cortical system is a model for studying somatosensory discrimination at high spatiotemporal precision. Here, we applied optogenetics to produce somatosensory inputs in the whisker area using one of transgenic rat lines, W-TChR2V4, which expresses channelrhodopsin-2 (ChR2) in the mechanoreceptive nerve endings around whisker follicles. An awake W-TChR2V4 rat was head-fixed and irradiated by blue LED light on the whisker area with a paradigm conditioned with a reward. The Go task was designed so the rat is allowed to receive a reward, when it licked the nozzle within 5 s after photostimulation. The No-go task was designed so as the rat has to withhold licking for at least 5 s to obtain a reward after photostimulation. The Go-task conditioning was established within 1 hr of training with a reduction in the reaction time and increase of the success rate. To investigate the relationship between the spatiotemporal pattern of sensory inputs and the behavioral output, we designed a multi-optical fiber system that irradiates the whisker area at 9 spots in a 3×3 matrix. Although the Go-task conditioning was established using synchronous irradiation of 9 spots, the success rate was decreased with an increase of the reaction time for the asynchronous irradiation. After conditioning to the Go task, the rat responded to the blue LED flash irradiated on the barrel cortex, where many neurons also express ChR2, or photostimulation of the contralateral whisker area with a similar reaction time and success rate. Synchronous activation of the peripheral mechanoreceptive nerves is suggested to drive a neural circuit in the somatosensory cortex that efficiently couples with the decision. Our optogenetic system would enable the precise evaluation of the psychophysical values, such as the reaction time and success rate, to gain some insight into the brain mechanisms underlying conditioned behaviors.
-DO  - 10.1371/journal.pone.0189439
-AN  - 29267341
-UR  - https://pubmed.ncbi.nlm.nih.gov/29267341/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Directly monitor protein rearrangement on a nanosecond-to-millisecond time-scale.
-AU  - Chen EH
-AU  - Lu TT
-AU  - Hsu JC
-AU  - Tseng YJ
-AU  - Lim TS
-AU  - Chen RP
-PY  - 2017
-JO  - Scientific reports
-AB  - In order to directly observe the refolding kinetics from a partially misfolded state to a native state in the bottom of the protein-folding funnel, we used a "caging" strategy to trap the β-sheet structure of ubiquitin in a misfolded conformation. We used molecular dynamics simulation to generate the cage-induced, misfolded structure and compared the structure of the misfolded ubiquitin with native ubiquitin. Using laser flash irradiation, the cage can be cleaved from the misfolded structure within one nanosecond, and we monitored the refolding kinetics of ubiquitin from this misfolded state to the native state by photoacoustic calorimetry and photothermal beam deflection techniques on nanosecond to millisecond timescales. Our results showed two refolding events in this refolding process. The fast event is shorter than 20 ns and corresponds to the instant collapse of ubiquitin upon cage release initiated by laser irradiation. The slow event is ~60 μs, derived from a structural rearrangement in β-sheet refolding. The event lasts 10 times longer than the timescale of β-hairpin formation for short peptides as monitored by temperature jump, suggesting that rearrangement of a β-sheet structure from a misfolded state to its native state requires more time than ab initio folding of a β-sheet.
-DO  - 10.1038/s41598-017-08385-0
-AN  - 28821738
-UR  - https://pubmed.ncbi.nlm.nih.gov/28821738/
-KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
 AU  - Subiel A
 AU  - Moskvin V
@@ -25785,21 +25642,6 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - FLASH proton density imaging for improved surface coil intensity correction in quantitative and semi-quantitative SSFP perfusion cardiovascular magnetic resonance.
-AU  - Nielles-Vallespin S
-AU  - Kellman P
-AU  - Hsu LY
-AU  - Arai AE
-PY  - 2015
-JO  - Journal of cardiovascular magnetic resonance : official journal of the Society for Cardiovascular Magnetic Resonance
-AB  - BACKGROUND: A low excitation flip angle (α < 10°) steady-state free precession (SSFP) proton-density (PD) reference scan is often used to estimate the B1-field inhomogeneity for surface coil intensity correction (SCIC) of the saturation-recovery (SR) prepared high flip angle (α = 40-50°) SSFP myocardial perfusion images. The different SSFP off-resonance response for these two flip angles might lead to suboptimal SCIC when there is a spatial variation in the background B0-field. The low flip angle SSFP-PD frames are more prone to parallel imaging banding artifacts in the presence of off-resonance. The use of FLASH-PD frames would eliminate both the banding artifacts and the uneven frequency response in the presence of off-resonance in the surface coil inhomogeneity estimate and improve homogeneity of semi-quantitative and quantitative perfusion measurements. METHODS: B0-field maps, SSFP and FLASH-PD frames were acquired in 10 healthy volunteers to analyze the SSFP off-resonance response. Furthermore, perfusion scans preceded by both FLASH and SSFP-PD frames from 10 patients with no myocardial infarction were analyzed semi-quantitatively and quantitatively (rest n = 10 and stress n = 1). Intra-subject myocardial blood flow (MBF) coefficient of variation (CoV) over the whole left ventricle (LV), as well as intra-subject peak contrast (CE) and upslope (SLP) standard deviation (SD) over 6 LV sectors were investigated. RESULTS: In the 6 out of 10 cases where artifacts were apparent in the LV ROI of the SSFP-PD images, all three variability metrics were statistically significantly lower when using the FLASH-PD frames as input for the SCIC (CoVMBF-FLASH = 0.3 ± 0.1, CoVMBF-SSFP = 0.4 ± 0.1, p = 0.03; SDCE-FLASH = 10 ± 2, SDCE-SSFP = 32 ± 7, p = 0.01; SDSLP-FLASH = 0.02 ± 0.01, SDSLP-SSFP = 0.06 ± 0.02, p = 0.03). Example rest and stress data sets from the patient pool demonstrate that the low flip angle SSFP protocol can exhibit severe ghosting artifacts originating from off-resonance banding artifacts at the edges of the field of view that parallel imaging is not able to unfold. These artifacts lead to errors in the quantitative perfusion maps and the semi-quantitative perfusion indexes, such as false positives. It is shown that this can be avoided by using FLASH-PD frames as input for the SCIC. CONCLUSIONS: FLASH-PD images are recommended as input for SCIC of SSFP perfusion images instead of low flip angle SSFP-PD images.
-DO  - 10.1186/s12968-015-0120-6
-AN  - 25827180
-UR  - https://pubmed.ncbi.nlm.nih.gov/25827180/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - [The radiotherapy FLASH to save healthy tissues].
 AU  - Favaudon V
 AU  - Fouillade C
@@ -25811,24 +25653,6 @@ AN  - 25744253
 UR  - https://pubmed.ncbi.nlm.nih.gov/25744253/
 KW  - FLASH:Radiobiology
 KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Evaluation of the Flash effect in breast irradiation using TomoDirect: an investigational study.
-AU  - Kang DG
-AU  - Park SI
-AU  - Kim SH
-AU  - Chung MJ
-AU  - Lee KM
-AU  - Lee JH
-PY  - 2015
-JO  - Journal of radiation research
-AB  - Flash is a specified function in TomoDirect that enables beam expansion by opening additional leaves to the target. This study assessed the theoretical dose distribution resulting from Flash in breast irradiation using TomoDirect. A cylindrical phantom that enabled dose distribution of the breast was used for verifying the effect of planning target volume (PTV) contouring and Flash. A total of 18 Gy in 10 fractions were prescribed to the PTV. Five PTVs were then created by Contracting this contour by 0, 1, 2, 3, 4 and 5 mm, giving PTV-x. Flash ±x is defined by opening x (number) of the leaves. The Flash effect in the air was compared with each set-up error of 5, 10 and 15 mm, respectively. The minimum PTV dose from PTV-1 to PTV-3 increased from 13.88 Gy to 15.86 Gy. In contrast, Dmin in PTV-4 and PTV-5 was 17.80 Gy in 98.88% of the prescription dose. Without Flash, when 5-, 10- and 15-mm set-up errors applied in the PTV, relative doses of 87.88, 23.73 and 7.94% were observed, respectively. However, in Flash 3, which was equal to the usual air margin of 1.875 cm, a relative dose of 104.24% ± 0.30% was observed, irrespective of set-up errors (5 mm to 15 mm). Flash opening is useful for countervailing set-up errors in breast cancer patients who receive breast irradiation with TomoDirect.
-DO  - 10.1093/jrr/rru118
-AN  - 25672612
-UR  - https://pubmed.ncbi.nlm.nih.gov/25672612/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
@@ -25969,50 +25793,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Experimental investigation of a local recirculation photobioreactor for mass cultures of photosynthetic microorganisms.
-AU  - Moroni M
-AU  - Cicci A
-AU  - Bravi M
-PY  - 2014
-JO  - Water research
-AB  - The present work deals with the experimental fluid mechanics analysis of a wavy-bottomed cascade photobioreactor, to characterize the extent and period of recirculatory and straight-flowing streams establishing therein as a function of reactor inclination and liquid flow rate. The substream characterization via Feature Tracking (FT) showed that a local recirculation zone establishes in each vane only at inclinations ≤6° and that its location changes from the lower (≤3°) to the upper part of each vane (6°). A straight-flowing stream flows opposite (above or below) the local recirculation stream. The recirculation time ranges from 0.86 s to 0.23 s, corresponding, respectively, to the minimum flow rate at the minimum inclination and to the maximum flow rate at the maximum inclination where recirculation was observed. The increase of photosynthetic activity, resulting from the entailed "flash effect", was estimated to range between 102 and 113% with respect to equivalent tubular and bubble column photobioreactors.
-DO  - 10.1016/j.watres.2013.12.033
-AN  - 24447955
-UR  - https://pubmed.ncbi.nlm.nih.gov/24447955/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Liquid crystal display screens as stimulators for visually evoked potentials: flash effect due to delay in luminance changes.
-AU  - Matsumoto CS
-AU  - Shinoda K
-AU  - Matsumoto H
-AU  - Funada H
-AU  - Minoda H
-AU  - Mizota A
-PY  - 2013
-JO  - Documenta ophthalmologica. Advances in ophthalmology
-AB  - PURPOSE: The cathode-ray tube (CRT) screen has recently been replaced by liquid crystal display (LCD) screens as visual stimulators for pattern-reversal visually evoked potentials (p-VEPs). The aim of the study was to evaluate the usefulness of LCD screen to elicit p-VEPs. METHODS: The waveforms of the p-VEPs elicited by a LCD panel were compared with those elicited by a conventional CRT screen. The changes in the luminance of each screen were measured with a photodiode, and the mean luminance change was measured with a luminance meter. VEPs and electroretinograms (ERGs) were also recorded when the monitor was covered by a diffuser. RESULTS: The p-VEPs elicited by the LCD consisted of the N75 and P100 components of the conventional VEPs and had good reproducibility. The average latency of these components was significantly delayed by 9.8 ms for N75 and 10.2 ms for P100, and the N75-P100 amplitude was significantly larger than the conventional p-VEP elicited by the CRT screen. During the reversal phase, especially from black-to-white, the luminance of the LCD screen was transiently reduced, and it elicited a flash VEP and ERG. A reduction in the contrast of the checks minimized the transient change in the luminance, and the VEP waveform was more similar to that elicited by the CRT screen. CONCLUSIONS: The results suggest that when an LCD monitor is used as an alternative visual stimulator to elicit p-VEPs, the delay in the luminance change and the flash effect needs to be taken into account.
-DO  - 10.1007/s10633-013-9387-9
-AN  - 23690204
-UR  - https://pubmed.ncbi.nlm.nih.gov/23690204/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Recent results of irradiations of DIS-1 dosemeters with an XR200 X-ray flash unit.
-AU  - Zutz H
-AU  - Hupe O
-PY  - 2013
-JO  - Radiation protection dosimetry
-AB  - Earlier measurements have revealed that active electronic dosemeters have deficiencies in pulsed fields of ionising radiation due to the counting technique used. The DIS-1 dosemeter uses a promising technology, which should be basically suitable for measurements in pulsed fields. In this paper, first measurements with the DIS-1 dosemeter at an X-ray flash generator XR200 with pulse durations of ∼115 ns and doses per pulse of a few microsievert are shown.
-DO  - 10.1093/rpd/ncs265
-AN  - 23075930
-UR  - https://pubmed.ncbi.nlm.nih.gov/23075930/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
 TI  - Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.
 AU  - Meesat R
 AU  - Belmouaddine H
@@ -26034,20 +25814,6 @@ DO  - 10.1073/pnas.1116286109
 AN  - 22927378
 UR  - https://pubmed.ncbi.nlm.nih.gov/22927378/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Free energy relationships for reactions of substituted benzhydrylium ions: from enthalpy over entropy to diffusion control.
-AU  - Ammer J
-AU  - Nolte C
-AU  - Mayr H
-PY  - 2012
-JO  - Journal of the American Chemical Society
-AB  - Second-order rate constants k(2) for the reactions of various donor- and acceptor-substituted benzhydrylium ions Ar(2)CH(+) with π-nucleophiles in CH(2)Cl(2) were determined by laser flash irradiation of benzhydryl triarylphosphonium salts Ar(2)CH-PAr(3)(+)X(-) in the presence of a large excess of the nucleophiles. This method allowed us to investigate fast reactions up to the diffusional limit including reactions of highly reactive benzhydrylium ions with m-fluoro and p-(trifluoromethyl) substituents. The rate constants determined in this work and relevant literature data were jointly subjected to a correlation analysis to derive the electrophilicity parameters E for acceptor-substituted benzhydrylium ions, as defined by the linear free energy relationship log k(2)(20 °C) = s(N)(N + E). The new correlation analysis also leads to the N and s(N) parameters of 18 π-nucleophiles, which have only vaguely been characterized previously. The correlations of log k(2) versus E are linear well beyond the range where the activation enthalpies ΔH(++) of the reactions are extrapolated to reach the value of ΔH(++) = 0, showing that the change from enthalpy control to entropy control does not cause a bend in the linear free energy relationship, a novel manifestation of the compensation effect. A flattening of the correlation lines only occurs for k(2) > 10(8) M(-1) s(-1) when the diffusion limit is approached.
-DO  - 10.1021/ja306522b
-AN  - 22839678
-UR  - https://pubmed.ncbi.nlm.nih.gov/22839678/
-KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
@@ -26097,44 +25863,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Dosimetric characteristics and quality control tests for the collimator sectors of the Leksell Gamma Knife(®) Perfexion(TM).
-AU  - Bhatnagar JP
-AU  - Novotny J
-AU  - Huq MS
-PY  - 2012
-JO  - Medical physics
-AB  - PURPOSE: The purpose of this study was to evaluate the dosimetric characteristics of each sector of the Leksell Gamma Knife Perfexion (LGK PFX) and to develop tests that can be done for the routine quality assurance checks of the sectors of the LGK PFX. METHODS: The following tests were performed to evaluate the dosimetric characteristics of the sectors: (1) Flash-radiation dose for the 16 mm collimator, (2) transit-radiation dose for the 8 and 4 mm collimators, (3) sector leakage within the radiation cavity and, (4) sector output uniformity. In these tests, the Elekta ABS phantom was used. A micropoint ion-chamber Exradin A16 was placed at the center of the phantom for all measurements. RESULTS: With the version 8.0 of the control software of the MCU in the LGK PFX, the average flash-radiation dose per sector for the 16 mm collimator was measured to be 0.423 ± 0.003 cGy, and the average transit-radiation dose per sector for the 8 and 4 mm collimators was measured to be 0.169 ± 0.0009 and 0.147 ± 0.020 cGy, respectively. The calibration dose rate on the day of measurements was 280.8 cGy/min. Here, the authors have introduced a new concept of "equivalent-time-duration" (ETD) to represent the time duration, during which the flash-radiation or the transit-radiation dose is delivered. The ETD is a quotient of the measured dose of the flash-radiation or the transit-radiation and the respective calibrated dose rate for the 16, 8, or 4 mm collimator. The ETD constancy is an indicator of the constancy of the sector movements. The average value of ETD per sector was measured to be 724 ± 6, 313 ± 2, and 311 ± 45 ms for the 16, 8, and 4 mm collimators, respectively. During monthly spot checks, the authors have been measuring the total ETD for the flash-radiation when all eight sectors are open with the 16 mm collimator. The average value of the total ETD of the last 40 consecutive months was measured to be 642 ± 10 ms. This number is a useful quality parameter for the LGK PFX, which can be used to establish the base-line performance of the collimators of the LGK PFX. The reader is alerted that with the newly introduced version 9.0 of the control software of the MCU in the LGK PFX, the flash-radiation and the transit-radiation doses have become practically zero due to the fact that the treatment time is now corrected to compensate for these radiation doses. The sector output uniformity for the 16, 8, and 4 mm collimators was determined to be 98.9%, 97.3%, and 96.6%, respectively. The total leakage radiation with in the radiation cavity from all sectors was measured to be 0.17% of the dose output for the 16 mm collimator. CONCLUSIONS: Our measurements show that the dosimetric characteristics of all sectors of the LGK PFX are satisfactory. The authors recommend that the sector performance of the LGK PFX be determined initially at the time of installation of the LGK PFX and thereafter, at least annually. Similarly, our recommendation is that the total flash-radiation dose for the 16 mm collimator and the corresponding ETD value be measured on a monthly basis. Should any change in the sector movement occur, it will be revealed by the sector performance and the measurement of ETD.
-DO  - 10.1118/1.3668057
-AN  - 22225292
-UR  - https://pubmed.ncbi.nlm.nih.gov/22225292/
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
-TI  - Magnifying lens for 800 MeV proton radiography.
-AU  - Merrill FE
-AU  - Campos E
-AU  - Espinoza C
-AU  - Hogan G
-AU  - Hollander B
-AU  - Lopez J
-AU  - Mariam FG
-AU  - Morley D
-AU  - Morris CL
-AU  - Murray M
-AU  - Saunders A
-AU  - Schwartz C
-AU  - Thompson TN
-PY  - 2011
-JO  - The Review of scientific instruments
-AB  - This article describes the design and performance of a magnifying magnetic-lens system designed, built, and commissioned at the Los Alamos National Laboratory (LANL) for 800 MeV flash proton radiography. The technique of flash proton radiography has been developed at LANL to study material properties under dynamic loading conditions through the analysis of time sequences of proton radiographs. The requirements of this growing experimental program have resulted in the need for improvements in spatial radiographic resolution. To meet these needs, a new magnetic lens system, consisting of four permanent magnet quadrupoles, has been developed. This new lens system was designed to reduce the second order chromatic aberrations, the dominant source of image blur in 800 MeV proton radiography, as well as magnifying the image to reduce the blur contribution from the detector and camera systems. The recently commissioned lens system performed as designed, providing nearly a factor of three improvement in radiographic resolution.
-DO  - 10.1063/1.3652974
-AN  - 22047305
-UR  - https://pubmed.ncbi.nlm.nih.gov/22047305/
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
 TI  - Survival of tumor cells after proton irradiation with ultra-high dose rates.
 AU  - Auer S
 AU  - Hable V
@@ -26180,73 +25908,6 @@ KW  - FLASH:Treatment Planning & Optimization
 ER  - 
 
 TY  - JOUR
-TI  - The extreme ultraviolet split and femtosecond delay unit at the plane grating monochromator beamline PG2 at FLASH.
-AU  - Sorgenfrei F
-AU  - Schlotter WF
-AU  - Beeck T
-AU  - Nagasono M
-AU  - Gieschen S
-AU  - Meyer H
-AU  - Föhlisch A
-AU  - Beye M
-AU  - Wurth W
-PY  - 2010
-JO  - The Review of scientific instruments
-AB  - An extreme ultraviolet split and femtosecond delay unit based on grazing incidence Mach-Zehnder geometry has been designed and implemented on the plane grating monochromator beamline PG2 at FLASH, the Free Electron Laser at DESY. This device splits the FLASH radiation into two beams, which can independently be steered, filtered and temporally delayed between -5.1 and +5.1 ps with uncertainty in the temporal accuracy of 210 as. To demonstrate the performance of this device, we have performed longitudinal coherence studies of FLASH radiation as well as measured the pulse length by nonlinear two-photon double-ionization in helium.
-DO  - 10.1063/1.3374166
-AN  - 20441325
-UR  - https://pubmed.ncbi.nlm.nih.gov/20441325/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Mechanistic and energetic aspects of the thermal and photochemical redox chemistry of the octanuclear cubane complexes, Fe(III)(8)(mu(4)-O(4))(mu-pyrazolate)(12)X(4) (X = Cl or Br).
-AU  - Ferraudi G
-AU  - Piñero D
-AU  - Chakraborty I
-AU  - Raptis RG
-AU  - Lappin AG
-AU  - Berlin N
-PY  - 2010
-JO  - The journal of physical chemistry. A
-AB  - The mechanisms of the thermal and photochemical redox reactions of clusters [Fe(III)(8)(mu(4)-O(4))(mu-Pz)(12)X(4)] (Pz = pyrazolate anion, X = Cl or Br) were investigated in this work. Reactions of the complexes with e(-)(sol), C(*)H(2)OH, and several powerful reducing transition metal complexes were investigated using the pulse radiolysis technique. Reaction rates of the outer-sphere electron transfer reactions with transition metal complexes had to be rationalized by invoking the formation of a [Fe(III)(7)Fe(II) '(mu(4)-O(4))(mu-Pz)(12)X(4)](-) intermediate or excited state. A transient species observed in the reaction of the e(-)(sol) with the cubanes can be either an excited state or a reaction intermediate mediating the formation of the stable product, [Fe(III)(7)Fe(II)(mu(4)-O(4))(mu-Pz)(12)X(4)](-). Photoredox reactions, characteristic of the ligand X(-) to Fe(III) charge transfer excited sates, were observed in the 350 nm steady state and 351 nm laser flash irradiations of the cubanes. Quantum yields are limited by the rapid recombination of the photofragments. The charge transfer spectroscopy of the products was rationalized on the basis of parameters derived from the thermal electron transfer reactions.
-DO  - 10.1021/jp911644e
-AN  - 20394449
-UR  - https://pubmed.ncbi.nlm.nih.gov/20394449/
-KW  - FLASH:Modeling & Mechanisms
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
-TI  - Visualizing changes in electron distribution in coupled chains of cytochrome bc(1) by modifying barrier for electron transfer between the FeS cluster and heme c(1).
-AU  - Cieluch E
-AU  - Pietryga K
-AU  - Sarewicz M
-AU  - Osyczka A
-PY  - 2010
-JO  - Biochimica et biophysica acta
-AB  - Cytochrome c(1) of Rhodobacter (Rba.) species provides a series of mutants which change barriers for electron transfer through the cofactor chains of cytochrome bc(1) by modifying heme c(1) redox midpoint potential. Analysis of post-flash electron distribution in such systems can provide useful information about the contribution of individual reactions to the overall electron flow. In Rba. capsulatus, the non-functional low-potential forms of cytochrome c(1) which are devoid of the disulfide bond naturally present in this protein revert spontaneously by introducing a second-site suppression (mutation A181T) that brings the potential of heme c(1) back to the functionally high levels, yet maintains it some 100 mV lower from the native value. Here we report that the disulfide and the mutation A181T can coexist in one protein but the mutation exerts a dominant effect on the redox properties of heme c(1) and the potential remains at the same lower value as in the disulfide-free form. This establishes effective means to modify a barrier for electron transfer between the FeS cluster and heme c(1) without breaking disulfide. A comparison of the flash-induced electron transfers in native and mutated cytochrome bc(1) revealed significant differences in the post-flash equilibrium distribution of electrons only when the connection of the chains with the quinone pool was interrupted at the level of either of the catalytic sites by the use of specific inhibitors, antimycin or myxothiazol. In the non-inhibited system no such differences were observed. We explain the results using a kinetic model in which a shift in the equilibrium of one reaction influences the equilibrium of all remaining reactions in the cofactor chains. It follows a rather simple description in which the direction of electron flow through the coupled chains of cytochrome bc(1) exclusively depends on the rates of all reversible partial reactions, including the Q/QH2 exchange rate to/from the catalytic sites.
-DO  - 10.1016/j.bbabio.2009.11.003
-AN  - 19917265
-UR  - https://pubmed.ncbi.nlm.nih.gov/19917265/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Flash reduction and patterning of graphite oxide and its polymer composite.
-AU  - Cote LJ
-AU  - Cruz-Silva R
-AU  - Huang J
-PY  - 2009
-JO  - Journal of the American Chemical Society
-AB  - Graphite oxide (GO) is a promising precursor for the bulk production of graphene-based materials due to its relatively low cost of synthesis. The superior solvent processability of GO makes it particularly attractive for making composites by premixing with other materials. Typically, the reduction of GO has relied on either chemical agents or high temperature treatment. Here we report a room temperature, chemical-free flash reduction process where a photographic camera flash instantaneously triggers the deoxygenation reaction of GO by photothermal heating. Flash irradiation also rapidly creates a fused polymer composite from a random mixture of GO and polymer particles. Using a photomask, conducting patterns such as interdigitated electrode arrays can be readily made on flexible substrates.
-DO  - 10.1021/ja902348k
-AN  - 19601624
-UR  - https://pubmed.ncbi.nlm.nih.gov/19601624/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - Treatment planning for laser-accelerated very-high energy electrons.
 AU  - Fuchs T
 AU  - Szymanowski H
@@ -26265,19 +25926,6 @@ KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Physics & Dosimetry
 KW  - FLASH:Treatment Planning & Optimization
-ER  - 
-
-TY  - JOUR
-TI  - What does the illusory-flash look like?
-AU  - McCormick D
-AU  - Mamassian P
-PY  - 2008
-JO  - Vision research
-AB  - In the illusory-flash effect (Shams, L., Kamitani, Y., & Shimojo, S. (2000). Illusions. What you see is what you hear. Nature, 408, 788), one flash presented with two tones has a tendency to be seen as two flashes. Previous studies of this effect have been ill-equipped to establish whether this illusory-flash is the result of a genuine percept, or that of a shift in criterion. We addressed this issue by using a stimulus comprising two locations. This enabled contrast-threshold measurement by means of a location detection task. High-contrast white or black flashes were presented simultaneously to both locations, followed by threshold contrast flashes of the same contrast polarity at the two locations in half of the trials; observers reported whether or not the low-contrast flashes had been present. Irrelevant to the task, half of the trials contained one tone, the other half contained two tones. In this way, we were able to compute the change in sensitivity and shift in criterion between illusory and non-illusory trials. We observe both a decrease in visual sensitivity and a criterion shift in the illusory-flash conditions. In a second experiment, we were interested in determining whether this change in visual sensitivity gave rise to measurable visual attributes of the illusory-flash. If it has a contrast, it should interact with a spatio-temporally concurrent real flash. Using a similar two-location stimulus presentation, we found that under certain conditions, we were able to infer the polarity of the perceived illusory-flash. We conclude that the illusory-flash is indeed a perceptual effect with psychophysically assessable characteristics.
-DO  - 10.1016/j.visres.2007.10.010
-AN  - 18054372
-UR  - https://pubmed.ncbi.nlm.nih.gov/18054372/
-KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
@@ -26311,75 +25959,19 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Speech and non-speech audio-visual illusions: a developmental study.
-AU  - Tremblay C
-AU  - Champoux F
-AU  - Voss P
-AU  - Bacon BA
-AU  - Lepore F
-AU  - Théoret H
+TI  - Application of low-cost Gallium Arsenide light-emitting-diodes as kerma dosemeter and fluence monitor for high-energy neutrons.
+AU  - Mukherjee B
+AU  - Simrock S
+AU  - Khachan J
+AU  - Rybka D
+AU  - Romaniuk R
 PY  - 2007
-JO  - PloS one
-AB  - It is well known that simultaneous presentation of incongruent audio and visual stimuli can lead to illusory percepts. Recent data suggest that distinct processes underlie non-specific intersensory speech as opposed to non-speech perception. However, the development of both speech and non-speech intersensory perception across childhood and adolescence remains poorly defined. Thirty-eight observers aged 5 to 19 were tested on the McGurk effect (an audio-visual illusion involving speech), the Illusory Flash effect and the Fusion effect (two audio-visual illusions not involving speech) to investigate the development of audio-visual interactions and contrast speech vs. non-speech developmental patterns. Whereas the strength of audio-visual speech illusions varied as a direct function of maturational level, performance on non-speech illusory tasks appeared to be homogeneous across all ages. These data support the existence of independent maturational processes underlying speech and non-speech audio-visual illusory effects.
-DO  - 10.1371/journal.pone.0000742
-AN  - 17710142
-UR  - https://pubmed.ncbi.nlm.nih.gov/17710142/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Characteristics of focused soft X-ray free-electron laser beam determined by ablation of organic molecular solids.
-AU  - Chalupský J
-AU  - Juha L
-AU  - Kuba J
-AU  - Cihelka J
-AU  - Hájková V
-AU  - Koptyaev S
-AU  - Krása J
-AU  - Velyhan A
-AU  - Bergh M
-AU  - Caleman C
-AU  - Hajdu J
-AU  - Bionta RM
-AU  - Chapman H
-AU  - Hau-Riege SP
-AU  - London RA
-AU  - Jurek M
-AU  - Krzywinski J
-AU  - Nietubyc R
-AU  - Pelka JB
-AU  - Sobierajski R
-AU  - Meyer-Ter-Vehn J
-AU  - Tronnier A
-AU  - Sokolowski-Tinten K
-AU  - Stojanovic N
-AU  - Tiedtke K
-AU  - Toleikis S
-AU  - Tschentscher T
-AU  - Wabnitz H
-AU  - Zastrau U
-PY  - 2007
-JO  - Optics express
-AB  - A linear accelerator based source of coherent radiation, FLASH (Free-electron LASer in Hamburg) provides ultra-intense femtosecond radiation pulses at wavelengths from the extreme ultraviolet (XUV; lambda<100nm) to the soft X-ray (SXR; lambda<30nm) spectral regions. 25-fs pulses of 32-nm FLASH radiation were used to determine the ablation parameters of PMMA - poly (methyl methacrylate). Under these irradiation conditions the attenuation length and ablation threshold were found to be (56.9+/-7.5) nm and approximately 2 mJ*cm(-2), respectively. For a second wavelength of 21.7 nm, the PMMA ablation was utilized to image the transverse intensity distribution within the focused beam at mum resolution by a method developed here.
-DO  - 10.1364/oe.15.006036
-AN  - 19546907
-UR  - https://pubmed.ncbi.nlm.nih.gov/19546907/
+JO  - Radiation protection dosimetry
+AB  - Displacement damage (DD) caused by fast neutrons in unbiased Gallium Arsenide (GaAs) light emitting diodes (LED) resulted in a reduction of the light output. On the other hand, a similar type of LED irradiated with gamma rays from a (60)Co source up to a dose level in excess of 1.0 kGy (1.0 x 10(5) rad) was found to show no significant drop of the light emission. This phenomenon was used to develop a low cost passive fluence monitor and kinetic energy released per unit mass dosemeter for accelerator-produced neutrons. These LED-dosemeters were used to assess the integrated fluence of photoneutrons, which were contaminated with a strong bremsstrahlung gamma-background generated by the 730 MeV superconducting electron linac driving the free electron laser in Hamburg (FLASH) at Deutsches Elektronen-Synchrotron. The applications of GaAs LED as a routine neutron fluence monitor and DD precursor for the electronic components located in high-energy accelerator environment are highlighted.
+DO  - 10.1093/rpd/ncm053
+AN  - 17517672
+UR  - https://pubmed.ncbi.nlm.nih.gov/17517672/
 KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Early cross-modal interactions in auditory and visual cortex underlie a sound-induced visual illusion.
-AU  - Mishra J
-AU  - Martinez A
-AU  - Sejnowski TJ
-AU  - Hillyard SA
-PY  - 2007
-JO  - The Journal of neuroscience : the official journal of the Society for Neuroscience
-AB  - When a single flash of light is presented interposed between two brief auditory stimuli separated by 60-100 ms, subjects typically report perceiving two flashes (Shams et al., 2000, 2002). We investigated the timing and localization of the cortical processes that underlie this illusory flash effect in 34 subjects by means of 64-channel recordings of event-related potentials (ERPs). A difference ERP calculated to isolate neural activity associated with the illusory second flash revealed an early modulation of visual cortex activity at 30-60 ms after the second sound, which was larger in amplitude in subjects who saw the illusory flash more frequently. These subjects also showed this early modulation in response to other combinations of auditory and visual stimuli, thus pointing to consistent individual differences in the neural connectivity that underlies cross-modal integration. The overall pattern of cortical activity associated with the cross-modally induced illusory flash, however, differed markedly from that evoked by a real second flash. A trial-by-trial analysis showed that short-latency ERP activity localized to auditory cortex and polymodal cortex of the temporal lobe, concurrent with gamma bursts in visual cortex, were associated with perception of the double-flash illusion. These results provide evidence that perception of the illusory second flash is based on a very rapid dynamic interplay between auditory and visual cortical areas that is triggered by the second sound.
-DO  - 10.1523/JNEUROSCI.4912-06.2007
-AN  - 17428990
-UR  - https://pubmed.ncbi.nlm.nih.gov/17428990/
-KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
@@ -26394,25 +25986,6 @@ AB  - The results of the comparative study of radiation effects of the pulse rea
 AN  - 16209185
 UR  - https://pubmed.ncbi.nlm.nih.gov/16209185/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Compact monochromatic flash x-ray generator utilizing a disk-cathode molybdenum tube.
-AU  - Sato E
-AU  - Tanaka E
-AU  - Mori H
-AU  - Kawai T
-AU  - Ichimaru T
-AU  - Sato S
-AU  - Takayama K
-AU  - Ido H
-PY  - 2005
-JO  - Medical physics
-AB  - The high-voltage condensers in a polarity-inversion two-stage Marx surge generator are charged from -50 to -70 kV by a power supply, and the electric charges in the condensers are discharged to an x-ray tube after closing gap switches in the surge generator with a trigger device. The x-ray tube is a demountable diode, and the turbo molecular pump evacuates air from the tube with a pressure of approximately 1 mPa. Clean molybdenum Kalpha lines are produced using a 20 microm-thick zirconium filter, since the tube utilizes a disk cathode and a rod target, and bremsstrahlung rays are not emitted in the opposite direction to that of electron acceleration. At a charging voltage of -70 kV, the instantaneous tube voltage and current were 120 kV and 1.0 kA, respectively. The x-ray pulse widths were approximately 70 ns, and the generator produced instantaneous number of Kalpha photons was approximately 3 x 10(7) photons/cm2 per pulse at 0.5 m from the source of 3.0 mm in diameter.
-DO  - 10.1118/1.1829247
-AN  - 15719954
-UR  - https://pubmed.ncbi.nlm.nih.gov/15719954/
-KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
@@ -26441,57 +26014,6 @@ AB  - Several experiments are described that relate to the application of new re
 DO  - 10.1007/s00411-004-0259-2
 AN  - 15549348
 UR  - https://pubmed.ncbi.nlm.nih.gov/15549348/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Irradiation of intense characteristic x-rays from weakly ionized linear molybdenum plasma.
-AU  - Sato E
-AU  - Hayasi Y
-AU  - Germer R
-AU  - Tanaka E
-AU  - Mori H
-AU  - Kawai T
-AU  - Obara H
-AU  - Ichimaru T
-AU  - Takayama K
-AU  - Ido H
-PY  - 2003
-JO  - Igaku butsuri : Nihon Igaku Butsuri Gakkai kikanshi = Japanese journal of medical physics : an official journal of Japan Society of Medical Physics
-AB  - In the plasma flash x-ray generator, a high-voltage main condenser of approximately 200 nF is charged up to 55 kV by a power supply, and electric charges in the condenser are discharged to an x-ray tube after triggering the cathode electrode. The flash x-rays are then produced. The x-ray tube is a demountable triode that is connected to a turbo molecular pump with a pressure of approximately 1 mPa. As electron flows from the cathode electrode are roughly converged to a rod molybdenum target of 2.0 mm in diameter by the electric field in the x-ray tube, weakly ionized linear plasma, which consists of molybdenum ions and electrons, forms by target evaporation. At a charging voltage of 55 kV, the maximum tube voltage was almost equal to the charging voltage of the main condenser, and the peak current was about 20 kA. When the charging voltage was increased, the linear plasma formed, and the K-series characteristic x-ray intensities increased. The K lines were quite sharp and intense, and hardly any bremsstrahlung rays were detected. The x-ray pulse widths were approximately 700 ns, and the time-integrated x-ray intensity had a value of approximately 35 micro C/kg at 1.0 m from the x-ray source with a charging voltage of 50 kV.
-AN  - 12949421
-UR  - https://pubmed.ncbi.nlm.nih.gov/12949421/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Evidence for inverted region behavior in proton transfer to carbanions.
-AU  - Andrieux CP
-AU  - Gamby J
-AU  - Hapiot P
-AU  - Savéant JM
-PY  - 2003
-JO  - Journal of the American Chemical Society
-AB  - The diphenylmethane-diphenylmethyl anion acid/base couple in N,N-dimethylformamide is taken as an example for investigating the dynamics of proton transfer at carbon in a system where the acid is not activated by an electron-withdrawing group or by removal of an electron. The laser flash electron photoinjection technique is applied to the determination of the rate constant for the protonation of diphenylmethyl anion by an extended series of acids that offers a range of driving forces encompassing over 1.2 eV. The plot of the rate constant versus the pK(a) difference between diphenylmethane and the acids or of the activation free energy versus the standard free energy of the reaction exhibits clear "inverted region" behavior (by a factor of 80 in terms of rate constants). While such behaviors have been predicted and observed for outersphere electron-transfer reactions, previous evidence for proton-transfer reactions was scarce. Entropic factors, derived from an investigation of the temperature dependence of the experimental rate constants, are also discussed.
-DO  - 10.1021/ja035268f
-AN  - 12914476
-UR  - https://pubmed.ncbi.nlm.nih.gov/12914476/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Quantitative tissue perfusion measurements in head and neck carcinoma patients before and during radiation therapy with a non-invasive MR imaging spin-labeling technique.
-AU  - Schmitt P
-AU  - Kotas M
-AU  - Tobermann A
-AU  - Haase A
-AU  - Flentje M
-PY  - 2003
-JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
-AB  - PURPOSE: Tumor blood flow, tumor tissue perfusion and oxygen supply have substantial influence on the responsiveness of tumors to radiotherapy. This study was aimed at implementing and evaluating a non-invasive functional magnetic resonance (MR) imaging spin-labeling technique at a main magnetic field strength of 2T for measuring tissue perfusion changes in head and neck carcinoma patients before and during radiotherapy. METHODS: Tissue perfusion was determined quantitatively in ten patients with head and neck cancer. Five patients were investigated twice during radiation therapy. For perfusion measurements, a non-invasive MR spin-labeling technique was employed: The longitudinal relaxation time T(1) was measured with segmented Snapshot-FLASH imaging after either slice-selective or non-selective spin inversion. Perfusion values were calculated pixelwise employing a two-compartment tissue model. With this technique no contrast agents are required so that repetitive measurements are possible. Perfusion images with a slice thickness of 10mm and an in-plane resolution of 1.9x2.8mm(2) were acquired at a total scan time of 8:30min per scan. RESULTS: With the non-invasive MR imaging technique it was possible to visualize tumor and normal tissue perfusion as well as perfusion changes in the course of radiotherapy with a spatial resolution of less than 3mm. Among the investigated subjects measured tumor perfusion and changes in perfusion were heterogenous. In 4/5 patients studied at the start and end of radiotherapy, perfusion decreased, while in one patient there was an increase. CONCLUSIONS: A method is presented that allows non-invasive and repetitive characterization of tissue perfusion. This parameter may be used for treatment stratification, especially in treatments that use vasomodulation or anti-angiogenic agents.
-DO  - 10.1016/s0167-8140(03)00024-0
-AN  - 12758237
-UR  - https://pubmed.ncbi.nlm.nih.gov/12758237/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -26527,20 +26049,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Dynamics of proton transfer at nonactivated carbons from laser flash electron photoinjection experiments.
-AU  - Gamby J
-AU  - Hapiot P
-AU  - Savéant JM
-PY  - 2002
-JO  - Journal of the American Chemical Society
-AB  - The investigation of proton exchange dynamics at carbon atoms has been so far limited to molecules activated by an electron-withdrawing substituent or by the removal of one electron yielding the corresponding cation radical. A method is proposed to overcome this limitation and extend the gathering of data to nonactivated carbon acids, RH. It consists of using photoinjected electrons to generate the radical R. from a rapidly or concertedly cleaving substrate, RX. The variations of the radical "polarogram" (in which R. is converted into R-) upon addition of an acid are then exploited to derive the protonation rate constant of R-. The method is demonstrated with the example of the diphenylmethyl carbanion. The Brönsted plot thus obtained indicates that proton transfer to this carbanion is intrinsically slow, with a barrier on the order of 1 eV. An inverted region behavior seems to appear at large driving forces.
-DO  - 10.1021/ja026804r
-AN  - 12137524
-UR  - https://pubmed.ncbi.nlm.nih.gov/12137524/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - Optimization of intensity-modulated very high energy (50-250 MeV) electron therapy.
 AU  - Yeboah C
 AU  - Sandison GA
@@ -26553,54 +26061,6 @@ AN  - 12030556
 UR  - https://pubmed.ncbi.nlm.nih.gov/12030556/
 KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Modeling & Mechanisms
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Double-flash, large-fraction radiation therapy as palliative treatment of malignant superior vena cava syndrome in the elderly.
-AU  - Lonardi F
-AU  - Gioga G
-AU  - Agus G
-AU  - Coeli M
-AU  - Campostrini F
-PY  - 2002
-JO  - Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer
-AB  - Rapid control of symptoms is mandatory in cancer-induced superior vena cava syndrome (SVCS), but older patients often do not tolerate aggressive approaches. In order to maximize symptom relief and minimize treatment-related discomfort of aged patients in poor health we adopted a short-course, large-fraction radiation therapy (RT) schedule. Twenty-three consecutive patients aged over 70 who were suffering from solid-malignancy-related SVCS were enrolled. A total dose of 12 Gy was given in two 6-Gy fractions, 1 week apart, mainly in an out-patient setting. Completion of therapy to give up to 37-40 Gy was planned in the best-responding patients. Symptom relief was experienced by 8 patients as early as 4-5 days after the first fraction. The overall response rate was 87%. Despite some mild systemic side effects (chest pain, fever) reported by 5 patients (22%), overall toxicity was negligible. Short-course, double-flash RT stands as an effective and safe tool in the palliative treatment of malignant SVCS in older patients. Fractions larger than 6 Gy can be avoided in order to minimize side and toxic effects.
-DO  - 10.1007/s00520-001-0313-4
-AN  - 11862505
-UR  - https://pubmed.ncbi.nlm.nih.gov/11862505/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
-TI  - Roles of amino acid residues near the chromophore of photoactive yellow protein.
-AU  - Imamoto Y
-AU  - Koshimizu H
-AU  - Mihara K
-AU  - Hisatomi O
-AU  - Mizukami T
-AU  - Tsujimoto K
-AU  - Kataoka M
-AU  - Tokunaga F
-PY  - 2001
-JO  - Biochemistry
-AB  - To investigate the roles of amino acid residues around the chromophore in photoactive yellow protein (PYP), new mutants, Y42A, E46A, and T50A were prepared. Their spectroscopic properties were compared with those of wild-type, Y42F, E46Q, T50V, R52Q, and E46Q/T50V, which were previously prepared and specified. The absorption maxima of Y42A, E46A, and T50A were observed at 438, 469, and 454 nm, respectively. The results of pH titration for the chromophore demonstrated that the chromophore of PYP mutant, like the wild-type, was protonated and bleached under acidic conditions. The red-shifts of the absorption maxima in mutants tended toward a pK(a) increase. Mutation at Glu46 induced remarkable shifts in the absorption maxima and pK(a). The extinction coefficients were increased in proportion to the absorption maxima, whereas the oscillator strengths were constant. PYP mutants that conserved Tyr42 were in the pH-dependent equilibrium between two states (yellow and colorless forms). However, Y42A and Y42F were in the pH-independent equilibrium between additional intermediate state(s) at around neutral pH, in which yellow form was dominant in Y42F whereas the other was dominant in Y42A. These findings suggest that Tyr42 acts as the hinge of the protein, and the bulk as well as the hydroxyl group of Tyr42 controls the protein conformation. In all mutants, absorbance at 450 nm was decreased upon flash irradiation and afterwards recovered on a millisecond time scale. However, absorbance at 340--370 nm was increased vice versa, indicating that the long-lived near-UV intermediates are formed from mutants, as in the case of wild-type. The lifetime changes with mutation suggest the regulation of proton movement through a hydrogen-bonding network.
-DO  - 10.1021/bi002291u
-AN  - 11294635
-UR  - https://pubmed.ncbi.nlm.nih.gov/11294635/
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
-TI  - [Drugs and drug abusers].
-AU  - Schlatter J
-AU  - Sitbon N
-AU  - Saulnier JL
-PY  - 2001
-JO  - Presse medicale (Paris, France : 1983)
-AB  - DRUG ABUSERS: Drugs are widely used by toxicomaniacs to reproduce drug effects. Drug abusers generally start with psychotrops, but other abuse drug classes. Toxicomanic behavior leads to addictive practices that are difficult to control. BARBITURATES: Both the oral and intravenous routes are used. The expected result is a state of ecstasy with a feeling of comfort. Intoxication may cause respiratory depression. Barbiturates induce physical and psychic dependence. Abuse is not widespread with this class of drugs. BENZODIAZEPINES: Drug abuses widely use benzodiazepines orally or intravenously. They search for a flash effect, with sedation and a feeling of comfort. All benzodiazepines induce physical and psychic dependence. Death may result from combinations leading to respiratory depression. Flunitrazepam is the most widely abused benzodiazepine in France. It induces serious neuropsychic disorders. ANTIDEPRESSANTS: Few are used, mostly at high doses. OPIATES: Administration gives the same effect as heroine injection. Opiates induce physical and psychic dependence. The adverse effects are similar to those of morphine with a higher risk of respiratory depression. AMPHETAMINES: Few are used, either orally or intravenously. They induce a flash with excitation, euphoria, and a period of invincibility. This is followed by a period of depression with risk of suicide. Psychic dependence is high. ANTICHOLINERGIC ANTIPARKINSONIANS: These drugs are well known to abusers for their hallucinatory effect. They induce atropinic adverse effects and physical and psychic dependence. GAMMA-HYDROXYBUTYRATE: This anesthetic is used for its euphoria and sedation effects. It may induce falling sickness or coma, with a risk of respiratory depression. KETAMINE: Administered via the intranasal route, ketamine induces a state of indifference. Death has been observed. ANABOLIC AND ANDROGENIC STEROIDS: These drugs are used for their physical and psychic stimulating effect. They induce potentially dangerous adverse effects such as cardiovascular, hepatic, neurological and psychiatric disorders. Clinical signs of addiction and weaning are observed. OTHERS: Several other drug classes are used by abusers, including analgics, beta-adrenergic agents, nasal vasoconstrictors and corticosteroids.
-AN  - 11252979
-UR  - https://pubmed.ncbi.nlm.nih.gov/11252979/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -26637,22 +26097,6 @@ KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
-TI  - Laser flash photolysis evidence for styryl radical cation cyclization in the SET-induced photorearrangement of a p-methoxy-substituted 2-phenylallyl phosphite.
-AU  - Shukla D
-AU  - Lu C
-AU  - Schepp NP
-AU  - Bentrude WG
-AU  - Johnston LJ
-PY  - 2000
-JO  - The Journal of organic chemistry
-AB  - The SET-induced photorearrangement of dimethyl 2-(4-methoxyphenyl)allyl phosphite, 9 (UV light, uranium glass filter, 9,10-dicyanoanthracene (DCA), biphenyl), gives phosphonate 12 in 83% isolated yield. Laser flash irradiation at 355 nm of oxygen saturated solutions of phosphite 9 containing DCA and biphenyl generates the transient UV spectrum of the biphenyl radical cation that is quenched by electron transfer from phosphite 9 (k(q) = 8.9 x 10(9) M(-1) s(-1) at 20 degrees C) to form the 4-methoxystyryl cation 10. The UV spectrum of 10 decays by a measured first-order rate constant of 8.0 x 10(6) s(-1), presumably to generate the cyclic distonic radical cation 11. Intermediate 10 was further characterized by measurement of the second-order rate constants for its reaction with azide, chloride, and bromide ions and with the neutral nucleophile trimethyl phosphite. This study provides the first spectroscopic evidence regarding the proposed mechanism (Schemes 1 and 2) for the SET-induced photorearrangements of dimethyl 2-arylallyl phosphites to the corresponding 2-arylallylphosphonates. Moreover, absolute rate constants for the intramolecular trapping of alkene radical cations have seldom been measured. The removal of the electron from the styryl moiety of phosphite 9, rather than from phosphorus, and the detectability of 10 arise from the stabilizing effect of the 4-methoxy substituent. These results, however, do not allow conclusions to be made concerning the site of removal of an electron in the SET-induced photorearrangement of dimethyl 2-phenylallyl phosphite 1 to phosphonate 6.
-DO  - 10.1021/jo0006775
-AN  - 10987955
-UR  - https://pubmed.ncbi.nlm.nih.gov/10987955/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
 AU  - Tillman C
 AU  - Grafström G
@@ -26674,100 +26118,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Comparison of MRI with CT for the radiotherapy planning of prostate cancer: a feasibility study.
-AU  - Khoo VS
-AU  - Padhani AR
-AU  - Tanner SF
-AU  - Finnigan DJ
-AU  - Leach MO
-AU  - Dearnaley DP
-PY  - 1999
-JO  - The British journal of radiology
-AB  - This feasibility study was performed to evaluate the suitability of MRI in defining appropriate pelvic radiotherapy treatment volumes, and to compare MRI sequences with CT for prostate cancer radiotherapy. Five patients with localized prostate cancer, imaged with four MRI sequences (spin echo (SE) T1, turbo SE (TSE) T2, high resolution TSE (HR) T2, and FLASH 3D (F3D)), compared with their corresponding CT planning scans. Segmentation ability of the following pelvic structures: prostatic apex (PA), prostate, rectum, bladder and seminal vesicles (SV), were evaluated by three independent observers. They used a five point grading scale based on the anatomical definition of the organ boundary, tissue contrast and multiplanar display. Results were averaged for the group and for each sequence. There was no significant interobserver variation in the assessed scores (p > 0.1). The average scores (+/- 1 SD) for all pelvic structures assessed by each imaging sequence were CT 1.3 +/- 0.6; SE T1 2.4 +/- 0.9; TSE T2 2.4 +/- 0.7; HR T2 2.2 +/- 0.7 and F3D 3.4 +/- 0.6. Compared with CT, the average MR score for each assessed pelvic structure was higher with a trend for all transaxial MR sequences to provide improved segmentation of the PA and rectum. The F3D sequence scored highest as it provided multiplanar views and avoided the problem of partial volume averaging. MRI, compared with CT, appears to provide improved definition of pelvic treatment volumes but further work is required to confirm this and to address the issues of MRI associated distortion and dosimetry before MRI can be used routinely for pelvic radiotherapy planning.
-DO  - 10.1259/bjr.72.858.10560342
-AN  - 10560342
-UR  - https://pubmed.ncbi.nlm.nih.gov/10560342/
-KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
-TI  - Comparison of Na+/K(+)-ATPase pump currents activated by ATP concentration or voltage jumps.
-AU  - Friedrich T
-AU  - Nagel G
-PY  - 1997
-JO  - Biophysical journal
-AB  - Using the giant patch technique, we combined two fast relaxation methods on excised patches from guinea pig cardiomyocytes to compare the rate constants of the involved reaction steps. Experiments were done in the absence of intra- or extracellular K+. Fast ATP concentration jumps were generated by photolysis of caged ATP at pH 6.3 with laser flash irradiation at a wavelength of 308 nm and 10 ns duration, as described previously. Transient outward currents with a fast rising phase, followed by a slower decay and a small stationary current, were obtained. Voltage pulses were applied to the same patch in the presence or absence of intracellular ATP. Subtraction of the voltage jump-induced currents in the absence of ATP from those taken in the presence of ATP yielded monoexponential transient current signals, which were dependent on external Na+ but did not differ between intracellular pH (pHi) values 6.3 or 7.4. Rate constants showed a characteristic voltage dependence, i.e., saturating at positive potentials (approximately 200 s-1, 24 degrees C) and exponentially rising with increasing negative potentials. Rate constants of the fast component from transient currents obtained after an ATP concentration jump agree well with rate constants from currents obtained after a voltage jump to zero or positive potentials (pHi 6.3), and the two exhibit the same activation energy of approximately 80 kJ.mol-1. For a given membrane patch, the amount of charge that is moved across the plasma membrane is roughly the same for each of the two relaxation techniques.
-DO  - 10.1016/S0006-3495(97)78059-7
-AN  - 9199783
-UR  - https://pubmed.ncbi.nlm.nih.gov/9199783/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Adjuvant postoperative radiotherapy in rectal cancer: 148 cases treated at Florence University with 8 years median follow-up.
-AU  - Cionini L
-AU  - Marzano S
-AU  - Boffi L
-AU  - Cardona G
-AU  - Ficari F
-AU  - Fucini C
-AU  - Tonelli F
-PY  - 1996
-JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
-AB  - BACKGROUND AND PURPOSE: To analyse the outcome, the treatment related side effects, the prognostic significance of clinical parameters in a group of patients with rectal cancer receiving postoperative radiotherapy after radical resection. MATERIALS AND METHODS: From 1980 to 1990 148 consecutive patients with rectal carcinoma stage B2-B3 or C1-C2-C3 were treated with postoperative radiotherapy after radical surgery. All patients received 50 Gy in 25 sessions in 5 weeks. In 42 a "flash' dose of 5 Gy was also given within 24 h before surgery. Median follow up was 8.1 years. RESULTS: At 5 years the overall survival was 54%, the determined (cancer specific) survival 61%, the local recurrence-free survival 88%. The influence of stage, histotype, distance from anal margin, type of surgery, number of involved nodes and flash dose were analysed. Overall and determined survival and distant metastasis rate were significantly influenced (P < 0.005) by the pathological stage. Patients with more than 3 involved nodes presented a significantly lower determined survival (P < 0.001) and a higher distant relapse rate (P < 0.005) than those with 3 or less involved nodes. A higher determined survival (P < 0.01) was also found in patients receiving the preoperative "flash'; this group was however unbalanced in respect to the relative number of cases with 3 or less involved nodes. The incidence of major side effects requiring surgery or hospitalization for medical treatment was 35% before 1985 and 12% thereafter. The systematic use of small bowel visualization during simulation and the discontinuation of the flash dose were the main modifications introduced in the second period. As a consequence of the small bowel visualization the size of lateral fields was slightly reduced and some patients were excluded from the treatment. CONCLUSIONS: Value of postoperative radiotherapy to decrease the incidence of local recurrence was confirmed in this retrospective study; the incidence of side effects was however considerable and did not support the addition of chemotherapy as advised by the NIH consensus meeting. Our policy was therefore moved to preoperative irradiation whose combination with chemotherapy was recently reported to be better tolerated and highly effective.
-DO  - 10.1016/0167-8140(96)01775-6
-AN  - 8884966
-UR  - https://pubmed.ncbi.nlm.nih.gov/8884966/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) Formation in 350 nm Flash Irradiations of Re(2)(CO)(10).
-AU  - Sarakha M
-AU  - Cozzi M
-AU  - Ferraudi G
-PY  - 1996
-JO  - Inorganic chemistry
-AB  - The mechanism of (&mgr;-H)(&mgr;-alkenyl)Re(2)(CO)(8) formation upon UV irradiations of Re(2)(CO)(10) in presence of olefin (styrene, trans-stilbene, 4-methyl-1-cyclohexane, and ethylene) was investigated by laser flash photolyses. Such photoproducts result from reactions of the olefin with eq-Re(2)(CO)(9). No reactions of Re(CO)(5) leading to hydride alkenyl products were observed. Dependences of the reaction rate on olefin concentration and solvent revealed an additional intermediate formed after the addition of the olefin to eq-Re(2)(CO)(9) and before the appearance of the &mgr;-hydrido-&mgr;-alkenyl products.
-DO  - 10.1021/ic951483o
-AN  - 11666567
-UR  - https://pubmed.ncbi.nlm.nih.gov/11666567/
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - [Contrast medium assisted dynamic MR-mammography after diagnostic and therapeutic interventions on the breast].
-AU  - Fischer U
-AU  - Vosshenrich R
-AU  - Kopka L
-AU  - Kahlen O
-AU  - Grabbe E
-PY  - 1996
-JO  - Bildgebung = Imaging
-AB  - In a retrospective study, the authors evaluated the signal behavior of 150 patients after intervention in the breast (40 fine-needle biopsies, 10 core biopsies, 50 open biopsies, 50 tumor-ectomies with additional irradiation therapy). The MR imaging was performed on 1.5-Tesla whole-body scanners using T1-WI GRE sequences in 2D FLASH technique before and 5 times after i.v. application of 0.1 mmol gadopentetate-dimeglumine per kg body weight. There was no signal enhancement after fine-needle biopsy. Hematoma due to core biopsy caused signal increase in every 5th patient. Enhancement after open biopsy was no more visible 6 months postoperatively. 12 months after tumorectomy and radiation therapy, most patients showed no more signal enhancement. In conclusion, MR mammography can be performed after fine-needle biopsy without problems. In case of core biopsy, hematoma should be excluded by sonography before. MR mammography should not be performed within 6 months after open biopsy, or within 12 months after tumorectomy and radiation therapy.
-AN  - 8756151
-UR  - https://pubmed.ncbi.nlm.nih.gov/8756151/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Digital subtraction in Gd-DTPA enhanced imaging of the breast.
-AU  - Flanagan FL
-AU  - Murray JG
-AU  - Gilligan P
-AU  - Stack JP
-AU  - Ennis JT
-PY  - 1995
-JO  - Clinical radiology
-AB  - PURPOSE: This study examines the role of digital subtraction magnetic resonance imaging (MRI) of the breast in the interpretation of the morphology and characteristics of breast disease. METHODS: Thirty-one patients with an abnormal mammogram or clinically palpable abnormality underwent MRI of the breast prior to surgical excision of the lesion. FLASH 3-D images of the breast were acquired before and after IV contrast injection of Gd-DTPA. Digital subtraction was performed on selected images. The images were independently assessed by two radiologists experienced in both mammography and MRI. RESULTS: Accurate diagnosis was possible in 29 out of 31 patients using the subtraction technique compared to 23 cases using the pre-subtraction images alone. The actual extent of disease and multicentricity were also better appreciated on the subtracted image. Subtraction also provided better identification of tumour recurrence in the post-operative and post-radiotherapy breast. Chest wall and lymph node involvement were more easily appreciated on the subtraction images. CONCLUSION: Digital subtraction is a simple, effective and relatively cheap technique which can aid in the interpretation of magnetic resonance imaging of the breast.
-DO  - 10.1016/s0009-9260(05)83106-x
-AN  - 8536396
-UR  - https://pubmed.ncbi.nlm.nih.gov/8536396/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
 AU  - Cygler J
 AU  - Klassen NV
@@ -26783,141 +26133,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Sub-kilohertz flash X-ray generator utilising a glass-enclosed cold-cathode triode.
-AU  - Sato E
-AU  - Takahashi K
-AU  - Sagae M
-AU  - Kimura S
-AU  - Oizumi T
-AU  - Hayasi Y
-AU  - Tamakawa Y
-AU  - Yanagisawa T
-PY  - 1994
-JO  - Medical & biological engineering & computing
-AB  - The construction and fundamental studies are described for a sub-kilohertz X-ray generator for producing low-dose rate flash X-rays. The X-ray tube was a glass-enclosed cold-cathode triode, composed of a tungsten plate target, a rod-shaped graphite cathode, a mesh-type trigger electrode made of tungsten wires, and a glass tube body. The coaxial condenser was charged up to 60 kV by a power supply, and the electric charges in the condenser were discharged to the X-ray tube repetitively when a negative high-voltage pulse was applied to the trigger electrode. The maximum tube voltage before the discharging was equivalent to the initial charged voltage of the condenser, and the maximum tube current was about 0.3 kA with a charged voltage of 60 kV. The X-ray durations were about 1 microsecond, and the X-ray intensity was about 0.47 microC kg-1 at 0.5 m per pulse with a charged voltage of 60 kV. The maximum repetition rate of the X-rays was about 0.4 kHz, and high-speed radiography was performed.
-DO  - 10.1007/BF02512524
-AN  - 7934252
-UR  - https://pubmed.ncbi.nlm.nih.gov/7934252/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Disk-cathode flash X-ray tube driven by a repetitive two-stage Marx pulser.
-AU  - Kimura S
-AU  - Sato E
-AU  - Sagae M
-AU  - Shikoda A
-AU  - Oizumi T
-AU  - Takahashi K
-AU  - Tamakawa Y
-AU  - Yanagisawa T
-PY  - 1993
-JO  - Medical & biological engineering & computing
-AB  - Fundamental studies of a repetitive flash X-ray generator using a disk-cathode radiation tube are described. The high-voltage pulser employed a modified two-stage surge-Marx circuit. The two condensers in the pulser were charged from 40 to 60 kV, and the electric charges were discharged to the X-ray tube repetitively to generate flash X-rays. The total capacity during the main discharge was 425 pF, and the maximum output voltage from the pulser was about 1.9 times the charged voltage. The flash X-ray tube was of the demountable-diode type and was composed of a rod-shaped anode tip made of tungsten, a disk cathode made of graphite and a tube body made of polymethylmethacrylate. The peak tube voltage was primarily determined by the anode-cathode (A-C) space, and the peak tube current was less than 0.5 kA. Thus the maximum photon energy could be easily controlled by varying the A-C space, and the tube current roughly increased according to increases in the charged voltage. The pulse width ranged from 40 to 100 ns, and the X-ray intensity was less than 1.1 microC kg-1 at 0.5 m per pulse. The repetition rate was less than 50 Hz, and the effective focal spot size was equivalent to the anode diameter.
-DO  - 10.1007/BF02446648
-AN  - 8231324
-UR  - https://pubmed.ncbi.nlm.nih.gov/8231324/
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
-AU  - Lachapelle P
-AU  - Benoit J
-AU  - Blain L
-AU  - Guité P
-AU  - Roy MS
-PY  - 1990
-JO  - Vision research
-AB  - Previous studies reported that the oscillatory potentials (OPs) evoked to the first flash of a series were always smaller than those produced by the later flashes. This conditioning flash effect (CFE) was suggested to arise from rod inhibition of cone-mediated OPs. We investigated this CFE with the use of two stimulus intensities: 10 cd sec m-2 and 1 cd sec m-2. While the highest intensity did yield the previously reported CFE, the dimmest intensity did not. Our results further indicated that with the brightest stimulus, there is a significant increase in the interpeak interval of the OPs, while dimmest stimuli failed to reveal a similar marked increase. We also noted a significant correlation between the frequency domain of the OPs (as estimated with the interpeak interval) and the amplitude of the OPs (individual or collective: SOPs). Our results would also suggest that the observed CFE could result from a cone inhibition of rod-mediated OPs.
-DO  - 10.1016/0042-6989(90)90062-p
-AN  - 2339504
-UR  - https://pubmed.ncbi.nlm.nih.gov/2339504/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Two pulses seen as three flashes: a superposition analysis.
-AU  - Bowen RW
-PY  - 1989
-JO  - Vision research
-AB  - If a single brief light pulse follows the offset of a light field by 0.1-0.3 sec, the pulse is seen as a double flash. This "double flash effect" is a suprathreshold phenomenon: the pulse must exceed detection threshold by 10 times or more for this temporal illusion to occur. A special case of this effect is demonstrated here: two brief, high-luminance pulses separated by 0.1 sec appear as three flashes. In a superposition analysis, hypothetical impulse response functions were added together with various delays to model flash perception. A biphasic impulse response (congruent with threshold flicker and pulse sensitivity) fails to predict perception of three flashes from two pulses. The analysis instead suggests that the visual response to a suprathreshold pulse has several alternating phases of excitation and inhibition.
-DO  - 10.1016/0042-6989(89)90005-9
-AN  - 2781731
-UR  - https://pubmed.ncbi.nlm.nih.gov/2781731/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Laser-induced chromatic adaptation.
-AU  - Schmeisser ET
-PY  - 1988
-JO  - American journal of optometry and physiological optics
-AB  - Detecting a target in a visually noisy back-ground depends on the ability of the observer to discriminate the target from the surrounding terrain. Visible laser irradiation at less than damage levels may act as a masking source by reducing the observer's ability to resolve differences in the visual scene. The experiment reported here specifically investigates the comparability of shuttered CW and Q-switched visible lasers to alter/degrade color discrimination. Visual evoked potentials (VEP's) were used to examine the short time course effects in monkeys of luminance-matched flashes from a 694 nm ruby Q-switched laser and 100 ms shuttered krypton CW laser (676, 568, and 531 nm lines). The test stimulus was a shifting pattern of alternating luminance-matched 510 and 550 nm green bars. With flashes equated to 4.8 log T-s, similar flash effect curves were seen, demonstrating 1.5-s changes in response magnitude. This level of flash did not extinguish the response to the stimulus. The flash effects curve was "W"-shaped, with an intermediate signal peak occurring at approximately 500 ms after the flash and whose level exceeded the baseline magnitude. The hypothesized mechanism for this result is an induced luminance imbalance caused by a transient shift in the peak color responsiveness of the visual system, which recovers with two different time constants. It is concluded that red and green colored laser flashes shift the color balance transiently in the visual system (yellow flashes to a lesser extent); thus, targets may change both hue and brightness after an observer receives colored flashes.(ABSTRACT TRUNCATED AT 250 WORDS)
-DO  - 10.1097/00006324-198808000-00009
-AN  - 3177590
-UR  - https://pubmed.ncbi.nlm.nih.gov/3177590/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Cone interaction occurs in the parafovea under pi 4 stimulus conditions.
-AU  - Haegerstrom-Portnoy G
-AU  - Verdon W
-AU  - Adams AJ
-PY  - 1988
-JO  - Vision research
-AB  - This study shows that stimulus parameters that isolate Stiles' pi 4 mechanism at the fovea do not isolate pi 4 parafoveally. Instead, the parafoveal test sensitivity peaks at 520 nm and is relatively depressed at longer wavelengths. This narrowed spectral sensitivity is not due to rod intrusion or interaction but rather suggests cone interaction for a relatively wide range of spatial and temporal parameters. The anomalous shape of the parafoveal spectral sensitivity is not found in a protanope, further supporting the view that the effect seen in normal trichromats is the result of interaction between L and M cones. The study provides a unifying explanation for discrepant results by investigators studying the chromatic properties of spatial sensitization and the contrast after-flash effect. Foveal studies found independence of pi mechanisms while parafoveal studies found interaction. The present study emphasizes the importance of retinal eccentricity on color threshold experiments.
-DO  - 10.1016/0042-6989(88)90182-4
-AN  - 3188403
-UR  - https://pubmed.ncbi.nlm.nih.gov/3188403/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Rod and cone system contributions to oscillatory potentials: an explanation for the conditioning flash effect.
-AU  - Peachey NS
-AU  - Alexander KR
-AU  - Fishman GA
-PY  - 1987
-JO  - Vision research
-AB  - The oscillatory potentials (OPs) of the human electroretinogram (ERG) are smaller in response to the initial flash of a series than to subsequent flashes. To investigate a possible rod system contribution to this "conditioning flash effect," we have examined OPs in normals and rod monochromats. The OPs recorded from rod monochromats were similar to those recorded from normals under test conditions that selectively stimulate rods. However, under conditions that in normals stimulate both rods and cones and that result in maximal amplitude of the OPs, the rod monochromats exhibit markedly reduced OPs. This finding suggests that the initial (conditioning) flash operates by adapting the rod system contribution to the OPs, so that the OPs in response to subsequent flashes result primarily from the cone system. In agreement with this hypothesis, the conditioning flash effect did not occur when flashes were presented against a background which eliminated the rod system response nor during the cone plateau phase of dark adaptation.
-DO  - 10.1016/0042-6989(87)90002-2
-AN  - 3499028
-UR  - https://pubmed.ncbi.nlm.nih.gov/3499028/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Lightning injury caused by discharges accompanying flashovers--a clinical and experimental study of death and survival.
-AU  - Ohashi M
-AU  - Kitagawa N
-AU  - Ishikawa T
-PY  - 1986
-JO  - Burns, including thermal injury
-AB  - During the 17 years preceding March 1985, 140 patients sustained lightning injuries caused by 44 thunderbolts. Fifty patients showed evidence of current flow through their bodies. These 50 victims were classified into two groups, the first consisting of 9 victims who showed rupture of their clothes or linear superficial dermal burns along their whole bodies from head to feet, indicating the occurrence of surface flashovers. The remaining 41 patients showed no evidence of this flash effect. It is noteworthy that in the first group 5 of the 9 survived, whereas in the second group only 6 among 41 survived. The result indicates that when a flashover occurs along the whole body, the probability of survival is higher than 50 per cent. The conditions which determine death or survival were investigated experimentally, imposing artificial lightning voltage impulses on rats and developing flashovers on them. The rats survived when the voltage drop caused by flashover occurred immediately after the peak point, and the current waveform exhibited a sharp peak. In contrast, the rats were killed when the voltage drop caused by flashover was delayed by more than 20 microseconds, and the current waveform showed a blunt cone shape. It has been concluded that a fast flashover appreciably diminishes the energy dissipation within the body and consequently results in survival.
-DO  - 10.1016/0305-4179(86)90076-8
-AN  - 3779473
-UR  - https://pubmed.ncbi.nlm.nih.gov/3779473/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Visual evoked potential correlates of laser flashblindness in rhesus monkeys I. Argon laser flashes.
-AU  - Previc FH
-AU  - Blankenstein MF
-AU  - Garcia PV
-AU  - Allen RG
-PY  - 1985
-JO  - American journal of optometry and physiological optics
-AB  - The visual evoked potential (VEP) in four rhesus monkeys was used to assess the transient loss of visual function resulting from single 100-ms argon laser flashes (476.5 and 514.5 nm) whose energy levels did not exceed the maximum permissible exposure (MPE). VEP's were elicited by high-contrast square-wave test gratings which were phase-reversed at a frequency of 6 Hz, and were recorded using bipolar electrodes implanted in the foveal projection region of area 17. The parameters which were investigated included (1) flash size (focused vs. expanded), (2) position of the electrode's receptive field relative to the position of the flash (0, 1.5, 3.0, and 4.5-deg separation), (3) flash exposure level (50, 5.0, and 0.5% of the MPE), (4) peak wavelength of the test grating (454, 540, and 630 nm), and (5) spatial frequency of the test grating (1.0, 4.0, 6.0, and 12.0 c/deg). The results of the flash-size experiment revealed that the expanded flash, whose retinal diameter was approximately 750 microns, eliminated or severely attenuated the VEP for a longer duration than did the focused flash and also resulted in a more gradual recovery function. The combined results of the flash position and energy level experiments indicated that the effective energy of the focused flash declined rapidly beyond 1.5 deg, but still approximated 4% of its maximum value as far as 4.5 deg from its center. Few, if any, wavelength-specific effects were observed after exposure to either the 476.5- or 514.5-nm flashes, even when the energy of the flashes was reduced to a small fraction of the MPE. Finally, the flash effect was considerably longer in duration for the 12.0 c/deg grating relative to the low and intermediate frequency gratings. In general, the findings suggest that the focused and expanded argon laser flashes produce a VEP suppression whose time course and other characteristics correlate well with those associated with behaviorally observed flashblindness in humans after exposure to intense noncoherent flashes.
-DO  - 10.1097/00006324-198505000-00003
-AN  - 4003522
-UR  - https://pubmed.ncbi.nlm.nih.gov/4003522/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - [Hypoxic proton radiotherapy of solid Ehrlich tumors with different dose magnitudes].
 AU  - Kozin SV
 AU  - Zolotov VA
@@ -26929,20 +26144,6 @@ AN  - 6087078
 UR  - https://pubmed.ncbi.nlm.nih.gov/6087078/
 KW  - FLASH:Radiobiology
 KW  - FLASH:Modeling & Mechanisms
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - Kinetics of the dichroic reorientation of phytochrome during photoconversion inMougeotia.
-AU  - Kraml M
-AU  - Enders M
-AU  - Bürkel N
-PY  - 1984
-JO  - Planta
-AB  - In the green algaMougeotia, the dichroic orientation of the red-absorbing form of phytochrome (Pr) is parallel of the cell surface, whereas the far-red-absorbing form (Pfr) is oriented normal to it. The time course of the change from parallel to normal was investigated by double-flash irradiation with polarized red and far-red light. The results obtained by two different methods indicate that most of the phytochrome intermediates existing in the first 5 ms after the inducing red flash are still oriented parallel to the cell surface, similar to Pr. At increasing intervals between the red and the far-red flashes, more and more phytochrome molecules turn their transition moments to the Pfr orientation. This reaction is finished after approximately 30 ms. We conclude that the change in dichroic orientation of the phytochrome molecules inMougeotia occurs during the last relaxation steps of the intermediates on the way from Pr to Pfr. It cannot be decided yet, whether the first surface-normal phytochrome species is an intermediate or Pfr itself.
-DO  - 10.1007/BF00982915
-AN  - 24253646
-UR  - https://pubmed.ncbi.nlm.nih.gov/24253646/
 KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
@@ -26976,48 +26177,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - [Bladder tumors treated with radical cystectomy. Results of 78 cases].
-AU  - Perrin P
-AU  - Charroin P
-AU  - Durand L
-PY  - 1983
-JO  - Journal d'urologie
-AB  - UNLABELLED: The authors present the results of 78 radical cystectomies for bladder tumour, followed up for at least 3 years. All the patients received preoperative pelvic radiotherapy (in general a flash of 5 Gys). Urinary derivation was of transintestinal cutaneous ureterostomy type. Surgery was followed by additional radiotherapy of 50 Gys in 9 patients and chemotherapy (adriamycin, Vehem and cis-platinum) in 6. RESULTS: stages 0 and A - 100% survival; stage B - 74%; stage C - 29% and stage D - 30%. Amongst the patients dying as a result of their carcinoma, 25% stage B, 36% stage C and 20% stage D had local recurrences. With regard to the prevention of recurrences, heavy preoperative radiotherapy is not more effective than flash radiotherapy of 5 Gy. For stage D and C patients together, overall survival was 50% at 3 years. Four stage D patients appear to be cured at 3 years, i.e. 17% of the stage D cases. This proves the possibility of "cure" of stage D disease by extended excision and thorough lymph node dissection. Adjuvant chemotherapy may certainly play a role.
-AN  - 6886460
-UR  - https://pubmed.ncbi.nlm.nih.gov/6886460/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - [Role of radiotherapy in the treatment of bladder cancer. Comments apropos of 178 cases].
-AU  - Beurton D
-AU  - Moller M
-AU  - Cukier J
-PY  - 1983
-JO  - Journal d'urologie
-AB  - In the light of their experience involving 178 patients suffering from carcinoma of the bladder and a study of the literature, the authors attempt to determine the role of radiotherapy in the treatment of carcinoma of the bladder. A number of points emerge: --the possibility of stopping the progression of a recurrent multifocal superficial malignant tumour by 2 flashes of 6.5 Gy; --the efficacy of curative doses of radiotherapy associated with transurethral resection of the tumour in 20% of cases. These figures rise to 50% in anaplastic carcinomas. 20% efficacy of radiotherapy alone without surgery is a high figure. It tends to restore the radiotherapy sensitivity test suggested by R. Couvelaire to its true value; --when combined with excision surgery (partial cystectomy or total prostato-cystectomy), high doses of radiation do not give a better result than limited radiation. In view of the gravity of radiotherapy complications which may occur in up to 20% of cases where high doses of radiation have been administered, the authors would be inclined to limit radiotherapy when treatment of the tumour must be mixed, with surgery. A preoperative flash of 6.5 Gy followed by postoperative radiotherapy up to a total of 45 Gy when partial cystectomy is used. When a decision is made to perform cutaneous implantation of the ureters, the technique should consist of concentrated radiotherapy of 20 Gy in one week followed by excision by total prostato-cystectomy the next week. When urinary bypass is to involve uretero-colonic implantation or bladder replacement, flash radiotherapy of 6.5 Gy once or twice. No additional postoperative radiotherapy. Sandwich radiotherapy is too dangerous.
-AN  - 6841985
-UR  - https://pubmed.ncbi.nlm.nih.gov/6841985/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Intra-arterial infusion of bromodeoxyuridine and radiotherapy in osteosarcoma and other bone malignancies.
-AU  - Lejeune FJ
-AU  - Regnier R
-AU  - Nogaret JM
-AU  - Jabri M
-PY  - 1983
-JO  - Recent results in cancer research. Fortschritte der Krebsforschung. Progres dans les recherches sur le cancer
-AB  - In order to avoid amputation, which does not seem to improve survival in osteosarcoma, we have initiated a limb-preservation program using intra-arterial radiosensitization. Eleven osteosarcomas with soft tissue involvement and six other bone malignancies were prospectively treated according to the following protocol: (a) surgical insertion of an intra-arterial catheter through a Dacron patch, (b) intra-arterial infusion of 15 mg/kg BUDR on days 1-2 every 5 days for 40 days, (c) 600 rads flash irradiation on day 3 every 5 days, X 8. Median follow-up time has been 36 months. In the osteosarcoma group, median survival has been 12 months. Four of the five osteosarcoma patients who died had received prophylactic HD methotrexate-vincristine-adriamycin systemic chemotherapy; one patient refused.
-DO  - 10.1007/978-3-642-82025-0_34
-AN  - 6580684
-UR  - https://pubmed.ncbi.nlm.nih.gov/6580684/
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Effect of electron affinic hypoxic cell sensitizers on the radiolytic depletion of oxygen in mammalian cells irradiated at ultrahigh dose rates.
 AU  - Michaels HB
 PY  - 1982
@@ -27027,19 +26186,6 @@ DO  - 10.1016/0360-3016(82)90653-8
 AN  - 7107363
 UR  - https://pubmed.ncbi.nlm.nih.gov/7107363/
 KW  - FLASH:Modeling & Mechanisms
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - The decrease in the threshold on the dark side of the luminance edge in the after-flash effect.
-AU  - Mitsuboshi T
-AU  - Mitsuboshi M
-AU  - Torii S
-PY  - 1982
-JO  - Vision research
-DO  - 10.1016/0042-6989(82)90145-6
-AN  - 7179753
-UR  - https://pubmed.ncbi.nlm.nih.gov/7179753/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -27057,31 +26203,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Visual masking and the contrast-flash effect.
-AU  - Alexander KR
-AU  - Barry SH
-PY  - 1981
-JO  - Vision research
-DO  - 10.1016/0042-6989(81)90157-7
-AN  - 7269308
-UR  - https://pubmed.ncbi.nlm.nih.gov/7269308/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - [Parenteral hyperalimentation and cystoprostatectomy for carcinoma of the bladder (author's transl)].
-AU  - Pontonnier F
-AU  - Plante P
-AU  - Heulin T
-PY  - 1981
-JO  - Journal d'urologie
-AB  - The authors report a series of 16 total cystoprostatectomies with only one postoperative death. Eleven of these operations, performed with the intention of achieving a complete cure, were carried out after flash radiotherapy of 1.000 rads on the day before surgery and were completed by uretero-sigmoidostomy. The five palliative operations were completed by direct bilateral cutaneous ureterostomy, the patients having received preoperative radiotherapy of 5 to 6,000 rads. The authors attribute the low postoperative mortality to the value of the energy and protein provided by parenteral hyperalimentation which made it possible to administer to the patient from the day after surgery onwards 1,400 to 2,600 calories per day (60% as carbohydrate and 40% as lipids) and 1 gram/kilo of protein per day. Infusion catheters were inserted under strictly aseptic conditions on the day prior to surgery into the deep main veins by percutaneous puncture of a subclavian vein or cutdown of an external jugular vein, and were kept in place until such time as oral alimentation could ensure an equivalent intake. For the 11 patients undergoing curative surgery, weight loss at the time of discharge was no more than 1 to 2 kilos, a figure to be contrasted with the 7 to 8 kilos before the use of parenteral hyperalimentation. The only death occurred amongst the 5 patients undergoing palliative surgery. In the latter group, the authors were stuck by the uncomplicated postoperative course, and the control of complications such as intestinal obstruction or bacteraemia which was obviously better in veiw of the maintenance of the calorie reserves of the body. All parenteral hyperalimentation was administered in the form of commercial solutions and emulsions.
-AN  - 6796625
-UR  - https://pubmed.ncbi.nlm.nih.gov/6796625/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - [Therapeutic trials in inoperable carcinoma of the bladder (author's transl)].
 AU  - Droz JP
 AU  - Ben Ayed F
@@ -27095,19 +26216,6 @@ AB  - The authors report the preliminary results of attempts at treatment using 
 AN  - 6160185
 UR  - https://pubmed.ncbi.nlm.nih.gov/6160185/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Expandable flash x-ray tube (FXT) having a 0.5-mm source size.
-AU  - Carmel Y
-AU  - Eylon S
-PY  - 1979
-JO  - The Review of scientific instruments
-AB  - An inexpensive, expandable, continuously pumped, all-metal flash x-ray tube (FXT) was developed. It was coaxialy integrated at the end of a 70-Omega flexible coaxial transmission line. The tube, which has a small, 0.5-mm, x-ray source size when operated at 200 kV, produces a dose rate of 5x10(7) R/s (at exit port). The produced x-ray pulse has a duration of 20 ns, thus permitting the radiography of high-speed transient phenomena.
-DO  - 10.1063/1.1135658
-AN  - 18699329
-UR  - https://pubmed.ncbi.nlm.nih.gov/18699329/
-KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
@@ -27178,29 +26286,6 @@ KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
-TI  - Color properties of the contrast flash effect: monoptic vs dichoptic comparisons.
-AU  - Yellott JI
-AU  - Wandell BA
-PY  - 1976
-JO  - Vision research
-DO  - 10.1016/0042-6989(76)90053-5
-AN  - 1006999
-UR  - https://pubmed.ncbi.nlm.nih.gov/1006999/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Rod-cone interaction in the after-flash effect.
-AU  - Foster DH
-PY  - 1976
-JO  - Vision research
-DO  - 10.1016/0042-6989(76)90202-9
-AN  - 941415
-UR  - https://pubmed.ncbi.nlm.nih.gov/941415/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - Time scale of radiation-induced oxygen depletion and decay kinetics of oxygen-dependent damage in cells irradiated at ultrahigh dose rates.
 AU  - Ling CC
 PY  - 1975
@@ -27208,17 +26293,6 @@ JO  - Radiation research
 AN  - 1099609
 UR  - https://pubmed.ncbi.nlm.nih.gov/1099609/
 KW  - FLASH:Modeling & Mechanisms
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Sensitization by annular surrounds: sensitization and the contrast-flash effect.
-AU  - Alexander KR
-PY  - 1974
-JO  - Vision research
-DO  - 10.1016/0042-6989(74)90056-x
-AN  - 4421568
-UR  - https://pubmed.ncbi.nlm.nih.gov/4421568/
 KW  - FLASH:Radiobiology
 ER  - 
 
@@ -27328,19 +26402,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - A comparison of the effects of ultraviolet and ionizing radiations on trypsin activity and on its constituent amino acids.
-AU  - Burke M
-AU  - Augenstein L
-PY  - 1969
-JO  - The Biochemical journal
-AB  - Photons of 254nm. u.v. light, (60)Co gamma-rays and 1Mev electrons produce different patterns of destruction of individual amino acids in dried films of trypsin and in the corresponding amino acid mixture. For example, in the amino acid mixture u.v. light destroys tyrosine, tryptophan and cystine, whereas in trypsin only cystine is disrupted but with 10 times the initial yield. Further, in the amino acid mixture loss of half-cystine is a simple exponential function of dose, but in trypsin there appear to be two exponential components of the loss with yields that differ by a factor of 35. Both the gamma-rays and electrons destroy half-cystine, tryptophan, histidine and methionine in the amino acid mixture with remarkably high yields, whereas in trypsin doses that destroy almost all of the enzymic activity produce no detectable destruction of amino acid residues. These marked differences between the two preparations show that the radiation-sensitivity of a given amino acid alone and in a protein is different, and suggests that in trypsin there is fairly extensive migration of energy, charge or both with localization of damage at specific sites determined by this enzyme's internal organization. All three types of radiation produce appreciable amounts of ;damaged' (not completely inactivated) molecules which are prevented from reassuming an active configuration by the addition of 5.5m-urea; thiol reagents have a similar effect after bombardment with u.v. light or electrons. The patterns of destruction produced by gamma-rays and by electrons in both the amino acid mixture and in trypsin are different (some of the yields vary by a factor of 30). This result appears to be inconsistent with the popular belief that most of the energy absorbed from gamma-rays is associated with very-high-energy electrons.
-DO  - 10.1042/bj1140535
-AN  - 5820640
-UR  - https://pubmed.ncbi.nlm.nih.gov/5820640/
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
 TI  - Survival of mammalian cells exposed to x rays at ultra-high dose-rates.
 AU  - Berry RJ
 AU  - Hall EJ
@@ -27377,29 +26438,6 @@ JO  - International journal of radiation biology and related studies in physics,
 DO  - 10.1080/09553006914550871
 AN  - 5307280
 UR  - https://pubmed.ncbi.nlm.nih.gov/5307280/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - THE SPECIFICITY OF THE CONE INTERACTION IN THE AFTER-FLASH EFFECT.
-AU  - ALPERN M
-AU  - RUSHTON WA
-PY  - 1965
-JO  - The Journal of physiology
-DO  - 10.1113/jphysiol.1965.sp007562
-AN  - 14288519
-UR  - https://pubmed.ncbi.nlm.nih.gov/14288519/
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - ROD-CONE INDEPENDENCE IN THE AFTER-FLASH EFFECT.
-AU  - ALPERN M
-PY  - 1965
-JO  - The Journal of physiology
-DO  - 10.1113/jphysiol.1965.sp007561
-AN  - 14288518
-UR  - https://pubmed.ncbi.nlm.nih.gov/14288518/
 KW  - FLASH:Radiobiology
 ER  - 
 

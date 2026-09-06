@@ -2,7 +2,26 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*73 records. Newest first.*
+*74 records. Newest first.*
+
+---
+
+### Breathing-phase selection for gated proton therapy in lung cancer towards temporally targeted ultra-high dose rate delivery.
+
+*Visser SN, van Doorn-Wink KCJ, Crama KF, Rasch CRN, Habraken SJM* — Physics and imaging in radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Ultra-high dose rate (UHDR) irradiation has been demonstrated to reduce normal tissue damage compared to conventional dose rates, while maintaining tumor response (FLASH-effect). UHDR could potentially freeze intra-fraction breathing motion, enabling margin reduction for moving tumors when accurately timed.
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: Ultra-high dose rate (UHDR) irradiation has been demonstrated to reduce normal tissue damage compared to conventional dose rates, while maintaining tumor response (FLASH-effect). UHDR could potentially freeze intra-fraction breathing motion, enabling margin reduction for moving tumors when accurately timed. Targeting the optimal breathing-phase could reduce organ-at-risk (OAR) dose and side effects. In this treatment planning study, the optimal phase(s) for UHDR proton therapy were identified and potential benefits were evaluated. MATERIALS AND METHODS: Twenty lung cancer patients, previously treated with 66 GyE/24 or 60 GyE/30 fractions, were included. Four-dimensional computed tomography (4D-CT) scans with clinical target and OAR delineations were used to create new treatment plans for individual 4D-CT phases, one-phase plans (OPP) and multiple-phase plans (MPP). Clinically relevant dose-volume parameters and normal tissue complication probabilities (NTCP) were evaluated. RESULTS: Phase-targeted proton therapy (PTPT) significantly reduced OAR dose. The largest reductions were achieved with OPP, while MPP showed smaller reductions. With OPP, mean lung dose (mean: -0.7 GyE, range: -1.7 to 0.3 GyE), mean heart dose (mean: -0.4 GyE, range: -1.4 to 0.5 GyE), and mean esophagus dose (mean: -0.9 GyE, range: -6.0 to 0 GyE) were reduced, with most reductions in the 0%, 40%, and 70% phases, respectively. NTCP values indicated reduced complication probabilities across all phases, with additional gains for optimal phases. CONCLUSIONS: With PTPT, OAR dose may be reduced with potential clinical benefit across all phases. The optimal phase depended on the endpoint, suggesting patient-specific phase targeting could further improve outcomes. Future research should address phase targetability, residual variation and required robustness.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42699310/) · [DOI](https://doi.org/10.1016/j.phro.2026.101065) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13544324/)
+
 
 ---
 
@@ -36,7 +55,7 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span>
 
 
-**TL;DR.** &amp;#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone.
+**TL;DR.** Objective.Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone.
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -44,7 +63,7 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 ??? note "Abstract"
-    &amp;#xD;Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning. &amp;#xD;&amp;#xD;Approach.&amp;#xD;A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1 (LEM1). Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks (SOBPs), 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.&amp;#xD;&amp;#xD;Main results.&amp;#xD;Measured survival fractions agreed with mMKM predictions within 5% on average across the biological SOBP, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and OAR metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.&amp;#xD;&amp;#xD;Significance. &amp;#xD;Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.&amp;#xD.
+    Objective.Patient-specific 3D range modulators (RMs) allow rapid and conformal particle therapy with monoenergetic beams and may support motion management and ultra-high dose rate (UHDR) studies. For carbon ions, however, relative biological effectiveness (RBE) varies strongly with depth, so RM geometry should be optimized for biological effect rather than physical dose alone. This work presents a translational pathway for biologically optimized 3D RMs (bio-RMs) for carbon ion therapy, evaluated through dosimetric verification, radiobiological validation, and patient-specific planning.Approach.A fast Monte Carlo-based RM platform was extended to perform RBE-weighted optimization using the modified microdosimetric kinetic model (mMKM) and local effect model 1. Cell line-specific mMKM parameters were determined for a non-small cell lung cancer cell line. Bio-RMs were designed for 4 and 8 Gy(RBE) biological spread-out Bragg peaks, 3D printed, and evaluated with clonogenic assays. Clinical feasibility was assessed through comparative treatment planning for vertebral metastasis and lung tumor cases.Main results.Measured survival fractions agreed with mMKM predictions within 5% on average across the biological spread-out Bragg peaks, and physical dose measurements agreed with Monte Carlo calculations within 1.2%. Secondary fragment analysis showed that the bio-RMs increased the relative contribution of light and intermediate fragments. In the retrospective clinical cases, bio-RM plans achieved target coverage and organs at risk metrics comparable to reference intensity modulated particle therapy (IMPT), with slightly reduced target homogeneity. Estimated delivery times were reduced from minutes to seconds by eliminating energy switching. Robustness analyses showed acceptable stability under the evaluated manufacturing, setup, and range uncertainties.Significance.Bio-RMs enable fast, biologically conformal carbon ion therapy with plan quality approaching IMPT in the two cases studied. The framework links biological modeling to patient-specific implementation and provides a basis for future motion-management and UHDR studies in synchrotron-based facilities.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42624158/) · [DOI](https://doi.org/10.1088/1361-6560/ae9c86)
