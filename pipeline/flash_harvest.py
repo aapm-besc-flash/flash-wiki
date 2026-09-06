@@ -532,6 +532,155 @@ FLASH_NAMED_RX = re.compile(
     re.I,
 )
 
+# ---------------------- Homonym classes (audit 2026-09-06) ---------------------
+# A two-source audit of the 1,310-record corpus found 63 false positives. Nearly
+# all fall into a handful of recurring senses of the word "flash" that have
+# nothing to do with ultra-high dose rate. They are expressed as classes rather
+# than as 63 PMID overrides so that next month's equivalents are caught too.
+#
+# Every rule below is gated on the absence of a real UHDR signature, so a paper
+# that genuinely does both -- say, FLASH irradiation monitored by an MRI FLASH
+# sequence -- is still admitted.
+
+# 1. Vision science. By far the largest class (17/63): the psychophysics
+#    literature on after-images, masking and rod/cone interaction is full of
+#    "flash", "after-flash" and "contrast-flash", and none of it is radiation.
+VISION_FLASH_RX = re.compile(
+    r"after[-\s]flash|contrast[-\s]flash|flash\s*blindness|flashblindness"
+    r"|illusory[-\s]flash|double[-\s]flash illusion"
+    r"|\bflash(?:es|ed)?\b[^.]{0,60}\b(?:rod|cone|retina|retinal|photopic|scotopic"
+    r"|visual(?:ly)? evoked|oscillatory potential|dichoptic|monoptic|parafovea"
+    r"|luminance|after[-\s]?image|masking)\b"
+    r"|\b(?:rod|cone|retina|retinal|photopic|scotopic|visual(?:ly)? evoked"
+    r"|oscillatory potential|dichoptic|monoptic|parafovea|luminance)\b[^.]{0,60}"
+    r"\bflash(?:es|ed)?\b",
+    re.I)
+
+# 2. Flash photolysis and photochemistry. "Laser flash photolysis" is a standard
+#    physical-chemistry technique; the flash is an optical pulse.
+PHOTOCHEM_FLASH_RX = re.compile(
+    r"flash photolysis|laser flash|photolysis[^.]{0,30}flash"
+    r"|flash[-\s]induced electron transfer|flash uncaging|caged (?:ATP|compound)"
+    r"|photoactive yellow protein|phytochrome|photoconversion"
+    r"|flash[^.]{0,40}\b(?:carbanion|benzhydrylium|radical cation|rate constant"
+    r"|reaction kinetics|proton transfer)\b",
+    re.I)
+
+# 3. Optical/thermal "flash" processing of materials: flash reduction of
+#    graphite oxide, flash-thermal shock synthesis, intense pulsed light doping.
+MATERIALS_FLASH_RX = re.compile(
+    r"flash[-\s](?:reduction|thermal|sintering|annealing|lamp|photothermal)"
+    r"|(?:graphene|graphite oxide|graphene oxide)[^.]{0,60}flash"
+    r"|flash[^.]{0,60}(?:graphene|graphite oxide|high[-\s]entropy alloy)"
+    r"|intense pulsed light",
+    re.I)
+
+# 4. Flash radiography / flash X-ray *sources* used to image fast transients,
+#    and radiation-protection dosemeter testing with such sources. These are
+#    genuinely ultra-short pulses, but the application is imaging or metrology,
+#    never therapy -- so they are screened only when no therapy vocabulary is
+#    present at all.
+FLASH_RADIOGRAPHY_RX = re.compile(
+    r"flash (?:x[-\s]?ray |proton )?radiograph|radiograph[^.]{0,40}flash x[-\s]?ray"
+    r"|flash x[-\s]?ray (?:tube|generator|source)"
+    r"|high[-\s]speed (?:radiography|photograph)"
+    r"|dynamically loaded|shock(?:ed)? material|dosemeter",
+    re.I)
+THERAPY_CONTEXT_RX = re.compile(
+    r"\b(?:tumou?r|carcinoma|patient|clinical|cancer|normal tissue|toxicit"
+    r"|sparing|in vivo|mouse|mice|murine|zebrafish|cell survival)\b", re.I)
+
+# 5. Software and instrument names that merely contain "Flash": the Gemini
+#    "Flash" model tier, TomoDirect Flash, Gamma Knife transit dose.
+PRODUCT_FLASH_RX = re.compile(
+    r"gemini[^.]{0,20}flash|flash[^.]{0,12}\b2\.5\b"
+    r"|chatgpt|large language model|chatbot"
+    r"|tomodirect|flash technique[^.]{0,40}multileaf",
+    re.I)
+
+# 6. Historical oncology, where "flash" named a single large preoperative
+#    fraction delivered at an entirely conventional dose rate. These read as
+#    FLASH papers to a keyword matcher and are the subtlest class in the audit.
+HISTORIC_FLASH_RX = re.compile(
+    r"(?:pre[-\s]?operative|preoperative)[^.]{0,40}flash|flash[^.]{0,40}(?:pre[-\s]?operative|preoperative)"
+    r"|double[-\s]flash|flash[^.]{0,30}(?:cystectomy|rectal|bladder)"
+    r"|(?:cystectomy|bladder tumou?r)[^.]{0,40}flash",
+    re.I)
+
+# 7. Lightning and electrical flashover injury.
+LIGHTNING_FLASH_RX = re.compile(r"flashover|lightning", re.I)
+
+# 8. Photodynamic therapy branded "FLASH-PDT": optical light plus a
+#    photosensitiser, not ionising radiation.
+PDT_FLASH_RX = re.compile(r"photodynamic|photosensitiz|photosensitis", re.I)
+
+# The homonym gate cannot use UHDR_RX as its escape hatch. UHDR_RX matches the
+# bare phrases "flash effect" and "flash irradiation" case-insensitively, which
+# is exactly what a vision paper ("after-flash effect") or a materials paper
+# ("flash irradiation of graphite oxide") says -- so every rule below would be
+# disabled by the very text it is meant to catch. STRICT_UHDR_RX therefore
+# demands positive dose-rate evidence: an explicit ultra-high-dose-rate phrase,
+# a Gy/s figure, or the all-caps FLASH acronym in a radiotherapy context.
+STRICT_UHDR_RX = re.compile(
+    r"ultra[\s\-]?high[\s\-]dose[\s\-]?rate|ultra[\s\-]?high[\s\-]dosage"
+    r"|\buhdr\b"
+    r"|\bgy\s*/\s*s\b|\bgy\s*s\^?-1|\bgy per second|gy[\s\-]?/?[\s\-]?sec"
+    r"|dose[\s\-]per[\s\-]pulse"
+    r"|very[\s\-]high[\s\-]energy electron|\bvhee\b",
+    re.I)
+# Case-sensitive: the all-caps acronym, next to radiotherapy vocabulary.
+STRICT_FLASH_ACRONYM_RX = re.compile(
+    r"\bFLASH\b[^.]{0,60}\b(?:radiotherapy|radiation therapy|irradiation|RT\b"
+    r"|dose rate|proton|electron|carbon ion|sparing|tumou?r)"
+    r"|\b(?:radiotherapy|radiation therapy|irradiation|dose rate|proton|electron"
+    r"|carbon ion|sparing)\b[^.]{0,60}\bFLASH\b")
+
+
+def _has_uhdr_signature(text, raw):
+    """True when the record carries real ultra-high-dose-rate evidence."""
+    return bool(STRICT_UHDR_RX.search(text) or STRICT_FLASH_ACRONYM_RX.search(raw))
+
+
+# 9. MRI contrast / perfusion / planning studies where FLASH is the Siemens
+#    gradient-echo sequence. MR_FLASH_RX already covers the explicit
+#    "FLASH sequence" phrasing; this catches the commoner case where the
+#    sequence name simply sits among other MR vocabulary.
+MRI_CONTEXT_RX = re.compile(
+    r"\bflash\b[^.]{0,80}\b(?:gd[-\s]?dtpa|gadolinium|contrast[-\s]enhanc"
+    r"|mr[-\s]?mammograph|magnetic resonance|mri\b|mr imaging|turbo[-\s]?flash"
+    r"|spin[-\s]?echo|t1[-\s]?weighted|surface coil|perfusion|subtraction)\b"
+    r"|\b(?:gd[-\s]?dtpa|gadolinium|contrast[-\s]enhanc|mr[-\s]?mammograph"
+    r"|magnetic resonance|mri\b|mr imaging|spin[-\s]?echo|t1[-\s]?weighted"
+    r"|surface coil|perfusion|subtraction)\b[^.]{0,80}\bflash\b",
+    re.I)
+
+# 10. Photobiology and optogenetics: light flashes delivered to organisms or
+#     neurons. Distinct from photochemistry above, which is in vitro kinetics.
+PHOTOBIO_FLASH_RX = re.compile(
+    r"optogenetic|photobioreactor|microalga|photosynthetic|chlorophyll"
+    r"|light[/\s-]?dark cycle|blue[-\s]?led|luminous",
+    re.I)
+
+# Dosimetry hardware for an MR-linac mentions MRI constantly without being an
+# imaging study; without this guard the MRI rule swallows calorimeters, detectors
+# and beam monitors, which are core corpus material.
+DOSIMETRY_CONTEXT_RX = re.compile(
+    r"calorimeter|dosimeter|dosimetr|ionization chamber|ionisation chamber"
+    r"|fibre bragg|fiber bragg|scintillat|detector response|beam monitor"
+    r"|linac|monitor unit|absorbed dose", re.I)
+
+HOMONYM_RULES = [
+    ("MRI sequence named FLASH",      MRI_CONTEXT_RX),
+    ("photobiology / optogenetics",   PHOTOBIO_FLASH_RX),
+    ("vision science 'flash'",        VISION_FLASH_RX),
+    ("flash photolysis / photochemistry", PHOTOCHEM_FLASH_RX),
+    ("materials 'flash' processing",  MATERIALS_FLASH_RX),
+    ("software/product named Flash",  PRODUCT_FLASH_RX),
+    ("historical single-fraction 'flash'", HISTORIC_FLASH_RX),
+    ("lightning / electrical flashover", LIGHTNING_FLASH_RX),
+    ("photodynamic therapy, not ionising", PDT_FLASH_RX),
+]
+
 # ---------------------- Curator overrides (human adjudication) ----------------
 # Decisions made by the WG lead during manual review of the corpus. These are
 # authoritative and survive every re-harvest. Value = target category, or None
@@ -552,6 +701,28 @@ CURATOR_OVERRIDES = {
     # the WG lead, is NOT listed here on purpose. It is now screened by the
     # SPATIAL_RX rule above, which generalizes to the other 19 minibeam/GRID
     # records rather than adjudicating one PMID at a time.
+
+    # --- audit 2026-09-06: irreducible false positives -------------------
+    # Two independent audits of the 1,310-record corpus agreed these are not
+    # FLASH radiotherapy. Fifty of the sixty-three were generalised into the
+    # homonym classes above; these thirteen resisted generalisation without
+    # putting genuine papers at risk, so they are adjudicated individually.
+    "37568795": None,  # Conventional CyberKnife/SBRT low-dose hypersensitivity study
+    "34874313": None,  # MR-simulator geometric distortion assessment
+    "35116657": None,  # Clinical flattening-filter-free irradiation at 400–2,400 MU/min, studying NSCLC-de
+    "31437345": None,  # FLASH is a multicentre audit acronym for fluoroscopic exposure during urological p
+    "25827180": None,  # FLASH denotes an MRI acquisition sequence
+    "22225292": None,  # Gamma Knife flash-radiation means a small transit dose during collimator motion
+    "19546907": None,  # FLASH names the DESY Free-Electron Laser in Hamburg; the study concerns EUV/soft-X
+    "12758237": None,  # FLASH denotes an MRI acquisition sequence
+    "11252979": None,  # Flash describes psychoactive drug effects in a substance-abuse review, not radiati
+    "8756151": None,  # FLASH denotes an MRI acquisition sequence
+    "8536396": None,  # FLASH denotes an MRI acquisition sequence
+    "6580684": None,  # Historical flash irradiation denotes 600-rad fractions every five days with bromod
+    "5820640": None,  # Radiation damage to dry trypsin and amino acids comparing UV, cobalt-60 and electr
+    "10560342": None,  # MRI-vs-CT prostate planning; FLASH is the MR sequence.
+                       # Escapes the MRI rule because "linac"/"absorbed dose"
+                       # vocabulary trips the MR-linac dosimetry guard.
     # --- forced re-categorizations ---
     "13663981": "Beam Delivery & Technology",  # X-ray flash tube, ultrahigh dosage (1959)
     "5307280":  "Radiobiology",  # Repair time of chromosome breaks, pulsed x-rays UHDR
@@ -633,7 +804,12 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
     raw = f" {title} {abstract} "
 
     # --- flash X-ray *apparatus* papers: hardware, by title ---
-    if FLASH_XRAY_HARDWARE_RX.search(f" {title} "):
+    # [audit 2026-09-06] This rescue predates the homonym rules and fired before
+    # any screening, so it admitted flash-radiography tubes and dosemeter test
+    # sources -- ultra-short pulses, but built for imaging and metrology, never
+    # for therapy. Require some therapy or radiobiology vocabulary before the
+    # rescue applies; the 1959 therapeutic flash-X-ray papers all carry it.
+    if FLASH_XRAY_HARDWARE_RX.search(f" {title} ") and THERAPY_CONTEXT_RX.search(raw):
         return "Beam Delivery & Technology", ["Beam Delivery & Technology"]
 
     # --- hard gate 1: senses of "flash" that never occur in FLASH-RT ---
@@ -643,13 +819,30 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
 
     # --- hard gate 2: aperture "flash" in breast/vulvar planning (case-aware) --
     m = APERTURE_FLASH_RX.search(raw)
-    if m and not UHDR_RX.search(text):
+    if m and not _has_uhdr_signature(text, raw):
         return _screened(f"aperture/planning 'flash': {m.group(0).strip()}")
 
     # --- hard gate 2b: FLASH as the MR pulse sequence / CT acquisition mode ---
     m = MR_FLASH_RX.search(raw)
-    if m and not UHDR_RX.search(text):
+    if m and not _has_uhdr_signature(text, raw):
         return _screened(f"MR/CT imaging 'FLASH': {m.group(0).strip()[:40]}")
+
+    # --- hard gate 2c: homonym classes from the 2026-09-06 audit ---
+    # Gated on UHDR_RX so a paper doing both is still admitted.
+    if not _has_uhdr_signature(text, raw):
+        for label, rx in HOMONYM_RULES:
+            m = rx.search(raw)
+            if not m:
+                continue
+            if rx is MRI_CONTEXT_RX and DOSIMETRY_CONTEXT_RX.search(raw):
+                continue          # MR-linac dosimetry, not an imaging study
+            return _screened(f"{label}: {m.group(0).strip()[:40]}")
+        # Flash radiography/metrology is screened only when the record carries no
+        # therapy or radiobiology vocabulary at all -- some genuine UHDR work is
+        # published in instrumentation journals.
+        m = FLASH_RADIOGRAPHY_RX.search(raw)
+        if m and not THERAPY_CONTEXT_RX.search(raw):
+            return _screened(f"flash radiography / metrology: {m.group(0).strip()[:40]}")
 
     # --- hard gate 3: off-topic subject declared in the title ---
     hits = [k for k in HARD_OFFTOPIC_TITLE if k in tl]
@@ -691,7 +884,7 @@ def categorize(title, abstract, mesh, pubtypes, journal="", pmid=""):
     # unconventional-radiotherapy-techniques review. ---
     # A named entity that merely shares the word FLASH is screened out, unless the
     # record also carries a real ultra-high-dose-rate signature.
-    if FLASH_NAMED_RX.search(raw) and not UHDR_RX.search(text):
+    if FLASH_NAMED_RX.search(raw) and not _has_uhdr_signature(text, raw):
         return _screened("named entity called FLASH (laser / MRI sequence / CT / product)")
 
     # The all-caps FLASH rescue now requires corroboration: at least one
