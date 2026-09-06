@@ -2,7 +2,26 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*248 records. Newest first.*
+*243 records. Newest first.*
+
+---
+
+### Evaluation of the Exradin A30 Parallel Plate Ion Chamber as a Reference Dosimeter in Ultra-High Dose Rate (UHDR) Electron Beams.
+
+*Alharbi M, Liu K, Hooten B, Holmes S, Alarcon-Nunez S, Radtke J et al.* — ArXiv (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (&gt;40 Gy/s) is challenging because conventional ionization chambers (ICs) exhibit saturation from ion recombination. The Exradin A30 IC uses an ultra-thin 0.3-mm electrode spacing to improve charge-collection efficiency (CCE).
+
+
+??? note "Abstract"
+    Reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (&gt;40 Gy/s) is challenging because conventional ionization chambers (ICs) exhibit saturation from ion recombination. The Exradin A30 IC uses an ultra-thin 0.3-mm electrode spacing to improve charge-collection efficiency (CCE). This study evaluated the commercial A30 as a reference dosimeter for UHDR electron beams by characterizing leakage current, CCE, polarity correction (Ppol), and beam-quality correction factors (kQ). Measurements were performed with a 9-MeV IntraOp Mobetron from the accelerator head, achieving up to 9 Gy per pulse (DPP) and an instantaneous dose rate of 2.25 MGy/s. Data were acquired in grounded water-equivalent plastic, distilled water, and saline water. DPP was varied by changing SSD at a fixed 4-μs pulse width, while pulse repetition frequency (PRF) ranged from 5 to 90 Hz. CCE was determined using EBT-XD film under matched UHDR and conventional dose and energy conditions. CCE and Ppol were also evaluated as functions of DPP and PRF in distilled and saline water. Values of kQ were calculated using Monte Carlo simulations and measured in TrueBeam electron beams. Leakage current was &lt;2 fA. Both CCE and Ppol decreased with increasing DPP; however, CCE remained 90-99% across all three phantoms, while Ppol decreased from 0.990 to 0.981 in liquid and solid water. Neither CCE nor Ppol depended on PRF over 5-90 Hz. Measured and calculated kQ values agreed within 0.8% at all energies except 9 MeV, where they differed by 2%. The A30 exhibited 5% recombination at DPP up to 5 Gy in distilled and saline water. Its response in solid phantoms was affected by charge buildup, which was mitigated by grounding. With appropriate CCE corrections and grounded solid phantoms, the commercial A30 is suitable for reference dosimetry in UHDR electron beams.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42687884/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13532702/)
+
 
 ---
 
@@ -4771,25 +4790,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Directly monitor protein rearrangement on a nanosecond-to-millisecond time-scale.
-
-*Chen EH, Lu TT, Hsu JC, Tseng YJ, Lim TS, Chen RP* — Scientific reports (2017)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** In order to directly observe the refolding kinetics from a partially misfolded state to a native state in the bottom of the protein-folding funnel, we used a &quot;caging&quot; strategy to trap the β-sheet structure of ubiquitin in a misfolded conformation. We used molecular dynamics simulation to generate the cage-induced, misfolded structure and compared the structure of the misfolded ubiquitin with nativ…
-
-
-??? note "Abstract"
-    In order to directly observe the refolding kinetics from a partially misfolded state to a native state in the bottom of the protein-folding funnel, we used a &quot;caging&quot; strategy to trap the β-sheet structure of ubiquitin in a misfolded conformation. We used molecular dynamics simulation to generate the cage-induced, misfolded structure and compared the structure of the misfolded ubiquitin with native ubiquitin. Using laser flash irradiation, the cage can be cleaved from the misfolded structure within one nanosecond, and we monitored the refolding kinetics of ubiquitin from this misfolded state to the native state by photoacoustic calorimetry and photothermal beam deflection techniques on nanosecond to millisecond timescales. Our results showed two refolding events in this refolding process. The fast event is shorter than 20 ns and corresponds to the instant collapse of ubiquitin upon cage release initiated by laser irradiation. The slow event is ~60 μs, derived from a structural rearrangement in β-sheet refolding. The event lasts 10 times longer than the timescale of β-hairpin formation for short peptides as monitored by temperature jump, suggesting that rearrangement of a β-sheet structure from a misfolded state to its native state requires more time than ab initio folding of a β-sheet.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/28821738/) · [DOI](https://doi.org/10.1038/s41598-017-08385-0) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5562898/)
-
-
----
-
 ### Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
 
 *Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, DesRosiers C et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2017)  
@@ -4866,44 +4866,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Dosimetric characteristics and quality control tests for the collimator sectors of the Leksell Gamma Knife(®) Perfexion(TM).
-
-*Bhatnagar JP, Novotny J, Huq MS* — Medical physics (2012)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** The purpose of this study was to evaluate the dosimetric characteristics of each sector of the Leksell Gamma Knife Perfexion (LGK PFX) and to develop tests that can be done for the routine quality assurance checks of the sectors of the LGK PFX. METHODS: The following tests were performed to evaluate the dosimetric characteristics of the sectors: (1) Flash-radiation dose for the 16 mm collimator, (…
-
-
-??? note "Abstract"
-    PURPOSE: The purpose of this study was to evaluate the dosimetric characteristics of each sector of the Leksell Gamma Knife Perfexion (LGK PFX) and to develop tests that can be done for the routine quality assurance checks of the sectors of the LGK PFX. METHODS: The following tests were performed to evaluate the dosimetric characteristics of the sectors: (1) Flash-radiation dose for the 16 mm collimator, (2) transit-radiation dose for the 8 and 4 mm collimators, (3) sector leakage within the radiation cavity and, (4) sector output uniformity. In these tests, the Elekta ABS phantom was used. A micropoint ion-chamber Exradin A16 was placed at the center of the phantom for all measurements. RESULTS: With the version 8.0 of the control software of the MCU in the LGK PFX, the average flash-radiation dose per sector for the 16 mm collimator was measured to be 0.423 ± 0.003 cGy, and the average transit-radiation dose per sector for the 8 and 4 mm collimators was measured to be 0.169 ± 0.0009 and 0.147 ± 0.020 cGy, respectively. The calibration dose rate on the day of measurements was 280.8 cGy/min. Here, the authors have introduced a new concept of &quot;equivalent-time-duration&quot; (ETD) to represent the time duration, during which the flash-radiation or the transit-radiation dose is delivered. The ETD is a quotient of the measured dose of the flash-radiation or the transit-radiation and the respective calibrated dose rate for the 16, 8, or 4 mm collimator. The ETD constancy is an indicator of the constancy of the sector movements. The average value of ETD per sector was measured to be 724 ± 6, 313 ± 2, and 311 ± 45 ms for the 16, 8, and 4 mm collimators, respectively. During monthly spot checks, the authors have been measuring the total ETD for the flash-radiation when all eight sectors are open with the 16 mm collimator. The average value of the total ETD of the last 40 consecutive months was measured to be 642 ± 10 ms. This number is a useful quality parameter for the LGK PFX, which can be used to establish the base-line performance of the collimators of the LGK PFX. The reader is alerted that with the newly introduced version 9.0 of the control software of the MCU in the LGK PFX, the flash-radiation and the transit-radiation doses have become practically zero due to the fact that the treatment time is now corrected to compensate for these radiation doses. The sector output uniformity for the 16, 8, and 4 mm collimators was determined to be 98.9%, 97.3%, and 96.6%, respectively. The total leakage radiation with in the radiation cavity from all sectors was measured to be 0.17% of the dose output for the 16 mm collimator. CONCLUSIONS: Our measurements show that the dosimetric characteristics of all sectors of the LGK PFX are satisfactory. The authors recommend that the sector performance of the LGK PFX be determined initially at the time of installation of the LGK PFX and thereafter, at least annually. Similarly, our recommendation is that the total flash-radiation dose for the 16 mm collimator and the corresponding ETD value be measured on a monthly basis. Should any change in the sector movement occur, it will be revealed by the sector performance and the measurement of ETD.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/22225292/) · [DOI](https://doi.org/10.1118/1.3668057)
-
-
----
-
-### Magnifying lens for 800 MeV proton radiography.
-
-*Merrill FE, Campos E, Espinoza C, Hogan G, Hollander B, Lopez J et al.* — The Review of scientific instruments (2011)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** This article describes the design and performance of a magnifying magnetic-lens system designed, built, and commissioned at the Los Alamos National Laboratory (LANL) for 800 MeV flash proton radiography. The technique of flash proton radiography has been developed at LANL to study material properties under dynamic loading conditions through the analysis of time sequences of proton radiographs.
-
-
-??? note "Abstract"
-    This article describes the design and performance of a magnifying magnetic-lens system designed, built, and commissioned at the Los Alamos National Laboratory (LANL) for 800 MeV flash proton radiography. The technique of flash proton radiography has been developed at LANL to study material properties under dynamic loading conditions through the analysis of time sequences of proton radiographs. The requirements of this growing experimental program have resulted in the need for improvements in spatial radiographic resolution. To meet these needs, a new magnetic lens system, consisting of four permanent magnet quadrupoles, has been developed. This new lens system was designed to reduce the second order chromatic aberrations, the dominant source of image blur in 800 MeV proton radiography, as well as magnifying the image to reduce the blur contribution from the detector and camera systems. The recently commissioned lens system performed as designed, providing nearly a factor of three improvement in radiographic resolution.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/22047305/) · [DOI](https://doi.org/10.1063/1.3652974)
-
-
----
-
 ### \[Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces\].
 
 *Tsyb TS, Komarova EV, Malinova IV, Potetnia VI* — Radiatsionnaia biologiia, radioecologiia (2007)  
@@ -4923,25 +4885,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 ---
 
-### Roles of amino acid residues near the chromophore of photoactive yellow protein.
-
-*Imamoto Y, Koshimizu H, Mihara K, Hisatomi O, Mizukami T, Tsujimoto K et al.* — Biochemistry (2001)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** To investigate the roles of amino acid residues around the chromophore in photoactive yellow protein (PYP), new mutants, Y42A, E46A, and T50A were prepared. Their spectroscopic properties were compared with those of wild-type, Y42F, E46Q, T50V, R52Q, and E46Q/T50V, which were previously prepared and specified.
-
-
-??? note "Abstract"
-    To investigate the roles of amino acid residues around the chromophore in photoactive yellow protein (PYP), new mutants, Y42A, E46A, and T50A were prepared. Their spectroscopic properties were compared with those of wild-type, Y42F, E46Q, T50V, R52Q, and E46Q/T50V, which were previously prepared and specified. The absorption maxima of Y42A, E46A, and T50A were observed at 438, 469, and 454 nm, respectively. The results of pH titration for the chromophore demonstrated that the chromophore of PYP mutant, like the wild-type, was protonated and bleached under acidic conditions. The red-shifts of the absorption maxima in mutants tended toward a pK(a) increase. Mutation at Glu46 induced remarkable shifts in the absorption maxima and pK(a). The extinction coefficients were increased in proportion to the absorption maxima, whereas the oscillator strengths were constant. PYP mutants that conserved Tyr42 were in the pH-dependent equilibrium between two states (yellow and colorless forms). However, Y42A and Y42F were in the pH-independent equilibrium between additional intermediate state(s) at around neutral pH, in which yellow form was dominant in Y42F whereas the other was dominant in Y42A. These findings suggest that Tyr42 acts as the hinge of the protein, and the bulk as well as the hydroxyl group of Tyr42 controls the protein conformation. In all mutants, absorbance at 450 nm was decreased upon flash irradiation and afterwards recovered on a millisecond time scale. However, absorbance at 340--370 nm was increased vice versa, indicating that the long-lived near-UV intermediates are formed from mutants, as in the case of wild-type. The lifetime changes with mutation suggest the regulation of proton movement through a hydrogen-bonding network.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/11294635/) · [DOI](https://doi.org/10.1021/bi002291u)
-
-
----
-
 ### Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
 
 *Tillman C, Grafström G, Jonsson AC, Jönsson BA, Mercer I, Mattsson S et al.* — Radiology (1999)  
@@ -4957,44 +4900,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/10580967/) · [DOI](https://doi.org/10.1148/radiology.213.3.r99dc13860)
-
-
----
-
-### Comparison of MRI with CT for the radiotherapy planning of prostate cancer: a feasibility study.
-
-*Khoo VS, Padhani AR, Tanner SF, Finnigan DJ, Leach MO, Dearnaley DP* — The British journal of radiology (1999)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** This feasibility study was performed to evaluate the suitability of MRI in defining appropriate pelvic radiotherapy treatment volumes, and to compare MRI sequences with CT for prostate cancer radiotherapy. Five patients with localized prostate cancer, imaged with four MRI sequences (spin echo (SE) T1, turbo SE (TSE) T2, high resolution TSE (HR) T2, and FLASH 3D (F3D)), compared with their correspo…
-
-
-??? note "Abstract"
-    This feasibility study was performed to evaluate the suitability of MRI in defining appropriate pelvic radiotherapy treatment volumes, and to compare MRI sequences with CT for prostate cancer radiotherapy. Five patients with localized prostate cancer, imaged with four MRI sequences (spin echo (SE) T1, turbo SE (TSE) T2, high resolution TSE (HR) T2, and FLASH 3D (F3D)), compared with their corresponding CT planning scans. Segmentation ability of the following pelvic structures: prostatic apex (PA), prostate, rectum, bladder and seminal vesicles (SV), were evaluated by three independent observers. They used a five point grading scale based on the anatomical definition of the organ boundary, tissue contrast and multiplanar display. Results were averaged for the group and for each sequence. There was no significant interobserver variation in the assessed scores (p &gt; 0.1). The average scores (+/- 1 SD) for all pelvic structures assessed by each imaging sequence were CT 1.3 +/- 0.6; SE T1 2.4 +/- 0.9; TSE T2 2.4 +/- 0.7; HR T2 2.2 +/- 0.7 and F3D 3.4 +/- 0.6. Compared with CT, the average MR score for each assessed pelvic structure was higher with a trend for all transaxial MR sequences to provide improved segmentation of the PA and rectum. The F3D sequence scored highest as it provided multiplanar views and avoided the problem of partial volume averaging. MRI, compared with CT, appears to provide improved definition of pelvic treatment volumes but further work is required to confirm this and to address the issues of MRI associated distortion and dosimetry before MRI can be used routinely for pelvic radiotherapy planning.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/10560342/) · [DOI](https://doi.org/10.1259/bjr.72.858.10560342)
-
-
----
-
-### A comparison of the effects of ultraviolet and ionizing radiations on trypsin activity and on its constituent amino acids.
-
-*Burke M, Augenstein L* — The Biochemical journal (1969)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Photons of 254nm. u.v.
-
-
-??? note "Abstract"
-    Photons of 254nm. u.v. light, (60)Co gamma-rays and 1Mev electrons produce different patterns of destruction of individual amino acids in dried films of trypsin and in the corresponding amino acid mixture. For example, in the amino acid mixture u.v. light destroys tyrosine, tryptophan and cystine, whereas in trypsin only cystine is disrupted but with 10 times the initial yield. Further, in the amino acid mixture loss of half-cystine is a simple exponential function of dose, but in trypsin there appear to be two exponential components of the loss with yields that differ by a factor of 35. Both the gamma-rays and electrons destroy half-cystine, tryptophan, histidine and methionine in the amino acid mixture with remarkably high yields, whereas in trypsin doses that destroy almost all of the enzymic activity produce no detectable destruction of amino acid residues. These marked differences between the two preparations show that the radiation-sensitivity of a given amino acid alone and in a protein is different, and suggests that in trypsin there is fairly extensive migration of energy, charge or both with localization of damage at specific sites determined by this enzyme&#x27;s internal organization. All three types of radiation produce appreciable amounts of ;damaged&#x27; (not completely inactivated) molecules which are prevented from reassuming an active configuration by the addition of 5.5m-urea; thiol reagents have a similar effect after bombardment with u.v. light or electrons. The patterns of destruction produced by gamma-rays and by electrons in both the amino acid mixture and in trypsin are different (some of the yields vary by a factor of 30). This result appears to be inconsistent with the popular belief that most of the energy absorbed from gamma-rays is associated with very-high-energy electrons.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/5820640/) · [DOI](https://doi.org/10.1042/bj1140535) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1184926/)
 
 
 ---

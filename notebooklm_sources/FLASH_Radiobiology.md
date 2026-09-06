@@ -1,11 +1,22 @@
 # FLASH Radiotherapy Literature — Radiobiology
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-01. 433 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 403 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
 ---
 
-## 1. Mitochondrial remodeling after conventional and ultra-high dose rate irradiation in head and neck carcinoma cells in vitro.
+## 1. Antitumor Activity of Combined Topoisomerase Inhibition and FLASH Radiotherapy in Head and Neck Carcinoma Biomodels.
+Authors: Sarogni P, Brindani N, Frusca V, Santi M, Cavalieri A, Celentano M, Menicagli M, Marranci A et al.
+Journal: MedComm (2026)
+Identifiers: PMID 42688459; DOI 10.1002/mco2.70937; PMC PMC13535334 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/42688459/
+Category: Radiobiology | Tags: Radiobiology, Modeling & Mechanisms
+
+Abstract: Locally advanced head and neck carcinoma remains associated with high morbidity and long-term survival below 50%. Treatment commonly relies on cisplatin-based chemoradiotherapy, which is effective but frequently associated with significant acute and chronic systemic toxicities. Therefore, safer and more effective therapeutic strategies are urgently needed. FLASH radiotherapy (RT) has emerged as a promising irradiation modality because of its potential to reduce damage to healthy tissues while preserving antitumor efficacy. Here, we investigated the anticancer activity of the Topoisomerase (Topo)-II inhibitor ARN-24139, alone and combined with FLASHRT, in human papillomavirus-negative SCC-25 head and neck carcinoma biomodels. Antitumor activity was assessed in 2D cell cultures using viability, apoptosis, clonogenic, wound-healing, and γH2AX assays, as well as in SCC-25 3D spheroids and in chorioallantoic membrane (CAM) tumor models. ARN-24139 induced dose-dependent cytotoxicity in SCC-25 cells, with IC50 values of 7.3 ± 0.8 µM at 48 h and 7.2 ± 0.5 µM at 72 h, while showing limited toxicity in healthy HBEpC cells. Sequential low-dose FLASH-RT followed by ARN-24139 enhanced antitumor activity, reducing cell viability at 4 Gy after 8 days and decreasing tumor growth and Ki67 expression in CAM models. These proof-of-concept findings support further investigation in more clinically representative and mechanistically informative HNSCC models.
+
+---
+
+## 2. Mitochondrial remodeling after conventional and ultra-high dose rate irradiation in head and neck carcinoma cells in vitro.
 Authors: Silva LL, Liu T, Hörberger F, Chamkha I, Li N, Ceberg C, Elmér E, Adrian G et al.
 Journal: Clinical and translational radiation oncology (2026)
 Identifiers: PMID 42662751; DOI 10.1016/j.ctro.2026.101252; PMC PMC13520611 (open access)
@@ -16,7 +27,7 @@ Abstract: BACKGROUND AND PURPOSE: Ultra-high dose rate (UHDR) irradiation is bei
 
 ---
 
-## 2. FLASH Proton Radiotherapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
+## 3. FLASH Proton Radiotherapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
 Authors: Amit U, Bell BA, Hoyek EE, Velalopoulou A, Assenmacher CA, Kim MM, Verginadis II, Radaelli E et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42648580; DOI 10.1016/j.ijrobp.2026.08.045
@@ -27,18 +38,18 @@ Abstract: PURPOSE: To evaluate the protective effects and therapeutic efficacy o
 
 ---
 
-## 3. Combined ultra-high and conventional dose rate irradiation spares murine normal skin and intestine from radiation induced acute toxicity.
+## 4. Combined ultra-high and conventional dose rate irradiation spares murine normal skin and intestine from radiation induced acute toxicity.
 Authors: Sesink A, Soutter L, Böhlen TT, Geyer R, Moeckli R, Bailat C, Grilj V
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 42633859; DOI 10.1016/j.radonc.2026.111747
 URL: https://pubmed.ncbi.nlm.nih.gov/42633859/
 Category: Radiobiology | Tags: Radiobiology
 
-Abstract: PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
+Abstract: PURPOSE: Translating FLASH radiotherapy into clinical practice is limited by technological challenges in achieving highly conformal dose delivery. A hybrid approach, combining ultra-high dose rate (UHDR) and conventional dose rate (CDR) irradiation, could potentially improve dose conformity, but biological validation is required. This study presents the first investigation into the biological response to hybrid UHDR/CDR regimens, evaluating normal tissue sparing in murine models and assessing its dependence on the UHDR dose. METHODS AND MATERIALS: Two murine models were utilized: BALB/c mice evaluated for radiation dermatitis following localized hindlimb irradiation, and C57BL/6 mice evaluated for gastrointestinal (GI) toxicity following whole-abdomen irradiation. The hybrid irradiation protocol consisted of an initial UHDR boost (10 or 20 Gy for skin; 10 or 14 Gy for abdomen), a one-minute beam-off interval, and escalating CDR doses. Irradiation was delivered using prototype electron FLASH irradiators. Normal tissue complication probability (NTCP) curves were generated to determine the median toxic dose (TD50) and dose modifying factors (DMF), comparing hybrid treatments against reference split-dose regimens delivered entirely at CDR. RESULTS: Hybrid irradiation effectively preserved the normal tissue sparing characteristic of the FLASH effect, though the magnitude of protection was highly dependent on the proportion of the UHDR boost. In the skin model, the 20 Gy UHDR boost yielded a DMF of 1.26, which decreased to 1.14 when the boost was reduced to 10 Gy. For GI toxicity, the 14 Gy UHDR boost demonstrated a tissue-sparing effect with a DMF of 1.09. However, reducing the UHDR boost to 10 Gy in the abdominal model resulted in complete overlap with the CDR reference curve, eliminating the sparing effect (DMF = 1.00). CONCLUSIONS: The FLASH normal tissue sparing effect is partially maintained when UHDR radiation is combined with CDR radiation in a hybrid protocol, with the degree of sparing relying heavily on the overall UHDR dose contribution. While these biological findings support hybrid UHDR/CDR regimens as a promising approach for the clinical implementation of FLASH-RT, the achievable dose conformity has yet to be practically validated.
 
 ---
 
-## 4. Early molecular changes induced by FLASH irradiation in MCF10A and MDA-MB-231 breast cell lines.
+## 5. Early molecular changes induced by FLASH irradiation in MCF10A and MDA-MB-231 breast cell lines.
 Authors: Minafra L, Calvaruso M, Pucci G, Sarnari F, Russo G, Bravatà V, Cammarata FP, Di Martino F et al.
 Journal: Frontiers in oncology (2026)
 Identifiers: PMID 42582154; DOI 10.3389/fonc.2026.1857611; PMC PMC13457129 (open access)
@@ -49,7 +60,7 @@ Abstract: INTRODUCTION: We used the non-tumorigenic MCF10A and triple-negative M
 
 ---
 
-## 5. Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
+## 6. Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
 Authors: Pang D, Kaphle A, Yin L, Bai H, Wells M, Miles D, Sforza D, Li H et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42556588; DOI 10.1016/j.ijrobp.2026.07.043
@@ -60,7 +71,7 @@ Abstract: PURPOSE: This study investigates how free radical scavenger concentrat
 
 ---
 
-## 6. Reduced corneal toxicity following whole brain irradiation in mice.
+## 7. Reduced corneal toxicity following whole brain irradiation in mice.
 Authors: Pillai V, Landi S, Uccheddu F, Di Martino F, Cavalieri A, Paiar F, Capaccioli S, Cicchi R et al.
 Journal: Clinical and translational radiation oncology (2026)
 Identifiers: PMID 42541254; DOI 10.1016/j.ctro.2026.101235; PMC PMC13427398 (open access)
@@ -71,7 +82,7 @@ Abstract: PURPOSE: The emergence of focal techniques such as stereotactic radios
 
 ---
 
-## 7. Changes in Yields of Water Radiolysis Species and Strand Breaks of Pbr322 Plasmid DNA under Ultra-high Dose Rate C Ions: Towards the Elucidation of the Mechanism of FLASH Radiotherapy.
+## 8. Changes in Yields of Water Radiolysis Species and Strand Breaks of Pbr322 Plasmid DNA under Ultra-high Dose Rate C Ions: Towards the Elucidation of the Mechanism of FLASH Radiotherapy.
 Authors: Mamiya T, Kasamatsu K, Inaniwa T, Kurita K, Kodaira S, Konishi T, Kusumoto T
 Journal: Radiation research (2026)
 Identifiers: PMID 42457184; DOI 10.1667/RADE-25-00210.1
@@ -82,7 +93,7 @@ Abstract: To clarify the mechanisms of FLASH radiotherapy using C ion beams (373
 
 ---
 
-## 8. Mitochondrial Responses to Conventional and Ultra-High Dose Rate (FLASH) Radiation.
+## 9. Mitochondrial Responses to Conventional and Ultra-High Dose Rate (FLASH) Radiation.
 Authors: Caggiano EG, Elizondo ME, Hernandez AL, Waldrop T, Liu K, Gatica-Gutierrez H, Vargas-Hernández S, Mims N et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42448000; DOI 10.1016/j.ijrobp.2026.07.006
@@ -93,7 +104,7 @@ Abstract: PURPOSE: Ultra-high dose rate (>40 Gy/s, FLASH) radiation therapy (RT)
 
 ---
 
-## 9. Sustained AMPAR expression in CA3 neurons may mediate neuroprotection following FLASH-RT.
+## 10. Sustained AMPAR expression in CA3 neurons may mediate neuroprotection following FLASH-RT.
 Authors: Kunz LV, Almeida A, Knol M, Petit B, Kramár EA, Wood MA, Limoli CL, Vozenin MC
 Journal: Cell reports (2026)
 Identifiers: PMID 42441406; DOI 10.1016/j.celrep.2026.117670
@@ -104,7 +115,7 @@ Abstract: To elucidate the early mechanisms underlying the long-term neuroprotec
 
 ---
 
-## 10. PROTAC-based nanoassemblies targeting BRD4 for potentiate FLASH radiosensitization therapy.
+## 11. PROTAC-based nanoassemblies targeting BRD4 for potentiate FLASH radiosensitization therapy.
 Authors: Xu R, Han X, Sun Y, Ma C, Liao S, Tang R, Pu Y, Zheng X et al.
 Journal: Materials today. Bio (2026)
 Identifiers: PMID 42436803; DOI 10.1016/j.mtbio.2026.103422; PMC PMC13355409 (open access)
@@ -115,7 +126,7 @@ Abstract: Ultrahigh dose-rate radiotherapy (FLASH-RT) represents a rapidly emerg
 
 ---
 
-## 11. Effects of Partial-body, Continuous/Pulse Irradiation at Dose Rates from Flash to Conventional Rates on the Level of Surviving Blood Lymphocytes: Modeling Approach. III. Lymphocyte Survival Is a Biomarker of Flash Sparing Effects.
+## 12. Effects of Partial-body, Continuous/Pulse Irradiation at Dose Rates from Flash to Conventional Rates on the Level of Surviving Blood Lymphocytes: Modeling Approach. III. Lymphocyte Survival Is a Biomarker of Flash Sparing Effects.
 Authors: Cucinotta FA, Smirnova OA
 Journal: Radiation research (2026)
 Identifiers: PMID 42431635; DOI 10.1667/RADE-25-00134.1
@@ -126,7 +137,7 @@ Abstract: Experimental data on magnitudes of sparing effects of whole-abdominal 
 
 ---
 
-## 12. FLASH radiation therapy mitigates immunogenic and pro-fibrotic transcriptomic responses in healthy lung tissue.
+## 13. FLASH radiation therapy mitigates immunogenic and pro-fibrotic transcriptomic responses in healthy lung tissue.
 Authors: Arrigo A, Brants L, Vanreusel V, Stevens P, Colijn A, Meijnders P, Verellen D, Poortmans P et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 42431271; DOI 10.1016/j.radonc.2026.111689
@@ -137,7 +148,7 @@ Abstract: To investigate why FLASH-radiation therapy (RT) minimises lung damage,
 
 ---
 
-## 13. The FLASH Effect in 3D and 2D Models: Preserving Tumor Control while Reducing Apoptosis in Normal Cells.
+## 14. The FLASH Effect in 3D and 2D Models: Preserving Tumor Control while Reducing Apoptosis in Normal Cells.
 Authors: Scarmelotto A, Lambert E, Delprat V, Koumeir C, Michiels C, Lucas S, Heuskin AC
 Journal: Radiation research (2026)
 Identifiers: PMID 42413926; DOI 10.1667/RADE-25-00051
@@ -148,7 +159,7 @@ Abstract: Irradiation at ultra-high dose rates is gaining increased attention du
 
 ---
 
-## 14. Ultra-High Dose-Rate Oxygen Depletion and Skin Response to Irradiation.
+## 15. Ultra-High Dose-Rate Oxygen Depletion and Skin Response to Irradiation.
 Authors: Huang Q, Gerweck L, Huang P, Cascio E, Rothwell B, González TR, Sunnerberg JP, Clark MA et al.
 Journal: Cancers (2026)
 Identifiers: PMID 42352543; DOI 10.3390/cancers18122011; PMC PMC13297236 (open access)
@@ -159,7 +170,7 @@ Abstract: Background/Objectives: This study investigates the hypothesis that tra
 
 ---
 
-## 15. Deciphering Ultra-High Dose Rate Irradiation with Drosophila melanogaster.
+## 16. Deciphering Ultra-High Dose Rate Irradiation with Drosophila melanogaster.
 Authors: Kreuzer M, Vetrugno I, Dal Bello R, Tanadini-Lang S, Brunner E, von Salis D, Manetsch D, Tewary S et al.
 Journal: Antioxidants (Basel, Switzerland) (2026)
 Identifiers: PMID 42352042; DOI 10.3390/antiox15060736; PMC PMC13296059 (open access)
@@ -170,7 +181,7 @@ Abstract: FLASH RT, which employs ultra-high dose rates (UHDR), has shown potent
 
 ---
 
-## 16. GSTM3 alleviates FLASH X-ray-induced testicular injury by modulating the ferroptosis pathway.
+## 17. GSTM3 alleviates FLASH X-ray-induced testicular injury by modulating the ferroptosis pathway.
 Authors: Zhi X, Du L, Huang X, Liu F, Ma N, Guo X, Wang Y, He Q et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 42342042; DOI 10.1016/j.radonc.2026.111667
@@ -181,7 +192,7 @@ Abstract: BACKGROUND AND PURPOSE: Although X-ray FLASH radiotherapy (FLASH-RT) h
 
 ---
 
-## 17. FLASH radiotherapy preserves hepatic function and maintains metabolic homeostasis in a murine breast cancer model: an experimental preclinical study.
+## 18. FLASH radiotherapy preserves hepatic function and maintains metabolic homeostasis in a murine breast cancer model: an experimental preclinical study.
 Authors: Lu X, Xie D, Cui L, Shang H, Zhou L
 Journal: Radiation oncology (London, England) (2026)
 Identifiers: PMID 42321761; DOI 10.1186/s13014-026-02878-x; PMC PMC13321411 (open access)
@@ -192,7 +203,7 @@ Abstract: BACKGROUND: Radiotherapy (RT) for treating breast cancer can result in
 
 ---
 
-## 18. Response of MRC-5 human lung fibroblasts to FLASH and conventional radiotherapy: A study on differential DNA damage and transcriptomic response.
+## 19. Response of MRC-5 human lung fibroblasts to FLASH and conventional radiotherapy: A study on differential DNA damage and transcriptomic response.
 Authors: Jiang Y, Wang X, Yang C, Wu J, Chen Y, Li J, Wang Q, Zhu W
 Journal: Computational biology and chemistry (2026)
 Identifiers: PMID 42314223; DOI 10.1016/j.compbiolchem.2026.109198
@@ -203,7 +214,7 @@ Abstract: Ultra-high dose rate FLASH radiotherapy can mitigate normal tissue tox
 
 ---
 
-## 19. Proton FLASH preserves neurocognition across delivery techniques: implications for clinical translation in pediatric brain tumors.
+## 20. Proton FLASH preserves neurocognition across delivery techniques: implications for clinical translation in pediatric brain tumors.
 Authors: Miles D, Sforza D, Tan N, Yang Y, Akter M, Chen X, Hutchison C, Helmbrecht H et al.
 Journal: bioRxiv : the preprint server for biology (2026)
 Identifiers: PMID 42282691; DOI 10.64898/2026.05.29.728901; PMC PMC13252068 (open access)
@@ -214,7 +225,7 @@ Abstract: BACKGROUND: Radiation therapy is integral to the curative treatment of
 
 ---
 
-## 20. FLASH reduces radiation-induced oral mucositis in a mouse model of Fanconi anemia.
+## 21. FLASH reduces radiation-induced oral mucositis in a mouse model of Fanconi anemia.
 Authors: Loo P, Pan M, Zhao M, Melemenidis S, Chen D, Whitmore L, Richter S, Dirbas FM et al.
 Journal: bioRxiv : the preprint server for biology (2026)
 Identifiers: PMID 42244584; DOI 10.64898/2026.05.25.727748; PMC PMC13232302 (open access)
@@ -225,7 +236,7 @@ Abstract: Patients with Fanconi anemia (FA) are particularly susceptible to deve
 
 ---
 
-## 21. Neuroprotection following FLASH-RT may be mediated by sustained glutamate receptor AMPAR activation in CA3 neurons.
+## 22. Neuroprotection following FLASH-RT may be mediated by sustained glutamate receptor AMPAR activation in CA3 neurons.
 Authors: Kunz LV, Almeida A, Knol M, Petit B, Kramár EA, Wood MA, Limoli CL, Vozenin MC
 Journal: bioRxiv : the preprint server for biology (2026)
 Identifiers: PMID 42239092; DOI 10.64898/2026.05.15.725423; PMC PMC13228234 (open access)
@@ -236,7 +247,7 @@ Abstract: To elucidate the early mechanisms underlying the long-term neuroprotec
 
 ---
 
-## 22. Musculoskeletal and Marrow Sparing With Proton FLASH Radiation Therapy in Juvenile Mice.
+## 23. Musculoskeletal and Marrow Sparing With Proton FLASH Radiation Therapy in Juvenile Mice.
 Authors: Hu Z, Titt U, Li Y, Konradsson E, Aguilar EA, Neill DW, Connell L, Wang X et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42235691; DOI 10.1016/j.ijrobp.2026.05.045; PMC PMC13421987 (open access)
@@ -247,7 +258,7 @@ Abstract: PURPOSE: Radiation‑induced musculoskeletal toxicities are one of the
 
 ---
 
-## 23. For ultra-high dose rate carbon-ion irradiation, comparable beam parameters induce the equivalent cell sparing (FLASH) effect.
+## 24. For ultra-high dose rate carbon-ion irradiation, comparable beam parameters induce the equivalent cell sparing (FLASH) effect.
 Authors: Tsubouchi K, Yoshida Y, Yagi M, Minami K, Suda H, Nakao M, Yusa K, Tashiro M et al.
 Journal: Journal of radiation research (2026)
 Identifiers: PMID 42234857; DOI 10.1093/jrr/rrag039; PMC PMC13400559 (open access)
@@ -258,7 +269,7 @@ Abstract: Recently, ultra-high dose rate (uHDR) irradiation has received attenti
 
 ---
 
-## 24. Six-month evaluation of normal mouse brain side effects: Comparing FLASH and conventional proton partial brain irradiation.
+## 25. Six-month evaluation of normal mouse brain side effects: Comparing FLASH and conventional proton partial brain irradiation.
 Authors: Bernabei M, Nexhipi S, Bodenstein E, Horst F, Lühr A, Pawelke J, Schneider M, Schürer M et al.
 Journal: Clinical and translational radiation oncology (2026)
 Identifiers: PMID 42181161; DOI 10.1016/j.ctro.2026.101183; PMC PMC13195757 (open access)
@@ -269,7 +280,7 @@ Abstract: BACKGROUND AND PURPOSE: Preclinical studies demonstrated ultra-high do
 
 ---
 
-## 25. Radiation Dose-Dependent Skin Toxicity and Therapeutic Advantage of FLASH Radiation Therapy Via Immune Modulation.
+## 26. Radiation Dose-Dependent Skin Toxicity and Therapeutic Advantage of FLASH Radiation Therapy Via Immune Modulation.
 Authors: Paillas S, Then CK, Suárez-Bonnet A, Priestnall SL, Kumaran G, Ruan JL, Tullis IDC, Olcina MM et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42176866; DOI 10.1016/j.ijrobp.2026.05.015
@@ -280,7 +291,7 @@ Abstract: PURPOSE: FLASH radiation therapy shows promise in reducing normal tiss
 
 ---
 
-## 26. Effect of oxygen and nanoparticles on human skin and colon cells exposed to synchrotron-based X-ray FLASH beams.
+## 27. Effect of oxygen and nanoparticles on human skin and colon cells exposed to synchrotron-based X-ray FLASH beams.
 Authors: Geso M, Cameron M, Ffrench T, Forrester H, Lynch R, Nakayama M, Patterson W, Rahman WN et al.
 Journal: Journal of synchrotron radiation (2026)
 Identifiers: PMID 42095785; DOI 10.1107/S160057752600398X; PMC PMC13344633 (open access)
@@ -291,7 +302,7 @@ Abstract: FLASH radiotherapy involves delivering relatively high radiation doses
 
 ---
 
-## 27. FLASH radiotherapy induces unique immunotranscriptomic profiles compared to conventional dose-rate radiotherapy, despite identical immune infiltration and antitumor efficacy in a murine model of triple-negative breast cancer.
+## 28. FLASH radiotherapy induces unique immunotranscriptomic profiles compared to conventional dose-rate radiotherapy, despite identical immune infiltration and antitumor efficacy in a murine model of triple-negative breast cancer.
 Authors: Arrigo A, Brants L, Kramp L, Vanreusel V, Stevens P, Colijn A, Hermans C, Meijnders P et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 42061755; DOI 10.1016/j.radonc.2026.111548
@@ -302,7 +313,7 @@ Abstract: BACKGROUND: Triple-negative breast cancer (TNBC) still poses an import
 
 ---
 
-## 28. FLASH Radiotherapy Mitigates Radiation-Induced Lymphopenia and Prevents Immunosuppression via Chk1-STAT3 Axis Modulation in a Preclinical Thoracic Irradiation Model.
+## 29. FLASH Radiotherapy Mitigates Radiation-Induced Lymphopenia and Prevents Immunosuppression via Chk1-STAT3 Axis Modulation in a Preclinical Thoracic Irradiation Model.
 Authors: Tao RH, Liu K, Aguilar E, Wang M, Aggarwal S, Neill D, Velasquez B, Beddar S et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42031222; DOI 10.1016/j.ijrobp.2026.04.018
@@ -313,7 +324,7 @@ Abstract: PURPOSE: Radiation-induced lymphopenia is a frequent side effect of co
 
 ---
 
-## 29. Systematic tissue oxygen variation shows the modulation of murine skin radiation toxicity at ultra-high dose rates.
+## 30. Systematic tissue oxygen variation shows the modulation of murine skin radiation toxicity at ultra-high dose rates.
 Authors: Hunter DI, Sunnerberg JP, Tavakkoli AD, Sloop AM, Petusseau B, Gui J, Cao X, Zhang R et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42030995; DOI 10.1088/1361-6560/ae64a5; PMC PMC13161763 (open access)
@@ -324,7 +335,7 @@ Abstract: Objective.This study evaluated the hypothesis that baseline tissue oxy
 
 ---
 
-## 30. Characterization of the Intestinal Metabolic Profiles Following Photon FLASH Irradiation.
+## 31. Characterization of the Intestinal Metabolic Profiles Following Photon FLASH Irradiation.
 Authors: Zhang S, Peng Q, Zhang J, Wang Z, Cheng X, Zhang Y, Cao Z
 Journal: Dose-response : a publication of International Hormesis Society (2026)
 Identifiers: PMID 42011476; DOI 10.1177/15593258261444836; PMC PMC13091964 (open access)
@@ -335,7 +346,7 @@ Abstract: OBJECTIVE: Ultra-high dose rate radiotherapy, commonly referred to as 
 
 ---
 
-## 31. Unraveling the Redox Mechanisms Underlying FLASH Radiotherapy: Critical Dose Thresholds and NRF2-Driven Sparing of Tissue.
+## 32. Unraveling the Redox Mechanisms Underlying FLASH Radiotherapy: Critical Dose Thresholds and NRF2-Driven Sparing of Tissue.
 Authors: Zhang Y, Huang C, Hu A, Wang Y, Wang W, Zhu Y, Zhou W, Qiu J et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42002152; DOI 10.1016/j.ijrobp.2026.04.016
@@ -346,7 +357,7 @@ Abstract: PURPOSE: FLASH radiation therapy (FLASH-RT) can achieve tumor control 
 
 ---
 
-## 32. Bystander effects in both hypoxic cancer and normal cells under FLASH irradiation using proton microbeams.
+## 33. Bystander effects in both hypoxic cancer and normal cells under FLASH irradiation using proton microbeams.
 Authors: Autsavapromporn N, Mamiya T, Liu C, Duangya A, Tengku Ahmad TA, Oikawa M, Konishi T
 Journal: International journal of radiation biology (2026)
 Identifiers: PMID 41996280; DOI 10.1080/09553002.2026.2654422
@@ -357,7 +368,7 @@ Abstract: PURPOSE: Emerging evidence supports that ultra-high dose rate (UHDR) F
 
 ---
 
-## 33. Long-lived coherences for the observation of oxidation kinetics on different timescales by NMR.
+## 34. Long-lived coherences for the observation of oxidation kinetics on different timescales by NMR.
 Authors: Sadet A, Stavarache C, Fidel I, Voda MA, Ciumeica A, Ionita E, Ciubotaru M, Vasos PR
 Journal: Communications chemistry (2026)
 Identifiers: PMID 41991991; DOI 10.1038/s42004-026-02002-w; PMC PMC13269996 (open access)
@@ -368,7 +379,7 @@ Abstract: For non-invasive imaging of biochemical processes, the ability of NMR 
 
 ---
 
-## 34. Split-Dose FLASH Irradiation to Investigate the Clinical Feasibility of Multifield Treatments: The Effect of Split Dose and Dose Rate on FLASH.
+## 35. Split-Dose FLASH Irradiation to Investigate the Clinical Feasibility of Multifield Treatments: The Effect of Split Dose and Dose Rate on FLASH.
 Authors: Erickson DPJ, Shaver BA, Grassberger C, Morimoto A, Seitz Z, Cui S, Cao N, Saini J et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 41962747; DOI 10.1016/j.ijrobp.2026.03.053
@@ -379,7 +390,7 @@ Abstract: PURPOSE: The "FLASH effect," a phenomenon, in which radiation-induced 
 
 ---
 
-## 35. Proton FLASH Exposure Preserves Gut Commensal Microbiomes and Spares Intestinal Stem Cells.
+## 36. Proton FLASH Exposure Preserves Gut Commensal Microbiomes and Spares Intestinal Stem Cells.
 Authors: Chugh RM, Bhanja P, Schueddig E, Setianegara J, Lin Y, Guida K, Rehman S, Krepel S et al.
 Journal: Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026)
 Identifiers: PMID 41902480; DOI 10.1002/advs.202519249
@@ -390,7 +401,7 @@ Abstract: Emerging evidence shows that Proton FLASH radiotherapy can spare norma
 
 ---
 
-## 36. Initial Evaluation of Feasibility and Cutaneous Toxicity of Electron FLASH Radiotherapy Using a Standard-of-Care Fractionation Scheme in a Porcine Skin Model.
+## 37. Initial Evaluation of Feasibility and Cutaneous Toxicity of Electron FLASH Radiotherapy Using a Standard-of-Care Fractionation Scheme in a Porcine Skin Model.
 Authors: Konradsson E, Liu K, Baig S, Lin SJ, Lopez AH, Velasquez B, Mayor S, Samuel K et al.
 Journal: Cancers (2026)
 Identifiers: PMID 41899610; DOI 10.3390/cancers18061009; PMC PMC13024774 (open access)
@@ -401,7 +412,7 @@ Abstract: Background/Objectives: FLASH radiotherapy (RT) has shown potential to 
 
 ---
 
-## 37. The FLASH Effect in 3D and 2D Models: Preserving Tumor Control while Reducing Apoptosis in Normal Cells.
+## 38. The FLASH Effect in 3D and 2D Models: Preserving Tumor Control while Reducing Apoptosis in Normal Cells.
 Authors: Scarmelotto A, Lambert E, Delprat V, Koumeir C, Michiels C, Lucas S, Heuskin AC
 Journal: Radiation research (2026)
 Identifiers: PMID 41895337; DOI 10.1667/RADE-25-00051.1
@@ -412,7 +423,7 @@ Abstract: Irradiation at ultra-high dose rates is gaining increased attention du
 
 ---
 
-## 38. Early microglial activation in the TME enables FLASH-RT to eradicate medulloblastoma while promoting neuron-astrocyte crosstalk to minimize toxicity in the hippocampus.
+## 39. Early microglial activation in the TME enables FLASH-RT to eradicate medulloblastoma while promoting neuron-astrocyte crosstalk to minimize toxicity in the hippocampus.
 Authors: Knol M, Franco-Pérez J, Almeida A, Kunz LV, Petit B, Job A, Ollivier J, Romero J et al.
 Journal: bioRxiv : the preprint server for biology (2026)
 Identifiers: PMID 41889837; DOI 10.64898/2026.03.16.712103; PMC PMC13015341 (open access)
@@ -423,7 +434,7 @@ Abstract: BACKGROUND: FLASH-RT defines a promising treatment modality against me
 
 ---
 
-## 39. FLASH radiotherapy enables dose escalation resulting in improved survival in an orthotopic muscle-invasive bladder cancer mouse model.
+## 40. FLASH radiotherapy enables dose escalation resulting in improved survival in an orthotopic muscle-invasive bladder cancer mouse model.
 Authors: Ruan JL, Lee C, Sharma O, Lövgren N, Paillas S, Cooper C, Tullis IDC, Giaccia AJ et al.
 Journal: The British journal of radiology (2026)
 Identifiers: PMID 41886336; DOI 10.1093/bjr/tqag071; PMC PMC13273415 (open access)
@@ -434,7 +445,7 @@ Abstract: OBJECTIVES: FLASH radiotherapy is an innovative technique that deliver
 
 ---
 
-## 40. Boosting Radioimmunotherapy by Functionalized Self-Assembled EGCG Nanoparticles Enhances Antitumor Effect for FLASH-RT.
+## 41. Boosting Radioimmunotherapy by Functionalized Self-Assembled EGCG Nanoparticles Enhances Antitumor Effect for FLASH-RT.
 Authors: Xu R, Han X, Sun Y, Ma C, Liao S, Yang L, Tang R, Zou Z et al.
 Journal: International journal of nanomedicine (2026)
 Identifiers: PMID 41884283; DOI 10.2147/IJN.S571116; PMC PMC13012637 (open access)
@@ -445,7 +456,7 @@ Abstract: BACKGROUND: With the ability to achieve ideal efficacy while significa
 
 ---
 
-## 41. Transient Oxygen Depletion and FLASH: Are We Ruling It Out Too Soon?
+## 42. Transient Oxygen Depletion and FLASH: Are We Ruling It Out Too Soon?
 Authors: Jones GDD, Schuemann J, Rothwell B
 Journal: Radiation research (2026)
 Identifiers: PMID 41871825; DOI 10.1667/RADE-25-00254
@@ -456,7 +467,7 @@ Abstract: The contribution of transient oxygen depletion (TOD) to the FLASH effe
 
 ---
 
-## 42. DNA damage and cell death induced by exposure to ultra-high dose rate low-dose pulsed X-rays emitted from a kilojoule plasma focus device.
+## 43. DNA damage and cell death induced by exposure to ultra-high dose rate low-dose pulsed X-rays emitted from a kilojoule plasma focus device.
 Authors: Araya H, Jain J, Andaur R, Moreno J, Davis S, Diaz P, Velásquez E, Orellana J et al.
 Journal: Biological research (2026)
 Identifiers: PMID 41808240; DOI 10.1186/s40659-026-00674-1; PMC PMC13088622 (open access)
@@ -467,7 +478,7 @@ Abstract: BACKGROUND: FLASH radiotherapy, characterized by ultra-high dose rates
 
 ---
 
-## 43. High dose proton FLASH irradiation under hypoxic conditions results in reduced DNA damage in normal pancreatic cells.
+## 44. High dose proton FLASH irradiation under hypoxic conditions results in reduced DNA damage in normal pancreatic cells.
 Authors: Bogaerts E, Macaeva E, Heuskin AC, Lucas S, Sterpin E, Haustermans K
 Journal: The British journal of radiology (2026)
 Identifiers: PMID 41787979; DOI 10.1093/bjr/tqaf295
@@ -478,7 +489,7 @@ Abstract: OBJECTIVES: Ultra-high dose rate (UHDR) irradiation spares normal tiss
 
 ---
 
-## 44. Local FLASH radiation exhibits a double-edged effect on the mouse immune system.
+## 45. Local FLASH radiation exhibits a double-edged effect on the mouse immune system.
 Authors: Qin X, Li Y, You P, Zhu Y, Wang J, Wang G, Tian C, Spring Kong FM et al.
 Journal: Radiation oncology (London, England) (2026)
 Identifiers: PMID 41782029; DOI 10.1186/s13014-026-02810-3; PMC PMC13069716 (open access)
@@ -489,7 +500,7 @@ Abstract: PURPOSE/OBJECTIVE(S): This study aims to investigate the impact of par
 
 ---
 
-## 45. Preliminary mechanistic study of mitochondrial function in intestinal protection mediated by high-energy X-ray FLASH radiotherapy.
+## 46. Preliminary mechanistic study of mitochondrial function in intestinal protection mediated by high-energy X-ray FLASH radiotherapy.
 Authors: Hao X, Du H, Lin B, Wang D, Wu W, Tang M, Zhang H, Zhu Y et al.
 Journal: Radiation oncology (London, England) (2026)
 Identifiers: PMID 41764525; DOI 10.1186/s13014-026-02809-w; PMC PMC13059263 (open access)
@@ -500,7 +511,7 @@ Abstract: PURPOSE: Ultra-high dose rate (UHDR) radiation retains tumor-killing e
 
 ---
 
-## 46. PEERing into the Future: Benchmarking the ANSTO Australian Synchrotron's Very-High-Energy Electron Linac for Ultra-High Dose-Rate, In Vivo FLASH Radiotherapy Research.
+## 47. PEERing into the Future: Benchmarking the ANSTO Australian Synchrotron's Very-High-Energy Electron Linac for Ultra-High Dose-Rate, In Vivo FLASH Radiotherapy Research.
 Authors: Cayley J, Engels E, Charles T, Roughley K, Wegner M, Koschny S, Brunt K, Cameron M et al.
 Journal: Cancers (2026)
 Identifiers: PMID 41749893; DOI 10.3390/cancers18040640; PMC PMC12939895 (open access)
@@ -511,7 +522,7 @@ Abstract: Background/Objectives: The PEER beamline at the ANSTO Australian Synch
 
 ---
 
-## 47. FLASH radiotherapy preserves systemic and tissue homeostasis while maintaining antitumor efficacy.
+## 48. FLASH radiotherapy preserves systemic and tissue homeostasis while maintaining antitumor efficacy.
 Authors: Furini G, Mota da Silva E, Usai A, Scabia G, Kusmic C, Faita F, Cavalieri A, Celentano M et al.
 Journal: BMC medicine (2026)
 Identifiers: PMID 41742130; DOI 10.1186/s12916-026-04724-z; PMC PMC13081300 (open access)
@@ -522,7 +533,7 @@ Abstract: BACKGROUND: Conventional radiotherapy (CONV-RT) is widely used for can
 
 ---
 
-## 48. Interplay between dose, dose rate and endpoint in the tissue sparing effect of FLASH radiotherapy.
+## 49. Interplay between dose, dose rate and endpoint in the tissue sparing effect of FLASH radiotherapy.
 Authors: Poulsen PR, Johansen JG, Sørensen BS
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41724390; DOI 10.1016/j.radonc.2026.111452
@@ -533,7 +544,7 @@ Abstract: FLASH tissue sparing involves an interplay between dose, dose-rate and
 
 ---
 
-## 49. Molecular Mechanisms of FLASH Radiotherapy in Alleviating Lung Normal Tissue Injury: Insights from Single-Cell Sequencing.
+## 50. Molecular Mechanisms of FLASH Radiotherapy in Alleviating Lung Normal Tissue Injury: Insights from Single-Cell Sequencing.
 Authors: Guo Z, Luo Y, Wang J
 Journal: Radiation research (2026)
 Identifiers: PMID 41679749; DOI 10.1667/RADE-25-00125
@@ -544,7 +555,7 @@ Abstract: FLASH radiotherapy (FLASH-RT), with its ultra-high dose rate (≥40 Gy
 
 ---
 
-## 50. The Sparing Effect of Multibeam Ultra-High Dose-Rate Irradiation on Intestinal Tissue in Mice.
+## 51. The Sparing Effect of Multibeam Ultra-High Dose-Rate Irradiation on Intestinal Tissue in Mice.
 Authors: Wang W, Zhou Z, Wang P, Zhang F, Qiu J, Wang J, Hu K, Zha H
 Journal: Cancer science (2026)
 Identifiers: PMID 41668469; DOI 10.1111/cas.70340; PMC PMC13045315 (open access)
@@ -555,7 +566,7 @@ Abstract: The ultra-high dose-rate (UHDR) irradiation reduces normal tissue side
 
 ---
 
-## 51. Long-term Musculoskeletal and Marrow Sparing with Proton FLASH in Juvenile Mice: Implications for Pediatric Osteosarcoma.
+## 52. Long-term Musculoskeletal and Marrow Sparing with Proton FLASH in Juvenile Mice: Implications for Pediatric Osteosarcoma.
 Authors: Hu Z, Titt U, Li Y, Konradsson E, Aguilar EA, Neill DW, Connell L, Wang X et al.
 Journal: bioRxiv : the preprint server for biology (2026)
 Identifiers: PMID 41648193; DOI 10.64898/2026.01.16.699970; PMC PMC12871331 (open access)
@@ -566,7 +577,7 @@ Abstract: PURPOSE: Osteosarcoma is the most common primary bone malignancy in ch
 
 ---
 
-## 52. Time-dependent alterations in brain metabolites and gut microbiota following whole-brain FLASH versus conventional radiotherapy in mice.
+## 53. Time-dependent alterations in brain metabolites and gut microbiota following whole-brain FLASH versus conventional radiotherapy in mice.
 Authors: He R, Liu Y, Li W, Xie S, Liu J, Cheng G, Zhang J
 Journal: Brain research bulletin (2026)
 Identifiers: PMID 41621486; DOI 10.1016/j.brainresbull.2026.111755
@@ -577,7 +588,7 @@ Abstract: PURPOSE: This study compared the time-dependent changes in brain metab
 
 ---
 
-## 53. Localized normal tissue-sparing effects of proton FLASH radiotherapy in a preclinical lung irradiation model.
+## 54. Localized normal tissue-sparing effects of proton FLASH radiotherapy in a preclinical lung irradiation model.
 Authors: Lee SE, Sheen H, Kim Y, Cho S, Ahn SH, Sasai K, Kamiguchi N, Inoue J et al.
 Journal: The British journal of radiology (2026)
 Identifiers: PMID 41564308; DOI 10.1093/bjr/tqag015
@@ -588,7 +599,7 @@ Abstract: OBJECTIVES: FLASH radiotherapy (FLASH-RT), characterized by ultra-high
 
 ---
 
-## 54. Evaluation of inflammation-mediated cancer progression during FLASH and conventional irradiation-induced lung injury.
+## 55. Evaluation of inflammation-mediated cancer progression during FLASH and conventional irradiation-induced lung injury.
 Authors: Luo H, Yang C, Hu D, Laster KV, Mao R, Ma L, Lei H, Ge H
 Journal: Clinical science (London, England : 1979) (2026)
 Identifiers: PMID 41552931; DOI 10.1042/CS20257640
@@ -599,7 +610,7 @@ Abstract: Radiation-induced inflammatory responses are known to contribute to lu
 
 ---
 
-## 55. Photon FLASH spares radiation-induced changes in cardiac function, remodelling and arrythmia in a preclinical model.
+## 56. Photon FLASH spares radiation-induced changes in cardiac function, remodelling and arrythmia in a preclinical model.
 Authors: Ghita-Pettigrew M, Brown KH, Kerr BN, Walls GM, Verginadis II, Adrian G, Petersson K, McMahon SJ et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41500467; DOI 10.1016/j.radonc.2026.111369
@@ -610,7 +621,7 @@ Abstract: INTRODUCTION: Preclinical studies have demonstrated the ability of FLA
 
 ---
 
-## 56. Radiobiology Contributions and Perspectives in Hadron Therapy, With a Focus on Carbon Ions: Report From the Workshop Hadron Therapy for Life, Caen, March 2025.
+## 57. Radiobiology Contributions and Perspectives in Hadron Therapy, With a Focus on Carbon Ions: Report From the Workshop Hadron Therapy for Life, Caen, March 2025.
 Authors: Haghdoost S, Thariat J, Toma-Dasu I, Frey B, Rodriguez-Lafrasse C, Valable S, Laurent C, Stefan D et al.
 Journal: International journal of particle therapy (2026)
 Identifiers: PMID 41488408; DOI 10.1016/j.ijpt.2025.101289; PMC PMC12757554 (open access)
@@ -621,7 +632,7 @@ Abstract: The "Hadrontherapy for Life" symposium in Caen, France, highlighted th
 
 ---
 
-## 57. Biological effects of conventional and ultra high dose rate radiation in human cells.
+## 58. Biological effects of conventional and ultra high dose rate radiation in human cells.
 Authors: Ryan TL, Escalona MB, O'Brien K, Tan Y, Kanagaraj K, Taveras M, Nemzow L, Phillippi M et al.
 Journal: Scientific reports (2026)
 Identifiers: PMID 41484408; DOI 10.1038/s41598-025-33817-7; PMC PMC12852176 (open access)
@@ -632,7 +643,7 @@ Abstract: FLASH radiotherapy (FLASH-RT) that uses an ultra-high dose rate (UHDR)
 
 ---
 
-## 58. The Impacts of FLASH Radiation Therapy and Conventional Radiation Therapy on the Cognitive Abilities of Mice.
+## 59. The Impacts of FLASH Radiation Therapy and Conventional Radiation Therapy on the Cognitive Abilities of Mice.
 Authors: He R, Xie S, Du L, Li W, Wang J, Liu X, Wu D, Yang Y et al.
 Journal: Advances in radiation oncology (2026)
 Identifiers: PMID 41479882; DOI 10.1016/j.adro.2025.101950; PMC PMC12754397 (open access)
@@ -643,7 +654,7 @@ Abstract: PURPOSE: Preclinical studies have demonstrated that FLASH radiation th
 
 ---
 
-## 59. Is Ultrahigh Dose Rate Critical for the Effectiveness of Microbeam Radiation Therapy in a Broad-Beam Combined Treatment?
+## 60. Is Ultrahigh Dose Rate Critical for the Effectiveness of Microbeam Radiation Therapy in a Broad-Beam Combined Treatment?
 Authors: Engels E, Forrester HB, Trappetti V, Mouchemore K, Klein M, Sprung AH, Brunt K, Barnes MJ et al.
 Journal: Advances in radiation oncology (2026)
 Identifiers: PMID 41458175; DOI 10.1016/j.adro.2025.101949; PMC PMC12741283 (open access)
@@ -654,7 +665,7 @@ Abstract: PURPOSE: The superior therapeutic index of preclinical synchrotron mic
 
 ---
 
-## 60. Measurements of Hydrogen Peroxide Yields in Ultra-High-Dose-Rate vs. Conventional Radiation.
+## 61. Measurements of Hydrogen Peroxide Yields in Ultra-High-Dose-Rate vs. Conventional Radiation.
 Authors: Rothwell B, Shin WG, LaVerne JA, Rodriguez Gonzalez T, Joseph K, Chan TY, Huang Q, Cascio E et al.
 Journal: Radiation research (2026)
 Identifiers: PMID 41421382; DOI 10.1667/RADE-25-00190.1; PMC PMC13430615 (open access)
@@ -665,7 +676,7 @@ Abstract: Hydrogen peroxide (H2O2), a key product of water radiolysis formed pre
 
 ---
 
-## 61. Investigating the oxygen dependence of FLASH-RT using electron paramagnetic resonance imaging.
+## 62. Investigating the oxygen dependence of FLASH-RT using electron paramagnetic resonance imaging.
 Authors: Waldrop T, Murley G, Velasquez B, Konradsson E, Neill D, Connell L, Hernandez AL, Delahoussaye A et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41389858; DOI 10.1016/j.radonc.2025.111329; PMC PMC12747515 (open access)
@@ -676,7 +687,7 @@ Abstract: PURPOSE: The FLASH effect occurs when radiation given at ultra-high do
 
 ---
 
-## 62. Impact of increased oxygen concentration on the FLASH sparing effect in mice is tissue dependent.
+## 63. Impact of increased oxygen concentration on the FLASH sparing effect in mice is tissue dependent.
 Authors: Sesink A, Soutter L, Geyer RW, Böhlen TT, Bailat C, Grilj V
 Journal: The British journal of radiology (2026)
 Identifiers: PMID 41339268; DOI 10.1093/bjr/tqaf290
@@ -687,7 +698,7 @@ Abstract: OBJECTIVES: Previous findings reported increased toxicity of FLASH rad
 
 ---
 
-## 63. Effects of Ultra-High Dose-Rate Radiotherapy (FLASH-RT) on the Hematopoietic and Immune Systems: An Animal Study.
+## 64. Effects of Ultra-High Dose-Rate Radiotherapy (FLASH-RT) on the Hematopoietic and Immune Systems: An Animal Study.
 Authors: Yu T, Yoon Y, Choi CW, Kim JY, Moon YM, Son TG, Jeong DH, Lee M et al.
 Journal: Radiation research (2026)
 Identifiers: PMID 41257326; DOI 10.1667/RADE-23-00181.1
@@ -695,17 +706,6 @@ URL: https://pubmed.ncbi.nlm.nih.gov/41257326/
 Category: Radiobiology | Tags: Radiobiology, Beam Delivery & Technology
 
 Abstract: Ultra-high dose-rate radiotherapy, also known as FLASH radiotherapy (FLASH-RT), reduces radiation-induced damage in several organs. This study aimed to compare the effects of FLASH-RT and conventional dose-rate radiotherapy (CONV-RT) at 3 Gy and 5 Gy of total-body irradiation (TBI) on the survival of the hematopoietic system, peripheral blood cells, and immune-related responses. C57BL/6N male mice were divided into controls (0 Gy), FLASH-RT (109 Gy/s), and CONV-RT (0.067 Gy/s) groups. FLASH-RT was performed using the DIRAMS LINAC, producing 6-MeV electron beams. Irradiated mice were sacrificed on days 1, 2, 4, 7, 14, 21, and 28 after TBI at 3 Gy and 5 Gy. Peripheral blood cell counts were not significantly different between the FLASH-RT and CONV-RT groups, except for platelets on days 2-28 after 5 Gy TBI. FLASH-RT initially caused a greater reduction in myeloblasts in bone marrow, platelets and eosinophils in peripheral blood than CONV-RT. The white pulp area in the spleen decreased from days 1-7 after TBI, but gradually increased from day 14 after FLASH-RT, with the white pulp area in the FLASH-RT group being significantly larger than that in the CONV-RT group at day 14 and 28. The T-lymphocytes of the CONV-RT group recovered less than those of the FLASH-RT group at day 14 after 3 Gy and at day 28 after 5 Gy, respectively. FLASH-RT can induce similar damage and recovery patterns in the hematopoietic system as CONV-RT, but FLASH-RT might cause a faster recovery of T-lymphopenia than CONV-RT.
-
----
-
-## 64. Flash Photodynamic Therapy - How the Saturation of Photosensitizer Absorption Enables Selective and Deeper Tumor Treatments.
-Authors: Arnaut LG, Schaberle FA, Sereno J, Gomes-da-Silva LC
-Journal: Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026)
-Identifiers: PMID 41241814; DOI 10.1002/advs.202513199; PMC PMC12767129 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/41241814/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: FLASH therapies are attracting tremendous interest because they spare normal tissues while maintaining tumor-destroying efficacy, when compared with continuous delivery of radiation. In Photodynamic Therapy (PDT), it has been noted that continuous-wave and pulsed lasers give comparable results for a variety of tumors, but the conditions for increased tumor-to-peritumoral tissue selectivity have never been reported. This work presents a model that explains how pulsed lasers, in combination with photosensitizers, can offer selective and in-depth tumor ablation. It is shown that the photosensitizer absorption must be saturated to obtain the FLASH effect. The importance of the number of laser pulses to destroy tumor tissue and spare normal tissue is demonstrated. The predictions of the model and the superiority of FLASH-PDT are validated with the treatment of subcutaneous CT26 and orthotopic 4T1 tumors models. Notably, FLASH-PDT with redaporfin significantly increases the overall survival of mice with 4 mm orthotopic 4T1 tumors and lung metastasis. FLASH-PDT allows for the use of order-of-magnitude higher drug or light doses without affecting healthy tissues, while promoting selective and deeper tumor treatments.
 
 ---
 
@@ -2667,18 +2667,7 @@ Abstract: We assessed the effects of conventional and ultra-high dose rate (UHDR
 
 ---
 
-## 243. Influence of the Hypersensitivity to Low Dose Phenomenon on the Tumor Response to Hypofractionated Stereotactic Body Radiation Therapy.
-Authors: Le Reun E, Granzotto A, Pêtre A, Bodgi L, Beldjoudi G, Lacornerie T, Vallet V, Bouchet A et al.
-Journal: Cancers (2023)
-Identifiers: PMID 37568795; DOI 10.3390/cancers15153979; PMC PMC10416967 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/37568795/
-Category: Radiobiology | Tags: Radiobiology, Modeling & Mechanisms
-
-Abstract: Stereotactic body radiation therapy (SBRT) has made the hypofractionation of high doses delivered in a few sessions more acceptable. While the benefits of hypofractionated SBRT have been attributed to additional vascular, immune effects, or specific cell deaths, a radiobiological and mechanistic model is still needed. By considering each session of SBRT, the dose is divided into hundreds of minibeams delivering some fractions of Gy. In such a dose range, the hypersensitivity to low dose (HRS) phenomenon can occur. HRS produces a biological effect equivalent to that produced by a dose 5-to-10 times higher. To examine whether HRS could contribute to enhancing radiation effects under SBRT conditions, we exposed tumor cells of different HRS statuses to SBRT. Four human HRS-positive and two HRS-negative tumor cell lines were exposed to different dose delivery modes: a single dose of 0.2 Gy, 2 Gy, 10 × 0.2 Gy, and a single dose of 2 Gy using a non-coplanar isocentric minibeams irradiation mode were delivered. Anti-γH2AX immunofluorescence, assessing DNA double-strand breaks (DSB), was applied. In the HRS-positive cells, the DSB produced by 10 × 0.2 Gy and 2 Gy, delivered by tens of minibeams, appeared to be more severe, and they provided more highly damaged cells than in the HRS-negative cells, suggesting that more severe DSB are induced in the "SBRT modes" conditions when HRS occurs in tumor. Each SBRT session can be viewed as hyperfractionated dose delivery by means of hundreds of low dose minibeams. Under current SBRT conditions (i.e., low dose per minibeam and not using ultra-high dose-rate), the response of HRS-positive tumors to SBRT may be enhanced significantly. Interestingly, similar conclusions were reached with HRS-positive and HRS-negative untransformed fibroblast cell lines, suggesting that the HRS phenomenon may also impact the risk of post-RT tissue overreactions.
-
----
-
-## 244. Deep learning-based Fast Volumetric Image Generation for Image-guided Proton FLASH Radiotherapy.
+## 243. Deep learning-based Fast Volumetric Image Generation for Image-guided Proton FLASH Radiotherapy.
 Authors: Chang CW, Lei Y, Wang T, Tian S, Roper J, Lin L, Bradley J, Liu T et al.
 Journal: Research square (2023)
 Identifiers: PMID 37546731; DOI 10.21203/rs.3.rs-3112632/v1; PMC PMC10402267 (open access)
@@ -2689,7 +2678,7 @@ Abstract: OBJECTIVE: FLASH radiotherapy leverages ultra-high dose-rate radiation
 
 ---
 
-## 245. First evidence of in vivo effect of FLASH radiotherapy with helium ions in zebrafish embryos.
+## 244. First evidence of in vivo effect of FLASH radiotherapy with helium ions in zebrafish embryos.
 Authors: Ghannam Y, Chiavassa S, Saade G, Koumeir C, Blain G, Delpon G, Evin M, Haddad F et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2023)
 Identifiers: PMID 37516363; DOI 10.1016/j.radonc.2023.109820
@@ -2700,7 +2689,7 @@ Abstract: The ability to reduce toxicity of ultra-high dose rate (UHDR) helium i
 
 ---
 
-## 246. An orthogonal matching pursuit optimization method for solving minimum-monitor-unit problems: Applications to proton IMPT, ARC and FLASH.
+## 245. An orthogonal matching pursuit optimization method for solving minimum-monitor-unit problems: Applications to proton IMPT, ARC and FLASH.
 Authors: Zhu YN, Zhang X, Lin Y, Lominska C, Gao H
 Journal: Medical physics (2023)
 Identifiers: PMID 37427749; DOI 10.1002/mp.16577; PMC PMC11031273 (open access)
@@ -2711,7 +2700,7 @@ Abstract: BACKGROUND: The intensities (i.e., number of protons in monitor unit [
 
 ---
 
-## 247. The sparing effect of FLASH-RT on synaptic plasticity is maintained in mice with standard fractionation.
+## 246. The sparing effect of FLASH-RT on synaptic plasticity is maintained in mice with standard fractionation.
 Authors: Limoli CL, Kramár EA, Almeida A, Petit B, Grilj V, Baulch JE, Ballesteros-Zebadua P, Loo BW et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2023)
 Identifiers: PMID 37385377; DOI 10.1016/j.radonc.2023.109767; PMC PMC11045040 (open access)
@@ -2722,7 +2711,7 @@ Abstract: Long-term potentiation (LTP) was used to gauge the impact of conventio
 
 ---
 
-## 248. Uncovering the Protective Neurologic Mechanisms of Hypofractionated FLASH Radiotherapy.
+## 247. Uncovering the Protective Neurologic Mechanisms of Hypofractionated FLASH Radiotherapy.
 Authors: Alaghband Y, Allen BD, Kramár EA, Zhang R, Drayson OGG, Ru N, Petit B, Almeida A et al.
 Journal: Cancer research communications (2023)
 Identifiers: PMID 37377749; DOI 10.1158/2767-9764.CRC-23-0117; PMC PMC10135433 (open access)
@@ -2733,7 +2722,7 @@ Abstract: UNLABELLED: Implementation of ultra-high dose-rate FLASH radiotherapy 
 
 ---
 
-## 249. FLASH Effects Induced by Orthovoltage X-Rays.
+## 248. FLASH Effects Induced by Orthovoltage X-Rays.
 Authors: Miles D, Sforza D, Wong JW, Gabrielson K, Aziz K, Mahesh M, Coulter JB, Siddiqui I et al.
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 37364800; DOI 10.1016/j.ijrobp.2023.06.006; PMC PMC11189000 (open access)
@@ -2744,7 +2733,7 @@ Abstract: PURPOSE: This work describes the first implementation and in vivo stud
 
 ---
 
-## 250. Ultra-high dose-rate proton FLASH improves tumor control.
+## 249. Ultra-high dose-rate proton FLASH improves tumor control.
 Authors: Shukla S, Saha T, Rama N, Acharya A, Le T, Bian F, Donovan J, Tan LA et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2023)
 Identifiers: PMID 37315577; DOI 10.1016/j.radonc.2023.109741; PMC PMC10527231 (open access)
@@ -2755,7 +2744,7 @@ Abstract: BACKGROUND AND PURPOSE: Proton radiotherapy (PRT) offers potential ben
 
 ---
 
-## 251. Preferential Tumor Vascular Damage Is the Common Antitumor Mechanism of High-Dose Hypofractionated Radiation Therapy: SABR, Spatially Fractionated Radiation Therapy, and FLASH Radiation Therapy.
+## 250. Preferential Tumor Vascular Damage Is the Common Antitumor Mechanism of High-Dose Hypofractionated Radiation Therapy: SABR, Spatially Fractionated Radiation Therapy, and FLASH Radiation Therapy.
 Authors: Song CW, Terezakis S, Park WY, Paek SH, Kim MS, Cho LC, Griffin RJ
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 37196835; DOI 10.1016/j.ijrobp.2023.05.015
@@ -2766,7 +2755,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 252. Absence of Tissue-Sparing Effects in Partial Proton FLASH Irradiation in Murine Intestine.
+## 251. Absence of Tissue-Sparing Effects in Partial Proton FLASH Irradiation in Murine Intestine.
 Authors: Zhang Q, Gerweck LE, Cascio E, Gu L, Yang Q, Dong X, Huang P, Bertolet A et al.
 Journal: Cancers (2023)
 Identifiers: PMID 37190197; DOI 10.3390/cancers15082269; PMC PMC10137009 (open access)
@@ -2777,7 +2766,7 @@ Abstract: Ultra-high dose rate irradiation has been reported to protect normal t
 
 ---
 
-## 253. Dosimetric and biologic intercomparison between electron and proton FLASH beams.
+## 252. Dosimetric and biologic intercomparison between electron and proton FLASH beams.
 Authors: Almeida A, Togno M, Ballesteros-Zebadua P, Franco-Perez J, Geyer R, Schaefer R, Petit B, Grilj V et al.
 Journal: bioRxiv : the preprint server for biology (2023)
 Identifiers: PMID 37131769; DOI 10.1101/2023.04.20.537497; PMC PMC10153243 (open access)
@@ -2788,7 +2777,7 @@ Abstract: BACKGROUND AND PURPOSE: The FLASH effect has been validated in differe
 
 ---
 
-## 254. Independent Reproduction of the FLASH Effect on the Gastrointestinal Tract: A Multi-Institutional Comparative Study.
+## 253. Independent Reproduction of the FLASH Effect on the Gastrointestinal Tract: A Multi-Institutional Comparative Study.
 Authors: Valdés Zayas A, Kumari N, Liu K, Neill D, Delahoussaye A, Gonçalves Jorge P, Geyer R, Lin SH et al.
 Journal: Cancers (2023)
 Identifiers: PMID 37046782; DOI 10.3390/cancers15072121; PMC PMC10093322 (open access)
@@ -2799,7 +2788,7 @@ Abstract: FLASH radiation therapy (RT) is a promising new paradigm in radiation 
 
 ---
 
-## 255. FLASH-RT does not affect chromosome translocations and junction structures beyond that of CONV-RT dose-rates.
+## 254. FLASH-RT does not affect chromosome translocations and junction structures beyond that of CONV-RT dose-rates.
 Authors: Barghouth PG, Melemenidis S, Montay-Gruel P, Ollivier J, Viswanathan V, Jorge PG, Soto LA, Lau BC et al.
 Journal: bioRxiv : the preprint server for biology (2023)
 Identifiers: PMID 37034651; DOI 10.1101/2023.03.27.534408; PMC PMC10081175 (open access)
@@ -2810,7 +2799,7 @@ Abstract: The molecular and cellular mechanisms driving the enhanced therapeutic
 
 ---
 
-## 256. Modeling of the FLASH effect for ion beam radiation therapy.
+## 255. Modeling of the FLASH effect for ion beam radiation therapy.
 Authors: Song H, Kim Y, Sung W
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2023)
 Identifiers: PMID 37021608; DOI 10.1016/j.ejmp.2023.102553
@@ -2821,7 +2810,7 @@ Abstract: PURPOSE: Normal tissue sparing has been shown in preclinical studies u
 
 ---
 
-## 257. Reinventing Radiobiology in the Light of FLASH Radiotherapy.
+## 256. Reinventing Radiobiology in the Light of FLASH Radiotherapy.
 Authors: Limoli CL, Vozenin MC
 Journal: Annual review of cancer biology (2023)
 Identifiers: PMID 39421564; DOI 10.1146/annurev-cancerbio-061421-022217; PMC PMC11486513 (open access)
@@ -2832,7 +2821,7 @@ Abstract: Ultrahigh-dose rate FLASH radiotherapy (FLASH-RT) is a potentially par
 
 ---
 
-## 258. Radiation-induced immune response in novel radiotherapy approaches FLASH and spatially fractionated radiotherapies.
+## 257. Radiation-induced immune response in novel radiotherapy approaches FLASH and spatially fractionated radiotherapies.
 Authors: Bertho A, Iturri L, Prezado Y
 Journal: International review of cell and molecular biology (2023)
 Identifiers: PMID 36997269; DOI 10.1016/bs.ircmb.2022.11.005
@@ -2843,7 +2832,7 @@ Abstract: The last several years have revealed increasing evidence of the immuno
 
 ---
 
-## 259. Do We Preserve Tumor Control Probability (TCP) in FLASH Radiotherapy? A Model-Based Analysis.
+## 258. Do We Preserve Tumor Control Probability (TCP) in FLASH Radiotherapy? A Model-Based Analysis.
 Authors: Liew H, Mein S, Tessonnier T, Abdollahi A, Debus J, Dokic I, Mairani A
 Journal: International journal of molecular sciences (2023)
 Identifiers: PMID 36982185; DOI 10.3390/ijms24065118; PMC PMC10049554 (open access)
@@ -2854,7 +2843,7 @@ Abstract: Reports of concurrent sparing of normal tissue and iso-effective treat
 
 ---
 
-## 260. Is singlet oxygen involved in FLASH-RT?
+## 259. Is singlet oxygen involved in FLASH-RT?
 Authors: Alanazi A, Jay-Gerin JP, Blázquez-Castro A
 Journal: Journal of applied clinical medical physics (2023)
 Identifiers: PMID 36964949; DOI 10.1002/acm2.13974; PMC PMC10338775 (open access)
@@ -2865,7 +2854,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 261. Fractionated FLASH radiation in xenografted lung tumors induced FLASH effect at a split dose of 2 Gy.
+## 260. Fractionated FLASH radiation in xenografted lung tumors induced FLASH effect at a split dose of 2 Gy.
 Authors: Dai Y, Liang R, Wang J, Zhang J, Wu D, Zhao R, Liu Z, Chen F
 Journal: International journal of radiation biology (2023)
 Identifiers: PMID 36952604; DOI 10.1080/09553002.2023.2194403
@@ -2876,7 +2865,7 @@ Abstract: PURPOSE: To explore the minimum split dose of FLASH radiotherapy (FLAS
 
 ---
 
-## 262. Flash radiotherapy-gateway to promised land or another mirage.
+## 261. Flash radiotherapy-gateway to promised land or another mirage.
 Authors: Mali SB, Dahivelkar S
 Journal: Oral oncology (2023)
 Identifiers: PMID 36821983; DOI 10.1016/j.oraloncology.2023.106342
@@ -2887,7 +2876,7 @@ Abstract: Radiation therapy damages cancer cells with ionizing radiation, leadin
 
 ---
 
-## 263. On the potential biological impact of radiation-induced acoustic emissions during ultra-high dose rate electron radiotherapy: a preliminary study.
+## 262. On the potential biological impact of radiation-induced acoustic emissions during ultra-high dose rate electron radiotherapy: a preliminary study.
 Authors: Lascaud J, Parodi K
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 36749987; DOI 10.1088/1361-6560/acb9ce
@@ -2898,7 +2887,7 @@ Abstract: Ionizing radiation pulses delivered at ultra-high dose rates in emergi
 
 ---
 
-## 264. Induction of DNA strand breaks and oxidative base damages in plasmid DNA by ultra-high dose rate proton irradiation.
+## 263. Induction of DNA strand breaks and oxidative base damages in plasmid DNA by ultra-high dose rate proton irradiation.
 Authors: Konishi T, Kusumoto T, Hiroyama Y, Kobayashi A, Mamiya T, Kodaira S
 Journal: International journal of radiation biology (2023)
 Identifiers: PMID 36731459; DOI 10.1080/09553002.2023.2176562
@@ -2909,7 +2898,7 @@ Abstract: PURPOSE: Radiation cancer therapy with ultra-high dose rate (UHDR) exp
 
 ---
 
-## 265. Proton FLASH effects on mouse skin at different oxygen tensions.
+## 264. Proton FLASH effects on mouse skin at different oxygen tensions.
 Authors: Zhang Q, Gerweck LE, Cascio E, Yang Q, Huang P, Niemierko A, Bertolet A, Nesteruk KP et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 36731139; DOI 10.1088/1361-6560/acb888; PMC PMC11164666 (open access)
@@ -2920,7 +2909,7 @@ Abstract: Objective. Irradiation at FLASH dose rates (>40 Gy s-1) has received g
 
 ---
 
-## 266. Ultrahigh-Dose-Rate Proton Irradiation Elicits Reduced Toxicity in Zebrafish Embryos.
+## 265. Ultrahigh-Dose-Rate Proton Irradiation Elicits Reduced Toxicity in Zebrafish Embryos.
 Authors: Saade G, Bogaerts E, Chiavassa S, Blain G, Delpon G, Evin M, Ghannam Y, Haddad F et al.
 Journal: Advances in radiation oncology (2023)
 Identifiers: PMID 36578276; DOI 10.1016/j.adro.2022.101124; PMC PMC9791798 (open access)
@@ -2931,7 +2920,7 @@ Abstract: PURPOSE: Recently, ultrahigh-dose-rate radiation therapy (UHDR-RT) has
 
 ---
 
-## 267. Proton FLASH Radiation Therapy and Immune Infiltration: Evaluation in an Orthotopic Glioma Rat Model.
+## 266. Proton FLASH Radiation Therapy and Immune Infiltration: Evaluation in an Orthotopic Glioma Rat Model.
 Authors: Iturri L, Bertho A, Lamirault C, Juchaux M, Gilbert C, Espenon J, Sebrie C, Jourdain L et al.
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 36563907; DOI 10.1016/j.ijrobp.2022.12.018
@@ -2942,7 +2931,7 @@ Abstract: PURPOSE: FLASH radiation therapy (FLASH-RT) is a promising radiation t
 
 ---
 
-## 268. Comparison of intratumor and local immune response between MV X-ray FLASH and conventional radiotherapies.
+## 267. Comparison of intratumor and local immune response between MV X-ray FLASH and conventional radiotherapies.
 Authors: Zhu H, Xie D, Wang Y, Huang R, Chen X, Yang Y, Wang B, Peng Y et al.
 Journal: Clinical and translational radiation oncology (2023)
 Identifiers: PMID 36425537; DOI 10.1016/j.ctro.2022.11.005; PMC PMC9679438 (open access)
@@ -2953,7 +2942,7 @@ Abstract: BACKGROUND/PURPOSE: Investigating the antitumor effect and intratumor 
 
 ---
 
-## 269. Elucidating the neurological mechanism of the FLASH effect in juvenile mice exposed to hypofractionated radiotherapy.
+## 268. Elucidating the neurological mechanism of the FLASH effect in juvenile mice exposed to hypofractionated radiotherapy.
 Authors: Allen BD, Alaghband Y, Kramár EA, Ru N, Petit B, Grilj V, Petronek MS, Pulliam CF et al.
 Journal: Neuro-oncology (2023)
 Identifiers: PMID 36334265; DOI 10.1093/neuonc/noac248; PMC PMC10158064 (open access)
@@ -2964,7 +2953,7 @@ Abstract: BACKGROUND: Ultrahigh dose-rate radiotherapy (FLASH-RT) affords improv
 
 ---
 
-## 270. Corrigendum: Practice-oriented solutions integrating intraoperative electron irradiation and personalized proton therapy for recurrent or unresectable cancers: Proof of concept and potential for dual FLASH effect.
+## 269. Corrigendum: Practice-oriented solutions integrating intraoperative electron irradiation and personalized proton therapy for recurrent or unresectable cancers: Proof of concept and potential for dual FLASH effect.
 Authors: Calvo FA, Ayestaran A, Serrano J, Cambeiro M, Palma J, Meiriño R, Morcillo MA, Lapuente F et al.
 Journal: Frontiers in oncology (2022)
 Identifiers: PMID 36741712; DOI 10.3389/fonc.2022.1116433; PMC PMC9890241 (open access)
@@ -2975,7 +2964,7 @@ Abstract: [This corrects the article DOI: 10.3389/fonc.2022.1037262.].
 
 ---
 
-## 271. Ferroptosis, a key to unravel the enigma of the FLASH effect?
+## 270. Ferroptosis, a key to unravel the enigma of the FLASH effect?
 Authors: Vilaplana-Lopera N, Abu-Halawa A, Walker E, Kim J, Moon EJ
 Journal: The British journal of radiology (2022)
 Identifiers: PMID 36314903; DOI 10.1259/bjr.20220825; PMC PMC9733624 (open access)
@@ -2986,7 +2975,7 @@ Abstract: Ferroptosis is a non-apoptotic form of cell death dependent on iron an
 
 ---
 
-## 272. Longitudinally Heterogeneous Tumor Dose Optimizes Proton Broadbeam, Interlaced Minibeam, and FLASH Therapy.
+## 271. Longitudinally Heterogeneous Tumor Dose Optimizes Proton Broadbeam, Interlaced Minibeam, and FLASH Therapy.
 Authors: Sammer M, Rousseti A, Girst S, Reindl J, Dollinger G
 Journal: Cancers (2022)
 Identifiers: PMID 36291946; DOI 10.3390/cancers14205162; PMC PMC9601234 (open access)
@@ -2997,7 +2986,7 @@ Abstract: The prerequisite of any radiation therapy modality (X-ray, electron, p
 
 ---
 
-## 273. FLASH X-ray spares intestinal crypts from pyroptosis initiated by cGAS-STING activation upon radioimmunotherapy.
+## 272. FLASH X-ray spares intestinal crypts from pyroptosis initiated by cGAS-STING activation upon radioimmunotherapy.
 Authors: Shi X, Yang Y, Zhang W, Wang J, Xiao D, Ren H, Wang T, Gao F et al.
 Journal: Proceedings of the National Academy of Sciences of the United States of America (2022)
 Identifiers: PMID 36256824; DOI 10.1073/pnas.2208506119; PMC PMC9618056 (open access)
@@ -3008,7 +2997,7 @@ Abstract: DNA-damaging treatments such as radiotherapy (RT) have become promisin
 
 ---
 
-## 274. Cognitive and behavioral effects of whole brain conventional or high dose rate (FLASH) proton irradiation in a neonatal Sprague Dawley rat model.
+## 273. Cognitive and behavioral effects of whole brain conventional or high dose rate (FLASH) proton irradiation in a neonatal Sprague Dawley rat model.
 Authors: Williams MT, Sugimoto C, Regan SL, Pitzer EM, Fritz AL, Sertorio M, Mascia AE, Vatner RE et al.
 Journal: PloS one (2022)
 Identifiers: PMID 36112695; DOI 10.1371/journal.pone.0274007; PMC PMC9481014 (open access)
@@ -3019,7 +3008,7 @@ Abstract: Recent studies suggest that ultra-high dose rates of proton radiation 
 
 ---
 
-## 275. Development of Ultra-High Dose-Rate (FLASH) Particle Therapy.
+## 274. Development of Ultra-High Dose-Rate (FLASH) Particle Therapy.
 Authors: Kim MM, Darafsheh A, Schuemann J, Dokic I, Lundh O, Zhao T, Ramos-Méndez J, Dong L et al.
 Journal: IEEE transactions on radiation and plasma medical sciences (2022)
 Identifiers: PMID 36092270; DOI 10.1109/trpms.2021.3091406; PMC PMC9457346 (open access)
@@ -3030,7 +3019,7 @@ Abstract: Research efforts in FLASH radiotherapy have increased at an accelerate
 
 ---
 
-## 276. Commentary on the article: Sørensen BS et al., Pencil beam scanning proton FLASH maintains tumor control while normal tissue damage is reduced in a mouse model.
+## 275. Commentary on the article: Sørensen BS et al., Pencil beam scanning proton FLASH maintains tumor control while normal tissue damage is reduced in a mouse model.
 Authors: Dubois LJ
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35988775; DOI 10.1016/j.radonc.2022.08.012
@@ -3041,7 +3030,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 277. Trade-off in healthy tissue sparing of FLASH and fractionation in stereotactic proton therapy of lung lesions with transmission beams.
+## 276. Trade-off in healthy tissue sparing of FLASH and fractionation in stereotactic proton therapy of lung lesions with transmission beams.
 Authors: Habraken S, Breedveld S, Groen J, Nuyttens J, Hoogeman M
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35988773; DOI 10.1016/j.radonc.2022.08.015
@@ -3052,7 +3041,7 @@ Abstract: PURPOSE AND OBJECTIVE: Besides a dose-rate threshold of 40-100 Gy/s, 
 
 ---
 
-## 278. Electron ultra-high dose rate FLASH irradiation study using a clinical linac: Linac modification, dosimetry, and radiobiological outcome.
+## 277. Electron ultra-high dose rate FLASH irradiation study using a clinical linac: Linac modification, dosimetry, and radiobiological outcome.
 Authors: Xie DH, Li YC, Ma S, Yang X, Lan RM, Chen AQ, Zhu HY, Mei Y et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35959736; DOI 10.1002/mp.15920
@@ -3063,7 +3052,7 @@ Abstract: PURPOSE: Ultra-high dose rate FLASH irradiation (FLASH-IR) has been sh
 
 ---
 
-## 279. The minimal FLASH sparing effect needed to compensate the increase of radiobiological damage due to hypofractionation for late-reacting tissues.
+## 278. The minimal FLASH sparing effect needed to compensate the increase of radiobiological damage due to hypofractionation for late-reacting tissues.
 Authors: Böhlen TT, Germond JF, Bourhis J, Bailat C, Bochud F, Moeckli R
 Journal: Medical physics (2022)
 Identifiers: PMID 35933554; DOI 10.1002/mp.15911; PMC PMC10087769 (open access)
@@ -3074,7 +3063,7 @@ Abstract: PURPOSE: Normal tissue (NT) sparing by ultra-high dose rate (UHDR) irr
 
 ---
 
-## 280. Long-term anti-tumor effects following both conventional radiotherapy and FLASH in fully immunocompetent animals with glioblastoma.
+## 279. Long-term anti-tumor effects following both conventional radiotherapy and FLASH in fully immunocompetent animals with glioblastoma.
 Authors: Liljedahl E, Konradsson E, Gustafsson E, Jonsson KF, Olofsson JK, Ceberg C, Redebrandt HN
 Journal: Scientific reports (2022)
 Identifiers: PMID 35853933; DOI 10.1038/s41598-022-16612-6; PMC PMC9296533 (open access)
@@ -3085,7 +3074,7 @@ Abstract: Radiotherapy can induce an immunological response. One limiting factor
 
 ---
 
-## 281. Normal Tissue Sparing by FLASH as a Function of Single-Fraction Dose: A Quantitative Analysis.
+## 280. Normal Tissue Sparing by FLASH as a Function of Single-Fraction Dose: A Quantitative Analysis.
 Authors: Böhlen TT, Germond JF, Bourhis J, Vozenin MC, Ozsahin EM, Bochud F, Bailat C, Moeckli R
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 35810988; DOI 10.1016/j.ijrobp.2022.05.038
@@ -3096,7 +3085,7 @@ Abstract: PURPOSE: The FLASH effect designates normal tissue sparing by ultra-hi
 
 ---
 
-## 282. Beam pulse structure and dose rate as determinants for the flash effect observed in zebrafish embryo.
+## 281. Beam pulse structure and dose rate as determinants for the flash effect observed in zebrafish embryo.
 Authors: Karsch L, Pawelke J, Brand M, Hans S, Hideghéty K, Jansen J, Lessmann E, Löck S et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35661675; DOI 10.1016/j.radonc.2022.05.025
@@ -3107,7 +3096,7 @@ Abstract: BACKGROUND AND PURPOSE: Continuing recent experiments at the research 
 
 ---
 
-## 283. Oxygen Monitoring in Model Solutions and In Vivo in Mice During Proton Irradiation at Conventional and FLASH Dose Rates.
+## 282. Oxygen Monitoring in Model Solutions and In Vivo in Mice During Proton Irradiation at Conventional and FLASH Dose Rates.
 Authors: Van Slyke AL, El Khatib M, Velalopoulou A, Diffenderfer E, Shoniyozov K, Kim MM, Karagounis IV, Busch TM et al.
 Journal: Radiation research (2022)
 Identifiers: PMID 35640166; DOI 10.1667/RADE-21-00232.1; PMC PMC10176203 (open access)
@@ -3118,7 +3107,7 @@ Abstract: FLASH is a high-dose-rate form of radiation therapy that has the repor
 
 ---
 
-## 284. Pencil beam scanning proton FLASH maintains tumor control while normal tissue damage is reduced in a mouse model.
+## 283. Pencil beam scanning proton FLASH maintains tumor control while normal tissue damage is reduced in a mouse model.
 Authors: Sørensen BS, Sitarz MK, Ankjærgaard C, Johansen JG, Andersen CE, Kanouta E, Grau C, Poulsen P
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35595175; DOI 10.1016/j.radonc.2022.05.014
@@ -3129,7 +3118,7 @@ Abstract: PURPOSE: Preclinical studies indicate a normal tissue sparing effect w
 
 ---
 
-## 285. Using oxygen dose histograms to quantify voxelised ultra-high dose rate (FLASH) effects in multiple radiation modalities.
+## 284. Using oxygen dose histograms to quantify voxelised ultra-high dose rate (FLASH) effects in multiple radiation modalities.
 Authors: Van den Heuvel F, Vella A, Fiorini F, Brooke M, Hill M, Ryan A, Maughan T, Giaccia A
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35594854; DOI 10.1088/1361-6560/ac71ef; PMC PMC9174700 (open access)
@@ -3140,7 +3129,7 @@ Abstract: Purpose.To introduce a methodology to predict tissue sparing effects i
 
 ---
 
-## 286. Modeling the impact of spatial oxygen heterogeneity on radiolytic oxygen depletion during FLASH radiotherapy.
+## 285. Modeling the impact of spatial oxygen heterogeneity on radiolytic oxygen depletion during FLASH radiotherapy.
 Authors: Taylor E, Hill RP, Létourneau D
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35576920; DOI 10.1088/1361-6560/ac702c
@@ -3151,7 +3140,7 @@ Abstract: Purpose.It has been postulated that the delivery of radiotherapy at ul
 
 ---
 
-## 287. FLASH with carbon ions: Tumor control, normal tissue sparing, and distal metastasis in a mouse osteosarcoma model.
+## 286. FLASH with carbon ions: Tumor control, normal tissue sparing, and distal metastasis in a mouse osteosarcoma model.
 Authors: Tinganelli W, Weber U, Puspitasari A, Simoniello P, Abdollahi A, Oppermann J, Schuy C, Horst F et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 35537606; DOI 10.1016/j.radonc.2022.05.003
@@ -3162,7 +3151,7 @@ Abstract: BACKGROUND AND PURPOSE: The FLASH effect is a potential breakthrough i
 
 ---
 
-## 288. Demonstration of the FLASH Effect Within the Spread-out Bragg Peak After Abdominal Irradiation of Mice.
+## 287. Demonstration of the FLASH Effect Within the Spread-out Bragg Peak After Abdominal Irradiation of Mice.
 Authors: Evans T, Cooley J, Wagner M, Yu T, Zwart T
 Journal: International journal of particle therapy (2022)
 Identifiers: PMID 35530182; DOI 10.14338/IJPT-20-00095; PMC PMC9009457 (open access)
@@ -3173,7 +3162,7 @@ Abstract: PURPOSE: The effects of FLASH-level dose rates delivered at the spread
 
 ---
 
-## 289. First Human Cell Experiments With FLASH Carbon Ions.
+## 288. First Human Cell Experiments With FLASH Carbon Ions.
 Authors: Tashiro M, Yoshida Y, Oike T, Nakao M, Yusa K, Hirota Y, Ohno T
 Journal: Anticancer research (2022)
 Identifiers: PMID 35489744; DOI 10.21873/anticanres.15725
@@ -3184,7 +3173,7 @@ Abstract: BACKGROUND/AIM: This study aimed to establish a setup for ultra-high-d
 
 ---
 
-## 290. Radioprotective effect of X-ray abdominal FLASH irradiation: Adaptation to oxidative damage and inflammatory response may be benefiting factors.
+## 289. Radioprotective effect of X-ray abdominal FLASH irradiation: Adaptation to oxidative damage and inflammatory response may be benefiting factors.
 Authors: Zhu H, Xie D, Yang Y, Huang S, Gao X, Peng Y, Wang B, Wang J et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35451077; DOI 10.1002/mp.15680
@@ -3195,7 +3184,7 @@ Abstract: BACKGROUND: Ultrahigh dose-rate irradiation (FLASH-IR) was reported to
 
 ---
 
-## 291. Development of a portable hypoxia chamber for ultra-high dose rate laser-driven proton radiobiology applications.
+## 290. Development of a portable hypoxia chamber for ultra-high dose rate laser-driven proton radiobiology applications.
 Authors: Chaudhary P, Gwynne DC, Odlozilik B, McMurray A, Milluzzo G, Maiorino C, Doria D, Ahmed H et al.
 Journal: Radiation oncology (London, England) (2022)
 Identifiers: PMID 35428301; DOI 10.1186/s13014-022-02024-3; PMC PMC9013042 (open access)
@@ -3206,7 +3195,7 @@ Abstract: BACKGROUND: There is currently significant interest in assessing the r
 
 ---
 
-## 292. Dose- and Volume-Limiting Late Toxicity of FLASH Radiotherapy in Cats with Squamous Cell Carcinoma of the Nasal Planum and in Mini Pigs.
+## 291. Dose- and Volume-Limiting Late Toxicity of FLASH Radiotherapy in Cats with Squamous Cell Carcinoma of the Nasal Planum and in Mini Pigs.
 Authors: Rohrer Bley C, Wolf F, Gonçalves Jorge P, Grilj V, Petridis I, Petit B, Böhlen TT, Moeckli R et al.
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2022)
 Identifiers: PMID 35421221; DOI 10.1158/1078-0432.CCR-22-0262; PMC PMC9433962 (open access)
@@ -3217,7 +3206,7 @@ Abstract: PURPOSE: The FLASH effect is characterized by normal tissue sparing wi
 
 ---
 
-## 293. Image guidance for FLASH radiotherapy.
+## 292. Image guidance for FLASH radiotherapy.
 Authors: El Naqa I, Pogue BW, Zhang R, Oraiqat I, Parodi K
 Journal: Medical physics (2022)
 Identifiers: PMID 35396707; DOI 10.1002/mp.15662; PMC PMC9844128 (open access)
@@ -3228,7 +3217,7 @@ Abstract: FLASH radiotherapy (FLASH-RT) is an emerging ultra-high dose (>40 Gy/
 
 ---
 
-## 294. The Impact of Sub-Millisecond Damage Fixation Kinetics on the In Vitro Sparing Effect at Ultra-High Dose Rate in UNIVERSE.
+## 293. The Impact of Sub-Millisecond Damage Fixation Kinetics on the In Vitro Sparing Effect at Ultra-High Dose Rate in UNIVERSE.
 Authors: Liew H, Mein S, Tessonnier T, Abdollahi A, Debus J, Dokic I, Mairani A
 Journal: International journal of molecular sciences (2022)
 Identifiers: PMID 35328377; DOI 10.3390/ijms23062954; PMC PMC8954991 (open access)
@@ -3239,7 +3228,7 @@ Abstract: The impact of the exact temporal pulse structure on the potential cell
 
 ---
 
-## 295. Ultrafast Tracking of Oxygen Dynamics During Proton FLASH.
+## 294. Ultrafast Tracking of Oxygen Dynamics During Proton FLASH.
 Authors: El Khatib M, Van Slyke AL, Velalopoulou A, Kim MM, Shoniyozov K, Allu SR, Diffenderfer EE, Busch TM et al.
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 35314293; DOI 10.1016/j.ijrobp.2022.03.016; PMC PMC9250619 (open access)
@@ -3250,7 +3239,7 @@ Abstract: PURPOSE: Radiation therapy delivered at ultrafast dose rates, known as
 
 ---
 
-## 296. Mitochondrial Damage Response and Fate of Normal Cells Exposed to FLASH Irradiation with Protons.
+## 295. Mitochondrial Damage Response and Fate of Normal Cells Exposed to FLASH Irradiation with Protons.
 Authors: Guo Z, Buonanno M, Harken A, Zhou G, Hei TK
 Journal: Radiation research (2022)
 Identifiers: PMID 35290449; DOI 10.1667/RADE-21-00181.1; PMC PMC9241019 (open access)
@@ -3261,7 +3250,7 @@ Abstract: Radiation therapy (RT) plays an important role in cancer treatment. Th
 
 ---
 
-## 297. Treatment planning for Flash radiotherapy: General aspects and applications to proton beams.
+## 296. Treatment planning for Flash radiotherapy: General aspects and applications to proton beams.
 Authors: Schwarz M, Traneus E, Safai S, Kolano A, van de Water S
 Journal: Medical physics (2022)
 Identifiers: PMID 35213040; DOI 10.1002/mp.15579
@@ -3272,7 +3261,7 @@ Abstract: The increased radioresistence of healthy tissues when irradiated at ve
 
 ---
 
-## 298. Neuroprotective Effects of Ultra-High Dose Rate FLASH Bragg Peak Proton Irradiation.
+## 297. Neuroprotective Effects of Ultra-High Dose Rate FLASH Bragg Peak Proton Irradiation.
 Authors: Dokic I, Meister S, Bojcevski J, Tessonnier T, Walsh D, Knoll M, Mein S, Tang Z et al.
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 35196536; DOI 10.1016/j.ijrobp.2022.02.020; PMC PMC11034835 (open access)
@@ -3283,7 +3272,7 @@ Abstract: PURPOSE: To investigate brain tissue response to ultra-high dose rate 
 
 ---
 
-## 299. FLASH irradiation induces lower levels of DNA damage ex vivo, an effect modulated by oxygen tension, dose, and dose rate.
+## 298. FLASH irradiation induces lower levels of DNA damage ex vivo, an effect modulated by oxygen tension, dose, and dose rate.
 Authors: Cooper CR, Jones D, Jones GD, Petersson K
 Journal: The British journal of radiology (2022)
 Identifiers: PMID 35171701; DOI 10.1259/bjr.20211150; PMC PMC10993968 (open access)
@@ -3294,7 +3283,7 @@ Abstract: OBJECTIVE: FLASH irradiation reportedly produces less normal tissue to
 
 ---
 
-## 300. A new platform for ultra-high dose rate radiobiological research using the BELLA PW laser proton beamline.
+## 299. A new platform for ultra-high dose rate radiobiological research using the BELLA PW laser proton beamline.
 Authors: Bin J, Obst-Huebl L, Mao JH, Nakamura K, Geulig LD, Chang H, Ji Q, He L et al.
 Journal: Scientific reports (2022)
 Identifiers: PMID 35087083; DOI 10.1038/s41598-022-05181-3; PMC PMC8795353 (open access)
@@ -3305,7 +3294,7 @@ Abstract: Radiotherapy is the current standard of care for more than 50% of all 
 
 ---
 
-## 301. A quantitative FLASH effectiveness model to reveal potentials and pitfalls of high dose rate proton therapy.
+## 300. A quantitative FLASH effectiveness model to reveal potentials and pitfalls of high dose rate proton therapy.
 Authors: Krieger M, van de Water S, Folkerts MM, Mazal A, Fabiano S, Bizzocchi N, Weber DC, Safai S et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35032035; DOI 10.1002/mp.15459; PMC PMC9305944 (open access)
@@ -3316,7 +3305,7 @@ Abstract: PURPOSE: In ultrahigh dose rate radiotherapy, the FLASH effect can lea
 
 ---
 
-## 302. Comparison of ultra-high versus conventional dose rate radiotherapy in a patient with cutaneous lymphoma.
+## 301. Comparison of ultra-high versus conventional dose rate radiotherapy in a patient with cutaneous lymphoma.
 Authors: Gaide O, Herrera F, Jeanneret Sozzi W, Gonçalves Jorge P, Kinj R, Bailat C, Duclos F, Bochud F et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 34998899; DOI 10.1016/j.radonc.2021.12.045
@@ -3327,7 +3316,7 @@ Abstract: A patient with a cutaneous lymphoma was treated on the same day for 2 
 
 ---
 
-## 303. In vivo validation and tissue sparing factor for acute damage of pencil beam scanning proton FLASH.
+## 302. In vivo validation and tissue sparing factor for acute damage of pencil beam scanning proton FLASH.
 Authors: Singers Sørensen B, Krzysztof Sitarz M, Ankjærgaard C, Johansen J, Andersen CE, Kanouta E, Overgaard C, Grau C et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 34953933; DOI 10.1016/j.radonc.2021.12.022
@@ -3338,7 +3327,7 @@ Abstract: BACKGROUND AND PURPOSE: Preclinical studies indicate a normal tissue s
 
 ---
 
-## 304. DNA strand break induction of aqueous plasmid DNA exposed to 30 MeV protons at ultra-high dose rate.
+## 303. DNA strand break induction of aqueous plasmid DNA exposed to 30 MeV protons at ultra-high dose rate.
 Authors: Ohsawa D, Hiroyama Y, Kobayashi A, Kusumoto T, Kitamura H, Hojo S, Kodaira S, Konishi T
 Journal: Journal of radiation research (2022)
 Identifiers: PMID 34952540; DOI 10.1093/jrr/rrab114; PMC PMC8944314 (open access)
@@ -3349,7 +3338,7 @@ Abstract: Radiation cancer therapy with ultra-high dose rate exposure, so called
 
 ---
 
-## 305. Abdominopelvic FLASH Irradiation Improves PD-1 Immune Checkpoint Inhibition in Preclinical Models of Ovarian Cancer.
+## 304. Abdominopelvic FLASH Irradiation Improves PD-1 Immune Checkpoint Inhibition in Preclinical Models of Ovarian Cancer.
 Authors: Eggold JT, Chow S, Melemenidis S, Wang J, Natarajan S, Loo PE, Manjappa R, Viswanathan V et al.
 Journal: Molecular cancer therapeutics (2022)
 Identifiers: PMID 34866044; DOI 10.1158/1535-7163.MCT-21-0358; PMC PMC9229218 (open access)
@@ -3360,7 +3349,7 @@ Abstract: Treatment of advanced ovarian cancer using PD-1/PD-L1 immune checkpoin
 
 ---
 
-## 306. Ultra-High Dose Rate (FLASH) Carbon Ion Irradiation: Dosimetry and First Cell Experiments.
+## 305. Ultra-High Dose Rate (FLASH) Carbon Ion Irradiation: Dosimetry and First Cell Experiments.
 Authors: Tinganelli W, Sokol O, Quartieri M, Puspitasari A, Dokic I, Abdollahi A, Durante M, Haberer T et al.
 Journal: International journal of radiation oncology, biology, physics (2022)
 Identifiers: PMID 34813912; DOI 10.1016/j.ijrobp.2021.11.020
@@ -3371,7 +3360,7 @@ Abstract: PURPOSE: To establish a beam monitoring and dosimetry system to enable
 
 ---
 
-## 307. Design and validation of a synchrotron proton beam line for FLASH radiotherapy preclinical research experiments.
+## 306. Design and validation of a synchrotron proton beam line for FLASH radiotherapy preclinical research experiments.
 Authors: Titt U, Yang M, Wang X, Iga K, Fredette N, Schueler E, Lin SH, Zhu XR et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 34800037; DOI 10.1002/mp.15370; PMC PMC11931509 (open access)
@@ -3382,7 +3371,7 @@ Abstract: PURPOSE: The main purpose of this work was to generate and validate th
 
 ---
 
-## 308. First demonstration of the FLASH effect with ultrahigh dose rate high-energy X-rays.
+## 307. First demonstration of the FLASH effect with ultrahigh dose rate high-energy X-rays.
 Authors: Gao F, Yang Y, Zhu H, Wang J, Xiao D, Zhou Z, Dai T, Zhang Y et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 34774651; DOI 10.1016/j.radonc.2021.11.004
@@ -3393,7 +3382,7 @@ Abstract: PURPOSE: This study aimed to evaluate whether high-energy X-rays (HEXs
 
 ---
 
-## 309. Radiobiology of the FLASH effect.
+## 308. Radiobiology of the FLASH effect.
 Authors: Friedl AA, Prise KM, Butterworth KT, Montay-Gruel P, Favaudon V
 Journal: Medical physics (2022)
 Identifiers: PMID 34426981; DOI 10.1002/mp.15184
@@ -3404,7 +3393,7 @@ Abstract: Radiation exposures at ultrahigh dose rates (UHDRs) at several orders 
 
 ---
 
-## 310. Model studies of the role of oxygen in the FLASH effect.
+## 309. Model studies of the role of oxygen in the FLASH effect.
 Authors: Favaudon V, Labarbe R, Limoli CL
 Journal: Medical physics (2022)
 Identifiers: PMID 34407219; DOI 10.1002/mp.15129; PMC PMC8854455 (open access)
@@ -3415,7 +3404,7 @@ Abstract: Current radiotherapy facilities are standardized to deliver dose rates
 
 ---
 
-## 311. FLASH radiotherapy with carbon ion beams.
+## 310. FLASH radiotherapy with carbon ion beams.
 Authors: Weber UA, Scifoni E, Durante M
 Journal: Medical physics (2022)
 Identifiers: PMID 34318508; DOI 10.1002/mp.15135
@@ -3426,7 +3415,7 @@ Abstract: FLASH radiotherapy is considered a new potential breakthrough in cance
 
 ---
 
-## 312. Non-conventional Ultra-High Dose Rate (FLASH) Microbeam Radiotherapy Provides Superior Normal Tissue Sparing in Rat Lung Compared to Non-conventional Ultra-High Dose Rate (FLASH) Radiotherapy.
+## 311. Non-conventional Ultra-High Dose Rate (FLASH) Microbeam Radiotherapy Provides Superior Normal Tissue Sparing in Rat Lung Compared to Non-conventional Ultra-High Dose Rate (FLASH) Radiotherapy.
 Authors: Wright MD, Romanelli P, Bravin A, Le Duc G, Brauer-Krisch E, Requardt H, Bartzsch S, Hlushchuk R et al.
 Journal: Cureus (2021)
 Identifiers: PMID 35223216; DOI 10.7759/cureus.19317; PMC PMC8864723 (open access)
@@ -3437,7 +3426,7 @@ Abstract: Conventional radiotherapy is a widely used non-invasive form of treatm
 
 ---
 
-## 313. A new emittance selection system to maximize beam transmission for low-energy beams in cyclotron-based proton therapy facilities with gantry.
+## 312. A new emittance selection system to maximize beam transmission for low-energy beams in cyclotron-based proton therapy facilities with gantry.
 Authors: Maradia V, Meer D, Weber DC, Lomax AJ, Schippers JM, Psoroulas S
 Journal: Medical physics (2021)
 Identifiers: PMID 34655083; DOI 10.1002/mp.15278; PMC PMC9298197 (open access)
@@ -3448,7 +3437,7 @@ Abstract: PURPOSE: In proton therapy, the potential of using high-dose rates in 
 
 ---
 
-## 314. Repurposing Proton Beam Therapy through Novel Insights into Tumour Radioresistance.
+## 313. Repurposing Proton Beam Therapy through Novel Insights into Tumour Radioresistance.
 Authors: Chua KLM, Chu PL, Tng DJH, Soo KC, Chua MLK
 Journal: Clinical oncology (Royal College of Radiologists (Great Britain)) (2021)
 Identifiers: PMID 34509347; DOI 10.1016/j.clon.2021.08.013
@@ -3459,7 +3448,7 @@ Abstract: Despite improvements in radiotherapy, radioresistance remains an impor
 
 ---
 
-## 315. Comparison of FLASH Proton Entrance and the Spread-Out Bragg Peak Dose Regions in the Sparing of Mouse Intestinal Crypts and in a Pancreatic Tumor Model.
+## 314. Comparison of FLASH Proton Entrance and the Spread-Out Bragg Peak Dose Regions in the Sparing of Mouse Intestinal Crypts and in a Pancreatic Tumor Model.
 Authors: Kim MM, Verginadis II, Goia D, Haertter A, Shoniyozov K, Zou W, Maity A, Busch TM et al.
 Journal: Cancers (2021)
 Identifiers: PMID 34439398; DOI 10.3390/cancers13164244; PMC PMC8392865 (open access)
@@ -3470,7 +3459,7 @@ Abstract: Ultra-high dose rate FLASH proton radiotherapy (F-PRT) has been shown 
 
 ---
 
-## 316. Megavolt bremsstrahlung measurements from linear induction accelerators demonstrate possible use as a FLASH radiotherapy source to reduce acute toxicity.
+## 315. Megavolt bremsstrahlung measurements from linear induction accelerators demonstrate possible use as a FLASH radiotherapy source to reduce acute toxicity.
 Authors: Sampayan SE, Sampayan KC, Caporaso GJ, Chen YJ, Falabella S, Hawkins SA, Hearn J, Watson JA et al.
 Journal: Scientific reports (2021)
 Identifiers: PMID 34429440; DOI 10.1038/s41598-021-95807-9; PMC PMC8385032 (open access)
@@ -3481,7 +3470,7 @@ Abstract: Recent studies indicate better efficacy and healthy tissue sparing wit
 
 ---
 
-## 317. Irradiation at Ultra-High (FLASH) Dose Rates Reduces Acute Normal Tissue Toxicity in the Mouse Gastrointestinal System.
+## 316. Irradiation at Ultra-High (FLASH) Dose Rates Reduces Acute Normal Tissue Toxicity in the Mouse Gastrointestinal System.
 Authors: Ruan JL, Lee C, Wouters S, Tullis IDC, Verslegers M, Mysara M, Then CK, Smart SC et al.
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 34400268; DOI 10.1016/j.ijrobp.2021.08.004; PMC PMC7612009 (open access)
@@ -3492,7 +3481,7 @@ Abstract: PURPOSE: Preclinical studies using ultra-high dose rate (FLASH) irradi
 
 ---
 
-## 318. Cancer Cells Can Exhibit a Sparing FLASH Effect at Low Doses Under Normoxic In Vitro-Conditions.
+## 317. Cancer Cells Can Exhibit a Sparing FLASH Effect at Low Doses Under Normoxic In Vitro-Conditions.
 Authors: Adrian G, Konradsson E, Beyer S, Wittrup A, Butterworth KT, McMahon SJ, Ghita M, Petersson K et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34395253; DOI 10.3389/fonc.2021.686142; PMC PMC8358772 (open access)
@@ -3503,7 +3492,7 @@ Abstract: BACKGROUND: Irradiation with ultra-high dose rate (FLASH) has been sho
 
 ---
 
-## 319. FLASH Dose Rate Helium Ion Beams: First In Vitro Investigations.
+## 318. FLASH Dose Rate Helium Ion Beams: First In Vitro Investigations.
 Authors: Tessonnier T, Mein S, Walsh DWM, Schuhmacher N, Liew H, Cee R, Galonska M, Scheloske S et al.
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 34343608; DOI 10.1016/j.ijrobp.2021.07.1703
@@ -3514,7 +3503,7 @@ Abstract: PURPOSE: To establish and investigate the effects of dose, linear ener
 
 ---
 
-## 320. FLASH Proton Radiotherapy Spares Normal Epithelial and Mesenchymal Tissues While Preserving Sarcoma Response.
+## 319. FLASH Proton Radiotherapy Spares Normal Epithelial and Mesenchymal Tissues While Preserving Sarcoma Response.
 Authors: Velalopoulou A, Karagounis IV, Cramer GM, Kim MM, Skoufos G, Goia D, Hagan S, Verginadis II et al.
 Journal: Cancer research (2021)
 Identifiers: PMID 34321243; DOI 10.1158/0008-5472.CAN-21-1500; PMC PMC8715480 (open access)
@@ -3525,7 +3514,7 @@ Abstract: In studies of electron and proton radiotherapy, ultrahigh dose rates o
 
 ---
 
-## 321. The Proton-Boron Reaction Increases the Radiobiological Effectiveness of Clinical Low- and High-Energy Proton Beams: Novel Experimental Evidence and Perspectives.
+## 320. The Proton-Boron Reaction Increases the Radiobiological Effectiveness of Clinical Low- and High-Energy Proton Beams: Novel Experimental Evidence and Perspectives.
 Authors: Bláha P, Feoli C, Agosteo S, Calvaruso M, Cammarata FP, Catalano R, Ciocca M, Cirrone GAP et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34262867; DOI 10.3389/fonc.2021.682647; PMC PMC8274279 (open access)
@@ -3536,7 +3525,7 @@ Abstract: Protontherapy is a rapidly expanding radiotherapy modality where accel
 
 ---
 
-## 322. Quantification of Differential Response of Tumour and Normal Cells to Microbeam Radiation in the Absence of FLASH Effects.
+## 321. Quantification of Differential Response of Tumour and Normal Cells to Microbeam Radiation in the Absence of FLASH Effects.
 Authors: Steel H, Brüningk SC, Box C, Oelfke U, Bartzsch SH
 Journal: Cancers (2021)
 Identifiers: PMID 34209502; DOI 10.3390/cancers13133238; PMC PMC8268803 (open access)
@@ -3547,7 +3536,7 @@ Abstract: Microbeam radiotherapy (MRT) is a preclinical method of delivering spa
 
 ---
 
-## 323. [How to improve radiotherapy ? Technological developments and radiotherapy of tomorrow].
+## 322. [How to improve radiotherapy ? Technological developments and radiotherapy of tomorrow].
 Authors: Colin G, Coucke PA
 Journal: Revue medicale de Liege (2021)
 Identifiers: PMID 34080364
@@ -3558,7 +3547,7 @@ Abstract: Radiotherapy established itself in the 20th century as an essential mo
 
 ---
 
-## 324. Ultra-High Dose Rate FLASH Irradiation Induced Radio-Resistance of Normal Fibroblast Cells Can Be Enhanced by Hypoxia and Mitochondrial Dysfunction Resulting From Loss of Cytochrome C.
+## 323. Ultra-High Dose Rate FLASH Irradiation Induced Radio-Resistance of Normal Fibroblast Cells Can Be Enhanced by Hypoxia and Mitochondrial Dysfunction Resulting From Loss of Cytochrome C.
 Authors: Han J, Mei Z, Lu C, Qian J, Liang Y, Sun X, Pan Z, Kong D et al.
 Journal: Frontiers in cell and developmental biology (2021)
 Identifiers: PMID 33996831; DOI 10.3389/fcell.2021.672929; PMC PMC8121317 (open access)
@@ -3569,7 +3558,7 @@ Abstract: Ultra-high dose rate FLASH irradiation (FLASH-IR) has got extensive at
 
 ---
 
-## 325. Association of Cancer Stem Cell Radio-Resistance Under Ultra-High Dose Rate FLASH Irradiation With Lysosome-Mediated Autophagy.
+## 324. Association of Cancer Stem Cell Radio-Resistance Under Ultra-High Dose Rate FLASH Irradiation With Lysosome-Mediated Autophagy.
 Authors: Yang G, Lu C, Mei Z, Sun X, Han J, Qian J, Liang Y, Pan Z et al.
 Journal: Frontiers in cell and developmental biology (2021)
 Identifiers: PMID 33996830; DOI 10.3389/fcell.2021.672693; PMC PMC8116574 (open access)
@@ -3580,7 +3569,7 @@ Abstract: Cancer stem cell (CSC) is thought to be the major cause of radio-resis
 
 ---
 
-## 326. Quantification of Oxygen Depletion During FLASH Irradiation In Vitro and In Vivo.
+## 325. Quantification of Oxygen Depletion During FLASH Irradiation In Vitro and In Vivo.
 Authors: Cao X, Zhang R, Esipova TV, Allu SR, Ashraf R, Rahman M, Gunn JR, Bruza P et al.
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 33845146; DOI 10.1016/j.ijrobp.2021.03.056; PMC PMC8338745 (open access)
@@ -3591,7 +3580,7 @@ Abstract: PURPOSE: Delivery of radiation at ultrahigh dose rates (UHDRs), known 
 
 ---
 
-## 327. FLASH Proton Pencil Beam Scanning Irradiation Minimizes Radiation-Induced Leg Contracture and Skin Toxicity in Mice.
+## 326. FLASH Proton Pencil Beam Scanning Irradiation Minimizes Radiation-Induced Leg Contracture and Skin Toxicity in Mice.
 Authors: Cunningham S, McCauley S, Vairamani K, Speth J, Girdhani S, Abel E, Sharma RA, Perentesis JP et al.
 Journal: Cancers (2021)
 Identifiers: PMID 33804336; DOI 10.3390/cancers13051012; PMC PMC7957631 (open access)
@@ -3602,7 +3591,7 @@ Abstract: Ultra-high dose rate radiation has been reported to produce a more fav
 
 ---
 
-## 328. Electron dose rate and oxygen depletion protect zebrafish embryos from radiation damage.
+## 327. Electron dose rate and oxygen depletion protect zebrafish embryos from radiation damage.
 Authors: Pawelke J, Brand M, Hans S, Hideghéty K, Karsch L, Lessmann E, Löck S, Schürer M et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2021)
 Identifiers: PMID 33587970; DOI 10.1016/j.radonc.2021.02.003
@@ -3613,7 +3602,7 @@ Abstract: BACKGROUND AND PURPOSE: In consequence of a previous study, where no p
 
 ---
 
-## 329. Considerations for shoot-through FLASH proton therapy.
+## 328. Considerations for shoot-through FLASH proton therapy.
 Authors: Verhaegen F, Wanders RG, Wolfs C, Eekers D
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 33571981; DOI 10.1088/1361-6560/abe55a
@@ -3624,7 +3613,7 @@ Abstract: PURPOSE: To discuss several pertinent issues related to shoot-through 
 
 ---
 
-## 330. Deciphering Time-Dependent DNA Damage Complexity, Repair, and Oxygen Tension: A Mechanistic Model for FLASH-Dose-Rate Radiation Therapy.
+## 329. Deciphering Time-Dependent DNA Damage Complexity, Repair, and Oxygen Tension: A Mechanistic Model for FLASH-Dose-Rate Radiation Therapy.
 Authors: Liew H, Mein S, Dokic I, Haberer T, Debus J, Abdollahi A, Mairani A
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 33412259; DOI 10.1016/j.ijrobp.2020.12.048
@@ -3635,7 +3624,7 @@ Abstract: PURPOSE: Irradiation with ultrahigh dose rates (FLASH) has reemerged a
 
 ---
 
-## 331. News FLASH-RT: To Treat GBM and Spare Cognition, Fraction Size and Total Dose Matter.
+## 330. News FLASH-RT: To Treat GBM and Spare Cognition, Fraction Size and Total Dose Matter.
 Authors: Huang CC, Mendonca MS
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2021)
 Identifiers: PMID 33268551; DOI 10.1158/1078-0432.CCR-20-4067
@@ -3646,7 +3635,7 @@ Abstract: Data indicate that ultrahigh dose rate (>106 Gy/second) FLASH radiothe
 
 ---
 
-## 332. ROAD: ROtational direct Aperture optimization with a Decoupled ring-collimator for FLASH radiotherapy.
+## 331. ROAD: ROtational direct Aperture optimization with a Decoupled ring-collimator for FLASH radiotherapy.
 Authors: Lyu Q, Neph R, O'Connor D, Ruan D, Boucher S, Sheng K
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 33207321; DOI 10.1088/1361-6560/abcbd0; PMC PMC8683603 (open access)
@@ -3657,7 +3646,7 @@ Abstract: Ultra-high dose rate in radiotherapy (FLASH) has been shown to increas
 
 ---
 
-## 333. Current delivery limitations of proton PBS for FLASH.
+## 332. Current delivery limitations of proton PBS for FLASH.
 Authors: Zou W, Diffenderfer ES, Cengel KA, Kim MM, Avery S, Konzer J, Cai Y, Boisseu P et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2021)
 Identifiers: PMID 33186682; DOI 10.1016/j.radonc.2020.11.002
@@ -3668,7 +3657,7 @@ Abstract: PURPOSE: Proton Pencil Beam Scanning (PBS) is an attractive solution t
 
 ---
 
-## 334. Effects of Ultra-high doserate FLASH Irradiation on the Tumor Microenvironment in Lewis Lung Carcinoma: Role of Myosin Light Chain.
+## 333. Effects of Ultra-high doserate FLASH Irradiation on the Tumor Microenvironment in Lewis Lung Carcinoma: Role of Myosin Light Chain.
 Authors: Kim YE, Gwak SH, Hong BJ, Oh JM, Choi HS, Kim MS, Oh D, Lartey FM et al.
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 33186615; DOI 10.1016/j.ijrobp.2020.11.012
@@ -3679,7 +3668,7 @@ Abstract: PURPOSE: To investigate whether the vascular collapse in tumors by con
 
 ---
 
-## 335. Ultra-high-dose-rate FLASH and Conventional-Dose-Rate Irradiation Differentially Affect Human Acute Lymphoblastic Leukemia and Normal Hematopoiesis.
+## 334. Ultra-high-dose-rate FLASH and Conventional-Dose-Rate Irradiation Differentially Affect Human Acute Lymphoblastic Leukemia and Normal Hematopoiesis.
 Authors: Chabi S, To THV, Leavitt R, Poglio S, Jorge PG, Jaccard M, Petersson K, Petit B et al.
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 33075474; DOI 10.1016/j.ijrobp.2020.10.012
@@ -3690,7 +3679,7 @@ Abstract: PURPOSE: Ultra-high-dose-rate FLASH radiation therapy has been shown t
 
 ---
 
-## 336. Hypofractionated FLASH-RT as an Effective Treatment against Glioblastoma that Reduces Neurocognitive Side Effects in Mice.
+## 335. Hypofractionated FLASH-RT as an Effective Treatment against Glioblastoma that Reduces Neurocognitive Side Effects in Mice.
 Authors: Montay-Gruel P, Acharya MM, Gonçalves Jorge P, Petit B, Petridis IG, Fuchs P, Leavitt R, Petersson K et al.
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2021)
 Identifiers: PMID 33060122; DOI 10.1158/1078-0432.CCR-20-0894; PMC PMC7854480 (open access)
@@ -3701,7 +3690,7 @@ Abstract: PURPOSE: Recent data have shown that single-fraction irradiation deliv
 
 ---
 
-## 337. Maintenance of Tight Junction Integrity in the Absence of Vascular Dilation in the Brain of Mice Exposed to Ultra-High-Dose-Rate FLASH Irradiation.
+## 336. Maintenance of Tight Junction Integrity in the Absence of Vascular Dilation in the Brain of Mice Exposed to Ultra-High-Dose-Rate FLASH Irradiation.
 Authors: Allen BD, Acharya MM, Montay-Gruel P, Jorge PG, Bailat C, Petit B, Vozenin MC, Limoli C
 Journal: Radiation research (2020)
 Identifiers: PMID 33348373; DOI 10.1667/RADE-20-00060.1; PMC PMC7773228 (open access)
@@ -3712,7 +3701,7 @@ Abstract: Persistent vasculature abnormalities contribute to an altered CNS micr
 
 ---
 
-## 338. [A New Generation of Radiotherapy Technology-Flash Radiotherapy].
+## 337. [A New Generation of Radiotherapy Technology-Flash Radiotherapy].
 Authors: Wu C, Song J, Yin B, Zhang G, Lin H, Fang C, Yang T, Qu B et al.
 Journal: Zhongguo yi liao qi xie za zhi = Chinese journal of medical instrumentation (2020)
 Identifiers: PMID 33314859; DOI 10.3969/j.issn.1671-7104.2020.06.009
@@ -3723,7 +3712,7 @@ Abstract: Flash radiotherapy is a kind of radiotherapy method using ultra-high d
 
 ---
 
-## 339. Abdominal FLASH irradiation reduces radiation-induced gastrointestinal toxicity for the treatment of ovarian cancer in mice.
+## 338. Abdominal FLASH irradiation reduces radiation-induced gastrointestinal toxicity for the treatment of ovarian cancer in mice.
 Authors: Levy K, Natarajan S, Wang J, Chow S, Eggold JT, Loo PE, Manjappa R, Melemenidis S et al.
 Journal: Scientific reports (2020)
 Identifiers: PMID 33303827; DOI 10.1038/s41598-020-78017-7; PMC PMC7728763 (open access)
@@ -3734,7 +3723,7 @@ Abstract: Radiation therapy is the most effective cytotoxic therapy for localize
 
 ---
 
-## 340. Correction for Montay-Gruel et al., Long-term neurocognitive benefits of FLASH radiotherapy driven by reduced reactive oxygen species.
+## 339. Correction for Montay-Gruel et al., Long-term neurocognitive benefits of FLASH radiotherapy driven by reduced reactive oxygen species.
 Authors: 
 Journal: Proceedings of the National Academy of Sciences of the United States of America (2020)
 Identifiers: PMID 33020294; DOI 10.1073/pnas.2019057117; PMC PMC7568249 (open access)
@@ -3745,7 +3734,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 341. FLASH Investigations Using Protons: Design of Delivery System, Preclinical Setup and Confirmation of FLASH Effect with Protons in Animal Systems.
+## 340. FLASH Investigations Using Protons: Design of Delivery System, Preclinical Setup and Confirmation of FLASH Effect with Protons in Animal Systems.
 Authors: Zhang Q, Cascio E, Li C, Yang Q, Gerweck LE, Huang P, Gottschalk B, Flanz J et al.
 Journal: Radiation research (2020)
 Identifiers: PMID 32991708; DOI 10.1667/RADE-20-00068.1
@@ -3756,7 +3745,7 @@ Abstract: Extremely high-dose-rate irradiation, referred to as FLASH, has been s
 
 ---
 
-## 342. Proton Irradiation Platforms for Preclinical Studies of High-Dose-Rate (FLASH) Effects at RARAF.
+## 341. Proton Irradiation Platforms for Preclinical Studies of High-Dose-Rate (FLASH) Effects at RARAF.
 Authors: Grilj V, Buonanno M, Welch D, Brenner DJ
 Journal: Radiation research (2020)
 Identifiers: PMID 32926735; DOI 10.1667/RADE-20-00062.1
@@ -3767,7 +3756,7 @@ Abstract: Limited availability of proton irradiators optimized for high-dose-rat
 
 ---
 
-## 343. Ultra-High-Dose-Rate FLASH Irradiation Limits Reactive Gliosis in the Brain.
+## 342. Ultra-High-Dose-Rate FLASH Irradiation Limits Reactive Gliosis in the Brain.
 Authors: Montay-Gruel P, Markarian M, Allen BD, Baddour JD, Giedzinski E, Jorge PG, Petit B, Bailat C et al.
 Journal: Radiation research (2020)
 Identifiers: PMID 32853387; DOI 10.1667/RADE-20-00067.1; PMC PMC7856066 (open access)
@@ -3778,7 +3767,7 @@ Abstract: Encephalic radiation therapy delivered at a conventional dose rate (CO
 
 ---
 
-## 344. FLASH Irradiation Results in Reduced Severe Skin Toxicity Compared to Conventional-Dose-Rate Irradiation.
+## 343. FLASH Irradiation Results in Reduced Severe Skin Toxicity Compared to Conventional-Dose-Rate Irradiation.
 Authors: Soto LA, Casey KM, Wang J, Blaney A, Manjappa R, Breitkreutz D, Skinner L, Dutt S et al.
 Journal: Radiation research (2020)
 Identifiers: PMID 32853385; DOI 10.1667/RADE-20-00090; PMC PMC7855987 (open access)
@@ -3789,7 +3778,7 @@ Abstract: Radiation therapy, along with surgery and chemotherapy, is one of the 
 
 ---
 
-## 345. All Irradiations that are Ultra-High Dose Rate may not be FLASH: The Critical Importance of Beam Parameter Characterization and In Vivo Validation of the FLASH Effect.
+## 344. All Irradiations that are Ultra-High Dose Rate may not be FLASH: The Critical Importance of Beam Parameter Characterization and In Vivo Validation of the FLASH Effect.
 Authors: Vozenin MC, Montay-Gruel P, Limoli C, Germond JF
 Journal: Radiation research (2020)
 Identifiers: PMID 32853355; DOI 10.1667/RADE-20-00141.1
@@ -3800,7 +3789,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 346. Author Correction: Ultra high dose rate (35 Gy/sec) radiation does not spare the normal tissue in cardiac and splenic models of lymphopenia and gastrointestinal syndrome.
+## 345. Author Correction: Ultra high dose rate (35 Gy/sec) radiation does not spare the normal tissue in cardiac and splenic models of lymphopenia and gastrointestinal syndrome.
 Authors: Venkatesulu BP, Sharma A, Pollard-Larkin JM, Sadagopan R, Symons J, Neri S, Singh PK, Tailor R et al.
 Journal: Scientific reports (2020)
 Identifiers: PMID 32601350; DOI 10.1038/s41598-020-67913-7; PMC PMC7324618 (open access)
@@ -3811,7 +3800,7 @@ Abstract: An amendment to this paper has been published and can be accessed via 
 
 ---
 
-## 347. Neuroprotection of Radiosensitive Juvenile Mice by Ultra-High Dose Rate FLASH Irradiation.
+## 346. Neuroprotection of Radiosensitive Juvenile Mice by Ultra-High Dose Rate FLASH Irradiation.
 Authors: Alaghband Y, Cheeks SN, Allen BD, Montay-Gruel P, Doan NL, Petit B, Jorge PG, Giedzinski E et al.
 Journal: Cancers (2020)
 Identifiers: PMID 32599789; DOI 10.3390/cancers12061671; PMC PMC7352849 (open access)
@@ -3822,7 +3811,7 @@ Abstract: Major advances in high precision treatment delivery and imaging have g
 
 ---
 
-## 348. Ultra-high dose rate effect on circulating immune cells: A potential mechanism for FLASH effect?
+## 347. Ultra-high dose rate effect on circulating immune cells: A potential mechanism for FLASH effect?
 Authors: Jin JY, Gu A, Wang W, Oleinick NL, Machtay M, Spring Kong FM
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2020)
 Identifiers: PMID 32387486; DOI 10.1016/j.radonc.2020.04.054; PMC PMC7442672 (open access)
@@ -3833,7 +3822,7 @@ Abstract: PURPOSE: "FLASH" radiotherapy (RT) is a potential paradigm-changing RT
 
 ---
 
-## 349. Minimum dose rate estimation for pulsed FLASH radiotherapy: A dimensional analysis.
+## 348. Minimum dose rate estimation for pulsed FLASH radiotherapy: A dimensional analysis.
 Authors: Zhou S, Zheng D, Fan Q, Yan Y, Wang S, Lei Y, Besemer A, Zhou C et al.
 Journal: Medical physics (2020)
 Identifiers: PMID 32279337; DOI 10.1002/mp.14181
@@ -3844,7 +3833,7 @@ Abstract: PURPOSE/OBJECTIVES: To provide an order of magnitude estimate of the m
 
 ---
 
-## 350. Response to Ling et al. regarding "An integrated physico-chemical approach for explaining the differential impact of FLASH versus conventional dose rate irradiation on cancer and normal tissue responses".
+## 349. Response to Ling et al. regarding "An integrated physico-chemical approach for explaining the differential impact of FLASH versus conventional dose rate irradiation on cancer and normal tissue responses".
 Authors: Buettner GR, Spitz DR, Limoli CL
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2020)
 Identifiers: PMID 32222332; DOI 10.1016/j.radonc.2020.03.001; PMC PMC8757288 (open access)
@@ -3855,7 +3844,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 351. A Quantitative Analysis of the Role of Oxygen Tension in FLASH Radiation Therapy.
+## 350. A Quantitative Analysis of the Role of Oxygen Tension in FLASH Radiation Therapy.
 Authors: Petersson K, Adrian G, Butterworth K, McMahon SJ
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 32145319; DOI 10.1016/j.ijrobp.2020.02.634
@@ -3866,7 +3855,7 @@ Abstract: PURPOSE: Recent demonstrations of normal tissue sparing by high-dose, 
 
 ---
 
-## 352. FLASH radiotherapy: What, how and why?
+## 351. FLASH radiotherapy: What, how and why?
 Authors: Petersson K
 Journal: Research outreach : the outreach quarterly connecting science with society (2020)
 Identifiers: PMID 34993417; DOI 10.32907/RO-117-6669; PMC PMC7612183 (open access)
@@ -3877,7 +3866,7 @@ Abstract: Ultra-high dose rate (FLASH) radiotherapy is a new way of treating tum
 
 ---
 
-## 353. The FLASH effect depends on oxygen concentration.
+## 352. The FLASH effect depends on oxygen concentration.
 Authors: Adrian G, Konradsson E, Lempart M, Bäck S, Ceberg C, Petersson K
 Journal: The British journal of radiology (2020)
 Identifiers: PMID 31825653; DOI 10.1259/bjr.20190702; PMC PMC7055454 (open access)
@@ -3888,7 +3877,7 @@ Abstract: OBJECTIVE: Recent in vivo results have shown prominent tissue sparing 
 
 ---
 
-## 354. FLASH Irradiation Spares Lung Progenitor Cells and Limits the Incidence of Radio-induced Senescence.
+## 353. FLASH Irradiation Spares Lung Progenitor Cells and Limits the Incidence of Radio-induced Senescence.
 Authors: Fouillade C, Curras-Alonso S, Giuranno L, Quelennec E, Heinrich S, Bonnet-Boissinot S, Beddok A, Leboucher S et al.
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2020)
 Identifiers: PMID 31796518; DOI 10.1158/1078-0432.CCR-19-1440
@@ -3899,7 +3888,7 @@ Abstract: PURPOSE: One of the main limitations to anticancer radiotherapy lies i
 
 ---
 
-## 355. The Importance and Clinical Implications of FLASH Ultra-High Dose-Rate Studies for Proton and Heavy Ion Radiotherapy.
+## 354. The Importance and Clinical Implications of FLASH Ultra-High Dose-Rate Studies for Proton and Heavy Ion Radiotherapy.
 Authors: Colangelo NW, Azzam EI
 Journal: Radiation research (2020)
 Identifiers: PMID 31657670; DOI 10.1667/RR15537.1; PMC PMC6949397 (open access)
@@ -3910,7 +3899,7 @@ Abstract: The goal of radiation therapy is to provide the highest probability of
 
 ---
 
-## 356. Erratum for the Research Article: "Ultrahigh dose-rate FLASH irradiation increases the differential response between normal and tumor tissue in mice" by V. Favaudon, L. Caplier, V. Monceau, F. Pouzoulet, M. Sayarath, C. Fouillade, M.-F. Poupon, I. Brito, P. Hupé, J. Bourhis, J. Hall, J.-J. Fontaine, M.-C. Vozenin.
+## 355. Erratum for the Research Article: "Ultrahigh dose-rate FLASH irradiation increases the differential response between normal and tumor tissue in mice" by V. Favaudon, L. Caplier, V. Monceau, F. Pouzoulet, M. Sayarath, C. Fouillade, M.-F. Poupon, I. Brito, P. Hupé, J. Bourhis, J. Hall, J.-J. Fontaine, M.-C. Vozenin.
 Authors: 
 Journal: Science translational medicine (2019)
 Identifiers: PMID 31852799; DOI 10.1126/scitranslmed.aba4525
@@ -3921,7 +3910,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 357. Ultra high dose rate (35 Gy/sec) radiation does not spare the normal tissue in cardiac and splenic models of lymphopenia and gastrointestinal syndrome.
+## 356. Ultra high dose rate (35 Gy/sec) radiation does not spare the normal tissue in cardiac and splenic models of lymphopenia and gastrointestinal syndrome.
 Authors: Venkatesulu BP, Sharma A, Pollard-Larkin JM, Sadagopan R, Symons J, Neri S, Singh PK, Tailor R et al.
 Journal: Scientific reports (2019)
 Identifiers: PMID 31748640; DOI 10.1038/s41598-019-53562-y; PMC PMC6868225 (open access)
@@ -3932,7 +3921,7 @@ Abstract: Recent reports have shown that very high dose rate radiation (35-100�
 
 ---
 
-## 358. Response to letter regarding "An integrated physico-chemical approach for explaining the differential impact of FLASH versus conventional dose rate irradiation on cancer and normal tissue responses".
+## 357. Response to letter regarding "An integrated physico-chemical approach for explaining the differential impact of FLASH versus conventional dose rate irradiation on cancer and normal tissue responses".
 Authors: Spitz DR, Buettner GR, Limoli CL
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31427044; DOI 10.1016/j.radonc.2019.07.009; PMC PMC7254962 (open access)
@@ -3943,7 +3932,7 @@ Abstract: Response to Ling et al. regarding “An integrated physico-chemical ap
 
 ---
 
-## 359. Erratum to: Al-Hallaq H, Cao M, Kruse J, Klein E. Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates. Int J Radiat Oncol Biol Phys 2019;104:257-260.
+## 358. Erratum to: Al-Hallaq H, Cao M, Kruse J, Klein E. Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates. Int J Radiat Oncol Biol Phys 2019;104:257-260.
 Authors: 
 Journal: International journal of radiation oncology, biology, physics (2019)
 Identifiers: PMID 31327422; DOI 10.1016/j.ijrobp.2019.05.008
@@ -3954,7 +3943,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 360. Feasibility of proton FLASH effect tested by zebrafish embryo irradiation.
+## 359. Feasibility of proton FLASH effect tested by zebrafish embryo irradiation.
 Authors: Beyreuther E, Brand M, Hans S, Hideghéty K, Karsch L, Leßmann E, Schürer M, Szabó ER et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31266652; DOI 10.1016/j.radonc.2019.06.024
@@ -3965,18 +3954,7 @@ Abstract: BACKGROUND AND PURPOSE: Motivated by first animal trials showing the n
 
 ---
 
-## 361. Janus Graphene Liquid Crystalline Fiber with Tunable Properties Enabled by Ultrafast Flash Reduction.
-Authors: Kim IH, Im TH, Lee HE, Jang JS, Wang HS, Lee GY, Kim ID, Lee KJ et al.
-Journal: Small (Weinheim an der Bergstrasse, Germany) (2019)
-Identifiers: PMID 31259486; DOI 10.1002/smll.201901529
-URL: https://pubmed.ncbi.nlm.nih.gov/31259486/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: Flash photothermal treatment via Xenon lamp with a broad wavelength spectrum can effectively remove oxygen functionalities and restore sp2 domains at graphitic carbon materials. The chemical composition and relevant structure formation of flash reduced graphene oxide liquid crystal (GOLC) fibers are investigated in accordance with flash irradiation conditions. Owing to the spatial controllability of reduction level via anisotropic flash irradiation, the mechanical properties and electrical conductivity of graphene fibers can be delicately counterbalanced to attain desired properties. High sensitivity humidity sensors can be fabricated from the flash reduced fibers demonstrating notably higher sensitivity over the thermally reduced counterparts. This ultrafast flash reduction holds great promise for multidimensional macroscopic GO based structures, enabling a wide range of potential applications, including textile electronics and wearable sensors.
-
----
-
-## 362. Reduced cognitive deficits after FLASH irradiation of whole mouse brain are associated with less hippocampal dendritic spine loss and neuroinflammation.
+## 360. Reduced cognitive deficits after FLASH irradiation of whole mouse brain are associated with less hippocampal dendritic spine loss and neuroinflammation.
 Authors: Simmons DA, Lartey FM, Schüler E, Rafat M, King G, Kim A, Ko R, Semaan S et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31253467; DOI 10.1016/j.radonc.2019.06.006
@@ -3987,7 +3965,7 @@ Abstract: AIM: To evaluate the impact of ultra-rapid FLASH mouse whole brain irr
 
 ---
 
-## 363. Ultra-High-Dose-Rate FLASH Irradiation May Spare Hypoxic Stem Cell Niches in Normal Tissues.
+## 361. Ultra-High-Dose-Rate FLASH Irradiation May Spare Hypoxic Stem Cell Niches in Normal Tissues.
 Authors: Pratx G, Kapp DS
 Journal: International journal of radiation oncology, biology, physics (2019)
 Identifiers: PMID 31145965; DOI 10.1016/j.ijrobp.2019.05.030
@@ -3998,7 +3976,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 364. Long-term neurocognitive benefits of FLASH radiotherapy driven by reduced reactive oxygen species.
+## 362. Long-term neurocognitive benefits of FLASH radiotherapy driven by reduced reactive oxygen species.
 Authors: Montay-Gruel P, Acharya MM, Petersson K, Alikhani L, Yakkala C, Allen BD, Ollivier J, Petit B et al.
 Journal: Proceedings of the National Academy of Sciences of the United States of America (2019)
 Identifiers: PMID 31097580; DOI 10.1073/pnas.1901777116; PMC PMC6561167 (open access)
@@ -4009,7 +3987,7 @@ Abstract: Here, we highlight the potential translational benefits of delivering 
 
 ---
 
-## 365. Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates.
+## 363. Cured in a FLASH: Reducing Normal Tissue Toxicities Using Ultra-High-Dose Rates.
 Authors: Al-Hallaq H, Cao M, Kruse J, Klein E
 Journal: International journal of radiation oncology, biology, physics (2019)
 Identifiers: PMID 31047621; DOI 10.1016/j.ijrobp.2019.01.093
@@ -4020,7 +3998,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 366. Comparison of Biological Effects of γ-Radiation of Low and Ultra-High Dose Rate on Lymphocytes and Cultured Human Malignant Lymphoma Cells.
+## 364. Comparison of Biological Effects of γ-Radiation of Low and Ultra-High Dose Rate on Lymphocytes and Cultured Human Malignant Lymphoma Cells.
 Authors: Bozhenko VK, Ivanov AV, Kulinich TM, Smirnov VP, Shishkin AM, Solodky VA
 Journal: Bulletin of experimental biology and medicine (2019)
 Identifiers: PMID 31028581; DOI 10.1007/s10517-019-04440-0
@@ -4031,7 +4009,7 @@ Abstract: We studied the effect of low and high-dose rate photon radiation on ac
 
 ---
 
-## 367. An integrated physico-chemical approach for explaining the differential impact of FLASH versus conventional dose rate irradiation on cancer and normal tissue responses.
+## 365. An integrated physico-chemical approach for explaining the differential impact of FLASH versus conventional dose rate irradiation on cancer and normal tissue responses.
 Authors: Spitz DR, Buettner GR, Petronek MS, St-Aubin JJ, Flynn RT, Waldron TJ, Limoli CL
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31010709; DOI 10.1016/j.radonc.2019.03.028; PMC PMC6761031 (open access)
@@ -4042,7 +4020,7 @@ Abstract: For decades the field of radiation oncology has sought to improve the 
 
 ---
 
-## 368. Biological effects in normal cells exposed to FLASH dose rate protons.
+## 366. Biological effects in normal cells exposed to FLASH dose rate protons.
 Authors: Buonanno M, Grilj V, Brenner DJ
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 30850209; DOI 10.1016/j.radonc.2019.02.009; PMC PMC6728238 (open access)
@@ -4053,7 +4031,7 @@ Abstract: BACKGROUND: Radiotherapy outcomes are limited by toxicity in the healt
 
 ---
 
-## 369. The Advantage of FLASH Radiotherapy Confirmed in Mini-pig and Cat-cancer Patients.
+## 367. The Advantage of FLASH Radiotherapy Confirmed in Mini-pig and Cat-cancer Patients.
 Authors: Vozenin MC, De Fornel P, Petersson K, Favaudon V, Jaccard M, Germond JF, Petit B, Burki M et al.
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2019)
 Identifiers: PMID 29875213; DOI 10.1158/1078-0432.CCR-17-3375
@@ -4064,7 +4042,7 @@ Abstract: PURPOSE: Previous studies using FLASH radiotherapy (RT) in mice showed
 
 ---
 
-## 370. X-rays can trigger the FLASH effect: Ultra-high dose-rate synchrotron light source prevents normal brain injury after whole brain irradiation in mice.
+## 368. X-rays can trigger the FLASH effect: Ultra-high dose-rate synchrotron light source prevents normal brain injury after whole brain irradiation in mice.
 Authors: Montay-Gruel P, Bouchet A, Jaccard M, Patin D, Serduc R, Aim W, Petersson K, Petit B et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2018)
 Identifiers: PMID 30177374; DOI 10.1016/j.radonc.2018.08.016
@@ -4075,7 +4053,7 @@ Abstract: This study is the first proof of concept that the FLASH effect can be 
 
 ---
 
-## 371. Faster and safer? FLASH ultra-high dose rate in radiotherapy.
+## 369. Faster and safer? FLASH ultra-high dose rate in radiotherapy.
 Authors: Durante M, Bräuer-Krisch E, Hill M
 Journal: The British journal of radiology (2018)
 Identifiers: PMID 29172684; DOI 10.1259/bjr.20170628; PMC PMC5965780 (open access)
@@ -4086,7 +4064,7 @@ Abstract: Recent results from the Franco-Swiss team of Institute Curie and Centr
 
 ---
 
-## 372. [Ultrahigh dose-rate, "flash" irradiation minimizes the side-effects of radiotherapy].
+## 370. [Ultrahigh dose-rate, "flash" irradiation minimizes the side-effects of radiotherapy].
 Authors: Favaudon V, Fouillade C, Vozenin MC
 Journal: Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2015)
 Identifiers: PMID 26277238; DOI 10.1016/j.canrad.2015.04.006
@@ -4097,7 +4075,7 @@ Abstract: PURPOSE: Pencil beam scanning and filter free techniques may involve d
 
 ---
 
-## 373. [The radiotherapy FLASH to save healthy tissues].
+## 371. [The radiotherapy FLASH to save healthy tissues].
 Authors: Favaudon V, Fouillade C, Vozenin MC
 Journal: Medecine sciences : M/S (2015)
 Identifiers: PMID 25744253; DOI 10.1051/medsci/20153102002
@@ -4108,18 +4086,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 374. Evaluation of the Flash effect in breast irradiation using TomoDirect: an investigational study.
-Authors: Kang DG, Park SI, Kim SH, Chung MJ, Lee KM, Lee JH
-Journal: Journal of radiation research (2015)
-Identifiers: PMID 25672612; DOI 10.1093/jrr/rru118; PMC PMC4380062 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/25672612/
-Category: Radiobiology | Tags: Radiobiology, Modeling & Mechanisms
-
-Abstract: Flash is a specified function in TomoDirect that enables beam expansion by opening additional leaves to the target. This study assessed the theoretical dose distribution resulting from Flash in breast irradiation using TomoDirect. A cylindrical phantom that enabled dose distribution of the breast was used for verifying the effect of planning target volume (PTV) contouring and Flash. A total of 18 Gy in 10 fractions were prescribed to the PTV. Five PTVs were then created by Contracting this contour by 0, 1, 2, 3, 4 and 5 mm, giving PTV-x. Flash ±x is defined by opening x (number) of the leaves. The Flash effect in the air was compared with each set-up error of 5, 10 and 15 mm, respectively. The minimum PTV dose from PTV-1 to PTV-3 increased from 13.88 Gy to 15.86 Gy. In contrast, Dmin in PTV-4 and PTV-5 was 17.80 Gy in 98.88% of the prescription dose. Without Flash, when 5-, 10- and 15-mm set-up errors applied in the PTV, relative doses of 87.88, 23.73 and 7.94% were observed, respectively. However, in Flash 3, which was equal to the usual air margin of 1.875 cm, a relative dose of 104.24% ± 0.30% was observed, irrespective of set-up errors (5 mm to 15 mm). Flash opening is useful for countervailing set-up errors in breast cancer patients who receive breast irradiation with TomoDirect.
-
----
-
-## 375. Comparison study of in vivo dose response to laser-driven versus conventional electron beam.
+## 372. Comparison study of in vivo dose response to laser-driven versus conventional electron beam.
 Authors: Oppelt M, Baumann M, Bergmann R, Beyreuther E, Brüchner K, Hartmann J, Karsch L, Krause M et al.
 Journal: Radiation and environmental biophysics (2015)
 Identifiers: PMID 25600561; DOI 10.1007/s00411-014-0582-1
@@ -4130,7 +4097,7 @@ Abstract: The long-term goal to integrate laser-based particle accelerators into
 
 ---
 
-## 376. Ultrahigh dose-rate FLASH irradiation increases the differential response between normal and tumor tissue in mice.
+## 373. Ultrahigh dose-rate FLASH irradiation increases the differential response between normal and tumor tissue in mice.
 Authors: Favaudon V, Caplier L, Monceau V, Pouzoulet F, Sayarath M, Fouillade C, Poupon MF, Brito I et al.
 Journal: Science translational medicine (2014)
 Identifiers: PMID 25031268; DOI 10.1126/scitranslmed.3008973
@@ -4141,7 +4108,7 @@ Abstract: In vitro studies suggested that sub-millisecond pulses of radiation el
 
 ---
 
-## 377. The effects of ultra-high dose rate proton irradiation on growth delay in the treatment of human tumor xenografts in nude mice.
+## 374. The effects of ultra-high dose rate proton irradiation on growth delay in the treatment of human tumor xenografts in nude mice.
 Authors: Zlobinskaya O, Siebenwirth C, Greubel C, Hable V, Hertenberger R, Humble N, Reinhardt S, Michalski D et al.
 Journal: Radiation research (2014)
 Identifiers: PMID 24524347; DOI 10.1667/RR13464.1
@@ -4152,29 +4119,7 @@ Abstract: The new technology of laser-driven ion acceleration (LDA) has shown th
 
 ---
 
-## 378. Experimental investigation of a local recirculation photobioreactor for mass cultures of photosynthetic microorganisms.
-Authors: Moroni M, Cicci A, Bravi M
-Journal: Water research (2014)
-Identifiers: PMID 24447955; DOI 10.1016/j.watres.2013.12.033
-URL: https://pubmed.ncbi.nlm.nih.gov/24447955/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: The present work deals with the experimental fluid mechanics analysis of a wavy-bottomed cascade photobioreactor, to characterize the extent and period of recirculatory and straight-flowing streams establishing therein as a function of reactor inclination and liquid flow rate. The substream characterization via Feature Tracking (FT) showed that a local recirculation zone establishes in each vane only at inclinations ≤6° and that its location changes from the lower (≤3°) to the upper part of each vane (6°). A straight-flowing stream flows opposite (above or below) the local recirculation stream. The recirculation time ranges from 0.86 s to 0.23 s, corresponding, respectively, to the minimum flow rate at the minimum inclination and to the maximum flow rate at the maximum inclination where recirculation was observed. The increase of photosynthetic activity, resulting from the entailed "flash effect", was estimated to range between 102 and 113% with respect to equivalent tubular and bubble column photobioreactors.
-
----
-
-## 379. Liquid crystal display screens as stimulators for visually evoked potentials: flash effect due to delay in luminance changes.
-Authors: Matsumoto CS, Shinoda K, Matsumoto H, Funada H, Minoda H, Mizota A
-Journal: Documenta ophthalmologica. Advances in ophthalmology (2013)
-Identifiers: PMID 23690204; DOI 10.1007/s10633-013-9387-9
-URL: https://pubmed.ncbi.nlm.nih.gov/23690204/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: PURPOSE: The cathode-ray tube (CRT) screen has recently been replaced by liquid crystal display (LCD) screens as visual stimulators for pattern-reversal visually evoked potentials (p-VEPs). The aim of the study was to evaluate the usefulness of LCD screen to elicit p-VEPs. METHODS: The waveforms of the p-VEPs elicited by a LCD panel were compared with those elicited by a conventional CRT screen. The changes in the luminance of each screen were measured with a photodiode, and the mean luminance change was measured with a luminance meter. VEPs and electroretinograms (ERGs) were also recorded when the monitor was covered by a diffuser. RESULTS: The p-VEPs elicited by the LCD consisted of the N75 and P100 components of the conventional VEPs and had good reproducibility. The average latency of these components was significantly delayed by 9.8 ms for N75 and 10.2 ms for P100, and the N75-P100 amplitude was significantly larger than the conventional p-VEP elicited by the CRT screen. During the reversal phase, especially from black-to-white, the luminance of the LCD screen was transiently reduced, and it elicited a flash VEP and ERG. A reduction in the contrast of the checks minimized the transient change in the luminance, and the VEP waveform was more similar to that elicited by the CRT screen. CONCLUSIONS: The results suggest that when an LCD monitor is used as an alternative visual stimulator to elicit p-VEPs, the delay in the luminance change and the flash effect needs to be taken into account.
-
----
-
-## 380. Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.
+## 375. Cancer radiotherapy based on femtosecond IR laser-beam filamentation yielding ultra-high dose rates and zero entrance dose.
 Authors: Meesat R, Belmouaddine H, Allard JF, Tanguay-Renaud C, Lemay R, Brastaviceanu T, Tremblay L, Paquette B et al.
 Journal: Proceedings of the National Academy of Sciences of the United States of America (2012)
 Identifiers: PMID 22927378; DOI 10.1073/pnas.1116286109; PMC PMC3458390 (open access)
@@ -4185,7 +4130,7 @@ Abstract: Since the invention of cancer radiotherapy, its primary goal has been 
 
 ---
 
-## 381. Survival of tumor cells after proton irradiation with ultra-high dose rates.
+## 376. Survival of tumor cells after proton irradiation with ultra-high dose rates.
 Authors: Auer S, Hable V, Greubel C, Drexler GA, Schmid TE, Belka C, Dollinger G, Friedl AA
 Journal: Radiation oncology (London, England) (2011)
 Identifiers: PMID 22008289; DOI 10.1186/1748-717X-6-139; PMC PMC3215966 (open access)
@@ -4196,7 +4141,7 @@ Abstract: BACKGROUND: Laser acceleration of protons and heavy ions may in the fu
 
 ---
 
-## 382. Apparent absence of a proton beam dose rate effect and possible differences in RBE between Bragg peak and plateau.
+## 377. Apparent absence of a proton beam dose rate effect and possible differences in RBE between Bragg peak and plateau.
 Authors: Matsuura T, Egashira Y, Nishio T, Matsumoto Y, Wada M, Koike S, Furusawa Y, Kohno R et al.
 Journal: Medical physics (2010)
 Identifiers: PMID 21089773; DOI 10.1118/1.3490086
@@ -4207,29 +4152,7 @@ Abstract: PURPOSE: Respiration-gated irradiation for a moving target requires a 
 
 ---
 
-## 383. Flash reduction and patterning of graphite oxide and its polymer composite.
-Authors: Cote LJ, Cruz-Silva R, Huang J
-Journal: Journal of the American Chemical Society (2009)
-Identifiers: PMID 19601624; DOI 10.1021/ja902348k
-URL: https://pubmed.ncbi.nlm.nih.gov/19601624/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: Graphite oxide (GO) is a promising precursor for the bulk production of graphene-based materials due to its relatively low cost of synthesis. The superior solvent processability of GO makes it particularly attractive for making composites by premixing with other materials. Typically, the reduction of GO has relied on either chemical agents or high temperature treatment. Here we report a room temperature, chemical-free flash reduction process where a photographic camera flash instantaneously triggers the deoxygenation reaction of GO by photothermal heating. Flash irradiation also rapidly creates a fused polymer composite from a random mixture of GO and polymer particles. Using a photomask, conducting patterns such as interdigitated electrode arrays can be readily made on flexible substrates.
-
----
-
-## 384. What does the illusory-flash look like?
-Authors: McCormick D, Mamassian P
-Journal: Vision research (2008)
-Identifiers: PMID 18054372; DOI 10.1016/j.visres.2007.10.010
-URL: https://pubmed.ncbi.nlm.nih.gov/18054372/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: In the illusory-flash effect (Shams, L., Kamitani, Y., & Shimojo, S. (2000). Illusions. What you see is what you hear. Nature, 408, 788), one flash presented with two tones has a tendency to be seen as two flashes. Previous studies of this effect have been ill-equipped to establish whether this illusory-flash is the result of a genuine percept, or that of a shift in criterion. We addressed this issue by using a stimulus comprising two locations. This enabled contrast-threshold measurement by means of a location detection task. High-contrast white or black flashes were presented simultaneously to both locations, followed by threshold contrast flashes of the same contrast polarity at the two locations in half of the trials; observers reported whether or not the low-contrast flashes had been present. Irrelevant to the task, half of the trials contained one tone, the other half contained two tones. In this way, we were able to compute the change in sensitivity and shift in criterion between illusory and non-illusory trials. We observe both a decrease in visual sensitivity and a criterion shift in the illusory-flash conditions. In a second experiment, we were interested in determining whether this change in visual sensitivity gave rise to measurable visual attributes of the illusory-flash. If it has a contrast, it should interact with a spatio-temporally concurrent real flash. Using a similar two-location stimulus presentation, we found that under certain conditions, we were able to infer the polarity of the perceived illusory-flash. We conclude that the illusory-flash is indeed a perceptual effect with psychophysically assessable characteristics.
-
----
-
-## 385. [Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor].
+## 378. [Effect of temperature on the development of chromosome aberrations in human blood lymphocytes irradiated in pulse and continuous modes at BARS-6 reactor].
 Authors: Sevan'kaev AV, Potetnia OI, Potetnia VI, Koriakina EV, Pozdyshkina OV, Piatenko VS
 Journal: Radiatsionnaia biologiia, radioecologiia (2007)
 Identifiers: PMID 18380325
@@ -4240,29 +4163,7 @@ Abstract: Summarized results of 5 repeated experiments of comparative study of r
 
 ---
 
-## 386. Speech and non-speech audio-visual illusions: a developmental study.
-Authors: Tremblay C, Champoux F, Voss P, Bacon BA, Lepore F, Théoret H
-Journal: PloS one (2007)
-Identifiers: PMID 17710142; DOI 10.1371/journal.pone.0000742; PMC PMC1937019 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/17710142/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: It is well known that simultaneous presentation of incongruent audio and visual stimuli can lead to illusory percepts. Recent data suggest that distinct processes underlie non-specific intersensory speech as opposed to non-speech perception. However, the development of both speech and non-speech intersensory perception across childhood and adolescence remains poorly defined. Thirty-eight observers aged 5 to 19 were tested on the McGurk effect (an audio-visual illusion involving speech), the Illusory Flash effect and the Fusion effect (two audio-visual illusions not involving speech) to investigate the development of audio-visual interactions and contrast speech vs. non-speech developmental patterns. Whereas the strength of audio-visual speech illusions varied as a direct function of maturational level, performance on non-speech illusory tasks appeared to be homogeneous across all ages. These data support the existence of independent maturational processes underlying speech and non-speech audio-visual illusory effects.
-
----
-
-## 387. Early cross-modal interactions in auditory and visual cortex underlie a sound-induced visual illusion.
-Authors: Mishra J, Martinez A, Sejnowski TJ, Hillyard SA
-Journal: The Journal of neuroscience : the official journal of the Society for Neuroscience (2007)
-Identifiers: PMID 17428990; DOI 10.1523/JNEUROSCI.4912-06.2007; PMC PMC2905511 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/17428990/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: When a single flash of light is presented interposed between two brief auditory stimuli separated by 60-100 ms, subjects typically report perceiving two flashes (Shams et al., 2000, 2002). We investigated the timing and localization of the cortical processes that underlie this illusory flash effect in 34 subjects by means of 64-channel recordings of event-related potentials (ERPs). A difference ERP calculated to isolate neural activity associated with the illusory second flash revealed an early modulation of visual cortex activity at 30-60 ms after the second sound, which was larger in amplitude in subjects who saw the illusory flash more frequently. These subjects also showed this early modulation in response to other combinations of auditory and visual stimuli, thus pointing to consistent individual differences in the neural connectivity that underlies cross-modal integration. The overall pattern of cortical activity associated with the cross-modally induced illusory flash, however, differed markedly from that evoked by a real second flash. A trial-by-trial analysis showed that short-latency ERP activity localized to auditory cortex and polymodal cortex of the temporal lobe, concurrent with gamma bursts in visual cortex, were associated with perception of the double-flash illusion. These results provide evidence that perception of the illusory second flash is based on a very rapid dynamic interplay between auditory and visual cortical areas that is triggered by the second sound.
-
----
-
-## 388. [Cytogenetic effect of the pulse reactor BARS-6 continuous or one-time irradiation with ultrahigh dose rate on human lymphocytes].
+## 379. [Cytogenetic effect of the pulse reactor BARS-6 continuous or one-time irradiation with ultrahigh dose rate on human lymphocytes].
 Authors: Koriakina EV, Sevan'kaev AV, Potetnia VI, Potetnia OI
 Journal: Radiatsionnaia biologiia, radioecologiia (2005)
 Identifiers: PMID 16209185
@@ -4273,7 +4174,7 @@ Abstract: The results of the comparative study of radiation effects of the pulse
 
 ---
 
-## 389. Effects of single-pulse (< or = 1 ps) X-rays from laser-produced plasmas on mammalian cells.
+## 380. Effects of single-pulse (< or = 1 ps) X-rays from laser-produced plasmas on mammalian cells.
 Authors: Shinohara K, Nakano H, Miyazaki N, Tago M, Kodama R
 Journal: Journal of radiation research (2004)
 Identifiers: PMID 15635259; DOI 10.1269/jrr.45.509
@@ -4284,7 +4185,7 @@ Abstract: The effects of low linear energy transfer (LET) radiation on mammalian
 
 ---
 
-## 390. On various possibilities in pulsed radiation biochemistry and chemistry.
+## 381. On various possibilities in pulsed radiation biochemistry and chemistry.
 Authors: Gribkov VA, Orlova MA
 Journal: Radiation and environmental biophysics (2004)
 Identifiers: PMID 15549348; DOI 10.1007/s00411-004-0259-2
@@ -4295,29 +4196,7 @@ Abstract: Several experiments are described that relate to the application of ne
 
 ---
 
-## 391. Quantitative tissue perfusion measurements in head and neck carcinoma patients before and during radiation therapy with a non-invasive MR imaging spin-labeling technique.
-Authors: Schmitt P, Kotas M, Tobermann A, Haase A, Flentje M
-Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2003)
-Identifiers: PMID 12758237; DOI 10.1016/s0167-8140(03)00024-0
-URL: https://pubmed.ncbi.nlm.nih.gov/12758237/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: PURPOSE: Tumor blood flow, tumor tissue perfusion and oxygen supply have substantial influence on the responsiveness of tumors to radiotherapy. This study was aimed at implementing and evaluating a non-invasive functional magnetic resonance (MR) imaging spin-labeling technique at a main magnetic field strength of 2T for measuring tissue perfusion changes in head and neck carcinoma patients before and during radiotherapy. METHODS: Tissue perfusion was determined quantitatively in ten patients with head and neck cancer. Five patients were investigated twice during radiation therapy. For perfusion measurements, a non-invasive MR spin-labeling technique was employed: The longitudinal relaxation time T(1) was measured with segmented Snapshot-FLASH imaging after either slice-selective or non-selective spin inversion. Perfusion values were calculated pixelwise employing a two-compartment tissue model. With this technique no contrast agents are required so that repetitive measurements are possible. Perfusion images with a slice thickness of 10mm and an in-plane resolution of 1.9x2.8mm(2) were acquired at a total scan time of 8:30min per scan. RESULTS: With the non-invasive MR imaging technique it was possible to visualize tumor and normal tissue perfusion as well as perfusion changes in the course of radiotherapy with a spatial resolution of less than 3mm. Among the investigated subjects measured tumor perfusion and changes in perfusion were heterogenous. In 4/5 patients studied at the start and end of radiotherapy, perfusion decreased, while in one patient there was an increase. CONCLUSIONS: A method is presented that allows non-invasive and repetitive characterization of tissue perfusion. This parameter may be used for treatment stratification, especially in treatments that use vasomodulation or anti-angiogenic agents.
-
----
-
-## 392. [Drugs and drug abusers].
-Authors: Schlatter J, Sitbon N, Saulnier JL
-Journal: Presse medicale (Paris, France : 1983) (2001)
-Identifiers: PMID 11252979
-URL: https://pubmed.ncbi.nlm.nih.gov/11252979/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: DRUG ABUSERS: Drugs are widely used by toxicomaniacs to reproduce drug effects. Drug abusers generally start with psychotrops, but other abuse drug classes. Toxicomanic behavior leads to addictive practices that are difficult to control. BARBITURATES: Both the oral and intravenous routes are used. The expected result is a state of ecstasy with a feeling of comfort. Intoxication may cause respiratory depression. Barbiturates induce physical and psychic dependence. Abuse is not widespread with this class of drugs. BENZODIAZEPINES: Drug abuses widely use benzodiazepines orally or intravenously. They search for a flash effect, with sedation and a feeling of comfort. All benzodiazepines induce physical and psychic dependence. Death may result from combinations leading to respiratory depression. Flunitrazepam is the most widely abused benzodiazepine in France. It induces serious neuropsychic disorders. ANTIDEPRESSANTS: Few are used, mostly at high doses. OPIATES: Administration gives the same effect as heroine injection. Opiates induce physical and psychic dependence. The adverse effects are similar to those of morphine with a higher risk of respiratory depression. AMPHETAMINES: Few are used, either orally or intravenously. They induce a flash with excitation, euphoria, and a period of invincibility. This is followed by a period of depression with risk of suicide. Psychic dependence is high. ANTICHOLINERGIC ANTIPARKINSONIANS: These drugs are well known to abusers for their hallucinatory effect. They induce atropinic adverse effects and physical and psychic dependence. GAMMA-HYDROXYBUTYRATE: This anesthetic is used for its euphoria and sedation effects. It may induce falling sickness or coma, with a risk of respiratory depression. KETAMINE: Administered via the intranasal route, ketamine induces a state of indifference. Death has been observed. ANABOLIC AND ANDROGENIC STEROIDS: These drugs are used for their physical and psychic stimulating effect. They induce potentially dangerous adverse effects such as cardiovascular, hepatic, neurological and psychiatric disorders. Clinical signs of addiction and weaning are observed. OTHERS: Several other drug classes are used by abusers, including analgics, beta-adrenergic agents, nasal vasoconstrictors and corticosteroids.
-
----
-
-## 393. [Comparative study of chromosome aberration formation in lymphocytes culture under pulsed and continuous neutron irradiation].
+## 382. [Comparative study of chromosome aberration formation in lymphocytes culture under pulsed and continuous neutron irradiation].
 Authors: Pozdyshkina OV, Sevan'kaev AV, Obaturov GM
 Journal: Radiatsionnaia biologiia, radioecologiia (2000)
 Identifiers: PMID 11155330
@@ -4328,7 +4207,7 @@ Abstract: Frequencies of chromosome aberration induced by prolong (continuous) n
 
 ---
 
-## 394. Hyperfast, early cell response to ionizing radiation.
+## 383. Hyperfast, early cell response to ionizing radiation.
 Authors: Ponette V, Le Péchoux C, Deniaud-Alexandre E, Fernet M, Giocanti N, Tourbez H, Favaudon V
 Journal: International journal of radiation biology (2000)
 Identifiers: PMID 10993634; DOI 10.1080/09553000050134465
@@ -4339,29 +4218,7 @@ Abstract: PURPOSE: To determine whether the oscillatory changes of radio-sensiti
 
 ---
 
-## 395. [Contrast medium assisted dynamic MR-mammography after diagnostic and therapeutic interventions on the breast].
-Authors: Fischer U, Vosshenrich R, Kopka L, Kahlen O, Grabbe E
-Journal: Bildgebung = Imaging (1996)
-Identifiers: PMID 8756151
-URL: https://pubmed.ncbi.nlm.nih.gov/8756151/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: In a retrospective study, the authors evaluated the signal behavior of 150 patients after intervention in the breast (40 fine-needle biopsies, 10 core biopsies, 50 open biopsies, 50 tumor-ectomies with additional irradiation therapy). The MR imaging was performed on 1.5-Tesla whole-body scanners using T1-WI GRE sequences in 2D FLASH technique before and 5 times after i.v. application of 0.1 mmol gadopentetate-dimeglumine per kg body weight. There was no signal enhancement after fine-needle biopsy. Hematoma due to core biopsy caused signal increase in every 5th patient. Enhancement after open biopsy was no more visible 6 months postoperatively. 12 months after tumorectomy and radiation therapy, most patients showed no more signal enhancement. In conclusion, MR mammography can be performed after fine-needle biopsy without problems. In case of core biopsy, hematoma should be excluded by sonography before. MR mammography should not be performed within 6 months after open biopsy, or within 12 months after tumorectomy and radiation therapy.
-
----
-
-## 396. Digital subtraction in Gd-DTPA enhanced imaging of the breast.
-Authors: Flanagan FL, Murray JG, Gilligan P, Stack JP, Ennis JT
-Journal: Clinical radiology (1995)
-Identifiers: PMID 8536396; DOI 10.1016/s0009-9260(05)83106-x
-URL: https://pubmed.ncbi.nlm.nih.gov/8536396/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: PURPOSE: This study examines the role of digital subtraction magnetic resonance imaging (MRI) of the breast in the interpretation of the morphology and characteristics of breast disease. METHODS: Thirty-one patients with an abnormal mammogram or clinically palpable abnormality underwent MRI of the breast prior to surgical excision of the lesion. FLASH 3-D images of the breast were acquired before and after IV contrast injection of Gd-DTPA. Digital subtraction was performed on selected images. The images were independently assessed by two radiologists experienced in both mammography and MRI. RESULTS: Accurate diagnosis was possible in 29 out of 31 patients using the subtraction technique compared to 23 cases using the pre-subtraction images alone. The actual extent of disease and multicentricity were also better appreciated on the subtracted image. Subtraction also provided better identification of tumour recurrence in the post-operative and post-radiotherapy breast. Chest wall and lymph node involvement were more easily appreciated on the subtraction images. CONCLUSION: Digital subtraction is a simple, effective and relatively cheap technique which can aid in the interpretation of magnetic resonance imaging of the breast.
-
----
-
-## 397. The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
+## 384. The survival of aerobic and anoxic human glioma and melanoma cells after irradiation at ultrahigh and clinical dose rates.
 Authors: Cygler J, Klassen NV, Ross CK, Bichay TJ, Raaphorst GP
 Journal: Radiation research (1994)
 Identifiers: PMID 7938458
@@ -4372,84 +4229,7 @@ Abstract: This in vitro study was undertaken to determine if ultrahigh dose rate
 
 ---
 
-## 398. The oscillatory potentials in response to stimuli of photopic intensities delivered in dark-adaptation: an explanation for the conditioning flash effect.
-Authors: Lachapelle P, Benoit J, Blain L, Guité P, Roy MS
-Journal: Vision research (1990)
-Identifiers: PMID 2339504; DOI 10.1016/0042-6989(90)90062-p
-URL: https://pubmed.ncbi.nlm.nih.gov/2339504/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: Previous studies reported that the oscillatory potentials (OPs) evoked to the first flash of a series were always smaller than those produced by the later flashes. This conditioning flash effect (CFE) was suggested to arise from rod inhibition of cone-mediated OPs. We investigated this CFE with the use of two stimulus intensities: 10 cd sec m-2 and 1 cd sec m-2. While the highest intensity did yield the previously reported CFE, the dimmest intensity did not. Our results further indicated that with the brightest stimulus, there is a significant increase in the interpeak interval of the OPs, while dimmest stimuli failed to reveal a similar marked increase. We also noted a significant correlation between the frequency domain of the OPs (as estimated with the interpeak interval) and the amplitude of the OPs (individual or collective: SOPs). Our results would also suggest that the observed CFE could result from a cone inhibition of rod-mediated OPs.
-
----
-
-## 399. Two pulses seen as three flashes: a superposition analysis.
-Authors: Bowen RW
-Journal: Vision research (1989)
-Identifiers: PMID 2781731; DOI 10.1016/0042-6989(89)90005-9
-URL: https://pubmed.ncbi.nlm.nih.gov/2781731/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: If a single brief light pulse follows the offset of a light field by 0.1-0.3 sec, the pulse is seen as a double flash. This "double flash effect" is a suprathreshold phenomenon: the pulse must exceed detection threshold by 10 times or more for this temporal illusion to occur. A special case of this effect is demonstrated here: two brief, high-luminance pulses separated by 0.1 sec appear as three flashes. In a superposition analysis, hypothetical impulse response functions were added together with various delays to model flash perception. A biphasic impulse response (congruent with threshold flicker and pulse sensitivity) fails to predict perception of three flashes from two pulses. The analysis instead suggests that the visual response to a suprathreshold pulse has several alternating phases of excitation and inhibition.
-
----
-
-## 400. Laser-induced chromatic adaptation.
-Authors: Schmeisser ET
-Journal: American journal of optometry and physiological optics (1988)
-Identifiers: PMID 3177590; DOI 10.1097/00006324-198808000-00009
-URL: https://pubmed.ncbi.nlm.nih.gov/3177590/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: Detecting a target in a visually noisy back-ground depends on the ability of the observer to discriminate the target from the surrounding terrain. Visible laser irradiation at less than damage levels may act as a masking source by reducing the observer's ability to resolve differences in the visual scene. The experiment reported here specifically investigates the comparability of shuttered CW and Q-switched visible lasers to alter/degrade color discrimination. Visual evoked potentials (VEP's) were used to examine the short time course effects in monkeys of luminance-matched flashes from a 694 nm ruby Q-switched laser and 100 ms shuttered krypton CW laser (676, 568, and 531 nm lines). The test stimulus was a shifting pattern of alternating luminance-matched 510 and 550 nm green bars. With flashes equated to 4.8 log T-s, similar flash effect curves were seen, demonstrating 1.5-s changes in response magnitude. This level of flash did not extinguish the response to the stimulus. The flash effects curve was "W"-shaped, with an intermediate signal peak occurring at approximately 500 ms after the flash and whose level exceeded the baseline magnitude. The hypothesized mechanism for this result is an induced luminance imbalance caused by a transient shift in the peak color responsiveness of the visual system, which recovers with two different time constants. It is concluded that red and green colored laser flashes shift the color balance transiently in the visual system (yellow flashes to a lesser extent); thus, targets may change both hue and brightness after an observer receives colored flashes.(ABSTRACT TRUNCATED AT 250 WORDS)
-
----
-
-## 401. Cone interaction occurs in the parafovea under pi 4 stimulus conditions.
-Authors: Haegerstrom-Portnoy G, Verdon W, Adams AJ
-Journal: Vision research (1988)
-Identifiers: PMID 3188403; DOI 10.1016/0042-6989(88)90182-4
-URL: https://pubmed.ncbi.nlm.nih.gov/3188403/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: This study shows that stimulus parameters that isolate Stiles' pi 4 mechanism at the fovea do not isolate pi 4 parafoveally. Instead, the parafoveal test sensitivity peaks at 520 nm and is relatively depressed at longer wavelengths. This narrowed spectral sensitivity is not due to rod intrusion or interaction but rather suggests cone interaction for a relatively wide range of spatial and temporal parameters. The anomalous shape of the parafoveal spectral sensitivity is not found in a protanope, further supporting the view that the effect seen in normal trichromats is the result of interaction between L and M cones. The study provides a unifying explanation for discrepant results by investigators studying the chromatic properties of spatial sensitization and the contrast after-flash effect. Foveal studies found independence of pi mechanisms while parafoveal studies found interaction. The present study emphasizes the importance of retinal eccentricity on color threshold experiments.
-
----
-
-## 402. Rod and cone system contributions to oscillatory potentials: an explanation for the conditioning flash effect.
-Authors: Peachey NS, Alexander KR, Fishman GA
-Journal: Vision research (1987)
-Identifiers: PMID 3499028; DOI 10.1016/0042-6989(87)90002-2
-URL: https://pubmed.ncbi.nlm.nih.gov/3499028/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: The oscillatory potentials (OPs) of the human electroretinogram (ERG) are smaller in response to the initial flash of a series than to subsequent flashes. To investigate a possible rod system contribution to this "conditioning flash effect," we have examined OPs in normals and rod monochromats. The OPs recorded from rod monochromats were similar to those recorded from normals under test conditions that selectively stimulate rods. However, under conditions that in normals stimulate both rods and cones and that result in maximal amplitude of the OPs, the rod monochromats exhibit markedly reduced OPs. This finding suggests that the initial (conditioning) flash operates by adapting the rod system contribution to the OPs, so that the OPs in response to subsequent flashes result primarily from the cone system. In agreement with this hypothesis, the conditioning flash effect did not occur when flashes were presented against a background which eliminated the rod system response nor during the cone plateau phase of dark adaptation.
-
----
-
-## 403. Lightning injury caused by discharges accompanying flashovers--a clinical and experimental study of death and survival.
-Authors: Ohashi M, Kitagawa N, Ishikawa T
-Journal: Burns, including thermal injury (1986)
-Identifiers: PMID 3779473; DOI 10.1016/0305-4179(86)90076-8
-URL: https://pubmed.ncbi.nlm.nih.gov/3779473/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: During the 17 years preceding March 1985, 140 patients sustained lightning injuries caused by 44 thunderbolts. Fifty patients showed evidence of current flow through their bodies. These 50 victims were classified into two groups, the first consisting of 9 victims who showed rupture of their clothes or linear superficial dermal burns along their whole bodies from head to feet, indicating the occurrence of surface flashovers. The remaining 41 patients showed no evidence of this flash effect. It is noteworthy that in the first group 5 of the 9 survived, whereas in the second group only 6 among 41 survived. The result indicates that when a flashover occurs along the whole body, the probability of survival is higher than 50 per cent. The conditions which determine death or survival were investigated experimentally, imposing artificial lightning voltage impulses on rats and developing flashovers on them. The rats survived when the voltage drop caused by flashover occurred immediately after the peak point, and the current waveform exhibited a sharp peak. In contrast, the rats were killed when the voltage drop caused by flashover was delayed by more than 20 microseconds, and the current waveform showed a blunt cone shape. It has been concluded that a fast flashover appreciably diminishes the energy dissipation within the body and consequently results in survival.
-
----
-
-## 404. Visual evoked potential correlates of laser flashblindness in rhesus monkeys I. Argon laser flashes.
-Authors: Previc FH, Blankenstein MF, Garcia PV, Allen RG
-Journal: American journal of optometry and physiological optics (1985)
-Identifiers: PMID 4003522; DOI 10.1097/00006324-198505000-00003
-URL: https://pubmed.ncbi.nlm.nih.gov/4003522/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: The visual evoked potential (VEP) in four rhesus monkeys was used to assess the transient loss of visual function resulting from single 100-ms argon laser flashes (476.5 and 514.5 nm) whose energy levels did not exceed the maximum permissible exposure (MPE). VEP's were elicited by high-contrast square-wave test gratings which were phase-reversed at a frequency of 6 Hz, and were recorded using bipolar electrodes implanted in the foveal projection region of area 17. The parameters which were investigated included (1) flash size (focused vs. expanded), (2) position of the electrode's receptive field relative to the position of the flash (0, 1.5, 3.0, and 4.5-deg separation), (3) flash exposure level (50, 5.0, and 0.5% of the MPE), (4) peak wavelength of the test grating (454, 540, and 630 nm), and (5) spatial frequency of the test grating (1.0, 4.0, 6.0, and 12.0 c/deg). The results of the flash-size experiment revealed that the expanded flash, whose retinal diameter was approximately 750 microns, eliminated or severely attenuated the VEP for a longer duration than did the focused flash and also resulted in a more gradual recovery function. The combined results of the flash position and energy level experiments indicated that the effective energy of the focused flash declined rapidly beyond 1.5 deg, but still approximated 4% of its maximum value as far as 4.5 deg from its center. Few, if any, wavelength-specific effects were observed after exposure to either the 476.5- or 514.5-nm flashes, even when the energy of the flashes was reduced to a small fraction of the MPE. Finally, the flash effect was considerably longer in duration for the 12.0 c/deg grating relative to the low and intermediate frequency gratings. In general, the findings suggest that the focused and expanded argon laser flashes produce a VEP suppression whose time course and other characteristics correlate well with those associated with behaviorally observed flashblindness in humans after exposure to intense noncoherent flashes.
-
----
-
-## 405. [Hypoxic proton radiotherapy of solid Ehrlich tumors with different dose magnitudes].
+## 385. [Hypoxic proton radiotherapy of solid Ehrlich tumors with different dose magnitudes].
 Authors: Kozin SV, Zolotov VA, Ponomareva NA
 Journal: Meditsinskaia radiologiia (1984)
 Identifiers: PMID 6087078
@@ -4460,7 +4240,7 @@ Abstract: The paper is devoted to an experimental evaluation of the efficiency o
 
 ---
 
-## 406. Effects of modifiers of the yield of hydroxyl radicals on the radiosensitivity of mammalian cells at ultrahigh dose rates.
+## 386. Effects of modifiers of the yield of hydroxyl radicals on the radiosensitivity of mammalian cells at ultrahigh dose rates.
 Authors: Michaels HB, Peterson EC, Epp ER
 Journal: Radiation research (1983)
 Identifiers: PMID 6684311
@@ -4471,40 +4251,7 @@ Abstract: Experiments were conducted to investigate the effects of increasing or
 
 ---
 
-## 407. [Bladder tumors treated with radical cystectomy. Results of 78 cases].
-Authors: Perrin P, Charroin P, Durand L
-Journal: Journal d'urologie (1983)
-Identifiers: PMID 6886460
-URL: https://pubmed.ncbi.nlm.nih.gov/6886460/
-Category: Radiobiology | Tags: Radiobiology, Modeling & Mechanisms
-
-Abstract: UNLABELLED: The authors present the results of 78 radical cystectomies for bladder tumour, followed up for at least 3 years. All the patients received preoperative pelvic radiotherapy (in general a flash of 5 Gys). Urinary derivation was of transintestinal cutaneous ureterostomy type. Surgery was followed by additional radiotherapy of 50 Gys in 9 patients and chemotherapy (adriamycin, Vehem and cis-platinum) in 6. RESULTS: stages 0 and A - 100% survival; stage B - 74%; stage C - 29% and stage D - 30%. Amongst the patients dying as a result of their carcinoma, 25% stage B, 36% stage C and 20% stage D had local recurrences. With regard to the prevention of recurrences, heavy preoperative radiotherapy is not more effective than flash radiotherapy of 5 Gy. For stage D and C patients together, overall survival was 50% at 3 years. Four stage D patients appear to be cured at 3 years, i.e. 17% of the stage D cases. This proves the possibility of "cure" of stage D disease by extended excision and thorough lymph node dissection. Adjuvant chemotherapy may certainly play a role.
-
----
-
-## 408. [Role of radiotherapy in the treatment of bladder cancer. Comments apropos of 178 cases].
-Authors: Beurton D, Moller M, Cukier J
-Journal: Journal d'urologie (1983)
-Identifiers: PMID 6841985
-URL: https://pubmed.ncbi.nlm.nih.gov/6841985/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: In the light of their experience involving 178 patients suffering from carcinoma of the bladder and a study of the literature, the authors attempt to determine the role of radiotherapy in the treatment of carcinoma of the bladder. A number of points emerge: --the possibility of stopping the progression of a recurrent multifocal superficial malignant tumour by 2 flashes of 6.5 Gy; --the efficacy of curative doses of radiotherapy associated with transurethral resection of the tumour in 20% of cases. These figures rise to 50% in anaplastic carcinomas. 20% efficacy of radiotherapy alone without surgery is a high figure. It tends to restore the radiotherapy sensitivity test suggested by R. Couvelaire to its true value; --when combined with excision surgery (partial cystectomy or total prostato-cystectomy), high doses of radiation do not give a better result than limited radiation. In view of the gravity of radiotherapy complications which may occur in up to 20% of cases where high doses of radiation have been administered, the authors would be inclined to limit radiotherapy when treatment of the tumour must be mixed, with surgery. A preoperative flash of 6.5 Gy followed by postoperative radiotherapy up to a total of 45 Gy when partial cystectomy is used. When a decision is made to perform cutaneous implantation of the ureters, the technique should consist of concentrated radiotherapy of 20 Gy in one week followed by excision by total prostato-cystectomy the next week. When urinary bypass is to involve uretero-colonic implantation or bladder replacement, flash radiotherapy of 6.5 Gy once or twice. No additional postoperative radiotherapy. Sandwich radiotherapy is too dangerous.
-
----
-
-## 409. The decrease in the threshold on the dark side of the luminance edge in the after-flash effect.
-Authors: Mitsuboshi T, Mitsuboshi M, Torii S
-Journal: Vision research (1982)
-Identifiers: PMID 7179753; DOI 10.1016/0042-6989(82)90145-6
-URL: https://pubmed.ncbi.nlm.nih.gov/7179753/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 410. Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.
+## 387. Interaction of nitroimidazole sensitizers and oxygen in the radiosensitization of mammalian cells at ultrahigh dose rates.
 Authors: Michaels HB, Ling CC, Epp ER, Peterson EC
 Journal: Radiation research (1981)
 Identifiers: PMID 7208811
@@ -4515,29 +4262,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 411. Visual masking and the contrast-flash effect.
-Authors: Alexander KR, Barry SH
-Journal: Vision research (1981)
-Identifiers: PMID 7269308; DOI 10.1016/0042-6989(81)90157-7
-URL: https://pubmed.ncbi.nlm.nih.gov/7269308/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 412. [Parenteral hyperalimentation and cystoprostatectomy for carcinoma of the bladder (author's transl)].
-Authors: Pontonnier F, Plante P, Heulin T
-Journal: Journal d'urologie (1981)
-Identifiers: PMID 6796625
-URL: https://pubmed.ncbi.nlm.nih.gov/6796625/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: The authors report a series of 16 total cystoprostatectomies with only one postoperative death. Eleven of these operations, performed with the intention of achieving a complete cure, were carried out after flash radiotherapy of 1.000 rads on the day before surgery and were completed by uretero-sigmoidostomy. The five palliative operations were completed by direct bilateral cutaneous ureterostomy, the patients having received preoperative radiotherapy of 5 to 6,000 rads. The authors attribute the low postoperative mortality to the value of the energy and protein provided by parenteral hyperalimentation which made it possible to administer to the patient from the day after surgery onwards 1,400 to 2,600 calories per day (60% as carbohydrate and 40% as lipids) and 1 gram/kilo of protein per day. Infusion catheters were inserted under strictly aseptic conditions on the day prior to surgery into the deep main veins by percutaneous puncture of a subclavian vein or cutdown of an external jugular vein, and were kept in place until such time as oral alimentation could ensure an equivalent intake. For the 11 patients undergoing curative surgery, weight loss at the time of discharge was no more than 1 to 2 kilos, a figure to be contrasted with the 7 to 8 kilos before the use of parenteral hyperalimentation. The only death occurred amongst the 5 patients undergoing palliative surgery. In the latter group, the authors were stuck by the uncomplicated postoperative course, and the control of complications such as intestinal obstruction or bacteraemia which was obviously better in veiw of the maintenance of the calorie reserves of the body. All parenteral hyperalimentation was administered in the form of commercial solutions and emulsions.
-
----
-
-## 413. [Therapeutic trials in inoperable carcinoma of the bladder (author's transl)].
+## 388. [Therapeutic trials in inoperable carcinoma of the bladder (author's transl)].
 Authors: Droz JP, Ben Ayed F, Pascal B, Beurton D, Cukier J, Amiel JL
 Journal: Journal d'urologie (1980)
 Identifiers: PMID 6160185
@@ -4548,7 +4273,7 @@ Abstract: The authors report the preliminary results of attempts at treatment us
 
 ---
 
-## 414. Repair of sublethal damage in mammalian cells irradiated at ultrahigh dose rates.
+## 389. Repair of sublethal damage in mammalian cells irradiated at ultrahigh dose rates.
 Authors: Gerweck LE, Epp ER, Michaels HB, Clifton Ling C, Peterson EC
 Journal: Radiation research (1979)
 Identifiers: PMID 424512
@@ -4559,7 +4284,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 415. Oxygen diffusion into mammalian cells following ultrahigh dose rate irradiation and lifetime estimates of oxygen-sensitive species.
+## 390. Oxygen diffusion into mammalian cells following ultrahigh dose rate irradiation and lifetime estimates of oxygen-sensitive species.
 Authors: Ling CC, Michaels HB, Epp ER, Peterson EC
 Journal: Radiation research (1978)
 Identifiers: PMID 734054
@@ -4570,7 +4295,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 416. Oxygen sensitization of CHO cells at ultrahigh dose rates: prelude to oxygen diffusion studies.
+## 391. Oxygen sensitization of CHO cells at ultrahigh dose rates: prelude to oxygen diffusion studies.
 Authors: Michaels HB, Epp ER, Ling CC, Peterson EC
 Journal: Radiation research (1978)
 Identifiers: PMID 569880
@@ -4581,7 +4306,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 417. The effects of ultra-high dose rates on survival and sublethal repair in Chinese-hamster cells.
+## 392. The effects of ultra-high dose rates on survival and sublethal repair in Chinese-hamster cells.
 Authors: Schulz RJ, Nath R, Testa JR
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1978)
 Identifiers: PMID 304852; DOI 10.1080/09553007714551521
@@ -4592,7 +4317,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 418. Chromosome aberration yields induced in human lymphocytes by 15 MeV electrons given at a conventional dose-rate and in microsecond pulses.
+## 393. Chromosome aberration yields induced in human lymphocytes by 15 MeV electrons given at a conventional dose-rate and in microsecond pulses.
 Authors: Purrott RJ, Reeder EJ
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1977)
 Identifiers: PMID 300727; DOI 10.1080/09553007714550291
@@ -4603,40 +4328,7 @@ Abstract: Yields of unstable chromosome aberration were analysed in human lympho
 
 ---
 
-## 419. Color properties of the contrast flash effect: monoptic vs dichoptic comparisons.
-Authors: Yellott JI, Wandell BA
-Journal: Vision research (1976)
-Identifiers: PMID 1006999; DOI 10.1016/0042-6989(76)90053-5
-URL: https://pubmed.ncbi.nlm.nih.gov/1006999/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 420. Rod-cone interaction in the after-flash effect.
-Authors: Foster DH
-Journal: Vision research (1976)
-Identifiers: PMID 941415; DOI 10.1016/0042-6989(76)90202-9
-URL: https://pubmed.ncbi.nlm.nih.gov/941415/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 421. Sensitization by annular surrounds: sensitization and the contrast-flash effect.
-Authors: Alexander KR
-Journal: Vision research (1974)
-Identifiers: PMID 4421568; DOI 10.1016/0042-6989(74)90056-x
-URL: https://pubmed.ncbi.nlm.nih.gov/4421568/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 422. A study of the biological effectiveness of high-energy electrons at ultra-high dose rates using dry eggs of Artemia.
+## 394. A study of the biological effectiveness of high-energy electrons at ultra-high dose rates using dry eggs of Artemia.
 Authors: Iwasaki T, Kato Y, Antoku S
 Journal: Radiation research (1974)
 Identifiers: PMID 10874936
@@ -4647,7 +4339,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 423. [Techniques of radiotherapy in so-called operable carcinoma of the breast].
+## 395. [Techniques of radiotherapy in so-called operable carcinoma of the breast].
 Authors: Pierquin B
 Journal: Revue francaise de gynecologie et d'obstetrique (1973)
 Identifiers: PMID 17474652
@@ -4658,7 +4350,7 @@ Abstract: The techniques of radiotherapy alone in carcinoma of the breast are de
 
 ---
 
-## 424. An equation for predicting the surviving fraction of cells irradiated with single pulses delivered at ultra-high dose rates.
+## 396. An equation for predicting the surviving fraction of cells irradiated with single pulses delivered at ultra-high dose rates.
 Authors: Weiss H
 Journal: Radiation research (1972)
 Identifiers: PMID 5025236
@@ -4669,7 +4361,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 425. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
+## 397. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
 Authors: Berry RJ, Stedeford JB
 Journal: The British journal of radiology (1972)
 Identifiers: PMID 5015264; DOI 10.1259/0007-1285-45-531-171
@@ -4680,7 +4372,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 426. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
+## 398. Reproductive survival of mammalian cells after irradiation at ultra-high dose-rates: further observations and their importance for radiotherapy.
 Authors: Berry RJ, Stedeford JB
 Journal: The British journal of radiology (1971)
 Identifiers: PMID 5090736
@@ -4691,7 +4383,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 427. Response of photobacterium fischeri MAV exposed to an ultra high dose-rate pulsed electron beam.
+## 399. Response of photobacterium fischeri MAV exposed to an ultra high dose-rate pulsed electron beam.
 Authors: Lerch IA
 Journal: Radiation research (1971)
 Identifiers: PMID 5539709
@@ -4702,7 +4394,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 428. The effect of ultra-high dose-rate beta-ray irradiation in aerobic and hypoxic conditions on the survival of diploid yeast.
+## 400. The effect of ultra-high dose-rate beta-ray irradiation in aerobic and hypoxic conditions on the survival of diploid yeast.
 Authors: Kiefer J, Ebert M
 Journal: Biophysik (1970)
 Identifiers: PMID 5435969; DOI 10.1007/BF01189087
@@ -4713,7 +4405,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 429. Survival of mammalian cells exposed to x rays at ultra-high dose-rates.
+## 401. Survival of mammalian cells exposed to x rays at ultra-high dose-rates.
 Authors: Berry RJ, Hall EJ, Forster DW, Storr TH, Goodman MJ
 Journal: The British journal of radiology (1969)
 Identifiers: PMID 4975207; DOI 10.1259/0007-1285-42-494-102
@@ -4724,7 +4416,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 430. Ultra-high dose-rate effects in radiosensitive bacteria.
+## 402. Ultra-high dose-rate effects in radiosensitive bacteria.
 Authors: Phillips TL, Worsnop BR
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1969)
 Identifiers: PMID 5305081; DOI 10.1080/09553006914551761
@@ -4735,33 +4427,11 @@ Abstract: (no abstract available)
 
 ---
 
-## 431. The repair time of chromosome breaks induced by pulsed x-rays on ultra-high dose-rate.
+## 403. The repair time of chromosome breaks induced by pulsed x-rays on ultra-high dose-rate.
 Authors: Prempree T, Michelsen A, Merz T
 Journal: International journal of radiation biology and related studies in physics, chemistry, and medicine (1969)
 Identifiers: PMID 5307280; DOI 10.1080/09553006914550871
 URL: https://pubmed.ncbi.nlm.nih.gov/5307280/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 432. THE SPECIFICITY OF THE CONE INTERACTION IN THE AFTER-FLASH EFFECT.
-Authors: ALPERN M, RUSHTON WA
-Journal: The Journal of physiology (1965)
-Identifiers: PMID 14288519; DOI 10.1113/jphysiol.1965.sp007562; PMC PMC1357208 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/14288519/
-Category: Radiobiology | Tags: Radiobiology
-
-Abstract: (no abstract available)
-
----
-
-## 433. ROD-CONE INDEPENDENCE IN THE AFTER-FLASH EFFECT.
-Authors: ALPERN M
-Journal: The Journal of physiology (1965)
-Identifiers: PMID 14288518; DOI 10.1113/jphysiol.1965.sp007561; PMC PMC1357207 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/14288518/
 Category: Radiobiology | Tags: Radiobiology
 
 Abstract: (no abstract available)
