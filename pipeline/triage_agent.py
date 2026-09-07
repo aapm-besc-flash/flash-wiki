@@ -212,16 +212,31 @@ A single JSON object, no prose, no code fences:
 
 ## Relevance
 
-Also judge whether this paper belongs in a FLASH / ultra-high-dose-rate corpus \
-at all. The screening upstream is keyword-based and lets homonyms through: \
-vision-science "after-flash", laser flash photolysis, the MRI FLASH sequence, \
-flash X-ray radiography, historical "flash" meaning a single large preoperative \
-fraction at conventional dose rate.
+Judge whether this paper belongs in the corpus. The working group's adopted \
+scope, ratified 6 September 2026, is **the FLASH effect and ultra-high dose rate \
+irradiation**: any work in which ultra-high dose rate delivery, or the biological \
+effect it produces, is an object of study -- whether or not the application is \
+cancer therapy.
+
+The boundary is dose rate as an object of study, not clinical intent. Radiation \
+protection, nuclear-event dosimetry, plasma-wakefield and laser-driven accelerator \
+physics, non-therapeutic UHDR irradiation and historical UHDR radiobiology in any \
+organism are all **in scope**. Do not mark a paper out-of-scope merely because it \
+is not about treating patients.
 
 - `core` -- ultra-high dose rate or the FLASH effect is the subject.
-- `peripheral` -- genuinely related; UHDR is context, comparison or motivation.
-- `out-of-scope` -- "flash" here means something else entirely, or the work is \
-conventional-dose-rate radiotherapy that merely mentions FLASH in passing.
+- `peripheral` -- in scope, but UHDR is context, comparison or motivation.
+- `out-of-scope` -- either (a) "flash" here means something else entirely: vision \
+science, laser flash photolysis, the MRI FLASH sequence, flash radiography, \
+lightning, a product or model name, or the historical use of "flash" for a single \
+large fraction at conventional dose rate; or (b) the work is conventional-dose-rate \
+radiotherapy that mentions FLASH only in passing -- as a future direction or a \
+citation -- rather than studying it.
+
+Case (b) is the judgement that keyword screening cannot make: such papers carry \
+about as many FLASH mentions as genuinely in-scope work that happens not to use \
+the word often, so no count-based rule separates them. Your reading of what the \
+paper is *about* is the only available signal, which is why this field exists.
 
 Saying `out-of-scope` removes nothing. It raises the record for human review, \
 so an honest verdict costs nothing and a reticent one hides a real error.
