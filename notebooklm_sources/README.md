@@ -1,6 +1,6 @@
 # NotebookLM source pack
 
-Regenerated automatically 2026-09-06 by `build_notebooklm.py` (part of the monthly refresh). NotebookLM cannot read files from disk, so uploading is manual — but you only ever need to upload the small delta file after the first time.
+Regenerated automatically 2026-09-07 by `build_notebooklm.py` (part of the monthly refresh). NotebookLM cannot read files from disk, so uploading is manual — but you only ever need to upload the small delta file after the first time.
 
 ## First time — build the notebook
 

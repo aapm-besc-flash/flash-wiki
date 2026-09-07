@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Beam Delivery & Technology
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 116 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-07. 116 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 

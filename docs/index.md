@@ -9,7 +9,7 @@ A continuously updated, categorized index of Medline-indexed FLASH radiotherapy
 <div class="stat"><b>1,250</b><span>curated papers</span></div>
 <div class="stat"><b>10</b><span>categories</span></div>
 <div class="stat"><b>673</b><span>open access</span></div>
-<div class="stat"><b>2026-09-06</b><span>last updated</span></div>
+<div class="stat"><b>2026-09-07</b><span>last updated</span></div>
 </div>
 
 ## Browse by category
