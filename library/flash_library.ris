@@ -1440,32 +1440,6 @@ KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
-TI  - Proton Beam Therapy in Prostate Cancer: Clinical Evidence, Controversies and Future Directions.
-AU  - Gomis-Sellés E
-AU  - González de Dueñas M
-AU  - Meca G
-AU  - García-Marqueta M
-AU  - Moreno-López S
-AU  - Albendea Roch J
-AU  - Garrido Botella MI
-AU  - Caballero B
-AU  - Gómez Rivas J
-AU  - Shelan M
-AU  - López Campos F
-AU  - Couñago F
-PY  - 2026
-JO  - Archivos espanoles de urologia
-AB  - Proton beam therapy (PBT) offers a unique dosimetric advantage over photon-based external beam radiotherapy by concentrating dose at a certain depth (the Bragg peak) and markedly reducing the exit dose to surrounding normal tissues. This narrative review summarises and evaluates the clinical, dosimetric and radiobiological evidence for PBT in localised and locally advanced prostate cancer (PCa), focusing on treatment-related toxicity, oncological outcomes and emerging research directions. Comparative dosimetric studies consistently demonstrate reductions in low-intermediate dose exposure to the bladder and rectum with protons, whereas prospective and large retrospective cohorts report low rates of severe (≥ G3) genitourinary (GU) and gastrointestinal (GI) toxicity, alongside preserved long-term patient-reported quality of life. Meta-analyses reported modest reductions in acute GI events, whilst reporting similar 5-year biochemical control in pooled, heterogeneous series; however, observational and claims-based analyses often fail to demonstrate clear clinical advantages compared with modern intensity-modulated radiation therapy/volumetric modulated arc therapy (IMRT/VMAT). Key radiobiological uncertainties, notably the variable relative biological effectiveness and linear energy transfer (LET) heterogeneity near distal dose fall-off regions, complicate the analysis of toxicity patterns and highlight the need for comprehensive reporting. Limitations of the existing literature include the prevalence of non-randomised designs, heterogeneity in fractionation schedules, inconsistent endpoint definitions and limited use of standardised patient-reported outcomes. The preliminary results of the PARTIQoL randomised clinical trial did not demonstrate significant differences in quality-of-life outcomes between PBT and IMRT/VMAT. Ongoing randomised phase III trials (e.g., Prostate Advanced Radiation Technologies Investigating Quality of Life, Proton Therapy for Postoperative Prostate Cancer Trial and PROton PROstate Trial 1) and advances in adaptive planning, AI-assisted workflows and FLASH (ultra-high dose-rate radiotherapy) dose-rate research are expected to further refine patient selection and treatment delivery. Currently, the routine use of PBT for all patients with localised PCa remains under evaluation; careful patient selection and robust randomised evidence are essential to justify broad clinical implementation.
-DO  - 10.56434/j.arch.esp.urol.20267904.63
-AN  - 42265951
-UR  - https://pubmed.ncbi.nlm.nih.gov/42265951/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Clinical & Translational
-KW  - FLASH:Radiobiology
-KW  - FLASH:Physics & Dosimetry
-ER  - 
-
-TY  - JOUR
 TI  - Impact of mean and instantaneous dose rates on hydrogen peroxide (H2O2) production in water radiolysis under varying pH and initial oxygen: A modelling study.
 AU  - Chaoui M
 AU  - Bouhali O
@@ -1927,30 +1901,6 @@ AN  - 42094274
 UR  - https://pubmed.ncbi.nlm.nih.gov/42094274/
 KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Modern proton therapy in prostate cancer: precision in practice.
-AU  - Yacoub I
-AU  - Khalil J
-AU  - Wei S
-AU  - Hsieh K
-AU  - Chhabra AM
-AU  - Mehta KJ
-AU  - Oska C
-AU  - Zhu L
-AU  - Choi JI
-AU  - Simone CB
-PY  - 2026
-JO  - Frontiers in oncology
-AB  - Proton therapy (PT) is an advanced form of radiation therapy that exploits the physical properties of the Bragg peak to deliver highly conformal dose distributions while minimizing radiation exposure to surrounding normal tissues. This precision is particularly relevant in prostate cancer, where critical organs at risk, including the rectum, bladder, bowel, and penile bulb, are in close proximity to the target. This review summarizes the evolution of PT techniques for prostate cancer, from early passively scattered proton therapy (PSPT) to contemporary intensity-modulated proton therapy (IMPT), and evaluates their dosimetric and clinical implications across multiple treatment settings. Dosimetric studies consistently demonstrate that PT, particularly IMPT, reduces integral dose and improves normal tissue sparing compared with photon-based modalities (XRT) such as intensity-modulated radiation therapy (IMRT) and volumetric modulated arc therapy (VMAT), especially in low- to intermediate-dose regions. These advantages are most pronounced for complex target volumes, including pelvic nodal irradiation and focal intraprostatic boosting. Clinical outcomes data for prostate only treatment indicate excellent disease control with low rates of high grade gastrointestinal and genitourinary toxicity. Emerging evidence suggests potential benefits of PT in reducing specific rectal symptoms and lowering the risk of secondary malignancies. For high-risk prostate cancer requiring pelvic irradiation, prospective and registry-based studies demonstrate favorable toxicity profiles with IMPT, supporting its use in extended treatment fields. In the postoperative setting, PT offers dosimetric improvements, though clinical benefits over XRT remain less clearly defined. Additionally, these advancements in technology have allowed for more precise hypofractionated treatment, including proton stereotactic body radiation therapy, without significant increases in genitourinary or gastrointestinal toxicity. Finally, ultra-high dose rate FLASH PT may further enhance the therapeutic ratio. Overall, modern PT represents a highly precise and evolving modality in prostate cancer management, with the potential to optimize oncologic outcomes while preserving long-term quality of life. Further randomized and cost effectiveness studies are needed to fully define its role relative to advanced photon techniques.
-DO  - 10.3389/fonc.2026.1775107
-AN  - 42078815
-UR  - https://pubmed.ncbi.nlm.nih.gov/42078815/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Radiobiology
-KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Treatment Planning & Optimization
 ER  - 
 
 TY  - JOUR
@@ -4869,31 +4819,6 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Preclinical validation of a clinical prototype of intraoperative electron FLASH radiotherapy equipment: key evidence for a new radiotherapy paradigm.
-AU  - Hao X
-AU  - Du H
-AU  - Lin B
-AU  - Xia Y
-AU  - Tang M
-AU  - Wu W
-AU  - Wang D
-AU  - Zhu Y
-AU  - Zhang Y
-AU  - Wang J
-AU  - Yang Y
-AU  - Wu D
-AU  - Du X
-PY  - 2025
-JO  - Radiation oncology (London, England)
-AB  - BACKGROUND AND PURPOSE: This study aimed to evaluate whether the clinical prototype of intraoperative electron FLASH radiotherapy (CPIO-EFLASH), with a source-surface distance (SSD) of 50 cm, could achieve ultra-high dose rates, effectively control tumors, and trigger the FLASH tissue-sparing effect in preclinical models. MATERIALS AND METHODS: Subcutaneous tumor-bearing mice (4T1 breast cancer, U87-MG glioma, PAN02 pancreatic cancer) and healthy C57BL/6 female mice (whole-brain, thorax, abdomen and single-leg irradiation) were subjected with ultra-high dose rate radiotherapy (UHDR-RT, ≥ 40 Gy/s), conventional doserate radiotherapy (CONV-RT,0.07 Gy/s), or sham radiotherapy (Control). We evaluated survival status, tumor growth suppression, apoptosis, proliferation, and DNA damage in tumor tissues, along with radiation-induced injuries to the brain, lung, intestine, and skin tissues. RESULTS: The actual dose rates of UHDR-RT ranged from 192 to 473 Gy/s. No significant difference in tumor growth suppression was observed between the UHDR-RT and CONV-RT. Two months post whole-brain irradiation, UHDR-RT demonstrated better spatial learning and memory abilities compared to CONV-RT. At 120 days post whole-thorax irradiation and 90 days post whole-abdomen irradiation, the survival rates of UHDR-RT were also significantly higher. Histological analyses revealed more severe injury to lung and intestinal tissues in the CONV-RT group. Additionally, UHDR-RT exhibited milder radiation-induced skin injury from 2 to 8 weeks post-irradiation. CONCLUSION: The CPIO-EFLASH can achieve ultra-high dose rates (≥ 40 Gy/s at an SSD of 50 cm) and trigger significant normal tissue-sparing effects. Integrating electronic FLASH technology into intraoperative radiotherapy may bring potential clinical benefits by effectively treating tumors, while minimizing radiation-induced injury to normal tissues. Our findings highlight the necessity for further clinical trials of CPIO-EFLASH in intraoperative radiotherapy.
-DO  - 10.1186/s13014-025-02781-x
-AN  - 41437387
-UR  - https://pubmed.ncbi.nlm.nih.gov/41437387/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Electron spin resonance measurements of radiation-induced radicals under conventional and ultra-high dose rate electron irradiation.
 AU  - Pehlivan J
 AU  - Beyreuther E
@@ -6649,25 +6574,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Radiotherapy for primary bone tumors: current techniques and integration of artificial intelligence-a review.
-AU  - Tong J
-AU  - Chen D
-AU  - Li J
-AU  - Chen H
-AU  - Yu T
-PY  - 2025
-JO  - Frontiers in oncology
-AB  - Primary bone tumours remain among the most challenging indications in radiation oncology-not because of anatomical size or distribution, but because curative intent demands ablative dosing alongside stringent normal-tissue preservation. Over the past decade, the therapeutic landscape has shifted markedly. Proton and carbon-ion centres now report durable local control with acceptable late toxicity in unresectable sarcomas. MR-guided linear accelerators enable on-table anatomical visualisation and daily adaptation, permitting margin reduction without prolonging workflow. Emerging ultra-high-dose-rate (FLASH) strategies may further spare healthy bone marrow while preserving tumour lethality; first-in-human studies are underway. Beyond hardware, artificial-intelligence pipelines accelerate contouring, automate plan optimisation, and integrate multi-omics signatures with longitudinal imaging to refine risk stratification in real time. Equally important, privacy-preserving federated learning consortia are beginning to pool sparse datasets across institutions, addressing chronic statistical under-power in rare tumours. Appreciating these convergent innovations is essential for clinicians deciding when and how to escalate dose, for physicists designing adaptive protocols, and for investigators planning the next generation of biology-driven trials. This narrative review synthesises recent technical and translational advances and outlines practical considerations, evidence gaps, and research priorities on the path to truly individualised, data-intelligent radiotherapy for primary bone tumours.
-DO  - 10.3389/fonc.2025.1648849
-AN  - 40904495
-UR  - https://pubmed.ncbi.nlm.nih.gov/40904495/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Beam Delivery & Technology
-KW  - FLASH:Clinical & Translational
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - Quality assurance and reporting for FLASH clinical trials: The experience of the FEATHER trial.
 AU  - Colizzi I
 AU  - Schäfer R
@@ -7383,31 +7289,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Combined Radiation and Endocrine Therapies Elicit Benefit in ER+ Breast Cancer.
-AU  - Johnson AL
-AU  - Tau S
-AU  - Sloop AM
-AU  - Dai T
-AU  - Roberts AM
-AU  - Muskus P
-AU  - Warren A
-AU  - Kleist SA
-AU  - Hampsch RA
-AU  - Jorns JM
-AU  - Zhang R
-AU  - Jarvis LA
-AU  - Miller TW
-PY  - 2025
-JO  - Cancers
-AB  - BACKGROUND: Standard treatment for patients with early-stage estrogen receptor-positive (ER+) breast cancer often includes sequential adjuvant radiation and endocrine therapies. Unfortunately, ~1/3 of patients eventually experience disease recurrence, partly due to residual disease in the form of drug-tolerant persister cancer cells. The anti-cancer efficacy of radiation therapy is partly attributable to the production of oxyradicals that damage biomolecules. We previously showed that endocrine therapy increases mitochondrial content in ER+ breast cancer cells; we postulated that this may also increase oxidative stress. METHODS: Herein, we tested the efficacy of concurrent endocrine and radiation therapies, including both conventional (CDR) and ultra-high dose rate (UHDR) radiation. RESULTS: We found that estrogen deprivation and radiation inhibit cell growth, induce apoptosis, and force cells into an oxidatively stressed state. DNA damage was almost exclusive to cells treated with the combination of endocrine and radiation therapy. Radiation slowed tumor growth in two xenograft models, and combination with estrogen deprivation prolonged the time to regrowth in ZR75-1 tumors. CONCLUSIONS: These findings indicate that simultaneous treatment with endocrine and radiation therapies can be advantageous, warranting further evaluation to identify tumor features predictive of response to individual and combination treatments.
-DO  - 10.3390/cancers17121921
-AN  - 40563571
-UR  - https://pubmed.ncbi.nlm.nih.gov/40563571/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - Rapid and reversible adaptation of a clinical linear accelerator for electron FLASH radiotherapy.
 AU  - Schneider F
 AU  - Bauer CJ
@@ -7503,22 +7384,6 @@ AB  - This paper has been prepared to commemorate the 70th anniversary of the In
 DO  - 10.1007/s00249-025-01765-9
 AN  - 40512188
 UR  - https://pubmed.ncbi.nlm.nih.gov/40512188/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - A Comprehensive Review of Radiotherapy-Induced Coronary Artery Disease-Epidemiology, Biological Mechanisms, and Preventive Strategies.
-AU  - Daher J
-AU  - Rizza A
-AU  - Tonacci A
-AU  - Borghini A
-PY  - 2025
-JO  - International journal of molecular sciences
-AB  - Radiation-induced cardiac toxicity is a recognized complication in patients undergoing thoracic radiotherapy. A crucial manifestation of this toxicity is the damage caused to coronary arteries, which can result in accelerated atherosclerosis that may remain undetected for many years. As cancer survival rates continue to improve, the incidence of radiation-induced coronary artery disease (RICAD) is increasing, making it one of the leading causes of morbidity and mortality among patients treated with radiotherapy for mediastinal cancers. The pathophysiology of RICAD involves a complex interplay of cellular mechanisms, including endothelial dysfunction, inflammation, and fibrosis. These processes are related to several molecular insults such as DNA damage, telomere erosion, and mitochondrial dysfunction. However, to fully understand the initiation and progression of the disease, further research is critical to uncover additional contributing factors. Different strategies for preventing cardiovascular complications in cancer patients are gaining significant attention. Recent advancements in radiotherapy, particularly the new FLASH radiotherapy technique, show promise in reducing the incidence of these complications. This review focuses on the effects of radiotherapy on coronary artery disease, exploring the underlying cellular and molecular mechanisms, as well as potential strategies to prevent RICAD.
-DO  - 10.3390/ijms26115401
-AN  - 40508209
-UR  - https://pubmed.ncbi.nlm.nih.gov/40508209/
 KW  - FLASH:Reviews & Consensus
 KW  - FLASH:Radiobiology
 ER  - 
@@ -10587,28 +10452,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Deep learning-based Fast Volumetric Image Generation for Image-guided Proton Radiotherapy.
-AU  - Chang CW
-AU  - Lei Y
-AU  - Wang T
-AU  - Tian S
-AU  - Roper J
-AU  - Lin L
-AU  - Bradley J
-AU  - Liu T
-AU  - Zhou J
-AU  - Yang X
-PY  - 2024
-JO  - IEEE transactions on radiation and plasma medical sciences
-AB  - Very fast imaging techniques can enhance the precision of image-guided radiation therapy, which can be useful for external beam radiation therapy. This work aims to develop a deep learning (DL)-based image-guide framework to enable fast volumetric image reconstruction for accurate target localization for treating lung cancer patients with gating, and it is presented in the context of FLASH which leverages ultra-high dose-rate radiation to enhance the sparing of organs at risk without compromising tumor control probability. The proposed framework comprises four modules, including orthogonal kV x-ray projection acquisition, DL-based volumetric image generation, image quality analyses, and proton water equivalent thickness (WET) evaluation. We investigated volumetric image reconstruction using kV projection pairs with four different source angles. Thirty patients with lung targets were identified from an institutional database, each patient having a four-dimensional computed tomography (CT) dataset with ten respiratory phases. Considering all evaluation metrics, the kV projections with source angles of 135° and 225° yielded the optimal volumetric images. The patient-averaged mean absolute error, peak signal-to-noise ratio, structural similarity index measure, and WET error were 75±22 HU, 19±3.7 dB, 0.938±0.044, and -1.3%±4.1%. The proposed framework can rapidly deliver volumetric images to potentially guide proton FLASH treatment delivery systems.
-DO  - 10.1109/trpms.2024.3439585
-AN  - 40385936
-UR  - https://pubmed.ncbi.nlm.nih.gov/40385936/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
 TI  - Mimicking large spot-scanning radiation fields for proton FLASH preclinical studies with a robotic motion platform.
 AU  - Guan F
 AU  - Jiang D
@@ -11011,25 +10854,6 @@ KW  - FLASH:Reviews & Consensus
 KW  - FLASH:Radiobiology
 KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
-TI  - Chemical Carcinogen (3-Methylcholanthrene)-induced Pleomorphic Rhabdomyosarcomas in Fanconi Anemia Fancd2-/-, Fancg-/- (C57BL/6), Fancd2-/- (129/Sv) Mice.
-AU  - Fisher R
-AU  - Epperly MW
-AU  - Rigatti LH
-AU  - Shields D
-AU  - Greenberger JS
-AU  - Green A
-AU  - Mukherjee A
-PY  - 2024
-JO  - In vivo (Athens, Greece)
-AB  - BACKGROUND/AIM: Radiation oncologists are reluctant to treat cancer in Fanconi Anemia (FA) patients due to their lack of homologous recombination repair of DNA strand breaks in normal tissues. To determine the therapeutic effects of irradiation and combination chemotherapy on cancer in syngeneic, radiosensitive FA mice, we derived transplantable cancers of the same genotype in three FA mouse strains. MATERIALS AND METHODS: Fancd2-/- mice on a C57BL/6 or Sv/129 background and Fancg-/- mice (C57BL/6 background) that received 3-methylcholanthrene (3-MCA), were monitored for the development of subcutaneous tumors. RESULTS: Tumors were induced at the site of 3-MCA injection, and tumor cell lines were established and found to be transplantable. Explanted tumors were identified as pleomorphic/rhabdomyosarcomas using immunohistochemical biomarkers. CONCLUSION: These transplantable FA mouse tumor cell lines should be valuable for testing effects of new radiation therapy protocols including FLASH high dose rate radiation delivery, immunotherapies, and combined radiation and chemotherapy treatments for radiosensitive FA patients.
-DO  - 10.21873/invivo.13734
-AN  - 39477388
-UR  - https://pubmed.ncbi.nlm.nih.gov/39477388/
-KW  - FLASH:Radiobiology
-KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
@@ -16477,28 +16301,6 @@ KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
-TI  - Uncovering the Secrets of Prostate Cancer's Radiotherapy Resistance: Advances in Mechanism Research.
-AU  - Lyu F
-AU  - Shang SY
-AU  - Gao XS
-AU  - Ma MW
-AU  - Xie M
-AU  - Ren XY
-AU  - Liu MZ
-AU  - Chen JY
-AU  - Li SS
-AU  - Huang L
-PY  - 2023
-JO  - Biomedicines
-AB  - Prostate cancer (PCa) is a critical global public health issue with its incidence on the rise. Radiation therapy holds a primary role in PCa treatment; however, radiation resistance has become increasingly challenging as we uncover more about PCa's pathogenesis. Our review aims to investigate the multifaceted mechanisms underlying radiation therapy resistance in PCa. Specifically, we will examine how various factors, such as cell cycle regulation, DNA damage repair, hypoxic conditions, oxidative stress, testosterone levels, epithelial-mesenchymal transition, and tumor stem cells, contribute to radiation therapy resistance. By exploring these mechanisms, we hope to offer new insights and directions towards overcoming the challenges of radiation therapy resistance in PCa. This can also provide a theoretical basis for the clinical application of novel ultra-high-dose-rate (FLASH) radiotherapy in the era of PCa.
-DO  - 10.3390/biomedicines11061628
-AN  - 37371723
-UR  - https://pubmed.ncbi.nlm.nih.gov/37371723/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
 TI  - Increased flexibility and efficiency of a double-scattering FLASH proton beamline configuration forin vivoSOBP radiotherapy treatments.
 AU  - Hachadorian R
 AU  - Cascio E
@@ -17403,19 +17205,6 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Non-Surgical Definitive Treatment for Operable Breast Cancer: Current Status and Future Prospects.
-AU  - Shibamoto Y
-AU  - Takano S
-PY  - 2023
-JO  - Cancers
-AB  - This article reviews the results of various non-surgical curative treatments for operable breast cancer. Radiotherapy is considered the most important among such treatments, but conventional radiotherapy alone and concurrent chemoradiotherapy do not achieve high cure rates. As a radiosensitization strategy, intratumoral injection of hydrogen peroxide before radiation has been investigated, and high local control rates (75-97%) were reported. The authors treated 45 patients with whole-breast radiotherapy, followed by stereotactic or intensity-modulated radiotherapy boost, with or without a radiosensitization strategy employing either hydrogen peroxide injection or hyperthermia plus oral tegafur-gimeracil-oteracil potassium. Stages were 0-I in 23 patients, II in 19, and III in 3. Clinical and cosmetic outcomes were good, with 5-year overall, progression-free, and local recurrence-free survival rates of 97, 86, and 88%, respectively. Trials of carbon ion radiotherapy are ongoing, with promising interim results. Radiofrequency ablation, focused ultrasound, and other image-guided ablation treatments yielded complete ablation rates of 20-100% (mostly ≥70%), but long-term cure rates remain unclear. In these treatments, combination with radiotherapy seems necessary to treat the extensive intraductal components. Non-surgical treatment of breast cancer is evolving steadily, with radiotherapy playing a major role. In the future, proton therapy with the ultra-high-dose-rate FLASH mode is expected to further improve outcomes.
-DO  - 10.3390/cancers15061864
-AN  - 36980750
-UR  - https://pubmed.ncbi.nlm.nih.gov/36980750/
-KW  - FLASH:Reviews & Consensus
-ER  - 
-
-TY  - JOUR
 TI  - Assessment of Cystamine's Radioprotective/Antioxidant Ability under High-Dose-Rate Irradiation: A Monte Carlo Multi-Track Chemistry Simulation Study.
 AU  - Penabeï S
 AU  - Meesungnoen J
@@ -18314,22 +18103,6 @@ DO  - 10.3389/fonc.2022.1116433
 AN  - 36741712
 UR  - https://pubmed.ncbi.nlm.nih.gov/36741712/
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Proton radiotherapy for glioma and glioblastoma.
-AU  - Goff KM
-AU  - Zheng C
-AU  - Alonso-Basanta M
-PY  - 2022
-JO  - Chinese clinical oncology
-AB  - Radiotherapy (RT) continues to be an important component of treatment of glioma, particularly high-grade glioma and glioblastoma multiforme (GBM). GBM is one of the most aggressive central nervous system (CNS) tumors, with high rates of recurrence and very low rates of long-term survival. However, outcomes in these patients are improving with modern genetic profiling and multimodal therapy, which leads to more consideration for the risk for toxicities associated with traditional photon-based RT. Proton therapy (PT) is an increasingly available method to reduce off-target irradiation in CNS tumors due to the intrinsic properties of heavy-particle irradiation. Here, we review currently available data examining the used of PT in glioma patients, including dose escalation for GBM, re-irradiation (reRT) of recurrent glioma, and the potential cognitive sparing effects of conventional dose PT. We discuss the incorporation of PT into the multimodal therapy of GBM patients, and how the aggressive nature of the disease poses a unique challenge to PT study design. We also describe how PT may provide the most feasible method for implementing high rate 'FLASH' RT and the implications for glioma patients. We conclude with a discussion of ongoing clinical trials, the necessity of continued research, and how we interpret and incorporate available data into our current practice.
-DO  - 10.21037/cco-22-92
-AN  - 36632979
-UR  - https://pubmed.ncbi.nlm.nih.gov/36632979/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Radiobiology
-KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
@@ -20576,20 +20349,6 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Imaging to optimize gynecological radiation oncology.
-AU  - Kidd EA
-PY  - 2022
-JO  - International journal of gynecological cancer : official journal of the International Gynecological Cancer Society
-AB  - Gynecological cancers have particularly benefited from the increasing use of imaging to guide radiation treatment planning for both external beam radiation and brachytherapy. While the different gynecological cancers have varying use of imaging, certain trends predominate. CT represents an economical choice for evaluating initial disease extent or potential metastasis at follow-up, particularly for endometrial and ovarian cancers. F-fluorodeoxyglucose (FDG) positron emission tomography (PET)/CT is particularly useful for assessing the initial disease extent and longer term treatment response of squamous predominant cancers, including cervical, vaginal, and vulvar cancers. With its excellent pelvic soft tissue discrimination, MRI provides the greatest assistance in evaluating the local extent of gynecological tumors, including initial evaluation for non-operative endometrial and vulvar cancer, and assessment before, after and during brachytherapy for cervix, locally recurrent endometrial, and primary vaginal cancers. With more limited availability of MRI, ultrasound can also help guide brachytherapy, particularly during procedures. The benefits of using imaging to better spare bone marrow or earlier assessment of treatment response are topics still being explored, in particular for cervical cancer. As imaging along with radiation oncology technologies continue to evolve and develop, such as with MRI-linacs and ultra high dose rate (FLASH) radiation, we may continue to see increasing use of imaging for advancing gynecological radiation oncology.
-DO  - 10.1136/ijgc-2021-002460
-AN  - 35256424
-UR  - https://pubmed.ncbi.nlm.nih.gov/35256424/
-KW  - FLASH:Reviews & Consensus
-KW  - FLASH:Treatment Planning & Optimization
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
 TI  - Determination of beam quality correction factors for the Roos plane-parallel ionisation chamber exposed to very high energy electron (VHEE) beams using Geant4.
 AU  - McManus M
 AU  - Romano F
@@ -21663,22 +21422,6 @@ KW  - FLASH:Reviews & Consensus
 KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Radiobiology
 KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
-TI  - Target motion management in breast cancer radiation therapy.
-AU  - Piruzan E
-AU  - Vosoughi N
-AU  - Mahdavi SR
-AU  - Khalafi L
-AU  - Mahani H
-PY  - 2021
-JO  - Radiology and oncology
-AB  - BACKGROUND: Over the last two decades, breast cancer remains the main cause of cancer deaths in women. To treat this type of cancer, radiation therapy (RT) has proved to be efficient. RT for breast cancer is, however, challenged by intrafractional motion caused by respiration. The problem is more severe for the left-sided breast cancer due to the proximity to the heart as an organ-at-risk. While particle therapy results in superior dose characteristics than conventional RT, due to the physics of particle interactions in the body, particle therapy is more sensitive to target motion. CONCLUSIONS: This review highlights current and emerging strategies for the management of intrafractional target motion in breast cancer treatment with an emphasis on particle therapy, as a modern RT technique. There are major challenges associated with transferring real-time motion monitoring technologies from photon to particles beams. Surface imaging would be the dominant imaging modality for real-time intrafractional motion monitoring for breast cancer. The magnetic resonance imaging (MRI) guidance and ultra high dose rate (FLASH)-RT seem to be state-of-the-art approaches to deal with 4D RT for breast cancer.
-DO  - 10.2478/raon-2021-0040
-AN  - 34626533
-UR  - https://pubmed.ncbi.nlm.nih.gov/34626533/
-KW  - FLASH:Reviews & Consensus
 ER  - 
 
 TY  - JOUR
@@ -23352,28 +23095,6 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - High quality proton portal imaging using deep learning for proton radiation therapy: a phantom study.
-AU  - Charyyev S
-AU  - Lei Y
-AU  - Harms J
-AU  - Eaton B
-AU  - McDonald M
-AU  - Curran WJ
-AU  - Liu T
-AU  - Zhou J
-AU  - Zhang R
-AU  - Yang X
-PY  - 2020
-JO  - Biomedical physics & engineering express
-AB  - Purpose; For shoot-through proton treatments, like FLASH radiotherapy, there will be protons exiting the patient which can be used for proton portal imaging (PPI), revealing valuable information for the validation of tumor location in the beam's-eye-view at native gantry angles. However, PPI has poor inherent contrast and spatial resolution. To deal with this issue, we propose a deep-learning-based method to use kV digitally reconstructed radiographs (DRR) to improve PPI image quality. Method; We used a residual generative adversarial network (GAN) framework to learn the nonlinear mapping between PPIs and DRRs. Residual blocks were used to force the model to focus on the structural differences between DRR and PPI. To assess the accuracy of our method, we used 149 images for training and 30 images for testing. PPIs were acquired using a double-scattered proton beam. The DRRs acquired from CT acted as learning targets in the training process and were used to evaluate results from the proposed method using a six-fold cross-validation scheme. Results; Qualitatively, the corrected PPIs showed enhanced spatial resolution and captured fine details present in the DRRs that are missed in the PPIs. The quantitative results for corrected PPIs show average normalized mean error (NME), normalized mean absolute error (NMAE), peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) index of -0.1%, 0.3%, 39.14 dB, and 0.987, respectively. Conclusion; The results indicate the proposed method can generate high quality corrected PPIs and this work shows the potential to use a deep-learning model to make PPI available in proton radiotherapy. This will allow for beam's-eye-view (BEV) imaging with the particle used for treatment, leading to a valuable alternative to orthogonal x-rays or cone-beam CT for patient position verification.
-DO  - 10.1088/2057-1976/ab8a74
-AN  - 33438674
-UR  - https://pubmed.ncbi.nlm.nih.gov/33438674/
-KW  - FLASH:Treatment Planning & Optimization
-KW  - FLASH:Modeling & Mechanisms
-ER  - 
-
-TY  - JOUR
 TI  - APPLICATIONS OF OPTICALLY STIMULATED LUMINESCENCE IN MEDICAL DOSIMETRY.
 AU  - Yukihara EG
 AU  - Kron T
@@ -24227,24 +23948,6 @@ AN  - 32381299
 UR  - https://pubmed.ncbi.nlm.nih.gov/32381299/
 KW  - FLASH:Reviews & Consensus
 KW  - FLASH:Radiobiology
-ER  - 
-
-TY  - JOUR
-TI  - Microscope cover-slip glass for TLD applications.
-AU  - Alqahtani A
-AU  - Sani SFA
-AU  - Narissa NHA
-AU  - Alanazi A
-AU  - Podolyak Z
-AU  - Nisbet A
-AU  - Bradley DA
-PY  - 2020
-JO  - Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine
-AB  - As a result of the various evolving needs, thermoluminescence dosimetry is constantly under development, with applications intended in environmental and personal radiation monitoring through to the sensing of radiotherapy and radiation processing doses. In radiotherapy dosimetry challenges include small-field profile evaluation, encompassing the fine beams of radiosurgery, evaluations confronting the steep dose gradients of electronic brachytherapy and the high dose rates of FLASH radiotherapy. Current work concerns the thermoluminescent dosimetric properties of commercial low-cost borosilicate glass in the form of thin (sub-mm to a few mm) plates, use being made of microscope cover-slips irradiated using clinical external-beam radiotherapy facilities as well as through use of 60Co gamma irradiators. In using megavoltage photons and MeV electrons, characterization of the dosimetric response has been made for cover-slips of thicknesses up to 4 mm. Reproducibility to within +/5% has been obtained. In particular, for doses up to 10 Gy, the borosilicate cover-slips have been demonstrated to have considerable potential for use in high spatial resolution radiotherapy dosimetry, down to 0.13 mm in present work, with a coefficient of determination in respect of linearity of >0.99 for the thinner cover-slips. Results are also presented for 0.13- and 1.00-mm thick cover slips irradiated to 60Co gamma-ray doses, initially in the range 5- to 25 Gy, subsequently extended to 5 kGy-25 kGy, again providing linear response.
-DO  - 10.1016/j.apradiso.2020.109132
-AN  - 32351224
-UR  - https://pubmed.ncbi.nlm.nih.gov/32351224/
-KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR

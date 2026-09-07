@@ -2,7 +2,7 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*243 records. Newest first.*
+*242 records. Newest first.*
 
 ---
 
@@ -4600,25 +4600,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32452558/) · [DOI](https://doi.org/10.1002/mp.14253)
-
-
----
-
-### Microscope cover-slip glass for TLD applications.
-
-*Alqahtani A, Sani SFA, Narissa NHA, Alanazi A, Podolyak Z, Nisbet A et al.* — Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine (2020)  
-
-<span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** As a result of the various evolving needs, thermoluminescence dosimetry is constantly under development, with applications intended in environmental and personal radiation monitoring through to the sensing of radiotherapy and radiation processing doses. In radiotherapy dosimetry challenges include small-field profile evaluation, encompassing the fine beams of radiosurgery, evaluations confronting …
-
-
-??? note "Abstract"
-    As a result of the various evolving needs, thermoluminescence dosimetry is constantly under development, with applications intended in environmental and personal radiation monitoring through to the sensing of radiotherapy and radiation processing doses. In radiotherapy dosimetry challenges include small-field profile evaluation, encompassing the fine beams of radiosurgery, evaluations confronting the steep dose gradients of electronic brachytherapy and the high dose rates of FLASH radiotherapy. Current work concerns the thermoluminescent dosimetric properties of commercial low-cost borosilicate glass in the form of thin (sub-mm to a few mm) plates, use being made of microscope cover-slips irradiated using clinical external-beam radiotherapy facilities as well as through use of 60Co gamma irradiators. In using megavoltage photons and MeV electrons, characterization of the dosimetric response has been made for cover-slips of thicknesses up to 4 mm. Reproducibility to within +/5% has been obtained. In particular, for doses up to 10 Gy, the borosilicate cover-slips have been demonstrated to have considerable potential for use in high spatial resolution radiotherapy dosimetry, down to 0.13 mm in present work, with a coefficient of determination in respect of linearity of &gt;0.99 for the thinner cover-slips. Results are also presented for 0.13- and 1.00-mm thick cover slips irradiated to 60Co gamma-ray doses, initially in the range 5- to 25 Gy, subsequently extended to 5 kGy-25 kGy, again providing linear response.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32351224/) · [DOI](https://doi.org/10.1016/j.apradiso.2020.109132)
 
 
 ---

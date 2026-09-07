@@ -2,7 +2,7 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*403 records. Newest first.*
+*399 records. Newest first.*
 
 ---
 
@@ -1708,29 +1708,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Preclinical validation of a clinical prototype of intraoperative electron FLASH radiotherapy equipment: key evidence for a new radiotherapy paradigm.
-
-*Hao X, Du H, Lin B, Xia Y, Tang M, Wu W et al.* — Radiation oncology (London, England) (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** This study aimed to evaluate whether the clinical prototype of intraoperative electron FLASH radiotherapy (CPIO-EFLASH), with a source-surface distance (SSD) of 50 cm, could achieve ultra-high dose rates, effectively control tumors, and trigger the FLASH tissue-sparing effect in preclinical models. MATERIALS AND METHODS: Subcutaneous tumor-bearing mice (4T1 breast cancer, U87-MG glioma, PAN02 panc…
-
-
-??? abstract "Summary — AI-generated, curator-reviewed"
-    This study evaluated a clinical prototype intraoperative electron FLASH device (CPIO-EFLASH, SSD 50 cm) in subcutaneous 4T1 breast, U87-MG glioma, and PAN02 pancreatic tumor-bearing mice, and in healthy C57BL/6 mice receiving whole-brain, thorax, abdomen, or single-leg irradiation. UHDR-RT delivered actual dose rates of 192-473 Gy/s compared with CONV-RT at 0.07 Gy/s. Tumor growth suppression did not differ significantly between UHDR-RT and CONV-RT across the three tumor models. In normal tissue endpoints, UHDR-RT produced better spatial learning and memory two months after whole-brain irradiation, higher survival at 120 days post-thorax and 90 days post-abdomen irradiation, less severe lung and intestinal histological injury, and milder skin injury from 2 to 8 weeks post-irradiation, relative to CONV-RT.
-
-
-??? note "Abstract"
-    BACKGROUND AND PURPOSE: This study aimed to evaluate whether the clinical prototype of intraoperative electron FLASH radiotherapy (CPIO-EFLASH), with a source-surface distance (SSD) of 50 cm, could achieve ultra-high dose rates, effectively control tumors, and trigger the FLASH tissue-sparing effect in preclinical models. MATERIALS AND METHODS: Subcutaneous tumor-bearing mice (4T1 breast cancer, U87-MG glioma, PAN02 pancreatic cancer) and healthy C57BL/6 female mice (whole-brain, thorax, abdomen and single-leg irradiation) were subjected with ultra-high dose rate radiotherapy (UHDR-RT, ≥ 40 Gy/s), conventional doserate radiotherapy (CONV-RT,0.07 Gy/s), or sham radiotherapy (Control). We evaluated survival status, tumor growth suppression, apoptosis, proliferation, and DNA damage in tumor tissues, along with radiation-induced injuries to the brain, lung, intestine, and skin tissues. RESULTS: The actual dose rates of UHDR-RT ranged from 192 to 473 Gy/s. No significant difference in tumor growth suppression was observed between the UHDR-RT and CONV-RT. Two months post whole-brain irradiation, UHDR-RT demonstrated better spatial learning and memory abilities compared to CONV-RT. At 120 days post whole-thorax irradiation and 90 days post whole-abdomen irradiation, the survival rates of UHDR-RT were also significantly higher. Histological analyses revealed more severe injury to lung and intestinal tissues in the CONV-RT group. Additionally, UHDR-RT exhibited milder radiation-induced skin injury from 2 to 8 weeks post-irradiation. CONCLUSION: The CPIO-EFLASH can achieve ultra-high dose rates (≥ 40 Gy/s at an SSD of 50 cm) and trigger significant normal tissue-sparing effects. Integrating electronic FLASH technology into intraoperative radiotherapy may bring potential clinical benefits by effectively treating tumors, while minimizing radiation-induced injury to normal tissues. Our findings highlight the necessity for further clinical trials of CPIO-EFLASH in intraoperative radiotherapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41437387/) · [DOI](https://doi.org/10.1186/s13014-025-02781-x) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12829257/)
-
-
----
-
 ### Electron spin resonance measurements of radiation-induced radicals under conventional and ultra-high dose rate electron irradiation.
 
 *Pehlivan J, Beyreuther E, Horst F, Nasse MJ, Pawelke J, Leichtle D et al.* — Physics in medicine and biology (2025)  
@@ -2487,29 +2464,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40588067/) · [DOI](https://doi.org/10.1016/j.ijrobp.2025.06.3883) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12314887/)
-
-
----
-
-### Combined Radiation and Endocrine Therapies Elicit Benefit in ER+ Breast Cancer.
-
-*Johnson AL, Tau S, Sloop AM, Dai T, Roberts AM, Muskus P et al.* — Cancers (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Standard treatment for patients with early-stage estrogen receptor-positive (ER+) breast cancer often includes sequential adjuvant radiation and endocrine therapies. Unfortunately, ~1/3 of patients eventually experience disease recurrence, partly due to residual disease in the form of drug-tolerant persister cancer cells.
-
-
-??? abstract "Summary — AI-generated, curator-reviewed"
-    This study examined concurrent endocrine and radiation therapy in estrogen receptor-positive breast cancer cells and xenograft models. Treatments included both conventional dose rate and ultra-high dose rate radiation. Combined endocrine deprivation and radiation induced oxidative stress, DNA damage, and apoptosis in vitro; radiation alone slowed tumor growth in two xenograft models, while combination treatment with estrogen deprivation prolonged time to regrowth in ZR75-1 tumors. The study emphasizes the potential of combined modality treatment rather than UHDR-specific mechanisms.
-
-
-??? note "Abstract"
-    BACKGROUND: Standard treatment for patients with early-stage estrogen receptor-positive (ER+) breast cancer often includes sequential adjuvant radiation and endocrine therapies. Unfortunately, ~1/3 of patients eventually experience disease recurrence, partly due to residual disease in the form of drug-tolerant persister cancer cells. The anti-cancer efficacy of radiation therapy is partly attributable to the production of oxyradicals that damage biomolecules. We previously showed that endocrine therapy increases mitochondrial content in ER+ breast cancer cells; we postulated that this may also increase oxidative stress. METHODS: Herein, we tested the efficacy of concurrent endocrine and radiation therapies, including both conventional (CDR) and ultra-high dose rate (UHDR) radiation. RESULTS: We found that estrogen deprivation and radiation inhibit cell growth, induce apoptosis, and force cells into an oxidatively stressed state. DNA damage was almost exclusive to cells treated with the combination of endocrine and radiation therapy. Radiation slowed tumor growth in two xenograft models, and combination with estrogen deprivation prolonged the time to regrowth in ZR75-1 tumors. CONCLUSIONS: These findings indicate that simultaneous treatment with endocrine and radiation therapies can be advantageous, warranting further evaluation to identify tumor features predictive of response to individual and combination treatments.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40563571/) · [DOI](https://doi.org/10.3390/cancers17121921) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12190792/)
 
 
 ---
@@ -3510,25 +3464,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Deep learning-based Fast Volumetric Image Generation for Image-guided Proton Radiotherapy.
-
-*Chang CW, Lei Y, Wang T, Tian S, Roper J, Lin L et al.* — IEEE transactions on radiation and plasma medical sciences (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Very fast imaging techniques can enhance the precision of image-guided radiation therapy, which can be useful for external beam radiation therapy. This work aims to develop a deep learning (DL)-based image-guide framework to enable fast volumetric image reconstruction for accurate target localization for treating lung cancer patients with gating, and it is presented in the context of FLASH which l…
-
-
-??? note "Abstract"
-    Very fast imaging techniques can enhance the precision of image-guided radiation therapy, which can be useful for external beam radiation therapy. This work aims to develop a deep learning (DL)-based image-guide framework to enable fast volumetric image reconstruction for accurate target localization for treating lung cancer patients with gating, and it is presented in the context of FLASH which leverages ultra-high dose-rate radiation to enhance the sparing of organs at risk without compromising tumor control probability. The proposed framework comprises four modules, including orthogonal kV x-ray projection acquisition, DL-based volumetric image generation, image quality analyses, and proton water equivalent thickness (WET) evaluation. We investigated volumetric image reconstruction using kV projection pairs with four different source angles. Thirty patients with lung targets were identified from an institutional database, each patient having a four-dimensional computed tomography (CT) dataset with ten respiratory phases. Considering all evaluation metrics, the kV projections with source angles of 135° and 225° yielded the optimal volumetric images. The patient-averaged mean absolute error, peak signal-to-noise ratio, structural similarity index measure, and WET error were 75±22 HU, 19±3.7 dB, 0.938±0.044, and -1.3%±4.1%. The proposed framework can rapidly deliver volumetric images to potentially guide proton FLASH treatment delivery systems.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40385936/) · [DOI](https://doi.org/10.1109/trpms.2024.3439585) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12079186/)
-
-
----
-
 ### Reply to Comments on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
 
 *Shiraishi Y, Matsuya Y, Fukunaga H* — Physics in medicine and biology (2024)  
@@ -3613,25 +3548,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39571283/) · [DOI](https://doi.org/10.1088/1361-6560/ad95d6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11653111/)
-
-
----
-
-### Chemical Carcinogen (3-Methylcholanthrene)-induced Pleomorphic Rhabdomyosarcomas in Fanconi Anemia Fancd2-/-, Fancg-/- (C57BL/6), Fancd2-/- (129/Sv) Mice.
-
-*Fisher R, Epperly MW, Rigatti LH, Shields D, Greenberger JS, Green A et al.* — In vivo (Athens, Greece) (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Radiation oncologists are reluctant to treat cancer in Fanconi Anemia (FA) patients due to their lack of homologous recombination repair of DNA strand breaks in normal tissues. To determine the therapeutic effects of irradiation and combination chemotherapy on cancer in syngeneic, radiosensitive FA mice, we derived transplantable cancers of the same genotype in three FA mouse strains.
-
-
-??? note "Abstract"
-    BACKGROUND/AIM: Radiation oncologists are reluctant to treat cancer in Fanconi Anemia (FA) patients due to their lack of homologous recombination repair of DNA strand breaks in normal tissues. To determine the therapeutic effects of irradiation and combination chemotherapy on cancer in syngeneic, radiosensitive FA mice, we derived transplantable cancers of the same genotype in three FA mouse strains. MATERIALS AND METHODS: Fancd2-/- mice on a C57BL/6 or Sv/129 background and Fancg-/- mice (C57BL/6 background) that received 3-methylcholanthrene (3-MCA), were monitored for the development of subcutaneous tumors. RESULTS: Tumors were induced at the site of 3-MCA injection, and tumor cell lines were established and found to be transplantable. Explanted tumors were identified as pleomorphic/rhabdomyosarcomas using immunohistochemical biomarkers. CONCLUSION: These transplantable FA mouse tumor cell lines should be valuable for testing effects of new radiation therapy protocols including FLASH high dose rate radiation delivery, immunotherapies, and combined radiation and chemotherapy treatments for radiosensitive FA patients.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39477388/) · [DOI](https://doi.org/10.21873/invivo.13734) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11535948/)
 
 
 ---
