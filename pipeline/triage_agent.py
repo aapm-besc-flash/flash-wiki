@@ -198,6 +198,7 @@ A single JSON object, no prose, no code fences:
   "category": "...",
   "summary": "...",
   "key_findings": ["...", "..."],
+  "relevance": "core|peripheral|out-of-scope",
   "confidence": 0.0,
   "contradictions": [],
   "reviewer_note": ""
@@ -208,6 +209,22 @@ A single JSON object, no prose, no code fences:
 {{"claim_id": "<exact id from the list above>",
   "nature": "contradicts|qualifies|supersedes",
   "explanation": "..."}}
+
+## Relevance
+
+Also judge whether this paper belongs in a FLASH / ultra-high-dose-rate corpus \
+at all. The screening upstream is keyword-based and lets homonyms through: \
+vision-science "after-flash", laser flash photolysis, the MRI FLASH sequence, \
+flash X-ray radiography, historical "flash" meaning a single large preoperative \
+fraction at conventional dose rate.
+
+- `core` -- ultra-high dose rate or the FLASH effect is the subject.
+- `peripheral` -- genuinely related; UHDR is context, comparison or motivation.
+- `out-of-scope` -- "flash" here means something else entirely, or the work is \
+conventional-dose-rate radiotherapy that merely mentions FLASH in passing.
+
+Saying `out-of-scope` removes nothing. It raises the record for human review, \
+so an honest verdict costs nothing and a reticent one hides a real error.
 
 ## Hard constraints
 
@@ -271,6 +288,9 @@ def validate(p: dict, claim_ids: set[str]) -> list[str]:
         errs.append(f"category must be one of: {', '.join(sorted(CONTENT_CATEGORIES))}")
     if not isinstance(p.get("summary"), str) or len(p.get("summary", "").split()) < 25:
         errs.append("summary missing or shorter than 25 words")
+    r = p.get("relevance")
+    if r is not None and r not in ("core", "peripheral", "out-of-scope"):
+        errs.append("relevance must be core, peripheral or out-of-scope")
     c = p.get("confidence")
     if not isinstance(c, (int, float)) or not 0 <= c <= 1:
         errs.append("confidence must be a number between 0 and 1")
@@ -505,6 +525,13 @@ def main() -> int:
                 "confidence": payload["confidence"],
                 "contradictions": payload.get("contradictions") or [],
                 "reviewer_note": payload.get("reviewer_note", ""),
+                # Advisory only. Nothing in this pipeline acts on it; it exists
+                # so a suspected false positive reaches a human in the PR rather
+                # than sitting in the corpus for months. Records triaged before
+                # this field existed simply lack it -- SCHEMA_VERSION is
+                # deliberately NOT bumped, because re-triaging 371 records to
+                # backfill an advisory flag is not worth the spend.
+                "relevance": payload.get("relevance"),
             }
 
             if not args.dry_run and i % CHECKPOINT_EVERY == 0:
@@ -523,6 +550,7 @@ def main() -> int:
     pinned = _curator_pinned()
     disagreements, flagged, low_conf, merged = [], [], [], 0
     overruled = []
+    suspect = []          # agent thinks these do not belong; advisory only
     for rec in records:
         pmid = str(rec.get("pmid"))
         t = done.get(pmid)
@@ -555,6 +583,8 @@ def main() -> int:
             low_conf.append((rec, t))
         if t["contradictions"]:
             flagged.append((rec, t))
+        if t.get("relevance") == "out-of-scope":
+            suspect.append((rec, t))
 
     if args.dry_run:
         print(f"[dry run] would merge {merged}; {len(disagreements)} disagreements, "
@@ -571,7 +601,8 @@ def main() -> int:
            f"{merged} record(s) carry triage; {len(flagged)} contradiction "
            f"flag(s); {len(disagreements)} category disagreement(s); "
            f"{len(low_conf)} below the {CONFIDENCE_FLOOR:.2f} confidence floor; "
-           f"{len(overruled)} curator-pinned record(s) left unchanged.", ""]
+           f"{len(overruled)} curator-pinned record(s) left unchanged; "
+           f"{len(suspect)} flagged as possibly out of scope.", ""]
 
     # Measured, not estimated. Printed so the run's real cost is visible in the
     # PR rather than inferred from a billing dashboard days later.
@@ -590,6 +621,20 @@ def main() -> int:
         out += [f"- PMID {r['pmid']}: kept **{r['category']}**, agent said "
                 f"{t['category']} ({t['confidence']:.2f}) — {r['title'][:70]}"
                 for r, t in overruled]
+        out += [""]
+
+    if suspect:
+        out += ["### Agent suspects these do not belong — nothing removed", "",
+                "The upstream screener is keyword-based and lets homonyms "
+                "through. These records reached the corpus, but the agent reads "
+                "them as out of scope. **No action has been taken.** Confirm one "
+                "and it goes into `CURATOR_OVERRIDES` in `flash_harvest.py`, "
+                "where the decision is permanent; disagree and nothing changes.",
+                ""]
+        for rec, t in suspect:
+            note = (t.get("reviewer_note") or "").strip()
+            out.append(f"- PMID {rec['pmid']} — {rec['title'][:80]}"
+                       + (f"  \n  _{note[:160]}_" if note else ""))
         out += [""]
 
     if flagged:
