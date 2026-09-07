@@ -36,6 +36,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write        # autopilot dispatches deploy.yml after an unattended merge
 
 concurrency:
   group: corpus-refresh
@@ -180,6 +181,11 @@ jobs:
           elif [ -f .refresh/triage_report.md ]; then
             cat .refresh/triage_report.md >> .refresh/pr_body.md
           fi
+          # The single remaining manual step, stated in the PR so it is never
+          # discovered months later from a wrong NotebookLM answer.
+          if [ -f .refresh/notebooklm_note.md ]; then
+            cat .refresh/notebooklm_note.md >> .refresh/pr_body.md
+          fi
 
           # ci_refresh_report.py sets `changed` from records added/dropped only.
           # That misses the other reason this run may need a PR: a change to the
@@ -195,7 +201,54 @@ jobs:
             git status --porcelain -- docs/ library/ mkdocs.yml notebooklm_sources/ | head -20
           fi
 
+      - name: Autopilot gate
+        # Decides whether this month's PR can merge itself. Every condition is
+        # something a human would otherwise look for by hand; if all are quiet
+        # the merge is a formality and the site should simply update. If any
+        # is not, the PR waits, and the reason is at the top of its body.
+        #
+        #   * recall guard passed          -- already a hard gate above
+        #   * no records dropped           -- a drop nearly always means a rule changed
+        #   * added <= 40                  -- a broken query shows up as +hundreds
+        #   * agent triage actually ran    -- not skipped by continue-on-error
+        #   * 0 curator-pin conflicts      -- the agent disagreed with a human ruling
+        #   * 0 agent out-of-scope flags   -- a suspected false positive needs eyes
+        id: gate
+        if: steps.report.outputs.changed == 'true'
+        env:
+          ADDED: ${{ steps.report.outputs.added }}
+          DROPPED: ${{ steps.report.outputs.dropped }}
+          TRIAGE_OUTCOME: ${{ steps.triage.outcome }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          gp = ".refresh/triage_gate.json"
+          g = json.load(open(gp)) if os.path.exists(gp) else {}
+          added, dropped = int(os.environ["ADDED"]), int(os.environ["DROPPED"])
+          why = []
+          if dropped:                          why.append(f"{dropped} record(s) dropped")
+          if added > 40:                       why.append(f"{added} added, above the 40-record sanity ceiling")
+          if os.environ["TRIAGE_OUTCOME"] != "success": why.append("agent triage did not run")
+          if g.get("curator_pin_conflicts"):   why.append(f"{g['curator_pin_conflicts']} curator-pin conflict(s)")
+          if g.get("agent_out_of_scope"):      why.append(f"{g['agent_out_of_scope']} record(s) the agent thinks are out of scope")
+          ok = not why
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"automerge={'true' if ok else 'false'}\n")
+              f.write("reasons=" + ("; ".join(why) or "all guards quiet") + "\n")
+          banner = ("## :white_check_mark: Autopilot: merged unattended\n\n"
+                    "Every guard was quiet, so this refresh merged itself and the site "
+                    "redeployed. Nothing needs your attention; the report below is the record.\n\n"
+                    if ok else
+                    "## :hand: Autopilot: held for your review\n\n"
+                    "Not merged automatically because: **" + "; ".join(why) + "**.\n\n"
+                    "Read the relevant section below, then merge -- or fix the rule and re-run.\n\n")
+          body = open(".refresh/pr_body.md", encoding="utf-8").read()
+          open(".refresh/pr_body.md", "w", encoding="utf-8").write(banner + body)
+          print("AUTOPILOT:", "merge" if ok else "HOLD - " + "; ".join(why))
+          PY
+
       - name: Open pull request
+        id: pr
         if: steps.report.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v8
         with:
@@ -219,6 +272,24 @@ jobs:
             +${{ steps.report.outputs.added }} added,
             -${{ steps.report.outputs.dropped }} dropped,
             ${{ steps.report.outputs.total }} total records.
+
+      - name: Autopilot merge
+        if: steps.report.outputs.changed == 'true' && steps.gate.outputs.automerge == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+        run: |
+          gh pr merge "$PR" --merge --delete-branch
+          # A merge made with GITHUB_TOKEN deliberately does not fire push-triggered
+          # workflows (GitHub's loop guard), so the site would NOT redeploy on its
+          # own. Dispatch deploy.yml explicitly.
+          gh workflow run deploy.yml --ref main
+          echo "::notice::Autopilot merged PR #$PR and dispatched the site deploy."
+
+      - name: Autopilot hold
+        if: steps.report.outputs.changed == 'true' && steps.gate.outputs.automerge != 'true'
+        run: |
+          echo "::warning::PR #${{ steps.pr.outputs.pull-request-number }} held for review: ${{ steps.gate.outputs.reasons }}"
 
       - name: Report no-op
         if: steps.report.outputs.changed != 'true'
