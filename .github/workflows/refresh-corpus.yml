@@ -162,30 +162,37 @@ jobs:
           # Append the triage section -- contradiction flags, category
           # disagreements, low-confidence records -- so it lands in the pull
           # request body alongside the corpus diff.
-          if [ "${{ steps.triage.outcome }}" != "success" ]; then
-            {
-              echo
-              echo "## :warning: Agent triage did not run"
-              echo
-              echo "The triage step failed and was skipped. This refresh is"
-              echo "**keyword-categorized only** -- no agent summaries,"
-              echo "category review or contradiction flags for the new records."
-              echo
-              echo "Everything else is unaffected: the corpus, RIS exports and"
-              echo "the NotebookLM pack do not depend on the model. Records"
-              echo "missed here are triaged on the next run automatically."
-              echo
-              echo "Most likely cause is the \`ANTHROPIC_API_KEY\` secret."
-              echo "Step log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-            } >> .refresh/pr_body.md
-          elif [ -f .refresh/triage_report.md ]; then
-            cat .refresh/triage_report.md >> .refresh/pr_body.md
-          fi
-          # The single remaining manual step, stated in the PR so it is never
-          # discovered months later from a wrong NotebookLM answer.
-          if [ -f .refresh/notebooklm_note.md ]; then
-            cat .refresh/notebooklm_note.md >> .refresh/pr_body.md
-          fi
+          # Assemble the PR body in reading order and under GitHub's 65,536-char
+          # cap. Order matters: the one manual step (NotebookLM) and any triage
+          # failure go FIRST, because the contradiction-flag section below can
+          # run to tens of thousands of characters and anything after it is
+          # silently truncated -- which is exactly how the NotebookLM section
+          # went missing from PR #18.
+          python3 - <<'PY'
+          import os
+          def rd(p): return open(p, encoding="utf-8").read() if os.path.exists(p) else ""
+          corpus  = rd(".refresh/pr_body.md")
+          nb      = rd(".refresh/notebooklm_note.md")
+          triage  = rd(".refresh/triage_report.md")
+          failed  = "${{ steps.triage.outcome }}" != "success"
+          top = nb
+          if failed:
+              top += ("\n## :warning: Agent triage did not run\n\n"
+                      "The triage step failed and was skipped. This refresh is "
+                      "**keyword-categorized only**. Corpus, RIS and NotebookLM pack are "
+                      "unaffected; records missed here are triaged next run. Check the "
+                      "`ANTHROPIC_API_KEY` secret and the step log: "
+                      "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\n")
+          body = top + corpus + ("" if failed else triage)
+          LIMIT = 60000
+          if len(body) > LIMIT:
+              body = body[:LIMIT] + ("\n\n---\n_Truncated: GitHub caps pull-request bodies at 65,536 "
+                                    "characters. The complete triage report is committed in "
+                                    "`library/triage.json`; every contradiction flag and category "
+                                    "change is preserved there._\n")
+          open(".refresh/pr_body.md", "w", encoding="utf-8").write(body)
+          print(f"pr body: {len(body):,} chars")
+          PY
 
           # ci_refresh_report.py sets `changed` from records added/dropped only.
           # That misses the other reason this run may need a PR: a change to the
