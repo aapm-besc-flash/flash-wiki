@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06",
+ "generated": "2026-09-07",
  "query": "((\"ultra-high dose rate\"[tiab] OR \"ultrahigh dose rate\"[tiab] OR \"ultra-high dose rates\"[tiab] OR \"ultrahigh dose rates\"[tiab] OR \"FLASH radiotherapy\"[tiab] OR \"FLASH-RT\"[tiab] OR \"FLASH radiation\"[tiab] OR \"FLASH irradiation\"[tiab] OR \"FLASH effect\"[tiab] OR \"FLASH proton\"[tiab] OR \"FLASH electron\"[tiab] OR \"very high energy electron\"[tiab] OR \"very high energy electrons\"[tiab] OR \"VHEE\"[tiab] OR (\"FLASH\"[tiab] AND (\"dose rate\"[tiab] OR \"radiotherapy\"[tiab] OR \"radiation therapy\"[tiab] OR \"irradiation\"[tiab] OR \"Gy/s\"[tiab] OR \"conventional dose rate\"[tiab]))) OR ((FLASH[tiab] OR eFLASH[tiab] OR pFLASH[tiab] OR \"FLASH-RT\"[tiab] OR UHDR[tiab] OR \"UHDR-RT\"[tiab] OR \"ultra high dose rate*\"[tiab] OR \"ultra-high dose rate*\"[tiab] OR \"ultrahigh dose rate*\"[tiab] OR \"ultra fast dose rate*\"[tiab] OR \"ultrafast dose rate*\"[tiab]) AND (radiotherap*[tiab] OR \"radiation therap*\"[tiab] OR irradiat*[tiab] OR radiobiolog*[tiab] OR dosimetr*[tiab] OR \"Radiotherapy\"[mh] OR \"Radiotherapy Dosage\"[mh] OR \"Radiotherapy, High-Energy\"[mh] OR \"Radiation Dosage\"[mh])))",
  "n": 1250,
  "records": [
@@ -27,7 +27,15 @@
     "Treatment Planning & Optimization",
     "Radiobiology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699310/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699310/",
+   "category_keyword": "Treatment Planning & Optimization",
+   "summary": "A treatment planning study evaluating phase-targeted proton therapy for lung cancer in 20 previously treated patients. The authors developed one-phase and multiple-phase plans based on 4D-CT scans and compared dose-volume parameters and normal tissue complication probabilities across breathing phases. Compared to conventional planning, phase-targeted plans reduced mean lung dose (−0.7 GyE), mean heart dose (−0.4 GyE), and mean esophagus dose (−0.9 GyE), with phase-dependent optimization opportunities identified for different organs at risk.",
+   "triage": {
+    "confidence": 0.72,
+    "contradictions": [],
+    "reviewer_note": "This paper is peripheral to the FLASH corpus. While the abstract mentions ultra-high dose rate delivery and cites the FLASH effect as motivation (reduced normal tissue damage while maintaining tumor response), the actual study is a conventional treatment planning optimization comparing phase-gated proton therapy strategies. The paper does not report measurements or modeling of dose-rate-dependent radiobiological effects, dosimetric recombination corrections, or any experimental validation of UHDR delivery. The 'UHDR' framing appears to be a future direction or aspirational component of the work rather than its actual subject matter. The planning study itself is conventional in scope. The abstract lacks essential details about the proposed UHDR delivery (dose per pulse, instantaneous dose rate, achievable dose rates, temporal characteristics) that would be needed to evaluate whether the breathing-phase selection strategy is actually feasible or advantageous under UHDR constraints, making it difficult to assess the genuine contribution to UHDR treatment planning.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "42688459",
@@ -66,7 +74,15 @@
     "Radiobiology",
     "Modeling & Mechanisms"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42688459/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42688459/",
+   "category_keyword": "Radiobiology",
+   "summary": "In human papillomavirus-negative SCC-25 head and neck carcinoma biomodels, sequential low-dose FLASH radiotherapy followed by topoisomerase-II inhibitor ARN-24139 enhanced antitumor activity compared to either treatment alone. ARN-24139 alone induced dose-dependent cytotoxicity with IC50 values of 7.3 ± 0.8 µM at 48 h and 7.2 ± 0.5 µM at 72 h in cancer cells while showing limited toxicity in healthy bronchial epithelial cells. In 2D cultures, 3D spheroids, and chorioallantoic membrane tumor models, the combination reduced cell viability at 4 Gy after 8 days and decreased tumor growth and Ki67 expression.",
+   "triage": {
+    "confidence": 0.6,
+    "contradictions": [],
+    "reviewer_note": "Categorized as Radiobiology because the work measures cellular and tumor-endpoint responses to FLASH radiotherapy, albeit in the context of drug combination. Relevance is peripheral because FLASH is not the primary focus—the study is fundamentally about testing a drug-FLASH combination in a new tumor model. The abstract does not specify dose rate (Gy/s), pulse structure, or other UHDR dosimetric parameters, making it impossible to assess dose-rate dependence of the observed effects or to relate findings to registered dose-rate claims. The work reports tumor control and growth inhibition but does not isolate the FLASH effect from the drug effect or compare FLASH against conventional dose rate in the same model. Confidence is moderate due to missing critical UHDR dosimetric context.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "42687884",
@@ -100,7 +116,21 @@
     "Modeling & Mechanisms",
     "Beam Delivery & Technology"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42687884/"
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42687884/",
+   "category_keyword": "Physics & Dosimetry",
+   "summary": "This study evaluated the Exradin A30 parallel-plate ionization chamber as a reference dosimeter for ultra-high dose rate electron beams, using a 9-MeV IntraOp Mobetron delivering up to 9 Gy per pulse and instantaneous dose rates to 2.25 MGy/s. Charge-collection efficiency remained 90–99% across all phantoms, while polarity correction decreased from 0.990 to 0.981 in liquid and solid water with increasing dose-per-pulse. The A30 exhibited 5% recombination at dose-per-pulse up to 5 Gy, and with appropriate recombination corrections and grounded solid phantoms, was found suitable for reference dosimetry at ultra-high dose rate.",
+   "triage": {
+    "confidence": 0.92,
+    "contradictions": [
+     {
+      "claim_id": "DOS-001",
+      "nature": "qualifies",
+      "explanation": "The paper confirms that ionization chambers require dose-per-pulse-dependent recombination correction at ultra-high dose rate, but reports that with the A30's ultra-thin electrode spacing, recombination remains modest (5% at 5 Gy per pulse) and charge-collection efficiency stays high (90–99%), suggesting that suitable correction is achievable and the A30 is viable for reference dosimetry with appropriate corrections applied."
+     }
+    ],
+    "reviewer_note": "The paper directly addresses DOS-001 and DOS-002 claims. It provides empirical measurements of recombination and polarity effects across a range of dose-per-pulse values on a commercial chamber, constituting a reference-dosimetry study at genuine UHDR conditions. The magnitude of the Mobetron dose rate (2.25 MGy/s) and dose-per-pulse (up to 9 Gy) establishes this as core UHDR physics work. Confidence is high; the abstract provides sufficient technical detail on measurement conditions, corrections, and findings.",
+    "model": "claude-haiku-4-5-20251001"
+   }
   },
   {
    "pmid": "42678484",

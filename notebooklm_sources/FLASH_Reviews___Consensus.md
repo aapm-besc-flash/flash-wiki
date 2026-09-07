@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Reviews & Consensus
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-06. 208 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-07. 208 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
