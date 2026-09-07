@@ -723,6 +723,29 @@ CURATOR_OVERRIDES = {
     "10560342": None,  # MRI-vs-CT prostate planning; FLASH is the MR sequence.
                        # Escapes the MRI rule because "linac"/"absorbed dose"
                        # vocabulary trips the MR-linac dosimetry guard.
+
+    # --- WG ruling 6 Sep 2026: passing mention, not a subject ------------
+    # Adopted scope requires ultra-high dose rate to be an object of study,
+    # not merely cited (see Scope in README.md). These fifteen are squarely
+    # radiation oncology but mention FLASH once, as a future direction or a
+    # comparison. They cannot be separated from in-scope work by any keyword
+    # rule -- both carry 1-2 mentions and no title mention -- so they are
+    # adjudicated individually. Reviewed record by record by the WG lead.
+    "32351224": None,  # Microscope cover-slip glass for TLD applications.
+    "33438674": None,  # High quality proton portal imaging using deep learning for proton radiation th
+    "34626533": None,  # Target motion management in breast cancer radiation therapy.
+    "35256424": None,  # Imaging to optimize gynecological radiation oncology.
+    "36632979": None,  # Proton radiotherapy for glioma and glioblastoma.
+    "36980750": None,  # Non-Surgical Definitive Treatment for Operable Breast Cancer: Current Status a
+    "37371723": None,  # Uncovering the Secrets of Prostate Cancer's Radiotherapy Resistance: Advances 
+    "39477388": None,  # Chemical Carcinogen (3-Methylcholanthrene)-induced Pleomorphic Rhabdomyosarcom
+    "40385936": None,  # Deep learning-based Fast Volumetric Image Generation for Image-guided Proton R
+    "40508209": None,  # A Comprehensive Review of Radiotherapy-Induced Coronary Artery Disease-Epidemi
+    "40563571": None,  # Combined Radiation and Endocrine Therapies Elicit Benefit in ER+ Breast Cancer
+    "40904495": None,  # Radiotherapy for primary bone tumors: current techniques and integration of ar
+    "41437387": None,  # Preclinical validation of a clinical prototype of intraoperative electron FLAS
+    "42078815": None,  # Modern proton therapy in prostate cancer: precision in practice.
+    "42265951": None,  # Proton Beam Therapy in Prostate Cancer: Clinical Evidence, Controversies and F
     # --- forced re-categorizations ---
     "13663981": "Beam Delivery & Technology",  # X-ray flash tube, ultrahigh dosage (1959)
     "5307280":  "Radiobiology",  # Repair time of chromosome breaks, pulsed x-rays UHDR
