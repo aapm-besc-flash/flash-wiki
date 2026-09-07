@@ -3,7 +3,9 @@
 A continuously updated, categorized corpus of MEDLINE-indexed FLASH radiotherapy
 literature, maintained by the **AAPM BESC FLASH Working Group**.
 
-Generated 2026-08-02 - 1,309 curated FLASH-RT records.
+Live site: **https://aapm-besc-flash.github.io/flash-wiki/** — the current record
+count and category breakdown are on its front page; this file does not repeat
+them because it would go stale.
 
 ## Scope
 
@@ -75,21 +77,50 @@ individually in `CURATOR_OVERRIDES`.
 
 ## How updates work
 
-The corpus refreshes itself. `refresh-corpus.yml` runs on the 1st of each month:
-it snapshots the current PMID set, re-harvests PubMed, rebuilds the site, and
-opens a **pull request** summarizing what changed - records added, and records
-that dropped out.
+The corpus runs on autopilot. `refresh-corpus.yml` fires on the 1st of each
+month and does everything: snapshots the PMID set, re-harvests PubMed, runs the
+recall guard, sends new records to the triage agent (Haiku, batch pricing, about
+a dollar a month during backfill and pennies after), rebuilds the site, the RIS
+exports and the NotebookLM pack, and opens a pull request describing the change.
 
-Nothing is published without a human merging that PR. Merging to `main` triggers
-`deploy.yml`, which republishes the site.
+### When it merges itself, and when it waits
 
-**The dropped-records list is the one to read.** A record leaving the corpus
-almost always means a screening rule changed, not that anything happened at
-PubMed. Anything that belongs in the corpus goes into `CURATOR_OVERRIDES` in
-`pipeline/flash_harvest.py`.
+The PR **merges itself and redeploys the site** when every guard is quiet:
 
-You can also trigger a refresh any time from the **Actions** tab ->
-*Monthly corpus refresh* -> *Run workflow*.
+| Guard | What it catches |
+|---|---|
+| Recall guard passed | a query or screening regression (hard stop, before any API spend) |
+| 0 records dropped | a rule change that quietly shrank the corpus |
+| ≤ 40 records added | a broken query, which shows up as +hundreds |
+| Agent triage ran | an expired key or outage that left the batch untriaged |
+| 0 curator-pin conflicts | the agent disagreed with a decision a human made |
+| 0 agent out-of-scope flags | a suspected false positive that needs eyes |
+
+If any guard is not quiet, the PR is **held**, with the reason in bold at the
+top of its body. You read the relevant section and merge, or fix the rule and
+re-run. Held PRs are the exception, not the routine.
+
+Auto-merged PRs still exist and still carry the full report, so the audit trail
+is identical either way. **Watch the repository** (top right on GitHub) to be
+emailed each one; with zero watchers, an unattended merge is invisible.
+
+### The one manual step
+
+NotebookLM has no API. Each PR body ends with a **NotebookLM** section that says
+exactly what to do that month: usually *upload this one delta file*, occasionally
+*nothing*, and — whenever papers have been removed — *rebuild the notebook*,
+because a delta can add sources but can never make NotebookLM forget one.
+
+### Guards under the guards
+
+Two things can be edited by hand and outrank everything automatic:
+`CURATOR_OVERRIDES` in `pipeline/flash_harvest.py` (force a record in, out, or
+into a category) and `MUST_BE_PRESENT` / `MUST_BE_ABSENT` in
+`pipeline/test_recall.py` (papers CI must always, or never, find). A curator
+decision is never overridden by the agent.
+
+You can trigger a refresh any time from **Actions** → *Monthly corpus refresh*
+→ *Run workflow*. Set `triage_limit` to `0` for a free rebuild with no API calls.
 
 ## Running the pipeline manually
 
