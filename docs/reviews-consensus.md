@@ -2,7 +2,7 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*208 records. Newest first.*
+*199 records. Newest first.*
 
 ---
 
@@ -329,25 +329,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Proton Beam Therapy in Prostate Cancer: Clinical Evidence, Controversies and Future Directions.
-
-*Gomis-Sellés E, González de Dueñas M, Meca G, García-Marqueta M, Moreno-López S, Albendea Roch J et al.* — Archivos espanoles de urologia (2026)  
-
-<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Proton beam therapy (PBT) offers a unique dosimetric advantage over photon-based external beam radiotherapy by concentrating dose at a certain depth (the Bragg peak) and markedly reducing the exit dose to surrounding normal tissues. This narrative review summarises and evaluates the clinical, dosimetric and radiobiological evidence for PBT in localised and locally advanced prostate cancer (PCa), f…
-
-
-??? note "Abstract"
-    Proton beam therapy (PBT) offers a unique dosimetric advantage over photon-based external beam radiotherapy by concentrating dose at a certain depth (the Bragg peak) and markedly reducing the exit dose to surrounding normal tissues. This narrative review summarises and evaluates the clinical, dosimetric and radiobiological evidence for PBT in localised and locally advanced prostate cancer (PCa), focusing on treatment-related toxicity, oncological outcomes and emerging research directions. Comparative dosimetric studies consistently demonstrate reductions in low-intermediate dose exposure to the bladder and rectum with protons, whereas prospective and large retrospective cohorts report low rates of severe (≥ G3) genitourinary (GU) and gastrointestinal (GI) toxicity, alongside preserved long-term patient-reported quality of life. Meta-analyses reported modest reductions in acute GI events, whilst reporting similar 5-year biochemical control in pooled, heterogeneous series; however, observational and claims-based analyses often fail to demonstrate clear clinical advantages compared with modern intensity-modulated radiation therapy/volumetric modulated arc therapy (IMRT/VMAT). Key radiobiological uncertainties, notably the variable relative biological effectiveness and linear energy transfer (LET) heterogeneity near distal dose fall-off regions, complicate the analysis of toxicity patterns and highlight the need for comprehensive reporting. Limitations of the existing literature include the prevalence of non-randomised designs, heterogeneity in fractionation schedules, inconsistent endpoint definitions and limited use of standardised patient-reported outcomes. The preliminary results of the PARTIQoL randomised clinical trial did not demonstrate significant differences in quality-of-life outcomes between PBT and IMRT/VMAT. Ongoing randomised phase III trials (e.g., Prostate Advanced Radiation Technologies Investigating Quality of Life, Proton Therapy for Postoperative Prostate Cancer Trial and PROton PROstate Trial 1) and advances in adaptive planning, AI-assisted workflows and FLASH (ultra-high dose-rate radiotherapy) dose-rate research are expected to further refine patient selection and treatment delivery. Currently, the routine use of PBT for all patients with localised PCa remains under evaluation; careful patient selection and robust randomised evidence are essential to justify broad clinical implementation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42265951/) · [DOI](https://doi.org/10.56434/j.arch.esp.urol.20267904.63)
-
-
----
-
 ### Advanced radiotherapy and systemic therapy in head and neck adenoid cystic carcinoma: Current progress and future integrated strategies.
 
 *Liu L, Zhou X, Li L, Yang J, Tan M* — Translational oncology (2026)  
@@ -382,25 +363,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42101631/) · [DOI](https://doi.org/10.1007/s00210-026-05320-x)
-
-
----
-
-### Modern proton therapy in prostate cancer: precision in practice.
-
-*Yacoub I, Khalil J, Wei S, Hsieh K, Chhabra AM, Mehta KJ et al.* — Frontiers in oncology (2026)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Proton therapy (PT) is an advanced form of radiation therapy that exploits the physical properties of the Bragg peak to deliver highly conformal dose distributions while minimizing radiation exposure to surrounding normal tissues. This precision is particularly relevant in prostate cancer, where critical organs at risk, including the rectum, bladder, bowel, and penile bulb, are in close proximity …
-
-
-??? note "Abstract"
-    Proton therapy (PT) is an advanced form of radiation therapy that exploits the physical properties of the Bragg peak to deliver highly conformal dose distributions while minimizing radiation exposure to surrounding normal tissues. This precision is particularly relevant in prostate cancer, where critical organs at risk, including the rectum, bladder, bowel, and penile bulb, are in close proximity to the target. This review summarizes the evolution of PT techniques for prostate cancer, from early passively scattered proton therapy (PSPT) to contemporary intensity-modulated proton therapy (IMPT), and evaluates their dosimetric and clinical implications across multiple treatment settings. Dosimetric studies consistently demonstrate that PT, particularly IMPT, reduces integral dose and improves normal tissue sparing compared with photon-based modalities (XRT) such as intensity-modulated radiation therapy (IMRT) and volumetric modulated arc therapy (VMAT), especially in low- to intermediate-dose regions. These advantages are most pronounced for complex target volumes, including pelvic nodal irradiation and focal intraprostatic boosting. Clinical outcomes data for prostate only treatment indicate excellent disease control with low rates of high grade gastrointestinal and genitourinary toxicity. Emerging evidence suggests potential benefits of PT in reducing specific rectal symptoms and lowering the risk of secondary malignancies. For high-risk prostate cancer requiring pelvic irradiation, prospective and registry-based studies demonstrate favorable toxicity profiles with IMPT, supporting its use in extended treatment fields. In the postoperative setting, PT offers dosimetric improvements, though clinical benefits over XRT remain less clearly defined. Additionally, these advancements in technology have allowed for more precise hypofractionated treatment, including proton stereotactic body radiation therapy, without significant increases in genitourinary or gastrointestinal toxicity. Finally, ultra-high dose rate FLASH PT may further enhance the therapeutic ratio. Overall, modern PT represents a highly precise and evolving modality in prostate cancer management, with the potential to optimize oncologic outcomes while preserving long-term quality of life. Further randomized and cost effectiveness studies are needed to fully define its role relative to advanced photon techniques.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42078815/) · [DOI](https://doi.org/10.3389/fonc.2026.1775107) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13132783/)
 
 
 ---
@@ -1089,25 +1051,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Radiotherapy for primary bone tumors: current techniques and integration of artificial intelligence-a review.
-
-*Tong J, Chen D, Li J, Chen H, Yu T* — Frontiers in oncology (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Primary bone tumours remain among the most challenging indications in radiation oncology-not because of anatomical size or distribution, but because curative intent demands ablative dosing alongside stringent normal-tissue preservation. Over the past decade, the therapeutic landscape has shifted markedly.
-
-
-??? note "Abstract"
-    Primary bone tumours remain among the most challenging indications in radiation oncology-not because of anatomical size or distribution, but because curative intent demands ablative dosing alongside stringent normal-tissue preservation. Over the past decade, the therapeutic landscape has shifted markedly. Proton and carbon-ion centres now report durable local control with acceptable late toxicity in unresectable sarcomas. MR-guided linear accelerators enable on-table anatomical visualisation and daily adaptation, permitting margin reduction without prolonging workflow. Emerging ultra-high-dose-rate (FLASH) strategies may further spare healthy bone marrow while preserving tumour lethality; first-in-human studies are underway. Beyond hardware, artificial-intelligence pipelines accelerate contouring, automate plan optimisation, and integrate multi-omics signatures with longitudinal imaging to refine risk stratification in real time. Equally important, privacy-preserving federated learning consortia are beginning to pool sparse datasets across institutions, addressing chronic statistical under-power in rare tumours. Appreciating these convergent innovations is essential for clinicians deciding when and how to escalate dose, for physicists designing adaptive protocols, and for investigators planning the next generation of biology-driven trials. This narrative review synthesises recent technical and translational advances and outlines practical considerations, evidence gaps, and research priorities on the path to truly individualised, data-intelligent radiotherapy for primary bone tumours.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40904495/) · [DOI](https://doi.org/10.3389/fonc.2025.1648849) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12401980/)
-
-
----
-
 ### The Biophysics of Flash Radiotherapy: Tools for Measuring Tumor and Normal Tissues Microenvironment.
 
 *Ali IG, El Naqa I* — Antioxidants (Basel, Switzerland) (2025)  
@@ -1275,25 +1218,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40512188/) · [DOI](https://doi.org/10.1007/s00249-025-01765-9) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12678480/)
-
-
----
-
-### A Comprehensive Review of Radiotherapy-Induced Coronary Artery Disease-Epidemiology, Biological Mechanisms, and Preventive Strategies.
-
-*Daher J, Rizza A, Tonacci A, Borghini A* — International journal of molecular sciences (2025)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Radiation-induced cardiac toxicity is a recognized complication in patients undergoing thoracic radiotherapy. A crucial manifestation of this toxicity is the damage caused to coronary arteries, which can result in accelerated atherosclerosis that may remain undetected for many years.
-
-
-??? note "Abstract"
-    Radiation-induced cardiac toxicity is a recognized complication in patients undergoing thoracic radiotherapy. A crucial manifestation of this toxicity is the damage caused to coronary arteries, which can result in accelerated atherosclerosis that may remain undetected for many years. As cancer survival rates continue to improve, the incidence of radiation-induced coronary artery disease (RICAD) is increasing, making it one of the leading causes of morbidity and mortality among patients treated with radiotherapy for mediastinal cancers. The pathophysiology of RICAD involves a complex interplay of cellular mechanisms, including endothelial dysfunction, inflammation, and fibrosis. These processes are related to several molecular insults such as DNA damage, telomere erosion, and mitochondrial dysfunction. However, to fully understand the initiation and progression of the disease, further research is critical to uncover additional contributing factors. Different strategies for preventing cardiovascular complications in cancer patients are gaining significant attention. Recent advancements in radiotherapy, particularly the new FLASH radiotherapy technique, show promise in reducing the incidence of these complications. This review focuses on the effects of radiotherapy on coronary artery disease, exploring the underlying cellular and molecular mechanisms, as well as potential strategies to prevent RICAD.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40508209/) · [DOI](https://doi.org/10.3390/ijms26115401) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12155426/)
 
 
 ---
@@ -2457,25 +2381,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Uncovering the Secrets of Prostate Cancer&#x27;s Radiotherapy Resistance: Advances in Mechanism Research.
-
-*Lyu F, Shang SY, Gao XS, Ma MW, Xie M, Ren XY et al.* — Biomedicines (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Prostate cancer (PCa) is a critical global public health issue with its incidence on the rise. Radiation therapy holds a primary role in PCa treatment; however, radiation resistance has become increasingly challenging as we uncover more about PCa&#x27;s pathogenesis.
-
-
-??? note "Abstract"
-    Prostate cancer (PCa) is a critical global public health issue with its incidence on the rise. Radiation therapy holds a primary role in PCa treatment; however, radiation resistance has become increasingly challenging as we uncover more about PCa&#x27;s pathogenesis. Our review aims to investigate the multifaceted mechanisms underlying radiation therapy resistance in PCa. Specifically, we will examine how various factors, such as cell cycle regulation, DNA damage repair, hypoxic conditions, oxidative stress, testosterone levels, epithelial-mesenchymal transition, and tumor stem cells, contribute to radiation therapy resistance. By exploring these mechanisms, we hope to offer new insights and directions towards overcoming the challenges of radiation therapy resistance in PCa. This can also provide a theoretical basis for the clinical application of novel ultra-high-dose-rate (FLASH) radiotherapy in the era of PCa.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/37371723/) · [DOI](https://doi.org/10.3390/biomedicines11061628) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10296152/)
-
-
----
-
 ### Smart Radiotherapy Biomaterials for Image-Guided In Situ Cancer Vaccination.
 
 *Ainsworth V, Moreau M, Guthier R, Zegeye Y, Kozono D, Swanson W et al.* — Nanomaterials (Basel, Switzerland) (2023)  
@@ -2628,25 +2533,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Non-Surgical Definitive Treatment for Operable Breast Cancer: Current Status and Future Prospects.
-
-*Shibamoto Y, Takano S* — Cancers (2023)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** This article reviews the results of various non-surgical curative treatments for operable breast cancer. Radiotherapy is considered the most important among such treatments, but conventional radiotherapy alone and concurrent chemoradiotherapy do not achieve high cure rates.
-
-
-??? note "Abstract"
-    This article reviews the results of various non-surgical curative treatments for operable breast cancer. Radiotherapy is considered the most important among such treatments, but conventional radiotherapy alone and concurrent chemoradiotherapy do not achieve high cure rates. As a radiosensitization strategy, intratumoral injection of hydrogen peroxide before radiation has been investigated, and high local control rates (75-97%) were reported. The authors treated 45 patients with whole-breast radiotherapy, followed by stereotactic or intensity-modulated radiotherapy boost, with or without a radiosensitization strategy employing either hydrogen peroxide injection or hyperthermia plus oral tegafur-gimeracil-oteracil potassium. Stages were 0-I in 23 patients, II in 19, and III in 3. Clinical and cosmetic outcomes were good, with 5-year overall, progression-free, and local recurrence-free survival rates of 97, 86, and 88%, respectively. Trials of carbon ion radiotherapy are ongoing, with promising interim results. Radiofrequency ablation, focused ultrasound, and other image-guided ablation treatments yielded complete ablation rates of 20-100% (mostly ≥70%), but long-term cure rates remain unclear. In these treatments, combination with radiotherapy seems necessary to treat the extensive intraductal components. Non-surgical treatment of breast cancer is evolving steadily, with radiotherapy playing a major role. In the future, proton therapy with the ultra-high-dose-rate FLASH mode is expected to further improve outcomes.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36980750/) · [DOI](https://doi.org/10.3390/cancers15061864) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10046665/)
-
-
----
-
 ### Novel unconventional radiotherapy techniques: Current status and future perspectives - Report from the 2nd international radiation oncology online seminar.
 
 *Tubin S, Vozenin MC, Prezado Y, Durante M, Prise KM, Lara PC et al.* — Clinical and translational radiation oncology (2023)  
@@ -2681,25 +2567,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36758965/) · [DOI](https://doi.org/10.1002/mp.16271) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11056953/)
-
-
----
-
-### Proton radiotherapy for glioma and glioblastoma.
-
-*Goff KM, Zheng C, Alonso-Basanta M* — Chinese clinical oncology (2022)  
-
-<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Radiotherapy (RT) continues to be an important component of treatment of glioma, particularly high-grade glioma and glioblastoma multiforme (GBM). GBM is one of the most aggressive central nervous system (CNS) tumors, with high rates of recurrence and very low rates of long-term survival.
-
-
-??? note "Abstract"
-    Radiotherapy (RT) continues to be an important component of treatment of glioma, particularly high-grade glioma and glioblastoma multiforme (GBM). GBM is one of the most aggressive central nervous system (CNS) tumors, with high rates of recurrence and very low rates of long-term survival. However, outcomes in these patients are improving with modern genetic profiling and multimodal therapy, which leads to more consideration for the risk for toxicities associated with traditional photon-based RT. Proton therapy (PT) is an increasingly available method to reduce off-target irradiation in CNS tumors due to the intrinsic properties of heavy-particle irradiation. Here, we review currently available data examining the used of PT in glioma patients, including dose escalation for GBM, re-irradiation (reRT) of recurrent glioma, and the potential cognitive sparing effects of conventional dose PT. We discuss the incorporation of PT into the multimodal therapy of GBM patients, and how the aggressive nature of the disease poses a unique challenge to PT study design. We also describe how PT may provide the most feasible method for implementing high rate &#x27;FLASH&#x27; RT and the implications for glioma patients. We conclude with a discussion of ongoing clinical trials, the necessity of continued research, and how we interpret and incorporate available data into our current practice.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36632979/) · [DOI](https://doi.org/10.21037/cco-22-92)
 
 
 ---
@@ -3046,25 +2913,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Imaging to optimize gynecological radiation oncology.
-
-*Kidd EA* — International journal of gynecological cancer : official journal of the International Gynecological Cancer Society (2022)  
-
-<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Gynecological cancers have particularly benefited from the increasing use of imaging to guide radiation treatment planning for both external beam radiation and brachytherapy. While the different gynecological cancers have varying use of imaging, certain trends predominate.
-
-
-??? note "Abstract"
-    Gynecological cancers have particularly benefited from the increasing use of imaging to guide radiation treatment planning for both external beam radiation and brachytherapy. While the different gynecological cancers have varying use of imaging, certain trends predominate. CT represents an economical choice for evaluating initial disease extent or potential metastasis at follow-up, particularly for endometrial and ovarian cancers. F-fluorodeoxyglucose (FDG) positron emission tomography (PET)/CT is particularly useful for assessing the initial disease extent and longer term treatment response of squamous predominant cancers, including cervical, vaginal, and vulvar cancers. With its excellent pelvic soft tissue discrimination, MRI provides the greatest assistance in evaluating the local extent of gynecological tumors, including initial evaluation for non-operative endometrial and vulvar cancer, and assessment before, after and during brachytherapy for cervix, locally recurrent endometrial, and primary vaginal cancers. With more limited availability of MRI, ultrasound can also help guide brachytherapy, particularly during procedures. The benefits of using imaging to better spare bone marrow or earlier assessment of treatment response are topics still being explored, in particular for cervical cancer. As imaging along with radiation oncology technologies continue to evolve and develop, such as with MRI-linacs and ultra high dose rate (FLASH) radiation, we may continue to see increasing use of imaging for advancing gynecological radiation oncology.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35256424/) · [DOI](https://doi.org/10.1136/ijgc-2021-002460)
-
-
----
-
 ### A Comprehensive Analysis of the Relationship Between Dose Rate and Biological Effects in Preclinical and Clinical Studies, From Brachytherapy to Flattening Filter Free Radiation Therapy and FLASH Irradiation.
 
 *Beddok A, Lahaye C, Calugaru V, De Marzi L, Fouillade C, Salvador S et al.* — International journal of radiation oncology, biology, physics (2022)  
@@ -3308,25 +3156,6 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34638424/) · [DOI](https://doi.org/10.3390/cancers13194942) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8507836/)
-
-
----
-
-### Target motion management in breast cancer radiation therapy.
-
-*Piruzan E, Vosoughi N, Mahdavi SR, Khalafi L, Mahani H* — Radiology and oncology (2021)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span>
-
-
-**TL;DR.** Over the last two decades, breast cancer remains the main cause of cancer deaths in women. To treat this type of cancer, radiation therapy (RT) has proved to be efficient.
-
-
-??? note "Abstract"
-    BACKGROUND: Over the last two decades, breast cancer remains the main cause of cancer deaths in women. To treat this type of cancer, radiation therapy (RT) has proved to be efficient. RT for breast cancer is, however, challenged by intrafractional motion caused by respiration. The problem is more severe for the left-sided breast cancer due to the proximity to the heart as an organ-at-risk. While particle therapy results in superior dose characteristics than conventional RT, due to the physics of particle interactions in the body, particle therapy is more sensitive to target motion. CONCLUSIONS: This review highlights current and emerging strategies for the management of intrafractional target motion in breast cancer treatment with an emphasis on particle therapy, as a modern RT technique. There are major challenges associated with transferring real-time motion monitoring technologies from photon to particles beams. Surface imaging would be the dominant imaging modality for real-time intrafractional motion monitoring for breast cancer. The magnetic resonance imaging (MRI) guidance and ultra high dose rate (FLASH)-RT seem to be state-of-the-art approaches to deal with 4D RT for breast cancer.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/34626533/) · [DOI](https://doi.org/10.2478/raon-2021-0040) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8647788/)
 
 
 ---

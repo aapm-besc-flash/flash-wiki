@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Treatment Planning & Optimization
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-07. 74 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-07. 73 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -764,18 +764,7 @@ Abstract: Transmission beam (TB) proton therapy (PT) uses single, high energy be
 
 ---
 
-## 70. High quality proton portal imaging using deep learning for proton radiation therapy: a phantom study.
-Authors: Charyyev S, Lei Y, Harms J, Eaton B, McDonald M, Curran WJ, Liu T, Zhou J et al.
-Journal: Biomedical physics & engineering express (2020)
-Identifiers: PMID 33438674; DOI 10.1088/2057-1976/ab8a74; PMC PMC11682722 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/33438674/
-Category: Treatment Planning & Optimization | Tags: Treatment Planning & Optimization, Modeling & Mechanisms
-
-Abstract: Purpose; For shoot-through proton treatments, like FLASH radiotherapy, there will be protons exiting the patient which can be used for proton portal imaging (PPI), revealing valuable information for the validation of tumor location in the beam's-eye-view at native gantry angles. However, PPI has poor inherent contrast and spatial resolution. To deal with this issue, we propose a deep-learning-based method to use kV digitally reconstructed radiographs (DRR) to improve PPI image quality. Method; We used a residual generative adversarial network (GAN) framework to learn the nonlinear mapping between PPIs and DRRs. Residual blocks were used to force the model to focus on the structural differences between DRR and PPI. To assess the accuracy of our method, we used 149 images for training and 30 images for testing. PPIs were acquired using a double-scattered proton beam. The DRRs acquired from CT acted as learning targets in the training process and were used to evaluate results from the proposed method using a six-fold cross-validation scheme. Results; Qualitatively, the corrected PPIs showed enhanced spatial resolution and captured fine details present in the DRRs that are missed in the PPIs. The quantitative results for corrected PPIs show average normalized mean error (NME), normalized mean absolute error (NMAE), peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) index of -0.1%, 0.3%, 39.14 dB, and 0.987, respectively. Conclusion; The results indicate the proposed method can generate high quality corrected PPIs and this work shows the potential to use a deep-learning model to make PPI available in proton radiotherapy. This will allow for beam's-eye-view (BEV) imaging with the particle used for treatment, leading to a valuable alternative to orthogonal x-rays or cone-beam CT for patient position verification.
-
----
-
-## 71. Simultaneous dose and dose rate optimization (SDDRO) for FLASH proton therapy.
+## 70. Simultaneous dose and dose rate optimization (SDDRO) for FLASH proton therapy.
 Authors: Gao H, Lin B, Lin Y, Fu S, Langen K, Liu T, Bradley J
 Journal: Medical physics (2020)
 Identifiers: PMID 33068294; DOI 10.1002/mp.14531
@@ -786,7 +775,7 @@ Abstract: PURPOSE: FLASH radiotherapy (RT) can potentially reduce normal tissue 
 
 ---
 
-## 72. Bringing FLASH to the Clinic: Treatment Planning Considerations for Ultrahigh Dose-Rate Proton Beams.
+## 71. Bringing FLASH to the Clinic: Treatment Planning Considerations for Ultrahigh Dose-Rate Proton Beams.
 Authors: van Marlen P, Dahele M, Folkerts M, Abel E, Slotman BJ, Verbakel WFAR
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 31759074; DOI 10.1016/j.ijrobp.2019.11.011
@@ -797,7 +786,7 @@ Abstract: PURPOSE: Preclinical research into ultrahigh dose rate (eg, ≥40 Gy/s
 
 ---
 
-## 73. Towards FLASH proton therapy: the impact of treatment planning and machine characteristics on achievable dose rates.
+## 72. Towards FLASH proton therapy: the impact of treatment planning and machine characteristics on achievable dose rates.
 Authors: van de Water S, Safai S, Schippers JM, Weber DC, Lomax AJ
 Journal: Acta oncologica (Stockholm, Sweden) (2019)
 Identifiers: PMID 31241377; DOI 10.1080/0284186X.2019.1627416
@@ -808,7 +797,7 @@ Abstract: Background: This study aimed at evaluating spatially varying instantan
 
 ---
 
-## 74. Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.
+## 73. Optimized treatment planning for prostate cancer comparing IMPT, VHEET and 15 MV IMXT.
 Authors: Yeboah C, Sandison GA
 Journal: Physics in medicine and biology (2002)
 Identifiers: PMID 12164585; DOI 10.1088/0031-9155/47/13/305

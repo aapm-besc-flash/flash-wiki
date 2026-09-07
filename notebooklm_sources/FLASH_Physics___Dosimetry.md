@@ -1,5 +1,5 @@
 # FLASH Radiotherapy Literature — Physics & Dosimetry
-AAPM BESC FLASH Working Group. Corpus generated 2026-09-07. 243 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-09-07. 242 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
@@ -2502,18 +2502,7 @@ Abstract: PURPOSE: It has been recently shown that radiotherapy at ultrahigh dos
 
 ---
 
-## 228. Microscope cover-slip glass for TLD applications.
-Authors: Alqahtani A, Sani SFA, Narissa NHA, Alanazi A, Podolyak Z, Nisbet A, Bradley DA
-Journal: Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine (2020)
-Identifiers: PMID 32351224; DOI 10.1016/j.apradiso.2020.109132
-URL: https://pubmed.ncbi.nlm.nih.gov/32351224/
-Category: Physics & Dosimetry | Tags: Physics & Dosimetry
-
-Abstract: As a result of the various evolving needs, thermoluminescence dosimetry is constantly under development, with applications intended in environmental and personal radiation monitoring through to the sensing of radiotherapy and radiation processing doses. In radiotherapy dosimetry challenges include small-field profile evaluation, encompassing the fine beams of radiosurgery, evaluations confronting the steep dose gradients of electronic brachytherapy and the high dose rates of FLASH radiotherapy. Current work concerns the thermoluminescent dosimetric properties of commercial low-cost borosilicate glass in the form of thin (sub-mm to a few mm) plates, use being made of microscope cover-slips irradiated using clinical external-beam radiotherapy facilities as well as through use of 60Co gamma irradiators. In using megavoltage photons and MeV electrons, characterization of the dosimetric response has been made for cover-slips of thicknesses up to 4 mm. Reproducibility to within +/5% has been obtained. In particular, for doses up to 10 Gy, the borosilicate cover-slips have been demonstrated to have considerable potential for use in high spatial resolution radiotherapy dosimetry, down to 0.13 mm in present work, with a coefficient of determination in respect of linearity of >0.99 for the thinner cover-slips. Results are also presented for 0.13- and 1.00-mm thick cover slips irradiated to 60Co gamma-ray doses, initially in the range 5- to 25 Gy, subsequently extended to 5 kGy-25 kGy, again providing linear response.
-
----
-
-## 229. A comparative dosimetry study of an alanine dosimeter with a PTW PinPoint chamber at ultra-high dose rates of synchrotron radiation.
+## 228. A comparative dosimetry study of an alanine dosimeter with a PTW PinPoint chamber at ultra-high dose rates of synchrotron radiation.
 Authors: Soliman YS, Pellicioli P, Beshir WB, Abdel-Fattah AA, Fahim RA, Krisch M, Bräuer-Krisch E
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32163884; DOI 10.1016/j.ejmp.2020.03.007
@@ -2524,7 +2513,7 @@ Abstract: The use of synchrotron X-ray sources provides innovative approaches in
 
 ---
 
-## 230. Develop a high energy proton beam position monitor using linear contact image sensor.
+## 229. Develop a high energy proton beam position monitor using linear contact image sensor.
 Authors: Hsiao TY, Niu H, Chen TY, Chen CH
 Journal: MethodsX (2020)
 Identifiers: PMID 32140438; DOI 10.1016/j.mex.2019.100773; PMC PMC7046811 (open access)
@@ -2535,7 +2524,7 @@ Abstract: A compact beam-position monitor was constructed using a linear contact
 
 ---
 
-## 231. Design, Implementation, and in Vivo Validation of a Novel Proton FLASH Radiation Therapy System.
+## 230. Design, Implementation, and in Vivo Validation of a Novel Proton FLASH Radiation Therapy System.
 Authors: Diffenderfer ES, Verginadis II, Kim MM, Shoniyozov K, Velalopoulou A, Goia D, Putt M, Hagan S et al.
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 31928642; DOI 10.1016/j.ijrobp.2019.10.049; PMC PMC7325740 (open access)
@@ -2546,7 +2535,7 @@ Abstract: PURPOSE: Recent studies suggest that ultrahigh-dose-rate, "FLASH," ele
 
 ---
 
-## 232. Technique for inferring angle change as a function of time for high-current electron beams using a dose-rate monitor array.
+## 231. Technique for inferring angle change as a function of time for high-current electron beams using a dose-rate monitor array.
 Authors: Renk TJ, Weber BV, Rittersdorf IM, Webb TJ
 Journal: The Review of scientific instruments (2019)
 Identifiers: PMID 31779426; DOI 10.1063/1.5110413
@@ -2557,7 +2546,7 @@ Abstract: Intense electron beams striking a high-atomic number target produce hi
 
 ---
 
-## 233. On the capabilities of conventional x-ray tubes to deliver ultra-high (FLASH) dose rates.
+## 232. On the capabilities of conventional x-ray tubes to deliver ultra-high (FLASH) dose rates.
 Authors: Bazalova-Carter M, Esplen N
 Journal: Medical physics (2019)
 Identifiers: PMID 31600830; DOI 10.1002/mp.13858
@@ -2568,7 +2557,7 @@ Abstract: PURPOSE: By means of Monte Carlo (MC) simulations and indirect measure
 
 ---
 
-## 234. Treatment of a first patient with FLASH-radiotherapy.
+## 233. Treatment of a first patient with FLASH-radiotherapy.
 Authors: Bourhis J, Sozzi WJ, Jorge PG, Gaide O, Bailat C, Duclos F, Patin D, Ozsahin M et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31303340; DOI 10.1016/j.radonc.2019.06.019
@@ -2579,7 +2568,7 @@ Abstract: BACKGROUND: When compared to conventional radiotherapy (RT) in pre-cli
 
 ---
 
-## 235. Dosimetric and preparation procedures for irradiating biological models with pulsed electron beam at ultra-high dose-rate.
+## 234. Dosimetric and preparation procedures for irradiating biological models with pulsed electron beam at ultra-high dose-rate.
 Authors: Jorge PG, Jaccard M, Petersson K, Gondré M, Durán MT, Desorgher L, Germond JF, Liger P et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31174897; DOI 10.1016/j.radonc.2019.05.004
@@ -2590,7 +2579,7 @@ Abstract: PURPOSE: Preclinical studies using a new treatment modality called FLA
 
 ---
 
-## 236. Simulation and experimental validation of a prototype electron beam linear accelerator for preclinical studies.
+## 235. Simulation and experimental validation of a prototype electron beam linear accelerator for preclinical studies.
 Authors: Lansonneur P, Favaudon V, Heinrich S, Fouillade C, Verrelle P, De Marzi L
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2019)
 Identifiers: PMID 31000086; DOI 10.1016/j.ejmp.2019.03.016
@@ -2601,7 +2590,7 @@ Abstract: PURPOSE: Measurements and Monte-Carlo simulations were carried out to 
 
 ---
 
-## 237. Experimental Set-up for FLASH Proton Irradiation of Small Animals Using a Clinical System.
+## 236. Experimental Set-up for FLASH Proton Irradiation of Small Animals Using a Clinical System.
 Authors: Patriarca A, Fouillade C, Auger M, Martin F, Pouzoulet F, Nauraye C, Heinrich S, Favaudon V et al.
 Journal: International journal of radiation oncology, biology, physics (2018)
 Identifiers: PMID 30017793; DOI 10.1016/j.ijrobp.2018.06.403
@@ -2612,7 +2601,7 @@ Abstract: PURPOSE: Recent in vivo investigations have shown that short pulses o
 
 ---
 
-## 238. Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
+## 237. Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
 Authors: Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, DesRosiers C, Jaroszynski DA
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2017)
 Identifiers: PMID 28506453; DOI 10.1016/j.ejmp.2017.04.029
@@ -2623,7 +2612,7 @@ Abstract: Very high energy electrons (VHEE) in the range from 100 to 250MeV have
 
 ---
 
-## 239. High dose-per-pulse electron beam dosimetry - A model to correct for the ion recombination in the Advanced Markus ionization chamber.
+## 238. High dose-per-pulse electron beam dosimetry - A model to correct for the ion recombination in the Advanced Markus ionization chamber.
 Authors: Petersson K, Jaccard M, Germond JF, Buchillier T, Bochud F, Bourhis J, Vozenin MC, Bailat C
 Journal: Medical physics (2017)
 Identifiers: PMID 28094853; DOI 10.1002/mp.12111
@@ -2634,7 +2623,7 @@ Abstract: PURPOSE: The purpose of this work was to establish an empirical model 
 
 ---
 
-## 240. Assessment of the quality of very high-energy electron radiotherapy planning.
+## 239. Assessment of the quality of very high-energy electron radiotherapy planning.
 Authors: Palma B, Bazalova-Carter M, Hårdemark B, Hynning E, Qu B, Loo BW, Maxim PG
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2016)
 Identifiers: PMID 26898508; DOI 10.1016/j.radonc.2016.01.017
@@ -2645,7 +2634,7 @@ Abstract: BACKGROUND AND PURPOSE: To assess the quality of very-high energy elec
 
 ---
 
-## 241. Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.
+## 240. Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.
 Authors: Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, Evans P, Partridge M, DesRosiers C et al.
 Journal: Physics in medicine and biology (2014)
 Identifiers: PMID 25207591; DOI 10.1088/0031-9155/59/19/5811
@@ -2656,7 +2645,7 @@ Abstract: Very high energy electrons (VHEE) in the range from 100-250 MeV have
 
 ---
 
-## 242. [Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces].
+## 241. [Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces].
 Authors: Tsyb TS, Komarova EV, Malinova IV, Potetnia VI
 Journal: Radiatsionnaia biologiia, radioecologiia (2007)
 Identifiers: PMID 18051688
@@ -2667,7 +2656,7 @@ Abstract: We report here a comparative analysis of RBE for lethality of a single
 
 ---
 
-## 243. Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
+## 242. Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
 Authors: Tillman C, Grafström G, Jonsson AC, Jönsson BA, Mercer I, Mattsson S, Strand SE, Svanberg S
 Journal: Radiology (1999)
 Identifiers: PMID 10580967; DOI 10.1148/radiology.213.3.r99dc13860

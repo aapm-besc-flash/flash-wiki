@@ -2,7 +2,7 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*74 records. Newest first.*
+*73 records. Newest first.*
 
 ---
 
@@ -1466,25 +1466,6 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33924627/) · [DOI](https://doi.org/10.3390/cancers13081859) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8070061/)
-
-
----
-
-### High quality proton portal imaging using deep learning for proton radiation therapy: a phantom study.
-
-*Charyyev S, Lei Y, Harms J, Eaton B, McDonald M, Curran WJ et al.* — Biomedical physics &amp; engineering express (2020)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Purpose; For shoot-through proton treatments, like FLASH radiotherapy, there will be protons exiting the patient which can be used for proton portal imaging (PPI), revealing valuable information for the validation of tumor location in the beam&#x27;s-eye-view at native gantry angles. However, PPI has poor inherent contrast and spatial resolution.
-
-
-??? note "Abstract"
-    Purpose; For shoot-through proton treatments, like FLASH radiotherapy, there will be protons exiting the patient which can be used for proton portal imaging (PPI), revealing valuable information for the validation of tumor location in the beam&#x27;s-eye-view at native gantry angles. However, PPI has poor inherent contrast and spatial resolution. To deal with this issue, we propose a deep-learning-based method to use kV digitally reconstructed radiographs (DRR) to improve PPI image quality. Method; We used a residual generative adversarial network (GAN) framework to learn the nonlinear mapping between PPIs and DRRs. Residual blocks were used to force the model to focus on the structural differences between DRR and PPI. To assess the accuracy of our method, we used 149 images for training and 30 images for testing. PPIs were acquired using a double-scattered proton beam. The DRRs acquired from CT acted as learning targets in the training process and were used to evaluate results from the proposed method using a six-fold cross-validation scheme. Results; Qualitatively, the corrected PPIs showed enhanced spatial resolution and captured fine details present in the DRRs that are missed in the PPIs. The quantitative results for corrected PPIs show average normalized mean error (NME), normalized mean absolute error (NMAE), peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) index of -0.1%, 0.3%, 39.14 dB, and 0.987, respectively. Conclusion; The results indicate the proposed method can generate high quality corrected PPIs and this work shows the potential to use a deep-learning model to make PPI available in proton radiotherapy. This will allow for beam&#x27;s-eye-view (BEV) imaging with the particle used for treatment, leading to a valuable alternative to orthogonal x-rays or cone-beam CT for patient position verification.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33438674/) · [DOI](https://doi.org/10.1088/2057-1976/ab8a74) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11682722/)
 
 
 ---
