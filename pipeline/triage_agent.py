@@ -676,6 +676,18 @@ def main() -> int:
 
     (REFRESH / "triage_report.md").write_text("\n".join(out), encoding="utf-8")
 
+    # Machine-readable counts for the autopilot gate in refresh-corpus.yml.
+    # The gate merges the monthly PR unattended only when every one of these
+    # is zero (plus the deterministic checks it computes itself). Anything
+    # non-zero holds the PR for a human, with the reason in the PR body.
+    (REFRESH / "triage_gate.json").write_text(json.dumps({
+        "curator_pin_conflicts": len(overruled),
+        "agent_out_of_scope": len(suspect),
+        "triaged_this_run": usage.calls,
+        "contradiction_flags": len(flagged),
+        "category_disagreements": len(disagreements),
+    }, indent=1), encoding="utf-8")
+
     print(f"merged {merged}; {len(flagged)} flags, {len(disagreements)} "
           f"disagreements, {len(low_conf)} low-confidence.", file=sys.stderr)
     return 0
