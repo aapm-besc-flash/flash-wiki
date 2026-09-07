@@ -81,6 +81,12 @@ if not first_run:
         first_run = True
 current = {r["pmid"] for r in RECS}
 new_pmids = current - prev_seen
+# Papers that were in the notebook last time and are not in the corpus now.
+# A delta file can only ADD; it cannot make NotebookLM forget these. When this
+# set is non-empty the honest instruction is "rebuild", not "add one file" --
+# the Sep 2026 audit removed 81 records and the notebook kept every one of
+# them until it was rebuilt by hand.
+removed_pmids = prev_seen - current
 
 by_cat = defaultdict(list)
 for r in RECS:
@@ -116,11 +122,19 @@ else:
     os.makedirs(addir, exist_ok=True)
     dn = f"FLASH_NEW_{GEN}.md"
     ncc = Counter(r["category"] for r in newrecs)
+    if removed_pmids:
+        howto = (f"**Do not simply add this file.** {len(removed_pmids)} paper(s) were "
+                 "removed from the corpus since the last update, and a delta cannot "
+                 "remove anything from NotebookLM. Delete every source in the notebook "
+                 "and re-upload the current category files; this delta is then already "
+                 "included. See monthly_additions/FLASH_REMOVED_" + GEN + ".md for the list.\n")
+    else:
+        howto = ("Add this single file to the existing NotebookLM notebook to bring it "
+                 "up to date — the other source files do not need re-uploading.\n")
     dl = [f"# FLASH Radiotherapy — new publications as of {GEN}",
           f"AAPM BESC FLASH Working Group. {len(newrecs)} papers added to the corpus "
           f"since the previous update.\n",
-          "Add this single file to the existing NotebookLM notebook to bring it "
-          "up to date — the other source files do not need re-uploading.\n",
+          howto,
           "## New papers by category\n"]
     dl += [f"- {c}: {n}" for c, n in ncc.most_common()]
     dl.append("\n---\n")
@@ -128,6 +142,24 @@ else:
     dtxt = "\n".join(dl)
     open(os.path.join(addir, dn), "w", encoding="utf-8").write(dtxt)
     delta_note = f"monthly_additions/{dn} — {len(newrecs)} new papers"
+
+if removed_pmids and not first_run:
+    addir = os.path.join(OUT, "monthly_additions")
+    os.makedirs(addir, exist_ok=True)
+    rn = f"FLASH_REMOVED_{GEN}.md"
+    rl = [f"# FLASH Radiotherapy — papers removed from the corpus as of {GEN}",
+          f"AAPM BESC FLASH Working Group. {len(removed_pmids)} paper(s) left the corpus "
+          "since the previous update, usually because a screening rule was tightened "
+          "or a curator excluded them.\n",
+          "NotebookLM cannot un-learn a source. If any of these were uploaded, the "
+          "notebook must be rebuilt: delete all sources, re-upload the current "
+          "category files.\n", "## Removed PMIDs\n"]
+    rl += [f"- https://pubmed.ncbi.nlm.nih.gov/{p}/" for p in sorted(removed_pmids)]
+    open(os.path.join(addir, rn), "w", encoding="utf-8").write("\n".join(rl))
+    rebuild_note = (f"**NotebookLM rebuild required** — {len(removed_pmids)} paper(s) removed; "
+                    f"see monthly_additions/{rn}")
+else:
+    rebuild_note = ""
 
 json.dump({"updated": GEN, "pmids": sorted(current)},
           open(SEEN_PATH, "w", encoding="utf-8"))
@@ -199,3 +231,22 @@ print(f"wrote {len(manifest)+1} NotebookLM sources -> notebooklm_sources/")
 for c, n, w, fn in manifest:
     print(f"  {fn:44s} {n:4d} papers  {w:>8,} words")
 print(f"delta: {delta_note}")
+
+# ---- PR-body fragment: the ONE step autopilot cannot do for you -------------
+# NotebookLM has no API, so uploading the delta is the sole manual action left
+# in the monthly cycle. It has to be asked for somewhere a human will see it,
+# and that place is the pull request -- even an auto-merged one is emailed to
+# repository watchers.
+os.makedirs(".refresh", exist_ok=True)
+nb = ["", "## NotebookLM — the one thing autopilot cannot do", ""]
+if rebuild_note:
+    nb += [rebuild_note, "",
+           "Delete every source in the notebook, then upload the current category "
+           "files from `notebooklm_sources/`. Do **not** add the delta on top."]
+elif new_pmids and not first_run:
+    nb += [f"Upload **`notebooklm_sources/{delta_note.split(' — ')[0]}`** to the notebook. "
+           "One file, one drag. Nothing else needs re-uploading."]
+else:
+    nb += ["Nothing to upload this month."]
+nb += [""]
+open(os.path.join(".refresh", "notebooklm_note.md"), "w", encoding="utf-8").write("\n".join(nb))
