@@ -2,7 +2,45 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*152 records. Newest first.*
+*153 records. Newest first.*
+
+---
+
+### X‑ray FLASH RT inhibits lung cancer bone metastasis via activating CD4⁺ T-cell‑mediated antitumor immunity with modulation of Th17 cell response.
+
+*Huang Y, Wu T, Yang W, Liang YY, Sun YF, Ma CF et al.* — Oncoimmunology (2026)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain.
+
+
+??? note "Abstract"
+    Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain. Here, we report the first application of X-ray FLASH radiotherapy (RT) in treating lung cancer bone metastasis in mice. Using an intratibial LLC-luc cell injection model, mice were treated with FLASH RT (94 Gy/s) or conventional RT (CONV RT, 0.1 Gy/s) via a petal accelerator developed by the Institute of Fluid Physics, China Academy of Engineering Physics. The results demonstrated that X-ray FLASH RT and CONV RT exhibited comparable efficacy in suppressing tumor growth, and both may alleviate osteolytic lesions in mice with lung cancer bone metastasis through CD4⁺ T cell-dependent antitumor responses. However, FLASH RT further attenuated bone destruction by inhibiting osteoclastogenesis, remodeling the bone-tumor microenvironment, and reducing tumor invasion, with lower systemic toxicity. Notably, unlike CONV RT, FLASH RT instigates a distinct DNA damage response that drives oxygen depletion, thereby attenuating ROS accumulation. This mechanistic cascade sequentially suppresses cGAS-STING-NF-κB axis activation and dampens the ensuing inflammatory response. In addition, we observed a reduction in Th17 cell differentiation following FLASH RT compared to CONV RT, which may contribute to the differential efficacy of these two radiation modalities in attenuating lung cancer bone metastasis. Collectively, X-ray FLASH RT provides a promising therapeutic strategy for patients with bone metastases.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42752269/) · [DOI](https://doi.org/10.1080/2162402X.2026.2706271)
+
+
+---
+
+### Gold Nanoparticle-Mediated DNA Damage Under FLASH Electron-Beam Irradiation: A Monte Carlo Study.
+
+*Kim CD, Chow JCL* — Nanomaterials (Basel, Switzerland) (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** FLASH radiotherapy, which delivers radiation at ultrahigh dose rates (UHDRs) exceeding 40 Gy/s, has attracted considerable attention because of its potential to spare normal tissues while maintaining tumour control. Gold nanoparticles (GNPs) are promising radiosensitizers that enhance radiation-induced biological effects through increased production of reactive oxygen species (ROS) and subsequent …
+
+
+??? note "Abstract"
+    FLASH radiotherapy, which delivers radiation at ultrahigh dose rates (UHDRs) exceeding 40 Gy/s, has attracted considerable attention because of its potential to spare normal tissues while maintaining tumour control. Gold nanoparticles (GNPs) are promising radiosensitizers that enhance radiation-induced biological effects through increased production of reactive oxygen species (ROS) and subsequent DNA damage. However, the influence of GNPs on DNA damage under FLASH irradiation remains poorly understood. In this study, Geant4-DNA Monte Carlo simulations were performed to investigate the effects of GNP size and dose rate on DNA damage during UHDR electron-beam irradiation. DNA damage was quantified through both direct and indirect mechanisms based on energy deposition in DNA backbone segments and interactions between radiation-induced radical species and DNA, and was evaluated relative to equivalent water nanoparticle (WNP) controls. The results demonstrated a dose rate-dependent reduction in both relative single-strand breaks (RSSBs) and relative double-strand breaks (RDSBs) arising from direct and indirect DNA damage mechanisms. For the 10 keV monoenergetic model condition, the 10 nm GNP produced the greatest radiosensitization among the particle sizes investigated, with the matched GNP/WNP analysis showing a maximum 5-fold enhancement in direct SSB yields. In contrast, substantially weaker GNP-specific enhancement and no comparable size-dependent effect were observed at 1 MeV. These findings demonstrate that GNP-mediated radiosensitization depends on both nanoparticle size and electron energy under the irradiation conditions investigated. The greater enhancement observed for the 10 nm GNP at 10 keV should therefore not be interpreted as identifying a universally optimal GNP size for FLASH radiotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42726591/) · [DOI](https://doi.org/10.3390/nano16171116) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13567625/)
+
 
 ---
 
@@ -1460,25 +1498,6 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38976841/) · [DOI](https://doi.org/10.1002/mp.17281)
-
-
----
-
-### TOPAS simulation of photoneutrons in radiotherapy: accuracy and speed with variance reduction.
-
-*Ramos-Mendez J, Ortiz CR, Schuemann J, Paganetti H, Faddegon B* — Physics in medicine and biology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Objective. We provide optimal particle split numbers for speeding up TOPAS Monte Carlo simulations of linear accelerator (linac) treatment heads while maintaining accuracy.
-
-
-??? note "Abstract"
-    Objective. We provide optimal particle split numbers for speeding up TOPAS Monte Carlo simulations of linear accelerator (linac) treatment heads while maintaining accuracy. In addition, we provide a new TOPAS physics module for simulating photoneutron production and transport.Approach.TOPAS simulation of a Siemens Oncor linac was used to determine the optimal number of splits for directional bremsstrahlung splitting as a function of the field size for 6 MV and 18 MV x-ray beams. The linac simulation was validated against published data of lateral dose profiles and percentage depth-dose curves (PDD) for the largest square field (40 cm side). In separate simulations, neutron particle split and the custom TOPAS physics module was used to generate and transport photoneutrons, called &#x27;TsPhotoNeutron&#x27;. Verification of accuracy was performed by comparing simulations with published measurements of: (1) neutron yields as a function of beam energy for thick targets of Al, Cu, Ta, W, Pb and concrete; and (2) photoneutron energy spectrum at 40 cm laterally from the isocenter of the Oncor linac from an 18 MV beam with closed jaws and MLC.Main results.The optimal number of splits obtained for directional bremsstrahlung splitting enhanced the computational efficiency by two orders of magnitude. The efficiency decreased with increasing beam energy and field size. Calculated lateral profiles in the central region agreed within 1 mm/2% from measured data, PDD curves within 1 mm/1%. For the TOPAS physics module, at a split number of 146, the efficiency of computing photoneutron yields was enhanced by a factor of 27.6, whereas it improved the accuracy over existing Geant4 physics modules.Significance.This work provides simulation parameters and a new TOPAS physics module to improve the efficiency and accuracy of TOPAS simulations that involve photonuclear processes occurring in high-Zmaterials found in linac components, patient devices, and treatment rooms, as well as to explore new therapeutic modalities such as very-high energy electron therapy.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38657630/) · [DOI](https://doi.org/10.1088/1361-6560/ad4303) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC467037/)
 
 
 ---

@@ -1,6 +1,6 @@
 # NotebookLM source pack
 
-Regenerated automatically 2026-09-07 by `build_notebooklm.py` (part of the monthly refresh). NotebookLM cannot read files from disk, so uploading is manual — but you only ever need to upload the small delta file after the first time.
+Regenerated automatically 2026-09-22 by `build_notebooklm.py` (part of the monthly refresh). NotebookLM cannot read files from disk, so uploading is manual — but you only ever need to upload the small delta file after the first time.
 
 ## First time — build the notebook
 
@@ -18,10 +18,10 @@ The refresh writes a dated file into **`monthly_additions/`** containing *only* 
 
 | Source file | Papers | ~Words |
 |---|---|---|
-| FLASH_Radiobiology.md | 399 | 114,201 |
-| FLASH_Physics___Dosimetry.md | 242 | 87,581 |
-| FLASH_Modeling___Mechanisms.md | 152 | 49,298 |
-| FLASH_Beam_Delivery___Technology.md | 116 | 37,387 |
+| FLASH_Radiobiology.md | 402 | 114,929 |
+| FLASH_Physics___Dosimetry.md | 244 | 88,396 |
+| FLASH_Modeling___Mechanisms.md | 153 | 49,539 |
+| FLASH_Beam_Delivery___Technology.md | 117 | 37,774 |
 | FLASH_Treatment_Planning___Optimization.md | 73 | 27,751 |
 | FLASH_Clinical___Translational.md | 30 | 9,349 |
 | FLASH_Reviews___Consensus.md | 199 | 50,245 |
@@ -39,3 +39,5 @@ All sources are well within NotebookLM's per-source limit (~500,000 words). Note
 - `monthly_additions/FLASH_NEW_2026-08-23.md`
 - `monthly_additions/FLASH_NEW_2026-09-01.md`
 - `monthly_additions/FLASH_NEW_2026-09-06.md`
+- `monthly_additions/FLASH_NEW_2026-09-22.md`
+- `monthly_additions/FLASH_REMOVED_2026-09-22.md`

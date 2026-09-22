@@ -2,7 +2,57 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*399 records. Newest first.*
+*402 records. Newest first.*
+
+---
+
+### Novel Bragg peak FLASH radiotherapy: treatment of base-of-skull tumors within existing clinical guidelines.
+
+*Pennock M, Selvaraj B, Cheng C, Kyler A, Lin H, Hasan S et al.* — Frontiers in oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Proton therapy is commonly delivered for base-of-skull (BOS) tumors to minimize risk of normal-tissue injury. Novel Bragg peak FLASH may improve protection for organs at risk (OARs).
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: Proton therapy is commonly delivered for base-of-skull (BOS) tumors to minimize risk of normal-tissue injury. Novel Bragg peak FLASH may improve protection for organs at risk (OARs). We investigated if proton pencil-beam scanning (PBS) Bragg peak FLASH could achieve comparable dosimetry at ultra-high dose rates to conventional-rate (CONV)-intensity-modulated proton therapy (IMPT) for potential clinical use. MATERIALS AND METHODS: PBS Bragg peak FLASH and CONV-IMPT plans were optimized for 10 consecutive patients with BOS tumor in an in-house treatment-planning system and hypofractionation regimen (30 GyE in five fractions) to assess dosimetric quality while reflecting clinical practice, parameters, and hypothetical fraction doses for FLASH effect. FLASH dose-rate coverage (V 40Gy/s) and dose-rate volume histograms (DRVHs) were quantified across OARs. FLASH (≥40 Gy/s) was achieved with a minimum MU per spot of 300-500 and a minimum spot time (MST) of 0.5 ms. FLASH dose-rate coverage, OAR sparing, and target coverage were averaged across all cases. RESULTS: FLASH generated higher CTV D max than CONV-IMPT (114% vs. 108%). Dose metrics for OARs were comparable between modalities (p &gt; 0.05). Average dose rate (ADR) DRVHs of OARs indicated 74.1% V 40Gy/s FLASH dose-rate coverage without dose threshold, and 94.4% V 40Gy/s FLASH dose-rate coverage with 1-Gy dose threshold. CONCLUSION: PBS Bragg peak FLASH can deliver conformal target dosimetric coverage, ultra-high dose rates, and comparable OAR dosimetry to CONV-IMPT, suggesting that this novel technique is feasible for BOS tumor FLASH radiotherapy. The study supports future research to explore FLASH&#x27;s biological and clinical benefits in BOS tumors and OAR sparing.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42761104/) · [DOI](https://doi.org/10.3389/fonc.2026.1909184) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13585589/)
+
+
+---
+
+### Corrigendum to &quot;Impact of oxygen deprivation on the FLASH effect for skin toxicity in a murine model&quot; \[Radiother. Oncol. 214 (2026) 111277\].
+
+*Hansen AH, Poulsen PR, Kristensen L, Møller VV, Sinha PM, Johansen JG et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)  
+
+<span class="badge tag">Radiobiology</span>
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42759211/) · [DOI](https://doi.org/10.1016/j.radonc.2026.111772)
+
+
+---
+
+### From clinical to synchrotron irradiations: boosting brain cancer treatment though a synergistic combination of TMZ and BrUdR with radiation.
+
+*Hollis C, Khochaiche A, Valceski M, Engels E, Vogel S, Paino J et al.* — International journal of radiation biology (2026)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Purpose DNA incorporated bromodeoxyuridine (BrUdR) can locally enhance tumor damage when irradiated with the optimal energy for the Z of bromine in BrUdR. This research investigates the potential for improved treatment outcomes for brain cancer patients by combining the current standard treatment of radiotherapy and Temozolomide (TMZ) with DNA incorporated BrUdR and irradiation with megavoltage, k…
+
+
+??? note "Abstract"
+    Purpose DNA incorporated bromodeoxyuridine (BrUdR) can locally enhance tumor damage when irradiated with the optimal energy for the Z of bromine in BrUdR. This research investigates the potential for improved treatment outcomes for brain cancer patients by combining the current standard treatment of radiotherapy and Temozolomide (TMZ) with DNA incorporated BrUdR and irradiation with megavoltage, kilovoltage or synchrotron radiations.Materials and methods Clonogenic assay was the endpoint for the assessment of 9LGS gliosarcoma cells pre-exposed to TMZ or BrUdR singly or co-administered. 9LGS cells were irradiated with x-rays at either clinically available low dose rate megavoltage, or orthovoltage and ultra-high dose rate synchrotron radiations. Results were supported by cell cycle, BrUdR uptake, senescence, and γH2AX double strand break analysis.Results BrUdR incorporation increased when combined with TMZ compared to 9LGS treated with BrUdR alone. For all beams tested, increased cell death was observed for 9LGS treated with BrUdR and BrUdR + TMZ with greatest radiosensitivity for 9LGS pre-exposed to BrUdR + TMZ. This correlated with additional incorporation of BrUdR and more cells in the radiosensitive G2/M phase. Maximum radiosensitivity was observed for 9LGS treated with BrUdR + TMZ and irradiated at an ultra-high dose rate.Conclusion This study demonstrated significant and synergistic, increases in cell death are achievable when BrUdR + TMZ treated cells are irradiated with ultra-high dose rate synchrotron radiation, highlighting the potential of this novel combination to treat brain cancer. Of equal significance is that co-administration of BrUdR and TMZ increased cell death with 6 MV irradiation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42720999/) · [DOI](https://doi.org/10.1080/09553002.2026.2728690)
+
 
 ---
 
@@ -52,14 +102,14 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### FLASH Proton Radiotherapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
+### FLASH Proton Radiation Therapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
 
 *Amit U, Bell BA, Hoyek EE, Velalopoulou A, Assenmacher CA, Kim MM et al.* — International journal of radiation oncology, biology, physics (2026)  
 
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** To evaluate the protective effects and therapeutic efficacy of FLASH proton therapy (FR) compared with standard dose-rate proton therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (&gt;40 Gy/s) at identical doses.
+**TL;DR.** To evaluate the protective effects and therapeutic efficacy of FLASH proton radiation therapy (FR) compared with standard proton radiation therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (&gt;40 Gy/s) at identical doses.
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -67,7 +117,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 ??? note "Abstract"
-    PURPOSE: To evaluate the protective effects and therapeutic efficacy of FLASH proton therapy (FR) compared with standard dose-rate proton therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (&gt;40 Gy/s) at identical doses. Longitudinal ocular structure and function were assessed over five months using spectral-domain optical coherence tomography, confocal scanning laser ophthalmoscopy, electroretinography (ERG), and histopathological analysis. Tumor control was evaluated in an intraocular B16F10 melanoma model using bioluminescence imaging and histopathology. RESULTS: Dose-response studies identified 24 Gy as the optimal dose, producing substantial visual impairment with SR (39.5% reduction in rod a-wave amplitude, p&lt;0.001) without inducing complete blindness. SR induced progressive ocular injury, with significant corneal edema evident by 1 month (p&lt;0.0001), advancing to ulceration by 5 months, whereas FR maintained corneal transparency comparable to non-irradiated controls. Consistent with these findings, TUNEL analysis demonstrated markedly increased corneal apoptosis following SR, whereas FR showed minimal apoptotic activity. ERG analysis revealed profound SR-induced functional deterioration by 5 months, with a 76% reduction in rod a-wave, 69% in rod b-wave, and 74% in cone b-wave amplitudes (all p&lt;0.0001), reflecting extensive photoreceptor and bipolar cell dysfunction. FR eyes retained near-normal responses across retinal layers. Histopathology confirmed severe SR-associated pathology, including corneal perforation, uveal inflammation, and retinal disorganization, whereas FR largely preserved ocular architecture. Importantly, FR maintained short-term antitumor efficacy equivalent to SR, with comparable reductions in tumor burden (both p&lt;0.05 vs. controls; p&gt;0.05 SR vs. FR). CONCLUSIONS: FR provides substantial normal tissue protection across multiple ocular compartments while preserving therapeutic efficacy, effectively expanding the therapeutic window for ocular radiotherapy. These findings establish proof-of-principle for clinical translation of FR to improve visual outcomes in patients with ocular and orbital malignancies without compromising tumor control.
+    PURPOSE: To evaluate the protective effects and therapeutic efficacy of FLASH proton radiation therapy (FR) compared with standard proton radiation therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (&gt;40 Gy/s) at identical doses. Longitudinal ocular structure and function were assessed over 5 months using spectral-domain optical coherence tomography, confocal scanning laser ophthalmoscopy, electroretinography, and histopathologic analysis. Tumor control was evaluated in an intraocular B16F10 melanoma model using bioluminescence imaging and histopathology. RESULTS: Dose-response studies identified 24 Gy as the optimal dose, producing substantial visual impairment with SR (39.5% reduction in rod a-wave amplitude, P &lt; .001) without inducing complete blindness. SR-induced progressive ocular injury, with significant corneal edema evident by 1 month (P &lt; .0001), advancing to ulceration by 3 months and complete corneal destruction by 5 months whereas FR maintained corneal transparency comparable to nonirradiated controls. Consistent with these findings, terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling analysis demonstrated markedly increased corneal apoptosis following SR, whereas FR showed minimal apoptotic activity. Electroretinography analysis revealed profound SR-induced functional deterioration by 5 months, with a 76% reduction in rod a-wave, 69% in rod b-wave, and 74% in cone b-wave amplitudes (all P &lt; .0001), reflecting extensive photoreceptor and bipolar cell dysfunction. FR eyes retained near-normal responses across retinal layers. Histopathology confirmed severe SR-associated pathology, including corneal perforation, uveal inflammation, and retinal disorganization, whereas FR largely preserved ocular architecture. Importantly, FR maintained short-term antitumor efficacy equivalent to SR, with comparable reductions in tumor burden (both P &lt; .05 vs controls, P &gt; .05 SR vs FR). CONCLUSIONS: FR provides substantial normal-tissue protection across multiple ocular compartments while preserving therapeutic efficacy, effectively expanding the therapeutic window for ocular radiation therapy. These findings establish proof-of-principle for clinical translation of FR to improve visual outcomes in patients with ocular and orbital malignancies without compromising tumor control.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42648580/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.08.045)
@@ -121,14 +171,14 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
+### Investigation of FLASH Proton Radiation-Induced DNA Double-Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
 
 *Pang D, Kaphle A, Yin L, Bai H, Wells M, Miles D et al.* — International journal of radiation oncology, biology, physics (2026)  
 
 <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-**TL;DR.** This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventio…
+**TL;DR.** This study investigates how free radical scavenger concentration, radiation dose, and linear energy transfer influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional d…
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -136,7 +186,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 ??? note "Abstract"
-    PURPOSE: This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of double strand breaks (DSB) per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10 mM HEPES concentration at the 1 kGy dose; however, at 3 kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10 mM HEPES concentration, this effect is dose-rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer-scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and LET.
+    PURPOSE: This study investigates how free radical scavenger concentration, radiation dose, and linear energy transfer influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of DSBs per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10-mM HEPES concentration at the 1-kGy dose; however, at the 3-kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at the plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10-mM HEPES concentration, this effect is dose rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low-scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher-scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and linear energy transfer.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42556588/) · [DOI](https://doi.org/10.1016/j.ijrobp.2026.07.043)
@@ -217,7 +267,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 *Kunz LV, Almeida A, Knol M, Petit B, Kramár EA, Wood MA et al.* — Cell reports (2026)  
 
-<span class="badge tag">Radiobiology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span>
 
 
 **TL;DR.** To elucidate the early mechanisms underlying the long-term neuroprotective effect of FLASH-RT in the normal brain, spatial transcriptomics (Nanostring) were performed after whole-brain irradiation of C57BL/6J mice with either 1 or 3 fractions of 10 Gy at 5.6 × 106 Gy/s (1 pulse-FLASH) or at conventional dose-rate 0.1 Gy/s. FLASH-RT induced a distinct transcriptomic signature in the cornu ammonis r…
@@ -231,7 +281,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
     To elucidate the early mechanisms underlying the long-term neuroprotective effect of FLASH-RT in the normal brain, spatial transcriptomics (Nanostring) were performed after whole-brain irradiation of C57BL/6J mice with either 1 or 3 fractions of 10 Gy at 5.6 × 106 Gy/s (1 pulse-FLASH) or at conventional dose-rate 0.1 Gy/s. FLASH-RT induced a distinct transcriptomic signature in the cornu ammonis region 3 (CA3) and dentate gyrus (DG) neurons, with upregulation of genes encoding glutamate receptors involved in calcium signaling, long-term potentiation, and mitochondrial OXPHOS. Early transcriptional upregulation of Gria genes translated into increased AMPAR protein levels at 48 h in the DG and CA3 region and sustained higher AMPAR expression at 2 and 4 weeks post-FLASH. These findings support a durable activation of AMPAR. We propose a mechanism to explain FLASH-induced neuroprotection initiated by early calcium influx and subsequent sustained expression of glutamate AMPARs in neurons and/or neural progenitors of the CA3, potentially contributing to long-term cognitive sparing.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42441406/) · [DOI](https://doi.org/10.1016/j.celrep.2026.117670)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42441406/) · [DOI](https://doi.org/10.1016/j.celrep.2026.117670) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13584352/)
 
 
 ---
@@ -815,7 +865,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 *Chugh RM, Bhanja P, Schueddig E, Setianegara J, Lin Y, Guida K et al.* — Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026)  
 
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
 **TL;DR.** Emerging evidence shows that Proton FLASH radiotherapy can spare normal tissues while maintaining anti-tumor efficacy. However, its impact on intestinal stem cells (ISCs) and the gut microbiome remains unclear.
@@ -829,7 +879,7 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
     Emerging evidence shows that Proton FLASH radiotherapy can spare normal tissues while maintaining anti-tumor efficacy. However, its impact on intestinal stem cells (ISCs) and the gut microbiome remains unclear. Gut microbiome influences ISC&#x27;s radiosensitivity. In a mouse model of abdominal irradiation, Proton FLASH exposure exhibited improved survival and less crypt-villus damage compared to Proton Conventional dose rate. Using scRNA-sequencing, we demonstrated that Proton FLASH exposure using pulsed pencil beam scanning spares two distinct ISC populations, Lgr5+ Crypt-based columnar cells (CBCs) and a Ly6a+, Clu+, Areg+, Anxa2+ revival stem cell (revSC) population-by modulating oxidative stress and cell cycle progression. Analysis of α and β-diversity demonstrated that Proton FLASH modulates gut microbiota composition without compromising overall species richness. Notably, Proton FLASH-irradiated mice had higher abundances of Alistipes sp. and Akkermensia sp., both known for protective effects on ISCs and the intestinal mucosa. The role of microbiome in Proton FLASH-mediated sparing effect was further confirmed by fecal microbiota transplantation, where Proton FLASH-donor microbiota demonstrated reduced lethality with protection of crypt villus morphology in recipient mice exposed to Proton Conventional dose rate. Our findings highlight the crucial role of the microbiome in the Proton FLASH-mediated sparing of the mucosal epithelium.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/41902480/) · [DOI](https://doi.org/10.1002/advs.202519249)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41902480/) · [DOI](https://doi.org/10.1002/advs.202519249) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13587989/)
 
 
 ---
