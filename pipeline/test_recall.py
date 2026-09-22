@@ -76,6 +76,12 @@ MUST_BE_ABSENT = {
     "25672612": "Evaluation of the Flash effect in breast irradiation using TomoDir",
     "22225292": "Dosimetric characteristics and quality control tests for the colli",
 
+    # --- Siemens SOMATOM Definition Flash CT scan mode (1) ---
+    # Caught by the `somatom` / `dual-source CT` / `high-pitch` rule, but never
+    # guarded by a specimen until this one reached the NotebookLM source pack
+    # inside a stale FLASH_Uncategorized.md and sat there for five weeks.
+    "41966903": "Matching the protocol to the clinical question in pediatric ",
+
     # --- photodynamic therapy (1) ---
     "41241814": "Flash Photodynamic Therapy - How the Saturation of Photosensitizer",
 
