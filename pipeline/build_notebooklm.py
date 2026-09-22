@@ -108,6 +108,18 @@ for c in CATEGORY_ORDER:
     open(path, "w", encoding="utf-8").write(txt)
     manifest.append((c, len(recs), len(txt.split()), os.path.basename(path)))
 
+# Delete category files whose category no longer has any papers. Dropping a
+# category from CATEGORY_ORDER above only stops it being *written* -- the stale
+# file stays on disk and keeps being uploaded to NotebookLM. FLASH_Uncategorized.md
+# survived five weeks that way (14 Aug -> 22 Sep 2026), carrying a pediatric
+# coronary-CT paper that used the Siemens high-pitch "FLASH" scan mode, long
+# after screening had removed it from the corpus.
+_keep = {m[3] for m in manifest} | {"FLASH_00_Overview_and_Methodology.md"}
+for _f in sorted(os.listdir(OUT)):
+    if _f.startswith("FLASH_") and _f.endswith(".md") and _f not in _keep:
+        os.remove(os.path.join(OUT, _f))
+        print(f"  removed stale category source: {_f}")
+
 # ---- monthly delta file: only what's new since the last run --------------
 delta_note = ""
 if first_run:
