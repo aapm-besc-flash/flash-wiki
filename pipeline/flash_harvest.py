@@ -1051,14 +1051,44 @@ def parse_article(art):
         "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
     }
 
+def _fetch_xml(batch, attempts=4):
+    """efetch one batch of PMIDs and return a parsed XML root.
+
+    NCBI intermittently answers HTTP 200 with a truncated body or an HTML
+    error page.  _get() only retries transport failures, so that payload used
+    to reach ET.fromstring() and abort the whole harvest (run #28, 21 Sep
+    2026).  Validate the XML here, retry, and as a last resort bisect the
+    batch so a single poisoned record cannot cost a monthly run.
+    """
+    url = _url("efetch.fcgi", db="pubmed", id=",".join(batch), retmode="xml")
+    for attempt in range(attempts):
+        try:
+            return ET.fromstring(_get(url))
+        except ET.ParseError as e:
+            print(f"  malformed XML for {len(batch)} PMID(s), "
+                  f"attempt {attempt + 1}/{attempts}: {e}")
+            time.sleep(3 * (attempt + 1))
+    if len(batch) == 1:
+        print(f"  giving up on PMID {batch[0]}")
+        return None
+    mid = len(batch) // 2
+    print(f"  bisecting {len(batch)} PMIDs after repeated malformed XML")
+    root = ET.Element("PubmedArticleSet")
+    for half in (batch[:mid], batch[mid:]):
+        sub = _fetch_xml(half, attempts)
+        if sub is not None:
+            root.extend(sub.findall(".//PubmedArticle"))
+    return root
+
 def efetch(ids):
     out = []
     B = 200
     for i in range(0, len(ids), B):
         batch = ids[i:i+B]
-        url = _url("efetch.fcgi", db="pubmed", id=",".join(batch), retmode="xml")
-        xml = _get(url)
-        root = ET.fromstring(xml)
+        root = _fetch_xml(batch)
+        if root is None:
+            print(f"  WARNING: dropped {len(batch)} PMID(s) after repeated failures")
+            continue
         for art in root.findall(".//PubmedArticle"):
             try:
                 out.append(parse_article(art))
@@ -1066,6 +1096,16 @@ def efetch(ids):
                 print("parse error:", e)
         print(f"  fetched {min(i+B,len(ids))}/{len(ids)}")
         time.sleep(0.0 if API_KEY else 0.34)
+    # A partial harvest must never be written out as if it were the corpus:
+    # downstream every absent PMID looks like a deliberate removal.
+    missing = len(ids) - len(out)
+    if missing > max(10, 0.03 * len(ids)):
+        raise RuntimeError(
+            f"efetch returned {len(out)} of {len(ids)} requested records "
+            f"({missing} missing); refusing to build a corpus from an "
+            "incomplete harvest")
+    if missing:
+        print(f"  note: {missing} of {len(ids)} PMIDs returned no article record")
     return out
 
 def ris_escape(s):
