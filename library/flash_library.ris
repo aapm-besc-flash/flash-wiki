@@ -1,4 +1,205 @@
 TY  - JOUR
+TI  - Novel Bragg peak FLASH radiotherapy: treatment of base-of-skull tumors within existing clinical guidelines.
+AU  - Pennock M
+AU  - Selvaraj B
+AU  - Cheng C
+AU  - Kyler A
+AU  - Lin H
+AU  - Hasan S
+AU  - Chhabra A
+AU  - Choi JI
+AU  - Bakst R
+AU  - Kabarriti R
+AU  - Lee NY
+AU  - Simone CB
+AU  - Kang M
+PY  - 2026
+JO  - Frontiers in oncology
+AB  - BACKGROUND AND PURPOSE: Proton therapy is commonly delivered for base-of-skull (BOS) tumors to minimize risk of normal-tissue injury. Novel Bragg peak FLASH may improve protection for organs at risk (OARs). We investigated if proton pencil-beam scanning (PBS) Bragg peak FLASH could achieve comparable dosimetry at ultra-high dose rates to conventional-rate (CONV)-intensity-modulated proton therapy (IMPT) for potential clinical use. MATERIALS AND METHODS: PBS Bragg peak FLASH and CONV-IMPT plans were optimized for 10 consecutive patients with BOS tumor in an in-house treatment-planning system and hypofractionation regimen (30 GyE in five fractions) to assess dosimetric quality while reflecting clinical practice, parameters, and hypothetical fraction doses for FLASH effect. FLASH dose-rate coverage (V 40Gy/s) and dose-rate volume histograms (DRVHs) were quantified across OARs. FLASH (≥40 Gy/s) was achieved with a minimum MU per spot of 300-500 and a minimum spot time (MST) of 0.5 ms. FLASH dose-rate coverage, OAR sparing, and target coverage were averaged across all cases. RESULTS: FLASH generated higher CTV D max than CONV-IMPT (114% vs. 108%). Dose metrics for OARs were comparable between modalities (p > 0.05). Average dose rate (ADR) DRVHs of OARs indicated 74.1% V 40Gy/s FLASH dose-rate coverage without dose threshold, and 94.4% V 40Gy/s FLASH dose-rate coverage with 1-Gy dose threshold. CONCLUSION: PBS Bragg peak FLASH can deliver conformal target dosimetric coverage, ultra-high dose rates, and comparable OAR dosimetry to CONV-IMPT, suggesting that this novel technique is feasible for BOS tumor FLASH radiotherapy. The study supports future research to explore FLASH's biological and clinical benefits in BOS tumors and OAR sparing.
+DO  - 10.3389/fonc.2026.1909184
+AN  - 42761104
+UR  - https://pubmed.ncbi.nlm.nih.gov/42761104/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Treatment Planning & Optimization
+ER  - 
+
+TY  - JOUR
+TI  - Corrigendum to "Impact of oxygen deprivation on the FLASH effect for skin toxicity in a murine model" [Radiother. Oncol. 214 (2026) 111277].
+AU  - Hansen AH
+AU  - Poulsen PR
+AU  - Kristensen L
+AU  - Møller VV
+AU  - Sinha PM
+AU  - Johansen JG
+AU  - Sørensen BS
+PY  - 2026
+JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
+DO  - 10.1016/j.radonc.2026.111772
+AN  - 42759211
+UR  - https://pubmed.ncbi.nlm.nih.gov/42759211/
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - X‑ray FLASH RT inhibits lung cancer bone metastasis via activating CD4⁺ T-cell‑mediated antitumor immunity with modulation of Th17 cell response.
+AU  - Huang Y
+AU  - Wu T
+AU  - Yang W
+AU  - Liang YY
+AU  - Sun YF
+AU  - Ma CF
+AU  - Tang R
+AU  - Liang RC
+AU  - Zheng XT
+AU  - Luo HW
+AU  - Ding CH
+AU  - Li XA
+AU  - Zhou Y
+PY  - 2026
+JO  - Oncoimmunology
+AB  - Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain. Here, we report the first application of X-ray FLASH radiotherapy (RT) in treating lung cancer bone metastasis in mice. Using an intratibial LLC-luc cell injection model, mice were treated with FLASH RT (94 Gy/s) or conventional RT (CONV RT, 0.1 Gy/s) via a petal accelerator developed by the Institute of Fluid Physics, China Academy of Engineering Physics. The results demonstrated that X-ray FLASH RT and CONV RT exhibited comparable efficacy in suppressing tumor growth, and both may alleviate osteolytic lesions in mice with lung cancer bone metastasis through CD4⁺ T cell-dependent antitumor responses. However, FLASH RT further attenuated bone destruction by inhibiting osteoclastogenesis, remodeling the bone-tumor microenvironment, and reducing tumor invasion, with lower systemic toxicity. Notably, unlike CONV RT, FLASH RT instigates a distinct DNA damage response that drives oxygen depletion, thereby attenuating ROS accumulation. This mechanistic cascade sequentially suppresses cGAS-STING-NF-κB axis activation and dampens the ensuing inflammatory response. In addition, we observed a reduction in Th17 cell differentiation following FLASH RT compared to CONV RT, which may contribute to the differential efficacy of these two radiation modalities in attenuating lung cancer bone metastasis. Collectively, X-ray FLASH RT provides a promising therapeutic strategy for patients with bone metastases.
+DO  - 10.1080/2162402X.2026.2706271
+AN  - 42752269
+UR  - https://pubmed.ncbi.nlm.nih.gov/42752269/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - Pulse width-dependent Monte Carlo source modelling for ultra-high dose rate electron beams.
+AU  - Henao Isaza AM
+AU  - Lopez Paz I
+AU  - Guardiola C
+AU  - Moreno JS
+AU  - Heinrich S
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - OBJECTIVE: The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including pulse width (PW) dependence. APPROACH: Percentage depth dose (PDD) curves and lateral dose profiles were measured in water using a flashDiamond detector for PWs of 1 -5 µs. These data were used to optimized the parametric source model through χ 2 minimization and gamma analysis. Validation was performed using a mouse collimator and PMMA slabs. Relative dose distributions and cumulative dose-volume histograms (cDVHs) were computed in a CT-based voxelised mouse, with and without bolus. MAIN RESULTS: The optimized FLASH source model features a dual-peak energy spectrum with a PW-dependent energy component (7.5-7.8 MeV for 1-5 µs) and low-energy component probability. In conventional mode, a two-component spectrum (1.5 ± 1.0 and 6.8 ± 1.5 MeV) was used. Simulations showed good agreement with measurements (gamma-index 2 mm/2% and < 5% differences for R 50 , R 90 and R p ). Differences in the mouse lung volume receiving at least 95% of the maximum dose (V95 lung ) were 1% across FLASH PWs, increasing to 5% and 12 % in CONV without and with bolus, respectively. Bolus increased V95 lung in FLASH by 17%, indicating improved target coverage. SIGNIFICANCE: A GATE 10 MC-based source model of the ElectronFLASH LINAC was developed for both UHDR (PW-dependent) and conventional modes. Despite PW-dependent energy variations, no significant dosimetric differences were observed between PWs in FLASH in the preclinical mouse model. The model provides a reliable tool for optimization of preclinical irradiation setups for FLASH biological studies in the absence of a treatment planning system (TPS).
+DO  - 10.1088/1361-6560/aea8c4
+AN  - 42748957
+UR  - https://pubmed.ncbi.nlm.nih.gov/42748957/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Treatment Planning & Optimization
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - STAR in a Second: Ultra-High-Dose-Rate Spread-Out Bragg Peak Proton Therapy for Breath-Hold Stereotactic Arrhythmia Radioablation.
+AU  - Ramesh P
+AU  - Schwarz M
+AU  - Colbert C
+AU  - Chen XC
+AU  - Panjwani N
+AU  - Bowen SR
+AU  - Grassberger C
+AU  - Wei C
+AU  - Batnyam U
+AU  - Nazer B
+AU  - Nyflot MJ
+PY  - 2026
+JO  - Advances in radiation oncology
+AB  - PURPOSE: Stereotactic arrhythmia radioablation (STAR) is a noninvasive treatment option for managing ventricular tachycardia (VT). Combined respiratory and cardiac motion requires management with large target volume margins or motion mitigation techniques. Techniques such as beam gating and breath-holds are limited by low-duty cycles, extending treatment times. We investigate the feasibility of ultra-high-dose-rate (UHDR) proton therapy using a spread-out Bragg peak technique with a conformal energy modulator to achieve respiratory and cardiac motion management within a single breath-hold delivery per beam for cardiac ablation, thereby reducing treatment time without compromising anatomic accuracy. METHODS AND MATERIALS: Five ventricular tachycardia cases initially treated on linear accelerators with planning target volumes ranging from 118 to 254 cc were retrospectively planned with UHDR protons on an IBA Proteus Plus system with the ConformalFLASH snout. Plans were contoured on full-inspiration computed tomography phase scans to represent breath-hold anatomy and were planned for 25 Gy in 1 fraction. Plan quality metrics included target coverage (D98%, D2%, V95%) and doses to organs at risk (OARs) such as heart, stomach, and esophagus. An in-house RayStation script was developed to estimate total spot delivery time per beam to assess breath-hold feasibility. Times were validated using logfile-based analysis after delivery on the proton beamline. RESULTS: Each plan was optimized using a combination of 2 to 5 proton fields. Target coverage was comparable with clinical photon intensity modulated radiation therapy plan metrics, demonstrating average (D98%: 2365 cGy [RBE], D2%: 2957 cGy [RBE], V95%: 98.5%). Average maximum doses to the heart, esophagus, and stomach were 3049, 631, and 894 cGy [RBE], respectively. Each field achieved high-dose rates, enabling beam delivery times ranging from 0.37 to 1.29 seconds per field. CONCLUSIONS: UHDR spread-out Bragg peak proton therapy enables conformal cardiac radioablation delivery on the order of a second per beam, which offers the opportunity to manage respiratory and cardiac motion in a single breath hold while achieving clinically acceptable plan quality.
+DO  - 10.1016/j.adro.2026.102150
+AN  - 42746327
+UR  - https://pubmed.ncbi.nlm.nih.gov/42746327/
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Treatment Planning & Optimization
+ER  - 
+
+TY  - JOUR
+TI  - Pulse-resolved spatial dosimetry of ultra-high dose rate electron FLASH beams using optical imaging.
+AU  - Schneider F
+AU  - Bauer CJ
+AU  - Giordano FA
+AU  - Fleckenstein J
+PY  - 2026
+JO  - Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)
+AB  - PURPOSE: Ultra-high dose rate FLASH radiotherapy has shown the potential to reduce normal tissue toxicity while maintaining tumor control. However, investigating the underlying radiobiological mechanisms requires dosimetry systems capable of resolving spatial and temporal characteristics of FLASH beams. In this work, an optical imaging system for pulse-resolved two-dimensional dosimetry of a 10 MeV electron FLASH beam with a PRF of 400 Hz was developed and characterized. METHODS: The system is based on a plastic scintillation plate imaged by a high-speed CMOS camera operating at 800 frames per second. Custom Python software was used for image acquisition and processing, including geometric correction, noise filtering, and automatic frame selection. The luminescence signal was corrected for Cerenkov light contributions and calibrated to absolute dose. The performance of the system was evaluated by comparing absolute dose, depth-dose distributions, and lateral dose profiles with simultaneously irradiated Gafchromic EBT-XD films. RESULTS: The absolute dose measured with the scintillation plate agreed with film within 4%. Comparisons of depth-dose curves and lateral profiles showed mean deviations ranging from 0.3%±2.1% to -5.3%±16.3%, with larger variations mainly attributed to film uncertainties at doses below 3 Gy. The system demonstrated high reproducibility and enabled visualization of individual pulses and pulse gaps during beam delivery. CONCLUSION: The presented optical imaging approach enables real-time, pulse-resolved measurement of both absolute dose and spatial dose distributions in electron FLASH beams. These results demonstrate the potential of scintillation-based optical imaging as a practical tool for beam characterization and as a candidate for a standard in FLASH dosimetry.
+DO  - 10.1016/j.ejmp.2026.107179
+AN  - 42731540
+UR  - https://pubmed.ncbi.nlm.nih.gov/42731540/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Gold Nanoparticle-Mediated DNA Damage Under FLASH Electron-Beam Irradiation: A Monte Carlo Study.
+AU  - Kim CD
+AU  - Chow JCL
+PY  - 2026
+JO  - Nanomaterials (Basel, Switzerland)
+AB  - FLASH radiotherapy, which delivers radiation at ultrahigh dose rates (UHDRs) exceeding 40 Gy/s, has attracted considerable attention because of its potential to spare normal tissues while maintaining tumour control. Gold nanoparticles (GNPs) are promising radiosensitizers that enhance radiation-induced biological effects through increased production of reactive oxygen species (ROS) and subsequent DNA damage. However, the influence of GNPs on DNA damage under FLASH irradiation remains poorly understood. In this study, Geant4-DNA Monte Carlo simulations were performed to investigate the effects of GNP size and dose rate on DNA damage during UHDR electron-beam irradiation. DNA damage was quantified through both direct and indirect mechanisms based on energy deposition in DNA backbone segments and interactions between radiation-induced radical species and DNA, and was evaluated relative to equivalent water nanoparticle (WNP) controls. The results demonstrated a dose rate-dependent reduction in both relative single-strand breaks (RSSBs) and relative double-strand breaks (RDSBs) arising from direct and indirect DNA damage mechanisms. For the 10 keV monoenergetic model condition, the 10 nm GNP produced the greatest radiosensitization among the particle sizes investigated, with the matched GNP/WNP analysis showing a maximum 5-fold enhancement in direct SSB yields. In contrast, substantially weaker GNP-specific enhancement and no comparable size-dependent effect were observed at 1 MeV. These findings demonstrate that GNP-mediated radiosensitization depends on both nanoparticle size and electron energy under the irradiation conditions investigated. The greater enhancement observed for the 10 nm GNP at 10 keV should therefore not be interpreted as identifying a universally optimal GNP size for FLASH radiotherapy.
+DO  - 10.3390/nano16171116
+AN  - 42726591
+UR  - https://pubmed.ncbi.nlm.nih.gov/42726591/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Intracavitary electron radiotherapy with dynamic shielding for rectal cancer: applicator design and dosimetric characterization.
+AU  - Wang J
+AU  - Wang M
+AU  - Wang 王 H鹤
+AU  - Lv J
+AU  - Liu B
+AU  - Li Q
+AU  - Li D
+AU  - Fu D
+AU  - Wang K
+AU  - Fu D
+AU  - Du H
+AU  - Xia X
+AU  - Ma B
+AU  - Ran C
+AU  - Yan W
+AU  - Gai W
+AU  - Zhu K
+AU  - Wang H
+AU  - Yan X
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Intensity-modulated brachytherapy (IMBT) can improve dose conformity for rectal cancer, but current 192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dose localization and enable ultra-high dose-rate delivery without a radioactive source.&#xD;Approach. A cylindrical electron-beam applicator was designed with a high-density shield containing an emission window, a low-Z scatterer, and a polycarbonate guide tube. Applicator geometry was optimized using TOPAS Monte Carlo simulations to minimize radial and distal transmission factors (TFradial and TFdistal). Dosimetric performance was benchmarked against a modified Monte Carlo model based on a commercial 192Ir shielded rectal applicator (Varian GM11004160). A 3D-printed prototype with a stainless-steel shield and resin components was experimentally evaluated using a custom linear accelerator (5 MeV nominal energy, 60 mA peak current, 4 μs pulse width). Dose distributions were measured with EBT-XD radiochromic film.&#xD;Main results. In the modeled homogeneous benchmark geometry, the optimized tungsten applicator achieved a radial transmission factor of approximately 1% at 10 mm from the applicator surface, compared with approximately 20% for the modeled 192Ir reference system. Distal leakage remained below 5% beyond the applicator distal end. Under modeled accelerator conditions, the electron-beam system reached approximately 100 Gy/s at 100 Hz. Superposition of single-dwell dose kernels produced both uniform fields and spatially fractionated radiotherapy patterns with valley-to-peak dose ratios ≤ 0.2. Prototype measurements demonstrated localized directional dose delivery and ultra-high mean dose rates under the reported pulse conditions, while identifying leakage pathways that caused order-of-magnitude differences from simulation.&#xD;Significance. The optimized Monte Carlo model demonstrated improved radial dose localization, radioisotope-free operation, and ultra-high dose-rate capability in homogeneous geometry. Further work is needed for accelerator integration, motion control, inverse planning, and validation in anatomically realistic settings.
+DO  - 10.1088/1361-6560/aea5ce
+AN  - 42722034
+UR  - https://pubmed.ncbi.nlm.nih.gov/42722034/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - From clinical to synchrotron irradiations: boosting brain cancer treatment though a synergistic combination of TMZ and BrUdR with radiation.
+AU  - Hollis C
+AU  - Khochaiche A
+AU  - Valceski M
+AU  - Engels E
+AU  - Vogel S
+AU  - Paino J
+AU  - Potter D
+AU  - Cameron M
+AU  - Barnes M
+AU  - Roughley K
+AU  - Rosenfeld A
+AU  - Lerch M
+AU  - Corde S
+AU  - Tehei M
+PY  - 2026
+JO  - International journal of radiation biology
+AB  - Purpose DNA incorporated bromodeoxyuridine (BrUdR) can locally enhance tumor damage when irradiated with the optimal energy for the Z of bromine in BrUdR. This research investigates the potential for improved treatment outcomes for brain cancer patients by combining the current standard treatment of radiotherapy and Temozolomide (TMZ) with DNA incorporated BrUdR and irradiation with megavoltage, kilovoltage or synchrotron radiations.Materials and methods Clonogenic assay was the endpoint for the assessment of 9LGS gliosarcoma cells pre-exposed to TMZ or BrUdR singly or co-administered. 9LGS cells were irradiated with x-rays at either clinically available low dose rate megavoltage, or orthovoltage and ultra-high dose rate synchrotron radiations. Results were supported by cell cycle, BrUdR uptake, senescence, and γH2AX double strand break analysis.Results BrUdR incorporation increased when combined with TMZ compared to 9LGS treated with BrUdR alone. For all beams tested, increased cell death was observed for 9LGS treated with BrUdR and BrUdR + TMZ with greatest radiosensitivity for 9LGS pre-exposed to BrUdR + TMZ. This correlated with additional incorporation of BrUdR and more cells in the radiosensitive G2/M phase. Maximum radiosensitivity was observed for 9LGS treated with BrUdR + TMZ and irradiated at an ultra-high dose rate.Conclusion This study demonstrated significant and synergistic, increases in cell death are achievable when BrUdR + TMZ treated cells are irradiated with ultra-high dose rate synchrotron radiation, highlighting the potential of this novel combination to treat brain cancer. Of equal significance is that co-administration of BrUdR and TMZ increased cell death with 6 MV irradiation.
+DO  - 10.1080/09553002.2026.2728690
+AN  - 42720999
+UR  - https://pubmed.ncbi.nlm.nih.gov/42720999/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
 TI  - Breathing-phase selection for gated proton therapy in lung cancer towards temporally targeted ultra-high dose rate delivery.
 AU  - Visser SN
 AU  - van Doorn-Wink KCJ
@@ -60,12 +261,12 @@ AU  - Schueler E
 AU  - Khan A
 PY  - 2026
 JO  - ArXiv
-AB  - Reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (>40 Gy/s) is challenging because conventional ionization chambers (ICs) exhibit saturation from ion recombination. The Exradin A30 IC uses an ultra-thin 0.3-mm electrode spacing to improve charge-collection efficiency (CCE). This study evaluated the commercial A30 as a reference dosimeter for UHDR electron beams by characterizing leakage current, CCE, polarity correction (Ppol), and beam-quality correction factors (kQ). Measurements were performed with a 9-MeV IntraOp Mobetron from the accelerator head, achieving up to 9 Gy per pulse (DPP) and an instantaneous dose rate of 2.25 MGy/s. Data were acquired in grounded water-equivalent plastic, distilled water, and saline water. DPP was varied by changing SSD at a fixed 4-μs pulse width, while pulse repetition frequency (PRF) ranged from 5 to 90 Hz. CCE was determined using EBT-XD film under matched UHDR and conventional dose and energy conditions. CCE and Ppol were also evaluated as functions of DPP and PRF in distilled and saline water. Values of kQ were calculated using Monte Carlo simulations and measured in TrueBeam electron beams. Leakage current was <2 fA. Both CCE and Ppol decreased with increasing DPP; however, CCE remained 90-99% across all three phantoms, while Ppol decreased from 0.990 to 0.981 in liquid and solid water. Neither CCE nor Ppol depended on PRF over 5-90 Hz. Measured and calculated kQ values agreed within 0.8% at all energies except 9 MeV, where they differed by 2%. The A30 exhibited 5% recombination at DPP up to 5 Gy in distilled and saline water. Its response in solid phantoms was affected by charge buildup, which was mitigated by grounding. With appropriate CCE corrections and grounded solid phantoms, the commercial A30 is suitable for reference dosimetry in UHDR electron beams.
+AB  - BACKGROUND: Establishing reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (≥ 40 Gy/s) is challenging with conventional reference ionization chambers (IC) due to saturation effects arising from ion recombination. The Exradin A30 IC was introduced to overcome these challenges by utilizing an ultra-thin electrode spacing of 0.3 mm to enhance charge-collection efficiency (CCE). PURPOSE: The aim of this study is to investigate the commercial A30 IC as a reference dosimeter for UHDR electron beams. It explores the dosimetric properties of the A30 IC, including leakage current, CCE, polarity, and beam quality correction factors. METHODS: Several measurements at the IntraOp® Mobetron® were acquired at a 1.5 cm distance from a medical UHDR electron accelerator head to achieve a maximum dose per pulse (DPP) of 9 Gy, and the instantaneous (or intra-pulse) dose rate (IDR) was 2.25 MGy/s using a 9 MeV electron beam. The measurements were obtained in a grounded water-equivalent plastic phantom, distilled water, and saline water. DPP values were adjusted by varying the SSD at a fixed pulse width (4 μs) while the pulse repetition frequency (PRF) was varied between 5 and 90 Hz. The CCE was calculated using EBT-XD radiochromic films under both UHDR and conventional beam conditions at identical dose and energy settings. Both CCE and Ppol were also measured as a function of DPP and PRF in distilled and saline water. Beam quality correction factors,  k Q   , were calculated using Monte Carlo and measured in electron beams from a TrueBeam linear accelerator. RESULTS: The A30 IC exhibited a leakage current of less than 2 fA. Both Ppol and CCE decreased with increasing DPP, with CCE remaining in the 90-99% range across all three phantoms while polarity corrections decreased from 0.99 to 0.981 in both liquid and virtual water, respectively. Both CCE and Ppol were observed to be independent of the PRF, ranging from 5-90 Hz, in distilled and saline water. Measured  k Q   values agreed with calculation to within 0.8% for all energies except 9 MeV, which showed a 2% discrepancy. CONCLUSIONS: The commercial A30 ionization chamber exhibited 5% recombination with DPP of up to 5 Gy in both distilled and saline water. The IC signal in a solid phantom was found to be dependent on charge buildup effects, which can be mitigated by utilizing grounded phantoms. When appropriate CCE corrections are applied, the A30 IC is a suitable reference dosimeter for UHDR electron beams.
 AN  - 42687884
 UR  - https://pubmed.ncbi.nlm.nih.gov/42687884/
 KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Modeling & Mechanisms
 ER  - 
 
 TY  - JOUR
@@ -147,7 +348,7 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - FLASH Proton Radiotherapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
+TI  - FLASH Proton Radiation Therapy Preserves Ocular Structure and Function Without Compromising Antitumor Efficacy.
 AU  - Amit U
 AU  - Bell BA
 AU  - Hoyek EE
@@ -162,12 +363,12 @@ AU  - Dunaief JL
 AU  - Koumenis C
 PY  - 2026
 JO  - International journal of radiation oncology, biology, physics
-AB  - PURPOSE: To evaluate the protective effects and therapeutic efficacy of FLASH proton therapy (FR) compared with standard dose-rate proton therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (>40 Gy/s) at identical doses. Longitudinal ocular structure and function were assessed over five months using spectral-domain optical coherence tomography, confocal scanning laser ophthalmoscopy, electroretinography (ERG), and histopathological analysis. Tumor control was evaluated in an intraocular B16F10 melanoma model using bioluminescence imaging and histopathology. RESULTS: Dose-response studies identified 24 Gy as the optimal dose, producing substantial visual impairment with SR (39.5% reduction in rod a-wave amplitude, p<0.001) without inducing complete blindness. SR induced progressive ocular injury, with significant corneal edema evident by 1 month (p<0.0001), advancing to ulceration by 5 months, whereas FR maintained corneal transparency comparable to non-irradiated controls. Consistent with these findings, TUNEL analysis demonstrated markedly increased corneal apoptosis following SR, whereas FR showed minimal apoptotic activity. ERG analysis revealed profound SR-induced functional deterioration by 5 months, with a 76% reduction in rod a-wave, 69% in rod b-wave, and 74% in cone b-wave amplitudes (all p<0.0001), reflecting extensive photoreceptor and bipolar cell dysfunction. FR eyes retained near-normal responses across retinal layers. Histopathology confirmed severe SR-associated pathology, including corneal perforation, uveal inflammation, and retinal disorganization, whereas FR largely preserved ocular architecture. Importantly, FR maintained short-term antitumor efficacy equivalent to SR, with comparable reductions in tumor burden (both p<0.05 vs. controls; p>0.05 SR vs. FR). CONCLUSIONS: FR provides substantial normal tissue protection across multiple ocular compartments while preserving therapeutic efficacy, effectively expanding the therapeutic window for ocular radiotherapy. These findings establish proof-of-principle for clinical translation of FR to improve visual outcomes in patients with ocular and orbital malignancies without compromising tumor control.
+AB  - PURPOSE: To evaluate the protective effects and therapeutic efficacy of FLASH proton radiation therapy (FR) compared with standard proton radiation therapy (SR) in a preclinical model of ocular irradiation. METHODS AND MATERIALS: Mice received bilateral ocular irradiation with SR (≤1 Gy/s) or FR (>40 Gy/s) at identical doses. Longitudinal ocular structure and function were assessed over 5 months using spectral-domain optical coherence tomography, confocal scanning laser ophthalmoscopy, electroretinography, and histopathologic analysis. Tumor control was evaluated in an intraocular B16F10 melanoma model using bioluminescence imaging and histopathology. RESULTS: Dose-response studies identified 24 Gy as the optimal dose, producing substantial visual impairment with SR (39.5% reduction in rod a-wave amplitude, P < .001) without inducing complete blindness. SR-induced progressive ocular injury, with significant corneal edema evident by 1 month (P < .0001), advancing to ulceration by 3 months and complete corneal destruction by 5 months whereas FR maintained corneal transparency comparable to nonirradiated controls. Consistent with these findings, terminal deoxynucleotidyl transferase-mediated dUTP nick-end labeling analysis demonstrated markedly increased corneal apoptosis following SR, whereas FR showed minimal apoptotic activity. Electroretinography analysis revealed profound SR-induced functional deterioration by 5 months, with a 76% reduction in rod a-wave, 69% in rod b-wave, and 74% in cone b-wave amplitudes (all P < .0001), reflecting extensive photoreceptor and bipolar cell dysfunction. FR eyes retained near-normal responses across retinal layers. Histopathology confirmed severe SR-associated pathology, including corneal perforation, uveal inflammation, and retinal disorganization, whereas FR largely preserved ocular architecture. Importantly, FR maintained short-term antitumor efficacy equivalent to SR, with comparable reductions in tumor burden (both P < .05 vs controls, P > .05 SR vs FR). CONCLUSIONS: FR provides substantial normal-tissue protection across multiple ocular compartments while preserving therapeutic efficacy, effectively expanding the therapeutic window for ocular radiation therapy. These findings establish proof-of-principle for clinical translation of FR to improve visual outcomes in patients with ocular and orbital malignancies without compromising tumor control.
 DO  - 10.1016/j.ijrobp.2026.08.045
 AN  - 42648580
 UR  - https://pubmed.ncbi.nlm.nih.gov/42648580/
-KW  - FLASH:Radiobiology
 KW  - FLASH:Clinical & Translational
+KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
@@ -444,7 +645,7 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Investigation of FLASH Proton Radiation Induced DNA Double Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
+TI  - Investigation of FLASH Proton Radiation-Induced DNA Double-Strand Breaks in Plasmid DNA Using Atomic Force Microscopy.
 AU  - Pang D
 AU  - Kaphle A
 AU  - Yin L
@@ -459,7 +660,7 @@ AU  - Unger K
 AU  - Dritschilo A
 PY  - 2026
 JO  - International journal of radiation oncology, biology, physics
-AB  - PURPOSE: This study investigates how free radical scavenger concentration, radiation dose and linear energy transfer (LET) influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of double strand breaks (DSB) per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10 mM HEPES concentration at the 1 kGy dose; however, at 3 kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10 mM HEPES concentration, this effect is dose-rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer-scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and LET.
+AB  - PURPOSE: This study investigates how free radical scavenger concentration, radiation dose, and linear energy transfer influence FLASH proton radiation-induced DNA double-strand breaks (DSBs) in a cell-free plasmid DNA model, using atomic force microscopy (AFM). METHODS AND MATERIALS: pUC-19 plasmid DNA was prepared in HEPES buffer at concentrations of 2 and 10 mM and irradiated with FLASH or conventional dose rate (CDR) proton beams to doses of 1 or 3 kGy in both plateau and Bragg peak regions. AFM was used to image the irradiated DNA samples, enabling measurement of individual DNA fragments for quantification of fragment size distributions and the number of DSBs per DNA. RESULTS: At 2-mM HEPES concentration, FLASH consistently induced fewer DSBs relative to CDR proton radiation in both plateau and Bragg peak regions. This pattern persisted at 10-mM HEPES concentration at the 1-kGy dose; however, at the 3-kGy dose, FLASH generated more DSBs than CDR radiation. Furthermore, the number of DSBs per plasmid was larger at the Bragg peak than at the plateau for both FLASH and CDR radiation at 2 mM HEPES, whereas at 10-mM HEPES concentration, this effect is dose rate dependent. CONCLUSIONS: AFM-measured DNA fragment distributions and DSB metrics provide nanometer scale benchmarks for comparing FLASH and CDR proton radiation under controlled chemical conditions. At low-scavenger concentrations, FLASH proton radiation consistently yields fewer DSBs than CDR, regardless of dose or beam position. However, this protective effect diminishes at higher-scavenger concentrations and reverses at 3 kGy in both the plateau and Bragg peak regions. These results suggest that the initial DNA damage from FLASH radiation is governed by a synergistic interplay between radical chemistry, total dose, and linear energy transfer.
 DO  - 10.1016/j.ijrobp.2026.07.043
 AN  - 42556588
 UR  - https://pubmed.ncbi.nlm.nih.gov/42556588/
@@ -12549,24 +12750,6 @@ KW  - FLASH:Physics & Dosimetry
 ER  - 
 
 TY  - JOUR
-TI  - Feasibility of determining external beam radiotherapy dose using LuSy dosimeter.
-AU  - Wahabi JM
-AU  - Wong JHD
-AU  - Mahdiraji GA
-AU  - Ung NM
-PY  - 2024
-JO  - Journal of applied clinical medical physics
-AB  - INTRODUCTION: Radiation dose measurement is an essential part of radiotherapy to verify the correct delivery of doses to patients and ensure patient safety. Recent advancements in radiotherapy technology have highlighted the need for fast and precise dosimeters. Technologies like FLASH radiotherapy and magnetic-resonance linear accelerators (MR-LINAC) demand dosimeters that can meet their unique requirements. One promising solution is the plastic scintillator-based dosimeter with high spatial resolution and real-time dose output. This study explores the feasibility of using the LuSy dosimeter, an in-house developed plastic scintillator dosimeter for dose verification across various radiotherapy techniques, including conformal radiotherapy (CRT), intensity-modulated radiation therapy (IMRT), volumetric-modulated arc therapy (VMAT), and stereotactic radiosurgery (SRS). MATERIALS AND METHODS: A new dosimetry system, comprising a new plastic scintillator as the sensing material, was developed and characterized for radiotherapy beams. Treatment plans were created for conformal radiotherapy, IMRT, VMAT, and SRS and delivered to a phantom. LuSy dosimeter was used to measure the delivered dose for each plan on the surface of the phantom and inside the target volumes. Then, LuSy measurements were compared against an ionization chamber, MOSFET dosimeter, radiochromic films, and dose calculated using the treatment planning system (TPS). RESULTS: For CRT, surface dose measurement by LuSy dosimeter showed a deviation of -5.5% and -5.4% for breast and abdomen treatment from the TPS, respectively. When measuring inside the target volume for IMRT, VMAT, and SRS, the LuSy dosimeter produced a mean deviation of -3.0% from the TPS. Surface dose measurement resulted in higher TPS discrepancies where the deviations for IMRT, VMAT, and SRS were -2.0%, -19.5%, and 16.1%, respectively. CONCLUSION: The LuSy dosimeter was feasible for measuring radiotherapy doses for various treatment techniques. Treatment delivery verification enables early error detection, allowing for safe treatment delivery for radiotherapy patients.
-DO  - 10.1002/acm2.14387
-AN  - 38778567
-UR  - https://pubmed.ncbi.nlm.nih.gov/38778567/
-KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Beam Delivery & Technology
-KW  - FLASH:Treatment Planning & Optimization
-KW  - FLASH:Clinical & Translational
-ER  - 
-
-TY  - JOUR
 TI  - Development and characterization of a dedicated dose monitor for ultrahigh-dose-rate scanned carbon-ion beams.
 AU  - Yagi M
 AU  - Shimizu S
@@ -13018,23 +13201,6 @@ DO  - 10.1016/j.ejmp.2024.103360
 AN  - 38692114
 UR  - https://pubmed.ncbi.nlm.nih.gov/38692114/
 KW  - FLASH:Physics & Dosimetry
-KW  - FLASH:Beam Delivery & Technology
-ER  - 
-
-TY  - JOUR
-TI  - TOPAS simulation of photoneutrons in radiotherapy: accuracy and speed with variance reduction.
-AU  - Ramos-Mendez J
-AU  - Ortiz CR
-AU  - Schuemann J
-AU  - Paganetti H
-AU  - Faddegon B
-PY  - 2024
-JO  - Physics in medicine and biology
-AB  - Objective. We provide optimal particle split numbers for speeding up TOPAS Monte Carlo simulations of linear accelerator (linac) treatment heads while maintaining accuracy. In addition, we provide a new TOPAS physics module for simulating photoneutron production and transport.Approach.TOPAS simulation of a Siemens Oncor linac was used to determine the optimal number of splits for directional bremsstrahlung splitting as a function of the field size for 6 MV and 18 MV x-ray beams. The linac simulation was validated against published data of lateral dose profiles and percentage depth-dose curves (PDD) for the largest square field (40 cm side). In separate simulations, neutron particle split and the custom TOPAS physics module was used to generate and transport photoneutrons, called 'TsPhotoNeutron'. Verification of accuracy was performed by comparing simulations with published measurements of: (1) neutron yields as a function of beam energy for thick targets of Al, Cu, Ta, W, Pb and concrete; and (2) photoneutron energy spectrum at 40 cm laterally from the isocenter of the Oncor linac from an 18 MV beam with closed jaws and MLC.Main results.The optimal number of splits obtained for directional bremsstrahlung splitting enhanced the computational efficiency by two orders of magnitude. The efficiency decreased with increasing beam energy and field size. Calculated lateral profiles in the central region agreed within 1 mm/2% from measured data, PDD curves within 1 mm/1%. For the TOPAS physics module, at a split number of 146, the efficiency of computing photoneutron yields was enhanced by a factor of 27.6, whereas it improved the accuracy over existing Geant4 physics modules.Significance.This work provides simulation parameters and a new TOPAS physics module to improve the efficiency and accuracy of TOPAS simulations that involve photonuclear processes occurring in high-Zmaterials found in linac components, patient devices, and treatment rooms, as well as to explore new therapeutic modalities such as very-high energy electron therapy.
-DO  - 10.1088/1361-6560/ad4303
-AN  - 38657630
-UR  - https://pubmed.ncbi.nlm.nih.gov/38657630/
-KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Beam Delivery & Technology
 ER  - 
 

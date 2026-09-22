@@ -2,7 +2,64 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*242 records. Newest first.*
+*244 records. Newest first.*
+
+---
+
+### Pulse width-dependent Monte Carlo source modelling for ultra-high dose rate electron beams.
+
+*Henao Isaza AM, Lopez Paz I, Guardiola C, Moreno JS, Heinrich S* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including pulse width (PW) dependence.
+
+
+??? note "Abstract"
+    OBJECTIVE: The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including pulse width (PW) dependence. APPROACH: Percentage depth dose (PDD) curves and lateral dose profiles were measured in water using a flashDiamond detector for PWs of 1 -5 µs. These data were used to optimized the parametric source model through χ 2 minimization and gamma analysis. Validation was performed using a mouse collimator and PMMA slabs. Relative dose distributions and cumulative dose-volume histograms (cDVHs) were computed in a CT-based voxelised mouse, with and without bolus. MAIN RESULTS: The optimized FLASH source model features a dual-peak energy spectrum with a PW-dependent energy component (7.5-7.8 MeV for 1-5 µs) and low-energy component probability. In conventional mode, a two-component spectrum (1.5 ± 1.0 and 6.8 ± 1.5 MeV) was used. Simulations showed good agreement with measurements (gamma-index 2 mm/2% and &lt; 5% differences for R 50 , R 90 and R p ). Differences in the mouse lung volume receiving at least 95% of the maximum dose (V95 lung ) were 1% across FLASH PWs, increasing to 5% and 12 % in CONV without and with bolus, respectively. Bolus increased V95 lung in FLASH by 17%, indicating improved target coverage. SIGNIFICANCE: A GATE 10 MC-based source model of the ElectronFLASH LINAC was developed for both UHDR (PW-dependent) and conventional modes. Despite PW-dependent energy variations, no significant dosimetric differences were observed between PWs in FLASH in the preclinical mouse model. The model provides a reliable tool for optimization of preclinical irradiation setups for FLASH biological studies in the absence of a treatment planning system (TPS).
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42748957/) · [DOI](https://doi.org/10.1088/1361-6560/aea8c4)
+
+
+---
+
+### Pulse-resolved spatial dosimetry of ultra-high dose rate electron FLASH beams using optical imaging.
+
+*Schneider F, Bauer CJ, Giordano FA, Fleckenstein J* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Ultra-high dose rate FLASH radiotherapy has shown the potential to reduce normal tissue toxicity while maintaining tumor control. However, investigating the underlying radiobiological mechanisms requires dosimetry systems capable of resolving spatial and temporal characteristics of FLASH beams.
+
+
+??? note "Abstract"
+    PURPOSE: Ultra-high dose rate FLASH radiotherapy has shown the potential to reduce normal tissue toxicity while maintaining tumor control. However, investigating the underlying radiobiological mechanisms requires dosimetry systems capable of resolving spatial and temporal characteristics of FLASH beams. In this work, an optical imaging system for pulse-resolved two-dimensional dosimetry of a 10 MeV electron FLASH beam with a PRF of 400 Hz was developed and characterized. METHODS: The system is based on a plastic scintillation plate imaged by a high-speed CMOS camera operating at 800 frames per second. Custom Python software was used for image acquisition and processing, including geometric correction, noise filtering, and automatic frame selection. The luminescence signal was corrected for Cerenkov light contributions and calibrated to absolute dose. The performance of the system was evaluated by comparing absolute dose, depth-dose distributions, and lateral dose profiles with simultaneously irradiated Gafchromic EBT-XD films. RESULTS: The absolute dose measured with the scintillation plate agreed with film within 4%. Comparisons of depth-dose curves and lateral profiles showed mean deviations ranging from 0.3%±2.1% to -5.3%±16.3%, with larger variations mainly attributed to film uncertainties at doses below 3 Gy. The system demonstrated high reproducibility and enabled visualization of individual pulses and pulse gaps during beam delivery. CONCLUSION: The presented optical imaging approach enables real-time, pulse-resolved measurement of both absolute dose and spatial dose distributions in electron FLASH beams. These results demonstrate the potential of scintillation-based optical imaging as a practical tool for beam characterization and as a candidate for a standard in FLASH dosimetry.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42731540/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.107179)
+
+
+---
+
+### Intracavitary electron radiotherapy with dynamic shielding for rectal cancer: applicator design and dosimetric characterization.
+
+*Wang J, Wang M, Wang 王 H鹤, Lv J, Liu B, Li Q et al.* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Intensity-modulated brachytherapy (IMBT) can improve dose conformity for rectal cancer, but current 192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dose …
+
+
+??? note "Abstract"
+    Intensity-modulated brachytherapy (IMBT) can improve dose conformity for rectal cancer, but current 192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dose localization and enable ultra-high dose-rate delivery without a radioactive source.&amp;#xD;Approach. A cylindrical electron-beam applicator was designed with a high-density shield containing an emission window, a low-Z scatterer, and a polycarbonate guide tube. Applicator geometry was optimized using TOPAS Monte Carlo simulations to minimize radial and distal transmission factors (TFradial and TFdistal). Dosimetric performance was benchmarked against a modified Monte Carlo model based on a commercial 192Ir shielded rectal applicator (Varian GM11004160). A 3D-printed prototype with a stainless-steel shield and resin components was experimentally evaluated using a custom linear accelerator (5 MeV nominal energy, 60 mA peak current, 4 μs pulse width). Dose distributions were measured with EBT-XD radiochromic film.&amp;#xD;Main results. In the modeled homogeneous benchmark geometry, the optimized tungsten applicator achieved a radial transmission factor of approximately 1% at 10 mm from the applicator surface, compared with approximately 20% for the modeled 192Ir reference system. Distal leakage remained below 5% beyond the applicator distal end. Under modeled accelerator conditions, the electron-beam system reached approximately 100 Gy/s at 100 Hz. Superposition of single-dwell dose kernels produced both uniform fields and spatially fractionated radiotherapy patterns with valley-to-peak dose ratios ≤ 0.2. Prototype measurements demonstrated localized directional dose delivery and ultra-high mean dose rates under the reported pulse conditions, while identifying leakage pathways that caused order-of-magnitude differences from simulation.&amp;#xD;Significance. The optimized Monte Carlo model demonstrated improved radial dose localization, radioisotope-free operation, and ultra-high dose-rate capability in homogeneous geometry. Further work is needed for accelerator integration, motion control, inverse planning, and validation in anatomically realistic settings.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42722034/) · [DOI](https://doi.org/10.1088/1361-6560/aea5ce)
+
 
 ---
 
@@ -10,10 +67,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 *Alharbi M, Liu K, Hooten B, Holmes S, Alarcon-Nunez S, Radtke J et al.* — ArXiv (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-**TL;DR.** Reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (&gt;40 Gy/s) is challenging because conventional ionization chambers (ICs) exhibit saturation from ion recombination. The Exradin A30 IC uses an ultra-thin 0.3-mm electrode spacing to improve charge-collection efficiency (CCE).
+**TL;DR.** Establishing reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (≥ 40 Gy/s) is challenging with conventional reference ionization chambers (IC) due to saturation effects arising from ion recombination. The Exradin A30 IC was introduced to overcome these challenges by utilizing an ultra-thin electrode spacing of 0.3 mm to enhance charge-collection efficiency (CCE).
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -21,7 +78,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 ??? note "Abstract"
-    Reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (&gt;40 Gy/s) is challenging because conventional ionization chambers (ICs) exhibit saturation from ion recombination. The Exradin A30 IC uses an ultra-thin 0.3-mm electrode spacing to improve charge-collection efficiency (CCE). This study evaluated the commercial A30 as a reference dosimeter for UHDR electron beams by characterizing leakage current, CCE, polarity correction (Ppol), and beam-quality correction factors (kQ). Measurements were performed with a 9-MeV IntraOp Mobetron from the accelerator head, achieving up to 9 Gy per pulse (DPP) and an instantaneous dose rate of 2.25 MGy/s. Data were acquired in grounded water-equivalent plastic, distilled water, and saline water. DPP was varied by changing SSD at a fixed 4-μs pulse width, while pulse repetition frequency (PRF) ranged from 5 to 90 Hz. CCE was determined using EBT-XD film under matched UHDR and conventional dose and energy conditions. CCE and Ppol were also evaluated as functions of DPP and PRF in distilled and saline water. Values of kQ were calculated using Monte Carlo simulations and measured in TrueBeam electron beams. Leakage current was &lt;2 fA. Both CCE and Ppol decreased with increasing DPP; however, CCE remained 90-99% across all three phantoms, while Ppol decreased from 0.990 to 0.981 in liquid and solid water. Neither CCE nor Ppol depended on PRF over 5-90 Hz. Measured and calculated kQ values agreed within 0.8% at all energies except 9 MeV, where they differed by 2%. The A30 exhibited 5% recombination at DPP up to 5 Gy in distilled and saline water. Its response in solid phantoms was affected by charge buildup, which was mitigated by grounding. With appropriate CCE corrections and grounded solid phantoms, the commercial A30 is suitable for reference dosimetry in UHDR electron beams.
+    BACKGROUND: Establishing reliable reference dosimetry for ultra-high dose-rate (UHDR) beams (≥ 40 Gy/s) is challenging with conventional reference ionization chambers (IC) due to saturation effects arising from ion recombination. The Exradin A30 IC was introduced to overcome these challenges by utilizing an ultra-thin electrode spacing of 0.3 mm to enhance charge-collection efficiency (CCE). PURPOSE: The aim of this study is to investigate the commercial A30 IC as a reference dosimeter for UHDR electron beams. It explores the dosimetric properties of the A30 IC, including leakage current, CCE, polarity, and beam quality correction factors. METHODS: Several measurements at the IntraOp® Mobetron® were acquired at a 1.5 cm distance from a medical UHDR electron accelerator head to achieve a maximum dose per pulse (DPP) of 9 Gy, and the instantaneous (or intra-pulse) dose rate (IDR) was 2.25 MGy/s using a 9 MeV electron beam. The measurements were obtained in a grounded water-equivalent plastic phantom, distilled water, and saline water. DPP values were adjusted by varying the SSD at a fixed pulse width (4 μs) while the pulse repetition frequency (PRF) was varied between 5 and 90 Hz. The CCE was calculated using EBT-XD radiochromic films under both UHDR and conventional beam conditions at identical dose and energy settings. Both CCE and Ppol were also measured as a function of DPP and PRF in distilled and saline water. Beam quality correction factors,  k Q   , were calculated using Monte Carlo and measured in electron beams from a TrueBeam linear accelerator. RESULTS: The A30 IC exhibited a leakage current of less than 2 fA. Both Ppol and CCE decreased with increasing DPP, with CCE remaining in the 90-99% range across all three phantoms while polarity corrections decreased from 0.99 to 0.981 in both liquid and virtual water, respectively. Both CCE and Ppol were observed to be independent of the PRF, ranging from 5-90 Hz, in distilled and saline water. Measured  k Q   values agreed with calculation to within 0.8% for all energies except 9 MeV, which showed a 2% discrepancy. CONCLUSIONS: The commercial A30 ionization chamber exhibited 5% recombination with DPP of up to 5 Gy in both distilled and saline water. The IC signal in a solid phantom was found to be dependent on charge buildup effects, which can be mitigated by utilizing grounded phantoms. When appropriate CCE corrections are applied, the A30 IC is a suitable reference dosimeter for UHDR electron beams.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42687884/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13532702/)
@@ -2215,25 +2272,6 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38810619/) · [DOI](https://doi.org/10.1088/1361-6560/ad51c6)
-
-
----
-
-### Feasibility of determining external beam radiotherapy dose using LuSy dosimeter.
-
-*Wahabi JM, Wong JHD, Mahdiraji GA, Ung NM* — Journal of applied clinical medical physics (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Radiation dose measurement is an essential part of radiotherapy to verify the correct delivery of doses to patients and ensure patient safety. Recent advancements in radiotherapy technology have highlighted the need for fast and precise dosimeters.
-
-
-??? note "Abstract"
-    INTRODUCTION: Radiation dose measurement is an essential part of radiotherapy to verify the correct delivery of doses to patients and ensure patient safety. Recent advancements in radiotherapy technology have highlighted the need for fast and precise dosimeters. Technologies like FLASH radiotherapy and magnetic-resonance linear accelerators (MR-LINAC) demand dosimeters that can meet their unique requirements. One promising solution is the plastic scintillator-based dosimeter with high spatial resolution and real-time dose output. This study explores the feasibility of using the LuSy dosimeter, an in-house developed plastic scintillator dosimeter for dose verification across various radiotherapy techniques, including conformal radiotherapy (CRT), intensity-modulated radiation therapy (IMRT), volumetric-modulated arc therapy (VMAT), and stereotactic radiosurgery (SRS). MATERIALS AND METHODS: A new dosimetry system, comprising a new plastic scintillator as the sensing material, was developed and characterized for radiotherapy beams. Treatment plans were created for conformal radiotherapy, IMRT, VMAT, and SRS and delivered to a phantom. LuSy dosimeter was used to measure the delivered dose for each plan on the surface of the phantom and inside the target volumes. Then, LuSy measurements were compared against an ionization chamber, MOSFET dosimeter, radiochromic films, and dose calculated using the treatment planning system (TPS). RESULTS: For CRT, surface dose measurement by LuSy dosimeter showed a deviation of -5.5% and -5.4% for breast and abdomen treatment from the TPS, respectively. When measuring inside the target volume for IMRT, VMAT, and SRS, the LuSy dosimeter produced a mean deviation of -3.0% from the TPS. Surface dose measurement resulted in higher TPS discrepancies where the deviations for IMRT, VMAT, and SRS were -2.0%, -19.5%, and 16.1%, respectively. CONCLUSION: The LuSy dosimeter was feasible for measuring radiotherapy doses for various treatment techniques. Treatment delivery verification enables early error detection, allowing for safe treatment delivery for radiotherapy patients.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38778567/) · [DOI](https://doi.org/10.1002/acm2.14387) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11163501/)
 
 
 ---

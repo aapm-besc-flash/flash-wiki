@@ -2,7 +2,26 @@
 
 Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-delivery hardware for UHDR.
 
-*116 records. Newest first.*
+*117 records. Newest first.*
+
+---
+
+### STAR in a Second: Ultra-High-Dose-Rate Spread-Out Bragg Peak Proton Therapy for Breath-Hold Stereotactic Arrhythmia Radioablation.
+
+*Ramesh P, Schwarz M, Colbert C, Chen XC, Panjwani N, Bowen SR et al.* — Advances in radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Stereotactic arrhythmia radioablation (STAR) is a noninvasive treatment option for managing ventricular tachycardia (VT). Combined respiratory and cardiac motion requires management with large target volume margins or motion mitigation techniques.
+
+
+??? note "Abstract"
+    PURPOSE: Stereotactic arrhythmia radioablation (STAR) is a noninvasive treatment option for managing ventricular tachycardia (VT). Combined respiratory and cardiac motion requires management with large target volume margins or motion mitigation techniques. Techniques such as beam gating and breath-holds are limited by low-duty cycles, extending treatment times. We investigate the feasibility of ultra-high-dose-rate (UHDR) proton therapy using a spread-out Bragg peak technique with a conformal energy modulator to achieve respiratory and cardiac motion management within a single breath-hold delivery per beam for cardiac ablation, thereby reducing treatment time without compromising anatomic accuracy. METHODS AND MATERIALS: Five ventricular tachycardia cases initially treated on linear accelerators with planning target volumes ranging from 118 to 254 cc were retrospectively planned with UHDR protons on an IBA Proteus Plus system with the ConformalFLASH snout. Plans were contoured on full-inspiration computed tomography phase scans to represent breath-hold anatomy and were planned for 25 Gy in 1 fraction. Plan quality metrics included target coverage (D98%, D2%, V95%) and doses to organs at risk (OARs) such as heart, stomach, and esophagus. An in-house RayStation script was developed to estimate total spot delivery time per beam to assess breath-hold feasibility. Times were validated using logfile-based analysis after delivery on the proton beamline. RESULTS: Each plan was optimized using a combination of 2 to 5 proton fields. Target coverage was comparable with clinical photon intensity modulated radiation therapy plan metrics, demonstrating average (D98%: 2365 cGy \[RBE\], D2%: 2957 cGy \[RBE\], V95%: 98.5%). Average maximum doses to the heart, esophagus, and stomach were 3049, 631, and 894 cGy \[RBE\], respectively. Each field achieved high-dose rates, enabling beam delivery times ranging from 0.37 to 1.29 seconds per field. CONCLUSIONS: UHDR spread-out Bragg peak proton therapy enables conformal cardiac radioablation delivery on the order of a second per beam, which offers the opportunity to manage respiratory and cardiac motion in a single breath hold while achieving clinically acceptable plan quality.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42746327/) · [DOI](https://doi.org/10.1016/j.adro.2026.102150) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13576714/)
+
 
 ---
 
