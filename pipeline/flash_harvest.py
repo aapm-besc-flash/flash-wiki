@@ -746,6 +746,15 @@ CURATOR_OVERRIDES = {
     "41437387": None,  # Preclinical validation of a clinical prototype of intraoperative electron FLAS
     "42078815": None,  # Modern proton therapy in prostate cancer: precision in practice.
     "42265951": None,  # Proton Beam Therapy in Prostate Cancer: Clinical Evidence, Controversies and F
+
+    # --- WG ruling 21 Sep 2026: agent-flagged, curator-confirmed -----------
+    # Surfaced by the triage agent's relevance field in PR #20 and confirmed
+    # by the WG lead. Both name FLASH as motivation but study conventional
+    # dose rate -- "dose rate as an object of study" is the adopted test.
+    # The other two flagged in the same run were KEPT: PMID 38740830 (first
+    # in vitro VHEE RBE) and PMID 38608421 (IOeRT conventional-and-FLASH TPS).
+    "38778567": None,  # LuSy dosimeter feasibility; FLASH/MR-LINAC cited as motivation only
+    "38657630": None,  # TOPAS photoneutron simulation; conventional megavoltage linac physics
     # --- forced re-categorizations ---
     "13663981": "Beam Delivery & Technology",  # X-ray flash tube, ultrahigh dosage (1959)
     "5307280":  "Radiobiology",  # Repair time of chromosome breaks, pulsed x-rays UHDR
