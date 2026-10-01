@@ -2,7 +2,26 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*199 records. Newest first.*
+*200 records. Newest first.*
+
+---
+
+### Structural and Functional Characteristics of the Liver After Fractionated Local Electron Irradiation and Against the Background of Ascorbic Acid Administration.
+
+*Demyashkin G, Buianova A, Pyatigorskaya N, Filippova O, Brkich G, Aladysheva Z et al.* — Journal of personalized medicine (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Radiation-induced liver disease (RILD) remains a clinically significant complication of radiotherapy for malignant neoplasms of the liver and upper abdomen, restricting achievable therapeutic doses and adversely affecting patient outcomes. Conventional photon-based radiotherapy (X-rays/γ-rays) exposes substantial volumes of healthy liver parenchyma and adjacent organs to ionizing radiation, increa…
+
+
+??? note "Abstract"
+    Radiation-induced liver disease (RILD) remains a clinically significant complication of radiotherapy for malignant neoplasms of the liver and upper abdomen, restricting achievable therapeutic doses and adversely affecting patient outcomes. Conventional photon-based radiotherapy (X-rays/γ-rays) exposes substantial volumes of healthy liver parenchyma and adjacent organs to ionizing radiation, increasing the risk of hepatocellular damage, inflammation, and progressive fibrosis. Electron irradiation (β-particles) represents a promising alternative owing to its limited tissue penetration (~2-3 cm) and steep dose fall-off, which significantly reduces exit dose and may reduce exit dose and limit exposure of paratumoral healthy tissues compared with photon therapy. However, the molecular mechanisms underlying electron-induced hepatic damage and strategies for its prevention remain insufficiently characterized. This review systematically analyzes the pathogenesis of radiation-induced liver damage, encompassing direct DNA damage, oxidative stress, mitochondrial dysfunction, NF-κB-mediated inflammation, cellular senescence, and TGF-β/Smad-driven fibrosis. The comparative dosimetric and radiobiological advantages of electron irradiation over photon therapy are discussed, with particular attention to intraoperative radiotherapy, FLASH, and very high-energy electron techniques. Current radioprotective strategies are critically evaluated, with emphasis on the limitations of amifostine and the multifunctional radioprotective potential of ascorbic acid, including free radical scavenging, attenuation of lipid peroxidation, stimulation of endogenous antioxidant defense, and direct inhibition of radiation-induced DNA strand breaks. Existing gaps in the evidence base are identified, and recommendations for future experimental and clinical research are proposed.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42783471/) · [DOI](https://doi.org/10.3390/jpm16090439) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13608792/)
+
 
 ---
 
@@ -25,7 +44,7 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 ---
 
-### Precise delineation of radiation targets for thoracic tumors in the immunotherapy era: from immune mechanisms to clinical practice.
+### Precise delineation of radiation targets for thoracic tumors in the immunotherapy era: From immune mechanisms to clinical practice.
 
 *Chen X, Yi M, Deng Y, Shen Q* — Precision radiation oncology (2026)  
 

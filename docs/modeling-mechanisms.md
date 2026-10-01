@@ -2,25 +2,75 @@
 
 Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the FLASH effect.
 
-*153 records. Newest first.*
+*160 records. Newest first.*
 
 ---
 
-### X‑ray FLASH RT inhibits lung cancer bone metastasis via activating CD4⁺ T-cell‑mediated antitumor immunity with modulation of Th17 cell response.
+### Physicochemical modeling of electron FLASH to identify the roles of oxygen, aqueous electrons and causal radical recombination effects underlying them.
 
-*Huang Y, Wu T, Yang W, Liang YY, Sun YF, Ma CF et al.* — Oncoimmunology (2026)  
+*Thomas WS, Cao X, Gladstone D, Swartz HM, Pogue BW* — Physics in medicine and biology (2026)  
 
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
 
 
-**TL;DR.** Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain.
+**TL;DR.** &amp;#xD;Background: Ultra high dose rate (UHDR) irradiation reduces normal tissue toxicity as compared conventional dose rate (CDR) irradiation-known as the FLASH effect, yet the underlying radiochemical mechanisms remain poorly understood. Direct measurements rely upon longer lived water radiolysis species such as aqueous electrons (eaq-) and oxygen, to infer behaviors of toxic species leading to ti…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A comprehensive physicochemical kinetic model of water radiolysis was developed incorporating 17 molecular species and 56 coupled reaction equations, simulating pulsed electron irradiation across dose rates of 0.3–300 Gy/s and oxygen tensions of 0.1–10% O₂. Model predictions of aqueous electron and oxygen transients were validated against published in vitro and in vivo measurements. Results indicate that radical-radical recombination contributes &lt;5% to radical fate across all dose rates, whereas peroxyl radical and HO₂•/O₂•⁻ pathways show dose-rate-dependent behavior within physiologic oxygen tensions (5–20 mmHg) associated with the FLASH effect.
 
 
 ??? note "Abstract"
-    Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain. Here, we report the first application of X-ray FLASH radiotherapy (RT) in treating lung cancer bone metastasis in mice. Using an intratibial LLC-luc cell injection model, mice were treated with FLASH RT (94 Gy/s) or conventional RT (CONV RT, 0.1 Gy/s) via a petal accelerator developed by the Institute of Fluid Physics, China Academy of Engineering Physics. The results demonstrated that X-ray FLASH RT and CONV RT exhibited comparable efficacy in suppressing tumor growth, and both may alleviate osteolytic lesions in mice with lung cancer bone metastasis through CD4⁺ T cell-dependent antitumor responses. However, FLASH RT further attenuated bone destruction by inhibiting osteoclastogenesis, remodeling the bone-tumor microenvironment, and reducing tumor invasion, with lower systemic toxicity. Notably, unlike CONV RT, FLASH RT instigates a distinct DNA damage response that drives oxygen depletion, thereby attenuating ROS accumulation. This mechanistic cascade sequentially suppresses cGAS-STING-NF-κB axis activation and dampens the ensuing inflammatory response. In addition, we observed a reduction in Th17 cell differentiation following FLASH RT compared to CONV RT, which may contribute to the differential efficacy of these two radiation modalities in attenuating lung cancer bone metastasis. Collectively, X-ray FLASH RT provides a promising therapeutic strategy for patients with bone metastases.
+    &amp;#xD;Background: Ultra high dose rate (UHDR) irradiation reduces normal tissue toxicity as compared conventional dose rate (CDR) irradiation-known as the FLASH effect, yet the underlying radiochemical mechanisms remain poorly understood. Direct measurements rely upon longer lived water radiolysis species such as aqueous electrons (eaq-) and oxygen, to infer behaviors of toxic species leading to tissue damage. This study uses kinetic modeling to identify which chemical pathways exhibit dose rate dependent behavior and can be used to correlate experiments.&amp;#xD;Methods: A comprehensive physicochemical model of water radiolysis was developed, incorporating 17 molecular species and 56 coupled reaction rate equations, with pulsed beam structures matched to published UHDR electron irradiation experiments. Simulations were performed across a range of oxygen tensions (0.1-10% O₂) and dose rate conditions (0.3-300 Gy/s). Model predictions were validated against experimental measurements of eaq- transients,and oxygen consumption in vitro and in vivo. They also were compared to prior computational models.&amp;#xD;Results: Modeled lifetimes of eaq- matched experiments across O2 concentrations and showed that &gt;90% of scavenging occurs via O2 and reactions with proteins, with radical-radical recombination contributing &lt;5% even at 300 Gy/s. The lifetimes of OH• radicals were similarly dominated by protein scavenging, with recombination pathways remaining minor (&lt;5%) with UHDR. Modeled oxygen consumption matched the magnitude and dose rate dependence observed in published experiments. The results indicated a primary dose rate sensitive pathway, the reaction between hydroperoxyl radical (HO₂•) and superoxide (O₂•⁻). Peroxyl radical formation decreased at UHDR within oxygen tensions (≈5-20 mmHg) corresponding to the experimentally observed FLASH oxygen window. &amp;#xD;Conclusion: This work identifies specific radiochemical pathways that exhibit true dose rate sensitivity and clarifies which proposed FLASH mechanisms are unsupported by homogeneous phase radical kinetics. Radical-radical recombination contributes too little (&lt;5%) to account for known FLASH sparing at UHDR, whereas peroxyl radical and HO₂•/O₂•⁻ chemistry shows dose rate dependent behavior within physiologic oxygen tensions associated with FLASH. Although constrained by simplified aqueous conditions lacking scavengers and tissue heterogeneity, the model provides mechanistic insight into the radiochemical regimes dominating the homogeneous phase chemistry.&amp;#xD.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42752269/) · [DOI](https://doi.org/10.1080/2162402X.2026.2706271)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42777776/) · [DOI](https://doi.org/10.1088/1361-6560/aeabe5)
+
+
+---
+
+### Fractal geometry-governed oxygen diffusion: tumors vs. normal tissues.
+
+*Valizadeh N, Rahimi R, Abolfath RM* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** To develop a geometry-governed diffusion framework that explains differential tissue response under FLASH ultra-high dose rate (UHDR) irradiation by explicitly accounting for structural heterogeneity and anomalous transport in biological tissues.&amp;#xD;Approach: We formulate a generalized diffusion-reaction model on fractal substrates to describe molecular transport in heterogeneous media. Tissue ar…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A theoretical study develops a generalized diffusion-reaction model on fractal substrates to explain differential tissue response under FLASH ultra-high dose rate irradiation. The framework characterizes tissue architecture by fractal (Hausdorff) dimension and anomalous transport via fractional dynamics parameters. Results show that increased structural complexity suppresses long-range transport and enhances localization, predicting that normal tissues with near-Euclidean geometry permit greater inter-track interaction and recombination, whereas tumors with elevated structural complexity exhibit localized transport and reduced collective chemical reactivity.
+
+
+??? note "Abstract"
+    To develop a geometry-governed diffusion framework that explains differential tissue response under FLASH ultra-high dose rate (UHDR) irradiation by explicitly accounting for structural heterogeneity and anomalous transport in biological tissues.&amp;#xD;Approach: We formulate a generalized diffusion-reaction model on fractal substrates to describe molecular transport in heterogeneous media. Tissue architecture is characterized by a fractal (Hausdorff) dimension D, while scale-dependent transport inefficiency and memory effects are captured by a fractional parameter θ. Analytical solutions for radially symmetric geometries are derived and&amp;#xD;compared with classical normal (Euclidean) diffusion and a Gaussian reference model under identical physical conditions. Transport behavior is quantified through transient probability distributions and steady-state spatial profiles.&amp;#xD;Main results: The model reveals systematic suppression of long-range transport and enhanced localization as tissue structural complexity increases. Increasing θ leads to subdiffusive dynamics, reduced effective diffusion lengths, and persistent non-Gaussian concentration profiles, even in the steady state. While increasing D alone enhances spatial accessibility, fractional dynamics dominate&amp;#xD;transport behavior when θ &gt; 0, counteracting geometric connectivity. These effects produce a separation between regimes characterized by efficient inter-track overlap and rapid homogenization, and regimes marked by isolated, long-lived reactive domains.&amp;#xD;Conclusion: Fractal geometry provides a unifying physical framework for understanding tissue-dependent transport and differential response under FLASH UHDR irradiation. Normal tissues, characterized by near-Euclidean geometry and weak anomalous effects, permit greater inter-track interaction and recombination, whereas tumor-like tissues with elevated structural complexity exhibit localized transport and reduced collective chemical reactivity. This proof-of-principle study establishes tissue architecture as a fundamental determinant of transport efficiency and offers a mechanistic basis for experimentally observed FLASH tissue sparing, motivating geometry-aware modeling of radiobiological response.&amp;#xD;Significance: This work shifts the emphasis from purely chemical kinetics toward a geometry-governed description of oxygen and reactive oxygen species transport in cells and tissues.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42777768/) · [DOI](https://doi.org/10.1088/1361-6560/aeabe7)
+
+
+---
+
+### Pulse width-dependent Monte Carlo source modeling for ultra-high dose rate electron beams.
+
+*Henao Isaza Á, López Paz I, Guardiola C, Sebastián Moreno J, Heinrich S* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Objective.The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width (PW)-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including PW dependence.Approach.Percentage depth dose (PDD) c…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A pulse-width-dependent Monte Carlo source model for ultra-high dose rate electron beams was developed and validated using GATE 10. The model features a dual-peak energy spectrum with pulse-width-dependent variation (7.0–7.8 MeV for 0.5–5 µs pulse widths) and was optimized against percentage depth dose and lateral dose profile measurements in water using a flashDiamond detector. Simulations in a voxelized mouse model showed good agreement with measurements (gamma-index 2 mm/2%) and no significant dosimetric differences between pulse widths in ultra-high dose rate mode, with lung V₉₅ differences less than 1% across pulse widths.
+
+
+??? note "Abstract"
+    Objective.The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width (PW)-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including PW dependence.Approach.Percentage depth dose (PDD) curves and lateral dose profiles were measured in water using a flashDiamond detector for PWs of 0.5-5s. These data were used to optimize the parametric source model throughminimization and gamma analysis. Validation was performed using a mouse collimator and PMMA slabs. Relative dose distributions and cumulative dose-volume histograms were computed in a CT-based voxelised mouse, with and without bolus.Main results.The optimized FLASH source model features a dual-peak energy spectrum with a PW-dependent energy component (7.0-7.8 MeV for 0.5-5s) and low-energy component probability. In conventional mode, a two-component spectrum (1.51.0 and 6.81.5 MeV) was used. Simulations showed good agreement with measurements (gamma-index 2 mm/2% anddifferences for,and). Differences in the mouse lung volume receiving at least 95% of the maximum dose (V95) were 1% across FLASH PWs, increasing to 5% and 12% in CONV without and with bolus, respectively. Bolus increased V95in FLASH by 17%, indicating improved target coverage.Significance.A GATE 10 MC-based source model of the ElectronFLASH LINAC was developed for both UHDR (PW-dependent) and conventional modes. Despite PW-dependent energy variations, no significant dosimetric differences were observed between PWs in FLASH in the preclinical mouse model. The model provides a reliable tool for optimization of preclinical irradiation setups for FLASH biological studies in the absence of a treatment planning system.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42748957/) · [DOI](https://doi.org/10.1088/1361-6560/aea8c4)
 
 
 ---
@@ -33,6 +83,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 **TL;DR.** FLASH radiotherapy, which delivers radiation at ultrahigh dose rates (UHDRs) exceeding 40 Gy/s, has attracted considerable attention because of its potential to spare normal tissues while maintaining tumour control. Gold nanoparticles (GNPs) are promising radiosensitizers that enhance radiation-induced biological effects through increased production of reactive oxygen species (ROS) and subsequent …
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Geant4-DNA Monte Carlo simulations were performed to investigate gold nanoparticle (GNP)-mediated DNA damage under FLASH electron-beam irradiation at dose rates exceeding 40 Gy/s. DNA damage was quantified through direct and indirect mechanisms in electron interactions with 10 nm and other GNP sizes at 10 keV and 1 MeV. Results demonstrated dose-rate-dependent reduction in relative single-strand breaks and double-strand breaks, with 10 nm GNPs producing up to 5-fold enhancement in direct SSB yields at 10 keV but substantially weaker effects at 1 MeV.
 
 
 ??? note "Abstract"
@@ -1227,6 +1281,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** The role of radiolytic oxygen consumption for the in-vitro &quot;Ultra-High Dose Rate&quot; (UHDR) sparing and in-vivo FLASH effect is subject to active debate, but data on key dependencies such as the radiation quality are lacking. PURPOSE: The influence of &quot;dose-averaged Linear Energy Transfer&quot; (LETd) and dose rate on radiolytic oxygen consumption was investigated by monitoring the oxygen concentration du…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In vitro measurement of radiolytic oxygen consumption in 5% bovine serum albumin exposed to 15 Gy at electrons, protons, helium, carbon, and oxygen ions across a wide LET range (1–100.3 keV/µm) at mean dose rates of 0.3–0.4 Gy/s (standard dose rate) or approximately 100 Gy/s (ultra-high dose rate). Oxygen consumption rate decreased with increasing LET from 0.351 mmol/Gy (electrons, SDR) to 0.1796 mmol/Gy (oxygen ions, SDR), and from 0.317 to 0.1556 mmol/Gy at UHDR. Consumption rate was consistently higher at standard dose rate than at UHDR across all particle types.
+
+
 ??? note "Abstract"
     BACKGROUND: The role of radiolytic oxygen consumption for the in-vitro &quot;Ultra-High Dose Rate&quot; (UHDR) sparing and in-vivo FLASH effect is subject to active debate, but data on key dependencies such as the radiation quality are lacking. PURPOSE: The influence of &quot;dose-averaged Linear Energy Transfer&quot; (LETd) and dose rate on radiolytic oxygen consumption was investigated by monitoring the oxygen concentration during irradiation with electrons, protons, helium, carbon, and oxygen ions at UHDR and &quot;Standard Dose Rates&quot; (SDR). METHODS: Sealed &quot;Bovine Serum Albumin&quot; (BSA) 5% samples were exposed to 15 Gy of electrons and protons, and for the first time helium, carbon, and oxygen ions with LETd values of 1, 5.4, 14.4, 65, and 100.3 keV/µm, respectively, delivered at mean dose rates of either 0.3-0.4 Gy/s for SDR or approximately 100 Gy/s for UHDR. The Oxylite (Oxford Optronics) system allowed measurements of the oxygen concentration before and after irradiation to calculate the oxygen consumption rate. RESULTS: The oxygen consumption rate was found to decrease with increasing LETd from 0.351 mmHg/Gy for low LET electrons to 0.1796 mmHg/Gy for high LET oxygen ions at SDR and for UHDR from 0.317 to 0.1556 mmHg/Gy, respectively. A higher consumption rate for SDR irradiation compared to the corresponding UHDR irradiation persisted for all particle types. CONCLUSION: The measured consumption rates demonstrate a distinct LETd dependence. The obtained dataset, encompassing a wide range of LETd values, could serve as a benchmark for Monte Carlo simulations, which may aid in enhancing our comprehension of oxygen-related mechanisms after irradiations. Ultimately, they could help assess the viability of different hypotheses regarding UHDR sparing mechanisms and the FLASH effect. The found LETd dependence underscores the potential of heavy ion therapy, wherein elevated consumption rates in adjacent normal tissue offer protective benefits, while leaving tumor regions with generally higher &quot;Linear Energy Transfer&quot; (LET) vulnerable.
 
@@ -1246,6 +1304,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Ultra-high dose rate (UHDR/FLASH) irradiations, along with particle minibeam therapy (PMBT) are both emerging as promising alternatives to current radiotherapy techniques thanks to their improved healthy tissue sparing and similar tumor control. PURPOSE: Monte Carlo (MC) modeling of a commercial machine delivering 5-7 MeV electrons at UHDR.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo modeling of a commercial 5–7 MeV electron accelerator delivering FLASH irradiation was developed and benchmarked against experimental measurements. A FLASH-minibeam setup combining both modalities was evaluated using brass collimators with 400-µm slit widths in single, 5-slit (4 mm center-to-center), and 9-slit (2 mm center-to-center) configurations. Simulated and measured percentage depth dose and lateral dose profiles agreed to within 3–4%; peak-to-valley dose ratios ranged from 5 to 26 within the first 4 mm, and delivered dose rates reached 167 Gy/s mean and 1.2 × 10⁵ Gy/s instantaneous. Parametric simulations assessed the influence of collimator geometry on peak-to-valley ratio and Bremsstrahlung photon contribution.
+
+
 ??? note "Abstract"
     BACKGROUND: Ultra-high dose rate (UHDR/FLASH) irradiations, along with particle minibeam therapy (PMBT) are both emerging as promising alternatives to current radiotherapy techniques thanks to their improved healthy tissue sparing and similar tumor control. PURPOSE: Monte Carlo (MC) modeling of a commercial machine delivering 5-7 MeV electrons at UHDR. This model was used afterward to compare measurements against simulations for an experimental setup combining both FLASH and PMBT modalities. METHODS: We modeled the main accelerator elements with TOPAS3.8/Geant4.10.07.p03, optimized the electron source parameters, and subsequently benchmarked this geometry against measurements. Minibeam experiments were performed by delivering 7 MeV electrons at UHDR on three different 65-mm thick brass collimators as manufactured for protons with a 400-µm slit width: single slit, 5 slits with a center-to-center (CTC) distance of 4 mm and 9 slits with CTC of 2 mm. Finally, complementary simulations were run by changing critical PMBT collimator parameters to assess their specific impact on peak-to-valley dose ratio (PVDR) as well as on the Bremsstrahlung photon contribution to the total dose. RESULTS: Percentage depth dose (PDD) distributions and lateral dose profiles showed a good agreement between simulations and measurements, with a maximum discrepancy of less than 4%. With the PMBT collimators in place, discrepancies between simulated and measured dose profiles, lateral and in-depth in peaks and valleys, were within 3%. High PVDR between 5 and 26 were observed until 4 mm in the phantom. During the experiments, a mean dose rate of 167 Gy/s and an instantaneous dose rate of 1.2 × 105 Gy/s were obtained for the FLASH-minibeam setup. PMBT collimator parameters need to be optimized to maximize PVDR while limiting Bremsstrahlung photon contribution to the total dose. CONCLUSIONS: The validation of the MC model and the configuration of an electron FLASH-minibeam setup were successfully completed, paving the way for future radiobiological investigations.
 
@@ -1255,21 +1317,48 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 ---
 
-### Implementation and validation of a very-high-energy electron model in the matRad treatment planning system.
+### Reply to Comments on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
 
-*Sitarz M, Ronga MG, Gesualdi F, Bonfrate A, Wahl N, De Marzi L* — Medical physics (2025)  
+*Shiraishi Y, Matsuya Y, Fukunaga H* — Physics in medicine and biology (2024)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-**TL;DR.** While electron beams of up to 20 MeV are commonly used in radiotherapy, the use of very-high-energy electrons (VHEEs) in the range of 100-200 MeV is now becoming a realistic option thanks to the recent advancements in accelerator technology. Indeed, VHEE offers several clinically attractive features and can be delivered using various conformation methods (including scanning, collimation, and focus…
+**TL;DR.** Liew and Mairani (2024Phys. Med.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This is a reply to comments on a biophysical model for predicting cell survival after ultra-high dose rate irradiation. The authors defend their modeling approach for estimating survival fraction and relative biological effectiveness (RBE) under UHDR conditions, addressing critiques regarding the choice of DNA damage data. They report that use of alternative DNA damage measurements yielded RBE predictions within 8% of their original estimates and emphasize the need for further accumulation of experimental DNA damage data under UHDR to refine mechanistic biophysical models.
 
 
 ??? note "Abstract"
-    BACKGROUND: While electron beams of up to 20 MeV are commonly used in radiotherapy, the use of very-high-energy electrons (VHEEs) in the range of 100-200 MeV is now becoming a realistic option thanks to the recent advancements in accelerator technology. Indeed, VHEE offers several clinically attractive features and can be delivered using various conformation methods (including scanning, collimation, and focussing) at ultra-high dose rates. To date, there is a lack of research tools for fast simulation of treatment plans using VHEE beams. PURPOSE: This work aims to implement and validate a simple and fast dose calculation algorithm based on the Fermi-Eyges theory of multiple Coulomb scattering for VHEE radiation therapy, with energies up to 200 MeV. A treatment planning system (TPS) toolkit with VHEE modality would indeed allow for further preclinical investigations, including treatment plan optimization and evaluation, and thus contribute to the gradual introduction of VHEE radiotherapy in clinical practice. METHODS: A VHEE pencil beam scanning double Gaussian model was introduced into the open-source TPS matRad environment along with new functions and options dedicated to VHEE dose calculations. Various geometries and field configurations were then calculated in matRad (up to 200 MeV and 15 × 15 cm2, with complex bone or lung heterogeneities) and the results were compared to Monte Carlo simulations in the TOPAS/Geant4 toolkit. Two types of beam model (divergent or focused) were also tested. Examples of clinical treatment plans were computed, and the results were compared between the two codes. RESULTS: VHEE modality was fully implemented in matRad with GUI capabilities while preserving all original TPS features. New relevant options such as the importation of specific spot-lists or adjustment of the lateral dose calculation cutoff to optimize the calculation speed were validated. Single spot and square field dose distributions were validated in water alone as well as in clinically relevant inhomogeneities. Dose maps from the VHEE model in matRad were in good agreement with TOPAS (2D gamma index \[2%/1 mm\] with passing rates superior to 90%, &lt;6% mean dose differences), except for large interface heterogeneities. CONCLUSIONS: This work describes the implementation of a simple but efficient VHEE simulation model in matRad. A few configurations were studied in order to validate the model against accurate Monte Carlo simulations, demonstrating its usefulness for carrying out preliminary studies involving VHEE radiotherapy.
+    Liew and Mairani (2024Phys. Med. Biol.69248001) commented on our previous reply to comments on our paper, &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;. We appreciate their comments on the choice of experimental data on DNA damage for cell survival and agree that the estimate of the dose-response curve on cell survival depends on the selection of DNA damage data. As an additional benchmark test, we compared the relative biological effectiveness (RBE) predicted using the recommended DNA damage data measured in normoxia with those reported in our original paper, and confirmed that the difference in RBE was less than 8%. Although our model allows for the estimation of cell survival and RBE under ultra-high dose rate (UHDR) irradiation, we highlight that a further accumulation of experimental data on DNA damage under UHDR irradiation is necessary for the further development of biophysical models concerning the mechanistical estimation of biological effects.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39419015/) · [DOI](https://doi.org/10.1002/mp.17392) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11699996/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39665484/) · [DOI](https://doi.org/10.1088/1361-6560/ad997d)
+
+
+---
+
+### Second Comment on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
+
+*Liew H, Mairani A* — Physics in medicine and biology (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** We comment on the reply by Shiraishiet alto our comments regarding their recently published study &#x27;Modeling for Predicting Survival Fraction of Cells after Ultra-High Dose Rate Irradiation&#x27;. While we appreciate the effort of the authors to consider our comments, we see ourselves compelled to add another short comment as we believe that some of our suggestions have been misrepresented.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This is a second comment in a point-counterpoint exchange regarding a previously published model for predicting cell survival after ultra-high dose rate irradiation. The authors dispute the reply by Shiraishi et al. to their earlier comments, asserting that some of their suggestions were misrepresented and that this has led to a misleading re-evaluation of the model. The paper does not present new experimental data or model results, but rather clarifies methodological and interpretive concerns about an existing computational model of UHDR cellular response.
+
+
+??? note "Abstract"
+    We comment on the reply by Shiraishiet alto our comments regarding their recently published study &#x27;Modeling for Predicting Survival Fraction of Cells after Ultra-High Dose Rate Irradiation&#x27;. While we appreciate the effort of the authors to consider our comments, we see ourselves compelled to add another short comment as we believe that some of our suggestions have been misrepresented. This may have resulted in a misguiding re-evaluation of the model.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39665483/) · [DOI](https://doi.org/10.1088/1361-6560/ad997c)
 
 
 ---
@@ -1284,30 +1373,15 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Objective.TOPAS-nBio enables users to simulate dose rate-dependent radiation chemical yields in water radiolysis accounting for inter-track and long-term chemistry for pulsed irradiation. This study aims to extend the TOPAS-nBio chemistry for the special case of continuous high-dose rate scenario, where both intertrack and longer time reactions need to be considered, and to quantitatively validate…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study extends the TOPAS-nBio Monte Carlo chemistry framework to simulate dose-rate-dependent radiation chemical yields in water radiolysis under continuous high-dose-rate irradiation, accounting for inter-track and long-term chemistry. Simulated H₂O₂ concentration and O₂ consumption increased with dose rate and agreed within 3% with experimental data across different dose rates, pulse shapes, and solutions. The presence of organic carbon contamination reversed the dose-rate dependence of H₂O₂ yields and increased O₂ consumption by approximately an order of magnitude at lower dose rates while remaining nearly unchanged at higher dose rates.
+
+
 ??? note "Abstract"
     Objective.TOPAS-nBio enables users to simulate dose rate-dependent radiation chemical yields in water radiolysis accounting for inter-track and long-term chemistry for pulsed irradiation. This study aims to extend the TOPAS-nBio chemistry for the special case of continuous high-dose rate scenario, where both intertrack and longer time reactions need to be considered, and to quantitatively validate the extended framework by comparing the results with experimental data.Approach.The inter-track chemistry and escapeG-values were first evaluated by the independent reaction time method. The escaping molecules were assumed to have a temporally continuous distribution based on theG-values using the Gillespie algorithm. The simulation results were comprehensively validated by comparing with the experimental data at different dose rates, temporal pulse shapes, and solutions. In addition, the influence of various factors, such as the chemistry model, simulation volume, temperature, pH concentration, and organic carbon contamination, was evaluated.Main results.The validation results showed that the H2O2concentration and O2consumption increased with dose rate, and agreed within 3% with experimental data. Computational factors related to the chemistry model and volume size were negligible. pH and temperature had an impact of less than 10% in the experimental range. The presence of organic carbon and resulting reactions doubled H2O2yields and significantly increased O2consumption by about an order of magnitude at lower dose rates, while the results are almost unchanged at higher dose rates. Consequently, the dose rate dependence of H2O2yields and O2consumption were reversed at a certain organic carbon concentration compared to the pure water results.Significance.The extended TOPAS-nBio chemistry framework enables the reproduction of the dose-rate dependent radiation chemical yields of several experimental studies at different dose rates, temporal pulse shapes, and solutions. This new functionality is necessary to investigate recent high dose rate (FLASH) experimental results.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39657326/) · [DOI](https://doi.org/10.1088/1361-6560/ad9ce2) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12184618/)
-
-
----
-
-### Optimizing focused very-high-energy electron beams for radiation therapy based on Monte Carlo simulation.
-
-*An C, Zhang W, Dai Z, Li J, Yang X, Wang J et al.* — Scientific reports (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** A TOPAS-based optimization program has been developed to precisely concentrate the dose of focused very-high-energy electron (VHEE) beams on deep-seated targets. This is accomplished by optimizing the magnetic gradients, positions, and number of quadrupole magnets within TOPAS.
-
-
-??? note "Abstract"
-    A TOPAS-based optimization program has been developed to precisely concentrate the dose of focused very-high-energy electron (VHEE) beams on deep-seated targets. This is accomplished by optimizing the magnetic gradients, positions, and number of quadrupole magnets within TOPAS. Using only three quadrupole magnets, the program focuses 250 MeV VHEE beams to achieve a maximum dose position deeper than 17 cm, while maintaining entrance and exit doses within 25% and limiting the lateral dimensions to ≤ 1 cm at the maximum dose location. The linear relationship between the magnetic gradient of the last quadrupole magnet and the maximum dose position enables dose location adjustments through gradient variation. Multiple positions were validated in TOPAS with errors within 1%. The spread-out electron peak (SOEP) is achieved by combining two VHEE beams with different maximum dose positions using the differential evolution method, covering a target depth of 12-17 cm and attaining a dose flatness better than 99%. This pioneering program imposes constraints on entrance dose, exit dose, maximum dose position, and the lateral dimensions of dose deposition at the maximum dose position within phantom. This program may be a promising tool in the applications of focused VHEE in highly conformal treatment plans based on TOPAS.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39528582/) · [DOI](https://doi.org/10.1038/s41598-024-79187-4) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11554818/)
 
 
 ---
@@ -1322,49 +1396,15 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Ultra-high dose rate FLASH radiotherapy, a promising cancer treatment approach, offers the potential to reduce healthy tissue damage during radiotherapy. As the mechanisms underlying this process remain unknown, several hypotheses have been proposed, including the altered production of radio-induced species under ultra-high dose rate (UHDR) conditions.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study uses Geant4-DNA Monte Carlo simulations to model water radiolysis under ultra-high dose rate conditions using a validated Oriatron eRT6 electron linac model. Simulations spanning dose-per-pulse levels from 0.17 to 10 Gy with 1.8 µs pulse duration reveal dose-dependent changes in radiolytic species evolution: earlier hydroxyl radical depletion and reduced superoxide production and lifetime at higher dose-per-pulse. Pulse temporal structure did not influence long-term species evolution, and the authors note that additional cellular components are needed to connect these chemical findings to biological outcomes.
+
+
 ??? note "Abstract"
     Ultra-high dose rate FLASH radiotherapy, a promising cancer treatment approach, offers the potential to reduce healthy tissue damage during radiotherapy. As the mechanisms underlying this process remain unknown, several hypotheses have been proposed, including the altered production of radio-induced species under ultra-high dose rate (UHDR) conditions. This study explores realistic irradiation scenarios with various dose-per-pulse and investigates the role of pulse temporal structure. Using the Geant4 toolkit and its Geant4-DNA extension, we modeled the Oriatron eRT6 linac, a FLASH-validated electron beam, and conducted simulations covering four distinct dose-per-pulse scenarios - 0.17 Gy, 1 Gy, 5 Gy, and 10 Gy - all featuring a 1.8 µs pulse duration. Results show close agreement between simulated and experimental dose profiles in water, validating the eRT6 model for Geant4-DNA simulations. We observed important changes in the temporal evolution of certain species, such as the earlier fall in hydroxyl radicals (\[Formula: see text\]) and reduced production and lifetime of superoxide (\[Formula: see text\]) with higher dose-per-pulse levels. The pulse temporal structure did not influence the long-term evolution of species. Our findings encourage further investigation into different irradiation types, such as multi-pulse configurations, and emphasize the need to add components in water to account for relevant cellular processes.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39496703/) · [DOI](https://doi.org/10.1038/s41598-024-76769-0) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11535405/)
-
-
----
-
-### A Fast 3D Range-Modulator Delivery Approach: Validation of the FLUKA Model on a Varian ProBeam System Including a Robustness Analysis.
-
-*Simeonov Y, Weber U, Krieger M, Schuy C, Folkerts M, Paquet G et al.* — Cancers (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** A 3D range-modulator (RM), optimized for a single energy and a specific target shape, is a promising and viable solution for the ultra-fast dose delivery in particle therapy. The aim of this work was to investigate the impact of potential beam and modulator misalignments on the dose distribution.
-
-
-??? note "Abstract"
-    A 3D range-modulator (RM), optimized for a single energy and a specific target shape, is a promising and viable solution for the ultra-fast dose delivery in particle therapy. The aim of this work was to investigate the impact of potential beam and modulator misalignments on the dose distribution. Moreover, the FLUKA Monte Carlo model, capable of simulating 3D RMs, was adjusted and validated for the 250 MeV single-energy proton irradiation from a Varian ProBeam system. A 3D RM was designed for a cube target shape rotated 45° around two axes using a Varian-internal research version of the Eclipse treatment planning software, and the resulting dose distribution was simulated in a water phantom. Deviations from the ideal alignment were introduced, and the dose distributions from the modified simulations were compared to the original unmodified one. Finally, the FLUKA model and the workflow were validated with base-line data measurements and dose measurements of the manufactured modulator prototype at the HollandPTC facility in Delft. The adjusted FLUKA model, optimized particularly in the scope of a single-energy FLASH irradiation with a PMMA pre-absorber, demonstrated very good agreement with the measured dose distribution resulting from the 3D RM. Dose deviations resulting from modulator-beam axis misalignments depend on the specific 3D RM and its shape, pin aspect ratio, rotation angle, rotation point, etc. A minor modulator shift was found to be more relevant for the distal dose distribution than for the spread-out Bragg Peak (SOBP) homogeneity. On the other hand, a modulator tilt (rotation away from the beam axis) substantially affected not only the depth dose profile, transforming a flat SOBP into a broad, Gaussian-like distribution with increasing rotation angle, but also shifted the lateral dose distribution considerably. This work strives to increase awareness and highlight potential pitfalls as the 3D RM method progresses from a purely research concept to pre-clinical studies and human trials. Ensuring that gantry rotation and the combined weight of RM, PMMA, and aperture do not introduce alignment issues is critical. Given all the other range and positioning uncertainties, etc., not related to the modulator, the RM must be aligned with an accuracy below 1° in order to preserve a clinically acceptable total uncertainty budget. Careful consideration of critical parameters like the pin aspect ratio and possibly a novel robust modulator geometry optimization are potential additional strategies to mitigate the impact of positioning on the resulting dose. Finally, even the rotated cube 3D modulator with high aspect ratio pin structures (~80 mm height to 3 mm pin base width) was found to be relatively robust against a slight misalignment of 0.5° rotation or a 1.5 mm shift in one dimension perpendicular to the beam axis. Given a reliable positioning and QA concept, the additional uncertainties introduced by the 3D RM can be successfully managed adopting the concept into the clinical routine.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39456592/) · [DOI](https://doi.org/10.3390/cancers16203498) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11505765/)
-
-
----
-
-### Laser-driven electron source suitable for single-shot Gy-scale irradiation of biological cells at dose rates exceeding 10^{10} Gy/s.
-
-*McAnespie CA, Chaudhary P, Calvin L, Streeter MJV, Nersysian G, McMahon SJ et al.* — Physical review. E (2024)  
-
-<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high d…
-
-
-??? note "Abstract"
-    We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high degree of spatial uniformity. The results reported here confirm that a laser-driven source of this kind can be used for systematic studies of the response of biological cells to picosecond-scale radiation at ultrahigh dose rates.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39425326/) · [DOI](https://doi.org/10.1103/PhysRevE.110.035204)
 
 
 ---
@@ -1379,11 +1419,38 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** This study conducts a comparative analysis of cystamine (RSSR), a disulfide, and cysteamine (RSH), its thiol monomer, to evaluate their efficacy as radioprotectors and antioxidants under high linear energy transfer (LET) and high-dose-rate irradiation conditions. It examines their interactions with reactive primary species produced during the radiolysis of the aqueous ferrous sulfate (Fricke) dosi…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo multi-track chemical modeling was used to simulate radiolytic oxidation in Fricke dosimeter solutions containing cystamine or cysteamine under high-LET and high-dose-rate irradiation. Both compounds demonstrated radioprotective and antioxidant properties, with cysteamine effective in aerated low-LET conditions above ~1 mM but ineffective in hypoxic environments, while cystamine showed robust protection in both oxygen-rich and oxygen-poor conditions. The work emphasizes oxygen-dependent differences in radioprotection mechanisms relevant to FLASH radiotherapy.
+
+
 ??? note "Abstract"
     This study conducts a comparative analysis of cystamine (RSSR), a disulfide, and cysteamine (RSH), its thiol monomer, to evaluate their efficacy as radioprotectors and antioxidants under high linear energy transfer (LET) and high-dose-rate irradiation conditions. It examines their interactions with reactive primary species produced during the radiolysis of the aqueous ferrous sulfate (Fricke) dosimeter, offering insights into the mechanisms of radioprotection and highlighting their potential to enhance the therapeutic index of radiation therapy, particularly in advanced techniques like FLASH radiotherapy. Using Monte Carlo multi-track chemical modeling to simulate the radiolytic oxidation of ferrous to ferric ions in Fricke-cystamine and Fricke-cysteamine solutions, this study assesses the radioprotective and antioxidant properties of these compounds across a variety of irradiation conditions. Concentrations were varied in both aerated (oxygen-rich) and deaerated (hypoxic) environments, simulating conditions akin to healthy tissue and tumors. Both cystamine and cysteamine demonstrate radioprotective and strong antioxidant properties. However, their effectiveness varies significantly depending on the concentration employed, the conditions of irradiation, and whether or not environmental oxygen is present. Specifically, excluding potential in vivo toxicity, cysteamine substantially reduces the adverse effects of ionizing radiation under aerated, low-LET conditions at concentrations above ~1 mM. However, its efficacy is minimal in hypoxic environments, irrespective of the concentration used. Conversely, cystamine consistently offers robust protective effects in both oxygen-rich and oxygen-poor conditions. The distinct protective capacities of cysteamine and cystamine underscore cysteamine&#x27;s enhanced potential in radiotherapeutic settings aimed at safeguarding healthy tissues from radiation-induced damage while effectively targeting tumor tissues. This differential effectiveness emphasizes the need for personalized radioprotective strategies, tailored to the specific environmental conditions of the tissue involved. Implementing such approaches is crucial for optimizing therapeutic outcomes and minimizing collateral damage in cancer treatment.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39408820/) · [DOI](https://doi.org/10.3390/ijms251910490) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11477154/)
+
+
+---
+
+### Effect of Ultrahigh Dose Rate on Biomolecular Radiation Damage.
+
+*Sforza D, Bunz F, Wong J, Miles D, Adhikary A, Rezaee M* — Radiation research (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Dose rate is one of the important parameters in radiation-induced biomolecular damage. The effects of dose rate have been known to modify radiation toxicity in biological systems.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This in vitro study compares DNA damage induction in plasmid DNA (pUC19) irradiated with kV X-rays at conventional dose rate (0.1 Gy/s), high dose rate (25 Gy/s), and ultrahigh dose rates (55 and 125 Gy/s) under aerated and anoxic conditions with varying hydroxyl radical scavenging capacities. At UHDR and doses &gt;40 Gy in aerated solution, strand break and clustered damage yields were reduced by factors of 1.3–3.5 compared to conventional and HDR irradiation. The dose-rate effect was independent of oxygen depletion and inter-track recombination, pointing instead to radical–radical reactions as the mechanistic basis for reduced biomolecular damage at ultrahigh dose rates.
+
+
+??? note "Abstract"
+    Dose rate is one of the important parameters in radiation-induced biomolecular damage. The effects of dose rate have been known to modify radiation toxicity in biological systems. The rate and extent of sublethal DNA damage (e.g., base damage and single-strand breaks) repair and those of cell proliferation have been manifested by dose rate. However, the recent preclinical application of ultrahigh dose rate \[(UHDR) ca. 40 Gy/s and higher\] radiation modalities have been shown to lower the type and extent of radiation damage to biological systems. At these UHDR, radiation-induced physicochemical and chemical processes are expected to differ from those observed after irradiation at conventional dose rates (CONV). It is unclear whether these UHDR conditions can affect the quality (type) and quantity (extent) of biomolecular damage such as DNA lesions. Here, we comparatively study the influence of indirect effects of CONV and UHDR on the formation of DNA strand breaks and clustered damage including densely accumulated lesions in an aerated and an anoxic dilute aqueous solution of a plasmid DNA model under low and high hydroxyl radical (•OH) scavenging conditions. Aqueous solutions of purified supercoiled plasmid DNA (pUC19) were prepared in either air- or nitrogen-saturated conditions, with Tris buffer added as the radiation-produced •OH scavenger at low and high scavenging capacities. These DNA samples were irradiated using kV X-ray systems at CONV (0.1 Gy/s) and high dose rate (HDR, 25 Gy/s) as well as UHDR (55 and 125 Gy/s) under different scavenging and environmental conditions. DNA lesions including strand breaks and clustered damage including densely accumulated lesions were quantified by gel electrophoresis and the yields of these lesions were calculated from the dose-response curve. Non-DSB clustered damage including densely accumulated lesions were evaluated by treating DNAs using bacterial endonuclease enzymes (Fpg and Nth) prior to gel electrophoresis. UHDR of 55 and 125 Gy/s induced lower amounts of both isolated strand breaks and clustered DNA damage including densely accumulated lesions at doses &gt;40 Gy in the presence of oxygen, compared to the abundance of these lesions induced by 0.1 and 25 Gy/s irradiation under the same dose conditions. Overall, the strand break and clustered damage including densely accumulated lesions yields decreased by factors of 1.3-3.5 after UHDR. We did not observe these differences either via •OH scavenging or by removing oxygen from the solution. In addition, our results point out that the inter-track recombination reactions did not contribute to the observed dose-rate effects on DNA damage. The effects of dose rate on DNA damage are highly dependent on the total dose, as expected, but also on the •OH scavenging capacity that is employed in the aqueous DNA solutions. These important variables may be relevant in biological systems as well. On a practical level, our in vitro plasmid DNA model, which permits to precisely vary the •OH scavenging capacity and gassing conditions (air saturated vs. N2 saturated) can help to differentiate dose-rate effects on biomolecular damage. Our results indicate that the radical-radical reactions are important in understanding the dose-rate effect on DNA damage.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39405451/) · [DOI](https://doi.org/10.1667/RADE-24-00100.1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11624112/)
 
 
 ---
@@ -1398,11 +1465,38 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Objective. This work aims to investigate the iso-effectiveness of conventional and FLASH radiotherapy on tumors through in-silico mathematical models.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A spatiotemporal reaction-diffusion model incorporating radiolytic oxygen depletion (ROD) was used to simulate tumor oxygenation and response to conventional and ultra-high dose rate radiotherapy. Surviving fractions were calculated using the linear-quadratic model with oxygen enhancement ratios, then applied to tumor growth curve models and tumor control probability calculations. The study found that ROD may produce small differences in surviving fraction between delivery modes, insufficient to significantly alter preclinical tumor growth curves but potentially important for clinical tumor control probability predictions, particularly in well-oxygenated tumors.
+
+
 ??? note "Abstract"
     Objective. This work aims to investigate the iso-effectiveness of conventional and FLASH radiotherapy on tumors through in-silico mathematical models. We focused on the role of radiolytic oxygen depletion (ROD), which has been argued as a possible factor to explain the FLASH effect.Approach. We used a spatiotemporal reaction-diffusion model, including ROD, to simulate tumor oxygenation and response. From those oxygen distributions we obtained surviving fractions (SFs) using the linear-quadratic (LQ) model with the oxygen enhancement ratios (OERs). We then employed the calculated SFs to describe the evolution of preclinical tumor volumes through a mathematical model of tumor response, and we also extrapolated those results to calculate tumor control probabilities (TCPs) using the Poisson-LQ approach.Main results. Our study suggests that the ROD effect may cause differences in SF between FLASH and conventional radiotherapy, especially in lowα/βandpoorly oxygenatedcells. However, a statistical analysis showed that these changes in SF generally do not result in significant differences in the evolution of preclinical tumor growth curves when the sample size is small, because such differences in SF may not be noticeable in the heterogeneity of the population of animals. Nonetheless, when extrapolating this effect to TCP curves, we observed important differences between both techniques (TCP is lower in FLASH radiotherapy). When analyzing the response of tumors with heterogeneous oxygenations, differences in TCP are more important forwell oxygenatedtumors. This apparent contradiction with the results obtained for homogeneously oxygenated cells is explained by the complex interplay between the heterogeneity of tumor oxygenation, the OER effect, and the ROD effect.Significance. This study supports the experimentally observed iso-effectiveness of FLASH and conventional radiotherapy when analyzing the volume evolution of preclinical tumors (that are far from control). However, this study also hints that tumor growth curves may be less sensitive to small variations in SF than tumor control probability: ROD may lead to increased SF in FLASH radiotherapy, which while not large enough to cause significant differences in tumor growth curves, could lead to important differences in clinical TCPs. Nonetheless, it cannot be discarded that other effects not modeled in this work, like radiation-induced immune effects, can contribute to tumor control and maintain the iso-effectiveness of FLASH radiotherapy. The study of tumor growth curves may not be the ideal experiment to test the iso-effectiveness of FLASH, and experiments reporting TCP orD50may be preferred.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39357538/) · [DOI](https://doi.org/10.1088/1361-6560/ad8291)
+
+
+---
+
+### A microscopic oxygen transport model for ultra-high dose rate radiotherapy in vivo: The impact of physiological conditions on FLASH effect.
+
+*Guo L, Medin PM, Wang KK* — Medical physics (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Ultra-high dose rate irradiation (≥40 Gy/s, FLASH) has been shown to reduce normal tissue toxicity, while maintaining tumor control compared to conventional dose-rate radiotherapy. The radiolytic oxygen (O2) depletion (ROD) resulting from FLASH has been proposed to explain the normal tissue protection effect; however, in vivo experiments have not confirmed that FLASH induced global tissue hypoxia.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A three-dimensional computational model of oxygen transport and consumption in tissue during irradiation predicts spatially and temporally resolved oxygen depletion and changes in oxygen enhancement ratio (OER) under ultra-high dose rate conditions. The model incorporates blood flow, diffusion, metabolic and radiolytic oxygen consumption, and pulsed radiation structure. Results indicate saturation of the FLASH effect beyond approximately 60 Gy/s, dose-dependent saturation, tissue-environment dependence on physiological parameters such as intercapillary spacing, and that pulse structure affects radiosensitivity independent of instantaneous dose rate, supporting average dose rate as a relevant metric.
+
+
+??? note "Abstract"
+    BACKGROUND: Ultra-high dose rate irradiation (≥40 Gy/s, FLASH) has been shown to reduce normal tissue toxicity, while maintaining tumor control compared to conventional dose-rate radiotherapy. The radiolytic oxygen (O2) depletion (ROD) resulting from FLASH has been proposed to explain the normal tissue protection effect; however, in vivo experiments have not confirmed that FLASH induced global tissue hypoxia. Nonetheless, the experiments reported are based on volume-averaged measurement, which have inherent limitations in detecting microscopic phenomena, including the potential preservation of stem cells niches due to local FLASH-induced O2 depletion. Computational modeling offers a complementary approach to understand the ROD caused by FLASH at the microscopic level. PURPOSE: We developed a comprehensive model to describe the spatial and temporal dynamics of O2 consumption and transport in response to irradiation in vivo. The change of oxygen enhancement ratio (OER) was used to quantify and investigate the FLASH effect as a function of physiological and radiation parameters at microscopic scale. METHODS: We considered time-dependent O2 supply and consumption in a 3D cylindrical geometry, incorporating blood flow linking the O2 concentration (\[O2\]) in the capillary to that within the tissue through the Hill equation, radial and axial diffusion of O2, metabolic and zero-order radiolytic O2 consumption, and a pulsed radiation structure. Time-evolved distributions of \[O2\] were obtained by numerically solving perfusion-diffusion equations. The model enables the computation of dynamic O2 distribution and the relative change of OER (δROD) under various physiological and radiation conditions in vivo. RESULTS: Initial \[O2\] level and the subsequent changes during irradiation determined δROD distribution, which strongly depends on physiological parameters, i.e., intercapillary spacing, ultimately determining the tissue area with enhanced radioresistance. We observed that the δROD/FLASH effect is affected by and sensitive to the interplay effect among physiological and radiation parameters. It renders that the FLASH effect can be tissue environment dependent. The saturation of FLASH normal tissue protection upon dose and dose rate was shown. Beyond ∼60 Gy/s, no significant decrease in radiosensitivity within tissue region was observed. In turn, for a given dose rate, the change of radiosensitivity became saturated after a certain dose level. Pulse structures with the same dose and instantaneous dose rate but with different delivery times were shown to have distinguishable δROD thus tissue sparing, suggesting the average dose rate could be a metric assessing the FLASH effect and demonstrating the capability of our model to support experimental findings. CONCLUSION: On a macroscopic scale, the modeling results align with the experimental findings in terms of dose and dose rate thresholds, and it also indicates that pulse structure can vary the FLASH effect. At the microscopic level, this model enables us to examine the spatially resolved FLASH effect based on physiological and irradiation parameters. Our model thus provides a complementary approach to experimental methods for understanding the underlying mechanism of FLASH radiotherapy. Our results show that physiological conditions can potentially determine the FLASH efficacy in tissue protection. The FLASH effect may be observed under optimal combination of physiological parameters, not limited to radiation conditions alone.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39284344/) · [DOI](https://doi.org/10.1002/mp.17398)
 
 
 ---
@@ -1417,11 +1511,38 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** The Circular Electron-Positron Collider (CEPC) in China can also work as an excellent powerful synchrotron light source, which can generate high-quality synchrotron radiation. This synchrotron radiation has potential advantages in the medical field as it has a broad spectrum, with energies ranging from visible light to X-rays used in conventional radiotherapy, up to several megaelectronvolts.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    The authors used Geant4 simulation to design a synchrotron radiation beamline from the Circular Electron-Positron Collider (CEPC) and modeled the dose rate capability. A physicochemical model of radiotherapy response kinetics was developed and fitted to experimental data to relate treatment effect to dose rate and dose. The model predicted macroscopic treatment outcomes for FLASH radiotherapy using CEPC synchrotron radiation at dose rates greater than 40 Gy/s.
+
+
 ??? note "Abstract"
     The Circular Electron-Positron Collider (CEPC) in China can also work as an excellent powerful synchrotron light source, which can generate high-quality synchrotron radiation. This synchrotron radiation has potential advantages in the medical field as it has a broad spectrum, with energies ranging from visible light to X-rays used in conventional radiotherapy, up to several megaelectronvolts. FLASH radiotherapy is one of the most advanced radiotherapy modalities. It is a radiotherapy method that uses ultra-high dose rate irradiation to achieve the treatment dose in an instant; the ultra-high dose rate used is generally greater than 40 Gy s-1, and this type of radiotherapy can protect normal tissues well. In this paper, the treatment effect of CEPC synchrotron radiation for FLASH radiotherapy was evaluated by simulation. First, a Geant4 simulation was used to build a synchrotron radiation radiotherapy beamline station, and then the dose rate that the CEPC can produce was calculated. A physicochemical model of radiotherapy response kinetics was then established, and a large number of radiotherapy experimental data were comprehensively used to fit and determine the functional relationship between the treatment effect, dose rate and dose. Finally, the macroscopic treatment effect of FLASH radiotherapy was predicted using CEPC synchrotron radiation through the dose rate and the above-mentioned functional relationship. The results show that the synchrotron radiation beam from the CEPC is one of the best beams for FLASH radiotherapy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39172092/) · [DOI](https://doi.org/10.1107/S1600577524006878) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11371022/)
+
+
+---
+
+### Correlation between local instantaneous dose rate and oxygen pressure reduction during proton pencil beam scanning irradiation.
+
+*Kanouta E, Johansen JG, Poulsen S, Kristensen L, Sørensen BS, Grau C et al.* — Physics and imaging in radiation oncology (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Oxygen dynamics may be important for the tissue-sparing effect observed at ultra-high dose rates (FLASH sparing effect). This study investigated the correlation between local instantaneous dose rate and radiation-induced oxygen pressure reduction during proton pencil beam scanning (PBS) irradiations of a sample and quantified the oxygen consumption g-value.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study measured radiation-induced oxygen pressure reduction in a phosphorescent saline sample during 244 MeV proton pencil beam scanning irradiation. A high correlation (r = 0.96–0.99) was found between local instantaneous dose rate and the rate of pO₂ reduction on a spot-by-spot basis. The oxygen consumption g-value was determined to be 0.17–0.18 mmHg/Gy, establishing a direct quantitative relationship between dose rate and oxygen depletion dynamics relevant to understanding the FLASH effect mechanism.
+
+
+??? note "Abstract"
+    BACKGROUND AND PURPOSE: Oxygen dynamics may be important for the tissue-sparing effect observed at ultra-high dose rates (FLASH sparing effect). This study investigated the correlation between local instantaneous dose rate and radiation-induced oxygen pressure reduction during proton pencil beam scanning (PBS) irradiations of a sample and quantified the oxygen consumption g-value. MATERIALS AND METHODS: A 0.2 ml phosphorescent sample (1 μM PtG4 Oxyphor probe in saline) was irradiated with a 244 MeV proton PBS beam. Four irradiations were performed with variations of a PBS spot pattern with 5 × 7 spots. During irradiation, the partial oxygen pressure (pO2) was measured with 4.5 Hz temporal resolution with a phosphorometer (Oxyled) that optically excited the probe and recorded the subsequently emitted light. A calibration was performed to calculate the pO2 level from the measured phosphorescence lifetime. A fiber-coupled scintillator simultaneously measured the instantaneous dose rate in the sample with 50 kHz sampling rate. The oxygen consumption g-value was determined on a spot-by-spot level and using the total pO2 change for full spot pattern irradiation. RESULTS: A high correlation was found between the local instantaneous dose rate and pO2 reduction rate, with a correlation coefficient of 0.96-0.99. The g-vales were 0.18 ± 0.01 mmHg/Gy on a spot-by-spot level and 0.17 ± 0.01 mmHg/Gy for full spot pattern irradiation. CONCLUSIONS: The pO2 reduction rate was directly related to the local instantaneous dose rate per delivered spot in PBS deliveries. The methodology presented here can be applied to irradiation at ultra-high dose rates with modifications in the experimental setup.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39157294/) · [DOI](https://doi.org/10.1016/j.phro.2024.100614) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11327481/)
 
 
 ---
@@ -1436,11 +1557,38 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Ultrahigh dose-rate radiation (UHDR) produces less hydrogen peroxide (H2O2) in pure water, as suggested by some experimental studies, and is used as an argument for the validity of the theory that FLASH spares the normal tissue due to less reactive oxygen species (ROS) production. In contrast, most Monte Carlo simulation studies suggest the opposite.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study measures hydrogen peroxide (H₂O₂) production in pure water under ultra-high dose rate (UHDR) versus conventional dose rate using carbon ions (50 vs. 0.1 Gy/s), electrons (600 vs. 0.62 Gy/s), and x-rays (10 vs. 0.1 Gy/s). UHDR produces lower G(H₂O₂) than conventional irradiation across all modalities. The authors demonstrate through chemical scavenger experiments (N₂O and NaNO₃) that solvated electrons (e⁻aq) are responsible for the dose-rate-dependent reduction in H₂O₂, by competing for hydroxyl radicals (•OH) more effectively at higher instantaneous radical concentrations. Results suggest the mechanism differs between high-LET (carbon) and low-LET (electron, x-ray) beams.
+
+
 ??? note "Abstract"
     BACKGROUND: Ultrahigh dose-rate radiation (UHDR) produces less hydrogen peroxide (H2O2) in pure water, as suggested by some experimental studies, and is used as an argument for the validity of the theory that FLASH spares the normal tissue due to less reactive oxygen species (ROS) production. In contrast, most Monte Carlo simulation studies suggest the opposite. PURPOSE: We aim to unveil the effect of UHDR on H2O2 production in pure water and its underlying mechanism, to serve as a benchmark for Monte Carlo simulation. We hypothesized that the reaction of solvated electrons (  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  ) removing hydroxyl radicals (•OH), the precursor of H2O2, is the reason why UHDR leads to a lower G-value (molecules/100 eV) for H2O2 (G\[H2O2\]), because: 1, the third-order reaction between  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  and •OH is more sensitive to increased instantaneous ROS concentration by UHDR than a two-order reaction of •OH self-reaction producing H2O2; 2,  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  has two times higher diffusion coefficient and higher reaction rate constant than that of •OH, which means  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  would dominate the competition for •OH and benefit more from the inter-track effect of UHDR. Meanwhile, we also experimentally verify the theory of long-lived radicals causing lower G(H2O2) in conventional irradiation, which is mentioned in some simulation studies. METHODS AND MATERIALS: H2O2 was measured by Amplex UltraRed assay. 430.1 MeV/u carbon ions (50 and 0.1 Gy/s), 9 MeV electrons (600 and 0.62 Gy/s), and 200 kV x-ray tube (10 and 0.1 Gy/s) were employed. For three kinds of water (real hypoxic: 1% O2; hypoxic: 1% O2 and 5% CO2; and normoxic: 21% O2), unbubbled and bubbled samples with N2O, the scavenger of  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  , were irradiated by carbon ions and electrons with conventional and UHDR at different absolute dose levels. Normoxic water dissolved with sodium nitrate (NaNO3), another scavenger of  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  , and bubbled with N2O was irradiated by x-ray to verify the results of low-LET electron beam. RESULTS: UHDR leads to a lower G(H2O2) than conventional irradiation. O2 and CO2 can both increase G(H2O2). N2O increases G(H2O2) of both UHDR and conventional irradiation and eliminates the difference between them for carbon ions. However, N2O decreases G(H2O2) in electron conventional irradiation but increases G(H2O2) in the case of UHDR, ending up with no dose-rate dependency of G(H2O2). Three-spilled carbon UHDR does not have a lower G(H2O2) than one-spilled UHDR. However, the electron beam shows a lower G(H2O2) for three-spilled UHDR than for one-spilled UHDR. Normoxic water with N2O or NaNO3 can both eliminate the dose rate dependency of H2O2 production for x-ray. CONCLUSIONS: UHDR has a lower G(H2O2) than the conventional irradiation for both high LET carbon and low LET electron and x-ray beams. Both scavengers for  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  , N2O and NaNO3, eliminate the dose-rate dependency of G(H2O2), which suggests  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  is the reason for decreased G(H2O2) for UHDR. Three-spilled UHDR versus one-spilled UHDR indicates that the assumption of residual radicals reducing G(H2O2) of conventional irradiation may only be valid for low LET electron beam.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39092902/) · [DOI](https://doi.org/10.1002/mp.17335)
+
+
+---
+
+### Modelling of RBE differences in selected points within similar spread-out Bragg-peaks (SOBP) placed at superficial and deep water phantom locations in passively scattered beams but not in scanned pencil beams: A hypothesis.
+
+*Jones B* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** To model relative biological effectiveness (RBE) differences found in two studies which used spread-out Bragg-peaks (SOBP) placed at (a) superficial depth and (b) at the maximum range depth. For pencil beam scanning (PBS), RBE at similar points within the SOBP did not change between the two extreme SOBP placement depths; in passively scattered beams (PSB), high RBE values (typically 1.2-1.3) were …
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper models relative biological effectiveness (RBE) differences observed in proton therapy when spread-out Bragg peaks (SOBP) are positioned at superficial versus deep locations in water phantoms. The authors propose that dose-rate-dependent changes in radiosensitivity parameters (α and β) explain why passively scattered beams show RBE variation with depth (1.2–1.3 at superficial positions, 1.0–1.07 at depth) while pencil beam scanning shows no such variation. The model uses experimentally measured dose rates, LET distributions, and radiosensitivity ratios to estimate RBE values, achieving agreement within 5% of experimental results for deeply positioned SOBP in passive scattering.
+
+
+??? note "Abstract"
+    PURPOSE: To model relative biological effectiveness (RBE) differences found in two studies which used spread-out Bragg-peaks (SOBP) placed at (a) superficial depth and (b) at the maximum range depth. For pencil beam scanning (PBS), RBE at similar points within the SOBP did not change between the two extreme SOBP placement depths; in passively scattered beams (PSB), high RBE values (typically 1.2-1.3) were found within superficially- placed SOBP but reduced to lower values (1-1.07) at similar points within the extreme-depth positioned SOBP. The dose, LET (linear energy transfer) distributions along each SOBP were closely comparable regardless of placement depth, but significant changes in dose rate occurred with depth in the PSB beam. METHODS: The equations used allow α and β changes with falling dose rate (the converse to FLASH studies) in PSB, resulting in reduced α/β ratios, compatible with a reduction in micro-volumetric energy transfer (the product of Fluence and LET), with commensurate reductions in RBE. The experimental depth-distances, positions within SOBP, observed dose-rates and radiosensitivity ratios were used to estimate the changes in RBE. RESULTS: RBE values within a 5 % tolerance limit of the experimental results for PSB were found at the deepest SOBP placement. No RBE changes were predicted for PBS beams, as in the published results. CONCLUSIONS: Enhanced proton therapy toxicity might occur with PBS when compared with PSB for deeply positioned SOBP due to the maintenance of higher RBE. Scanned pencil beam users need to be vigilant about RBE and further research is indicated.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39074409/) · [DOI](https://doi.org/10.1016/j.ejmp.2024.104488)
 
 
 ---
@@ -1453,6 +1601,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 
 
 **TL;DR.** At the dawn of the 20th Century, the underlying chemistry that produced the observed effects of ionizing radiation, e.g., X rays and Radium salts, on aqueous solutions was either unknown or restricted to products found postirradiation. For example, the Curies noted that sealed aqueous solutions of Radium inexplicably decomposed over time, even when kept in the dark.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This historical review traces the development of radiation chemistry from the early 20th century through the present, with emphasis on how chemical mechanisms explain radiobiological effects. The authors identify FLASH radiotherapy as one of two emerging directions requiring radiation chemistry expertise, discussing how temporal and spatial properties of radiolytic species are relevant to understanding ultra-high dose rate effects, though the abstract does not present new experimental data or model results specific to FLASH.
 
 
 ??? note "Abstract"
@@ -1474,6 +1626,10 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Objective.Clinical applications of FLASH radiotherapy require formulas to describe how the FLASH radiation features and other related factors determine the FLASH effect. Mathematical analysis of the models can connect the theoretical hypotheses with the radiobiological effect, which provides the foundation for establishing clinical application models.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Mathematical analysis of two leading mechanistic hypotheses for the FLASH effect: oxygen depletion and radical recombination-antioxidants pathways. The authors derive closed-form equations linking radiation features, chemical kinetics, and biological outcomes, identify key parameters (initial oxygen concentration, radiolytic oxygen consumption, oxygen recovery, antioxidant levels), and propose methodologies for parameter estimation and FLASH effect prediction using hybrid conventional and ultra-high dose rate experimental designs.
+
+
 ??? note "Abstract"
     Objective.Clinical applications of FLASH radiotherapy require formulas to describe how the FLASH radiation features and other related factors determine the FLASH effect. Mathematical analysis of the models can connect the theoretical hypotheses with the radiobiological effect, which provides the foundation for establishing clinical application models. Moreover, experimental and clinical data can be used to explore the key factors through mathematical analysis.Approach.We abstract the complex models of the oxygen depletion hypothesis and radical recombination-antioxidants hypothesis into concise mathematical equations. The equations are solved to analyze how the radiation features and other factors influence the FLASH effect. Then we propose methodologies for determining the parameters in the models and utilizing the models to predict the FLASH effect.Main results.The formulas linking the physical, chemical and biological factors to the FLASH effect are obtained through mathematical derivation of the equation. The analysis indicates that the initial oxygen concentration, radiolytic oxygen consumption and oxygen recovery are key factors for the oxygen depletion hypothesis and that the level of antioxidants is the key factor for the radical recombination-antioxidants hypothesis. According to the model derivations and analysis, the methodologies for determining parameters and predicting the FLASH effect are proposed: (1) the criteria for data filtration, (2) the strategy of hybrid FLASH and conventional dose rate (CONV) irradiation to ensure the acquisition of effective experimental data across a wide dose range, (3) the pipelines of fitting parameters and predicting the FLASH effect.Significance.This study establishes the quantitative relationship between the FLASH effect and key factors. The derived formulas can be used to calculate the FLASH effect in future clinical FLASH radiotherapy. The proposed methodologies guide to obtain sufficient high-quality datasets and utilize them to predict the FLASH effect. Furthermore, this study indicates the key factors of the FLASH effect and offers clues to further explore the FLASH mechanism.
 
@@ -1493,11 +1649,84 @@ Monte Carlo, radiochemistry, oxygen-depletion and kinetic models explaining the 
 **TL;DR.** Radiobiological effectiveness of radiation in cancer treatment can be studied at different scales (molecular till organ scale) and different time post irradiation. The production of free radicals and reactive oxygen species during water radiolysis is particularly relevant to understand the fundamental mechanisms playing a role in observed biological outcomes.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work validates a Geant4-DNA chemistry module for simulating water radiolysis and reactive oxygen species production following proton irradiation. Using GATE Monte Carlo simulations of a 67.5 MeV proton beam at 0.2 Gy/s on liquid water and Fricke dosimeters, the authors tracked evolution of nine radiolytic species up to 1 hour post-irradiation, demonstrating agreement with experimental H₂O₂ yields under aerated and deaerated conditions within reported uncertainties, though G(Fe³⁺) was 11% higher than measured. The results are framed as foundational for studying mechanisms underlying the FLASH effect at ultra-high dose rates.
+
+
 ??? note "Abstract"
     BACKGROUND: Radiobiological effectiveness of radiation in cancer treatment can be studied at different scales (molecular till organ scale) and different time post irradiation. The production of free radicals and reactive oxygen species during water radiolysis is particularly relevant to understand the fundamental mechanisms playing a role in observed biological outcomes. The development and validation of Monte Carlo tools integrating the simulation of physical, physico-chemical and chemical stages after radiation is very important to maintain with experiments. PURPOSE: Therefore, in this study, we propose to validate a new Geant4-DNA chemistry module through the simulation of water radiolysis and Fricke dosimetry experiments on a proton preclinical beam line. MATERIAL AND METHODS: In this study, we used the GATE Monte Carlo simulation platform (version 9.3) to simulate a 67.5 MeV proton beam produced with the ARRONAX isochronous cyclotron (IBA Cyclone 70XP) at conventional dose rate (0.2 Gy/s) to simulate the irradiation of ultra-pure liquid water samples and Fricke dosimeter. We compared the depth dose profile with measurements performed with a plane parallel Advanced PTW 34045 Markus ionization chamber. Then, a new Geant4-DNA chemistry application proposed from Geant4 version 11.2 has been used to assess the evolution of  HO • ${\mathrm{HO}}^ \bullet $  ,  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  ,   H 3 O +  ${{\mathrm{H}}}_3{{\mathrm{O}}}^ + $  ,   H 2 O 2  ${{\mathrm{H}}}_2{{\mathrm{O}}}_2$  ,  H 2 ${{\mathrm{H}}}_2$  ,  HO 2 • ${\mathrm{HO}}_2^ \bullet $  ,   HO 2 - ,  O 2 • -   ${\mathrm{HO}}_2^ - ,{\mathrm{\ O}}_2^{ \bullet - }$  and  HO - ${\mathrm{HO}}^ - $  reactive species along time until 1-h post-irradiation. In particular, the effect of oxygen and pH has been investigated through comparisons with experimental measurements of radiolytic yields for   H 2 O 2  ${{\mathrm{H}}}_2{{\mathrm{O}}}_2$  and Fe3+. RESULTS: GATE simulations reproduced, within 4%, the depth dose profile in liquid water. With Geant4-DNA, we were able to reproduce experimental   H 2 O 2  ${{\mathrm{H}}}_2{{\mathrm{O}}}_2$  radiolytic yields 1-h post-irradiation in aerated and deaerated conditions, showing the impact of small changes in oxygen concentrations on species evolution along time. For the Fricke dosimeter, simulated G(Fe3+) is 15.97 ± 0.2 molecules/100 eV which is 11% higher than the measured value (14.4 ± 04 molecules/100 eV). CONCLUSIONS: These results aim to be consolidated by new comparisons involving other radiolytic species, such as  e aq - ${\mathrm{e}}_{{\mathrm{aq}}}^ - $  or  ,  O 2 • -   $,{\mathrm{\ O}}_2^{ \bullet - }$  to further study the mechanisms underlying the FLASH effect observed at ultra-high dose rates (UHDR).
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38976841/) · [DOI](https://doi.org/10.1002/mp.17281)
+
+
+---
+
+### Two-dimensional oxygen-diffusion modelling for FLASH proton therapy with pencil beam scanning-Impact of diffusive tissue properties, dose, dose rate and scan patterns.
+
+*Diepeveen MH, Lathouwers D, José Santo R, Hoogeman MS, Habraken SJM* — Physics in medicine and biology (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective.Oxygen depletion is generally believed to play an important role in the FLASH effect-a differential reduction of the radiosensitivity of healthy tissues, relative to that of the tumour under ultra-high dose-rate (UHDR) irradiation conditions. In proton therapy (PT) with pencil-beam scanning (PBS), the deposition of dose, and, hence, the degree of (radiolytic) oxygen depletion varies both…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A two-dimensional oxygen-diffusion model was developed to study radiolytic oxygen depletion in FLASH proton therapy with pencil-beam scanning. The model evaluated how tissue diffusive properties, dose, dose rate, and scan patterns affect spatial and temporal oxygen concentration and the resulting healthy-tissue sparing effect. Key findings were that diffusive properties are critical for the FLASH effect, the effect depends primarily on dose with slight dose-rate dependence, and scan patterns optimized for dose rate produce modest increases in oxygen-induced FLASH effect.
+
+
+??? note "Abstract"
+    Objective.Oxygen depletion is generally believed to play an important role in the FLASH effect-a differential reduction of the radiosensitivity of healthy tissues, relative to that of the tumour under ultra-high dose-rate (UHDR) irradiation conditions. In proton therapy (PT) with pencil-beam scanning (PBS), the deposition of dose, and, hence, the degree of (radiolytic) oxygen depletion varies both spatially and temporally. Therefore, the resulting oxygen concentration and the healthy-tissue sparing effect through radiation-induced hypoxia varies both spatially and temporally as well.Approach.We propose and numerically solve a physical oxygen diffusion model to study these effects and their dependence on tissue parameters and the scan pattern in pencil-beam delivery. Since current clinical FLASH PT (FLASH-PT) is based on 250 MeV shoot-through (transmission) beams, for which dose and dose rate (DR) hardly vary with depth compared to the variation transverse to the beam axis, we focus on the two-dimensional case. We numerically integrate the model to obtain the oxygen concentration in each voxel as a function of time and extract voxel-based and spatially and temporarily integrated metrics for oxygen (FLASH) enhanced dose. Furthermore, we evaluate the impact on oxygen enhancement of standard pencil-beam delivery patterns and patterns that were optimised on dose-rate. Our model can contribute to the identification of tissue properties and pencil-beam delivery parameters that are critical for FLASH-PT and it may be used for the optimisation of FLASH-PT treatment plans and their delivery.Main results.(i) the diffusive properties of oxygen are critical for the steady state concentration and therefore the FLASH effect, even more so in two dimensions when compared to one dimension. (ii) The FLASH effect through oxygen depletion depends primarily on dose and less on other parameters. (iii) At a fixed fraction dose there is a slight dependence on DR. (iv) Scan patterns optimised on DR slightly increase the oxygen induced FLASH effect.Significance.To our best knowledge, this is the first study assessing the impact of scan-pattern optimization (SPO) in FLASH-PT with PBS on a biological FLASH model. While the observed impact of SPO is relatively small, a larger effect is expected for larger target volumes. A better understanding of the FLASH effect and the role of oxygen (depletion) therein is essential for the further development of FLASH-PT with PBS, and SPO.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38959905/) · [DOI](https://doi.org/10.1088/1361-6560/ad5eee)
+
+
+---
+
+### Comment on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
+
+*Liew H, Mairani A* — Physics in medicine and biology (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** We comment on the recently published study &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; by Shiraishiet al. While the general approach of the study may be appropriate, we wish to comment on its limitations and point out issues concerning their choice of the benchmarking and fitting data.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This is a technical commentary on a recently published modeling study by Shiraishi et al. that developed a model to predict cell survival after ultra-high dose rate irradiation. The authors critique the original study&#x27;s approach, limitations, and choice of benchmarking and fitting data, arguing that while the general methodology may be sound, it requires extension and access to more comprehensive experimental datasets before it can be considered fully viable.
+
+
+??? note "Abstract"
+    We comment on the recently published study &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; by Shiraishiet al. While the general approach of the study may be appropriate, we wish to comment on its limitations and point out issues concerning their choice of the benchmarking and fitting data. The approach by the authors could become viable in an extended form once more comprehensive data is available.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38700989/) · [DOI](https://doi.org/10.1088/1361-6560/ad3edb)
+
+
+---
+
+### Reply to comment on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
+
+*Shiraishi Y, Matsuya Y, Fukunaga H* — Physics in medicine and biology (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Liew and Mairani commented on our paper &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; (Shiraishiet al2024aPhys. Med.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This reply defends a biophysical model for predicting cell survival fraction after ultra-high dose rate irradiation by addressing a comment questioning the model&#x27;s neglect of oxygen concentration. The authors demonstrate that their model, which predicts dose-response curves following ultra-high dose rate exposure by considering DNA damage yields, can reproduce experimental survival data using only normoxic DNA damage measurements, while acknowledging limitations in both the model and available experimental data for parameter determination.
+
+
+??? note "Abstract"
+    Liew and Mairani commented on our paper &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; (Shiraishiet al2024aPhys. Med. Biol.69015017), which proposed a biophysical model to predict the dose-response curve of surviving cell fractions after ultra-high dose rate irradiation following conventional dose rate irradiation by considering DNA damage yields. They suggested the need to consider oxygen concentration in our prediction model and possible issues related to the data selection process used for the benchmarking test in our paper. In this reply, we discuss the limitations of both the present model and the available experimental data for determining the model&#x27;s parameters. We also demonstrate that our proposed model can reproduce the experimental survival data even when using only the experimental DNA damage data measured reliably under normoxic conditions.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38700988/) · [DOI](https://doi.org/10.1088/1361-6560/ad3edc)
 
 
 ---
