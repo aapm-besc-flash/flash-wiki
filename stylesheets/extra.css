@@ -1,0 +1,15 @@
+
+.badge{display:inline-block;padding:2px 8px;margin:2px;border-radius:10px;font-size:.72rem;font-weight:600}
+.badge.oa{background:#2e7d32;color:#fff}.badge.tag{background:#e3edf7;color:#1F4E79}
+h3{margin-top:1.4em}
+.stat-row{display:flex;gap:18px;flex-wrap:wrap;margin:18px 0}
+.stat-row .stat{background:#eaf1f8;border-radius:10px;padding:12px 18px;min-width:120px}
+.stat-row .stat b{display:block;font-size:1.5rem;color:#1F4E79;line-height:1.1}
+.stat-row .stat span{font-size:.72rem;text-transform:uppercase;letter-spacing:.5px;color:#5b6b7b}
+.cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin:14px 0}
+.cat-card{display:block;border:1px solid #d8e2ee;border-radius:12px;padding:16px;text-decoration:none;
+color:inherit;background:#fff;transition:.15s}
+.cat-card:hover{border-color:#2E74B5;box-shadow:0 3px 10px rgba(31,78,121,.12)}
+.cat-card .n{font-size:1.6rem;font-weight:700;color:#1F4E79}
+.cat-card .c{display:block;font-weight:700;margin:2px 0 6px;color:#183a5c}
+.cat-card .d{display:block;font-size:.8rem;color:#5b6b7b;line-height:1.4}
