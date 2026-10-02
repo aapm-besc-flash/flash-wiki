@@ -1,4 +1,231 @@
 TY  - JOUR
+TI  - Characterization and Mitigation of Boundary Sampling Artifacts in Electron Phase Space Generation for Clinical FLASH-RT Deployment.
+AU  - Carballeira R
+AU  - Zhang R
+AU  - Willy KJ
+AU  - Cash H
+AU  - Gladstone DJ
+PY  - 2026
+JO  - ArXiv
+AB  - Applicator-specific phase space (PHSP) files recorded at the aperture exit reduce Monte Carlo dose calculation time by 30-50% for electron FLASH radiotherapy. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts. This study characterizes these artifacts in Geant4-based simulations and demonstrates their mitigation. PHSP files were generated using GAMOS 6.2.0 for a 9 MeV Mobetron UHDR model across twelve clinical aperture configurations (2.5-10 cm diameter). Three scoring plane positions were evaluated relative to the physical aperture exit: coincident with the interface, 0.1 mm downstream, and 1 mm downstream. Scoring at the exact interface produced proximal R50 shifts of up to 2.2 mm and Distance-to-Agreement (DTA) values of 4-6 mm, exceeding clinical acceptance criteria. Artifact severity scaled inversely with aperture diameter, with the smallest configurations most severely affected. A 0.1 mm offset partially restored the primary electron energy spectrum but failed to recover the bremsstrahlung tail. A 1 mm offset fully resolved all artifacts, achieving mean DTA values within 2.0 mm, equivalent to or better than linac-exit references. These artifacts arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety equals zero at exact material boundaries, producing incomplete secondary electron equilibration and suppressed bremsstrahlung production. Angular distribution analysis revealed a near-forward particle pileup in the 0 mm PHSP and a deficit of large-angle secondaries recovered by the 1 mm offset. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics. This requirement applies to any Geant4-based framework (including TOPAS and GATE) scoring PHSP files at material exit surfaces.
+AN  - 42818460
+UR  - https://pubmed.ncbi.nlm.nih.gov/42818460/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - Context-Dependent Radioenhancement by Platinum Nanoparticles Under Conventional and Ultra-High Dose-Rate "FLASH" Radiotherapy.
+AU  - Schott C
+AU  - Feghali F
+AU  - Gerbé de Thoré M
+AU  - Joudat A
+AU  - Meziani L
+AU  - Rajpal A
+AU  - Liu W
+AU  - Manoliu T
+AU  - Savina F
+AU  - Lacombe S
+AU  - Deutsch E
+AU  - Colnot J
+AU  - Robert C
+AU  - Porcel E
+AU  - Maury P
+PY  - 2026
+JO  - Small (Weinheim an der Bergstrasse, Germany)
+AB  - Metallic nanoparticles (NPs) and ultra-high dose rate (UHDR, FLASH) irradiation are being developed to widen the therapeutic index of radiotherapy, but their interaction remains poorly defined. We assessed PEGylated platinum nanoparticles (Pt-NPs) in 4T1 tumor spheroids and syngeneic 4T1 and MC38 mouse models exposed to conventional (CONV, 0.125 Gy/s) or UHDR electron irradiation (∼200 Gy/s mean dose rate). Pt-NPs penetrated throughout 4T1 spheroids and were mainly cytoplasmic. In clonogenic assays, Pt-NPs increased radiation-induced loss of reproductive capacity under both dose-rate conditions. LQ analysis suggested dose-dependent divergence between modalities, with significantly greater radioenhancement under UHDR only at 12 Gy (SER: 65.9% vs 40.8%, ΔSER = 25.1 percentage points, 95% CI, 2.1-48.1, p = 0.034). Pt-NPs did not measurably alter apoptosis or γ-H2AX kinetics. Micro-CT confirmed intratumoral platinum at irradiation, but in vivo responses were heterogeneous. Pt-NPs did not improve tumor control in the poorly immunogenic 4T1 model. In the more radiosensitive MC38 model, Pt-NPs showed a nonsignificant trend toward improved tumor control and survival under CONV, with no comparable UHDR benefit. These findings identify an in vitro-to-in vivo disconnect and show that NP radioenhancement cannot be assumed to translate across dose-rate regimens, tumor models, or host backgrounds.
+DO  - 10.1002/smll.75792
+AN  - 42816461
+UR  - https://pubmed.ncbi.nlm.nih.gov/42816461/
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Very high energy electron radiotherapy and gold nanoparticle radiosensitisation: Quantifying DNA damage enhancement in pBR322 plasmids.
+AU  - Small KL
+AU  - Korysko P
+AU  - Gilardi A
+AU  - Tangari G
+AU  - Farabolini W
+AU  - Corsini R
+AU  - Jones RM
+PY  - 2026
+JO  - Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)
+AB  - While novel radiotherapy modalities such as VHEE (Very High Energy Electron) and FLASH are being developed as effective potential cancer treatments, exposure of healthy cells to dose during radiotherapy remains a major challenge. Use of high-Z nanoparticles, in particular gold nanoparticles (AuNPs) has been identified as a method of radiosensitisation - increasing the toxicity of ionising radiation in a localised tumour region while avoiding dose increase to healthy tissue. This study focuses on AuNP radiosensitisation in VHEE irradiation with an investigation into dose enhancement through physical mechanisms. pBR322 plasmid DNA in solution with AuNPs was irradiated with VHEE beams at the CLEAR facility (CERN), with resulting lethal double-strand break (DSB) yields measured. AuNP size and beam energy were varied, in addition to dose rate to determine if a FLASH effect on DSB yield was observed. Significant increases in DSB yield were observed for samples containing 10 nm or 40 nm AuNPs, with dose enhancement factors of 1.21-1.34 and 1.27-1.50 for 10 and 40 nm AuNPs respectively. Such dose enhancement was found to be independent of electron beam energy across the range of 106-201 MeV. No significant variation in dose enhancement factor was observed between low and ultra-high dose rate irradiation. This study, having indicated significant increases in physical radiation effects through inclusion of AuNPs, highlights the potential for incorporating AuNPs in VHEE radiotherapy to increase the subsequent biological effects and improve clinical outcomes in addition to its potential to improve image contrasting.
+DO  - 10.1016/j.ejmp.2026.107177
+AN  - 42801889
+UR  - https://pubmed.ncbi.nlm.nih.gov/42801889/
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of a Faraday cup-style detector as a beam diagnostic system for ultra-high dose rate (FLASH) electron beams.
+AU  - Lopez A
+AU  - Baikalov A
+AU  - Liu K
+AU  - Esplen N
+AU  - Bartzsch S
+AU  - Schüler E
+PY  - 2026
+JO  - Journal of applied clinical medical physics
+AB  - BACKGROUND: Beam diagnostic systems are essential for the development and quality assurance of ultra-high dose rate (UHDR) radiation sources to enable reliable delivery of FLASH radiotherapy (RT). Critically, suitable beam diagnostic systems for electron FLASH sources are lacking. PURPOSE: In this study, we evaluated a Faraday cup-style beam collector (BC), the BC-145-Al, on an UHDR electron linac for FLASH-RT applications. METHODS: The BC performance was benchmarked against a reference alternating-current current transformer (ACCT) across a wide range of beam currents and pulse structures to test the BC's charge linearity and signal resolution capabilities. Two termination impedances were tested: 200 kΩ and 13 Ω. RESULTS: The highly time-resolved signal of the BC was charge-proportional when terminated at 200 kΩ and current-proportional when terminated at 13 Ω, agreeing well with the time-resolved ACCT signal. The cumulative signals from the BC and ACCT showed excellent agreement, maintaining linearity with a deviation of less than ± 0.5% over 50 consecutive pulses (4-µs pulse width, 120-Hz pulse repetition frequency [PRF]). The BC/ACCT signal ratio remained stable within ± 0.5% as the PRF increased from 5 to 120 Hz at constant pulse width. Pulse width measurements from both detectors were also consistent within ± 0.5% across all nominal pulse width values (0.5-4 µs). When the charge per pulse was modulated by either increasing the pulse width or decreasing the source-to-surface distance (from 32.3 to 19.3 cm), the BC signal remained approximately linear with respect to the ACCT signal; however, the BC/ACCT ratio deviated by up to ± 6% across this range. CONCLUSIONS: The BC produced highly time-resolved absolute charge measurements of a pulsed UHDR electron beam across a large range of beam parameters. These results support its potential as a beam diagnostic system for both preclinical studies and clinical applications of electron FLASH radiotherapy.
+DO  - 10.1002/acm2.70819
+AN  - 42786706
+UR  - https://pubmed.ncbi.nlm.nih.gov/42786706/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - Structural and Functional Characteristics of the Liver After Fractionated Local Electron Irradiation and Against the Background of Ascorbic Acid Administration.
+AU  - Demyashkin G
+AU  - Buianova A
+AU  - Pyatigorskaya N
+AU  - Filippova O
+AU  - Brkich G
+AU  - Aladysheva Z
+AU  - Belyaev V
+AU  - Shchekin V
+PY  - 2026
+JO  - Journal of personalized medicine
+AB  - Radiation-induced liver disease (RILD) remains a clinically significant complication of radiotherapy for malignant neoplasms of the liver and upper abdomen, restricting achievable therapeutic doses and adversely affecting patient outcomes. Conventional photon-based radiotherapy (X-rays/γ-rays) exposes substantial volumes of healthy liver parenchyma and adjacent organs to ionizing radiation, increasing the risk of hepatocellular damage, inflammation, and progressive fibrosis. Electron irradiation (β-particles) represents a promising alternative owing to its limited tissue penetration (~2-3 cm) and steep dose fall-off, which significantly reduces exit dose and may reduce exit dose and limit exposure of paratumoral healthy tissues compared with photon therapy. However, the molecular mechanisms underlying electron-induced hepatic damage and strategies for its prevention remain insufficiently characterized. This review systematically analyzes the pathogenesis of radiation-induced liver damage, encompassing direct DNA damage, oxidative stress, mitochondrial dysfunction, NF-κB-mediated inflammation, cellular senescence, and TGF-β/Smad-driven fibrosis. The comparative dosimetric and radiobiological advantages of electron irradiation over photon therapy are discussed, with particular attention to intraoperative radiotherapy, FLASH, and very high-energy electron techniques. Current radioprotective strategies are critically evaluated, with emphasis on the limitations of amifostine and the multifunctional radioprotective potential of ascorbic acid, including free radical scavenging, attenuation of lipid peroxidation, stimulation of endogenous antioxidant defense, and direct inhibition of radiation-induced DNA strand breaks. Existing gaps in the evidence base are identified, and recommendations for future experimental and clinical research are proposed.
+DO  - 10.3390/jpm16090439
+AN  - 42783471
+UR  - https://pubmed.ncbi.nlm.nih.gov/42783471/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Expert consensus on clinical trial design guidelines for FLASH radiotherapy.
+AU  - Luo H
+AU  - Cheng C
+AU  - Yang C
+AU  - Li B
+AU  - Zhang J
+AU  - Yue J
+AU  - Lou Z
+AU  - Liu H
+AU  - Cai J
+AU  - Ge H
+PY  - 2026
+JO  - Precision radiation oncology
+AB  - In recent years, ultra-high dose-rate FLASH radiotherapy (FLASH-RT) has emerged as a prominent research focus in radiation oncology. A series of preclinical data indicate that FLASH-RT can achieve tumor-killing efficacy that is not inferior to that of conventional radiotherapy (CONV-RT) while significantly reducing radiation damage to normal tissues. This distinctive tissue-sparing effect is known as the "FLASH effect." Rapid progress has been made in the clinical translation and application of FLASH-RT. Against this backdrop, the China Anti-Cancer Association Radiation Oncology Committee and the Chinese Medical Doctor Association Radiation Oncology Physician Committee gathered a group of experts and compiled the "Expert Consensus on Clinical Trial Design Guidelines for FLASH Radiotherapy" based on the latest domestic and international research advancements. This document summarizes the latest advances in FLASH-RT and offers practical guidance for its design and translational application in future clinical trials.
+DO  - 10.1002/pro6.70098
+AN  - 42780699
+UR  - https://pubmed.ncbi.nlm.nih.gov/42780699/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Physicochemical modeling of electron FLASH to identify the roles of oxygen, aqueous electrons and causal radical recombination effects underlying them.
+AU  - Thomas WS
+AU  - Cao X
+AU  - Gladstone D
+AU  - Swartz HM
+AU  - Pogue BW
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - &#xD;Background: Ultra high dose rate (UHDR) irradiation reduces normal tissue toxicity as compared conventional dose rate (CDR) irradiation-known as the FLASH effect, yet the underlying radiochemical mechanisms remain poorly understood. Direct measurements rely upon longer lived water radiolysis species such as aqueous electrons (eaq-) and oxygen, to infer behaviors of toxic species leading to tissue damage. This study uses kinetic modeling to identify which chemical pathways exhibit dose rate dependent behavior and can be used to correlate experiments.&#xD;Methods: A comprehensive physicochemical model of water radiolysis was developed, incorporating 17 molecular species and 56 coupled reaction rate equations, with pulsed beam structures matched to published UHDR electron irradiation experiments. Simulations were performed across a range of oxygen tensions (0.1-10% O₂) and dose rate conditions (0.3-300 Gy/s). Model predictions were validated against experimental measurements of eaq- transients,and oxygen consumption in vitro and in vivo. They also were compared to prior computational models.&#xD;Results: Modeled lifetimes of eaq- matched experiments across O2 concentrations and showed that >90% of scavenging occurs via O2 and reactions with proteins, with radical-radical recombination contributing <5% even at 300 Gy/s. The lifetimes of OH• radicals were similarly dominated by protein scavenging, with recombination pathways remaining minor (<5%) with UHDR. Modeled oxygen consumption matched the magnitude and dose rate dependence observed in published experiments. The results indicated a primary dose rate sensitive pathway, the reaction between hydroperoxyl radical (HO₂•) and superoxide (O₂•⁻). Peroxyl radical formation decreased at UHDR within oxygen tensions (≈5-20 mmHg) corresponding to the experimentally observed FLASH oxygen window. &#xD;Conclusion: This work identifies specific radiochemical pathways that exhibit true dose rate sensitivity and clarifies which proposed FLASH mechanisms are unsupported by homogeneous phase radical kinetics. Radical-radical recombination contributes too little (<5%) to account for known FLASH sparing at UHDR, whereas peroxyl radical and HO₂•/O₂•⁻ chemistry shows dose rate dependent behavior within physiologic oxygen tensions associated with FLASH. Although constrained by simplified aqueous conditions lacking scavengers and tissue heterogeneity, the model provides mechanistic insight into the radiochemical regimes dominating the homogeneous phase chemistry.&#xD.
+DO  - 10.1088/1361-6560/aeabe5
+AN  - 42777776
+UR  - https://pubmed.ncbi.nlm.nih.gov/42777776/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
+TI  - Fractal geometry-governed oxygen diffusion: tumors vs. normal tissues.
+AU  - Valizadeh N
+AU  - Rahimi R
+AU  - Abolfath RM
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - To develop a geometry-governed diffusion framework that explains differential tissue response under FLASH ultra-high dose rate (UHDR) irradiation by explicitly accounting for structural heterogeneity and anomalous transport in biological tissues.&#xD;Approach: We formulate a generalized diffusion-reaction model on fractal substrates to describe molecular transport in heterogeneous media. Tissue architecture is characterized by a fractal (Hausdorff) dimension D, while scale-dependent transport inefficiency and memory effects are captured by a fractional parameter θ. Analytical solutions for radially symmetric geometries are derived and&#xD;compared with classical normal (Euclidean) diffusion and a Gaussian reference model under identical physical conditions. Transport behavior is quantified through transient probability distributions and steady-state spatial profiles.&#xD;Main results: The model reveals systematic suppression of long-range transport and enhanced localization as tissue structural complexity increases. Increasing θ leads to subdiffusive dynamics, reduced effective diffusion lengths, and persistent non-Gaussian concentration profiles, even in the steady state. While increasing D alone enhances spatial accessibility, fractional dynamics dominate&#xD;transport behavior when θ > 0, counteracting geometric connectivity. These effects produce a separation between regimes characterized by efficient inter-track overlap and rapid homogenization, and regimes marked by isolated, long-lived reactive domains.&#xD;Conclusion: Fractal geometry provides a unifying physical framework for understanding tissue-dependent transport and differential response under FLASH UHDR irradiation. Normal tissues, characterized by near-Euclidean geometry and weak anomalous effects, permit greater inter-track interaction and recombination, whereas tumor-like tissues with elevated structural complexity exhibit localized transport and reduced collective chemical reactivity. This proof-of-principle study establishes tissue architecture as a fundamental determinant of transport efficiency and offers a mechanistic basis for experimentally observed FLASH tissue sparing, motivating geometry-aware modeling of radiobiological response.&#xD;Significance: This work shifts the emphasis from purely chemical kinetics toward a geometry-governed description of oxygen and reactive oxygen species transport in cells and tissues.
+DO  - 10.1088/1361-6560/aeabe7
+AN  - 42777768
+UR  - https://pubmed.ncbi.nlm.nih.gov/42777768/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
+TI  - Toward quantitative reconstruction of delivered dose in a 3D digital water phantom for electron FLASH-RT via annular-array electron-induced acoustic imaging.
+AU  - Hu X
+AU  - Liu H
+AU  - Wang Y
+AU  - Yang Q
+AU  - Cheng D
+AU  - Zhang Y
+AU  - Nie X
+AU  - Wang J
+AU  - Zhou L
+AU  - Wu D
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Electron FLASH radiotherapy (FLASH-RT) represents a revolutionary and disruptive radiotherapy modality. It delivers high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to healthy normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. To overcome this dosimetric bottleneck, we propose and validate an electron-induced acoustic (EA) reconstruction framework that synergistically integrates adaptive denoising regularization (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, enabling robust quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a three-dimensional (3D) digital water phantom, which serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer's frequency response and the dosimetry system's independent response characteristics. The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion, indicating its promising potential for clinical dose distribution verification and beam parameter characterization in electron-based FLASH-RT.
+DO  - 10.1088/1361-6560/aeabec
+AN  - 42777767
+UR  - https://pubmed.ncbi.nlm.nih.gov/42777767/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Study of three-dimensional dose distribution measurement of ultra-high dose rate electron beam.
+AU  - Zhang W
+AU  - Cheng C
+AU  - Mao R
+AU  - Ma L
+AU  - Li D
+AU  - Peng Z
+AU  - Zhu K
+AU  - Liu W
+AU  - Zhang G
+AU  - Zhang S
+AU  - Xu X
+AU  - Qu W
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - FLASH radiotherapy which employs an ultra-high dose rate (>40 Gy/s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for three-dimensional dose reconstruction. &#xD;Approach: A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization (OSEM) iterative algorithm was adopted to obtain three-dimensional dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate X-rays, as well as 9 MeV electron with an ultra-high dose rate (UHDR) of 120 Gy/s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold). &#xD;Results: The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional X-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution. &#xD;Significance: The proposed three-dimensional dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It shows high accuracy in the evaluation of lateral parameters such as field shape, field size, flatness and uniformity, and can meet the basic requirements for field consistency verification in clinical UHDR radiotherapy QA.
+DO  - 10.1088/1361-6560/aeabeb
+AN  - 42777766
+UR  - https://pubmed.ncbi.nlm.nih.gov/42777766/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Radiobiology
+KW  - FLASH:Treatment Planning & Optimization
+ER  - 
+
+TY  - JOUR
+TI  - BKCa channel deletion modulates the DNA damage response to electron ultra-high dose rate irradiation in glioblastoma cells.
+AU  - Maliszewska-Olejniczak K
+AU  - Fryc M
+AU  - Kustra A
+AU  - Wiktorska K
+AU  - Lenartowicz-Gasik A
+AU  - Soroka W
+AU  - Rzadkiewicz J
+AU  - Żochowska M
+AU  - Kulawiak B
+AU  - Bednarczyk P
+PY  - 2026
+JO  - Journal of neuro-oncology
+AB  - PURPOSE: Large-conductance Ca2 +-activated potassium (BKCa) channels have been implicated in glioblastoma progression and oxidative stress; however, their contribution to the cellular response to ionizing radiation remains poorly understood. Potassium channels represent attractive therapeutic targets because their activity can be modulated pharmacologically using selective inhibitors or genetically by gene silencing (siRNA) or gene knockout (CRISPR/Cas9). Here, we investigated whether genetic inhibition of BKCa modulates the DNA damage response of human glioblastoma cells following electron ultra-high dose rate (UHDR) irradiation. METHODS: Human U87MG glioblastoma cells and BKCa-knockout cells (U87MG ΔαBKCa) were exposed to an electron UHDR-9 MeV beam with an average dose rate of 150 Gy/s. Clonogenic survival, reactive oxygen species levels, cell-cycle distribution, apoptosis, DNA-DSBs, DNA repair, and expression of selected genes encoding DDR pathways were analyzed. RESULTS: BKCa deletion did not significantly alter clonogenic survival following UHDR irradiation. Cells lacking the BKCa channel exhibited elevated ROS levels, altered cell cycle distribution with G0/G1 accumulation, and enhanced apoptosis. UHDR induced lower γH2AX accumulation and reduced 53BP1 foci formation in U87MG ΔαBKCa cells, suggesting impaired DNA damage recognition and repair complex assembly. Gene expression analysis revealed a shift toward upregulation of DSBR pathways and downregulation of PARP-dependent SSBR mechanisms. CONCLUSION: In conclusion, these findings identify BKCa as a regulator of the early molecular response of glioblastoma cells to electron UHDR irradiation and provide a basis for further studies investigating BKCa-dependent radiation responses as a target for therapeutic modulation.
+DO  - 10.1007/s11060-026-05804-z
+AN  - 42773351
+UR  - https://pubmed.ncbi.nlm.nih.gov/42773351/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
 TI  - Novel Bragg peak FLASH radiotherapy: treatment of base-of-skull tumors within existing clinical guidelines.
 AU  - Pennock M
 AU  - Selvaraj B
@@ -69,23 +296,23 @@ KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
-TI  - Pulse width-dependent Monte Carlo source modelling for ultra-high dose rate electron beams.
-AU  - Henao Isaza AM
-AU  - Lopez Paz I
+TI  - Pulse width-dependent Monte Carlo source modeling for ultra-high dose rate electron beams.
+AU  - Henao Isaza Á
+AU  - López Paz I
 AU  - Guardiola C
-AU  - Moreno JS
+AU  - Sebastián Moreno J
 AU  - Heinrich S
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - OBJECTIVE: The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including pulse width (PW) dependence. APPROACH: Percentage depth dose (PDD) curves and lateral dose profiles were measured in water using a flashDiamond detector for PWs of 1 -5 µs. These data were used to optimized the parametric source model through χ 2 minimization and gamma analysis. Validation was performed using a mouse collimator and PMMA slabs. Relative dose distributions and cumulative dose-volume histograms (cDVHs) were computed in a CT-based voxelised mouse, with and without bolus. MAIN RESULTS: The optimized FLASH source model features a dual-peak energy spectrum with a PW-dependent energy component (7.5-7.8 MeV for 1-5 µs) and low-energy component probability. In conventional mode, a two-component spectrum (1.5 ± 1.0 and 6.8 ± 1.5 MeV) was used. Simulations showed good agreement with measurements (gamma-index 2 mm/2% and < 5% differences for R 50 , R 90 and R p ). Differences in the mouse lung volume receiving at least 95% of the maximum dose (V95 lung ) were 1% across FLASH PWs, increasing to 5% and 12 % in CONV without and with bolus, respectively. Bolus increased V95 lung in FLASH by 17%, indicating improved target coverage. SIGNIFICANCE: A GATE 10 MC-based source model of the ElectronFLASH LINAC was developed for both UHDR (PW-dependent) and conventional modes. Despite PW-dependent energy variations, no significant dosimetric differences were observed between PWs in FLASH in the preclinical mouse model. The model provides a reliable tool for optimization of preclinical irradiation setups for FLASH biological studies in the absence of a treatment planning system (TPS).
+AB  - Objective.The emergence of ultra-high dose rate (UHDR) electron beams has highlighted the need for accurate Monte Carlo (MC) source models after recent measurements revealed pulse width (PW)-dependent discrepancies in dose profiles. This work aims to develop and validate a MC source model for conventional and FLASH modes using GATE 10, including PW dependence.Approach.Percentage depth dose (PDD) curves and lateral dose profiles were measured in water using a flashDiamond detector for PWs of 0.5-5s. These data were used to optimize the parametric source model throughminimization and gamma analysis. Validation was performed using a mouse collimator and PMMA slabs. Relative dose distributions and cumulative dose-volume histograms were computed in a CT-based voxelised mouse, with and without bolus.Main results.The optimized FLASH source model features a dual-peak energy spectrum with a PW-dependent energy component (7.0-7.8 MeV for 0.5-5s) and low-energy component probability. In conventional mode, a two-component spectrum (1.51.0 and 6.81.5 MeV) was used. Simulations showed good agreement with measurements (gamma-index 2 mm/2% anddifferences for,and). Differences in the mouse lung volume receiving at least 95% of the maximum dose (V95) were 1% across FLASH PWs, increasing to 5% and 12% in CONV without and with bolus, respectively. Bolus increased V95in FLASH by 17%, indicating improved target coverage.Significance.A GATE 10 MC-based source model of the ElectronFLASH LINAC was developed for both UHDR (PW-dependent) and conventional modes. Despite PW-dependent energy variations, no significant dosimetric differences were observed between PWs in FLASH in the preclinical mouse model. The model provides a reliable tool for optimization of preclinical irradiation setups for FLASH biological studies in the absence of a treatment planning system.
 DO  - 10.1088/1361-6560/aea8c4
 AN  - 42748957
 UR  - https://pubmed.ncbi.nlm.nih.gov/42748957/
 KW  - FLASH:Physics & Dosimetry
 KW  - FLASH:Modeling & Mechanisms
 KW  - FLASH:Treatment Planning & Optimization
-KW  - FLASH:Beam Delivery & Technology
 KW  - FLASH:Radiobiology
+KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
 TY  - JOUR
@@ -145,7 +372,7 @@ TY  - JOUR
 TI  - Intracavitary electron radiotherapy with dynamic shielding for rectal cancer: applicator design and dosimetric characterization.
 AU  - Wang J
 AU  - Wang M
-AU  - Wang 王 H鹤
+AU  - Wang H
 AU  - Lv J
 AU  - Liu B
 AU  - Li Q
@@ -164,7 +391,7 @@ AU  - Wang H
 AU  - Yan X
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - Intensity-modulated brachytherapy (IMBT) can improve dose conformity for rectal cancer, but current 192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dose localization and enable ultra-high dose-rate delivery without a radioactive source.&#xD;Approach. A cylindrical electron-beam applicator was designed with a high-density shield containing an emission window, a low-Z scatterer, and a polycarbonate guide tube. Applicator geometry was optimized using TOPAS Monte Carlo simulations to minimize radial and distal transmission factors (TFradial and TFdistal). Dosimetric performance was benchmarked against a modified Monte Carlo model based on a commercial 192Ir shielded rectal applicator (Varian GM11004160). A 3D-printed prototype with a stainless-steel shield and resin components was experimentally evaluated using a custom linear accelerator (5 MeV nominal energy, 60 mA peak current, 4 μs pulse width). Dose distributions were measured with EBT-XD radiochromic film.&#xD;Main results. In the modeled homogeneous benchmark geometry, the optimized tungsten applicator achieved a radial transmission factor of approximately 1% at 10 mm from the applicator surface, compared with approximately 20% for the modeled 192Ir reference system. Distal leakage remained below 5% beyond the applicator distal end. Under modeled accelerator conditions, the electron-beam system reached approximately 100 Gy/s at 100 Hz. Superposition of single-dwell dose kernels produced both uniform fields and spatially fractionated radiotherapy patterns with valley-to-peak dose ratios ≤ 0.2. Prototype measurements demonstrated localized directional dose delivery and ultra-high mean dose rates under the reported pulse conditions, while identifying leakage pathways that caused order-of-magnitude differences from simulation.&#xD;Significance. The optimized Monte Carlo model demonstrated improved radial dose localization, radioisotope-free operation, and ultra-high dose-rate capability in homogeneous geometry. Further work is needed for accelerator integration, motion control, inverse planning, and validation in anatomically realistic settings.
+AB  - Objective.Intensity-modulated brachytherapy can improve dose conformity for rectal cancer, but current192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dose localization and enable ultra-high dose-rate (HDR) delivery without a radioactive source.Approach.A cylindrical electron-beam applicator was designed with a high-density shield containing an emission window, a low-Zscatterer, and a polycarbonate guide tube. Applicator geometry was optimized using TOPAS Monte Carlo simulations to minimize radial and distal transmission factors (TFradialand TFdistal). Dosimetric performance was benchmarked against a modified Monte Carlo model based on a commercial192Ir shielded rectal applicator (Varian GM11004160). A 3D-printed prototype with a stainless-steel shield and resin components was experimentally evaluated using a custom linear accelerator (5 MeV nominal energy, 60 mA peak current, 4μs pulse width). Dose distributions were measured with EBT-XD radiochromic film.Main results.In the modeled homogeneous benchmark geometry, the optimized tungsten applicator achieved a radial transmission factor of approximately 1% at 10 mm from the applicator surface, compared with approximately 20% for the modeled192Ir reference system. Distal leakage remained below 5% beyond the applicator distal end. Under modeled accelerator conditions, the electron-beam system reached approximately 100 Gy s-1at 100 Hz. Superposition of single-dwell dose kernels produced both uniform fields and spatially fractionated radiotherapy patterns with valley-to-peak dose ratios ⩽ 0.2. Prototype measurements demonstrated localized directional dose delivery and ultra-high mean dose rates under the reported pulse conditions, while identifying leakage pathways that caused order-of-magnitude differences from simulation.Significance.The optimized Monte Carlo model demonstrated improved radial dose localization,radioisotope-free operation, and ultra-HDR capability in homogeneous geometry. Further work is needed for accelerator integration, motion control, inverse planning, and validation in anatomically realistic settings.
 DO  - 10.1088/1361-6560/aea5ce
 AN  - 42722034
 UR  - https://pubmed.ncbi.nlm.nih.gov/42722034/
@@ -289,7 +516,7 @@ KW  - FLASH:Clinical & Translational
 ER  - 
 
 TY  - JOUR
-TI  - Precise delineation of radiation targets for thoracic tumors in the immunotherapy era: from immune mechanisms to clinical practice.
+TI  - Precise delineation of radiation targets for thoracic tumors in the immunotherapy era: From immune mechanisms to clinical practice.
 AU  - Chen X
 AU  - Yi M
 AU  - Deng Y
@@ -1408,7 +1635,7 @@ KW  - FLASH:Radiobiology
 ER  - 
 
 TY  - JOUR
-TI  - Development of In situ Dosimetry for FLASH Proton Radiotherapy via Organic Scintillating Fibers.
+TI  - Development of in situ dosimetry for FLASH proton radiotherapy via organic scintillating fibers.
 AU  - Olson C
 AU  - Strong J
 AU  - Paxton A
@@ -1416,7 +1643,7 @@ AU  - Nelson G
 AU  - Cazalas E
 PY  - 2026
 JO  - The British journal of radiology
-AB  - OBJECTIVES: This work presents the design, development, and initial proof of concept testing of a dosimetry device intended for FLASH radiotherapy. METHODS: The system incorporates organic scintillating fibers coupled to a silicon photomultiplier (SiPM) and an FPGA-based readout, with fiber geometry optimized to minimize perturbations to a clinical proton beam, as confirmed through measurements at the Huntsman Cancer Institute (HCI). RESULTS: Tests using a portable X ray unit demonstrated a strong correlation between integrated charge and delivered dose (up to ∼35 mrem s-1) and showed that the detector can respond on nanosecond timescales, enabling the potential for rapid safety interlock triggering with minimal latency. CONCLUSION: Preliminary proton irradiations at HCI further indicated that the device can resolve individual beam pulses, a capability valuable for both FLASH research and conventional radiotherapy. ADVANCES IN KNOWLEDGE: These results highlight the need for continued refinement of the experimental setup, readout electronics, and detector performance to fully realize real time, in situ dose and pulse monitoring.
+AB  - OBJECTIVES: This work presents the design, development, and initial proof-of-concept testing of a dosimetry device intended for FLASH radiotherapy. METHODS: The system incorporates organic scintillating fibers coupled to a silicon photomultiplier (SiPM) and an FPGA-based readout, with fiber geometry optimized to minimize perturbations to a clinical proton beam, as confirmed through measurements at the Huntsman Cancer Institute (HCI). RESULTS: Tests using a portable X-ray unit demonstrated a strong correlation between integrated charge and delivered dose (up to ∼35 mrem s-1) and showed that the detector can respond on nanosecond timescales, enabling rapid safety interlock triggering with minimal latency. CONCLUSION: Preliminary proton irradiations at HCI further indicated that the device can resolve individual beam pulses, a capability valuable for both FLASH research and conventional radiotherapy. ADVANCES IN KNOWLEDGE: These results highlight the need for continued refinement of the experimental setup, readout electronics, and detector performance to fully realize real-time, in situ dose and pulse monitoring.
 DO  - 10.1093/bjr/tqag152
 AN  - 42319906
 UR  - https://pubmed.ncbi.nlm.nih.gov/42319906/

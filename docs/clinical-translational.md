@@ -2,7 +2,30 @@
 
 Clinical trials, veterinary studies, first-in-human experience and translational workflow.
 
-*30 records. Newest first.*
+*34 records. Newest first.*
+
+---
+
+### Expert consensus on clinical trial design guidelines for FLASH radiotherapy.
+
+*Luo H, Cheng C, Yang C, Li B, Zhang J, Yue J et al.* — Precision radiation oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** In recent years, ultra-high dose-rate FLASH radiotherapy (FLASH-RT) has emerged as a prominent research focus in radiation oncology. A series of preclinical data indicate that FLASH-RT can achieve tumor-killing efficacy that is not inferior to that of conventional radiotherapy (CONV-RT) while significantly reducing radiation damage to normal tissues.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This expert consensus document from Chinese radiation oncology committees synthesizes recent preclinical and clinical advances in ultra-high dose-rate FLASH radiotherapy and provides practical guidelines for the design and translational application of future clinical trials. The document reports that preclinical data demonstrate tumor-killing efficacy of FLASH-RT not inferior to conventional radiotherapy while significantly reducing normal-tissue damage. The consensus offers structured guidance for clinical trial design to support ongoing translation of FLASH-RT into human practice.
+
+
+??? note "Abstract"
+    In recent years, ultra-high dose-rate FLASH radiotherapy (FLASH-RT) has emerged as a prominent research focus in radiation oncology. A series of preclinical data indicate that FLASH-RT can achieve tumor-killing efficacy that is not inferior to that of conventional radiotherapy (CONV-RT) while significantly reducing radiation damage to normal tissues. This distinctive tissue-sparing effect is known as the &quot;FLASH effect.&quot; Rapid progress has been made in the clinical translation and application of FLASH-RT. Against this backdrop, the China Anti-Cancer Association Radiation Oncology Committee and the Chinese Medical Doctor Association Radiation Oncology Physician Committee gathered a group of experts and compiled the &quot;Expert Consensus on Clinical Trial Design Guidelines for FLASH Radiotherapy&quot; based on the latest domestic and international research advancements. This document summarizes the latest advances in FLASH-RT and offers practical guidance for its design and translational application in future clinical trials.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42780699/) · [DOI](https://doi.org/10.1002/pro6.70098) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13598684/)
+
 
 ---
 
@@ -236,21 +259,71 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 ---
 
-### Proton FLASH-arc therapy (PFAT): A feasibility study for meeting FLASH dose-rate requirements in the clinic.
+### The Radiosurgery Society Working Groups on GRID, LATTICE, Microbeam, and FLASH Radiotherapies: Advancements Symposium and Subsequent Progress Made.
 
-*Rothwell B, Bertolet A, Schuemann J* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2025)  
+*Snider JW, Mayr NA, Molitoris J, Chhabra AM, Mossahebi S, Griffin R et al.* — Practical radiation oncology (2025)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** Proton arc therapy and FLASH radiotherapy (FLASH-RT) each offer unique advantages in proton therapy. However, clinical translation of FLASH-RT faces challenges in defining and delivering high dose rates.
+**TL;DR.** Since the inaugural workshop &quot;Understanding High-Dose, Ultra-High Dose Rate and Spatially Fractionated Radiotherapy.&quot; hosted by the National Cancer Institute and sponsored by the Radiosurgery Society (RSS), growing collaborations and investigations have ensued among experts, practitioners, and researchers. The RSS GRID, LATTICE, Microbeam and FLASH (GLMF) Working Groups were formed as a framework …
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A report from the Radiosurgery Society Working Groups on GRID, LATTICE, Microbeam, and FLASH (GLMF) radiotherapies summarizing a 2022 symposium and subsequent collaborative efforts. The paper reviews clinical, technical, physics, and radiobiological approaches to spatially fractionated radiotherapy and FLASH delivery, including trial design, treatment planning, and real-world implementation considerations across photon and proton modalities. The report documents growth in institutional membership and emerging clinical trial concepts and research efforts in the UHDR and spatially fractionated radiotherapy field.
 
 
 ??? note "Abstract"
-    BACKGROUND AND PURPOSE: Proton arc therapy and FLASH radiotherapy (FLASH-RT) each offer unique advantages in proton therapy. However, clinical translation of FLASH-RT faces challenges in defining and delivering high dose rates. We propose the use of proton FLASH-arc therapy (PFAT) to leverage the benefits of arc while addressing FLASH delivery concerns by spatially fractionating dose delivery to healthy tissue. MATERIALS AND METHODS: Treatment plans for an abdominal phantom and a clinical brain case were designed in OpenTPS, using monoenergetic beams within a 360-degree gantry rotation. Beams were optimized to achieve target coverage while maximizing spatial fractionation in non-target regions. The temporal dose delivery to healthy-tissue voxels, or in specified organs-at-risk (OARs), was constrained via selective spot removal in the beamlets matrix. The dose, LET, number of spots per voxel, and voxel-wise average dose rate were calculated for each PFAT plan and compared to a corresponding IMPT scenario. RESULTS: PFAT plans demonstrated comparable dose conformity to IMPT, with LET hotspots shifted towards the target center. The number of spots influencing healthy-tissue voxels was reduced, leading to regions of substantially higher dose rates in many points outside the target. OAR dose-rate optimization in the brain plan resulted in dose rates exceeding 40 Gy/s in the majority of points in the brainstem. CONCLUSION: The PFAT technique combines the advantages of FLASH and arc therapy, providing improved LET distributions and enhanced biological effect in the target, while achieving high dose rates in healthy tissue, thus reducing healthy tissue damage. This feasibility study demonstrates the capability of PFAT, setting the foundation for further optimization and application in diverse patient cases and complex geometries.
+    PURPOSE: Since the inaugural workshop &quot;Understanding High-Dose, Ultra-High Dose Rate and Spatially Fractionated Radiotherapy.&quot; hosted by the National Cancer Institute and sponsored by the Radiosurgery Society (RSS), growing collaborations and investigations have ensued among experts, practitioners, and researchers. The RSS GRID, LATTICE, Microbeam and FLASH (GLMF) Working Groups were formed as a framework for these efforts and have focused on advancing the understanding of the biology, technical/physical parameters, trial design, and clinical practice of these new radiation therapy modalities. METHODS AND MATERIALS: In view of the steadily increasing clinical interest in Spatially Fractionated Radiotherapy (SFRT) and FLASH, a full-day symposium entitled &quot;Advancements in GRID, LATTICE, and FLASH Radiotherapy Symposium&quot; was established in 2022 that immediately preceded the RSS scientific meeting. This well-attended symposium focused on clinical, technical, and physics approaches for SFRT, and closely examining relevant radiobiological underpinnings. Practical clinical trial development was a highlighted discussion. An additional section reviewed proton therapy and other particle-based techniques for the delivery of GRID and LATTICE therapy. A treatment planning and delivery tutorial for GRID, LATTICE, and proton GRID/LATTICE was directed toward the real-world considerations for the development of new clinical GRID or LATTICE programs. An overall similar approach was applied to the discussion of FLASH. This report summarizes the content of the first GLMF Symposium and related work of the RSS GLMF Working Groups in the field of heterogeneous and ultrahigh dose rate irradiation, over approximately 2 years. RESULTS: The GLMF Working Groups have continued to expand in membership and attendance, and several resultant trial concepts, research efforts, academic discussions, and peer-reviewed publications have followed as the number of institutions and practitioners using SFRT and FLASH continues to grow. CONCLUSIONS: The GLMF Working Groups and the RSS continue to demonstrate excellent progress in proliferating use of and improving understanding of SFRT and ultrahigh dose rate radiation therapy techniques.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39528113/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110623) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11663118/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39447865/) · [DOI](https://doi.org/10.1016/j.prro.2024.09.015) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12128894/)
+
+
+---
+
+### Rapid Sterilization of Clinical Apheresis Blood Products using Ultra-High Dose Rate Radiation.
+
+*Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau H et al.* — bioRxiv : the preprint server for biology (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Apheresis platelets products and plasma are essential for medical interventions, but both still have inherent risks associated with contamination and viral transmission. Platelet products are vulnerable to bacterial contamination due to storage conditions, while plasma requires extensive screening to minimize virus transmission risks.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A clinical linear accelerator configured to deliver 6 kGy/min ultra-high dose rate irradiation was used to sterilize apheresis blood products. Platelet aliquots spiked with 10⁵ CFU E. coli required 2.3 kGy for 6-log bacterial reduction, causing 31% platelet count loss; 5 kGy or higher produced complete growth suppression with maintained platelet viability. COVID convalescent plasma irradiated at 25 kGy virus-sterilizing dose showed 9.2% average reduction in RBD-specific IgG binding. The study demonstrates proof-of-concept for rapid point-of-care blood product sterilization using clinical UHDR delivery.
+
+
+??? note "Abstract"
+    BACKGROUND AND OBJECTIVES: Apheresis platelets products and plasma are essential for medical interventions, but both still have inherent risks associated with contamination and viral transmission. Platelet products are vulnerable to bacterial contamination due to storage conditions, while plasma requires extensive screening to minimize virus transmission risks. Here we investigate rapid irradiation to sterilizing doses for bacteria and viruses as an innovative pathogen reduction technology. MATERIALS AND METHODS: We configured a clinical linear accelerator to deliver ultra-high dose rate (6 kGy/min) irradiation to platelet and plasma blood components. Platelet aliquots spiked with 105 CFU of E.coli were irradiated with 0.1-20 kGy, followed by E.coli growth and platelet count assays. COVID Convalescent Plasma (CCP) aliquots were irradiated at a virus-sterilizing dose of 25 kGy and subsequently, RBD-specific antibody binding was assessed. RESULTS: 1 kGy irradiation of bacteria-spiked platelets reduced E.coli growth by 2.7-log without significant change of platelet count, and 5 kGy or higher produced complete growth suppression. The estimated sterilization (6-log bacterial reduction) dose was 2.3 kGy, corresponding to 31% platelet count reduction. A 25 kGy virus sterilizing dose to CCP produced a 9.2% average drop of RBD-specific IgG binding. CONCLUSION: This study shows proof-of-concept of a novel rapid blood sterilization technique using a clinical linear accelerator. Promising platelet counts and CCP antibody binding were maintained at bacteria and virus sterilizing doses, respectively. This represents a potential point-of-care blood product sterilization solution. If additional studies corroborate these findings, this may be a practical method for ensuring blood products safety.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39713317/) · [DOI](https://doi.org/10.1101/2024.12.14.628469) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11661200/)
+
+
+---
+
+### Long-term toxicity and efficacy of FLASH radiotherapy in dogs with superficial malignant tumors.
+
+*Gjaldbæk BW, Arendt ML, Konradsson E, Bastholm Jensen K, Bäck SÅJ, Munck Af Rosenschöld P et al.* — Frontiers in oncology (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** FLASH radiotherapy (RT) has emerged as a promising modality, demonstrating both a normal tissue sparing effect and anticancer efficacy. We have previously reported on the safety and efficacy of single fraction FLASH RT in the treatment of oral tumors in canine cancer patients, showing tumor response but also a risk of radiation-induced severe late adverse effects (osteoradionecrosis) for doses ≥35…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A veterinary clinical study of single-fraction FLASH radiotherapy in 14 privately-owned dogs with 16 superficial tumors, delivered as 10 MeV electrons at doses of 15–35 Gy. Tumor response was complete in 5 of 9 gross-disease cases and partial in 4 of 9; no recurrence occurred in 7 microscopic-disease cases. Severe adverse effects (ulceration) occurred only at 35 Gy and only at specific treatment sites; no osteoradionecrosis was observed. The authors conclude that 30 Gy is the maximum safe single-fraction dose for non-oral tumor FLASH treatment.
+
+
+??? note "Abstract"
+    INTRODUCTION: FLASH radiotherapy (RT) has emerged as a promising modality, demonstrating both a normal tissue sparing effect and anticancer efficacy. We have previously reported on the safety and efficacy of single fraction FLASH RT in the treatment of oral tumors in canine cancer patients, showing tumor response but also a risk of radiation-induced severe late adverse effects (osteoradionecrosis) for doses ≥35 Gy. Accordingly, the objective in this study was to investigate if single fraction high dose FLASH RT is safe for treating non-oral tumors. METHODS: Privately-owned dogs with superficial tumors or microscopic residual disease were included. Treatment was generally delivered as a single fraction of 15-35 Gy 10 MeV electron FLASH RT, although two dogs were re-irradiated at a later timepoint. Follow-up visits were conducted up to 12 months post-treatment to evaluate treatment efficiency and adverse effects. RESULTS: Fourteen dogs with 16 tumors were included, of which nine tumors were treated for gross disease whilst seven tumors were treated post-surgery for microscopic residual disease. Four treatment sites treated with 35 Gy had ulceration post irradiation, which was graded as severe adverse effect. Only mild adverse effects were observed for the remaining treatment sites. None of the patients with microscopic disease experienced recurrence (0/7), and all patients with macroscopic disease showed either a complete (5/9) or a partial response (4/9). Five dogs were euthanized due to clinical disease progression. DISCUSSION: Our study demonstrates that single fraction high dose FLASH RT is generally safe, with few severe adverse effects, particularly in areas less susceptible to radiation-induced damage. In addition, our study indicates that FLASH has anti-tumor efficacy in a clinical setting. No osteoradionecrosis was observed in this study, although other types of high-grade adverse effects including ulcer-formations were observed for the highest delivered dose (35 Gy). Overall, we conclude that osteoradionecrosis following single fraction, high dose FLASH does not appear to be a general problem for non-oral tumor locations. Also, as has been shown previously for oral tumors, 30 Gy appeared to be the maximum safe dose to deliver with single fraction FLASH RT.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39077466/) · [DOI](https://doi.org/10.3389/fonc.2024.1425240) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11284943/)
 
 
 ---
@@ -263,6 +336,29 @@ Clinical trials, veterinary studies, first-in-human experience and translational
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38880533/) · [DOI](https://doi.org/10.1016/j.semradonc.2024.05.005)
+
+
+---
+
+### Unrestricted molecular motions enable mild photothermy for recurrence-resistant FLASH antitumor radiotherapy.
+
+*Shen H, Wang H, Mo J, Zhang J, Xu C, Sun F et al.* — Bioactive materials (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Ultrahigh dose-rate (FLASH) radiotherapy is an emerging technology with excellent therapeutic effects and low biological toxicity. However, tumor recurrence largely impede the effectiveness of FLASH therapy.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work describes a thermosensitive hydrogel delivery system combining mild photothermal therapy and chemotherapy (glutaminase inhibition) to enhance ultra-high dose-rate radiotherapy and reduce tumor recurrence in an unspecified model system. Upon 660-nm laser irradiation, the hydrogel releases a photothermal agent and CB-839 to inhibit homologous recombination repair of radiation-induced DNA damage. The authors report efficient tumor control without recurrence and without obvious systemic toxicity.
+
+
+??? note "Abstract"
+    Ultrahigh dose-rate (FLASH) radiotherapy is an emerging technology with excellent therapeutic effects and low biological toxicity. However, tumor recurrence largely impede the effectiveness of FLASH therapy. Overcoming tumor recurrence is crucial for practical FLASH applications. Here, we prepared an agarose-based thermosensitive hydrogel containing a mild photothermal agent (TPE-BBT) and a glutaminase inhibitor (CB-839). Within nanoparticles, TPE-BBT exhibits aggregation-induced emission peaked at 900 nm, while the unrestricted molecular motions endow TPE-BBT with a mild photothermy generation ability. The balanced photothermal effect and photoluminescence are ideal for phototheranostics. Upon 660-nm laser irradiation, the temperature-rising effect softens and hydrolyzes the hydrogel to release TPE-BBT and CB-839 into the tumor site for concurrent mild photothermal therapy and chemotherapy, jointly inhibiting homologous recombination repair of DNA. The enhanced FLASH radiotherapy efficiently kills the tumor tissue without recurrence and obvious systematic toxicity. This work deciphers the unrestricted molecular motions in bright organic fluorophores as a source of photothermy, and provides novel recurrence-resistant radiotherapy without adverse side effects.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38694765/) · [DOI](https://doi.org/10.1016/j.bioactmat.2024.03.024) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11061705/)
 
 
 ---

@@ -6,21 +6,25 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### STAR in a Second: Ultra-High-Dose-Rate Spread-Out Bragg Peak Proton Therapy for Breath-Hold Stereotactic Arrhythmia Radioablation.
+### Intracavitary electron radiotherapy with dynamic shielding for rectal cancer: applicator design and dosimetric characterization.
 
-*Ramesh P, Schwarz M, Colbert C, Chen XC, Panjwani N, Bowen SR et al.* — Advances in radiation oncology (2026)  
+*Wang J, Wang M, Wang H, Lv J, Liu B, Li Q et al.* — Physics in medicine and biology (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
-**TL;DR.** Stereotactic arrhythmia radioablation (STAR) is a noninvasive treatment option for managing ventricular tachycardia (VT). Combined respiratory and cardiac motion requires management with large target volume margins or motion mitigation techniques.
+**TL;DR.** Objective.Intensity-modulated brachytherapy can improve dose conformity for rectal cancer, but current192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dos…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work describes the design, optimization, and dosimetric characterization of a dynamically shielded intracavitary electron-beam applicator for rectal cancer radiotherapy. Using Monte Carlo simulation (TOPAS) and experimental validation with a custom 5 MeV electron linear accelerator, the authors achieved approximately 100 Gy/s mean dose rate and demonstrated improved radial dose localization (≈1% transmission at 10 mm) compared with a modeled 192Ir reference system. Prototype measurements confirmed directional dose delivery and ultra-high mean dose rates under reported pulse conditions.
 
 
 ??? note "Abstract"
-    PURPOSE: Stereotactic arrhythmia radioablation (STAR) is a noninvasive treatment option for managing ventricular tachycardia (VT). Combined respiratory and cardiac motion requires management with large target volume margins or motion mitigation techniques. Techniques such as beam gating and breath-holds are limited by low-duty cycles, extending treatment times. We investigate the feasibility of ultra-high-dose-rate (UHDR) proton therapy using a spread-out Bragg peak technique with a conformal energy modulator to achieve respiratory and cardiac motion management within a single breath-hold delivery per beam for cardiac ablation, thereby reducing treatment time without compromising anatomic accuracy. METHODS AND MATERIALS: Five ventricular tachycardia cases initially treated on linear accelerators with planning target volumes ranging from 118 to 254 cc were retrospectively planned with UHDR protons on an IBA Proteus Plus system with the ConformalFLASH snout. Plans were contoured on full-inspiration computed tomography phase scans to represent breath-hold anatomy and were planned for 25 Gy in 1 fraction. Plan quality metrics included target coverage (D98%, D2%, V95%) and doses to organs at risk (OARs) such as heart, stomach, and esophagus. An in-house RayStation script was developed to estimate total spot delivery time per beam to assess breath-hold feasibility. Times were validated using logfile-based analysis after delivery on the proton beamline. RESULTS: Each plan was optimized using a combination of 2 to 5 proton fields. Target coverage was comparable with clinical photon intensity modulated radiation therapy plan metrics, demonstrating average (D98%: 2365 cGy \[RBE\], D2%: 2957 cGy \[RBE\], V95%: 98.5%). Average maximum doses to the heart, esophagus, and stomach were 3049, 631, and 894 cGy \[RBE\], respectively. Each field achieved high-dose rates, enabling beam delivery times ranging from 0.37 to 1.29 seconds per field. CONCLUSIONS: UHDR spread-out Bragg peak proton therapy enables conformal cardiac radioablation delivery on the order of a second per beam, which offers the opportunity to manage respiratory and cardiac motion in a single breath hold while achieving clinically acceptable plan quality.
+    Objective.Intensity-modulated brachytherapy can improve dose conformity for rectal cancer, but current192Ir-based systems are limited by isotropic photon emission, sequential shield motion, treatment-time penalties, and radioisotope logistics. This study designed, optimized, and characterized a dynamically shielded applicator-based intracavitary electron radiotherapy system intended to improve dose localization and enable ultra-high dose-rate (HDR) delivery without a radioactive source.Approach.A cylindrical electron-beam applicator was designed with a high-density shield containing an emission window, a low-Zscatterer, and a polycarbonate guide tube. Applicator geometry was optimized using TOPAS Monte Carlo simulations to minimize radial and distal transmission factors (TFradialand TFdistal). Dosimetric performance was benchmarked against a modified Monte Carlo model based on a commercial192Ir shielded rectal applicator (Varian GM11004160). A 3D-printed prototype with a stainless-steel shield and resin components was experimentally evaluated using a custom linear accelerator (5 MeV nominal energy, 60 mA peak current, 4μs pulse width). Dose distributions were measured with EBT-XD radiochromic film.Main results.In the modeled homogeneous benchmark geometry, the optimized tungsten applicator achieved a radial transmission factor of approximately 1% at 10 mm from the applicator surface, compared with approximately 20% for the modeled192Ir reference system. Distal leakage remained below 5% beyond the applicator distal end. Under modeled accelerator conditions, the electron-beam system reached approximately 100 Gy s-1at 100 Hz. Superposition of single-dwell dose kernels produced both uniform fields and spatially fractionated radiotherapy patterns with valley-to-peak dose ratios ⩽ 0.2. Prototype measurements demonstrated localized directional dose delivery and ultra-high mean dose rates under the reported pulse conditions, while identifying leakage pathways that caused order-of-magnitude differences from simulation.Significance.The optimized Monte Carlo model demonstrated improved radial dose localization,radioisotope-free operation, and ultra-HDR capability in homogeneous geometry. Further work is needed for accelerator integration, motion control, inverse planning, and validation in anatomically realistic settings.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42746327/) · [DOI](https://doi.org/10.1016/j.adro.2026.102150) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13576714/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42722034/) · [DOI](https://doi.org/10.1088/1361-6560/aea5ce)
 
 
 ---
@@ -1024,6 +1028,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** The design and optimization of laser-Compton x-ray systems based on compact distributed charge accelerator structures can enable micron-scale imaging of disease and the concomitant production of beams of Very High Energy Electrons (VHEEs) capable of producing FLASH-relevant dose rates. The physics of laser-Compton x-ray scattering ensures that the scattered x-rays follow exactly the trajectory of …
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    The authors describe the design, construction, and testing of a compact, distributed-charge X-band accelerator system capable of producing very high energy electrons (VHEEs) and laser-Compton x-rays suitable for image-guided FLASH radiotherapy. The system operates with acceleration gradients exceeding 100 MeV/m and uses a patented pulse synthesis approach to generate UV pulse trains synchronized to the accelerator RF clock, enabling production of up to 10 μA average beam current and &gt;10 nC charge in macro-bunches of &lt;100 ns. A prototype 100-MeV class system has been constructed and tested in Irvine, CA.
+
+
 ??? note "Abstract"
     The design and optimization of laser-Compton x-ray systems based on compact distributed charge accelerator structures can enable micron-scale imaging of disease and the concomitant production of beams of Very High Energy Electrons (VHEEs) capable of producing FLASH-relevant dose rates. The physics of laser-Compton x-ray scattering ensures that the scattered x-rays follow exactly the trajectory of the incident electrons, thus providing a route to image-guided, VHEE FLASH radiotherapy. The keys to a compact architecture capable of producing both laser-Compton x-rays and VHEEs are the use of X-band RF accelerator structures which have been demonstrated to operate with over 100 MeV/m acceleration gradients. The operation of these structures in a distributed charge mode in which each radiofrequency (RF) cycle of the drive RF pulse is filled with a low-charge, high-brightness electron bunch is enabled by the illumination of a high-brightness photogun with a train of UV laser pulses synchronized to the frequency of the underlying accelerator system. The UV pulse trains are created by a patented pulse synthesis approach which utilizes the RF clock of the accelerator to phase and amplitude modulate a narrow band continuous wave (CW) seed laser. In this way it is possible to produce up to 10 μA of average beam current from the accelerator. Such high current from a compact accelerator enables production of sufficient x-rays via laser-Compton scattering for clinical imaging and does so from a machine of &quot;clinical&quot; footprint. At the same time, the production of 1000 or greater individual micro-bunches per RF pulse enables &gt; 10 nC of charge to be produced in a macrobunch of &lt; 100 ns. The design, construction, and test of the 100-MeV class prototype system in Irvine, CA is also presented.
 
@@ -1043,30 +1051,15 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** Previously, a synchrotron-based horizontal proton beamline (87.2 MeV) was successfully commissioned to deliver radiation doses in FLASH and conventional dose rate modes to small fields and volumes. In this study, we developed a strategy to increase the effective radiation field size using a custom robotic motion platform to automatically shift the positions of biological samples.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A synchrotron-based 87.2 MeV horizontal proton beamline was used to deliver doses at ultra-high dose rate (113.7–191.3 Gy/s) and conventional dose rate. A custom robotic motion platform with automated sample repositioning was developed to increase the effective field size beyond the inherent beam spot, enabling delivery to 96-well plates (7-mm circles) and mice (1-cm² squares) with 9–10.6 mm spot spacing. Dose delivery was validated with EBT-XD film; measured profiles agreed with Monte Carlo calculations to &gt;95% gamma pass rate (2%/1 mm). The platform successfully demonstrated field enlargement for preclinical FLASH studies.
+
+
 ??? note "Abstract"
     Previously, a synchrotron-based horizontal proton beamline (87.2 MeV) was successfully commissioned to deliver radiation doses in FLASH and conventional dose rate modes to small fields and volumes. In this study, we developed a strategy to increase the effective radiation field size using a custom robotic motion platform to automatically shift the positions of biological samples. The beam was first broadened with a thin tungsten scatterer and shaped by customized brass collimators for irradiating cell/organoid cultures in 96-well plates (a 7-mm-diameter circle) or for irradiating mice (1-cm2 square). Motion patterns of the robotic platform were written in G-code, with 9-mm spot spacing used for the 96-well plates and 10.6-mm spacing for the mice. The accuracy of target positioning was verified with a self-leveling laser system. The dose delivered in the experimental conditions was validated with EBT-XD film attached to the 96-well plate or the back of the mouse. Our film-measured dose profiles matched Monte Carlo calculations well (1D gamma pass rate &gt;95% with the criteria of 2%/1 mm/2% dose threshold). The FLASH dose rates were 113.7 Gy/s for cell/organoid irradiation and 191.3 Gy/s for mouse irradiation. These promising results indicate that this robotic platform can be used to effectively increase the field size for preclinical experiments with proton FLASH.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40337456/) · [DOI](https://doi.org/10.1002/pro6.1243) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11934911/)
-
-
----
-
-### Rapid Sterilization of Clinical Apheresis Blood Products using Ultra-High Dose Rate Radiation.
-
-*Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau H et al.* — bioRxiv : the preprint server for biology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Apheresis platelets products and plasma are essential for medical interventions, but both still have inherent risks associated with contamination and viral transmission. Platelet products are vulnerable to bacterial contamination due to storage conditions, while plasma requires extensive screening to minimize virus transmission risks.
-
-
-??? note "Abstract"
-    BACKGROUND AND OBJECTIVES: Apheresis platelets products and plasma are essential for medical interventions, but both still have inherent risks associated with contamination and viral transmission. Platelet products are vulnerable to bacterial contamination due to storage conditions, while plasma requires extensive screening to minimize virus transmission risks. Here we investigate rapid irradiation to sterilizing doses for bacteria and viruses as an innovative pathogen reduction technology. MATERIALS AND METHODS: We configured a clinical linear accelerator to deliver ultra-high dose rate (6 kGy/min) irradiation to platelet and plasma blood components. Platelet aliquots spiked with 105 CFU of E.coli were irradiated with 0.1-20 kGy, followed by E.coli growth and platelet count assays. COVID Convalescent Plasma (CCP) aliquots were irradiated at a virus-sterilizing dose of 25 kGy and subsequently, RBD-specific antibody binding was assessed. RESULTS: 1 kGy irradiation of bacteria-spiked platelets reduced E.coli growth by 2.7-log without significant change of platelet count, and 5 kGy or higher produced complete growth suppression. The estimated sterilization (6-log bacterial reduction) dose was 2.3 kGy, corresponding to 31% platelet count reduction. A 25 kGy virus sterilizing dose to CCP produced a 9.2% average drop of RBD-specific IgG binding. CONCLUSION: This study shows proof-of-concept of a novel rapid blood sterilization technique using a clinical linear accelerator. Promising platelet counts and CCP antibody binding were maintained at bacteria and virus sterilizing doses, respectively. This represents a potential point-of-care blood product sterilization solution. If additional studies corroborate these findings, this may be a practical method for ensuring blood products safety.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39713317/) · [DOI](https://doi.org/10.1101/2024.12.14.628469) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11661200/)
 
 
 ---
@@ -1081,11 +1074,84 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** Objective.To evaluate spatially fractionated radiation therapy (SFRT) for very-high-energy electrons (VHEEs) delivered with pencil beam scanning.Approach. Radiochromic film was irradiated at the CERN linear electron accelerator for research using 194 MeV electrons with a step-and-shoot technique, moving films within a water tank.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work develops pencil beam scanning delivery for very-high-energy electrons (194 MeV) applied to spatially fractionated radiotherapy, demonstrated experimentally with radiochromic film at CERN and via Monte Carlo simulation. Peak-to-valley dose ratios of 15.5 ± 0.1 were achieved experimentally at 12 mm depth with 5 mm spot spacing; simulations predicted ratios up to 180 ± 4 with reduced leakage. A treatment planning comparison for a canine glioma showed VHEE spatially fractionated plans reduced mean dose to organs at risk by &gt;16% while increasing planning target volume mean dose by up to 15% relative to conventional 6 MV volumetric modulated arc therapy.
+
+
 ??? note "Abstract"
     Objective.To evaluate spatially fractionated radiation therapy (SFRT) for very-high-energy electrons (VHEEs) delivered with pencil beam scanning.Approach. Radiochromic film was irradiated at the CERN linear electron accelerator for research using 194 MeV electrons with a step-and-shoot technique, moving films within a water tank. Peak-to-valley dose ratios (PVDRs), depths of convergence (PVDR ⩽ 1.1), peak doses, and valley doses assessed SFRT dose distribution quality. A Monte Carlo (MC) model of the pencil beams was developed using TOPAS and applied to a five-beam VHEE SFRT treatment for a canine glioma patient, compared to a clinical 6 MV VMAT plan. The plans were evaluated based on dose-volume histograms, mean dose, and maximum dose to the planning target volume (PTV) and organs at risks (OARs).Main results. Experimental PVDR values were maximized at 15.5 ± 0.1 at 12 mm depth for 5 mm spot spacing. A DOC of 76.5, 70.7, and 56.6 mm was found for 5, 4, and 3 mm beamlet spacings, respectively. MC simulations and experiments showed good agreement, with maximum relative dose differences of 2% in percentage depth dose curves and less than 3% in beam profiles. Simulated PVDR values reached 180 ± 4, potentially achievable with reduced leakage dose. VHEE SFRT plans for the canine glioma patient showed a decrease in mean dose (&gt;16%) to OARs while increasing the PTV mean dose by up to 15%. Lowering beam energy enhanced PTV dose homogeneity and reduced OAR maximum doses.Significance. The presented work demonstrates that pencil beam scanning SFRT with VHEEs could treat deep-seated tumors such as head and neck cancer or lung lesions, though small beam size and leakage dose may limit the achievable PVDR.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39536706/) · [DOI](https://doi.org/10.1088/1361-6560/ad9232)
+
+
+---
+
+### Optimizing focused very-high-energy electron beams for radiation therapy based on Monte Carlo simulation.
+
+*An C, Zhang W, Dai Z, Li J, Yang X, Wang J et al.* — Scientific reports (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** A TOPAS-based optimization program has been developed to precisely concentrate the dose of focused very-high-energy electron (VHEE) beams on deep-seated targets. This is accomplished by optimizing the magnetic gradients, positions, and number of quadrupole magnets within TOPAS.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A TOPAS-based Monte Carlo optimization program was developed to design focused very-high-energy electron (VHEE) beams for deep-seated targets. Using three quadrupole magnets, 250 MeV VHEE beams were optimized to achieve maximum dose position deeper than 17 cm with entrance and exit doses within 25% and lateral dimensions ≤1 cm. A spread-out electron peak covering 12–17 cm depth was generated by combining two VHEE beams with dose flatness better than 99%.
+
+
+??? note "Abstract"
+    A TOPAS-based optimization program has been developed to precisely concentrate the dose of focused very-high-energy electron (VHEE) beams on deep-seated targets. This is accomplished by optimizing the magnetic gradients, positions, and number of quadrupole magnets within TOPAS. Using only three quadrupole magnets, the program focuses 250 MeV VHEE beams to achieve a maximum dose position deeper than 17 cm, while maintaining entrance and exit doses within 25% and limiting the lateral dimensions to ≤ 1 cm at the maximum dose location. The linear relationship between the magnetic gradient of the last quadrupole magnet and the maximum dose position enables dose location adjustments through gradient variation. Multiple positions were validated in TOPAS with errors within 1%. The spread-out electron peak (SOEP) is achieved by combining two VHEE beams with different maximum dose positions using the differential evolution method, covering a target depth of 12-17 cm and attaining a dose flatness better than 99%. This pioneering program imposes constraints on entrance dose, exit dose, maximum dose position, and the lateral dimensions of dose deposition at the maximum dose position within phantom. This program may be a promising tool in the applications of focused VHEE in highly conformal treatment plans based on TOPAS.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39528582/) · [DOI](https://doi.org/10.1038/s41598-024-79187-4) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11554818/)
+
+
+---
+
+### A Fast 3D Range-Modulator Delivery Approach: Validation of the FLUKA Model on a Varian ProBeam System Including a Robustness Analysis.
+
+*Simeonov Y, Weber U, Krieger M, Schuy C, Folkerts M, Paquet G et al.* — Cancers (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** A 3D range-modulator (RM), optimized for a single energy and a specific target shape, is a promising and viable solution for the ultra-fast dose delivery in particle therapy. The aim of this work was to investigate the impact of potential beam and modulator misalignments on the dose distribution.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work validates a FLUKA Monte Carlo model for simulating 3D range modulators (RM) in single-energy 250 MeV proton therapy on a Varian ProBeam system, with the stated goal of enabling ultra-fast dose delivery. The authors designed and manufactured a 3D RM prototype for a rotated cube target, performed robustness analysis of beam-modulator alignment sensitivity, and compared simulations against measurements at HollandPTC. Key findings include that modulator tilt substantially degrades dose conformality, modulator shift affects distal dose more than SOBP homogeneity, and alignment accuracy below 1° is required to maintain acceptable uncertainty budgets.
+
+
+??? note "Abstract"
+    A 3D range-modulator (RM), optimized for a single energy and a specific target shape, is a promising and viable solution for the ultra-fast dose delivery in particle therapy. The aim of this work was to investigate the impact of potential beam and modulator misalignments on the dose distribution. Moreover, the FLUKA Monte Carlo model, capable of simulating 3D RMs, was adjusted and validated for the 250 MeV single-energy proton irradiation from a Varian ProBeam system. A 3D RM was designed for a cube target shape rotated 45° around two axes using a Varian-internal research version of the Eclipse treatment planning software, and the resulting dose distribution was simulated in a water phantom. Deviations from the ideal alignment were introduced, and the dose distributions from the modified simulations were compared to the original unmodified one. Finally, the FLUKA model and the workflow were validated with base-line data measurements and dose measurements of the manufactured modulator prototype at the HollandPTC facility in Delft. The adjusted FLUKA model, optimized particularly in the scope of a single-energy FLASH irradiation with a PMMA pre-absorber, demonstrated very good agreement with the measured dose distribution resulting from the 3D RM. Dose deviations resulting from modulator-beam axis misalignments depend on the specific 3D RM and its shape, pin aspect ratio, rotation angle, rotation point, etc. A minor modulator shift was found to be more relevant for the distal dose distribution than for the spread-out Bragg Peak (SOBP) homogeneity. On the other hand, a modulator tilt (rotation away from the beam axis) substantially affected not only the depth dose profile, transforming a flat SOBP into a broad, Gaussian-like distribution with increasing rotation angle, but also shifted the lateral dose distribution considerably. This work strives to increase awareness and highlight potential pitfalls as the 3D RM method progresses from a purely research concept to pre-clinical studies and human trials. Ensuring that gantry rotation and the combined weight of RM, PMMA, and aperture do not introduce alignment issues is critical. Given all the other range and positioning uncertainties, etc., not related to the modulator, the RM must be aligned with an accuracy below 1° in order to preserve a clinically acceptable total uncertainty budget. Careful consideration of critical parameters like the pin aspect ratio and possibly a novel robust modulator geometry optimization are potential additional strategies to mitigate the impact of positioning on the resulting dose. Finally, even the rotated cube 3D modulator with high aspect ratio pin structures (~80 mm height to 3 mm pin base width) was found to be relatively robust against a slight misalignment of 0.5° rotation or a 1.5 mm shift in one dimension perpendicular to the beam axis. Given a reliable positioning and QA concept, the additional uncertainties introduced by the 3D RM can be successfully managed adopting the concept into the clinical routine.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39456592/) · [DOI](https://doi.org/10.3390/cancers16203498) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11505765/)
+
+
+---
+
+### Laser-driven electron source suitable for single-shot Gy-scale irradiation of biological cells at dose rates exceeding 10^{10} Gy/s.
+
+*McAnespie CA, Chaudhary P, Calvin L, Streeter MJV, Nersysian G, McMahon SJ et al.* — Physical review. E (2024)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high d…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A laser-driven electron source capable of delivering Gy-scale doses over 10–20 ps is characterized, achieving unprecedented dose rates of 10^10–10^12 Gy/s. Monte Carlo simulations validate dose delivery over centimetre-scale areas with high spatial uniformity. The source is presented as suitable for systematic cellular radiobiology studies at picosecond-scale ultra-high dose rates.
+
+
+??? note "Abstract"
+    We report on the first systematic characterization of a tuneable laser-driven electron source capable of delivering Gy-scale doses in a duration of 10-20 ps in a single irradiation, thus reaching unprecedented dose rates in the range of 10^{10}-10^{12} Gy/s. Detailed characterization of the source indicates, in agreement with Monte Carlo simulations, dose delivery over cm-scale areas with a high degree of spatial uniformity. The results reported here confirm that a laser-driven source of this kind can be used for systematic studies of the response of biological cells to picosecond-scale radiation at ultrahigh dose rates.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39425326/) · [DOI](https://doi.org/10.1103/PhysRevE.110.035204)
 
 
 ---
@@ -1100,30 +1166,15 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** Previously, a synchrotron-based horizontal proton beamline (87.2 MeV) was successfully commissioned to deliver radiation doses in FLASH and conventional dose rate modes to small fields and volumes. In this study, we developed a strategy to increase the effective radiation field size using a custom robotic motion platform to automatically shift the positions of biological samples.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A robotic motion platform was developed to expand the effective radiation field size for proton FLASH preclinical studies using a 87.2 MeV synchrotron beamline. The system delivered doses at 113.7 Gy/s to 96-well cell culture plates and 191.3 Gy/s to mice using automated repositioning with 9–10.6 mm spot spacing and tungsten scattering. Dose validation via radiochromic film matched Monte Carlo calculations with &gt;95% gamma pass rate.
+
+
 ??? note "Abstract"
     Previously, a synchrotron-based horizontal proton beamline (87.2 MeV) was successfully commissioned to deliver radiation doses in FLASH and conventional dose rate modes to small fields and volumes. In this study, we developed a strategy to increase the effective radiation field size using a custom robotic motion platform to automatically shift the positions of biological samples. The beam was first broadened with a thin tungsten scatterer and shaped by customized brass collimators for irradiating cell/organoid cultures in 96-well plates (a 7-mm-diameter circle) or for irradiating mice (1-cm2 square). Motion patterns of the robotic platform were written in G-code, with 9-mm spot spacing used for the 96-well plates and 10.6-mm spacing for the mice. The accuracy of target positioning was verified with a self-leveling laser system. The dose delivered in the experimental conditions was validated with EBT-XD film attached to the 96-well plate or the back of the mouse. Our film-measured dose profiles matched Monte Carlo calculations well (1D gamma pass rate &gt;95%). The FLASH dose rates were 113.7 Gy/s for cell/organoid irradiation and 191.3 Gy/s for mouse irradiation. These promising results indicate that this robotic platform can be used to effectively increase the field size for preclinical experiments with proton FLASH.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39314510/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11419177/)
-
-
----
-
-### Discordance in acute gastrointestinal toxicity between synchrotron-based proton and linac-based electron ultra-high dose rate irradiation.
-
-*Liu K, Titt U, Esplen N, Connell L, Konradsson E, Yang M et al.* — bioRxiv : the preprint server for biology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** Proton FLASH has been investigated using cyclotron and synchrocyclotron beamlines but not synchrotron beamlines. We evaluated the impact of dose rate (ultra-high \[UHDR\] vs.
-
-
-??? note "Abstract"
-    PURPOSE: Proton FLASH has been investigated using cyclotron and synchrocyclotron beamlines but not synchrotron beamlines. We evaluated the impact of dose rate (ultra-high \[UHDR\] vs. conventional \[CONV\]) and beam configuration (shoot-through \[ST\] vs. spread-out-Bragg-peak \[SOBP\]) on acute radiation-induced gastrointestinal toxicity (RIGIT) in mice. We also compared RIGIT between synchrotron-based protons and linac-based electrons with matched mean dose rates. METHODS AND MATERIALS: We administered abdominal irradiation (12-14 Gy single fraction) to female C57BL/6J mice with an 87 MeV synchrotron-based proton beamline (2 cm diameter field size as a lateral beam). Dose rates were 0.2 Gy/s (S-T pCONV), 0.3 Gy/s (SOBP pCONV), 150 Gy/s (S-T pFLASH), and 230 Gy/s (SOBP pFLASH). RIGIT was assessed by the jejunal regenerating crypt assay and survival. We also compared responses to proton \[pFLASH and pCONV\] with responses to electron CONV (eCONV, 0.4 Gy/s) and electron FLASH (eFLASH, 188-205 Gy/s). RESULTS: The number of regenerating jejunal crypts at each matched dose was lowest for pFLASH (similar between S-T and SOBP), greater and similar between pCONV (S-T and SOBP) and eCONV, and greatest for eFLASH. Correspondingly, mice that received pFLASH SOBP had the lowest survival rates (50% at 50 days), followed by pFLASH S-T (80%), and pCONV SOBP (90%), but 100% of mice receiving pCONV S-T survived (log-rank P = 0.047 for the four groups). CONCLUSIONS: Our findings are consistent with an increase in RIGIT after synchrotron-based pFLASH versus pCONV. This negative proton-specific FLASH effect versus linac-based electron irradiation underscores the importance of understanding the physical and biological factors that will allow safe and effective clinical translation.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39282305/) · [DOI](https://doi.org/10.1101/2024.09.04.611307) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11398481/)
 
 
 ---
@@ -1136,6 +1187,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 **TL;DR.** The Marburg Ion-Beam Therapy Center (MIT) is one of two particle therapy centers in Germany that enables the treatment of patients with both protons and carbon ions. The facility was build by Siemens Healthineers and is one of only two centers worldwide built by Siemens (Marburg, Germany and Shanghai, China).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    The Marburg Ion-Beam Therapy Center (MIT) is a synchrotron-based facility in Germany treating patients with protons (up to 250 MeV/u) and carbon ions (up to 430 MeV/u) across four treatment rooms. Since clinical operations began in 2015, approximately 2,500 patients have been treated, predominantly for CNS tumors and head-and-neck cancers. The facility conducts active research including technical implementation of FLASH irradiation delivery, alongside translational studies in radiation biology and medical physics.
 
 
 ??? note "Abstract"
@@ -1157,6 +1212,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** Objective. The FLASH effect can potentially be used to improve the therapeutic ratio of radiotherapy (RT) through delivery of Ultra-high-dose-rate (UHDR) irradiation.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Commissioning study of an ultra-high-dose-rate Mobetron electron linac for preclinical FLASH research. Electron beams were characterized using radiochromic film dosimetry across varying field sizes, pulse widths, and pulse repetition frequencies. A Monte Carlo beam model was implemented and validated through end-to-end testing on a 3D-printed heterogeneous mouse phantom, achieving gamma-index agreement &gt;93% (2 mm/2%) and 99% (3 mm/3%) between measured and calculated dose distributions.
+
+
 ??? note "Abstract"
     Objective. The FLASH effect can potentially be used to improve the therapeutic ratio of radiotherapy (RT) through delivery of Ultra-high-dose-rate (UHDR) irradiation. Research is actively being conducted to translate UHDR-RT and for this purpose the Mobetron is capable of producing electron beams at both UHDR and conventional dose rates for FLASH research and translation. This work presents commissioning of an UHDR Mobetron with end-to-end tests developed for preclinical research.Approach. UHDR electron beams were commissioned with an efficient approach utilizing a 3D-printed water tank and film to fully characterize beam characteristics and dependences on field size, pulse width (PW) and pulse repetition frequency (PRF). This commissioning data was used to implement a beam model using the GAMOS Monte Carlo toolkit for the preclinical research. Then, the workflow for preclinical FLASH irradiation was validated with end-to-end tests delivered to a 3D-printed mouse phantom with internal inhomogeneities.Main results.PDDs, profiles and output factors acquired with radiochromic films were precisely measured, with a PRF that showed little effect on the UHDR beam energy and spatial characteristics. Increasing PW reduced theDmaxand R50by 2.08 mmµs-1and 1.28 mmµs-1respectively. An end-to-end test of the preclinical research workflow showed that both profiles in head-foot and lateral directions were in good agreement with the MC calculations for the heterogeneous 3D printed mouse phantom with Gamma index above 93% for 2 mm/2% criteria, and 99% for 3 mm/3%.Significance. The UHDR Mobetron is a versatile tool for FLASH preclinical research and this comprehensive beam model and workflow was validated to meet the requirements for conducting translational FLASH research.
 
@@ -1166,40 +1225,25 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### Modelling of RBE differences in selected points within similar spread-out Bragg-peaks (SOBP) placed at superficial and deep water phantom locations in passively scattered beams but not in scanned pencil beams: A hypothesis.
+### Impact of Scattering Foil Composition on Electron Energy Distribution in a Clinical Linear Accelerator Modified for FLASH Radiotherapy: A Monte Carlo Study.
 
-*Jones B* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)  
+*Chow JCL, Ruda HE* — Materials (Basel, Switzerland) (2024)  
 
-<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** To model relative biological effectiveness (RBE) differences found in two studies which used spread-out Bragg-peaks (SOBP) placed at (a) superficial depth and (b) at the maximum range depth. For pencil beam scanning (PBS), RBE at similar points within the SOBP did not change between the two extreme SOBP placement depths; in passively scattered beams (PSB), high RBE values (typically 1.2-1.3) were …
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-??? note "Abstract"
-    PURPOSE: To model relative biological effectiveness (RBE) differences found in two studies which used spread-out Bragg-peaks (SOBP) placed at (a) superficial depth and (b) at the maximum range depth. For pencil beam scanning (PBS), RBE at similar points within the SOBP did not change between the two extreme SOBP placement depths; in passively scattered beams (PSB), high RBE values (typically 1.2-1.3) were found within superficially- placed SOBP but reduced to lower values (1-1.07) at similar points within the extreme-depth positioned SOBP. The dose, LET (linear energy transfer) distributions along each SOBP were closely comparable regardless of placement depth, but significant changes in dose rate occurred with depth in the PSB beam. METHODS: The equations used allow α and β changes with falling dose rate (the converse to FLASH studies) in PSB, resulting in reduced α/β ratios, compatible with a reduction in micro-volumetric energy transfer (the product of Fluence and LET), with commensurate reductions in RBE. The experimental depth-distances, positions within SOBP, observed dose-rates and radiosensitivity ratios were used to estimate the changes in RBE. RESULTS: RBE values within a 5 % tolerance limit of the experimental results for PSB were found at the deepest SOBP placement. No RBE changes were predicted for PBS beams, as in the published results. CONCLUSIONS: Enhanced proton therapy toxicity might occur with PBS when compared with PSB for deeply positioned SOBP due to the maintenance of higher RBE. Scanned pencil beam users need to be vigilant about RBE and further research is indicated.
+**TL;DR.** This study investigates how scattering foil materials and sampling holder placement affect electron energy distribution in electron beams from a modified medical linear accelerator for FLASH radiotherapy. We analyze electron energy spectra at various positions-ionization chamber, mirror, and jaw-to evaluate the impact of Cu, Pb-Cu, Pb, and Ta foils.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39074409/) · [DOI](https://doi.org/10.1016/j.ejmp.2024.104488)
-
-
----
-
-### The sparing effect of ultra-high dose rate irradiation on the esophagus.
-
-*Ren W, Hou L, Zhang K, Chen H, Feng X, Jiang Z et al.* — Frontiers in oncology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Current studies have substantiated the sparing effect of ultra-high dose rate irradiation (FLASH) in various organs including the brain, lungs, and intestines. Whether this sparing effect extends to esophageal tissue remains unexplored.
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This Monte Carlo study investigates how scattering foil material composition and sampling holder placement affect electron energy distribution in a clinical linear accelerator modified for FLASH radiotherapy. The authors modeled Cu, Pb-Cu, Pb, and Ta foils and evaluated electron energy spectra at positions corresponding to the ionization chamber, mirror, and jaws in a 12 MeV electron beam. Proximity to the source increases foil-material dependence on energy distribution, while distant placement reduces this dependence and promotes more uniform energy spreads in the 0.5–10 MeV range. The findings suggest that tailored foil selection and holder positioning are critical for optimizing electron energy distribution for FLASH beam design.
 
 
 ??? note "Abstract"
-    BACKGROUND AND PURPOSE: Current studies have substantiated the sparing effect of ultra-high dose rate irradiation (FLASH) in various organs including the brain, lungs, and intestines. Whether this sparing effect extends to esophageal tissue remains unexplored. This study aims to compare the different responses of esophageal tissue in histological and protein expression levels following conventional dose rate irradiation (CONV) and FLASH irradiation to ascertain the presence of a sparing effect. METHODS AND MATERIALS: C57 female mice were randomly divided into three groups: control, CONV, and FLASH groups. The chest region of the mice in the radiation groups was exposed to a prescribed dose of 20 Gy using a modified electron linear accelerator. The CONV group received an average dose rate of 0.1 Gy/s, while the FLASH group received an average dose rate of 125 Gy/s. On the 10th day after irradiation, the mice were euthanized and their esophagi were collected for histopathological analysis. Subsequently, label-free proteomic quantification analysis was performed on esophageal tissue. The validation process involved analyzing transmission electron microscopy images and utilizing the parallel reaction monitoring method. RESULTS: Histopathology results indicated a significantly lower extent of esophageal tissue damage in the FLASH group compared to the CONV group (p &lt; 0.05). Label-free quantitative proteomic analysis revealed that the sparing effect observed in the FLASH group may be attributed to a reduction in radiation-induced protein damage associated with mitochondrial functions, including proteins involved in the tricarboxylic acid cycle and oxidative phosphorylation, as well as a decrease in acute inflammatory responses. CONCLUSIONS: Compared with CONV irradiation, a sparing effect on esophageal tissue can be observed after FLASH irradiation. This sparing effect is associated with alleviated mitochondria damage and acute inflammation.
+    This study investigates how scattering foil materials and sampling holder placement affect electron energy distribution in electron beams from a modified medical linear accelerator for FLASH radiotherapy. We analyze electron energy spectra at various positions-ionization chamber, mirror, and jaw-to evaluate the impact of Cu, Pb-Cu, Pb, and Ta foils. Our findings show that close proximity to the source intensifies the dependence of electron energy distribution on foil material, enabling precise beam control through material selection. Monte Carlo simulations are effective for designing foils to achieve desired energy distributions. Moving the sampling holder farther from the source reduces foil material influence, promoting more uniform energy spreads, particularly in the 0.5-10 MeV range for 12 MeV electron beams. These insights emphasize the critical role of tailored material selection and sampling holder positioning in optimizing electron energy distribution and fluence intensity for FLASH radiotherapy research, benefiting both experimental design and clinical applications.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39070145/) · [DOI](https://doi.org/10.3389/fonc.2024.1442627) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11272628/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38998435/) · [DOI](https://doi.org/10.3390/ma17133355) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11243336/)
 
 
 ---
@@ -1214,6 +1258,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** An ultra-high dose rate (UHDR) electron accelerator for FLASH radiotherapy (RT) produces very intense bremsstrahlung by the interaction of the electron beam with objects both inside and outside of the accelerator. The bremsstrahlung dose per pulse is typically 1-2 orders of magnitude larger than that of conventional RT x-ray treatment of the same energy, and for electron energies above 10 MeV, the…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work evaluates radiation safety of a prototype FLASH-enabled 16 MeV Varian TrueBeam electron accelerator by modeling bremsstrahlung production and induced radioactivity, comparing analytical predictions with NIST data and direct measurements of primary and secondary bremsstrahlung outside the bunker and neutrons at maze entrance. The study validates that primary and secondary bremsstrahlung can be assessed using conventional radiotherapy formalism, and concludes the accelerator is safe for normal operation (≤99 pulses per irradiation) in bunkers designed for 15 MV conventional x-ray treatment unless UHDR workload substantially exceeds x-ray workload.
+
+
 ??? note "Abstract"
     BACKGROUND: An ultra-high dose rate (UHDR) electron accelerator for FLASH radiotherapy (RT) produces very intense bremsstrahlung by the interaction of the electron beam with objects both inside and outside of the accelerator. The bremsstrahlung dose per pulse is typically 1-2 orders of magnitude larger than that of conventional RT x-ray treatment of the same energy, and for electron energies above 10 MeV, the bremsstrahlung produces substantially more induced radioactivity outside the accelerator than for conventional RT. Therefore, a thorough radiation safety assessment is mandatory prior to the operation of a UHDR electron accelerator. PURPOSE: To evaluate the radiation safety of a prototype FLASH-enabled Varian TrueBeam accelerator and to develop a general framework for assessment of all key radiation safety properties of a UHDR electron accelerator for FLASH RT. METHODS: Production of bremsstrahlung and induced radioactivity by a UHDR electron accelerator is modeled by various analytical methods. The analytical modeling is compared with National Institute of Standards and Technology (NIST) bremsstrahlung yield data as well as measurements of primary bremsstrahlung outside the bunker and induced radioactivity of irradiated thick targets for a FLASH-enabled 16 MeV Varian TrueBeam electron accelerator. In addition, the analytical modeling is complemented by measurements of secondary bremsstrahlung inside/outside the bunker and neutrons at the maze entrance. RESULTS: Calculated bremsstrahlung yields deviate maximum 8.5% from NIST data, and all measurements of primary bremsstrahlung and induced radioactivity agree with calculations, validating the analytical tools. In addition, it is found that scattering foil bremsstrahlung dominates primary bremsstrahlung and the main source of secondary bremsstrahlung is the irradiated object outside the accelerator. It follows that primary and secondary bremsstrahlung outside the bunker can be calculated using the same simple formalism as that used for conventional RT. Measured primary bremsstrahlung tenth-value layers for concrete of the simple formalism are in good agreement with NCRP and IAEA data, while measured secondary bremsstrahlung tenth-value layers for concrete are considerably lower than NCRP and IAEA data. All calculations and measurements form a general framework for assessment of all key radiation safety properties of a UHDR electron accelerator. CONCLUSIONS: The FLASH-enabled Varian TrueBeam accelerator is safe for normal operation (max. 99 pulses per irradiation) in a bunker designed for at least 15 MV conventional x-ray treatment unless the UHDR workload is much larger than the x-ray workload. A similar finding applies to other UHDR electron accelerators. However, during beam tuning, radiation survey, or other tests with extended irradiation time, the UHDR workload may become very large, necessitating the implementation of additional safety measures.
 
@@ -1223,21 +1271,25 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 ---
 
-### VHEE FLASH sparing effect measured at CLEAR, CERN with DNA damage of pBR322 plasmid as a biological endpoint.
+### A high-throughput focused collimator for OAR-sparing preclinical proton FLASH studies: commissioning and validation.
 
-*Wanstall HC, Korysko P, Farabolini W, Corsini R, Bateman JJ, Rieker V et al.* — Scientific reports (2024)  
+*Mossahebi S, Byrne K, Jiang K, Gerry A, Deng W, Repetto C et al.* — Physics in medicine and biology (2024)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
 
 
-**TL;DR.** Ultra-high dose rate (UHDR) irradiation has been shown to have a sparing effect on healthy tissue, an effect known as &#x27;FLASH&#x27;. This effect has been studied across several radiation modalities, including photons, protons and clinical energy electrons, however, very little data is available for the effect of FLASH with Very High Energy Electrons (VHEE).
+**TL;DR.** Objective. To fabricate and validate a novel focused collimator designed to spare normal tissue in a murine hemithoracic irradiation model using 250 MeV protons delivered at ultra-high dose rates (UHDRs) for preclinical FLASH radiation therapy (FLASH-RT) studies.Approach.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    The authors designed and commissioned a brass collimator with six 13 mm apertures for concurrent hemithoracic irradiation of six mice using 250 MeV protons delivered at ultra-high dose rate (mean 52 Gy/s) on a Varian ProBeam. The collimator produced 1.2 mm penumbrae comparable to conventional kV x-rays, with full-width half-maxima of 13.3–13.5 mm across central and peripheral apertures. This platform enables high-throughput preclinical radiobiological studies of the FLASH effect in murine models while sparing off-target organs.
 
 
 ??? note "Abstract"
-    Ultra-high dose rate (UHDR) irradiation has been shown to have a sparing effect on healthy tissue, an effect known as &#x27;FLASH&#x27;. This effect has been studied across several radiation modalities, including photons, protons and clinical energy electrons, however, very little data is available for the effect of FLASH with Very High Energy Electrons (VHEE). pBR322 plasmid DNA was used as a biological model to measure DNA damage in response to Very High Energy Electron (VHEE) irradiation at conventional (0.08 Gy/s), intermediate (96 Gy/s) and ultra-high dose rates (UHDR, (2 × 109 Gy/s) at the CERN Linear Electron Accelerator (CLEAR) user facility. UHDRs were used to determine if the biological FLASH effect could be measured in the plasmid model, within a hydroxyl scavenging environment. Two different concentrations of the hydroxyl radical scavenger Tris were used in the plasmid environment to alter the proportions of indirect damage, and to replicate a cellular scavenging capacity. Indirect damage refers to the interaction of ionising radiation with molecules and species to generate reactive species which can then attack DNA. UHDR irradiated plasmid was shown to have significantly reduced amounts of damage in comparison to conventionally irradiated, where single strand breaks (SSBs) was used as the biological endpoint. This was the case for both hydroxyl scavenging capacities. A reduced electron energy within the VHEE range was also determined to increase the DNA damage to pBR322 plasmid. Results indicate that the pBR322 plasmid model can be successfully used to explore and test the effect of UHDR regimes on DNA damage. This is the first study to report FLASH sparing with VHEE, with induced damage to pBR322 plasmid DNA as the biological endpoint. UHDR irradiated plasmid had reduced amounts of DNA single-strand breaks (SSBs) in comparison with conventional dose rates. The magnitude of the FLASH sparing was a 27% reduction in SSB frequency in a 10 mM Tris environment and a 16% reduction in a 100 mM Tris environment.
+    Objective. To fabricate and validate a novel focused collimator designed to spare normal tissue in a murine hemithoracic irradiation model using 250 MeV protons delivered at ultra-high dose rates (UHDRs) for preclinical FLASH radiation therapy (FLASH-RT) studies.Approach. A brass collimator was developed to shape 250 MeV UHDR protons from our Varian ProBeam. Six 13 mm apertures, of equivalent size to kV x-ray fields historically used to perform hemithorax irradiations, were precisely machined to match beam divergence, allowing concurrent hemithoracic irradiation of six mice while sparing the contralateral lung and abdominal organs. The collimated field profiles were characterized by film dosimetry, and a radiation survey of neutron activation was performed to ensure the safety of staff positioning animals.Main results. The brass collimator produced 1.2 mm penumbrae radiation fields comparable to kV x-rays used in preclinical studies. The penumbrae in the six apertures are similar, with full-width half-maxima of 13.3 mm and 13.5 mm for the central and peripheral apertures, respectively. The collimator delivered a similar dose at an average rate of 52 Gy s-1for all apertures. While neutron activation produces a high (0.2 mSv h-1) initial ambient equivalent dose rate, a parallel work-flow in which imaging and setup are performed without the collimator ensures safety to staff.Significance. Scanned protons have the greatest potential for future translation of FLASH-RT in clinical treatments due to their ability to treat deep-seated tumors with high conformality. However, the Gaussian distribution of dose in proton spots produces wider lateral penumbrae compared to other modalities. This presents a challenge in small animal pre-clinical studies, where millimeter-scale penumbrae are required to precisely target the intended volume. Offering high-throughput irradiation of mice with sharp penumbrae, our novel collimator-based platform serves as an important benchmark for enabling large-scale, cost-effective radiobiological studies of the FLASH effect in murine models.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38926450/) · [DOI](https://doi.org/10.1038/s41598-024-65055-8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11208499/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38876112/) · [DOI](https://doi.org/10.1088/1361-6560/ad589f)
 
 
 ---
@@ -1250,6 +1302,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 **TL;DR.** In preparation of future clinical trials employing the Mobetron electron linear accelerator to deliver FLASH Intraoperative Radiation Therapy (IORT), the development of a Monte Carlo (MC)-based framework for dose calculation was required. PURPOSE: To extend and validate the in-house developed fast MC dose engine MonteRay (MR) for future clinical applications in IORT.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    The authors extended and validated MonteRay (MR), an in-house fast Monte Carlo dose engine, to include electron and photon transport for intraoperative radiation therapy (IORT) applications in preparation for clinical FLASH trials using the Mobetron electron accelerator. Validation against FLUKA and experimental dosimetry in water, heterogeneous media, and anthropomorphic phantoms showed dose agreement within 1–3% and gamma passing rates exceeding 99.4%. MonteRay achieved approximately 13-fold speedup relative to FLUKA for 10 MeV electrons and will be coupled with external biophysical models for FLASH biological dose prediction in IORT.
 
 
 ??? note "Abstract"
@@ -1271,6 +1327,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 **TL;DR.** One challenge on the path to delivering FLASH-compatible beams with a synchrotron is facilitating an accurate dose control for the required ultra-high dose rates. We propose the use of pulsed RFKO extraction instead of continuous beam delivery as a way to control the dose delivered per Voxel.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work proposes pulsed RF knock-out (RFKO) extraction from a synchrotron as a method to enable FLASH-compatible hadrontherapy delivery with precise dose control at the voxel level. In feasibility testing, dose rates up to 600 Gy/s were achieved in individual pulses, with expected dose-delivery granularity below 0.5 Gy per pulse, addressing the challenge of accurate dose control during ultra-high dose rate beam delivery.
+
+
 ??? note "Abstract"
     One challenge on the path to delivering FLASH-compatible beams with a synchrotron is facilitating an accurate dose control for the required ultra-high dose rates. We propose the use of pulsed RFKO extraction instead of continuous beam delivery as a way to control the dose delivered per Voxel. In a first feasibility test, dose rates in pulses of up to 600 Gy s-1were observed, while the granularity at which the dose was delivered is expected to be well below 0.5 Gy.
 
@@ -1288,6 +1348,10 @@ Accelerators, LINAC conversions, laser-driven and VHEE sources, and beam-deliver
 
 
 **TL;DR.** Very High Energy Electron (VHEE) beams are a promising alternative to conventional radiotherapy due to their highly penetrating nature and their applicability as a modality for FLASH (ultra-high dose-rate) radiotherapy. The dose distributions due to VHEE need to be optimised; one option is through the use of quadrupole magnets to focus the beam, reducing the dose to healthy tissue and allowing for…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper investigates focused very high energy electron (VHEE) beams above 200 MeV at the CERN CLEAR facility as a delivery modality for FLASH radiotherapy. Quadrupole magnetic focusing is explored both experimentally and through Monte Carlo simulation using TOPAS, with optimization of setup dimensions and beam parameters for clinical applicability. The work addresses beam focusing geometry and dose distribution optimization to enable targeted delivery at ultra-high dose rates.
 
 
 ??? note "Abstract"

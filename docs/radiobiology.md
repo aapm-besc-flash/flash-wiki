@@ -2,25 +2,75 @@
 
 In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue sparing, tumor response, oxygen and immune involvement.
 
-*402 records. Newest first.*
+*394 records. Newest first.*
 
 ---
 
-### Novel Bragg peak FLASH radiotherapy: treatment of base-of-skull tumors within existing clinical guidelines.
+### Context-Dependent Radioenhancement by Platinum Nanoparticles Under Conventional and Ultra-High Dose-Rate &quot;FLASH&quot; Radiotherapy.
 
-*Pennock M, Selvaraj B, Cheng C, Kyler A, Lin H, Hasan S et al.* — Frontiers in oncology (2026)  
+*Schott C, Feghali F, Gerbé de Thoré M, Joudat A, Meziani L, Rajpal A et al.* — Small (Weinheim an der Bergstrasse, Germany) (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+<span class="badge tag">Radiobiology</span>
 
 
-**TL;DR.** Proton therapy is commonly delivered for base-of-skull (BOS) tumors to minimize risk of normal-tissue injury. Novel Bragg peak FLASH may improve protection for organs at risk (OARs).
+**TL;DR.** Metallic nanoparticles (NPs) and ultra-high dose rate (UHDR, FLASH) irradiation are being developed to widen the therapeutic index of radiotherapy, but their interaction remains poorly defined. We assessed PEGylated platinum nanoparticles (Pt-NPs) in 4T1 tumor spheroids and syngeneic 4T1 and MC38 mouse models exposed to conventional (CONV, 0.125 Gy/s) or UHDR electron irradiation (∼200 Gy/s mean d…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    PEGylated platinum nanoparticles were evaluated in 4T1 tumor spheroids and syngeneic 4T1 and MC38 mouse tumors under conventional (0.125 Gy/s) and ultra-high dose-rate electron irradiation (~200 Gy/s mean dose rate). In vitro clonogenic assays showed Pt-NP radioenhancement under both dose rates, with significantly greater effect under UHDR only at 12 Gy (SER difference 25.1 percentage points, p=0.034). In vivo responses were heterogeneous: Pt-NPs did not improve tumor control in the 4T1 model and showed only a nonsignificant trend toward benefit in the MC38 model under conventional dose rate, with no comparable UHDR benefit, revealing an in vitro-to-in vivo disconnect.
 
 
 ??? note "Abstract"
-    BACKGROUND AND PURPOSE: Proton therapy is commonly delivered for base-of-skull (BOS) tumors to minimize risk of normal-tissue injury. Novel Bragg peak FLASH may improve protection for organs at risk (OARs). We investigated if proton pencil-beam scanning (PBS) Bragg peak FLASH could achieve comparable dosimetry at ultra-high dose rates to conventional-rate (CONV)-intensity-modulated proton therapy (IMPT) for potential clinical use. MATERIALS AND METHODS: PBS Bragg peak FLASH and CONV-IMPT plans were optimized for 10 consecutive patients with BOS tumor in an in-house treatment-planning system and hypofractionation regimen (30 GyE in five fractions) to assess dosimetric quality while reflecting clinical practice, parameters, and hypothetical fraction doses for FLASH effect. FLASH dose-rate coverage (V 40Gy/s) and dose-rate volume histograms (DRVHs) were quantified across OARs. FLASH (≥40 Gy/s) was achieved with a minimum MU per spot of 300-500 and a minimum spot time (MST) of 0.5 ms. FLASH dose-rate coverage, OAR sparing, and target coverage were averaged across all cases. RESULTS: FLASH generated higher CTV D max than CONV-IMPT (114% vs. 108%). Dose metrics for OARs were comparable between modalities (p &gt; 0.05). Average dose rate (ADR) DRVHs of OARs indicated 74.1% V 40Gy/s FLASH dose-rate coverage without dose threshold, and 94.4% V 40Gy/s FLASH dose-rate coverage with 1-Gy dose threshold. CONCLUSION: PBS Bragg peak FLASH can deliver conformal target dosimetric coverage, ultra-high dose rates, and comparable OAR dosimetry to CONV-IMPT, suggesting that this novel technique is feasible for BOS tumor FLASH radiotherapy. The study supports future research to explore FLASH&#x27;s biological and clinical benefits in BOS tumors and OAR sparing.
+    Metallic nanoparticles (NPs) and ultra-high dose rate (UHDR, FLASH) irradiation are being developed to widen the therapeutic index of radiotherapy, but their interaction remains poorly defined. We assessed PEGylated platinum nanoparticles (Pt-NPs) in 4T1 tumor spheroids and syngeneic 4T1 and MC38 mouse models exposed to conventional (CONV, 0.125 Gy/s) or UHDR electron irradiation (∼200 Gy/s mean dose rate). Pt-NPs penetrated throughout 4T1 spheroids and were mainly cytoplasmic. In clonogenic assays, Pt-NPs increased radiation-induced loss of reproductive capacity under both dose-rate conditions. LQ analysis suggested dose-dependent divergence between modalities, with significantly greater radioenhancement under UHDR only at 12 Gy (SER: 65.9% vs 40.8%, ΔSER = 25.1 percentage points, 95% CI, 2.1-48.1, p = 0.034). Pt-NPs did not measurably alter apoptosis or γ-H2AX kinetics. Micro-CT confirmed intratumoral platinum at irradiation, but in vivo responses were heterogeneous. Pt-NPs did not improve tumor control in the poorly immunogenic 4T1 model. In the more radiosensitive MC38 model, Pt-NPs showed a nonsignificant trend toward improved tumor control and survival under CONV, with no comparable UHDR benefit. These findings identify an in vitro-to-in vivo disconnect and show that NP radioenhancement cannot be assumed to translate across dose-rate regimens, tumor models, or host backgrounds.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42761104/) · [DOI](https://doi.org/10.3389/fonc.2026.1909184) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13585589/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42816461/) · [DOI](https://doi.org/10.1002/smll.75792)
+
+
+---
+
+### Very high energy electron radiotherapy and gold nanoparticle radiosensitisation: Quantifying DNA damage enhancement in pBR322 plasmids.
+
+*Small KL, Korysko P, Gilardi A, Tangari G, Farabolini W, Corsini R et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** While novel radiotherapy modalities such as VHEE (Very High Energy Electron) and FLASH are being developed as effective potential cancer treatments, exposure of healthy cells to dose during radiotherapy remains a major challenge. Use of high-Z nanoparticles, in particular gold nanoparticles (AuNPs) has been identified as a method of radiosensitisation - increasing the toxicity of ionising radiatio…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    pBR322 plasmid DNA in solution was irradiated with very high energy electrons (106–201 MeV) at the CLEAR facility at dose rates spanning low to ultra-high (FLASH) regimes, with and without gold nanoparticles (10 nm or 40 nm). Lethal double-strand break yields were measured as the endpoint. Gold nanoparticles produced dose enhancement factors of 1.21–1.34 (10 nm) and 1.27–1.50 (40 nm), independent of beam energy. Critically, no significant variation in dose enhancement factor was observed between low and ultra-high dose rate irradiation, indicating that AuNP radiosensitisation does not interact with the FLASH effect in this in vitro system.
+
+
+??? note "Abstract"
+    While novel radiotherapy modalities such as VHEE (Very High Energy Electron) and FLASH are being developed as effective potential cancer treatments, exposure of healthy cells to dose during radiotherapy remains a major challenge. Use of high-Z nanoparticles, in particular gold nanoparticles (AuNPs) has been identified as a method of radiosensitisation - increasing the toxicity of ionising radiation in a localised tumour region while avoiding dose increase to healthy tissue. This study focuses on AuNP radiosensitisation in VHEE irradiation with an investigation into dose enhancement through physical mechanisms. pBR322 plasmid DNA in solution with AuNPs was irradiated with VHEE beams at the CLEAR facility (CERN), with resulting lethal double-strand break (DSB) yields measured. AuNP size and beam energy were varied, in addition to dose rate to determine if a FLASH effect on DSB yield was observed. Significant increases in DSB yield were observed for samples containing 10 nm or 40 nm AuNPs, with dose enhancement factors of 1.21-1.34 and 1.27-1.50 for 10 and 40 nm AuNPs respectively. Such dose enhancement was found to be independent of electron beam energy across the range of 106-201 MeV. No significant variation in dose enhancement factor was observed between low and ultra-high dose rate irradiation. This study, having indicated significant increases in physical radiation effects through inclusion of AuNPs, highlights the potential for incorporating AuNPs in VHEE radiotherapy to increase the subsequent biological effects and improve clinical outcomes in addition to its potential to improve image contrasting.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42801889/) · [DOI](https://doi.org/10.1016/j.ejmp.2026.107177)
+
+
+---
+
+### BKCa channel deletion modulates the DNA damage response to electron ultra-high dose rate irradiation in glioblastoma cells.
+
+*Maliszewska-Olejniczak K, Fryc M, Kustra A, Wiktorska K, Lenartowicz-Gasik A, Soroka W et al.* — Journal of neuro-oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Large-conductance Ca2 +-activated potassium (BKCa) channels have been implicated in glioblastoma progression and oxidative stress; however, their contribution to the cellular response to ionizing radiation remains poorly understood. Potassium channels represent attractive therapeutic targets because their activity can be modulated pharmacologically using selective inhibitors or genetically by gene…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Human U87MG glioblastoma cells and BKCa-knockout variants were exposed to a 9 MeV electron beam at 150 Gy/s mean dose rate. BKCa deletion did not significantly alter clonogenic survival but elevated reactive oxygen species, increased G0/G1 accumulation and apoptosis, reduced γH2AX and 53BP1 foci formation, and shifted gene expression toward double-strand break repair pathway upregulation and single-strand break repair downregulation. The findings identify BKCa as a modulator of early molecular damage response in glioblastoma cells to ultra-high dose rate irradiation.
+
+
+??? note "Abstract"
+    PURPOSE: Large-conductance Ca2 +-activated potassium (BKCa) channels have been implicated in glioblastoma progression and oxidative stress; however, their contribution to the cellular response to ionizing radiation remains poorly understood. Potassium channels represent attractive therapeutic targets because their activity can be modulated pharmacologically using selective inhibitors or genetically by gene silencing (siRNA) or gene knockout (CRISPR/Cas9). Here, we investigated whether genetic inhibition of BKCa modulates the DNA damage response of human glioblastoma cells following electron ultra-high dose rate (UHDR) irradiation. METHODS: Human U87MG glioblastoma cells and BKCa-knockout cells (U87MG ΔαBKCa) were exposed to an electron UHDR-9 MeV beam with an average dose rate of 150 Gy/s. Clonogenic survival, reactive oxygen species levels, cell-cycle distribution, apoptosis, DNA-DSBs, DNA repair, and expression of selected genes encoding DDR pathways were analyzed. RESULTS: BKCa deletion did not significantly alter clonogenic survival following UHDR irradiation. Cells lacking the BKCa channel exhibited elevated ROS levels, altered cell cycle distribution with G0/G1 accumulation, and enhanced apoptosis. UHDR induced lower γH2AX accumulation and reduced 53BP1 foci formation in U87MG ΔαBKCa cells, suggesting impaired DNA damage recognition and repair complex assembly. Gene expression analysis revealed a shift toward upregulation of DSBR pathways and downregulation of PARP-dependent SSBR mechanisms. CONCLUSION: In conclusion, these findings identify BKCa as a regulator of the early molecular response of glioblastoma cells to electron UHDR irradiation and provide a basis for further studies investigating BKCa-dependent radiation responses as a target for therapeutic modulation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42773351/) · [DOI](https://doi.org/10.1007/s11060-026-05804-z) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13597620/)
 
 
 ---
@@ -37,6 +87,29 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
+### X‑ray FLASH RT inhibits lung cancer bone metastasis via activating CD4⁺ T-cell‑mediated antitumor immunity with modulation of Th17 cell response.
+
+*Huang Y, Wu T, Yang W, Liang YY, Sun YF, Ma CF et al.* — Oncoimmunology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In an intratibial LLC-luc murine model of lung cancer bone metastasis, X-ray FLASH radiotherapy at 94 Gy/s produced comparable tumor growth suppression to conventional radiotherapy at 0.1 Gy/s, both delivered via a petal accelerator. FLASH radiotherapy additionally reduced osteoclastogenesis, bone destruction, and systemic toxicity through CD4+ T cell-dependent mechanisms. The authors propose a mechanistic pathway in which FLASH-induced DNA damage drives oxygen depletion, reducing ROS accumulation and suppressing cGAS-STING-NF-κB signaling and Th17 differentiation.
+
+
+??? note "Abstract"
+    Lung cancer is characterized by rapid progression and poor prognosis, with 50%-70% of patients presenting local or distant metastasis at diagnosis, among which bone metastasis is the most common type. Radiotherapy is the standard approach for managing cancerous bone metastasis pain. Here, we report the first application of X-ray FLASH radiotherapy (RT) in treating lung cancer bone metastasis in mice. Using an intratibial LLC-luc cell injection model, mice were treated with FLASH RT (94 Gy/s) or conventional RT (CONV RT, 0.1 Gy/s) via a petal accelerator developed by the Institute of Fluid Physics, China Academy of Engineering Physics. The results demonstrated that X-ray FLASH RT and CONV RT exhibited comparable efficacy in suppressing tumor growth, and both may alleviate osteolytic lesions in mice with lung cancer bone metastasis through CD4⁺ T cell-dependent antitumor responses. However, FLASH RT further attenuated bone destruction by inhibiting osteoclastogenesis, remodeling the bone-tumor microenvironment, and reducing tumor invasion, with lower systemic toxicity. Notably, unlike CONV RT, FLASH RT instigates a distinct DNA damage response that drives oxygen depletion, thereby attenuating ROS accumulation. This mechanistic cascade sequentially suppresses cGAS-STING-NF-κB axis activation and dampens the ensuing inflammatory response. In addition, we observed a reduction in Th17 cell differentiation following FLASH RT compared to CONV RT, which may contribute to the differential efficacy of these two radiation modalities in attenuating lung cancer bone metastasis. Collectively, X-ray FLASH RT provides a promising therapeutic strategy for patients with bone metastases.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42752269/) · [DOI](https://doi.org/10.1080/2162402X.2026.2706271) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13596902/)
+
+
+---
+
 ### From clinical to synchrotron irradiations: boosting brain cancer treatment though a synergistic combination of TMZ and BrUdR with radiation.
 
 *Hollis C, Khochaiche A, Valceski M, Engels E, Vogel S, Paino J et al.* — International journal of radiation biology (2026)  
@@ -45,6 +118,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Purpose DNA incorporated bromodeoxyuridine (BrUdR) can locally enhance tumor damage when irradiated with the optimal energy for the Z of bromine in BrUdR. This research investigates the potential for improved treatment outcomes for brain cancer patients by combining the current standard treatment of radiotherapy and Temozolomide (TMZ) with DNA incorporated BrUdR and irradiation with megavoltage, k…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In vitro clonogenic assay of 9LGS gliosarcoma cells comparing conventional dose-rate (6 MV megavoltage, orthovoltage) and ultra-high dose-rate synchrotron irradiation, with and without bromodeoxyuridine (BrUdR) and temozolomide (TMZ) pre-treatment. Maximum radiosensitivity was observed in BrUdR + TMZ treated cells irradiated at ultra-high dose rate. Mechanistic endpoints included cell cycle analysis, BrUdR uptake quantification, senescence assay, and γH2AX double-strand break quantification.
 
 
 ??? note "Abstract"
@@ -3448,6 +3525,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** To establish an ultra-high dose-rate (UHDR) radiation system using a synchrotron proton beam accelerator and to compare the effects by irradiation positions on cultured cells and chick embryos. METHODS AND MATERIALS: Protons for UHDR were obtained by applying high-frequency power at much higher levels than usual to extract all protons within approximately 50 ms.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Researchers established ultra-high dose-rate proton irradiation using a synchrotron accelerator delivering 200–300 Gy/s in ~50 ms pulses to four tumor cell lines, two normal cell lines, and chick embryos at doses of 6–18 Gy, comparing outcomes to conventional 3 Gy/s delivery. In vitro, tumor cells showed similar killing between ultra-high and conventional dose rates; normal single cells exhibited no FLASH effect under normoxic conditions. V79 spheroids and chick embryos showed enhanced effects at peak ultra-high dose rate, with increased embryo survival indicating a FLASH effect. Enhanced cell killing in cancer cells at peak ultra-high dose rate may relate to higher linear energy transfer at the spread-out Bragg peak.
+
+
 ??? note "Abstract"
     PURPOSE: To establish an ultra-high dose-rate (UHDR) radiation system using a synchrotron proton beam accelerator and to compare the effects by irradiation positions on cultured cells and chick embryos. METHODS AND MATERIALS: Protons for UHDR were obtained by applying high-frequency power at much higher levels than usual to extract all protons within approximately 50 ms. Subsequently, monitoring with a Faraday cup was performed immediately after synchrotron extraction and the waveform was adjusted accordingly. Four cultured tumor lines, 2 normal cell lines, and chick embryos were used. UHDR radiation therapy (UHDR-RT) at 6 to 18 Gy (200-300 Gy/s, single exposure) and conventional dose-rate radiation therapy (Conv-RT) at 6 to 18 Gy (3 Gy/s) were administered to the 1-cm spread-out Bragg peak (SOBP) and the plateau region preceding SOBP. After irradiation, disparities in cell growth rates and cell cycle progression were assessed, and cell survival was evaluated via colony assay. Chick embryos were also examined for survival. RESULTS: UHDR-RT was achieved at a range of 40 to 800 Gy/s, encompassing both plateau and peak phases. In vitro studies demonstrated similar cell-killing effects between UHDR-RT and Conv-RT in cancer cells. Significant apoptotic effects and G2 arrest were observed during the cell cycle under peak UHDR-RT conditions. The FLASH effect was not observed in normal single cells under normal atmospheric conditions. Stronger cell-killing effects were noted in V79 spheroids exposed to peak UHDR-RT than peak Conv-RT. Moreover, in chick embryos, an increase in survival rate, indicative of the FLASH effect, was observed. CONCLUSIONS: The FLASH effect was also achieved with UHDR-RT using a synchrotron proton beam accelerator in chick embryos. The cell-killing effects in cancer cells were higher with peak UHDR-RT that may be due to the higher linear energy transfer at the SOBP.
 
@@ -3465,6 +3546,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** This study aimed to assess the impact of tissue oxygen levels on transient oxygen consumption induced by ultra-high dose rate (UHDR) electron radiation in murine flank and to examine the effect of dose rate variations on this relationship. METHODS AND MATERIALS: Real-time oximetry using the phosphorescence quenching method and Oxyphor PdG4 molecular probe was employed.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study measured real-time oxygen consumption in murine flank subcutaneous tissue during ultra-high dose rate electron irradiation using phosphorescence quenching oximetry. A single 19.8 Gy dose was delivered at varying dose rates (25–1170 Gy/s, per-pulse doses 2.5–9.8 Gy) on a Mobetron accelerator. Oxygen consumption per unit dose (gO₂) was highly dependent on baseline tissue pO₂ in the 0–65 mmHg range, showing a sharp increase below 20 mmHg before plateauing at 0.26 mmHg/Gy, whereas conventional dose rate produced no measurable pO₂ change. Dose rate variations within the ultra-high range did not significantly alter gO₂.
 
 
 ??? note "Abstract"
@@ -3486,6 +3571,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** The understanding of how varying radiation beam parameter settings affect the induction and magnitude of the FLASH effect remains limited. We sought to systematically evaluate how the magnitude of radiation-induced gastrointestinal toxicity depends on the interplay between mean dose rate (MDR) and dose per pulse (DPP).
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    C57BL/6J mice received total abdominal irradiation (11–14 Gy single fraction) at conventional or ultra-high dose rates with systematically varied dose-per-pulse (1–6 Gy) and mean dose rate (0.3–1440 Gy/s). Gastrointestinal toxicity was assessed via regenerating crypt assay and survival; tumor response via growth delay in a melanoma model. At constant MDR &gt;100 Gy/s, increasing DPP improved crypt sparing, with maximal effect at DPPs &gt;4 Gy independent of MDR. At high DPP (4.7 Gy), survival improvement was equivalent across all MDRs; at low DPP (0.93 Gy), MDR of 104 Gy/s outperformed 0.3 Gy/s. Tumor growth delay was isoeffective across all high-DPP and UHDR conditions relative to conventional irradiation.
+
+
 ??? note "Abstract"
     PURPOSE: The understanding of how varying radiation beam parameter settings affect the induction and magnitude of the FLASH effect remains limited. We sought to systematically evaluate how the magnitude of radiation-induced gastrointestinal toxicity depends on the interplay between mean dose rate (MDR) and dose per pulse (DPP). METHODS AND MATERIALS: C57BL/6J mice received total abdominal irradiation (TAI, 11-14 Gy single fraction) through either conventional (CONV) irradiation (low-DPP and low MDR, CONV) or through various combinations of DPP and MDR up to ultra-high-dose-rate beam conditions. DPPs ranging from 1 to 6 Gy were evaluated, while the total dose and MDR (&gt;100 Gy/s) were kept constant; the effects of MDR were evaluated for the range of 0.3 to 1440 Gy/s, while the total dose and DPP were kept constant. Radiation-induced gastrointestinal toxicity was quantified in nontumor-bearing mice through the regenerating crypt assay and survival assessment. Tumor response was evaluated through tumor growth delay. RESULTS: Within each tested total dose using a constant MDR (&gt;100 Gy/s), increasing DPP led to an increase in sparing (an increase in the number of regenerating crypts), with a more prominent effect seen at 12- and 14-Gy TAI. Interestingly, at DPPs of &gt;4 Gy, a similar level of crypt sparing was demonstrated irrespective of the MDR used (from 0.3 to 1440 Gy/s). At a fixed high-DPP of 4.7 Gy, survival was equivalently improved relative to CONV irrespective of MDR. However, at a lower DPP of 0.93 Gy, an MDR of 104 Gy/s produced a greater survival effect compared with 0.3 Gy/s. We also confirmed that high-DPP, regardless of MDR, produced the same magnitude of tumor growth delay relative to CONV using a clinically relevant melanoma mouse model. CONCLUSIONS: This study demonstrates the strong influence that the beam parameter settings have on the magnitude of the FLASH effect. Both high-DPP and ultra-high-dose-rate appeared independently sufficient to produce FLASH sparing of gastrointestinal toxicity while isoeffective tumor response was maintained across all conditions.
 
@@ -3505,49 +3594,15 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Ultrahigh dose-rate FLASH radiation therapy has emerged as a modality that promises to reduce normal tissue toxicity while maintaining tumor control. Previous studies of gastrointestinal toxicity using passively scattered FLASH proton therapy (PRT) have, however, yielded mixed results, suggesting that the requirements for gastrointestinal sparing by FLASH are an open question.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Whole abdominal irradiation of C57BL/6J mice using pencil beam scanned proton therapy at 80–100 Gy/s (FLASH) versus 0.6 Gy/s (conventional) with 14 Gy entrance-channel dose. FLASH treatment resulted in significantly reduced survival (P &lt; 0.001) compared to conventional dose rate, with no significant differences in intestinal crypt regeneration, crypt depth, proliferating cells per crypt, or intestinal stem cell populations assessed 4 days post-irradiation. The findings demonstrate acute lethality increase with FLASH proton delivery in an abdominal model despite absence of histological differences in the measured early intestinal endpoint.
+
+
 ??? note "Abstract"
     PURPOSE: Ultrahigh dose-rate FLASH radiation therapy has emerged as a modality that promises to reduce normal tissue toxicity while maintaining tumor control. Previous studies of gastrointestinal toxicity using passively scattered FLASH proton therapy (PRT) have, however, yielded mixed results, suggesting that the requirements for gastrointestinal sparing by FLASH are an open question. Furthermore, the more clinically relevant pencil beam scanned (PBS) FLASH PRT has not yet been assessed in this context, despite differences in the spatiotemporal dose-rate distributions compared with passively scattered PRT. Here, to our knowledge, we provide the first report on the effects of PBS FLASH PRT on acute gastrointestinal injury in mice after whole abdominal irradiation. METHODS AND MATERIALS: Whole abdominal irradiation was performed on C57BL/6J mice using the entrance channel of the Bragg curve of a 250 MeV PBS proton beam at field-averaged dose rates of 0.6 Gy/s for conventional (CONV) and 80 to 100 Gy/s for FLASH PRT. A 2D strip ionization chamber array was used to measure the dose and dose rate for each mouse. Survival was assessed at 14 Gy. Intestines were harvested and processed as Swiss rolls for analysis using a novel artificial intelligence-based crypt assay to quantify crypt regeneration 4 days after irradiation. RESULTS: Survival was significantly reduced after 14 Gy FLASH PRT compared with CONV (P &lt; .001). Our artificial intelligence-based crypt assays demonstrated no significant difference in intestinal crypts/cm or crypt depth between groups 4 days after irradiation. Furthermore, we found no significant difference in 5-ethynyl-2&#x27;-deoxyuridine+ cells/crypt or Olfactomedin4+ intestinal stem cells with FLASH relative to CONV PRT. CONCLUSIONS: Overall, our data demonstrate significantly impaired survival after abdominal PBS FLASH PRT without apparent differences in intestinal histology 4 days after irradiation.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39299552/) · [DOI](https://doi.org/10.1016/j.ijrobp.2024.09.006) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12142639/)
-
-
----
-
-### Reply to Comments on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
-
-*Shiraishi Y, Matsuya Y, Fukunaga H* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Liew and Mairani (2024Phys. Med.
-
-
-??? note "Abstract"
-    Liew and Mairani (2024Phys. Med. Biol.69248001) commented on our previous reply to comments on our paper, &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;. We appreciate their comments on the choice of experimental data on DNA damage for cell survival and agree that the estimate of the dose-response curve on cell survival depends on the selection of DNA damage data. As an additional benchmark test, we compared the relative biological effectiveness (RBE) predicted using the recommended DNA damage data measured in normoxia with those reported in our original paper, and confirmed that the difference in RBE was less than 8%. Although our model allows for the estimation of cell survival and RBE under ultra-high dose rate (UHDR) irradiation, we highlight that a further accumulation of experimental data on DNA damage under UHDR irradiation is necessary for the further development of biophysical models concerning the mechanistical estimation of biological effects.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39665484/) · [DOI](https://doi.org/10.1088/1361-6560/ad997d)
-
-
----
-
-### Second Comment on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
-
-*Liew H, Mairani A* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** We comment on the reply by Shiraishiet alto our comments regarding their recently published study &#x27;Modeling for Predicting Survival Fraction of Cells after Ultra-High Dose Rate Irradiation&#x27;. While we appreciate the effort of the authors to consider our comments, we see ourselves compelled to add another short comment as we believe that some of our suggestions have been misrepresented.
-
-
-??? note "Abstract"
-    We comment on the reply by Shiraishiet alto our comments regarding their recently published study &#x27;Modeling for Predicting Survival Fraction of Cells after Ultra-High Dose Rate Irradiation&#x27;. While we appreciate the effort of the authors to consider our comments, we see ourselves compelled to add another short comment as we believe that some of our suggestions have been misrepresented. This may have resulted in a misguiding re-evaluation of the model.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39665483/) · [DOI](https://doi.org/10.1088/1361-6560/ad997c)
 
 
 ---
@@ -3560,6 +3615,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Ultra-high dose rate radiotherapy (FLASH radiation) can naturally render normal tissues around the tumor tissue resistant to radiotherapy. In contrast, the tumor tissue remains sensitive to radiation under the same conditions.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Female Balb/c mice aged 6–8 weeks received thoracic irradiation at dose rates of 100 or 250 Gy/s, in 1, 2, or 4 fractions, with total doses of 20 or 30 Gy. At 30 Gy, mice receiving 250 Gy/s did not reach median overall survival by day 95, versus 89.5 days at 100 Gy/s (P = 0.0436). Single-fraction delivery at 250 Gy/s improved survival compared to 2-fraction delivery (P = 0.0132). At 20 Gy, no significant difference in late radiation pneumonitis was observed across dose rates or fractions. Acute pneumonitis incidence was reduced at 250 Gy/s relative to 100 Gy/s.
 
 
 ??? note "Abstract"
@@ -3583,25 +3642,6 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Feasibility study of modularized pin ridge filter implementation in proton FLASH planning for liver stereotactic ablative body radiotherapy.
-
-*Ma C, Yang X, Setianegara J, Wang Y, Gao Y, Yu D et al.* — Physics in medicine and biology (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** Objective.We previously developed a FLASH planning framework for streamlined pin-ridge-filter (pin-RF) design, demonstrating its feasibility for single-energy proton FLASH planning. In this study, we refined the pin-RF design for easy assembly using reusable modules, focusing on its application in liver stereotactic ablative body radiotherapy (SABR).Approach.This framework generates an intermediat…
-
-
-??? note "Abstract"
-    Objective.We previously developed a FLASH planning framework for streamlined pin-ridge-filter (pin-RF) design, demonstrating its feasibility for single-energy proton FLASH planning. In this study, we refined the pin-RF design for easy assembly using reusable modules, focusing on its application in liver stereotactic ablative body radiotherapy (SABR).Approach.This framework generates an intermediate intensity-modulated proton therapy (IMPT) plan and translates it into step widths and thicknesses of pin-RFs for a single-energy FLASH plan. Parameters like energy spacing, monitor unit limit, and spot quantity were adjusted during IMPT planning, resulting in pin-RFs assembled using predefined modules with widths from 1 to 6 mm, each with a water-equivalent-thickness of 5 mm. This approach was validated on three liver SABR cases. FLASH doses, quantified using the FLASH effectiveness model at 1-5 Gy thresholds, were compared to conventional IMPT (IMPT-CONV) doses to assess clinical benefits.Main results.The highest demand for 6 mm width modules, moderate for 2-4 mm, and minimal for 1- and 5-mm modules were shown across all cases. At lower dose thresholds, the two-beam case reduced indicators including liverV21Gyand skinDmaxby &gt;19.4%, while the three-beam cases showed reductions⩽11.4%, indicating the need for higher fractional beam doses for an enhanced FLASH effect. Positive clinical benefits were seen only in the two-beam case at the 5 Gy threshold. At the 1 Gy threshold, the two-beam FLASH plan outperformed the IMPT-CONV plan, reducing dose indicators for all relevant normal tissues by up to 31.2%. In contrast, the three-beam cases showed negative clinical benefits, with skinDmaxand liverV21Gyincreasing by up to 17.4% due to lower fractional beam doses and closer beam arrangements.Significance.This study evaluated the feasibility of modularizing streamlined pin-RFs in single-energy proton FLASH planning for liver SABR, offering guidance on optimal module composition and strategies to enhance FLASH planning.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39571283/) · [DOI](https://doi.org/10.1088/1361-6560/ad95d6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11653111/)
-
-
----
-
 ### Mesoporous Microneedles Enabled Localized Controllable Delivery of Stimulator of Interferon Gene Agonist Nanoexosomes for FLASH Radioimmunotherapy against Breast Cancer.
 
 *Chen Z, Hu F, Xiang J, Zhou X, Wu B, Fan B et al.* — ACS applied materials &amp; interfaces (2024)  
@@ -3610,6 +3650,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** The immunosuppressive nature of the tumor microenvironment (TME) contributes to radioresistance, thereby impairing the effectiveness of radiotherapy as a therapeutic intervention. Activation through the stimulator of interferon genes (STING) pathway shows potential in modulating immunogenicity.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In a murine breast cancer model, nanoexosome-loaded microneedles delivering a STING agonist (MSA-2) were combined with ultra-high dose rate irradiation. The combination promoted type I interferon production, dendritic cell maturation, and immunosuppressive tumor microenvironment modulation, resulting in control of primary and metastatic tumors and prevention of recurrence with minimal systemic toxicity.
 
 
 ??? note "Abstract"
@@ -3631,30 +3675,15 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** FLASH radiotherapy is an emerging technique in radiation oncology that may improve clinical outcomes by reducing normal tissue toxicities. The physical radiation characteristics needed to induce the radiobiological benefits of FLASH are still an active area of investigation.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Drosophila melanogaster third-instar larvae were exposed to 17–44 Gy of 120-kVp X-rays at ultra-high dose rate (210 Gy/s) or conventional dose rate (0.2–0.4 Gy/s). At matched doses, UHDR-treated larvae showed higher eclosion rates (68% higher at 24 Gy; P &lt; 0.05) and longer median survival in adulthood (&gt;22 days for UHDR versus 17 days for CONV at 22 Gy; P &lt; 0.01). Normal-tissue sparing effects appeared only at intermediate doses, suggesting a bounded dose range for FLASH benefit.
+
+
 ??? note "Abstract"
     FLASH radiotherapy is an emerging technique in radiation oncology that may improve clinical outcomes by reducing normal tissue toxicities. The physical radiation characteristics needed to induce the radiobiological benefits of FLASH are still an active area of investigation. To determine the dose rate, range of doses and delivery time structure necessary to trigger the FLASH effect, Drosophila melanogaster were exposed to ultrahigh dose rate (UHDR) or conventional radiotherapy dose rate (CONV) 120-kVp X-rays. A conventional X-ray tube outfitted with a shutter system was used to deliver 17- to 44-Gy doses to third-instar D. melanogaster larvae at both UHDR (210 Gy/s) and CONV (0.2-0.4 Gy/s) dose rates. The larvae were then tracked through development to adulthood and scored for eclosion and lifespan. Larvae exposed to UHDR eclosed at higher rates and had longer median survival as adults compared to those treated with CONV at the same doses. Eclosion rates at 24 Gy were 68% higher for the UHDR group (P &lt; 0.05). Median survival from 22 Gy was &gt;22 days for UHDR and 17 days for CONV (P &lt; 0.01). Two normal tissue-sparing effects were observed for D. melanogaster irradiated with UHDR 120-kVp X-rays. The effects appeared only at intermediate doses and may be useful in establishing the dose range over which the benefits of FLASH can be obtained. This work also demonstrates the usefulness of a high-throughput fruit fly model and a low-cost X-ray tube system for radiobiological FLASH research.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39422537/) · [DOI](https://doi.org/10.1093/jrr/rrae079) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11629999/)
-
-
----
-
-### Effect of Ultrahigh Dose Rate on Biomolecular Radiation Damage.
-
-*Sforza D, Bunz F, Wong J, Miles D, Adhikary A, Rezaee M* — Radiation research (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Dose rate is one of the important parameters in radiation-induced biomolecular damage. The effects of dose rate have been known to modify radiation toxicity in biological systems.
-
-
-??? note "Abstract"
-    Dose rate is one of the important parameters in radiation-induced biomolecular damage. The effects of dose rate have been known to modify radiation toxicity in biological systems. The rate and extent of sublethal DNA damage (e.g., base damage and single-strand breaks) repair and those of cell proliferation have been manifested by dose rate. However, the recent preclinical application of ultrahigh dose rate \[(UHDR) ca. 40 Gy/s and higher\] radiation modalities have been shown to lower the type and extent of radiation damage to biological systems. At these UHDR, radiation-induced physicochemical and chemical processes are expected to differ from those observed after irradiation at conventional dose rates (CONV). It is unclear whether these UHDR conditions can affect the quality (type) and quantity (extent) of biomolecular damage such as DNA lesions. Here, we comparatively study the influence of indirect effects of CONV and UHDR on the formation of DNA strand breaks and clustered damage including densely accumulated lesions in an aerated and an anoxic dilute aqueous solution of a plasmid DNA model under low and high hydroxyl radical (•OH) scavenging conditions. Aqueous solutions of purified supercoiled plasmid DNA (pUC19) were prepared in either air- or nitrogen-saturated conditions, with Tris buffer added as the radiation-produced •OH scavenger at low and high scavenging capacities. These DNA samples were irradiated using kV X-ray systems at CONV (0.1 Gy/s) and high dose rate (HDR, 25 Gy/s) as well as UHDR (55 and 125 Gy/s) under different scavenging and environmental conditions. DNA lesions including strand breaks and clustered damage including densely accumulated lesions were quantified by gel electrophoresis and the yields of these lesions were calculated from the dose-response curve. Non-DSB clustered damage including densely accumulated lesions were evaluated by treating DNAs using bacterial endonuclease enzymes (Fpg and Nth) prior to gel electrophoresis. UHDR of 55 and 125 Gy/s induced lower amounts of both isolated strand breaks and clustered DNA damage including densely accumulated lesions at doses &gt;40 Gy in the presence of oxygen, compared to the abundance of these lesions induced by 0.1 and 25 Gy/s irradiation under the same dose conditions. Overall, the strand break and clustered damage including densely accumulated lesions yields decreased by factors of 1.3-3.5 after UHDR. We did not observe these differences either via •OH scavenging or by removing oxygen from the solution. In addition, our results point out that the inter-track recombination reactions did not contribute to the observed dose-rate effects on DNA damage. The effects of dose rate on DNA damage are highly dependent on the total dose, as expected, but also on the •OH scavenging capacity that is employed in the aqueous DNA solutions. These important variables may be relevant in biological systems as well. On a practical level, our in vitro plasmid DNA model, which permits to precisely vary the •OH scavenging capacity and gassing conditions (air saturated vs. N2 saturated) can help to differentiate dose-rate effects on biomolecular damage. Our results indicate that the radical-radical reactions are important in understanding the dose-rate effect on DNA damage.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39405451/) · [DOI](https://doi.org/10.1667/RADE-24-00100.1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11624112/)
 
 
 ---
@@ -3667,6 +3696,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** The purpose of this study was to evaluate whether the sparing effect on cell survival is observed under normoxia. MATERIALS AND METHODS: A superconducting spiral sector-type azimuthally varying field (AVF) cyclotron produced 230 MeV proton beams at 250 Gy/s as ultra-high dose rate (uHDR) and 1 Gy/s as normal dose rate (NDR) to irradiate tumor and normal cell lines (HSGc-c5 and HDF up to 24 Gy at t…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Colony formation assay and immunofluorescence staining evaluated cell survival and DNA damage in tumor (HSGc-C5) and normal (HDF) cell lines irradiated with 230 MeV proton beams at 250 Gy/s (ultra-high dose rate) and 1 Gy/s (normal dose rate) to doses up to 24 Gy at the center of the spread-out Bragg peak under normoxic conditions. Significant sparing of cell survival was observed in both cell lines at ultra-high dose rate compared to normal dose rate at 20 and 24 Gy, with reduced γ-H2AX foci at ultra-high dose rate, indicating a sparing effect independent of hypoxia.
 
 
 ??? note "Abstract"
@@ -3688,6 +3721,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** This study aimed to investigate the radiochemical oxygen depletion (ROD) in vivo by directly measuring oxygen levels in various mouse tissues during ultra-high dose rate (UHDR) irradiation at clinically relevant doses and dose rates. MATERIALS AND METHODS: Mice bearing subcutaneous human glioblastoma (U-87 MG) tumors were used for tumor and normal tissue (skin, muscle, brain) measurements.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In vivo measurements of tissue oxygen levels during ultra-high dose rate (UHDR) electron irradiation (6 MeV LINAC) in mice bearing U-87 MG glioblastoma tumors and normal tissues (skin, muscle, brain) used phosphorescent oxygen probes monitored by fiberoptic phosphorometry. Radiation-induced oxygen depletion (ΔpO2) increased linearly with dose up to 40 Gy at 1300 Gy/s and plateaued above approximately 20 Gy/s when dose rate was varied from 2 to 101 Gy/s. The authors conclude that observed oxygen depletion magnitude is insufficient to account for normal-tissue sparing observed in vivo at clinically relevant doses and dose rates.
+
+
 ??? note "Abstract"
     BACKGROUND AND PURPOSE: This study aimed to investigate the radiochemical oxygen depletion (ROD) in vivo by directly measuring oxygen levels in various mouse tissues during ultra-high dose rate (UHDR) irradiation at clinically relevant doses and dose rates. MATERIALS AND METHODS: Mice bearing subcutaneous human glioblastoma (U-87 MG) tumors were used for tumor and normal tissue (skin, muscle, brain) measurements. An oxygen-sensitive phosphorescent probe (Oxyphor PtG4) was injected into the tissues, and oxygen levels were monitored using a fiberoptic phosphorometer during UHDR irradiation with a 6 MeV electron linear accelerator (LINAC). Dose escalation experiments (10-40 Gy) were performed at a dose rate of 1300 Gy/s, and dose rate escalation experiments were conducted at a fixed dose of 40 Gy with dose rates ranging from 2 to 101 Gy/s. RESULTS: Radiation-induced change in tissue oxygenation (ΔpO2) increased linearly with dose and correlated with baseline tissue oxygenation levels in the range of 0 - 30 mmHg. At higher baseline tissue oxygenation levels, such as those observed in muscle and brain, there was no corresponding increase in ΔpO2. When we modulated dose rate, ΔpO2 increased steeply up to ∼ 20 Gy/s and plateaued thereafter. The relationship between ΔpO2 and dose rate showcases the interplay between ROD and reoxygenation. CONCLUSION: While UHDR irradiation induces measurable oxygen depletion in tissues, the observed changes in oxygenation levels do not support the hypothesis that ROD-induced radioresistance is responsible for the FLASH tissue-sparing effect at clinically relevant doses and dose rates. These findings highlight the need for further investigation into alternative mechanisms underlying the FLASH effect.
 
@@ -3707,6 +3744,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Ultra-high dose-rate radiotherapy (FLASH) has been shown to mitigate normal tissue toxicities associated with conventional dose rate radiotherapy (CONV) without compromising tumor killing in preclinical models. A prominent challenge in preclinical radiation research, including FLASH, is validating both the physical dosimetry and the biological effects across multiple institutions.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A multi-institutional study evaluated reproducibility of normal-tissue sparing after whole-brain electron FLASH in adult female mice at 10 Gy. Two separate institutions used different electron FLASH devices with validated dosimetry. FLASH sparing of behavioral performance on novel object recognition (4 months post-irradiation) and electrophysiologic long-term potentiation (5 months post-irradiation) was reproduced between institutions. Differences in hippocampal neurogenesis, neuroinflammation, and electrophysiology between FLASH and conventional dose rate were not observed at early timepoints (48 h to 2 weeks) but greater recovery of immature neurons with FLASH was observed by 3 weeks.
+
+
 ??? note "Abstract"
     BACKGROUND AND PURPOSE: Ultra-high dose-rate radiotherapy (FLASH) has been shown to mitigate normal tissue toxicities associated with conventional dose rate radiotherapy (CONV) without compromising tumor killing in preclinical models. A prominent challenge in preclinical radiation research, including FLASH, is validating both the physical dosimetry and the biological effects across multiple institutions. MATERIALS AND METHODS: We previously demonstrated dosimetric reproducibility of two different electron FLASH devices at separate institutions using standardized phantoms and dosimeters. In this study, tumor-free adult female mice were given 10 Gy whole brain FLASH and CONV irradiation at both institutions and evaluated for the reproducibility and temporal evolution of multiple neurobiological endpoints. RESULTS: FLASH sparing of behavioral performance on novel object recognition (4 months post-irradiation) and of electrophysiologic long-term potentiation (LTP, 5 months post-irradiation) was reproduced between institutions. Differences between FLASH and CONV on the endpoints of hippocampal neurogenesis (Sox2, doublecortin), neuroinflammation (microglial activation), and electrophysiology (LTP) were not observed at early times (48 h to 2 weeks), but recovery of immature neurons by 3 weeks was greater with FLASH. CONCLUSION: In summary, we demonstrated reproducible FLASH sparing effects on the brain between two different beams at two different institutions with validated dosimetry. FLASH sparing effects on the endpoints evaluated manifested at later but not the earliest time points.
 
@@ -3716,40 +3757,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### A microscopic oxygen transport model for ultra-high dose rate radiotherapy in vivo: The impact of physiological conditions on FLASH effect.
+### Discordance in acute gastrointestinal toxicity between synchrotron-based proton and linac-based electron ultra-high dose rate irradiation.
 
-*Guo L, Medin PM, Wang KK* — Medical physics (2024)  
+*Liu K, Titt U, Esplen N, Connell L, Konradsson E, Yang M et al.* — bioRxiv : the preprint server for biology (2024)  
 
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Ultra-high dose rate irradiation (≥40 Gy/s, FLASH) has been shown to reduce normal tissue toxicity, while maintaining tumor control compared to conventional dose-rate radiotherapy. The radiolytic oxygen (O2) depletion (ROD) resulting from FLASH has been proposed to explain the normal tissue protection effect; however, in vivo experiments have not confirmed that FLASH induced global tissue hypoxia.
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span>
 
 
-??? note "Abstract"
-    BACKGROUND: Ultra-high dose rate irradiation (≥40 Gy/s, FLASH) has been shown to reduce normal tissue toxicity, while maintaining tumor control compared to conventional dose-rate radiotherapy. The radiolytic oxygen (O2) depletion (ROD) resulting from FLASH has been proposed to explain the normal tissue protection effect; however, in vivo experiments have not confirmed that FLASH induced global tissue hypoxia. Nonetheless, the experiments reported are based on volume-averaged measurement, which have inherent limitations in detecting microscopic phenomena, including the potential preservation of stem cells niches due to local FLASH-induced O2 depletion. Computational modeling offers a complementary approach to understand the ROD caused by FLASH at the microscopic level. PURPOSE: We developed a comprehensive model to describe the spatial and temporal dynamics of O2 consumption and transport in response to irradiation in vivo. The change of oxygen enhancement ratio (OER) was used to quantify and investigate the FLASH effect as a function of physiological and radiation parameters at microscopic scale. METHODS: We considered time-dependent O2 supply and consumption in a 3D cylindrical geometry, incorporating blood flow linking the O2 concentration (\[O2\]) in the capillary to that within the tissue through the Hill equation, radial and axial diffusion of O2, metabolic and zero-order radiolytic O2 consumption, and a pulsed radiation structure. Time-evolved distributions of \[O2\] were obtained by numerically solving perfusion-diffusion equations. The model enables the computation of dynamic O2 distribution and the relative change of OER (δROD) under various physiological and radiation conditions in vivo. RESULTS: Initial \[O2\] level and the subsequent changes during irradiation determined δROD distribution, which strongly depends on physiological parameters, i.e., intercapillary spacing, ultimately determining the tissue area with enhanced radioresistance. We observed that the δROD/FLASH effect is affected by and sensitive to the interplay effect among physiological and radiation parameters. It renders that the FLASH effect can be tissue environment dependent. The saturation of FLASH normal tissue protection upon dose and dose rate was shown. Beyond ∼60 Gy/s, no significant decrease in radiosensitivity within tissue region was observed. In turn, for a given dose rate, the change of radiosensitivity became saturated after a certain dose level. Pulse structures with the same dose and instantaneous dose rate but with different delivery times were shown to have distinguishable δROD thus tissue sparing, suggesting the average dose rate could be a metric assessing the FLASH effect and demonstrating the capability of our model to support experimental findings. CONCLUSION: On a macroscopic scale, the modeling results align with the experimental findings in terms of dose and dose rate thresholds, and it also indicates that pulse structure can vary the FLASH effect. At the microscopic level, this model enables us to examine the spatially resolved FLASH effect based on physiological and irradiation parameters. Our model thus provides a complementary approach to experimental methods for understanding the underlying mechanism of FLASH radiotherapy. Our results show that physiological conditions can potentially determine the FLASH efficacy in tissue protection. The FLASH effect may be observed under optimal combination of physiological parameters, not limited to radiation conditions alone.
+**TL;DR.** Proton FLASH has been investigated using cyclotron and synchrocyclotron beamlines but not synchrotron beamlines. We evaluated the impact of dose rate (ultra-high \[UHDR\] vs.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39284344/) · [DOI](https://doi.org/10.1002/mp.17398)
-
-
----
-
-### Recording and reporting of ultra-high dose rate &quot;FLASH&quot; delivery for preclinical and clinical settings.
-
-*Tobias Böhlen T, Psoroulas S, Aylward JD, Beddar S, Douralis A, Delpon G et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Treatments at ultra-high dose rate (UHDR) have the potential to improve the therapeutic index of radiation therapy (RT) by sparing normal tissues compared to conventional dose rate irradiations. Insufficient and inconsistent reporting in physics and dosimetry of preclinical and translational studies may have contributed to a reproducibility crisis of radiobiological data in the field.
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Female C57BL/6J mice received single-fraction abdominal irradiation (12–14 Gy) using an 87 MeV synchrotron-based proton beamline at conventional (0.2–0.3 Gy/s) or ultra-high dose rates (150–230 Gy/s), with shoot-through or spread-out-Bragg-peak configurations. Acute gastrointestinal toxicity was assessed by jejunal regenerating crypt count and survival. Synchrotron proton ultra-high dose rate produced *greater* acute gastrointestinal toxicity than conventional proton irradiation, contrary to the normal-tissue sparing seen with linac-based electron ultra-high dose rate at matched dose rates. This discordance suggests particle type or beam configuration modulates the ultra-high dose rate effect.
 
 
 ??? note "Abstract"
-    Treatments at ultra-high dose rate (UHDR) have the potential to improve the therapeutic index of radiation therapy (RT) by sparing normal tissues compared to conventional dose rate irradiations. Insufficient and inconsistent reporting in physics and dosimetry of preclinical and translational studies may have contributed to a reproducibility crisis of radiobiological data in the field. Consequently, the development of a common terminology, as well as common recording, reporting, dosimetry, and metrology standards is required. In the context of UHDR irradiations, the temporal dose delivery parameters are of importance, and under-reporting of these parameters is also a concern.This work proposes a standardization of terminology, recording, and reporting to enhance comparability of both preclinical and clinical UHDR studies and and to allow retrospective analyses to aid the understanding of the conditions which give rise to the FLASH effect.
+    PURPOSE: Proton FLASH has been investigated using cyclotron and synchrocyclotron beamlines but not synchrotron beamlines. We evaluated the impact of dose rate (ultra-high \[UHDR\] vs. conventional \[CONV\]) and beam configuration (shoot-through \[ST\] vs. spread-out-Bragg-peak \[SOBP\]) on acute radiation-induced gastrointestinal toxicity (RIGIT) in mice. We also compared RIGIT between synchrotron-based protons and linac-based electrons with matched mean dose rates. METHODS AND MATERIALS: We administered abdominal irradiation (12-14 Gy single fraction) to female C57BL/6J mice with an 87 MeV synchrotron-based proton beamline (2 cm diameter field size as a lateral beam). Dose rates were 0.2 Gy/s (S-T pCONV), 0.3 Gy/s (SOBP pCONV), 150 Gy/s (S-T pFLASH), and 230 Gy/s (SOBP pFLASH). RIGIT was assessed by the jejunal regenerating crypt assay and survival. We also compared responses to proton \[pFLASH and pCONV\] with responses to electron CONV (eCONV, 0.4 Gy/s) and electron FLASH (eFLASH, 188-205 Gy/s). RESULTS: The number of regenerating jejunal crypts at each matched dose was lowest for pFLASH (similar between S-T and SOBP), greater and similar between pCONV (S-T and SOBP) and eCONV, and greatest for eFLASH. Correspondingly, mice that received pFLASH SOBP had the lowest survival rates (50% at 50 days), followed by pFLASH S-T (80%), and pCONV SOBP (90%), but 100% of mice receiving pCONV S-T survived (log-rank P = 0.047 for the four groups). CONCLUSIONS: Our findings are consistent with an increase in RIGIT after synchrotron-based pFLASH versus pCONV. This negative proton-specific FLASH effect versus linac-based electron irradiation underscores the importance of understanding the physical and biological factors that will allow safe and effective clinical translation.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39245070/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110507)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39282305/) · [DOI](https://doi.org/10.1101/2024.09.04.611307) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11398481/)
 
 
 ---
@@ -3764,30 +3790,15 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Ultra-high dose rate (&quot;FLASH&quot;) radiotherapy (&gt;40-60 Gy/s) is a promising new radiation modality currently in human clinical trials. Previous studies showed that FLASH proton radiotherapy (FR) improves toxicity of normal tissues compared to standard proton radiotherapy (SR) without compromising anti-tumor effects.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Mice receiving whole-abdomen proton irradiation at ultra-high dose rate (&gt;40–60 Gy/s) showed improved acute weight recovery and survival compared to standard-dose-rate proton radiotherapy. Ultra-high dose rate treatment enhanced proliferation of damage-induced epithelial progenitor cells and accelerated differentiation of revival stem cells, coupled with augmented macrophage infiltration, TGF-β signaling, and type I interferon signaling in pericryptal fibroblasts. Normal-tissue sparing with ultra-high dose rate depended on type I interferon signaling, which conversely promoted toxicity under standard-dose-rate irradiation.
+
+
 ??? note "Abstract"
     Ultra-high dose rate (&quot;FLASH&quot;) radiotherapy (&gt;40-60 Gy/s) is a promising new radiation modality currently in human clinical trials. Previous studies showed that FLASH proton radiotherapy (FR) improves toxicity of normal tissues compared to standard proton radiotherapy (SR) without compromising anti-tumor effects. Understanding this normal tissue sparing effect may offer insight into how toxicities from cancer therapy can be improved. Here, we show that compared to SR, FR resulted in improved acute weight recovery and survival in mice after whole-abdomen irradiation. Improved morbidity and mortality after FR were associated with greater proliferation of damage-induced epithelial progenitor cells followed by improved tissue regeneration. FR led to the accelerated differentiation of revival stem cells (revSCs), a rare damage-induced stem cell required for intestinal regeneration, and to qualitative and quantitative changes in activity of signaling pathways important for revSC differentiation and epithelial regeneration. Specifically, FR resulted in greater infiltration of macrophages producing TGF-β, a cytokine important for revSC induction, that was coupled to augmented TGF-β signaling in revSCs. In pericryptal fibroblasts, FR resulted in greater type I IFN (IFN-I) signaling, which directly stimulates production of FGF growth factors supporting revSC proliferation. Accordingly, the ability of FR to improve epithelial regeneration and morbidity was dependent on IFN-I signaling. In the context of SR, however, IFN-I had a detrimental effect and promoted toxicity. Thus, a tissue-level signaling network coordinated by differences in IFN-I signaling and involving stromal cells, immune cells, and revSCs underlies the ability of FLASH to improve normal tissue toxicity without compromising anti-tumor efficacy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39229237/) · [DOI](https://doi.org/10.1101/2024.08.16.608284) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11370362/)
-
-
----
-
-### Fractionation dose optimization facilities the implementation of transmission proton FLASH-RT.
-
-*Zeng Y, Zhang Q, Pang B, Liu M, Chang Y, Wang Y et al.* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span>
-
-
-**TL;DR.** Objective.The beam switching time and fractional dose influence the FLASH effect. A single-beam-per-fraction (SBPF) scheme using uniform fractional dose (UFD) has been proposed for FLASH- radiotherapy (FLASH-RT) to eliminate the beam switching time.
-
-
-??? note "Abstract"
-    Objective.The beam switching time and fractional dose influence the FLASH effect. A single-beam-per-fraction (SBPF) scheme using uniform fractional dose (UFD) has been proposed for FLASH- radiotherapy (FLASH-RT) to eliminate the beam switching time. Based on SBPF schemes, a fractionation dose optimization algorithm is proposed to optimize non-UFD plans to maximize the fractionation effect and dose-dependent FLASH effect.Approach.The UFD plan, containing five 236 MeV transmission proton beams, was optimized for 11 patients with peripheral lung cancer, with each beam delivering a uniform dose of 11 Gy to the target. Meanwhile, the non-UFD plan was optimized using fractionation dose optimization. To compare the two plans, the equivalent dose to 2 Gy (EQD2) for the target and normal tissues was calculated with anα/βratio of 10 and 3, respectively. Both UFD and non-UFD plans ensured that the target received an EQD2 of 96.3 Gy. To investigate the overall improvement in normal tissue sparing with the non-UFD plan, the FLASH-enhanced EQD2 was calculated.Main results.The fractional doses in non-UFD plans ranged between 5.0 Gy and 24.2 Gy. No significant differences were found in EQD22%and EQD298%of targets between UFD and non-UFD plans. However, theD95%of the target in non-UFD plans was significantly reduced by 15.1%. The sparing effect in non-UFD plans was significantly improved. The FLASH-enhanced EQD2meanin normal tissue and ipsilateral lung was significantly reduced by 3.5% and 10.4%, respectively, in non-UFD plans. The overall improvement is attributed to both the FLASH and fractionation effects.Significance.The fractionation dose optimization can address the limitation of multiple-beam FLASH-RT and utilize the relationship between fractional dose and FLASH effect. Consequently, the non-UFD scheme results in further improvements in normal tissue sparing compared to the UFD scheme, attributed to enhanced fractionation and FLASH effects.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39214129/) · [DOI](https://doi.org/10.1088/1361-6560/ad75e3)
 
 
 ---
@@ -3802,6 +3813,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Evidence shows that ultra-high dose-rate FLASH-radiotherapy (FLASH-RT) protects against normal tissue complications and functional decrements in the irradiated brain. Past work has shown that radiation-induced cognitive impairment, neuroinflammation and reduced structural complexity of granule cell neurons were not observed to the same extent after FLASH-RT (&gt; MGy/s) compared to conventional dose-…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Structural plasticity of hippocampal CA1 and medial prefrontal cortex pyramidal neurons was assessed after 10 Gy irradiation delivered at ultra-high dose rate (&gt;MGy/s) or conventional dose rate (0.1 Gy/s) using electron microscopy, confocal microscopy, and super-resolution imaging. Irradiation caused minimal dose-rate-independent changes in dendritic complexity and synapse density in CA1, with thinner myelin sheaths in both conditions. At 3×10 Gy, reductions in glutamate and GABA transporter puncta density were largely dose-rate independent. CA1 and mPFC neurons demonstrated greater radioresistance than previously observed granule cell neurons, irrespective of dose-rate modulation.
+
+
 ??? note "Abstract"
     Evidence shows that ultra-high dose-rate FLASH-radiotherapy (FLASH-RT) protects against normal tissue complications and functional decrements in the irradiated brain. Past work has shown that radiation-induced cognitive impairment, neuroinflammation and reduced structural complexity of granule cell neurons were not observed to the same extent after FLASH-RT (&gt; MGy/s) compared to conventional dose-rate (CONV, 0.1 Gy/s) delivery. To explore the sensitivity of different neuronal populations to cranial irradiation and dose-rate modulation, hippocampal CA1 and medial prefrontal cortex (PFC) pyramidal neurons were analyzed by electron and confocal microscopy. Neuron ultrastructural analyses by electron microscopy after 10 Gy FLASH- or CONV-RT exposures indicated that irradiation had little impact on dendritic complexity and synapse density in the CA1, but did increase length and head diameter of smaller non-perforated synapses. Similarly, irradiation caused no change in PFC prelimbic/infralimbic axospinous synapse density, but reductions in non-perforated synapse diameters. While irradiation resulted in thinner myelin sheaths compared to controls, none of these metrics were dose-rate sensitive. Analysis of fluorescently labeled CA1 neurons revealed no radiation-induced or dose-rate-dependent changes in overall dendritic complexity or spine density, in contrast to our past analysis of granule cell neurons. Super-resolution confocal microscopy following a clinical dosing paradigm (3×10Gy) showed significant reductions in excitatory vesicular glutamate transporter 1 and inhibitory vesicular GABA transporter puncta density within the CA1 that were largely dose-rate independent. Collectively, these data reveal that, compared to granule cell neurons, CA1 and mPFC neurons are more radioresistant irrespective of radiation dose-rate.
 
@@ -3811,40 +3826,25 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 ---
 
-### Long-term toxicity and efficacy of FLASH radiotherapy in dogs with superficial malignant tumors.
+### The sparing effect of ultra-high dose rate irradiation on the esophagus.
 
-*Gjaldbæk BW, Arendt ML, Konradsson E, Bastholm Jensen K, Bäck SÅJ, Munck Af Rosenschöld P et al.* — Frontiers in oncology (2024)  
+*Ren W, Hou L, Zhang K, Chen H, Feng X, Jiang Z et al.* — Frontiers in oncology (2024)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Clinical &amp; Translational</span>
-
-
-**TL;DR.** FLASH radiotherapy (RT) has emerged as a promising modality, demonstrating both a normal tissue sparing effect and anticancer efficacy. We have previously reported on the safety and efficacy of single fraction FLASH RT in the treatment of oral tumors in canine cancer patients, showing tumor response but also a risk of radiation-induced severe late adverse effects (osteoradionecrosis) for doses ≥35…
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
 
 
-??? note "Abstract"
-    INTRODUCTION: FLASH radiotherapy (RT) has emerged as a promising modality, demonstrating both a normal tissue sparing effect and anticancer efficacy. We have previously reported on the safety and efficacy of single fraction FLASH RT in the treatment of oral tumors in canine cancer patients, showing tumor response but also a risk of radiation-induced severe late adverse effects (osteoradionecrosis) for doses ≥35 Gy. Accordingly, the objective in this study was to investigate if single fraction high dose FLASH RT is safe for treating non-oral tumors. METHODS: Privately-owned dogs with superficial tumors or microscopic residual disease were included. Treatment was generally delivered as a single fraction of 15-35 Gy 10 MeV electron FLASH RT, although two dogs were re-irradiated at a later timepoint. Follow-up visits were conducted up to 12 months post-treatment to evaluate treatment efficiency and adverse effects. RESULTS: Fourteen dogs with 16 tumors were included, of which nine tumors were treated for gross disease whilst seven tumors were treated post-surgery for microscopic residual disease. Four treatment sites treated with 35 Gy had ulceration post irradiation, which was graded as severe adverse effect. Only mild adverse effects were observed for the remaining treatment sites. None of the patients with microscopic disease experienced recurrence (0/7), and all patients with macroscopic disease showed either a complete (5/9) or a partial response (4/9). Five dogs were euthanized due to clinical disease progression. DISCUSSION: Our study demonstrates that single fraction high dose FLASH RT is generally safe, with few severe adverse effects, particularly in areas less susceptible to radiation-induced damage. In addition, our study indicates that FLASH has anti-tumor efficacy in a clinical setting. No osteoradionecrosis was observed in this study, although other types of high-grade adverse effects including ulcer-formations were observed for the highest delivered dose (35 Gy). Overall, we conclude that osteoradionecrosis following single fraction, high dose FLASH does not appear to be a general problem for non-oral tumor locations. Also, as has been shown previously for oral tumors, 30 Gy appeared to be the maximum safe dose to deliver with single fraction FLASH RT.
+**TL;DR.** Current studies have substantiated the sparing effect of ultra-high dose rate irradiation (FLASH) in various organs including the brain, lungs, and intestines. Whether this sparing effect extends to esophageal tissue remains unexplored.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39077466/) · [DOI](https://doi.org/10.3389/fonc.2024.1425240) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11284943/)
-
-
----
-
-### Biological-equivalent-dose-based integrated optimization framework for fast-energy-switching Bragg peak FLASH-RT using single-beam-per-fraction.
-
-*Zeng Y, Li H, Zhang Q, Wang W, Liu X, Qin B et al.* — Medical physics (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** When comparing the delivery of all beams per fraction (ABPF) to single beam per fraction (SBPF), it is observed that SBPF not only helps meet the FLASH dose threshold but also mitigates the uncertainty with beam switching in the FLASH effect. However, SBPF might lead to a higher biological equivalent dose in 2 Gy (EQD2) for normal tissues.
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In C57 female mice, esophageal tissue exposed to 20 Gy at 125 Gy/s (FLASH) showed significantly lower histopathological damage compared to 0.1 Gy/s (conventional) irradiation on day 10 post-exposure. Label-free proteomic analysis attributed the sparing effect to reduced radiation-induced mitochondrial protein damage and decreased acute inflammatory responses, as confirmed by transmission electron microscopy and parallel reaction monitoring.
 
 
 ??? note "Abstract"
-    BACKGROUNDS: When comparing the delivery of all beams per fraction (ABPF) to single beam per fraction (SBPF), it is observed that SBPF not only helps meet the FLASH dose threshold but also mitigates the uncertainty with beam switching in the FLASH effect. However, SBPF might lead to a higher biological equivalent dose in 2 Gy (EQD2) for normal tissues. PURPOSE: This study aims to develop an EQD2-based integrated optimization framework (EQD2-IOF), encompassing robust dose, delivery efficiency, and beam orientation optimization (BOO) for Bragg peak FLASH plans using the SBPF treatment schedule. The EQD2-IOF aims to enhance both dose sparing and the FLASH effect. METHODS: A superconducting gantry was employed for fast energy switching within 27 ms, while universal range shifters were utilized to improve beam current in the implementation of FLASH plans with five Bragg peak beams. To enhance dose delivery efficiency while maintaining plan quality, a simultaneous dose and spot map optimization (SDSMO) algorithm for single field optimization was incorporated into a Bayesian optimization-based auto-planning algorithm. Subsequently, a BOO algorithm based on Tabu search was developed to select beam angle combinations (BACs) for 10 lung cases. To simultaneously consider dose sparing and FLASH effect, a quantitative model based on dose-dependent dose modification factor (DMF) was used to calculate FLASH-enhanced dose distribution. The EQD2-IOF plan was compared to the plan optimized without SDSMO using BAC selected by a medical physicist (Manual plan) in the SBPF treatment schedule. Meanwhile, the mean EQD2 in the normal tissue was evaluated for the EQD2-IOF plan in both SBPF and ABPF treatment schedules. RESULTS: No significant difference was found in D2% and D98% of the target between EQD2-IOF plans and Manual Plans. When using a minimum DMF of 0.67 and a dose threshold of 4 Gy, EQD2-IOF plans showed a significant reduction in FLASH-enhanced EQD2mean of the ipsilateral lung and normal tissue by 10.5% and 11.5%, respectively, compared to Manual plans. For normal tissues that received a dose greater than 70% of the prescription dose, using a minimum DMF of 0.7 for FLASH sparing compensated for the increase in EQD2mean resulting from replacing ABPF with SBPF schedules. CONCLUSIONS: The EQD2-IOF can automatically optimize SBPF FLASH-RT plans to achieve optimal sparing of normal tissues. With an energy switching time of 27 ms, the loss of fractionate repairing using SBPF schedules in high-dose regions can be compensated for by the FLASH effect. However, when an energy switching time of 500 ms is utilized, the SBPF schedule needs careful consideration, as the FLASH effect diminishes with longer irradiation time.
+    BACKGROUND AND PURPOSE: Current studies have substantiated the sparing effect of ultra-high dose rate irradiation (FLASH) in various organs including the brain, lungs, and intestines. Whether this sparing effect extends to esophageal tissue remains unexplored. This study aims to compare the different responses of esophageal tissue in histological and protein expression levels following conventional dose rate irradiation (CONV) and FLASH irradiation to ascertain the presence of a sparing effect. METHODS AND MATERIALS: C57 female mice were randomly divided into three groups: control, CONV, and FLASH groups. The chest region of the mice in the radiation groups was exposed to a prescribed dose of 20 Gy using a modified electron linear accelerator. The CONV group received an average dose rate of 0.1 Gy/s, while the FLASH group received an average dose rate of 125 Gy/s. On the 10th day after irradiation, the mice were euthanized and their esophagi were collected for histopathological analysis. Subsequently, label-free proteomic quantification analysis was performed on esophageal tissue. The validation process involved analyzing transmission electron microscopy images and utilizing the parallel reaction monitoring method. RESULTS: Histopathology results indicated a significantly lower extent of esophageal tissue damage in the FLASH group compared to the CONV group (p &lt; 0.05). Label-free quantitative proteomic analysis revealed that the sparing effect observed in the FLASH group may be attributed to a reduction in radiation-induced protein damage associated with mitochondrial functions, including proteins involved in the tricarboxylic acid cycle and oxidative phosphorylation, as well as a decrease in acute inflammatory responses. CONCLUSIONS: Compared with CONV irradiation, a sparing effect on esophageal tissue can be observed after FLASH irradiation. This sparing effect is associated with alleviated mitochondria damage and acute inflammation.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/39031641/) · [DOI](https://doi.org/10.1002/mp.17264)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/39070145/) · [DOI](https://doi.org/10.3389/fonc.2024.1442627) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11272628/)
 
 
 ---
@@ -3857,6 +3857,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** A favorable effect of ultra-high dose rate (FLASH) radiation on normal tissue-sparing has been indicated in several preclinical studies. In these studies, the adverse effects of radiation damage were reduced without compromising tumor control.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A murine hindleg study quantified normal-tissue sparing in a spread-out Bragg peak (SOBP) irradiated with single-fraction proton doses at 60 Gy/s (FLASH) or 0.34 Gy/s (conventional). Acute skin toxicity (hair loss, moist desquamation, toe separation) showed a protection ratio of 1.40; late fibrotic development showed a protection ratio of 1.18 in FLASH-treated animals. The FLASH effect persisted within the SOBP with dose-modifying factors of 40% for acute skin damage and 18% for fibrosis.
 
 
 ??? note "Abstract"
@@ -3878,30 +3882,15 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** The normal tissue sparing afforded by FLASH radiotherapy (RT) is being intensely investigated for potential clinical translation. Here, we studied the effects of FLASH proton RT (F-PRT) in the reirradiation setting, with or without hypofractionation.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This preclinical study evaluated normal-tissue sparing by ultra-high dose rate proton irradiation in murine models of reirradiation toxicity. Intestinal, skin, and bone tissues in mice were subjected to initial standard-dose-rate proton irradiation (12–15 Gy), followed by reirradiation with either ultra-high dose rate or standard dose rate protons, delivered as single or fractionated (3 × 6.4–11 Gy) regimens. Ultra-high dose rate reirradiation reduced intestinal fibrosis and collagen deposition, increased survival, reduced dermatitis and lymphedema in leg tissues, and decreased tibial fracture incidence from 83.3% to 20% compared with standard dose rate reirradiation.
+
+
 ??? note "Abstract"
     BACKGROUND AND PURPOSE: The normal tissue sparing afforded by FLASH radiotherapy (RT) is being intensely investigated for potential clinical translation. Here, we studied the effects of FLASH proton RT (F-PRT) in the reirradiation setting, with or without hypofractionation. Chronic toxicities in three murine models of normal tissue toxicity including the intestine, skin, and bone were investigated. MATERIALS AND METHODS: In studies of the intestine, single-dose irradiation was performed with 12 Gy of Standard proton RT (S-PRT), followed by a second dose of 12 Gy of F-PRT or S-PRT. Additionally, a hypofractionation scheme was applied in the reirradiation setting (3 x 6.4 Gy of F-PRT or S-PRT, given every 48 hrs). In studies of skin/bone of the murine leg, 15 Gy of S-PRT was followed by hypofractionated reirradiation with F-PRT or S-PRT (3 x 11 Gy). RESULTS: Compared to reirradiation with S-PRT, F-PRT reduced intestinal fibrosis and collagen deposition in the reirradiation setting and significantly increased survival rate, demonstrating its protective effects on intestinal tissues. In previously irradiated leg tissues, reirradiation with hypofractionated F-PRT created transient dermatitis that fully resolved in contrast to reirradiation with hypofractionated S-PRT. Lymphedema was also alleviated after a second course of radiation with F-PRT, along with significant reductions in the accumulation of fibrous connective tissue in the skin compared to mice reirradiated with S-PRT. The delivery of a second course of fractionated S-PRT induced tibial fractures in 83.3% of the mice, whereas only 20% of mice reirradiated with F-PRT presented with fractures. CONCLUSION: These studies provide the first evidence of the sparing effects of F-PRT, in the setting of hypofractionated reirradiation. The results support FLASH as highly relevant to the reirradiation regimen where it exhibits significant potential to minimize chronic complications for patients undergoing RT.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/39026805/) · [DOI](https://doi.org/10.1101/2024.07.08.602528) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11257476/)
-
-
----
-
-### Two-dimensional oxygen-diffusion modelling for FLASH proton therapy with pencil beam scanning-Impact of diffusive tissue properties, dose, dose rate and scan patterns.
-
-*Diepeveen MH, Lathouwers D, José Santo R, Hoogeman MS, Habraken SJM* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** Objective.Oxygen depletion is generally believed to play an important role in the FLASH effect-a differential reduction of the radiosensitivity of healthy tissues, relative to that of the tumour under ultra-high dose-rate (UHDR) irradiation conditions. In proton therapy (PT) with pencil-beam scanning (PBS), the deposition of dose, and, hence, the degree of (radiolytic) oxygen depletion varies both…
-
-
-??? note "Abstract"
-    Objective.Oxygen depletion is generally believed to play an important role in the FLASH effect-a differential reduction of the radiosensitivity of healthy tissues, relative to that of the tumour under ultra-high dose-rate (UHDR) irradiation conditions. In proton therapy (PT) with pencil-beam scanning (PBS), the deposition of dose, and, hence, the degree of (radiolytic) oxygen depletion varies both spatially and temporally. Therefore, the resulting oxygen concentration and the healthy-tissue sparing effect through radiation-induced hypoxia varies both spatially and temporally as well.Approach.We propose and numerically solve a physical oxygen diffusion model to study these effects and their dependence on tissue parameters and the scan pattern in pencil-beam delivery. Since current clinical FLASH PT (FLASH-PT) is based on 250 MeV shoot-through (transmission) beams, for which dose and dose rate (DR) hardly vary with depth compared to the variation transverse to the beam axis, we focus on the two-dimensional case. We numerically integrate the model to obtain the oxygen concentration in each voxel as a function of time and extract voxel-based and spatially and temporarily integrated metrics for oxygen (FLASH) enhanced dose. Furthermore, we evaluate the impact on oxygen enhancement of standard pencil-beam delivery patterns and patterns that were optimised on dose-rate. Our model can contribute to the identification of tissue properties and pencil-beam delivery parameters that are critical for FLASH-PT and it may be used for the optimisation of FLASH-PT treatment plans and their delivery.Main results.(i) the diffusive properties of oxygen are critical for the steady state concentration and therefore the FLASH effect, even more so in two dimensions when compared to one dimension. (ii) The FLASH effect through oxygen depletion depends primarily on dose and less on other parameters. (iii) At a fixed fraction dose there is a slight dependence on DR. (iv) Scan patterns optimised on DR slightly increase the oxygen induced FLASH effect.Significance.To our best knowledge, this is the first study assessing the impact of scan-pattern optimization (SPO) in FLASH-PT with PBS on a biological FLASH model. While the observed impact of SPO is relatively small, a larger effect is expected for larger target volumes. A better understanding of the FLASH effect and the role of oxygen (depletion) therein is essential for the further development of FLASH-PT with PBS, and SPO.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38959905/) · [DOI](https://doi.org/10.1088/1361-6560/ad5eee)
 
 
 ---
@@ -3914,6 +3903,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Ultrahigh dose rate, FLASH radiotherapy has emerged as one of the most promising innovations over the past decade in the field of radiation oncology, with the potential to eradicate radiation resistant primary tumors and improve the therapeutic outcome for cancer patients. FLASH is based on delivering radiation doses at ultrahigh dose rates (UHDR; &gt;40 Gy/s), more than 1000 times faster than irradi…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Comprehensive review of ultra-high dose rate radiotherapy examining the FLASH effect across multiple experimental animal models (mice, rats, zebrafish, pigs, cats) and organs (lung, skin, gut, brain) using electron, photon, and hadron beams. The review documents that tumor control at ultra-high dose rates (&gt;40 Gy/s) is isoeffective with conventional dose rate at matched physical dose, while normal tissues show significantly reduced toxicity with ultra-high dose rate delivery. Mechanistic investigations, technological requirements, dosimetric considerations, and clinical translation strategies are presented.
 
 
 ??? note "Abstract"
@@ -3935,11 +3928,38 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Radiation delivery at ultrahigh dose rates (UHDRs) has potential for use as a new anticancer therapeutic strategy. The FLASH effect induced by UHDR irradiation has been shown to maintain antitumour efficacy with a reduction in normal tissue toxicity; however, the FLASH effect has been difficult to demonstrate in vitro.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    First in vitro co-culture experiments using laser-plasma-accelerated electrons at dose rates up to 10^13 Gy/s examined differential responses of melanoma (A375) and normal melanocyte (NHEM) cells to ultra-high dose rate irradiation. Melanoma cells showed greater DNA damage (γH2AX+ nuclei) at cumulative doses one order of magnitude lower than pulsed X-ray controls, while normal cells were less affected by laser-plasma-accelerated electron exposure than cancer cells in certain discrete areas, representing the first in vitro demonstration of differential tumor-to-normal-cell response at ultra-high dose rate.
+
+
 ??? note "Abstract"
     Radiation delivery at ultrahigh dose rates (UHDRs) has potential for use as a new anticancer therapeutic strategy. The FLASH effect induced by UHDR irradiation has been shown to maintain antitumour efficacy with a reduction in normal tissue toxicity; however, the FLASH effect has been difficult to demonstrate in vitro. The objective to demonstrate the FLASH effect in vitro is challenging, aiming to reveal a differential response between cancer and normal cells to further identify cell molecular mechanisms. New high-intensity petawatt laser-driven accelerators can deliver very high-energy electrons (VHEEs) at dose rates as high as 1013 Gy/s in very short pulses (10-13 s). Here, we present the first in vitro experiments carried out on cancer cells and normal non-transformed cells concurrently exposed to laser-plasma accelerated (LPA) electrons. Specifically, melanoma cancer cells and normal melanocyte co-cultures grown on chamber slides were simultaneously irradiated with LPA electrons. A non-uniform dose distribution on the cell cultures was revealed by Gafchromic films placed behind the chamber slide supporting the cells. In parallel experiments, cell co-cultures were exposed to pulsed X-ray irradiation, which served as positive controls for radiation-induced nuclear DNA double-strand breaks. By measuring the impact on discrete areas of the cell monolayers, the greatest proportion of the damaged DNA-containing nuclei was attained by the LPA electrons at a cumulative dose one order of magnitude lower than the dose obtained by pulsed X-ray irradiation. Interestingly, in certain discrete areas, we observed that LPA electron exposure had a different effect on the DNA damage in healthy normal human epidermal melanocyte (NHEM) cells than in A375 melanoma cells; here, the normal cells were less affected by the LPA exposure than cancer cells. This result is the first in vitro demonstration of a differential response of tumour and normal cells exposed to FLASH irradiation and may contribute to the development of new cell culture strategies to explore fundamental understanding of FLASH-induced cell effect.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38937505/) · [DOI](https://doi.org/10.1038/s41598-024-65137-7) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11211417/)
+
+
+---
+
+### VHEE FLASH sparing effect measured at CLEAR, CERN with DNA damage of pBR322 plasmid as a biological endpoint.
+
+*Wanstall HC, Korysko P, Farabolini W, Corsini R, Bateman JJ, Rieker V et al.* — Scientific reports (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Ultra-high dose rate (UHDR) irradiation has been shown to have a sparing effect on healthy tissue, an effect known as &#x27;FLASH&#x27;. This effect has been studied across several radiation modalities, including photons, protons and clinical energy electrons, however, very little data is available for the effect of FLASH with Very High Energy Electrons (VHEE).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A study using pBR322 plasmid DNA as a biological endpoint to measure the FLASH sparing effect under Very High Energy Electron (VHEE) irradiation at CERN&#x27;s CLEAR facility. Plasmid DNA was irradiated at conventional (0.08 Gy/s), intermediate (96 Gy/s), and ultra-high dose rates (2 × 10⁹ Gy/s) in two hydroxyl radical scavenging environments. Ultra-high dose rate irradiation produced significantly reduced single-strand break (SSB) frequency compared to conventional dose rate: 27% reduction in 10 mM Tris and 16% reduction in 100 mM Tris environment. This is the first report of FLASH sparing with VHEE using plasmid DNA damage as the endpoint.
+
+
+??? note "Abstract"
+    Ultra-high dose rate (UHDR) irradiation has been shown to have a sparing effect on healthy tissue, an effect known as &#x27;FLASH&#x27;. This effect has been studied across several radiation modalities, including photons, protons and clinical energy electrons, however, very little data is available for the effect of FLASH with Very High Energy Electrons (VHEE). pBR322 plasmid DNA was used as a biological model to measure DNA damage in response to Very High Energy Electron (VHEE) irradiation at conventional (0.08 Gy/s), intermediate (96 Gy/s) and ultra-high dose rates (UHDR, (2 × 109 Gy/s) at the CERN Linear Electron Accelerator (CLEAR) user facility. UHDRs were used to determine if the biological FLASH effect could be measured in the plasmid model, within a hydroxyl scavenging environment. Two different concentrations of the hydroxyl radical scavenger Tris were used in the plasmid environment to alter the proportions of indirect damage, and to replicate a cellular scavenging capacity. Indirect damage refers to the interaction of ionising radiation with molecules and species to generate reactive species which can then attack DNA. UHDR irradiated plasmid was shown to have significantly reduced amounts of damage in comparison to conventionally irradiated, where single strand breaks (SSBs) was used as the biological endpoint. This was the case for both hydroxyl scavenging capacities. A reduced electron energy within the VHEE range was also determined to increase the DNA damage to pBR322 plasmid. Results indicate that the pBR322 plasmid model can be successfully used to explore and test the effect of UHDR regimes on DNA damage. This is the first study to report FLASH sparing with VHEE, with induced damage to pBR322 plasmid DNA as the biological endpoint. UHDR irradiated plasmid had reduced amounts of DNA single-strand breaks (SSBs) in comparison with conventional dose rates. The magnitude of the FLASH sparing was a 27% reduction in SSB frequency in a 10 mM Tris environment and a 16% reduction in a 100 mM Tris environment.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38926450/) · [DOI](https://doi.org/10.1038/s41598-024-65055-8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11208499/)
 
 
 ---
@@ -3952,6 +3972,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Pre-clinical studies have shown that irradiation with electrons at an ultra-high dose-rate (FLASH) spares normal tissue while maintaining tumor control. However, most in vitro experiments with protons have been conducted using a non-clinical irradiation system in normoxia alone.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In vitro study comparing biological responses of non-tumor (V79) and tumor (U-251, A549) cells irradiated with 230 MeV protons at ultra-high dose rate (&gt;50 Gy/s) versus conventional dose rate (0.1 Gy/s) under normoxic and hypoxic (&lt;2%) conditions. Clonogenic survival assays revealed no significant difference between ultra-high and conventional dose rates in either cell type under normoxia or hypoxia, indicating absence of a sparing effect despite dose rates exceeding the 40 Gy/s threshold.
 
 
 ??? note "Abstract"
@@ -3973,49 +3997,15 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Ultra-high dose rate radiotherapy with electrons and protons has shown potential for cancer treatment by effectively targeting tumors while sparing healthy tissues (FLASH effect). This study aimed to investigate the potential FLASH sparing effect of ultra-high-dose rate helium ion irradiation, focusing on acute brain injury and subcutaneous tumor response in a preclinical in vivo setting.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This preclinical in vivo study compared standard dose rate (0.2 Gy/s) and ultra-high dose rate (141–250 Gy/s) helium ion radiotherapy in C57BL/6 mice and A549 carcinoma models. Ultra-high dose rate helium irradiation reduced acute brain tissue injury, measured by γH2AX double-strand breaks and preserved neurovascular endothelium, while reducing neuroinflammatory markers (CD68+ iNOS+ microglia/macrophages) compared to standard dose rate. Tumor control at ultra-high dose rate was comparable to standard dose rate.
+
+
 ??? note "Abstract"
     Ultra-high dose rate radiotherapy with electrons and protons has shown potential for cancer treatment by effectively targeting tumors while sparing healthy tissues (FLASH effect). This study aimed to investigate the potential FLASH sparing effect of ultra-high-dose rate helium ion irradiation, focusing on acute brain injury and subcutaneous tumor response in a preclinical in vivo setting. Raster-scanned helium ion beams were used to compare the effects of standard dose rate (SDR at 0.2 Gy/s) and FLASH (at 141 Gy/s) radiotherapy on healthy brain tissue. Irradiation-induced brain injury was studied in C57BL/6 mice via DNA damage response, using nuclear γH2AX as a marker for double-strand breaks (DSB). The integrity of neurovascular and immune compartments was assessed through CD31 + microvascular density and activation of microglia/macrophages. Iba1+ ramified and CD68 + phagocytic microglia/macrophages were quantified, along with the expression of inducible nitric oxide synthetase (iNOS). Tumor response to SDR (0.2 Gy/s) and FLASH (250 Gy/s) radiotherapy was evaluated in A549 carcinoma model, using tumor volume and Kaplan-Meier survival as endpoints. The results showed that helium FLASH radiotherapy significantly reduced acute brain tissue injury compared to SDR, evidenced by lower levels of DSB and preserved neurovascular endothelium. Additionally, FLASH radiotherapy reduced neuroinflammatory signals compared to SDR, as indicated by fewer CD68+ iNOS+ microglia/macrophages. FLASH radiotherapy achieved tumor control comparable to that of SDR radiotherapy. This study is the first to report the FLASH sparing effect of raster scanning helium ion radiotherapy in vivo, highlighting its potential for neuroprotection and effective tumor control.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38915610/) · [DOI](https://doi.org/10.1101/2024.06.13.598785) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11195254/)
-
-
----
-
-### Using Modularized Pin Ridge Filter in Proton FLASH Planning for Liver Stereotactic Ablative Body Radiotherapy.
-
-*Ma C, Yang X, Wang Y, Yu D, Patel P, Zhou J* — ArXiv (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
-
-
-**TL;DR.** We previously developed a FLASH planning framework for streamlined pin-ridge-filter (pin-RF) design, demonstrating its feasibility for single-energy proton FLASH planning. In this study, we refined the pin-RF design for easy assembly using reusable modules, focusing on its application in liver SABR.
-
-
-??? note "Abstract"
-    We previously developed a FLASH planning framework for streamlined pin-ridge-filter (pin-RF) design, demonstrating its feasibility for single-energy proton FLASH planning. In this study, we refined the pin-RF design for easy assembly using reusable modules, focusing on its application in liver SABR. This framework generates an intermediate IMPT plan and translates it into step widths and thicknesses of pin-RFs for a single-energy FLASH plan. Parameters like energy spacing, monitor unit limit, and spot quantity were adjusted during IMPT planning, resulting in pin-RFs assembled using predefined modules with widths from 1 to 6 mm, each with a WET of 5 mm. This approach was validated on three liver SABR cases. FLASH doses, quantified using the FLASH effectiveness model at 1 to 5 Gy thresholds, were compared to conventional IMPT (IMPT-CONV) doses to assess clinical benefits. The highest demand for 6 mm width modules, moderate for 2-4 mm, and minimal for 1- and 5-mm modules were shown across all cases. At lower dose thresholds, the two-beam case showed significant dose reductions (&gt;23%), while the other two three-beam cases showed moderate reductions (up to 14.7%), indicating the need for higher fractional beam doses for an enhanced FLASH effect. Positive clinical benefits were seen only in the two-beam case at the 5 Gy threshold. At the 1 Gy threshold, the FLASH plan of the two-beam case outperformed its IMPT-CONV plan, reducing dose indicators by up to 28.3%. However, the three-beam cases showed negative clinical benefits at the 1 Gy threshold, with some dose indicators increasing by up to 16% due to lower fractional beam doses and closer beam arrangements. This study evaluated the feasibility of modularizing streamlined pin-RFs in single-energy proton FLASH planning for liver SABR, offering guidance on optimal module composition and strategies to enhance FLASH planning.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38883238/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11177950/)
-
-
----
-
-### A high-throughput focused collimator for OAR-sparing preclinical proton FLASH studies: commissioning and validation.
-
-*Mossahebi S, Byrne K, Jiang K, Gerry A, Deng W, Repetto C et al.* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
-
-
-**TL;DR.** Objective. To fabricate and validate a novel focused collimator designed to spare normal tissue in a murine hemithoracic irradiation model using 250 MeV protons delivered at ultra-high dose rates (UHDRs) for preclinical FLASH radiation therapy (FLASH-RT) studies.Approach.
-
-
-??? note "Abstract"
-    Objective. To fabricate and validate a novel focused collimator designed to spare normal tissue in a murine hemithoracic irradiation model using 250 MeV protons delivered at ultra-high dose rates (UHDRs) for preclinical FLASH radiation therapy (FLASH-RT) studies.Approach. A brass collimator was developed to shape 250 MeV UHDR protons from our Varian ProBeam. Six 13 mm apertures, of equivalent size to kV x-ray fields historically used to perform hemithorax irradiations, were precisely machined to match beam divergence, allowing concurrent hemithoracic irradiation of six mice while sparing the contralateral lung and abdominal organs. The collimated field profiles were characterized by film dosimetry, and a radiation survey of neutron activation was performed to ensure the safety of staff positioning animals.Main results. The brass collimator produced 1.2 mm penumbrae radiation fields comparable to kV x-rays used in preclinical studies. The penumbrae in the six apertures are similar, with full-width half-maxima of 13.3 mm and 13.5 mm for the central and peripheral apertures, respectively. The collimator delivered a similar dose at an average rate of 52 Gy s-1for all apertures. While neutron activation produces a high (0.2 mSv h-1) initial ambient equivalent dose rate, a parallel work-flow in which imaging and setup are performed without the collimator ensures safety to staff.Significance. Scanned protons have the greatest potential for future translation of FLASH-RT in clinical treatments due to their ability to treat deep-seated tumors with high conformality. However, the Gaussian distribution of dose in proton spots produces wider lateral penumbrae compared to other modalities. This presents a challenge in small animal pre-clinical studies, where millimeter-scale penumbrae are required to precisely target the intended volume. Offering high-throughput irradiation of mice with sharp penumbrae, our novel collimator-based platform serves as an important benchmark for enabling large-scale, cost-effective radiobiological studies of the FLASH effect in murine models.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38876112/) · [DOI](https://doi.org/10.1088/1361-6560/ad589f)
 
 
 ---
@@ -4028,6 +4018,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Preclinical studies have shown a preferential normal tissue sparing effect of FLASH radiation therapy with ultra-high dose rates. The aim of the present study was to use a murine model of acute skin toxicity to investigate the biologic effect of varying dose rates, time structure, and introducing pauses in the dose delivery.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A murine hind-limb skin toxicity model was used to investigate dose-rate-dependent sparing with proton pencil-beam scanning at 39.3 Gy across dose rates from 0.37 to 80 Gy/s. Dose-rate threshold for normal-tissue sparing varied by toxicity grade (0.7–2 Gy/s for higher grades), repainting increased toxicity at matched field dose rate, and splitting dose into 2 or more deliveries with 2-minute pauses progressively compromised the FLASH effect. The authors conclude that toxicity endpoint sensitivity influences apparent dose-rate thresholds and that dose fractionation or overlapping FLASH fields within a single session may reduce biological benefit.
 
 
 ??? note "Abstract"
@@ -4049,6 +4043,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Very high energy electrons (VHEE) are a potential candidate for radiotherapy applications. This includes tumours in inhomogeneous regions such as lung and prostate cancers, due to the insensitivity of VHEE to inhomogeneities.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In vitro clonogenic survival assay of PC3 prostate and A549 lung cancer cells exposed to 154 MeV electrons from the ARES linac at DESY, with dose delivery quantified by Gafchromic film. Survival was fitted to linear-quadratic model (R² = 0.96–0.97) and compared to 300 kVp X-rays. Relative biological effectiveness of VHEE was 0.93 (D₀.₅) and 0.99 (D₀.₁) for A549, and 0.74 (D₀.₅) and 0.93 (D₀.₁) for PC3, indicating biological effectiveness comparable to photon radiotherapy.
+
+
 ??? note "Abstract"
     Very high energy electrons (VHEE) are a potential candidate for radiotherapy applications. This includes tumours in inhomogeneous regions such as lung and prostate cancers, due to the insensitivity of VHEE to inhomogeneities. This study explores how electrons in the VHEE range can be used to perform successful in vitro radiobiological studies. The ARES (accelerator research experiment at SINBAD) facility at DESY, Hamburg, Germany was used to deliver 154 MeV electrons to both prostate (PC3) and lung (A549) cancer cells in suspension. Dose was delivered to samples with repeatability and uniformity, quantified with Gafchromic film. Cell survival in response to VHEE was measured using the clonogenic assay to determine the biological effectiveness of VHEE in cancer cells for the first time using this method. Equivalent experiments were performed using 300 kVp X-rays, to enable VHEE irradiated cells to be compared with conventional photons. VHEE irradiated cancer cell survival was fitted to the linear quadratic (LQ) model (R2 = 0.96-0.97). The damage from VHEE and X-ray irradiated cells at doses between 1.41 and 6.33 Gy are comparable, suggesting similar relative biological effectiveness (RBE) between the two modalities. This suggests VHEE is as damaging as photon radiotherapy and therefore could be used to successfully damage cancer cells during radiotherapy. The RBE of VHEE was quantified as the relative doses required for 50% (D0.5) and 10% (D0.1) cell survival. Using these values, VHEE RBE was measured as 0.93 (D0.5) and 0.99 (D0.1) for A549 and 0.74 (D0.5) and 0.93 (D0.1) for PC3 cell lines respectively. For the first time, this study has shown that 154 MeV electrons can be used to effectively kill lung and prostate cancer cells, suggesting that VHEE would be a viable radiotherapy modality. Several studies have shown that VHEE has characteristics that would offer significant improvements over conventional photon radiotherapy for example, electrons are relatively easy to steer and can be used to deliver dose rapidly and with high efficiency. Studies have shown improved dose distribution with VHEE in treatment plans, in comparison to VMAT, indicating that VHEE can offer improved and safer treatment plans with reduced side effects. The biological response of cancer cells to VHEE has not been sufficiently studied as of yet, however this initial study provides some initial insights into cell damage. VHEE offers significant benefits over photon radiotherapy and therefore more studies are required to fully understand the biological effectiveness of VHEE.
 
@@ -4066,6 +4064,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** The oxygen depletion hypothesis has been proposed as a rationale to explain the observed phenomenon of FLASH-radiotherapy (FLASH-RT) sparing normal tissues while simultaneously maintaining tumor control. In this study we examined the distribution of DNA Damage Response (DDR) markers in irradiated 3D multicellular spheroids to explore the relationship between FLASH-RT protection and radiolytic-oxyg…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study examined DNA damage response markers in 3D multicellular spheroids irradiated with 10 MeV electrons at dose rates above 50 Gy/s versus conventional dose rate. Using pDNA-PK and γH2AX staining, the authors observed dose-rate-dependent protection in spheroids cultured under controlled oxygen and temperature conditions, with modelling yielding a tissue radiolytic oxygen consumption estimate of 0.73 ± 0.25 µM/Gy. Protection was pronounced at lower oxygen levels (0.3–1%) at 4 °C across all tissue depths, but limited to outer cell layers at 37 °C and 3% oxygen.
 
 
 ??? note "Abstract"
@@ -4087,6 +4089,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** The understanding of how varying radiation beam parameter settings affect the induction and magnitude of the FLASH effect remains limited. PURPOSE: We sought to evaluate how the magnitude of radiation-induced gastrointestinal (GI) toxicity (RIGIT) depends on the interplay between mean dose rate (MDR) and dose per pulse (DPP).
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    In C57BL/6J mice receiving single-fraction total abdominal irradiation (11–14 Gy), this study separates the contributions of dose per pulse (DPP, 1–6 Gy) and mean dose rate (MDR, 0.3–1440 Gy/s) to normal-tissue sparing and tumor control. At fixed MDR &gt;100 Gy/s, increasing DPP reduced gastrointestinal toxicity as measured by crypt regeneration. At fixed DPP ≥4.7 Gy, similar crypt sparing and survival benefit occurred across all tested MDRs from 0.3 to 10⁴ Gy/s, whereas at lower DPP (0.93 Gy), increasing MDR enhanced the survival effect. Tumor growth delay was isoeffective regardless of DPP or MDR. The results suggest that both high DPP and high MDR can independently produce normal-tissue sparing.
+
+
 ??? note "Abstract"
     BACKGROUND: The understanding of how varying radiation beam parameter settings affect the induction and magnitude of the FLASH effect remains limited. PURPOSE: We sought to evaluate how the magnitude of radiation-induced gastrointestinal (GI) toxicity (RIGIT) depends on the interplay between mean dose rate (MDR) and dose per pulse (DPP). METHODS: C57BL/6J mice were subjected to total abdominal irradiation (11-14 Gy single fraction) under conventional irradiation (low DPP and low MDR, CONV) and various combinations of DPP and MDR up to ultra-high-dose-rate (UHDR) beam conditions. The effects of DPP were evaluated for DPPs of 1-6 Gy while the total dose and MDR were kept constant; the effects of MDR were evaluated for the range 0.3- 1440 Gy/s while the total dose and DPP were kept constant. RIGIT was quantified in non-tumor-bearing mice through the regenerating crypt assay and survival assessment. Tumor response was evaluated through tumor growth delay. RESULTS: Within each tested total dose using a constant MDR (&gt;100 Gy/s), increasing DPP led to better sparing of regenerating crypts, with a more prominent effect seen at 12 and 14 Gy TAI. However, at fixed DPPs &gt;4 Gy, similar sparing of crypts was demonstrated irrespective of MDR (from 0.3 to 1440 Gy/s). At a fixed high DPP of 4.7 Gy, survival was equivalently improved relative to CONV for all MDRs from 0.3 Gy/s to 104 Gy/s, but at a lower DPP of 0.93 Gy, increasing MDR produced a greater survival effect. We also confirmed that high DPP, regardless of MDR, produced the same magnitude of tumor growth delay relative to CONV using a clinically relevant melanoma mouse model. CONCLUSIONS: This study demonstrates the strong influence that the beam parameter settings have on the magnitude of the FLASH effect. Both high DPP and UHDR appeared independently sufficient to produce FLASH sparing of GI toxicity, while isoeffective tumor response was maintained across all conditions.
 
@@ -4104,6 +4110,10 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 
 
 **TL;DR.** Ultra High Dose-Rate (UHDR) radiation has been reported to spare normal tissue, compared with Conventional Dose-Rate (CDR) radiation. However, important work remains to be done to improve the reproducibility of the FLASH effect.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study examined factors modulating the FLASH sparing effect in C57BL/6 mice receiving 27 Gy of 9 MeV electron irradiation to skin at ultra-high or conventional dose rate. Sex and anesthetic oxygen carrier gas significantly affected normal-tissue outcome at ultra-high dose rate: mice anesthetized with 100% oxygen showed earlier skin ulceration than those with room air, and female mice ulcerated sooner than males. Tissue oxygenation measured by phosphorescence imaging was elevated under 100% oxygen and in females. These findings implicate oxygen availability as a mechanistic basis for FLASH sparing and identify sex as a source of experimental variability.
 
 
 ??? note "Abstract"
@@ -4125,49 +4135,15 @@ In vitro, in vivo and mechanistic studies of the FLASH effect, normal-tissue spa
 **TL;DR.** Large, rapid extracellular oxygen transients (ΔpO2) have been measured in vivo during ultra-high dose rate radiation therapy; however, it has been unclear if they match intracellular oxygen levels. Here, the endogenously produced protoporphyrin IX (PpIX) delayed fluorescence signal was measured as an intracellular in-vivo oxygen sensor to quantify these transients, with direct comparison to extrac…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study measured intracellular oxygen depletion transients in mouse skin during ultra-high dose rate electron irradiation using protoporphyrin IX delayed fluorescence as an in vivo oxygen sensor. Animals received 10–28 Gy in 3 µs pulses at 360 Hz. Intracellular pO₂ reductions correlated linearly with extracellular measurements and were dose-proportional, averaging 0.56 ± 0.18 mm Hg/Gy intracellularly and 0.43 ± 0.06 mm Hg/Gy extracellularly for initial pO₂ &gt; 20 mm Hg.
+
+
 ??? note "Abstract"
     PURPOSE: Large, rapid extracellular oxygen transients (ΔpO2) have been measured in vivo during ultra-high dose rate radiation therapy; however, it has been unclear if they match intracellular oxygen levels. Here, the endogenously produced protoporphyrin IX (PpIX) delayed fluorescence signal was measured as an intracellular in-vivo oxygen sensor to quantify these transients, with direct comparison to extracellular pO2. Intracellular ΔpO2 is closer to the cellular DNA, the site of major radiobiological damage, and therefore should help elucidate radiochemical mechanisms of the FLASH effect and potentially be translated to human tissue measurement. METHODS AND MATERIALS: PpIX was induced in mouse skin through intraperitoneal injection of 250 mg/kg of aminolevulinic acid. The animals were also administered a 50 µL intradermal injection of 10 µM oxyphor G4 (PdG4) for phosphorescence lifetime pO2 measurement. Paired oxygen transients were quantified in leg or flank tissues while delivering 10 MeV electrons in 3 µs pulses at 360 Hz for a total dose of 10 to 28 Gy. RESULTS: Transient reductions in pO2 were quantifiable in both PpIX delayed fluorescence and oxyphor phosphorescence, corresponding to intracellular and extracellular pO2 values, respectively. Reponses were quantified for 10, 22, and 28 Gy doses, with ΔpO2 found to be proportional to the dose on average. The ΔpO2 values were dependent on initial pO2 in a logistic function. The average and standard deviations in ΔpO2 per dose were 0.56 ± 0.18 mm Hg/Gy and 0.43 ± 0.06 mm Hg/Gy for PpIX and oxyphor, respectively, for initial pO2 &gt; 20 mm Hg. Although there was large variability in the individual animal measurements of ΔpO2, the average values demonstrated a direct and proportional correlation between intracellular and extracellular pO2 changes, following a linear 1:1 relationship. CONCLUSIONS: A fundamentally new approach to measuring intracellular oxygen depletion in living tissue showed that ΔpO2 transients seen during ultra-high dose rate radiation therapy matched those quantified using extracellular oxygen measurement. This approach could be translated to humans to quantify intracellular ΔpO2. The measurement of these transients could potentially allow the estimation of intracellular reactive oxygen species production.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38703954/) · [DOI](https://doi.org/10.1016/j.ijrobp.2024.04.068) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12012821/)
-
-
----
-
-### Comment on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
-
-*Liew H, Mairani A* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** We comment on the recently published study &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; by Shiraishiet al. While the general approach of the study may be appropriate, we wish to comment on its limitations and point out issues concerning their choice of the benchmarking and fitting data.
-
-
-??? note "Abstract"
-    We comment on the recently published study &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; by Shiraishiet al. While the general approach of the study may be appropriate, we wish to comment on its limitations and point out issues concerning their choice of the benchmarking and fitting data. The approach by the authors could become viable in an extended form once more comprehensive data is available.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38700989/) · [DOI](https://doi.org/10.1088/1361-6560/ad3edb)
-
-
----
-
-### Reply to comment on &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27;.
-
-*Shiraishi Y, Matsuya Y, Fukunaga H* — Physics in medicine and biology (2024)  
-
-<span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
-
-
-**TL;DR.** Liew and Mairani commented on our paper &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; (Shiraishiet al2024aPhys. Med.
-
-
-??? note "Abstract"
-    Liew and Mairani commented on our paper &#x27;Modeling for predicting survival fraction of cells after ultra-high dose rate irradiation&#x27; (Shiraishiet al2024aPhys. Med. Biol.69015017), which proposed a biophysical model to predict the dose-response curve of surviving cell fractions after ultra-high dose rate irradiation following conventional dose rate irradiation by considering DNA damage yields. They suggested the need to consider oxygen concentration in our prediction model and possible issues related to the data selection process used for the benchmarking test in our paper. In this reply, we discuss the limitations of both the present model and the available experimental data for determining the model&#x27;s parameters. We also demonstrate that our proposed model can reproduce the experimental survival data even when using only the experimental DNA damage data measured reliably under normoxic conditions.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38700988/) · [DOI](https://doi.org/10.1088/1361-6560/ad3edc)
 
 
 ---
