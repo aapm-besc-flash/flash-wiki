@@ -2,7 +2,99 @@
 
 Detectors, reference dosimetry, beam monitoring and dose measurement under ultra-high dose-rate conditions.
 
-*243 records. Newest first.*
+*251 records. Newest first.*
+
+---
+
+### VHEE beam parameter extraction from depth-dose and lateral profile measurements: a Monte Carlo parametric study.
+
+*Rezzoug M, Oulhouq Y, Hamzaoui O, Zerfaoui M, Rrhioua A, Bakari D* — Radiological physics and technology (2026)  
+
+<span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Very High Energy Electrons (VHEE, 50-300 MeV) are a promising modality for deep-seated tumour irradiation. Accurate Monte Carlo (MC) dose calculation requires precise determination of five primary beam parameters: Energy (E), Source size (σ₀), angular divergence (θ), energy spread (ΔE), and source-to-surface distance (SSD).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A Monte Carlo parametric study using GATE v9.3 quantifies the independent influence of five primary beam parameters (energy, source size, angular divergence, energy spread, source-to-surface distance) on very high energy electron (VHEE) beams at 50–300 MeV in water. Inverse formulae enable reconstruction of these parameters from measured percentage depth-dose curves and lateral profiles, with validation showing energy agreement within ±4% across five independent datasets. The work supports beam commissioning and quality assurance for VHEE and FLASH-VHEE systems.
+
+
+??? note "Abstract"
+    Very High Energy Electrons (VHEE, 50-300 MeV) are a promising modality for deep-seated tumour irradiation. Accurate Monte Carlo (MC) dose calculation requires precise determination of five primary beam parameters: Energy (E), Source size (σ₀), angular divergence (θ), energy spread (ΔE), and source-to-surface distance (SSD). This study quantified the independent influence of each parameter and derived inverse formulae enabling their reconstruction from measured percentage depth-dose (PDD) curves and lateral dose profiles. GATE v9.3 simulations were performed for 50-300 MeV electron beams in a homogeneous water phantom (30 × 30 × 30 cm³, 1 mm³ voxels). A one-factor-at-a-time approach varied E, σ₀ (0-10 mm), θ (0-80 mrad), ΔE (0-50 MeV), and SSD (0-100 cm). For each configuration, 2 × 10⁹ primary electrons were simulated, yielding uncertainties &lt; 1% at Dmax and &lt; 3% distally. Longitudinal observables (R100, R90, R80, R50, R20, surface dose, distal width W=R20 - R80) and lateral observables (FWHM, penumbra) were extracted. Inverse relationships - relating beam energy to R50, source size to FWHM, divergence to R90, and energy spread to the distal width W - were derived by weighted least-squares regression - expressing beam energy as a function of R50, source size as a function of the lateral field size (FWHM), divergence as a function of R90, and energy spread as a function of the distal fall-off width (W = R20 - R80) - and validated using five independent datasets. Longitudinal observables followed a quadratic model in σ₀ (adjusted R²&gt;0.98, RMSE &lt; 2 mm). For the reference configuration, energy was related to R50 by E=(R50 - 38.97)/0.5699. Source size was obtained from σ₀=FWHM/2.355, divergence from R90, and energy spread from W. Validation showed energy agreement within ± 4% for five datasets. The proposed inverse formulae enable rapid and accurate extraction of VHEE beam parameters from routine dosimetric measurements, supporting beam commissioning, quality assurance, and TPS validation for VHEE and FLASH-VHEE systems.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42965639/) · [DOI](https://doi.org/10.1007/s12194-026-01160-9)
+
+
+---
+
+### Analysis on radiation protection of FLASH treatment in conventional proton therapy facilities.
+
+*Wang Y, Deng C, Gao N, Zhang Y, Wang Y, Liu M et al.* — Medical physics (2026)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** FLASH radiotherapy is an advanced radiotherapy technique featuring ultra-high dose-rate irradiation. Previous preclinical studies have shown that it can significantly reduce damage to normal tissues while preserving the ability to kill tumor cells.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Measurements of ambient equivalent dose rate and occupational exposure in a conventional proton therapy facility (Varian ProBeam, 244 MeV, nozzle currents 5–20 nA with extrapolation to 170 nA FLASH current) assessed shielding effectiveness in transmission and Bragg-peak modes. A linear relationship between nozzle current and ambient dose equivalent rate was observed. Extrapolated annual occupational doses for radiation workers under full FLASH conditions were 0.370 mSv (transmission) and 0.236 mSv (Bragg peak), both below regulatory limits.
+
+
+??? note "Abstract"
+    BACKGROUND: FLASH radiotherapy is an advanced radiotherapy technique featuring ultra-high dose-rate irradiation. Previous preclinical studies have shown that it can significantly reduce damage to normal tissues while preserving the ability to kill tumor cells. Due to the very high current intensity of FLASH radiotherapy, the effectiveness of radiation shielding in current proton therapy facilities needs to be evaluated prior to clinical studies. PURPOSE: Based on the existing shielding conditions of a ProBeam proton therapy system for conventional proton therapy treatment, we studied the shielding effectiveness of FLASH treatment in both the transmission and Bragg-peak modes. METHODS: Under the conditions of single-point irradiation using a proton beam with the highest clinical energy of 244MeV, and the beam intensity of 5nA, 10nA, and 20nA at the nozzle, the ambient equivalent dose rate outside the shielding door was measured with neutron and γ detector, in order to determine the linear relationship between the current intensity and the ambient dose rate. In addition, a gantry room was used as the study object, and the layout design of the points of interest was carried out according to the layout of the proton treatment facility and the transport path and direction of the proton beam, and the most unfavorable working conditions were set for each point of interest. The beam energy was set to 244 MeV, with a cylindrical water phantom (20 cm in diameter) and a solid water block (40 × 40 × 40 cm3) placed at the isocenter. The current at the nozzle was set to 20 nA, and comprehensive environmental dose rate measurements were carried out for the proton radiation workplace. RESULTS: A linear relationship was observed between nozzle current and ambient dose equivalent rate. Based on the linear relationship, when the current was extrapolated to a FLASH current of 170 nA, the measured instantaneous dose rates at some locations were relatively high, with the maximum value of 74.04 µSv/h recorded outside the shielding door. Under the conservative assumption that the total annual beam delivery time is 5 h (treating 6 patients per hour), the maximum annual occupational exposure doses for radiation workers under the transmission and Bragg Peak modes are 0.370 mSv and 0.236 mSv, respectively, which are well below the annual occupational dose limit. CONCLUSIONS: The results indicate that, under existing conventional shielding conditions, the radiation risk posed to the environment outside the treatment room by FLASH irradiation using the Varian ProBeam proton therapy system is safe and controllable, and the annual occupational radiation dose for radiation workers is well below the annual dose equivalent limit. This provides important radiation safety justification for the clinical implementation of FLASH technology in existing proton therapy facilities.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42961338/) · [DOI](https://doi.org/10.1002/mp.70747)
+
+
+---
+
+### Scintillating Micro-Probe Detectors for Conventional and FLASH Proton Dosimetry: Optical Transport and Geometry Modeling.
+
+*Subedi SK, Debnath SBC* — Bioengineering (Basel, Switzerland) (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Optical fiber-based inorganic scintillating detectors (ISDs) are increasingly investigated for radiation therapy applications, including microbeam and ultra-high-dose-rate dosimetry. Accurate characterization of these compact detectors is particularly important for proton beams delivered under high-flux and FLASH conditions.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A computational study developed a detailed Monte Carlo optical transport framework to model inorganic scintillating micro-probe detectors under conventional and ultra-high dose rate proton irradiation. Five detector geometries were evaluated at 25 and 230 MeV using GATE simulations incorporating volumetric optical scattering. Maximum measurable dose rates before saturation ranged from 13.5–392.6 Gy/s depending on sensitive volume and proton energy, demonstrating that fiber geometry and internal optical scattering significantly influence dose-rate response.
+
+
+??? note "Abstract"
+    Optical fiber-based inorganic scintillating detectors (ISDs) are increasingly investigated for radiation therapy applications, including microbeam and ultra-high-dose-rate dosimetry. Accurate characterization of these compact detectors is particularly important for proton beams delivered under high-flux and FLASH conditions. Simplified analytical and ray-tracing models can estimate detector saturation limits but may inadequately account for internal optical scattering and the fiber insertion geometry within the scintillating volume, leading to inaccurate estimates of the effective sensitive volume and dose-rate response. In this study, we developed a detailed computational framework that explicitly models the fiber-scintillator geometry and volumetric optical photon transport. Five detector geometries with different sensitive volumes were evaluated under 25 and 230 MeV proton irradiation using a fully volumetric GATE Monte Carlo optical transport model incorporating intra-dosimeter optical scattering. The results revealed a clear inverse relationship between detector sensitive volume and maximum measurable dose rate before saturation. At 25 MeV, the maximum measurable dose rate (D˙max) ranged from 364.5 ± 7.6 Gy/s for the smallest detector to 13.5 ± 0.2 Gy/s for the largest detector, while at 230 MeV, it ranged from 392.6 ± 8.1 Gy/s down to 15.6 ± 0.3 Gy/s at 230 MeV, respectively. These findings demonstrate that fiber insertion geometry and volumetric optical scattering significantly influence the dose-rate response and saturation threshold of scintillating micro-probes. Accurate modeling of these effects is therefore essential for optimizing detector geometry, establishing reliable quantitative dosimetry across conventional and proton-FLASH dose-rate regimes.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42939044/) · [DOI](https://doi.org/10.3390/bioengineering13101189) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13701824/)
+
+
+---
+
+### Charge collection efficiency in air-vented plane-parallel ionisation chambers at ultra-high dose rates: a self-consistent Garfield++ Monte Carlo model including space-charge effects and ion recombination.
+
+*Gérard Ortega P, De Lentdecker G, Flandroy Q, Nys J* — Physics in medicine and biology (2026)  
+
+<span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Ultra-high dose rate (UHDR) irradiation used in FLASH radiotherapy can lead to significant reductions in charge collection efficiency (CCE) in plane-parallel ionisation chambers (PPICs) due to enhanced ion recombination, while the high charge densities involved can also induce strong space-charge-induced electric-field distortions. This work aims to develop a Monte Carlo framework for investigatin…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A Monte Carlo framework based on Garfield++ was developed to model charge collection efficiency in plane-parallel ionization chambers under ultra-high dose rate conditions. The model couples particle transport, electron attachment, ion-ion recombination, and self-consistent space-charge electric field calculations. Simulations demonstrate that space charge can locally amplify electric fields by more than fourfold or reduce them to nearly zero, and that electric-field-dependent electron attachment plays a major role in charge collection efficiency reduction under UHDR conditions.
+
+
+??? note "Abstract"
+    Ultra-high dose rate (UHDR) irradiation used in FLASH radiotherapy can lead to significant reductions in charge collection efficiency (CCE) in plane-parallel ionisation chambers (PPICs) due to enhanced ion recombination, while the high charge densities involved can also induce strong space-charge-induced electric-field distortions. This work aims to develop a Monte Carlo framework for investigating these coupled effects.&amp;#xD;&amp;#xD;Approach: We extended the Garfield++ Monte Carlo particle-transport framework by implementing ion-ion recombination and self-consistent space-charge electric field calculations. The resulting model couples particle transport, electron attachment, recombination processes, and dynamic electric-field distortions. The implementation was validated against analytical and numerical models from the literature.&amp;#xD;&amp;#xD;Main results: Excellent agreement was obtained for the free electron fraction (FEF), CCE, induced current, and electric field evolution under UHDR conditions. The simulations show that space charge can locally increase the electric field by more than a factor of four or reduce it to nearly zero in some regions of the chamber. The results further suggest that the decrease in the FEF caused by electric-field-dependent electron attachment plays a major role in the reduction of the CCE under UHDR conditions.&amp;#xD;&amp;#xD;Significance: These findings highlight the importance of accurately describing the evolution of the FEF for modelling recombination under UHDR conditions, opening up prospects for improved analytical models and real-time correction methods for ionisation chamber dosimetry. More broadly, this work provides a flexible and self-consistent Monte Carlo framework for investigating recombination phenomena and improving dosimetry models for FLASH radiotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42933125/) · [DOI](https://doi.org/10.1088/1361-6560/aeb99e)
+
 
 ---
 
@@ -10,10 +102,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 *Carballeira R, Zhang R, Willy KJ, Cash H, Gladstone DJ* — ArXiv (2026)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
 
 
-**TL;DR.** Applicator-specific phase space (PHSP) files recorded at the aperture exit reduce Monte Carlo dose calculation time by 30-50% for electron FLASH radiotherapy. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts.
+**TL;DR.** Clinical implementation of Monte Carlo (MC)-based treatment planning for electron FLASH radiotherapy requires computationally efficient phase space (PHSP) generation strategies to meet the planning timelines of ultra-high-dose-rate (UHDR) delivery. Applicator-specific PHSP files, recorded at the aperture exit, reduce dose calculation time by 30-50% relative to traditional placement at the linac-ex…
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -21,7 +113,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 ??? note "Abstract"
-    Applicator-specific phase space (PHSP) files recorded at the aperture exit reduce Monte Carlo dose calculation time by 30-50% for electron FLASH radiotherapy. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts. This study characterizes these artifacts in Geant4-based simulations and demonstrates their mitigation. PHSP files were generated using GAMOS 6.2.0 for a 9 MeV Mobetron UHDR model across twelve clinical aperture configurations (2.5-10 cm diameter). Three scoring plane positions were evaluated relative to the physical aperture exit: coincident with the interface, 0.1 mm downstream, and 1 mm downstream. Scoring at the exact interface produced proximal R50 shifts of up to 2.2 mm and Distance-to-Agreement (DTA) values of 4-6 mm, exceeding clinical acceptance criteria. Artifact severity scaled inversely with aperture diameter, with the smallest configurations most severely affected. A 0.1 mm offset partially restored the primary electron energy spectrum but failed to recover the bremsstrahlung tail. A 1 mm offset fully resolved all artifacts, achieving mean DTA values within 2.0 mm, equivalent to or better than linac-exit references. These artifacts arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety equals zero at exact material boundaries, producing incomplete secondary electron equilibration and suppressed bremsstrahlung production. Angular distribution analysis revealed a near-forward particle pileup in the 0 mm PHSP and a deficit of large-angle secondaries recovered by the 1 mm offset. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics. This requirement applies to any Geant4-based framework (including TOPAS and GATE) scoring PHSP files at material exit surfaces.
+    BACKGROUND: Clinical implementation of Monte Carlo (MC)-based treatment planning for electron FLASH radiotherapy requires computationally efficient phase space (PHSP) generation strategies to meet the planning timelines of ultra-high-dose-rate (UHDR) delivery. Applicator-specific PHSP files, recorded at the aperture exit, reduce dose calculation time by 30-50% relative to traditional placement at the linac-exit window, enabling clinically practical planning cycles for FLASH treatment planning system (TPS) deployment. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts that have not been previously characterized in the electron PHSP literature. PURPOSE: To identify and characterize a boundary sampling artifact arising in Geant4-based Monte Carlo simulations when PHSP scoring planes are positioned coincident with material-air interfaces, and to demonstrate its mitigation through systematic scoring plane offset, enabling clinical deployment of applicator-specific electron beam PHSP libraries for FLASH-RT treatment planning. METHODS: Applicator-specific PHSP files were generated using GAMOS 6.2.0 for a commissioned 9 MeV Mobetron UHDR Monte Carlo model across twelve clinical aperture configurations (2.5-10 cm diameter) intended for deployment in the GMV Radiance treatment planning system. The scoring plane sensitivity analysis was performed on the A6 short cone (aperture exit at 397 mm) across three positions: coincident with the material-air interface (397 mm), 0.1 mm downstream (397.1 mm), and 1 mm downstream (398 mm). The corresponding 1 mm offset was subsequently applied to the A10 long cone (aperture exit at 406 mm, scoring plane at 407 mm) for global validation. Dose calculations were benchmarked against linac-exit PHSP references and experimental water phantom measurements via distance-to-agreement (DTA) analysis against the 3 mm clinical acceptance criterion established by AAPM TG-105. RESULTS: Scoring at the exact interface produced systematic proximal R50 shifts of up to 2.2 mm and DTA values of 4-6 mm for small-aperture configurations, exceeding the clinical acceptance criterion and rendering the PHSP library unsuitable for clinical deployment. A 0.1 mm offset partially corrected the angular distribution at the boundary but failed to resolve the energy-loss artifact affecting the distal falloff region. A 1 mm offset fully resolved all artifacts, achieving mean DTA values of 1.45 ± 0.63 mm (A6 series PDDs) and 2.00 ± 0.61 mm (A10 series PDDs), equivalent to or better than the linac-exit reference across all twelve configurations. CONCLUSIONS: Boundary sampling artifacts in Geant4-based PHSP generation arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety = 0 at exact material boundaries, producing incomplete secondary electron equilibration and a systematic energy-loss artifact in the scored particle population that manifests as a proximal shift of the distal dose falloff. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics, enabling clinical deployment of the resulting applicator-specific PHSP library in the GMV Radiance TPS for FLASH-RT treatment planning. This offset requirement warrants investigation in other Geant4-based frameworks (including TOPAS and GATE) scoring PHSP files at applicator or collimator exit surfaces.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42818460/) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13622438/)
@@ -59,7 +151,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
 
 
-**TL;DR.** Electron FLASH radiotherapy (FLASH-RT) represents a revolutionary and disruptive radiotherapy modality. It delivers high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to healthy normal tissues.
+**TL;DR.** Objective. Electron FLASH radiotherapy (FLASH-RT) represents a disruptive radiotherapy modality.
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -67,7 +159,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 ??? note "Abstract"
-    Electron FLASH radiotherapy (FLASH-RT) represents a revolutionary and disruptive radiotherapy modality. It delivers high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to healthy normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. To overcome this dosimetric bottleneck, we propose and validate an electron-induced acoustic (EA) reconstruction framework that synergistically integrates adaptive denoising regularization (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, enabling robust quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a three-dimensional (3D) digital water phantom, which serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer&#x27;s frequency response and the dosimetry system&#x27;s independent response characteristics. The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion, indicating its promising potential for clinical dose distribution verification and beam parameter characterization in electron-based FLASH-RT.
+    Objective. Electron FLASH radiotherapy (FLASH-RT) represents a disruptive radiotherapy modality. It enables high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. This study aims to evaluate the feasibility of quantitatively reconstructing dose distributions in electron-based FLASH-RT from multi-angle electron-induced acoustic (EA) signals in a three-dimensional (3D) digital water phantom, systematically assessing the effects of transducer configuration, the efficacy of deconvolution for signal restoration, and the depth dependence of reconstruction accuracy.Approach.We propose and validate an electron-induced acoustic imaging (EAI) reconstruction framework that synergistically integrates adaptive denoising preprocessing (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, to enable quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a 3D digital water phantom; these signals serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer&#x27;s frequency response and the dosimetry system&#x27;s independent response characteristics.Main results.The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion. Also, the central-profile dose curve was in good agreement with the reference dose curve, with an average dose difference of less than 6.35%.Significance.The results demonstrate the potential of this EAI-based dosimetry method for quantitative dose assessment and beam parameter characterization in electron-based FLASH-RT.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42777767/) · [DOI](https://doi.org/10.1088/1361-6560/aeabec)
@@ -82,7 +174,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
 
 
-**TL;DR.** FLASH radiotherapy which employs an ultra-high dose rate (&gt;40 Gy/s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA).
+**TL;DR.** Objective. FLASH radiotherapy which employs an ultra-high dose rate (UHDR) (Gy s), effectively protects normal tissues and organs while maintaining robust tumor control.
 
 
 ??? abstract "Summary — AI-generated, curator-reviewed"
@@ -90,7 +182,7 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 ??? note "Abstract"
-    FLASH radiotherapy which employs an ultra-high dose rate (&gt;40 Gy/s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for three-dimensional dose reconstruction. &amp;#xD;Approach: A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization (OSEM) iterative algorithm was adopted to obtain three-dimensional dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate X-rays, as well as 9 MeV electron with an ultra-high dose rate (UHDR) of 120 Gy/s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold). &amp;#xD;Results: The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional X-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution. &amp;#xD;Significance: The proposed three-dimensional dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It shows high accuracy in the evaluation of lateral parameters such as field shape, field size, flatness and uniformity, and can meet the basic requirements for field consistency verification in clinical UHDR radiotherapy QA.
+    Objective. FLASH radiotherapy which employs an ultra-high dose rate (UHDR) (Gy s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional (3D) dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for 3D dose reconstruction.Approach. A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization iterative algorithm was adopted to obtain 3D dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate x-rays, as well as 9 MeV electron with an UHDR of 120 Gy s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold).Results. The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional x-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution.Significance. The proposed 3D dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It demonstrates favourable performance when evaluating lateral parameters including field shape, field size, flatness and uniformity, which is promising for field consistency verification in clinical UHDR radiotherapy QA.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/42777766/) · [DOI](https://doi.org/10.1088/1361-6560/aeabeb)
@@ -2512,11 +2604,38 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** This paper reports the development of dosimeters based on plastic scintillating fibers imaged by a charge-coupled device camera, and their performance evaluation through irradiations with the electron Flash research accelerator located at the Centro Pisano Flash Radiotherapy. The dosimeter prototypes were composed of a piece of plastic scintillating fiber optically coupled to a clear optical fiber…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Development and characterization of plastic scintillating fiber dosimeters for ultra-high dose rate electron radiotherapy using the Centro Pisano Flash research accelerator. The dosimeters demonstrated linearity up to 10 Gy per pulse, accurate reconstruction of percentage depth dose curves in solid water, and capability to resolve single-pulse timing and spatial beam profiles. A proof-of-concept one-dimensional array was developed for online beam profiling.
+
+
 ??? note "Abstract"
     This paper reports the development of dosimeters based on plastic scintillating fibers imaged by a charge-coupled device camera, and their performance evaluation through irradiations with the electron Flash research accelerator located at the Centro Pisano Flash Radiotherapy. The dosimeter prototypes were composed of a piece of plastic scintillating fiber optically coupled to a clear optical fiber which transported the scintillation signal to the readout systems (an imaging system and a photodiode). The following properties were tested: linearity, capability to reconstruct the percentage depth dose curve in solid water and to sample in time the single beam pulse. The stem effect contribution was evaluated with three methods, and a proof-of-concept one-dimensional array was developed and tested for online beam profiling. Results show linearity up to 10 Gy per pulse, and good capability to reconstruct both the timing and spatial profiles of the beam, thus suggesting that plastic scintillating fibers may be good candidates for low-energy electron Flash dosimetry.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38692114/) · [DOI](https://doi.org/10.1016/j.ejmp.2024.103360)
+
+
+---
+
+### The effect of electron backscatter and charge build up in media on beam current transformer signal for ultra-high dose rate (FLASH) electron beam monitoring.
+
+*Pageot C, Zerouali K, Guillet D, Muir B, Renaud J, Lalonde A* — Physics in medicine and biology (2024)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective.Beam current transformers (BCT) are promising detectors for real-time beam monitoring in ultra-high dose rate (UHDR) electron radiotherapy. However, previous studies have reported a significant sensitivity of the BCT signal to changes in source-to-surface distance (SSD), field size, and phantom material which have until now been attributed to the fluctuating levels of electrons backscatt…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo simulations and experimental measurements on a UHDR-capable intra-operative electron linear accelerator investigate beam current transformer (BCT) signal sensitivity to source-to-surface distance, field size, and phantom material. Backscattered electrons account for less than 1% of signal variation at 6 and 9 MeV, contrary to previous hypotheses. Instead, electric fields originating in dielectric materials exposed to the UHDR electron beam drive BCT response variations of up to 15% across field diameters and 14.1% across phantom types. Faraday shielding of applicators effectively mitigates these dependencies, enabling reliable BCT-based beam monitoring.
+
+
+??? note "Abstract"
+    Objective.Beam current transformers (BCT) are promising detectors for real-time beam monitoring in ultra-high dose rate (UHDR) electron radiotherapy. However, previous studies have reported a significant sensitivity of the BCT signal to changes in source-to-surface distance (SSD), field size, and phantom material which have until now been attributed to the fluctuating levels of electrons backscattered within the BCT. The purpose of this study is to evaluate this hypothesis, with the goal of understanding and mitigating the variations in BCT signal due to changes in irradiation conditions.Approach.Monte Carlo simulations and experimental measurements were conducted with a UHDR-capable intra-operative electron linear accelerator to analyze the impact of backscattered electrons on BCT signal. The potential influence of charge accumulation in media as a mechanism affecting BCT signal perturbation was further investigated by examining the effects of phantom conductivity and electrical grounding. Finally, the effectiveness of Faraday shielding to mitigate BCT signal variations is evaluated.Main Results.Monte Carlo simulations indicated that the fraction of electrons backscattered in water and on the collimator plastic at 6 and 9 MeV is lower than 1%, suggesting that backscattered electrons alone cannot account for the observed BCT signal variations. However, our experimental measurements confirmed previous findings of BCT response variation up to 15% for different field diameters. A significant impact of phantom type on BCT response was also observed, with variations in BCT signal as high as 14.1% when comparing measurements in water and solid water. The introduction of a Faraday shield to our applicators effectively mitigated the dependencies of BCT signal on SSD, field size, and phantom material.Significance.Our results indicate that variations in BCT signal as a function of SSD, field size, and phantom material are likely driven by an electric field originating in dielectric materials exposed to the UHDR electron beam. Strategies such as Faraday shielding were shown to effectively prevent these electric fields from affecting BCT signal, enabling reliable BCT-based electron UHDR beam monitoring.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38640916/) · [DOI](https://doi.org/10.1088/1361-6560/ad40f7)
 
 
 ---
@@ -2529,6 +2648,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Plane-parallel ionization chambers are the recommended secondary standard systems for clinical reference dosimetry of electrons. Dosimetry in high dose rate and dose-per-pulse (DPP) is challenging as ionization chambers are subject to ion recombination, especially when dose rate and/or DPP is increased beyond the range of conventional radiotherapy.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study develops an XGBoost machine learning model to predict the ion-recombination correction factor (ksat) for plane-parallel Advanced Markus ionization chambers across conventional and ultra-high dose rate electron beams as a function of machine parameters. The model achieved R² = 0.94 on test data and was validated against 19 independent measurement points spanning conventional to UHDR regimes (dose-per-pulse up to 4+ Gy), showing agreement within uncertainties with the Petersson analytical model and superior performance to the Two-Voltage method at high DPP values (maximum deviation 14.2% for DPP &gt;4 Gy).
 
 
 ??? note "Abstract"
@@ -2550,6 +2673,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Cyclotron-based proton therapy systems utilize the highest proton energies to achieve an ultra-high dose rate (UHDR) for FLASH radiotherapy. The deep-penetrating range associated with this high energy can be modulated by inserting a uniform plate of proton-stopping material, known as a range shifter, in the beam path at the nozzle to bring the Bragg peak within the target while ensuring high proto…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo simulations in TOPAS and measurements with ionization chambers and a proton recoil scintillator characterized secondary neutron production during 225 MeV proton irradiation with aluminum versus plastic range shifters for FLASH delivery. Out-of-field secondary neutron dose equivalent per therapeutic dose with aluminum was 0.57 ± 0.02 mSv/Gy (simulated) and 0.46 ± 0.04 mSv/Gy (measured), exceeding solid water by ~70%, but remained below IEC non-primary radiation limits.
+
+
 ??? note "Abstract"
     BACKGROUND: Cyclotron-based proton therapy systems utilize the highest proton energies to achieve an ultra-high dose rate (UHDR) for FLASH radiotherapy. The deep-penetrating range associated with this high energy can be modulated by inserting a uniform plate of proton-stopping material, known as a range shifter, in the beam path at the nozzle to bring the Bragg peak within the target while ensuring high proton transport efficiency for UHDR. Aluminum has been recently proposed as a range shifter material mainly due to its high compactness and its mechanical properties. A possible drawback lies in the fact that aluminum has a larger cross-section of producing secondary neutrons compared to conventional plastic range shifters. Accordingly, an increase in secondary neutron contamination was expected during the delivery of range-modulated FLASH proton therapy, potentially heightening neutron-induced carcinogenic risks to the patient. PURPOSE: We conducted neutron dosimetry using simulations and measurements to evaluate excess dose due to neutron exposure during UHDR proton irradiation with aluminum range shifters compared to plastic range shifters. METHODS: Monte Carlo simulations in TOPAS were performed to investigate the secondary neutron production characteristics with aluminum range shifter during 225 MeV single-spot proton irradiation. The computational results were validated against measurements with a pair of ionization chambers in an out-of-field region ( ≤ $\le$  30 cm) and with a Proton Recoil Scintillator-Los Alamos rem meter in a far-out-of-field region (0.5-2.5 m). The assessments were repeated with solid water slabs as a surrogate for the conventional range shifter material to evaluate the impact of aluminum on neutron yield. The results were compared with the International Electrotechnical Commission (IEC) standards to evaluate the clinical acceptance of the secondary neutron yield. RESULTS: For a range modulation up to 26 cm in water, the maximum simulated and measured values of out-of-field secondary neutron dose equivalent per therapeutic dose with aluminum range shifter were found to be  ( 0.57 ± 0.02 )  mSv/Gy $(0.57\pm 0.02)\ \text{mSv/Gy}$  and  ( 0.46 ± 0.04 )  mSv/Gy $(0.46\pm 0.04)\ \text{mSv/Gy}$  , respectively, overall higher than the solid water cases (simulation:  ( 0.332 ± 0.003 )  mSv/Gy $(0.332\pm 0.003)\ \text{mSv/Gy}$  ; measurement:  ( 0.33 ± 0.03 )  mSv/Gy $(0.33\pm 0.03)\ \text{mSv/Gy}$  ). The maximum far out-of-field secondary neutron dose equivalent was found to be (  8.8 ± 0.5 $8.8 \pm 0.5$  )   μ Sv / Gy  $\umu {\rm Sv/Gy}$  and (  1.62 ± 0.02 $1.62 \pm 0.02$  )   μ Sv / Gy  $\umu {\rm Sv/Gy}$  for the simulations and rem meter measurements, respectively, also higher than the solid water counterparts (simulation: (  3.3 ± 0.3 $3.3 \pm 0.3$  )   μ Sv / Gy  $\umu {\rm Sv/Gy}$  ; measurement: (  0.63 ± 0.03 $0.63 \pm 0.03$  )   μ Sv / Gy  $\umu {\rm Sv/Gy}$  ). CONCLUSIONS: We conducted simulations and measurements of secondary neutron production under proton irradiation at FLASH energy with range shifters. We found that the secondary neutron yield increased when using aluminum range shifters compared to conventional materials while remaining well below the non-primary radiation limit constrained by the IEC regulations.
 
@@ -2567,6 +2694,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Dosimetry in pre-clinical FLASH studies is essential for understanding the beam delivery conditions that trigger the FLASH effect. Resolving the spatial and temporal characteristics of proton pencil beam scanning (PBS) irradiations with ultra-high dose rates (UHDR) requires a detector with high spatial and temporal resolution.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A scintillation imaging system with 0.1 mm spatial resolution and 2 ms temporal resolution was developed and validated for time-resolved two-dimensional monitoring of proton pencil beam scanning at ultra-high dose rate in preclinical mouse irradiations. The system measured spot profiles, spot positions (0.26–0.35 mm standard deviation versus planned positions), and relative instantaneous dose rate with linearity confirmed against fiber-coupled scintillator measurements. In vivo application demonstrated feasibility for tracking mouse leg position within a spread-out Bragg peak during both conventional and FLASH delivery.
 
 
 ??? note "Abstract"
@@ -2588,11 +2719,38 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Objective.The successful implementation of FLASH radiotherapy in clinical settings, with typical dose rates &gt;40 Gy s-1, requires accurate real-time dosimetry.Approach.Silicon carbide (SiC) p-n diode dosimeters designed for the stringent requirements of FLASH radiotherapy have been fabricated and characterized in an ultra-high pulse dose rate electron beam. The circular SiC PiN diodes were fabricat…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Silicon carbide p-n diode dosimeters were fabricated and characterized for ultra-high dose-per-pulse electron beam dosimetry. The circular SiC PiN diodes were tested in a 20 MeV electron beam at PTB&#x27;s reference facility, with dose-per-pulse up to 11 Gy and pulse durations from 3 to 0.5 μs. The diode response was independent of dose-per-pulse and pulse dose rate up to at least 11 Gy per pulse and 4 MGy/s, with relative dosimetry deviation &lt;3%, and demonstrated temporal resolution matching the beam pulse structure.
+
+
 ??? note "Abstract"
     Objective.The successful implementation of FLASH radiotherapy in clinical settings, with typical dose rates &gt;40 Gy s-1, requires accurate real-time dosimetry.Approach.Silicon carbide (SiC) p-n diode dosimeters designed for the stringent requirements of FLASH radiotherapy have been fabricated and characterized in an ultra-high pulse dose rate electron beam. The circular SiC PiN diodes were fabricated at IMB-CNM (CSIC) in 3μm epitaxial 4H-SiC. Their characterization was performed in PTB&#x27;s ultra-high pulse dose rate reference electron beam. The SiC diode was operated without external bias voltage. The linearity of the diode response was investigated up to doses per pulse (DPP) of 11 Gy and pulse durations ranging from 3 to 0.5μs. Percentage depth dose measurements were performed in ultra-high dose per pulse conditions. The effect of the total accumulated dose of 20 MeV electrons in the SiC diode sensitivity was evaluated. The temperature dependence of the response of the SiC diode was measured in the range 19 °C-38 °C. The temporal response of the diode was compared to the time-resolved beam current during each electron beam pulse. A diamond prototype detector (flashDiamond) and Alanine measurements were used for reference dosimetry.Main results.The SiC diode response was independent both of DPP and of pulse dose rate up to at least 11 Gy per pulse and 4 MGy s-1, respectively, with tolerable deviation for relative dosimetry (&lt;3%). When measuring the percentage depth dose under ultra-high dose rate conditions, the SiC diode performed comparably well to the reference flashDiamond. The sensitivity reduction after 100 kGy accumulated dose was &lt;2%. The SiC diode was able to follow the temporal structure of the 20 MeV electron beam even for irregular pulse estructures. The measured temperature coefficient was (-0.079 ± 0.005)%/°C.Significance.The results of this study demonstrate for the first time the suitability of silicon carbide diodes for relative dosimetry in ultra-high dose rate pulsed electron beams up to a DPP of 11 Gy per pulse.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38530300/) · [DOI](https://doi.org/10.1088/1361-6560/ad37eb)
+
+
+---
+
+### Methodology for small animals targeted irradiations at conventional and ultra-high dose rates 65 MeV proton beam.
+
+*Evin M, Koumeir C, Bongrand A, Delpon G, Haddad F, Mouchard Q et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** As part of translational research projects, mice may be irradiated on radiobiology platforms such as the one at the ARRONAX cyclotron. Generally, these platforms do not feature an integrated imaging system.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper describes methodology for targeted irradiation of mice (brain, lungs, intestines) using a 65 MeV proton beam at the ARRONAX cyclotron, comparing conventional and ultra-high dose-rate delivery. The work addresses treatment planning considerations specific to FLASH-RT, including respiratory motion quantification using fluoroscopy and 4D digital phantom (MOBY), beam geometry optimization via µCBCT and Monte Carlo simulation, and in vivo dosimetry validation using dose-rate-independent radiochromic film (OC-1) with LET-dependency characterization. No measured differences in beam characteristics were found between conventional and FLASH delivery modes.
+
+
+??? note "Abstract"
+    As part of translational research projects, mice may be irradiated on radiobiology platforms such as the one at the ARRONAX cyclotron. Generally, these platforms do not feature an integrated imaging system. Moreover, in the context of ultra-high dose-rate radiotherapy (FLASH-RT), treatment planning should consider potential changes in the beam characteristics and internal movements in the animal. A patient-like set-up and methodology has been implemented to ensure target coverage during conformal irradiations of the brain, lungs and intestines. In addition, respiratory cycle amplitudes were quantified by fluoroscopic acquisitions on a mouse, to ensure organ coverage and to assess the impact of respiration during FLASH-RT using the 4D digital phantom MOBY. Furthermore, beam incidence direction was studied from mice µCBCT and Monte Carlo simulations. Finally,in vivodosimetry with dose-rate independent radiochromic films (OC-1) and their LET dependency were investigated. The immobilization system ensures that the animal is held in a safe and suitable position. The geometrical evaluation of organ coverage, after the addition of the margins around the organs, was satisfactory. Moreover, no measured differences were found between CONV and FLASH beams enabling a single model of the beamline for all planning studies. Finally, the LET-dependency of the OC-1 film was determined and experimentally verified with phantoms, as well as the feasibility of using these filmsin vivoto validate the targeting. The methodology developed ensures accurate and reproducible preclinical irradiations in CONV and FLASH-RT without in-room image guidance in terms of positioning, dose calculation andin vivodosimetry.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38518627/) · [DOI](https://doi.org/10.1016/j.ejmp.2024.103332)
 
 
 ---
@@ -2605,6 +2763,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Dosimetry in ultra-high dose rate (UHDR) beamlines is significantly challenged by limitations in real-time monitoring and accurate measurement of beam output, beam parameters, and delivered doses using conventional radiation detectors, which exhibit dependencies in ultra-high dose-rate (UHDR) and high dose-per-pulse (DPP) beamline conditions. PURPOSE: In this study, we characterized the response o…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Characterization of the Exradin W2 plastic scintillator detector for ultra-high dose rate electron beams. The W2 demonstrated mean dose rate independence and linearity for dose-per-pulse ≤1.5 Gy (mean dose rate up to 290 Gy/s) and pulse repetition frequency ≤90 Hz, with proper calibration for pulse-width dependence and radiation-induced signal sensitivity changes (4%/kGy for blue signal, 0.3%/kGy for green signal). At dose-per-pulse &gt;1.5 Gy, nonlinear behavior and signal saturation appeared. Pulse-width dependence reached 31–54% in the absence of Cerenkov correction.
 
 
 ??? note "Abstract"
@@ -2626,6 +2788,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Scintillation dosimetry has promising qualities for ultra-high dose rate (UHDR) radiotherapy (RT), but no system has shown compatibility with mean dose rates (DR-) above 100 Gy/s and doses per pulse (Dp) exceeding 1.5 Gy typical of UHDR (FLASH)-RT. The aim of this study was to characterize a novel scintillator dosimetry system with the potential of accommodating UHDRs.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A novel scintillation dosimetry system was characterized on an ultra-high dose rate electron beamline. The system demonstrated dose linearity (±3% tolerance) independent of mean dose rate (1.8–1341 Gy/s) and dose-per-pulse (0.005–7.68 Gy), with a 6% signal reduction as pulse dose rate increased from 8.9×10⁴ to 1.8×10⁶ Gy/s. The system provided millisecond-resolved, real-time measurement of individual pulses up to 120 Hz with day-to-day signal variation of ±13% but intraday consistency of ±2%, requiring daily calibration and pulse-dose-rate-specific correction factors.
+
+
 ??? note "Abstract"
     BACKGROUND: Scintillation dosimetry has promising qualities for ultra-high dose rate (UHDR) radiotherapy (RT), but no system has shown compatibility with mean dose rates (DR-) above 100 Gy/s and doses per pulse (Dp) exceeding 1.5 Gy typical of UHDR (FLASH)-RT. The aim of this study was to characterize a novel scintillator dosimetry system with the potential of accommodating UHDRs. METHODS AND MATERIALS: A thorough dosimetric characterization of the system was performed on an UHDR electron beamline. The system&#x27;s response as a function of dose, DR-,Dp, and the pulse dose rate DRp was investigated, together with the system&#x27;s dose sensitivity (signal per unit dose) as a function of dose history. The capabilities of the system for time-resolved dosimetric readout were also evaluated. RESULTS: Within a tolerance of ±3%, the system exhibited dose linearity and was independent of DR- and Dp within the tested ranges of 1.8-1341 Gy/s and 0.005-7.68 Gy, respectively. A 6% reduction in the signal per unit dose was observed as DRp was increased from 8.9e4-1.8e6 Gy/s. Additionally, the dose delivered per integration window of the continuously sampling photodetector had to remain between 0.028 and 11.64 Gy to preserve a stable signal response per unit dose. The system accurately measured Dp of individual pulses delivered at up to 120 Hz. The day-to-day variation of the signal per unit dose at a reference setup varied by up to ±13% but remained consistent (&lt;±2%) within each day of measurements and showed no signal loss as a function of dose history. CONCLUSIONS: With daily calibrations and DRp specific correction factors, the system reliably provides real-time, millisecond-resolved dosimetric measurements of pulsed conventional and UHDR beams from typical electron linacs, marking an important advancement in UHDR dosimetry and offering diverse applications to FLASH-RT and related fields.
 
@@ -2643,6 +2809,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** We conducted a multi-institutional dosimetric audit between FLASH and conventional dose rate (CONV) electron irradiations by using an anatomically realistic 3-dimensional (3D) printed mouse phantom. METHODS AND MATERIALS: A computed tomography (CT) scan of a live mouse was used to create a 3D model of bony anatomy, lungs, and soft tissue.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Multi-institutional dosimetric audit comparing FLASH and conventional dose rate electron irradiation using a 3D-printed anatomically realistic mouse phantom with nonhomogeneous soft tissue, bone, and lung densities. Three institutions performed replicate irradiations at selected anatomic regions; mean dose differences between FLASH and conventional decreased from 4.3% to 1.2% between replicates, with deviations from prescribed dose of 2.5–2.7% for FLASH and 2.5% for conventional. The study demonstrates a framework for multi-institutional dosimetric credentialing in FLASH preclinical research using nonhomogeneous phantoms.
 
 
 ??? note "Abstract"
@@ -2664,6 +2834,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Objective. Very high energy electrons (VHEE) in the range of 50-250 MeV are of interest for treating deep-seated tumours with FLASH radiotherapy (RT).
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A fibre optic Cherenkov-based beam monitor (FOFM) was developed and tested for real-time dose and beam profile monitoring in 160–200 MeV electron beams at ultra-high dose rates up to 57.4 Gy/pulse. The device demonstrated linear response (R² = 0.999) across the tested dose-rate range, independence of energy and instantaneous dose rate, and pulse-by-pulse beam size measurement capability comparable to radiochromic film and YAG screens. The FOFM is proposed as an alternative to transmission ionisation chambers, which exhibit non-linear responses at UHDR.
+
+
 ??? note "Abstract"
     Objective. Very high energy electrons (VHEE) in the range of 50-250 MeV are of interest for treating deep-seated tumours with FLASH radiotherapy (RT). This approach offers favourable dose distributions and the ability to deliver ultra-high dose rates (UHDR) efficiently. To make VHEE-based FLASH treatment clinically viable, a novel beam monitoring technology is explored as an alternative to transmission ionisation monitor chambers, which have non-linear responses at UHDR. This study introduces the fibre optic flash monitor (FOFM), which consists of an array of silica optical fibre-based Cherenkov sensors with a photodetector for signal readout.Approach. Experiments were conducted at the CLEAR facility at CERN using 200 MeV and 160 MeV electrons to assess the FOFM&#x27;s response linearity to UHDR (characterised with radiochromic films) required for FLASH radiotherapy. Beam profile measurements made on the FOFM were compared to those using radiochromic film and scintillating yttrium aluminium garnet (YAG) screens.Main results. A range of photodetectors were evaluated, with a complementary-metal-oxide-semiconductor (CMOS) camera being the most suitable choice for this monitor. The FOFM demonstrated excellent response linearity from 0.9 Gy/pulse to 57.4 Gy/pulse (R2= 0.999). Furthermore, it did not exhibit any significant dependence on the energy between 160 MeV and 200 MeV nor the instantaneous dose rate. Gaussian fits applied to vertical beam profile measurements indicated that the FOFM could accurately provide pulse-by-pulse beam size measurements, agreeing within the error range of radiochromic film and YAG screen measurements, respectively.Significance. The FOFM proves to be a promising solution for real-time beam profile and dose monitoring for UHDR VHEE beams, with a linear response in the UHDR regime. Additionally it can perform pulse-by-pulse beam size measurements, a feature currently lacking in transmission ionisation monitor chambers, which may become crucial for implementing FLASH radiotherapy and its associated quality assurance requirements.
 
@@ -2681,6 +2855,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** FLASH Radiotherapy (RT) is an emergent cancer RT modality where an entire therapeutic dose is delivered at more than 1000 times higher dose rate than conventional RT. For clinical trials to be conducted safely, a precise and fast beam monitor that can generate out-of-tolerance beam interrupts is required.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Development and characterization of a prototype scintillator-based real-time beam monitor (FBSM) for ultra-high dose rate radiotherapy using a novel hybrid material. The device was tested in pulsed electron beams at dose rates exceeding 40 Gy/s and scanning proton pencil beams at 10–20 kHz. The scintillator demonstrated linear response across the FLASH dose-rate range, minimal radiation damage (0.025%/kGy signal decrease over 216 kGy cumulative dose at 237 Gy/s), spatial resolution of 35–40 µm, and real-time data processing in under 50 µs, enabling fast beam-interrupt capability for clinical trial safety.
 
 
 ??? note "Abstract"
@@ -2702,11 +2880,38 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** The conventional theories and methods of determining the ion recombination correction factor, such as Boag theory and the related two voltage method and Jaffé plot extrapolation, do not seem to yield accurate results in FLASH /high dose per pulse (DPP) beams ( &gt; $&amp;gt;$  10 mGy DPP). This is due to the presence of a large free electron fraction that distorts the electric field inside the chamber se…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A mathematical procedure using the homotopy perturbation method is developed to determine the ion recombination correction factor in ionization chambers exposed to high dose-per-pulse beams. The analysis includes space charge and free electron effects, yielding a 1/V² dependency for the correction factor. The proposed fit procedure agrees with measured data to within 6% for dose-per-pulse values up to 1 Gy (1 mm plate separation) and 3 Gy (0.5 mm plate separation), with applicability decreasing at higher dose rates.
+
+
 ??? note "Abstract"
     BACKGROUND: The conventional theories and methods of determining the ion recombination correction factor, such as Boag theory and the related two voltage method and Jaffé plot extrapolation, do not seem to yield accurate results in FLASH /high dose per pulse (DPP) beams ( &gt; $&amp;gt;$  10 mGy DPP). This is due to the presence of a large free electron fraction that distorts the electric field inside the chamber sensitive volume. To understand the influence of these effects on the ion recombination correction factor and to develop new expressions for it, it is necessary to re-visit the underlying physics. PURPOSE: To present a mathematical procedure to develop an analytical expression for the ion recombination correction factor. The expression is the basis for an extrapolation method so the correction factor can be determined in a clinical setting. METHODS: A semi-analytical solution method, the homotopy perturbation method (HPM), is used to solve the partial differential equations (PDEs) describing the charge carrier physics, including space charge and free electrons. The electron velocity and attachment rate are modeled as functions of the electric field strength. An expression for the charge collection efficiency and ion recombination correction factor are developed. A fit procedure based on this expression is used to compare it to measured data from previously published articles. Another fit procedure using a general equation is also proposed and compared to the data. RESULTS: The series obtained for the charge collection efficiency and the ion recombination correction factor are determined to be asymptotic series and the optimal truncation established. The ion recombination correction factor exhibits a  1 / V 2  $1/V^2$  dependency due to the free electron presence. The fit using this expression agrees well with measured data as long as (1) the DPP is below 1 Gy for chambers with a 1 mm plate separation and (2) when the DPP is below 3 Gy for chambers with a 0.5 mm plate separation. In these DPP ranges, the deviation between measured and fit value did not exceed 6%. In both chamber cases the voltage range where the fit applies decreases as DPP increases. The general equation yielded comparable results. CONCLUSIONS: The HPM was shown to be applicable to a complex system of PDEs and generate meaningful and novel solutions, as they include both space charge and free electrons. The HPM also lends itself to other chamber geometries. The fit procedure was also shown to yield accurate results for the ion recombination correction up to the 1 Gy DPP level.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38446555/) · [DOI](https://doi.org/10.1002/mp.17005)
+
+
+---
+
+### Imaging and characterization of optical emission fromex vivotissue during conventional and UHDR PBS proton therapy.
+
+*Vasyltsiv R, Rahman M, Harms J, Clark M, Gladstone DJ, Pogue BW et al.* — Physics in medicine and biology (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+
+
+**TL;DR.** Objective. Imaging of optical photons emitted from tissue during radiotherapy is a promising technique for real-time visualization of treatment delivery, offering applications in dose verification, treatment monitoring, and retrospective treatment plan comparison.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study demonstrates intensified CMOS imaging of optical photon emission from ex vivo porcine tissue and tissue-mimicking phantoms during conventional and ultra-high dose rate pencil beam scanning proton therapy (250 MeV, 99 nA). Optical spot profiles agreed with treatment planning system calculations within &gt;90% under conventional dose rates, and imaging at 1 kHz frame rate enabled continuous monitoring and identification of individual dwell positions during UHDR delivery, establishing feasibility of fast optical beam tracking for both conventional and UHDR proton treatments.
+
+
+??? note "Abstract"
+    Objective. Imaging of optical photons emitted from tissue during radiotherapy is a promising technique for real-time visualization of treatment delivery, offering applications in dose verification, treatment monitoring, and retrospective treatment plan comparison. This research aims to explore the feasibility of intensified imaging of tissue luminescence during proton therapy (PT), under both conventional and ultra-high dose rate (UHDR) conditions.Approach. Conventional and UHDR pencil beam scanning (PBS) PT irradiation of freshex vivoporcine tissue and tissue-mimicking plastic phantom was imaged using intensified complementary metal-oxide-semiconductor(CMOS) cameras. The optical emission from tissue was characterized during conventional irradiation using both blue and red-sensitive intensifiers to ensure adequate spectral coverage. Spectral characterization was performed using bandpass filters between the lens and sensor. Imaging of conventional proton fields (240 MeV, 10 nA) was performed at 100 Hz frame rate, while UHDR PBS proton delivery (250 MeV, 99 nA) was recorded at 1 kHz frame rate. Dependence of optical emission yield on proton energy was studied using an optical tissue-mimicking plastic phantom and a range shifter. Finally, we demonstrated fast beam tracking capability of fast camera towardsin vivomonitoring of FLASH PT.Main results. Under conventional treatment dose rates optical emission was imaged with single spot resolution. Spot profiles were found to agree with the treatment planning system calculation within &gt;90% for all spectral bands and spot intensity was found to vary with spectral filtration. The resultant polychromatic emission presented a maximum intensity at 650 nm and decreasing signal at lower wavelengths, which is consistent with expected attenuation patterns of high fat and muscle tissue. For UHDR beam imaging, optical yield increased with higher proton energy. Imaging at 1 kHz allowed continuous monitoring of delivery during porcine tissue irradiation, with clear identification of individual dwell positions. The number of dwell positions matched the treatment plan in total and per row showing adequate temporal capability of iCMOS imaging.Significance. For the first time, this study characterizes optical emission from tissue during PT and demonstrates our capability of fast optical tracking of pencil proton beam on the tissue anatomy in both conventional and UHDR setting. Similar to the Cherenkov imaging in radiotherapy, this imaging modality could enable a seamless, independent validation of PT treatments.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38422545/) · [DOI](https://doi.org/10.1088/1361-6560/ad2ee6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10945384/)
 
 
 ---
@@ -2719,6 +2924,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Accurate dosimetry of ultra-high dose-rate beams using diamond detectors remains challenging, primarily due to the elevated photocurrent peaks exceeding the input dynamics of precision electrometers. This work aimed at demonstrating the effectiveness of compact gated-integration electronics in conditioning the current peaks (&gt;20 mA) generated by a highly sensitive (S ≃ 26 nC/Gy) custom-made diamon…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work demonstrates a compact gated-integration readout system for highly sensitive diamond detectors under electron ultra-high dose rate irradiation. The system conditions photocurrent peaks exceeding 20 mA generated by a custom diamond photoconductor with sensitivity of approximately 26 nC/Gy and enables real-time monitoring of beam dose and dose rate. The study evaluates the effectiveness of the readout electronics in managing the elevated current transients characteristic of FLASH dosimetry.
 
 
 ??? note "Abstract"
@@ -2740,11 +2949,38 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** This study aims to investigate the feasibility of enhancing the charge collection efficiency (CCE) of a transmission chamber by reconfiguring its design and operation. The goal was to extend the range of dose-per-pulse (DPP) values with no or minimal recombination effects up to the ultra-high dose rate (UHDR) regime.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study investigates charge collection efficiency (CCE) of reconfigured plane-parallel transmission ionization chambers operating at ultra-high dose rates using a 10 MeV FLASH-modified linear accelerator. Two chambers with 1 mm and 0.6 mm electrode spacings were tested across nominal dose-per-pulse values from 0.6 mGy to 0.9 Gy per pulse, at applied voltages of 320 V and 1,200 V. At the optimal configuration (1,200 V, 0.6 mm spacing), CCE remained approximately 100% up to 70 Gy/s mean dose rate, substantially extending the chamber&#x27;s operating range into the UHDR regime compared to standard voltage operation.
+
+
 ??? note "Abstract"
     This study aims to investigate the feasibility of enhancing the charge collection efficiency (CCE) of a transmission chamber by reconfiguring its design and operation. The goal was to extend the range of dose-per-pulse (DPP) values with no or minimal recombination effects up to the ultra-high dose rate (UHDR) regime. The response of two transmission chambers, with electrode distance of 1 mm and 0.6 mm, respectively, was investigated as a function of applied voltage. The chambers were mounted one-by-one in the electron applicator of a 10 MeV FLASH-modified clinical linear accelerator. The chamber signals were measured as a function of nominal DPP, which was determined at the depth of dose maximum using EBT-XD film in solid water and ranged from 0.6 mGy per pulse to 0.9 Gy per pulse, for both the standard voltage of 320 V and the highest possible safe voltage of 1,200 V. The CCE was calculated and fitted with an empirical logistic function that incorporated the electrode distance and the chamber voltage. The CCE decreased with increased DPP. The CCE at the highest achievable DPP was 24% (36%) at 320 V and 51% (82%) at 1,200 V, for chambers with 1 mm (0.6 mm) electrode distance. For the combination of 1,200 V- and 0.6-mm electrode distance, the CCE was ∼100% for average dose rate up to 70 Gy/s at the depth of dose maximum in the phantom at a source-to-surface distance of 100 cm. Our findings indicate that minor modifications to a plane-parallel transmission chamber can substantially enhance the CCE and extending the chamber&#x27;s operating range to the UHDR regime. This supports the potential of using transmission chamber-based monitoring solutions for UHDR beams, which could facilitate the delivery of UHDR treatments using an approach similar to conventional clinical delivery.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38308528/) · [DOI](https://doi.org/10.1667/RADE-23-00177.1)
+
+
+---
+
+### Extending deterministic transport capabilities for very-high and ultra-high energy electron beams.
+
+*Naceur A, Bienvenue C, Romano P, Chilian C, Carrier JF* — Scientific reports (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Focused Very-High Energy Electron (VHEE, 50-300 MeV) and Ultra-High Energy Electron (UHEE, &gt; 300 MeV) beams can accurately target both large and deeply seated human tumors with high sparing properties, while avoiding the spatial requirements and cost of proton and heavy ion facilities. Advanced testing phases are underway at the CLEAR facilities at CERN (Switzerland), NLCTA at Stanford (USA), and …
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper extends deterministic transport methods (Boltzmann-Fokker-Planck formalism via the NJOY-DRAGON nuclear-reactor code chain) to model very-high energy electron (VHEE, 50–300 MeV) and ultra-high energy electron (UHEE, &gt;300 MeV) beams. The authors validate their approach against Monte Carlo benchmarks in water and tissue-equivalent materials across the periodic table, reporting that &gt;95% of water voxels show BFP-MC deviation below 2% for energies under 300 MeV, with similar performance in bone, lung, adipose, muscle, soft tissue, and tumor materials between 50 and 300 MeV. The work aims to provide an alternative computational paradigm to Monte Carlo for preclinical and clinical dose calculation in VHEE/UHEE applications.
+
+
+??? note "Abstract"
+    Focused Very-High Energy Electron (VHEE, 50-300 MeV) and Ultra-High Energy Electron (UHEE, &gt; 300 MeV) beams can accurately target both large and deeply seated human tumors with high sparing properties, while avoiding the spatial requirements and cost of proton and heavy ion facilities. Advanced testing phases are underway at the CLEAR facilities at CERN (Switzerland), NLCTA at Stanford (USA), and SPARC at INFN (Italy), aiming to accelerate the transition to clinical application. Currently, Monte Carlo (MC) transport is the sole paradigm supporting preclinical trials and imminent clinical deployment. In this paper, we propose an alternative: the first extension of the nuclear-reactor deterministic chain NJOY-DRAGON for VHEE and UHEE applications. We have extended the Boltzmann-Fokker-Planck (BFP) multigroup formalism and validated it using standard radio-oncology benchmarks, complex assemblies with a wide range of atomic numbers, and comprehensive irradiation of the entire periodic table. We report that \[Formula: see text\] of water voxels exhibit a BFP-MC deviation below \[Formula: see text\] for electron energies under \[Formula: see text\]. Additionally, we demonstrate that at least \[Formula: see text\] of voxels of bone, lung, adipose tissue, muscle, soft tissue, tumor, steel, and aluminum meet the same criterion between \[Formula: see text\] and \[Formula: see text\]. For water, the thorax, and the breast intra-operative benchmark, typical average BFP-MC deviations of \[Formula: see text\] and \[Formula: see text\] were observed at \[Formula: see text\] and \[Formula: see text\], respectively. By irradiating the entire periodic table, we observed similar performance between lithium (\[Formula: see text\]) and cerium (\[Formula: see text\]). Deficiencies observed between praseodymium (\[Formula: see text\]) and einsteinium (\[Formula: see text\]) have been reported, analyzed, and quantified, offering critical insights for the ongoing development of the Evaluated Nuclear Data File mode in NJOY.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38307920/) · [DOI](https://doi.org/10.1038/s41598-023-51143-8) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11226718/)
 
 
 ---
@@ -2759,30 +2995,15 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** The interest of using fiber Bragg gratings (FBGs) dosimeters in radiotherapy (RT) lies in their (i) microliter detection volume, (ii) customizable spatial resolution, (iii) multi-point dose measurement, (iv) real-time data acquisition and (v) insensitivity to Cherenkov light. These characteristics could prove very useful for characterizing dose distributions of small and nonstandard fields with hi…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A fiber Bragg grating (FBG) multi-point calorimeter was developed for small-field dosimetry in radiotherapy using a 3 cm-long detector with 30 co-located ~1 mm-long gratings embedded in a plastic cylinder. Irradiations at 600 MU/min with 6 MV photons on a Varian TrueBeam showed dose profile measurements with 1.8% mean relative difference and output factors in agreement with expected values. The detector response was energy-independent within 5% across different photon and electron beam energies. The abstract mentions potential application to FLASH dosimetry, noting that FBGs have been used to measure doses up to 100 kGy.
+
+
 ??? note "Abstract"
     BACKGROUND: The interest of using fiber Bragg gratings (FBGs) dosimeters in radiotherapy (RT) lies in their (i) microliter detection volume, (ii) customizable spatial resolution, (iii) multi-point dose measurement, (iv) real-time data acquisition and (v) insensitivity to Cherenkov light. These characteristics could prove very useful for characterizing dose distributions of small and nonstandard fields with high spatial resolution. PURPOSE: We developed a multi-point FBGs dosimeter customized for small field RT dosimetry with a spatial resolution of ∼ $\sim$  1 mm. METHODS: The 3 cm-long multi-point dosimeter is made by embedding a 80  μ m $\umu{\rm {m}}$  silica fiber containing an array of thirty (30) co-located ∼ $\sim$  1 mm-long fs-written FBGs inside a plastic cylinder with an UV curing optical adhesive. With its higher thermal expansion coefficient, the plastic cylinder increases the sensitivity of the dosimeter by stretching the fiber containing the FBGs when the temperature rises slightly due to radiation energy deposition. Irradiations (2000 MU at 600 MU/min) were performed with a Varian TrueBeam linear accelerator. RESULTS: The dose profile of a 2  × $ \times$  2 cm   2 $^{2}$  6 MV beam was measured with a mean relative difference of 1.8% (excluding the penumbra region). The measured output factors for a 6 MV beam are in general agreement with the expected values within the experimental uncertainty (except for the 2    × $\,\times $  2 cm   2 $^{2}$  field). The detector response to different energy of photon and electron beams is within 5% of the mean response (  0.068 ± 0.002 $0.068\pm 0.002$   pm/Gy). The calorimeter&#x27;s post-irradiation thermal decay is in agreement with the theory. CONCLUSIONS: An energy-independent small field calorimeter that allows dose profile and output factor measurements for RT using FBGs was developed, which, to our knowledge, has never been done before. This type of detector could prove really useful for small field dosimetry, but also potentially for MRI-LINAC since FBGs are insensitive to magnetic fields and for FLASH since FBGs have been used to measure doses up to 100 kGy.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38295013/) · [DOI](https://doi.org/10.1002/mp.16955)
-
-
----
-
-### Feasibility of Synchrotron-Based Ultra-High Dose Rate (UHDR) Proton Irradiation with Pencil Beam Scanning for FLASH Research.
-
-*Yin L, Masumi U, Ota K, Sforza DM, Miles D, Rezaee M et al.* — Cancers (2024)  
-
-<span class="badge oa">Open access</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
-
-
-**TL;DR.** This study aims to present the feasibility of developing a synchrotron-based proton ultra-high dose rate (UHDR) pencil beam scanning (PBS) system. METHODS: The RF extraction power in the synchrotron system was increased to generate 142.4 MeV pulsed proton beams for UHDR irradiation at ~100 nA beam current.
-
-
-??? note "Abstract"
-    BACKGROUND: This study aims to present the feasibility of developing a synchrotron-based proton ultra-high dose rate (UHDR) pencil beam scanning (PBS) system. METHODS: The RF extraction power in the synchrotron system was increased to generate 142.4 MeV pulsed proton beams for UHDR irradiation at ~100 nA beam current. The charge per spill was measured using a Faraday cup. The spill length and microscopic time structure of each spill was measured with a 2D strip transmission ion chamber. The measured UHDR beam fluence was used to derive the spot dwell time for pencil beam scanning. Absolute dose distributions at various depths and spot spacings were measured using Gafchromic films in a solid-water phantom. RESULTS: For proton UHDR beams at 142.4 MeV, the maximum charge per spill is 4.96 ± 0.10 nC with a maximum spill length of 50 ms. This translates to an average beam current of approximately 100 nA during each spill. Using a 2 × 2 spot delivery pattern, the delivered dose per spill at 5 cm and 13.5 cm depth is 36.3 Gy (726.3 Gy/s) and 56.2 Gy (1124.0 Gy/s), respectively. CONCLUSIONS: The synchrotron-based proton therapy system has the capability to deliver pulsed proton UHDR PBS beams. The maximum deliverable dose and field size per pulse are limited by the spill length and extraction charge.
-
-
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38201648/) · [DOI](https://doi.org/10.3390/cancers16010221) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10778151/)
 
 
 ---
@@ -2795,6 +3016,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Objective.The aim of this work is to investigate the dose rate dependence of thermoluminescence and optically stimulated luminescence detectors (TLDs and OSLDs) in a wide uniform ultra-high dose rate electron beam and demonstrate the potential use of TLDs and OSLDs to correct the ion recombination in air-filled ionization chambers. This study avoids previously reported complications related to the…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study investigates the dose-rate dependence of thermoluminescence detectors (TLDs: LiF:Mg,Ti; LiF:Mg,Cu,P; CaF2:Tm) and optically stimulated luminescence detectors (OSLDs: BeO and Al2O3:C) across instantaneous dose rates from 2 × 10² to 3 × 10⁵ Gy/s using a modified 16 MeV clinical C-arm LINAC delivering doses per pulse between 8.3 × 10⁻⁴ and 1.255 Gy. All detector types showed no significant dose-rate dependence across the investigated range, with Al2O3:C OSLD demonstrating the best precision (&lt;2% standard deviation at all dose rates). The authors propose using dose-rate-independent OSLDs to measure dose per pulse and correct for ion recombination in ionization chambers at ultra-high dose rates.
 
 
 ??? note "Abstract"
@@ -2816,6 +3041,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** A first irradiation platform capable of delivering 10 MV X-ray beams at ultra-high dose rates (UHDR) has been developed and characterized for FLASH radiobiological research at TRIUMF. Delivery of both UHDR (FLASH mode) and low dose-rate conventional (CONV mode) irradiations was demonstrated using a common source and experimental setup.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A novel 10 MV X-ray source capable of delivering ultra-high dose rates was developed and characterized at TRIUMF for FLASH radiobiological research. Dose rates of 82.6 Gy/s (FLASH mode) and 0.044 Gy/s (conventional mode) were measured using film dosimetry and a non-intercepting beam monitoring device. The source delivered doses exceeding 40 Gy/s over field sizes greater than 1 cm to depths of 4.1 cm, suitable for mouse thoracic irradiations. Four groups of C57Bl/6J mice received 15 or 30 Gy doses in either FLASH or conventional modes, demonstrating successful administration of 10 MV ultra-high dose rate X-rays to healthy mouse models for the first time.
+
+
 ??? note "Abstract"
     A first irradiation platform capable of delivering 10 MV X-ray beams at ultra-high dose rates (UHDR) has been developed and characterized for FLASH radiobiological research at TRIUMF. Delivery of both UHDR (FLASH mode) and low dose-rate conventional (CONV mode) irradiations was demonstrated using a common source and experimental setup. Dose rates were calculated using film dosimetry and a non-intercepting beam monitoring device; mean values for a 100 μA pulse (peak) current were nominally 82.6 and 4.40 × 10-2 Gy/s for UHDR and CONV modes, respectively. The field size for which &gt; 40 Gy/s could be achieved exceeded 1 cm down to a depth of 4.1 cm, suitable for total lung irradiations in mouse models. The calculated delivery metrics were used to inform subsequent pre-clinical treatments. Four groups of 6 healthy male C57Bl/6J mice were treated using thoracic irradiations to target doses of either 15 or 30 Gy using both FLASH and CONV modes. Administration of UHDR X-ray irradiation to healthy mouse models was demonstrated for the first time at the clinically-relevant beam energy of 10 MV.
 
@@ -2833,6 +3062,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Ultra-high dose rate radiation (UHDR) is being explored by researchers in promise of advancing radiation therapy treatments. PURPOSE: This work presents the commissioning of Varian&#x27;s Flash Extension for research (FLEX) conversion of a Clinac to deliver UHDR electrons.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This technical note describes commissioning of a Varian Clinac iX converted with the FLEX extension to deliver 16 MeV ultra-high dose rate electrons for non-clinical research. Beam profiles, percent depth dose, dose per pulse, and instantaneous dose rate were characterized using radiochromic film and ionization chamber measurements. Maximum dose per pulse was 3.4 Gy at 61.3 cm SSD (instantaneous dose rate 8.1E5 Gy/s) and 1.08 Gy at 100 cm SSD (instantaneous dose rate 2E5 Gy/s). Machine output showed linearity with pulse number (R = 1) from 1–99 pulses and output stability within ±1% same-session and ±2% day-to-day.
 
 
 ??? note "Abstract"
@@ -2854,11 +3087,38 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Applying ultra-high dose rates to radiation therapy, otherwise known as FLASH, has been shown to be just as effective while sparing more normal tissue compared to conventional radiation therapy. However, there is a need for a dosimeter that is able to detect such high instantaneous dose, particularly in vivo.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo simulation study evaluating protoacoustics as a real-time in vivo dosimetry method for FLASH proton therapy. Dose distributions from proton pencil beams were calculated using TOPAS, and acoustic signal propagation was modeled using k-Wave. Simulations explored dose-per-pulse and pulsewidth variations (0.1–10 μs) relevant to FLASH delivery, demonstrating linear response to increasing dose-per-pulse and successful 2D and 3D reconstruction with an 8 cm × 8 cm planar detector array, suggesting feasibility for clinical in vivo dosimetry during FLASH treatments.
+
+
 ??? note "Abstract"
     BACKGROUND: Applying ultra-high dose rates to radiation therapy, otherwise known as FLASH, has been shown to be just as effective while sparing more normal tissue compared to conventional radiation therapy. However, there is a need for a dosimeter that is able to detect such high instantaneous dose, particularly in vivo. To fulfill this need, protoacoustics is introduced, which is an in vivo range verification method with submillimeter accuracy. PURPOSE: The purpose of this work is to demonstrate the feasibility of using protoacoustics as a method of in vivo real-time monitoring during FLASH proton therapy and investigating the resulting protoacoustic signal when dose per pulse and pulsewidth are varied through multiple simulation studies. METHODS: The dose distribution of a proton pencil beam was calculated through a Monte Carlo toolbox, TOPAS. Next, the k-Wave toolbox in MATLAB was used for performing protoacoustic simulations, where the initial proton dose deposition was inputted to model acoustic propagations, which were also used for reconstructions. Simulations involving the manipulation of the dose per pulse and pulsewidth were performed, and the temporal and spatial resolution for protoacoustic reconstructions were investigated as well. A 3D reconstruction was performed with a multiple beam spot profile to investigate the spatial resolution as well as determine the feasibility of 3D imaging with protoacoustics. RESULTS: Our results showed consistent linearity in the increasing dose-per-pulse, even up to rates considered for FLASH. The simulations and reconstructions were performed for a range of pulsewidths from 0.1 to 10 μs. The results show the characteristics of the proton beam after convolving the protoacoustic signal with the varying pulsewidths. 3D reconstruction was successfully performed with each beam being distinguishable using an 8 cm × 8 cm planar array. These simulation results show that measurements using protoacoustics has the potential for in vivo dosimetry in FLASH therapy during patient treatments in real time. CONCLUSION: Through this simulation study, the use of protoacoustics in FLASH therapy was verified and explored through observations of varying parameters, such as the dose per pulse and pulsewidth. 2D and 3D reconstructions were also completed. This study shows the significance of using protoacoustics and provides necessary information, which can further be explored in clinical settings.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38116792/) · [DOI](https://doi.org/10.1002/mp.16894) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11186976/)
+
+
+---
+
+### Multi-institutional consensus on machine QA for isochronous cyclotron-based systems delivering ultra-high dose rate (FLASH) pencil beam scanning proton therapy in transmission mode.
+
+*Spruijt K, Mossahebi S, Lin H, Lee E, Kraus J, Dhabaan A et al.* — Medical physics (2024)  
+
+<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** The first clinical trials to assess the feasibility of FLASH radiotherapy in humans have started (FAST-01, FAST-02) and more trials are foreseen. To increase comparability between trials it is important to assure treatment quality and therefore establish a standard for machine quality assurance (QA).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    An international working group conducted a multi-institutional risk assessment to establish consensus guidelines for machine quality assurance (QA) specific to ultra-high dose rate (UHDR) proton beams delivered via isochronous cyclotron-based systems in transmission mode pencil beam scanning. The assessment identified gaps in the existing AAPM TG-224 standard, particularly regarding temporal dosimetry, dose rate constancy, dose spillage, and scanning speed verification. The group reached consensus on required QA procedures and proposed adaptations including specification of dose rate levels, use of clinically relevant dose levels, and detector selection to minimize saturation and activation effects. The work also identified deficiencies in high temporal resolution detectors and insufficient QA data to establish appropriate tolerance limits for some procedures.
+
+
+??? note "Abstract"
+    BACKGROUND: The first clinical trials to assess the feasibility of FLASH radiotherapy in humans have started (FAST-01, FAST-02) and more trials are foreseen. To increase comparability between trials it is important to assure treatment quality and therefore establish a standard for machine quality assurance (QA). Currently, the AAPM TG-224 report is considered as the standard on machine QA for proton therapy, however, it was not intended to be used for ultra-high dose rate (UHDR) proton beams, which have gained interest due to the observation of the FLASH effect. PURPOSE: The aim of this study is to find consensus on practical guidelines on machine QA for UHDR proton beams in transmission mode in terms of which QA is required, how they should be done, which detectors are suitable for UHDR machine QA, and what tolerance limits should be applied. METHODS: A risk assessment to determine the gaps in the current standard for machine QA was performed by an international group of medical physicists. Based on that, practical guidelines on how to perform machine QA for UHDR proton beams were proposed. RESULTS: The risk assessment clearly identified the need for additional guidance on temporal dosimetry, addressing dose rate (constancy), dose spillage, and scanning speed. In addition, several minor changes from AAPM TG-224 were identified; define required dose rate levels, the use of clinically relevant dose levels, and the use of adapted beam settings to minimize activation of detector and phantom materials or to avoid saturation effects of specific detectors. The final report was created based on discussions and consensus. CONCLUSIONS: Consensus was reached on what QA is required for UHDR scanning proton beams in transmission mode for isochronous cyclotron-based systems and how they should be performed. However, the group discussions also showed that there is a lack of high temporal resolution detectors and sufficient QA data to set appropriate limits for some of the proposed QA procedures.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38103260/) · [DOI](https://doi.org/10.1002/mp.16854)
 
 
 ---
@@ -2871,6 +3131,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** The FLASH effect of carbon ion therapy has recently attracted significant attention from the scientific community. However, the radiobiological mechanism of the effect and the exact therapeutic conditions are still under investigation.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Design and validation of a low-pressure ionization chamber for online dose monitoring in FLASH carbon ion radiotherapy. The chamber was tested at pressures of 10, 80, and 845 mbar. At 10 mbar, dose linearity was verified and calibrated at ~50 Gy/s with residuals less than 2%, demonstrating suitability for online dose monitoring at ultra-high dose rate.
 
 
 ??? note "Abstract"
@@ -2892,6 +3156,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Dosimetry in ultra-high dose rate (UHDR) electron beamlines poses a significant challenge owing to the limited usability of standard dosimeters in high dose and high dose-per-pulse (DPP) applications. PURPOSE: In this study, Al2 O3 :C nanoDot optically stimulated luminescent dosimeters (OSLDs), single-use powder-based LiF:Mg,Ti thermoluminescent dosimeters (TLDs), and Gafchromic EBT3 film were eva…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Al₂O₃:C optically stimulated luminescent dosimeters (OSLDs), powdered LiF:Mg,Ti thermoluminescent dosimeters (TLDs), and Gafchromic EBT3 film were evaluated at doses up to 40 Gy in conventional and ultra-high dose rate (UHDR) 9-MeV electron beams. OSLDs and TLDs demonstrated dose-rate independence up to 1440 Gy/s mean dose rate, 2 MGy/s instantaneous dose rate, and 7 Gy dose-per-pulse, with measurement uncertainties of ±4%. Inter-dosimeter agreement between OSLDs, TLDs, and Gafchromic film across 0.18–245 Gy/s ranged within 2% coefficient of variation, establishing these dosimeters as viable for redundant UHDR dosimetry.
+
+
 ??? note "Abstract"
     BACKGROUND: Dosimetry in ultra-high dose rate (UHDR) electron beamlines poses a significant challenge owing to the limited usability of standard dosimeters in high dose and high dose-per-pulse (DPP) applications. PURPOSE: In this study, Al2 O3 :C nanoDot optically stimulated luminescent dosimeters (OSLDs), single-use powder-based LiF:Mg,Ti thermoluminescent dosimeters (TLDs), and Gafchromic EBT3 film were evaluated at extended dose ranges (up to 40 Gy) in conventional dose rate (CONV) and UHDR beamlines to determine their usability for calibration and dose verification in the setting of FLASH radiation therapy. METHODS: OSLDs and TLDs were evaluated against established dose-rate-independent Gafchromic EBT3 film with regard to the potential influence of mean dose rate, instantaneous dose rate, and DPP on signal response. The dosimeters were irradiated at CONV or UHDR conditions on a 9-MeV electron beam. Under UHDR conditions, different settings of pulse repetition frequency (PRF), pulse width (PW), and pulse amplitude were used to characterize the individual dosimeters&#x27; response in order to isolate their potential dependencies on dose, dose rate, and DPP. RESULTS: The OSLDs, TLDs, and Gafchromic EBT3 film were found to be suitable at a dose range of up to 40 Gy without any indication of saturation in signal. The response of OSLDs and TLDs in UHDR conditions were found to be independent of mean dose rate (up to 1440 Gy/s), instantaneous dose rate (up to 2 MGy/s), and DPP (up to 7 Gy), with uncertainties on par with nominal values established in CONV beamlines (± 4%). In cross-comparing the response of OSLDs, TLDs and Gafchromic film at dose rates of 0.18-245 Gy/s, the coefficient of variation or relative standard deviation in the measured dose between the three dosimeters (inter-dosimeter comparison) was found to be within 2%. CONCLUSIONS: We demonstrated the dynamic range of OSLDs, TLDs, and Gafchromic film to be suitable up to 40 Gy, and we developed a protocol that can be used to accurately translate the measured signal in each respective dosimeter to dose. OSLDs and powdered TLDs were shown to be viable for dosimetric measurement in UHDR beamlines, providing dose measurements with accuracies on par with Gafchromic EBT3 film and their concurrent use demonstrating a means for redundant dosimetry in UHDR conditions.
 
@@ -2909,6 +3177,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Optical Calorimetry (OC) is based on interferometry and provides a direct measurement of spatially resolved absorbed dose to water by measuring refractive index changes induced by radiation. The purpose of this work was to optimize and characterize in software an OC system tailored for ultra-high dose rate applications and to build and test a prototype in a clinical environment.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    An optical calorimetry (OC) system based on interferometric measurement of refractive index changes was designed in simulation, optimized iteratively, and validated experimentally in a clinical 6 MV flattening-filter-free photon beam at dose rates from 0.2 to 6 Gy/s. Design refinements including path-length equalization, vibration isolation, temperature control, and mathematical noise reduction improved spatial resolution from 22 to 35 lp/mm and achieved a minimum detectable dose of 0.2 Gy. Absolute dose uncertainty was dose-rate dependent, decreasing from 2.5 ± 0.8 Gy at 0.2 Gy/s to 2.5 ± 0.2 Gy at 6 Gy/s.
 
 
 ??? note "Abstract"
@@ -2930,6 +3202,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** The possible emergence of the FLASH effect-the sparing of normal tissue while maintaining tumor control-after irradiations at dose-rates exceeding several tens of Gy per second, has recently spurred a surge of studies attempting to characterize and rationalize the phenomenon. Investigating and reporting the dose and instantaneous dose-rate of ultra-high dose-rate (UHDR) particle radiotherapy beams…
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Novel diamond detector systems (microDiamond and a prototype flashDiamond) were evaluated for absorbed dose and instantaneous dose-rate measurements in a 145.7 MeV/u helium beam under both conventional and ultra-high dose-rate delivery. The diamond detectors achieved microsecond-scale time resolution compared to ~50 μs for the monitoring ionization chamber, recorded the temporal structure of the beam in good agreement with the chamber, demonstrated excellent linearity in both delivery modes, and produced dose values consistent with standard electrometer readings and Monte Carlo simulations.
+
+
 ??? note "Abstract"
     BACKGROUND: The possible emergence of the FLASH effect-the sparing of normal tissue while maintaining tumor control-after irradiations at dose-rates exceeding several tens of Gy per second, has recently spurred a surge of studies attempting to characterize and rationalize the phenomenon. Investigating and reporting the dose and instantaneous dose-rate of ultra-high dose-rate (UHDR) particle radiotherapy beams is crucial for understanding and assessing the FLASH effect, towards pre-clinical application and quality assurance programs. PURPOSE: The purpose of the present work is to investigate a novel diamond-based detector system for dose and instantaneous dose-rate measurements in UHDR particle beams. METHODS: Two types of diamond detectors, a microDiamond (PTW 60019) and a diamond detector prototype specifically designed for operation in UHDR beams (flashDiamond), and two different readout electronic chains, were investigated for absorbed dose and instantaneous dose-rate measurements. The detectors were irradiated with a helium beam of 145.7 MeV/u under conventional and UHDR delivery. Dose-rate delivery records by the monitoring ionization chamber and diamond detectors were studied for single spot irradiations. Dose linearity at 5 cm depth and in-depth dose response from 2 to 16 cm were investigated for both measurement chains and both detectors in a water tank. Measurements with cylindrical and plane-parallel ionization chambers as well as Monte-Carlo simulations were performed for comparisons. RESULTS: Diamond detectors allowed for recording the temporal structure of the beam, in good agreement with the one obtained by the monitoring ionization chamber. A better time resolution of the order of few μs was observed as compared to the approximately 50 μs of the monitoring ionization chamber. Both diamonds detectors show an excellent linearity response in both delivery modalities. Dose values derived by integrating the measured instantaneous dose-rates are in very good agreement with the ones obtained by the standard electrometer readings. Bragg peak curves confirmed the consistency of the charge measurements by the two systems. CONCLUSIONS: The proposed novel dosimetric system allows for a detailed investigation of the temporal evolution of UHDR beams. As a result, reliable and accurate determinations of dose and instantaneous dose-rate are possible, both required for a comprehensive characterization of UHDR beams and relevant for FLASH effect assessment in clinical treatments.
 
@@ -2947,6 +3223,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Radiotherapy delivered at ultra-high-dose-rates (≥40 Gy/s), that is, FLASH, has the potential to effectively widen the therapeutic window and considerably improve the care of cancer patients. The underlying mechanism of the FLASH effect is not well understood, and commercial systems capable of delivering such dose rates are scarce.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Acceptance and commissioning of a modified clinical linear accelerator (Clinac-FLEX) capable of delivering 16 MeV electrons at ultra-high dose rates up to 3.8 Gy/pulse (&gt;180 Gy/s mean dose rate). Dosimetric characterization using radiochromic film, optically stimulated luminescent dosimeters, and plane-parallel ionization chamber showed percent depth dose agreement within 0.5 mm between FLASH and conventional modes for the 10 × 10 cm² applicator, output stability &lt;1% deviation, and profile agreement in flatness. Preliminary radiobiology findings noted reduced morphological changes in breast normal cells at 180 Gy/s compared to 18 Gy/s.
 
 
 ??? note "Abstract"
@@ -2968,6 +3248,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Ion chambers are required for calibration and reference dosimetry applications in radiation therapy (RT). However, exposure of ion chambers in ultra-high dose rate (UHDR) conditions pertinent to FLASH-RT leads to severe saturation and ion recombination, which limits their performance and usability.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Ionization chambers are evaluated at ultra-high dose rate on an IntraOp Mobetron electron beam to characterize saturation and recombination. Five commercial chambers (Advanced Markus, Exradin A10, A26, A20) and a prototype thin parallel-plate chamber were exposed at varying pulse repetition frequency, pulse width, and pulse amplitude. Charge collection efficiency decreased with increasing dose-per-pulse but was independent of mean dose rate (±1%). Chamber response dependence on dose-per-pulse was unrelated to mean dose rate, pulse width, or instantaneous dose rate within the ranges tested. A prototype chamber with reduced electrode separation and increased bias voltage showed improved performance, suggesting design modifications should minimize dose-per-pulse effects.
+
+
 ??? note "Abstract"
     Ion chambers are required for calibration and reference dosimetry applications in radiation therapy (RT). However, exposure of ion chambers in ultra-high dose rate (UHDR) conditions pertinent to FLASH-RT leads to severe saturation and ion recombination, which limits their performance and usability. The purpose of this study was to comprehensively evaluate a set of commonly used commercially available ion chambers in RT, all with different design characteristics, and use this information to produce a prototype ion chamber with improved performance in UHDR conditions as a first step toward ion chambers specific for FLASH-RT. The Advanced Markus and Exradin A10, A26, and A20 ion chambers were evaluated. The chambers were placed in a water tank, at a depth of 2 cm, and exposed to an UHDR electron beam at different pulse repetition frequency (PRF), pulse width (PW), and pulse amplitude settings on an IntraOp Mobetron. Ion chamber responses were investigated for the various beam parameter settings to isolate their dependence on integrated dose, mean dose rate and instantaneous dose rate, dose-per-pulse (DPP), and their design features such as chamber type, bias voltage, and collection volume. Furthermore, a thin parallel-plate (TPP) prototype ion chamber with reduced collector plate separation and volume was constructed and equally evaluated as the other chambers. The charge collection efficiency of the investigated ion chambers decreased with increasing DPP, whereas the mean dose rate did not affect the response of the chambers (± 1%). The dependence of the chamber response on DPP was found to be solely related to the total dose within the pulse, and not on mean dose rate, PW, or instantaneous dose rate within the ranges investigated. The polarity correction factor (Ppol ) values of the TPP prototype, A10, and Advanced Markus chambers were found to be independent of DPP and dose rate (± 2%), while the A20 and A26 chambers yielded significantly larger variations and dependencies under the same conditions. Ion chamber performance evaluated under different irradiation conditions of an UHDR electron beam revealed a strong dependence on DPP and a negligible dependence on the mean and instantaneous dose rates. These results suggest that modifications to ion chambers design to improve their usability in UHDR beamlines should focus on minimizing DPP effects, with emphasis on optimizing the electric field strength, through the construction of smaller electrode separation and larger bias voltages. This was confirmed through the production and evaluation of a prototype ion chamber specifically designed with these characteristics.
 
@@ -2985,6 +3269,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Most current research toward ultra-high dose rate (FLASH) radiation is conducted with advanced proton and electron accelerators, which are of limited accessibility to basic laboratory research. An economical alternative to charged particle accelerators is to employ high-capacity rotating anode x-ray tubes to produce kilovoltage x-rays at FLASH dose rates at short source-to-surface distances (SSD).
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A rotating anode x-ray tube with 75 kW input power was characterized for ultra-high dose rate irradiation capability. Radiochromic film and thermoluminescent dosimeters measured dose rates and depth-dose profiles in solid water phantoms at very short source-to-surface distances. The system achieved maximum surface dose rates of 96 Gy/s in open fields at 47 mm SSD and maintained FLASH dose rates above 40 Gy/s to 10-mm depth, with collimated beams of 10-mm diameter showing penumbra below 1 mm at 5-mm depth.
 
 
 ??? note "Abstract"
@@ -3006,6 +3294,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** FLASH Radiotherapy (RT) is an emergent cancer radiotherapy modality where an entire therapeutic dose is delivered at more than 1000 times higher dose rate than conventional RT. For clinical trials to be conducted safely, a precise and fast beam monitor that can generate out-of-tolerance beam interrupts is required.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper describes development and testing of a prototype scintillator-based real-time beam monitor (FBSM) for ultra-high dose rate radiotherapy applications in both electron and proton beams. The device employs a novel hybrid scintillator material with low mass (&lt;0.5 mm water equivalent), viewed by high-speed CMOS cameras and processed by FPGA electronics. Testing demonstrated linear response at dose rates &gt;40 Gy/s, minimal radiation damage (0.025%/kGy signal decrease after 216 kGy cumulative exposure at 237 Gy/s), spatial resolution of 35–40 μm, and real-time analysis capability at 20 kHz frame rate with processing latency &lt;50 μs.
+
+
 ??? note "Abstract"
     BACKGROUND: FLASH Radiotherapy (RT) is an emergent cancer radiotherapy modality where an entire therapeutic dose is delivered at more than 1000 times higher dose rate than conventional RT. For clinical trials to be conducted safely, a precise and fast beam monitor that can generate out-of-tolerance beam interrupts is required. This paper describes the overall concept and provides results from a prototype ultra-fast, scintillator-based beam monitor for both proton and electron beam FLASH applications. PURPOSE: A FLASH Beam Scintillator Monitor (FBSM) is being developed that employs a novel proprietary scintillator material. The FBSM has capabilities that conventional RT detector technologies are unable to simultaneously provide: 1) large area coverage; 2) a low mass profile; 3) a linear response over a broad dynamic range; 4) radiation hardness; 5) real-time analysis to provide an IEC-compliant fast beam-interrupt signal based on true two-dimensional beam imaging, radiation do-simetry and excellent spatial resolution. METHODS: The FBSM uses a proprietary low mass, less than 0.5 mm water equivalent, non-hygroscopic, radiation tolerant scintillator material (designated HM: hybrid material) that is viewed by high frame rate CMOS cameras. Folded optics using mirrors enable a thin monitor profile of ~10 cm. A field programmable gate array (FPGA) data acquisition system (DAQ) generates real-time analysis on a time scale appropriate to the FLASH RT beam modality: 100-1000 Hz for pulsed electrons and 10-20 kHz for quasi-continuous scanning proton pencil beams. An ion beam monitor served as the initial development platform for this work and was tested in low energy heavy-ion beams (86Kr+26 and protons). A prototype FBSM was fabricated and then tested in various radiation beams that included FLASH level dose per pulse electron beams, and a hospital radiotherapy clinic with electron beams. RESULTS: Results presented in this report include image quality, response linearity, radiation hardness, spatial resolution, and real-time data processing. The HM scintillator was found to be highly radiation damage resistant. It exhibited a small 0.025%/kGy signal decrease from a 216 kGy cumulative dose resulting from continuous exposure for 15 minutes at a FLASH compatible dose rate of 237 Gy/s. Measurements of the signal amplitude vs beam fluence demonstrate linear response of the FBSM at FLASH compatible dose rates of &gt; 40 Gy/s. Comparison with commercial Gafchromic film indicates that the FBSM produces a high resolution 2D beam image and can reproduce a nearly identical beam profile, including primary beam tails. The spatial resolution was measured at 35-40 μm. Tests of the firmware beta version show successful operation at 20,000 Hz frame rate or 50 μs/frame, where the real-time analysis of the beam parameters is achieved in less than 1 μs. CONCLUSIONS: The FBSM is designed to provide real-time beam profile monitoring over a large active area without significantly degrading the beam quality. A prototype device has been staged in particle beams at currents of single particles up to FLASH level dose rates, using both continuous ion beams and pulsed electron beams. Using a novel scintillator, beam profiling has been demonstrated for currents extending from single particles to 10 nA currents. Radiation damage is minimal and even under FLASH conditions would require ≥ 50 kGy of accumulated exposure in a single spot to result in a 1% decrease in signal output. Beam imaging is comparable to radiochromic films, and provides immediate images without hours of processing. Real-time data processing, taking less than 50 μs (combined data transfer and analysis times), has been implemented in firmware for 20 kHz frame rates for continuous proton beams.
 
@@ -3023,6 +3315,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** Recent studies indicated that ultrahigh dose rate (FLASH) radiation can reduce damage to normal tissue while maintaining anti-tumour activity compared to conventional dose rate (CONV) radiation. This paper provides a comprehensive description of the current status of the Platform for Advanced Radiotherapy Research (PARTER), which serves as the first experimental FLASH platform utilizing megavoltag…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    The PARTER platform is a superconducting linac-based experimental facility for megavoltage X-ray FLASH research established in 2019. The platform achieves mean dose rates up to 400 Gy/s at 20 cm source-to-surface distance (&gt;1000 Gy/s at shorter distances) with instantaneous dose rates near 8×10⁵ Gy/s. Both passive and active dosimeters show good linearity and agreement; dose monitors demonstrate stability within 1.5% fluctuation and discrepancy between measured and protocol dose typically &lt;4%. The X-ray beam characteristics including energy spectra, flatness (1.04), penumbra, and percentage depth dose are reported, with maximum field size of 4.5 × 4.5 cm.
 
 
 ??? note "Abstract"
@@ -3044,6 +3340,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Accurate dosimetry in Ultra-High Dose Rate (UHDR) beams is challenging because high levels of ion recombination occur within ionisation chambers used as reference dosimeters. A Small-body Portable Graphite Calorimeter (SPGC) exhibiting a dose-rate independent response was built to offer reduced uncertainty on secondary standard dosimetry in UHDR regimes.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo simulations in TOPAS and FLUKA quantify correction factors for a Small-body Portable Graphite Calorimeter (SPGC) designed for dose-rate-independent reference dosimetry in ultra-high dose rate proton beams. For a 249.7 MeV clinical spot-scanned proton beam, impurity and gap correction factors (kimp and kgap) and dose-to-water conversion factor were calculated. Styrofoam insulation scatter was identified as the dominating correction factor at 1.0043 ± 0.0002.
+
+
 ??? note "Abstract"
     BACKGROUND AND PURPOSE: Accurate dosimetry in Ultra-High Dose Rate (UHDR) beams is challenging because high levels of ion recombination occur within ionisation chambers used as reference dosimeters. A Small-body Portable Graphite Calorimeter (SPGC) exhibiting a dose-rate independent response was built to offer reduced uncertainty on secondary standard dosimetry in UHDR regimes. The aim of this study was to quantify the effect of the geometry and material properties of the device on the dose measurement. MATERIALS AND METHODS: A detailed model of the SPGC was built in the Monte Carlo code TOPAS (v3.6.1) to derive the impurity and gap correction factors, kimp and kgap. A dose conversion factor, DwMC/DgMC, was also calculated using FLUKA (v2021.2.0). These factors convert the average dose to its graphite core to the dose-to-water for a 249.7 MeV mono-energetic spot-scanned clinical proton beam. The effect of the surrounding Styrofoam on the dose measurement was examined in the simulations by substituting it for graphite. RESULTS: The kimp and kgap correction factors were 0.9993 ± 0.0002 and 1.0000 ± 0.0001, respectively when the Styrofoam was not substituted, and 1.0037 ± 0.0002 and 0.9999 ± 0.0001, respectively when substituted for graphite. The dose conversion factor was calculated to be 1.0806 ± 0.0001. All uncertainties are Type A. CONCLUSIONS: Impurity and gap correction factors, and the dose conversion factor were calculated for the SPGC in a FLASH proton beam. Separating out the effect of scatter from Styrofoam insulation showed this as the dominating correction factor, amounting to 1.0043 ± 0.0002.
 
@@ -3063,6 +3363,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 **TL;DR.** Objective. This investigation aims to experimentally determine the charge collection efficiency (CCE) of six commercially available parallel-plate ionisation chamber (PPIC) models in ultra-high dose-per-pulse (UHDPP) electron beams.Approach.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Charge collection efficiency (CCE) of six commercial parallel-plate ionization chamber models was experimentally measured in ultra-high dose-per-pulse electron beams at PTB across a dose-per-pulse range of 0.1–6.4 Gy (2.5 μs pulse duration). Intra-model variation averaged 4.0% (up to 20% at higher dose-per-pulse), inter-model variation averaged 10%, and substantial polarity effects (0.914–1.201) were observed. The authors conclude that while commercial chambers with measured CCE and small electrode spacing could achieve relative uncertainty of 1.6% (k=1) for pre-clinical dosimetry, use as a secondary standard for clinical purposes would require new chamber designs to reduce recombination, polarity effects, and measurement uncertainty.
+
+
 ??? note "Abstract"
     Objective. This investigation aims to experimentally determine the charge collection efficiency (CCE) of six commercially available parallel-plate ionisation chamber (PPIC) models in ultra-high dose-per-pulse (UHDPP) electron beams.Approach. The CCE of 22 PPICs has been measured in UHDPP electron beams at the National Metrology Institution of Germany (PTB). The CCE was determined for a dose per pulse (DPP) range between 0.1 and 6.4 Gy (pulse duration of 2.5μs). The results obtained with the different PPICs were compared to evaluate the reproducibility, intra- and inter-model variation, and the performance of a CCE empirical model.Main results. The intra-model variation was, on average, 4.0%, which is more than three times the total combined relative standard uncertainty and was found to be greater at higher DPP (up to 20%). The inter-model variation for the PPIC with 2 mm electrode spacing, which was found to be, on average, 10%, was also significant compared to the relative uncertainty and the intra-model variation. The observed CCE variation could not be explained only by the expected deviation of the electrode spacing from the nominal value within the manufacturing tolerance. It should also be noted that a substantial polarity effect, between 0.914(5) and 1.201(3), was observed, and significant intra- and inter-model variation was observed on this effect.Significance. For research and pre-clinical study, the commercially available PPIC with a well-known CCE (directly measured for the specific chamber) and with a small electrode spacing could be used for relative and absolute dosimetry with a lower-limit uncertainty of 1.6% (k= 1) in the best case. However, to use a PPIC as a secondary standard in UHDPP electron beams for clinical purposes would require new model development to reduce the ion recombination, the polarity effect, and the total standard uncertainty on the dose measurement.
 
@@ -3080,6 +3384,10 @@ Detectors, reference dosimetry, beam monitoring and dose measurement under ultra
 
 
 **TL;DR.** The recently observed FLASH effect related to high doses delivered with high rates has the potential to revolutionize radiation cancer therapy if promising results are confirmed and an underlying mechanism understood. Comprehensive measurements are essential to elucidate the phenomenon.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    First demonstration of positron emission tomography (PET) imaging of phantoms irradiated by a FLASH proton beam at the MD Anderson Cancer Center. A 75.8 MeV proton beam delivered 3.5 × 10¹⁰ protons in 101.5 ms spills at a dose rate of 164 Gy/s. The study measured in-spill prompt gamma events and post-spill PET tomographic events recorded for up to 20 minutes, establishing PET as a novel imaging and dosimetric modality for FLASH proton therapy monitoring.
 
 
 ??? note "Abstract"

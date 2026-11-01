@@ -2,7 +2,7 @@
 
 Dose-rate-aware planning, optimization algorithms and delivery strategies for FLASH.
 
-*81 records. Newest first.*
+*87 records. Newest first.*
 
 ---
 
@@ -1271,21 +1271,25 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 
 ---
 
-### Imaging and characterization of optical emission fromex vivotissue during conventional and UHDR PBS proton therapy.
+### IOeRT conventional and FLASH treatment planning system implementation exploiting fast GPU Monte Carlo: The case of breast cancer.
 
-*Vasyltsiv R, Rahman M, Harms J, Clark M, Gladstone DJ, Pogue BW et al.* — Physics in medicine and biology (2024)  
+*Franciosini G, Carlotti D, Cattani F, De Gregorio A, De Liso V, De Rosa F et al.* — Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)  
 
-<span class="badge oa">Open access</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Beam Delivery &amp; Technology</span>
+<span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
 
 
-**TL;DR.** Objective. Imaging of optical photons emitted from tissue during radiotherapy is a promising technique for real-time visualization of treatment delivery, offering applications in dose verification, treatment monitoring, and retrospective treatment plan comparison.
+**TL;DR.** Partial breast irradiation for the treatment of early-stage breast cancer patients can be performed by means of Intra Operative electron Radiation Therapy (IOeRT). One of the main limitations of this technique is the absence of a treatment planning system (TPS) that could greatly help in ensuring a proper coverage of the target volume during irradiation.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    An intraoperative electron radiation therapy (IOeRT) treatment planning system for breast cancer was developed using fast GPU-accelerated Monte Carlo simulation and ultrasound imaging. The system optimizes electron beam energy, applicator position, and bevel angle to maximize target coverage while sparing organs at risk. Dose computation and plan comparison via dose-volume histograms were performed in silico for multiple irradiation strategies, with computation times compatible with clinical implementation. The work demonstrates feasibility of Monte Carlo-based TPS for IOeRT without experimental validation.
 
 
 ??? note "Abstract"
-    Objective. Imaging of optical photons emitted from tissue during radiotherapy is a promising technique for real-time visualization of treatment delivery, offering applications in dose verification, treatment monitoring, and retrospective treatment plan comparison. This research aims to explore the feasibility of intensified imaging of tissue luminescence during proton therapy (PT), under both conventional and ultra-high dose rate (UHDR) conditions.Approach. Conventional and UHDR pencil beam scanning (PBS) PT irradiation of freshex vivoporcine tissue and tissue-mimicking plastic phantom was imaged using intensified complementary metal-oxide-semiconductor(CMOS) cameras. The optical emission from tissue was characterized during conventional irradiation using both blue and red-sensitive intensifiers to ensure adequate spectral coverage. Spectral characterization was performed using bandpass filters between the lens and sensor. Imaging of conventional proton fields (240 MeV, 10 nA) was performed at 100 Hz frame rate, while UHDR PBS proton delivery (250 MeV, 99 nA) was recorded at 1 kHz frame rate. Dependence of optical emission yield on proton energy was studied using an optical tissue-mimicking plastic phantom and a range shifter. Finally, we demonstrated fast beam tracking capability of fast camera towardsin vivomonitoring of FLASH PT.Main results. Under conventional treatment dose rates optical emission was imaged with single spot resolution. Spot profiles were found to agree with the treatment planning system calculation within &gt;90% for all spectral bands and spot intensity was found to vary with spectral filtration. The resultant polychromatic emission presented a maximum intensity at 650 nm and decreasing signal at lower wavelengths, which is consistent with expected attenuation patterns of high fat and muscle tissue. For UHDR beam imaging, optical yield increased with higher proton energy. Imaging at 1 kHz allowed continuous monitoring of delivery during porcine tissue irradiation, with clear identification of individual dwell positions. The number of dwell positions matched the treatment plan in total and per row showing adequate temporal capability of iCMOS imaging.Significance. For the first time, this study characterizes optical emission from tissue during PT and demonstrates our capability of fast optical tracking of pencil proton beam on the tissue anatomy in both conventional and UHDR setting. Similar to the Cherenkov imaging in radiotherapy, this imaging modality could enable a seamless, independent validation of PT treatments.
+    Partial breast irradiation for the treatment of early-stage breast cancer patients can be performed by means of Intra Operative electron Radiation Therapy (IOeRT). One of the main limitations of this technique is the absence of a treatment planning system (TPS) that could greatly help in ensuring a proper coverage of the target volume during irradiation. An IOeRT TPS has been developed using a fast Monte Carlo (MC) and an ultrasound imaging system to provide the best irradiation strategy (electron beam energy, applicator position and bevel angle) and to facilitate the optimisation of dose prescription and delivery to the target volume while maximising the organs at risk sparing. The study has been performed in silico, exploiting MC simulations of a breast cancer treatment. Ultrasound-based input has been used to compute the absorbed dose maps in different irradiation strategies and a quantitative comparison between the different options was carried out using Dose Volume Histograms. The system was capable of exploring different beam energies and applicator positions in few minutes, identifying the best strategy with an overall computation time that was found to be completely compatible with clinical implementation. The systematic uncertainty related to tissue deformation during treatment delivery with respect to imaging acquisition was taken into account. The potential and feasibility of a GPU based full MC TPS implementation of IOeRT breast cancer treatments has been demonstrated in-silico. This long awaited tool will greatly improve the treatment safety and efficacy, overcoming the limits identified within the clinical trials carried out so far.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/38422545/) · [DOI](https://doi.org/10.1088/1361-6560/ad2ee6) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10945384/)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38608421/) · [DOI](https://doi.org/10.1016/j.ejmp.2024.103346)
 
 
 ---
@@ -1300,11 +1304,107 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** Bragg peak FLASH radiotherapy (RT) uses a distal tracking method to eliminate exit doses and can achieve superior OAR sparing. This study explores the application of this novel method in stereotactic body radiotherapy prostate FLASH-RT.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This study develops an in-house treatment planning platform for pencil beam scanning proton therapy using a single-energy Bragg peak distal tracking method applied to prostate stereotactic body radiotherapy. Plans were optimized for 40 Gy in five fractions using four-beam arrangements and compared against conventional opposing-beam PBS plans. Dose metrics were comparable between conventional and FLASH plans in most organs at risk, with the Bragg peak plans achieving 94% V40Gy/s coverage in the rectum at 1 Gy threshold and near-100% FLASH ratio after 5 Gy threshold application, demonstrating feasibility of ultra-high dose rate delivery in prostate SBRT while maintaining plan quality.
+
+
 ??? note "Abstract"
     Bragg peak FLASH radiotherapy (RT) uses a distal tracking method to eliminate exit doses and can achieve superior OAR sparing. This study explores the application of this novel method in stereotactic body radiotherapy prostate FLASH-RT. An in-house platform was developed to enable intensity-modulated proton therapy (IMPT) planning using a single-energy Bragg peak distal tracking method. The patients involved in the study were previously treated with proton stereotactic body radiotherapy (SBRT) using the pencil beam scanning (PBS) technique to 40 Gy in five fractions. FLASH plans were optimized using a four-beam arrangement to generate a dose distribution similar to the conventional opposing beams. All of the beams had a small angle of two degrees from the lateral direction to increase the dosimetry quality. Dose metrics were compared between the conventional PBS and the Bragg peak FLASH plans. The dose rate histogram (DRVH) and FLASH metrics of 40 Gy/s coverage (V40Gy/s) were investigated for the Bragg peak plans. There was no significant difference between the clinical and Bragg peak plans in rectum, bladder, femur heads, large bowel, and penile bulb dose metrics, except for Dmax. For the CTV, the FLASH plans resulted in a higher Dmax than the clinical plans (116.9% vs. 103.3%). For the rectum, the V40Gy/s reached 94% and 93% for 1 Gy dose thresholds in composite and single-field evaluations, respectively. Additionally, the FLASH ratio reached close to 100% after the application of the 5 Gy threshold in composite dose rate assessment. In conclusion, the Bragg peak distal tracking method can yield comparable plan quality in most OARs while preserving sufficient FLASH dose rate coverage, demonstrating that the ultra-high dose technique can be applied in prostate FLASH SBRT.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38398188/) · [DOI](https://doi.org/10.3390/cancers16040798) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10886659/)
+
+
+---
+
+### Very high-energy electron therapy as light-particle alternative to transmission proton FLASH therapy - An evaluation of dosimetric performances.
+
+*Böhlen TT, Germond JF, Desorgher L, Veres I, Bratel A, Landström E et al.* — Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)  
+
+<span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Clinical translation of FLASH-radiotherapy (RT) to deep-seated tumours is still a technological challenge. One proposed solution consists of using ultra-high dose rate transmission proton (TP) beams of about 200-250 MeV to irradiate the tumour with the flat entrance of the proton depth-dose profile.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    Monte Carlo simulations and treatment planning system analysis compared very high-energy electron (VHEE) beams at 50–250 MeV with transmission proton beams at 200–250 MeV for FLASH-RT delivery to deep-seated tumours. VHEE beams ≥100 MeV achieved flat depth-dose distributions (±20%) similar to protons. Plan quality was driven by lateral penumbra; 150 MeV and above VHEE matched dosimetric conformity of 250 MeV proton plans across glioblastoma, oesophagus, and prostate cases.
+
+
+??? note "Abstract"
+    PURPOSE: Clinical translation of FLASH-radiotherapy (RT) to deep-seated tumours is still a technological challenge. One proposed solution consists of using ultra-high dose rate transmission proton (TP) beams of about 200-250 MeV to irradiate the tumour with the flat entrance of the proton depth-dose profile. This work evaluates the dosimetric performance of very high-energy electron (VHEE)-based RT (50-250 MeV) as a potential alternative to TP-based RT for the clinical transfer of the FLASH effect. METHODS: Basic physics characteristics of VHEE and TP beams were compared utilizing Monte Carlo simulations in water. A VHEE-enabled research treatment planning system was used to evaluate the plan quality achievable with VHEE beams of different energies, compared to 250 MeV TP beams for a glioblastoma, an oesophagus, and a prostate cancer case. RESULTS: Like TP, VHEE above 100 MeV can treat targets with roughly flat (within ± 20 %) depth-dose distributions. The achievable dosimetric target conformity and adjacent organs-at-risk (OAR) sparing is consequently driven for both modalities by their lateral beam penumbrae. Electron beams of 400\[500\] MeV match the penumbra of 200\[250\] MeV TP beams and penumbra is increased for lower electron energies. For the investigated patient cases, VHEE plans with energies of 150 MeV and above achieved a dosimetric plan quality comparable to that of 250 MeV TP plans. For the glioblastoma and the oesophagus case, although having a decreased conformity, even 100 MeV VHEE plans provided a similar target coverage and OAR sparing compared to TP. CONCLUSIONS: VHEE-based FLASH-RT using sufficiently high beam energies may provide a lighter-particle alternative to TP-based FLASH-RT with comparable dosimetric plan quality.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38378075/) · [DOI](https://doi.org/10.1016/j.radonc.2024.110177)
+
+
+---
+
+### Commissioning and initial validation of Eclipse eMC algorithm for the electron FLASH research extension (FLEX) system for pre-clinical studies.
+
+*Oh K, Gallagher KJ, Yan Y, Zhou S* — Journal of applied clinical medical physics (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** To investigate the feasibility of commissioning the 16 MeV electron FLASH Extension (FLEX) in the commercial treatment planning system (TPS) for biomedical research with cell and mouse models, and in silico treatment planning studies. METHODS: To commission the FLEX system with the electron Monte Carlo (eMC) algorithm in the commercial TPS, radiochromic film was used to measure the vendor-recommen…
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper reports commissioning and validation of the Eclipse eMC algorithm for a 16 MeV electron FLASH Extension (FLEX) system in a commercial treatment planning system. Radiochromic film measurements and supplemental validation data were used to benchmark the electron Monte Carlo algorithm; calculated PDDs and profiles agreed with measured values within 1% on average for field sizes 2 cm to 10×10 cm². The commissioned FLASH beam was compared to a conventional 16 MeV electron beam, with larger field sizes (&gt;10×10 cm²) showing profile deviations due to the forward-peaked nature of the FLASH beam. The validated TPS is intended to support preclinical cell and animal studies and in silico treatment planning for future clinical implementation.
+
+
+??? note "Abstract"
+    PURPOSE: To investigate the feasibility of commissioning the 16 MeV electron FLASH Extension (FLEX) in the commercial treatment planning system (TPS) for biomedical research with cell and mouse models, and in silico treatment planning studies. METHODS: To commission the FLEX system with the electron Monte Carlo (eMC) algorithm in the commercial TPS, radiochromic film was used to measure the vendor-recommended beam data. Once the beam model was generated for the eMC algorithm, supplemental measurements were collected for validation purposes and compared against the TPS-calculated results. Additionally, the newly commissioned 16 MeV FLASH beam was compared to the corresponding 16 MeV conventional electron beam. RESULTS: The eMC algorithm effectively modeled the FLEX system. The eMC-calculated PDDs and profiles for the 16 MeV electron FLASH beam agreed with measured values within 1%, on average, for 6 × 6 cm2 and 10 × 10 cm2 applicators. Flatness and symmetry deviated by less than 1%, while FWHM and penumbra agreed within 1 mm for both eMC-calculated and measured profiles. Additionally, the small field (i.e., 2-cm diameter cutout) that was measured for validation purposes agreed with TPS-calculated results within 1%, on average, for both the PDD and profiles. The FLASH and conventional dose rate 16 MeV electron beam were in agreement in regard to energy, but the profiles for larger field sizes began to deviate (&gt;10 × 10 cm2) due to the forward-peaked nature of the FLASH beam. For cell irradiation experiments, the measured and eMC-calculated in-plane and cross-plane absolute dose profiles agreed within 1%, on average. CONCLUSIONS: The FLEX system was successfully commissioned in the commercial TPS using the eMC algorithm, which accurately modeled the forward-peaked nature of the FLASH beam. A commissioned TPS for FLASH will be useful for pre-clinical cell and animal studies, as well as in silico FLASH treatment planning studies for future clinical implementation.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38319666/) · [DOI](https://doi.org/10.1002/acm2.14289) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11087161/)
+
+
+---
+
+### Streamlined pin-ridge-filter design for single-energy proton FLASH planning.
+
+*Ma C, Zhou J, Chang CW, Wang Y, Patel PR, Yu DS et al.* — Medical physics (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** FLASH radiotherapy (FLASH-RT) with ultra-high dose rate has yielded promising results in reducing normal tissue toxicity while maintaining tumor control. Planning with single-energy proton beams modulated by ridge filters (RFs) has been demonstrated feasible for FLASH-RT.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This paper develops a streamlined pin-ridge-filter design for single-energy proton FLASH planning using an inverse planning framework validated on three lung cases. The streamlined pin-ridge-filter (pin-RF) plans achieved high-dose conformity comparable to conventional intensity-modulated proton therapy plans with minimal changes in lung dose-volume metrics. Compared to conventional IMPT reference plans, FLASH-dose calculations using an effectiveness model showed reductions of 21.4%–33.0% in maximum dose to normal tissues in high-dose regions, but marginal or negative benefits in moderate-to-low-dose regions, with increased lung V7 Gy and V7.4 Gy of up to 17.6%.
+
+
+??? note "Abstract"
+    BACKGROUND: FLASH radiotherapy (FLASH-RT) with ultra-high dose rate has yielded promising results in reducing normal tissue toxicity while maintaining tumor control. Planning with single-energy proton beams modulated by ridge filters (RFs) has been demonstrated feasible for FLASH-RT. PURPOSE: This study explored the feasibility of a streamlined pin-shaped RF (pin-RF) design, characterized by coarse resolution and sparsely distributed ridge pins, for single-energy proton FLASH planning. METHODS: An inverse planning framework integrated within a treatment planning system was established to design streamlined pin RFs for single-energy FLASH planning. The framework involves generating a multi-energy proton beam plan using intensity-modulated proton therapy (IMPT) planning based on downstream energy modulation strategy (IMPT-DS), followed by a nested pencil-beam-direction-based (PBD-based) spot reduction process to iteratively reduce the total number of PBDs and energy layers along each PBD for the IMPT-DS plan. The IMPT-DS plan is then translated into the pin-RFs and the single-energy beam configurations for IMPT planning with pin-RFs (IMPT-RF). This framework was validated on three lung cases, quantifying the FLASH dose of the IMPT-RF plan using the FLASH effectiveness model. The FLASH dose was then compared to the reference dose of a conventional IMPT plan to measure the clinical benefit of the FLASH planning technique. RESULTS: The IMPT-RF plans closely matched the corresponding IMPT-DS plans in high dose conformity (conformity index of &lt;1.2), with minimal changes in V7Gy and V7.4 Gy for the lung (&lt;3%) and small increases in maximum doses (Dmax) for other normal structures (&lt;3.4 Gy). Comparing the FLASH doses to the doses of corresponding IMPT-RF plans, drastic reductions of up to nearly 33% were observed in Dmax for the normal structures situated in the high-to-moderate-dose regions, while negligible changes were found in Dmax for normal structures in low-dose regions. Positive clinical benefits were seen in comparing the FLASH doses to the reference doses, with notable reductions of 21.4%-33.0% in Dmax for healthy tissues in the high-dose regions. However, in the moderate-to-low-dose regions, only marginal positive or even negative clinical benefit for normal tissues were observed, such as increased lung V7Gy and V7.4 Gy (up to 17.6%). CONCLUSIONS: A streamlined pin-RF design was developed and its effectiveness for single-energy proton FLASH planning was validated, revealing positive clinical benefits for the normal tissues in the high dose regions. The coarsened design of the pin-RF demonstrates potential advantages, including cost efficiency and ease of adjustability, making it a promising option for efficient production.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38214381/) · [DOI](https://doi.org/10.1002/mp.16939)
+
+
+---
+
+### Feasibility study of multiple-energy Bragg peak proton FLASH on a superconducting gantry with large momentum acceptance.
+
+*Zeng Y, Li H, Wang W, Liu X, Qin B, Dai S et al.* — Medical physics (2024)  
+
+<span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** While the Bragg peak proton beam (BP) is capable of superior target conformity and organs-at-risk sparing than the transmission proton beam (TB), its efficacy in FLASH-RT is hindered by both a slow energy switching process and the beam current. A universal range shifter (URS) can pull back the high-energy proton beam while preserving the beam current.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A feasibility study of multiple-energy Bragg peak proton FLASH treatment planning on a superconducting gantry with large momentum acceptance, using a universal range shifter and simultaneous dose and spot map optimization. Treatment plans for prostate and lung cancers compared Bragg peak and transmission proton beams; Bragg peak plans reduced monitor units by 33–57% and normal tissue doses by 40–58%, with both beam types achieving 100% FLASH dose rate coverage (&gt;40 Gy/s) to normal tissues.
+
+
+??? note "Abstract"
+    BACKGROUND: While the Bragg peak proton beam (BP) is capable of superior target conformity and organs-at-risk sparing than the transmission proton beam (TB), its efficacy in FLASH-RT is hindered by both a slow energy switching process and the beam current. A universal range shifter (URS) can pull back the high-energy proton beam while preserving the beam current. Meanwhile, a superconducting gantry with large momentum acceptance (LMA-SC gantry) enables fast energy switching. PURPOSE: This study explores the feasibility of multiple-energy BP FLASH-RT on the LMA-SC gantry. METHOD AND MATERIALS: A simultaneous dose and spot map optimization algorithm was developed for BP FLASH-RT treatment planning to improve the dose delivery efficiency. The URS was designed to be 0-27 cm thick, with 1 cm per step. BP plans using the URS were optimized using single-field optimization (SFO) and multiple-field optimization (MFO) for ten prostate cancer patients and ten lung cancer patients. The plan delivery parameters, dose, and dose rate metrics of BP plans were compared to those of TB plans using the parameters of the LMA-SC gantry. RESULTS: Compared to TB plans, BP plans significantly reduced MUs by 42.7% (P &lt; 0.001) with SFO and 33.3% (P &lt; 0.001) with MFO for prostate cases. For lung cases, the reduction in MUs was 56.8% (P &lt; 0.001) with SFO and 36.4% (P &lt; 0.001) with MFO. BP plans also outperformed TB plans by reducing mean normal tissue doses. BP-SFO plans achieved a reduction of 56.7% (P &lt; 0.001) for prostate cases and 57.7% (P &lt; 0.001) for lung cases, while BP-MFO plans achieved a reduction of 54.2% (P &lt; 0.001) for the prostate case and 40.0% (P &lt; 0.001) for lung cases. For both TB and BP plans, normal tissues in prostate and lung cases received 100.0% FLASH dose rate coverage (&gt;40 Gy/s). CONCLUSIONS: By utilizing the URS and the LMA-SC gantry, it is possible to perform multiple-energy BP FLASH-RT, resulting in better normal tissue sparing, as compared to TB plans.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38169535/) · [DOI](https://doi.org/10.1002/mp.16932)
 
 
 ---
@@ -1319,11 +1419,61 @@ Dose-rate-aware planning, optimization algorithms and delivery strategies for FL
 **TL;DR.** The recently proposed Integrated Physical Optimization Intensity Modulated Proton Therapy (IPO-IMPT) framework allows simultaneous optimization of dose, dose rate, and linear energy transfer (LET) for ultra-high dose rate (FLASH) treatment planning. Finding solutions to IPO-IMPT is difficult because of computational intensiveness.
 
 
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work presents SIEMAC, an inverse optimization algorithm for integrated planning of dose, dose rate, and linear energy transfer in proton FLASH therapy. The method simultaneously optimizes sparse range compensators, range modulators, and spot intensities. Demonstration on a human lung cancer patient and minipig model shows improved dose-rate coverage (57% to 96% above 100 Gy/s in lung; 93% to 100% in heart) and reduced LET heterogeneity (68% to 9% in lung; 26% to &lt;1% in heart) while maintaining target coverage.
+
+
 ??? note "Abstract"
     PURPOSE: The recently proposed Integrated Physical Optimization Intensity Modulated Proton Therapy (IPO-IMPT) framework allows simultaneous optimization of dose, dose rate, and linear energy transfer (LET) for ultra-high dose rate (FLASH) treatment planning. Finding solutions to IPO-IMPT is difficult because of computational intensiveness. Nevertheless, an inverse solution that simultaneously specifies the geometry of a sparse filter and weights of a proton intensity map is desirable for both clinical and preclinical applications. Such solutions can reduce effective biologic dose to organs at risk in patients with cancer as well as reduce the number of animal irradiations needed to derive extra biologic dose models in preclinical studies. METHODS AND MATERIALS: Unlike the initial forward heuristic, this inverse IPO-IMPT solution includes simultaneous optimization of sparse range compensation, sparse range modulation, and spot intensity. The daunting computational tasks vital to this endeavor were resolved iteratively with a distributed computing framework to enable Simultaneous Intensity and Energy Modulation and Compensation (SIEMAC). SIEMAC was demonstrated on a human patient with central lung cancer and a minipig. RESULTS: SIEMAC simultaneously improves maps of spot intensities and patient-field-specific sparse range compensators and range modulators. For the patient with lung cancer, at our maximum nozzle current of 300 nA, dose rate coverage above 100 Gy/s increased from 57% to 96% in the lung and from 93% to 100% in the heart, and LET coverage above 4 keV/µm dropped from 68% to 9% in the lung and from 26% to &lt;1% in the heart. For a simple minipig plan, the full-width half-maximum of the dose, dose rate, and LET distributions decreased by 30%, 1.6%, and 57%, respectively, again with similar target dose coverage, thus reducing uncertainty in these quantities for preclinical studies. CONCLUSIONS: The inverse solution to IPO-IMPT demonstrated the capability to simultaneously modulate subspot proton energy and intensity distributions for clinical and preclinical studies.
 
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38104869/) · [DOI](https://doi.org/10.1016/j.ijrobp.2023.11.061)
+
+
+---
+
+### Development and benchmarking of a dose rate engine for raster-scanned FLASH helium ions.
+
+*Rank L, Dogan O, Kopp B, Mein S, Verona-Rinati G, Kranzer R et al.* — Medical physics (2024)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Radiotherapy with charged particles at high dose and ultra-high dose rate (uHDR) is a promising technique to further increase the therapeutic index of patient treatments. Dose rate is a key quantity to predict the so-called FLASH effect at uHDR settings.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    This work presents a dose rate calculation engine for raster-scanned helium ion beams at ultra-high dose rate, benchmarked against measurements at the Heidelberg Ion Beam Therapy Center using a 145.7 MeV/u beam. The engine compares three dose-rate calculation models (mean, instantaneous, and threshold-based) across varying depths (2.3–14.8 cm), field sizes, and scanning patterns. Dose rate predictions agreed with measurements within 7–10% in the entrance channel and near the Bragg peak, but absolute dose rate values differed substantially across calculation methods, with deviations between mean and threshold-based approaches reaching 63% for a 10 mm × 10 mm field in raster-scanned irradiations but not in snake-like patterns.
+
+
+??? note "Abstract"
+    BACKGROUND: Radiotherapy with charged particles at high dose and ultra-high dose rate (uHDR) is a promising technique to further increase the therapeutic index of patient treatments. Dose rate is a key quantity to predict the so-called FLASH effect at uHDR settings. However, recent works introduced varying calculation models to report dose rate, which is susceptible to the delivery method, scanning path (in active beam delivery) and beam intensity. PURPOSE: This work introduces an analytical dose rate calculation engine for raster scanned charged particle beams that is able to predict dose rate from the irradiation plan and recorded beam intensity. The importance of standardized dose rate calculation methods is explored here. METHODS: Dose is obtained with an analytical pencil beam algorithm, using pre-calculated databases for integrated depth dose distributions and lateral penumbra. Dose rate is then calculated by combining dose information with the respective particle fluence (i.e., time information) using three dose-rate-calculation models (mean, instantaneous, and threshold-based). Dose rate predictions for all three models are compared to uHDR helium ion beam (145.7 MeV/u, range in water of approximatively 14.6 cm) measurements performed at the Heidelberg Ion Beam Therapy Center (HIT) with a diamond-detector prototype. Three scanning patterns (scanned or snake-like) and four field sizes are used to investigate the dose rate differences. RESULTS: Dose rate measurements were in good agreement with in-silico generated distributions using the here introduced engine. Relative differences in dose rate were below 10% for varying depths in water, from 2.3 to 14.8 cm, as well as laterally in a near Bragg peak area. In the entrance channel of the helium ion beam, dose rates were predicted within 7% on average for varying irradiated field sizes and scanning patterns. Large differences in absolute dose rate values were observed for varying calculation methods. For raster-scanned irradiations, the deviation between mean and threshold-based dose rate at the investigated point was found to increase with the field size up to 63% for a 10 mm × 10 mm field, while no significant differences were observed for snake-like scanning paths. CONCLUSIONS: This work introduces the first dose rate calculation engine benchmarked to instantaneous dose rate, enabling dose rate predictions for physical and biophysical experiments. Dose rate is greatly affected by varying particle fluence, scanning path, and calculation method, highlighting the need for a consensus among the FLASH community on how to calculate and report dose rate in the future. The here introduced engine could help provide the necessary details for the analysis of the sparing effect and uHDR conditions.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37847027/) · [DOI](https://doi.org/10.1002/mp.16793) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10939952/)
+
+
+---
+
+### Key changes in the future clinical application of ultra-high dose rate radiotherapy.
+
+*Lin B, Fan M, Niu T, Liang Y, Xu H, Tang W et al.* — Frontiers in oncology (2023)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Modeling &amp; Mechanisms</span>
+
+
+**TL;DR.** Ultra-high dose rate radiotherapy (FLASH-RT) is an external beam radiotherapy strategy that uses an extremely high dose rate (≥40 Gy/s). Compared with conventional dose rate radiotherapy (≤0.1 Gy/s), the main advantage of FLASH-RT is that it can reduce damage of organs at risk surrounding the cancer and retain the anti-tumor effect.
+
+
+??? abstract "Summary — AI-generated, curator-reviewed"
+    A review article examining clinical implementation pathways for ultra-high dose rate radiotherapy (≥40 Gy/s), addressing how treatment planning, target delineation, simulation, indication selection, and plan evaluation may require modification relative to conventional-dose-rate practice to accommodate the extremely short treatment times enabled by UHDR delivery.
+
+
+??? note "Abstract"
+    Ultra-high dose rate radiotherapy (FLASH-RT) is an external beam radiotherapy strategy that uses an extremely high dose rate (≥40 Gy/s). Compared with conventional dose rate radiotherapy (≤0.1 Gy/s), the main advantage of FLASH-RT is that it can reduce damage of organs at risk surrounding the cancer and retain the anti-tumor effect. An important feature of FLASH-RT is that an extremely high dose rate leads to an extremely short treatment time; therefore, in clinical applications, the steps of radiotherapy may need to be adjusted. In this review, we discuss the selection of indications, simulations, target delineation, selection of radiotherapy technologies, and treatment plan evaluation for FLASH-RT to provide a theoretical basis for future research.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/37941555/) · [DOI](https://doi.org/10.3389/fonc.2023.1244488) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10628486/)
 
 
 ---

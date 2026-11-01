@@ -1,11 +1,33 @@
 # FLASH Radiotherapy Literature — Clinical & Translational
-AAPM BESC FLASH Working Group. Corpus generated 2026-10-01. 34 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-11-01. 38 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
 ---
 
-## 1. Expert consensus on clinical trial design guidelines for FLASH radiotherapy.
+## 1. Radiation protection considerations for ultra-high dose rate proton beam FLASH research: consensus from multi-institutional experience.
+Authors: Taylor MJ, Bayer C, Paquet G, Gupta N, Lamba MA, Lin H, Mossahebi S, Poirier Y et al.
+Journal: Frontiers in oncology (2026)
+Identifiers: PMID 42866240; DOI 10.3389/fonc.2026.1862653; PMC PMC13655924 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/42866240/
+Category: Clinical & Translational | Tags: Radiobiology, Clinical & Translational
+
+Abstract: The use of ultra-high dose rate (UHDR) radiation for radiotherapy could potentially improve outcomes for cancer patients by increasing healthy tissue sparing, known as the FLASH effect. As UHDR use expands in FLASH research and clinical translation, reassessing existing radiation safety programs is essential to determine whether UHDR beams introduce any new radiation safety requirements. This manuscript outlines the lessons learnt through investigations performed by members of the Varian FLASH forward consortium radiation protection working group. The information contained within is the consensus of the working group, as agreed, through discussions and reports during the monthly meetings. The paper brings together multi-institutional radiation protection experience from five Varian ProBeam type facilities engaged in preclinical and clinical proton FLASH research. Three main aspects of radiation protection are considered: shielding, activation, and accident scenarios. Lessons learned from the collective experience gained are presented to benefit those embarking on new proton FLASH research programs.
+
+---
+
+## 2. FLASH radiotherapy for electrons and protons: roadmap towards the clinical introduction.
+Authors: Petoukhova AL, Penninckx S, Schuemann J, Di Martino F, Paiar F, Sesink A, Calvo FA, Romano F et al.
+Journal: Physics in medicine and biology (2026)
+Identifiers: PMID 42854716; DOI 10.1088/1361-6560/aeb29d
+URL: https://pubmed.ncbi.nlm.nih.gov/42854716/
+Category: Clinical & Translational | Tags: Radiobiology, Clinical & Translational, Physics & Dosimetry, Treatment Planning & Optimization
+
+Abstract: Radiation therapy (RT) is a crucial component of cancer management, with most patients receiving RT at some point, often in combination with surgery or systemic treatments. Cell sparing at ultrahigh dose rates was found in in vitro cell survival fraction experiments dating back to the 1960s. In the 1970s, studies revealed an unexpected dose-rate effect on radiation-induced mortality in mice and a dose-rate-dependent response in rat skin. This effect was assumed to be affecting healthy and tumour tissue equally and was not pursued further. Decades later, this modality of RT was rediscovered using ultra-high dose-rate irradiation (average dose rate >40 Gy/s) and it was demonstrated that this improves the therapeutic ratio, sparing healthy tissue while being isoeffective for tumours. This effect is referred to as the FLASH effect. Currently, the first human trials using electron and proton beams are ongoing, although significant challenges remain in fully understanding the radiobiological and chemical mechanisms behind this phenomenon. This roadmap provides an overview of the current and future challenges of FLASH radiation therapy and outlines research directions to optimally advance the field and design future clinical trials: radiobiology of the FLASH effect, opportunities and beam parameters for the future in FLASH with electrons, intraoperative FLASH radiotherapy with electrons, ultra-high dose-rate dosimetry, opportunities for the future in FLASH with protons, FLASH treatment planning and machine QA with protons, clinical translation of FLASH with electrons and first experiences and challenges of initial proton FLASH trials.
+
+---
+
+## 3. Expert consensus on clinical trial design guidelines for FLASH radiotherapy.
 Authors: Luo H, Cheng C, Yang C, Li B, Zhang J, Yue J, Lou Z, Liu H et al.
 Journal: Precision radiation oncology (2026)
 Identifiers: PMID 42780699; DOI 10.1002/pro6.70098; PMC PMC13598684 (open access)
@@ -16,7 +38,7 @@ Abstract: In recent years, ultra-high dose-rate FLASH radiotherapy (FLASH-RT) ha
 
 ---
 
-## 2. One-year follow-up after fractionated ultra-high-dose-rate FLASH radiotherapy in patient with extramammary Paget disease of the scrotum.
+## 4. One-year follow-up after fractionated ultra-high-dose-rate FLASH radiotherapy in patient with extramammary Paget disease of the scrotum.
 Authors: Luo H, Yang C, Mao R, Ma L, Lei H, Chen P, Zhang Y, Xu M et al.
 Journal: Precision radiation oncology (2026)
 Identifiers: PMID 42358284; DOI 10.1002/pro6.70045; PMC PMC13292164 (open access)
@@ -27,7 +49,7 @@ Abstract: OBJECTIVE: Ultrahigh-dose-rate radiotherapy (FLASH-RT) has been shown 
 
 ---
 
-## 3. FAST-02: Results from the second in-human prospective evaluation of single-fraction proton FLASH for symptomatic thoracic bone metastases.
+## 5. FAST-02: Results from the second in-human prospective evaluation of single-fraction proton FLASH for symptomatic thoracic bone metastases.
 Authors: Daugherty EC, Zhang Y, Xiao Z, Backus L, McDonald JM, Stockman B, Woo J, McCann C et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 42342043; DOI 10.1016/j.radonc.2026.111671
@@ -38,7 +60,7 @@ Abstract: BACKGROUND AND PURPOSE: FAST-01 demonstrated that proton FLASH radioth
 
 ---
 
-## 4. A phase I dose escalation of FLASH radiotherapy in patients with cutaneous metastases from melanoma: The IMPulse trial.
+## 6. A phase I dose escalation of FLASH radiotherapy in patients with cutaneous metastases from melanoma: The IMPulse trial.
 Authors: Kinj R, Schiappacasse L, Grilj V, Tsourti Z, Duclos F, Hebeisen M, Jeanneret-Sozzi W, Viguet-Carrin S et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41628698; DOI 10.1016/j.radonc.2026.111414
@@ -49,7 +71,7 @@ Abstract: INTRODUCTION: The observation in preclinical studies that FLASH radiot
 
 ---
 
-## 5. The prospective phase I "Flash-Skin I" trial: ultra-high dose rate radiotherapy implementation and quality assurance at a clinical linear accelerator.
+## 7. The prospective phase I "Flash-Skin I" trial: ultra-high dose rate radiotherapy implementation and quality assurance at a clinical linear accelerator.
 Authors: Dal Bello R, Psoroulas S, Flückiger D, Krayenbühl J, Moeckli R, Bailat C, Subiel A, Patallo IS et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2026)
 Identifiers: PMID 41520733; DOI 10.1016/j.radonc.2026.111372
@@ -60,7 +82,7 @@ Abstract: BACKGROUND AND PURPOSE: The combination of reduced normal tissue damag
 
 ---
 
-## 6. First-in-human e-Flash radiotherapy using a modified conventional C-arm linear accelerator.
+## 8. First-in-human e-Flash radiotherapy using a modified conventional C-arm linear accelerator.
 Authors: von der Grün J, Dal Bello R, Psoroulas S, Krayenbuehl J, Fesslmeier D, Ramelyte E, Mangana J, Smith W et al.
 Journal: Clinical and translational radiation oncology (2026)
 Identifiers: PMID 41080989; DOI 10.1016/j.ctro.2025.101047; PMC PMC12509727 (open access)
@@ -71,7 +93,7 @@ Abstract: BACKGROUND: The FLASH effect is considered being the widening of the t
 
 ---
 
-## 7. A safety study of ultra-high dose rate FLASH radiotherapy in the treatment of superficial skin tumors: study protocol of a phase I trial (ChiCTR2400080935).
+## 9. A safety study of ultra-high dose rate FLASH radiotherapy in the treatment of superficial skin tumors: study protocol of a phase I trial (ChiCTR2400080935).
 Authors: Yang C, Luo H, Leijie M, Mao R, Lei H, Zhang Y, Xu M, Wang Y et al.
 Journal: Precision radiation oncology (2025)
 Identifiers: PMID 41164421; DOI 10.1002/pro6.70010; PMC PMC12559900 (open access)
@@ -82,7 +104,7 @@ Abstract: OBJECTIVE: Ultra-high dose rate FLASH radiotherapy (FLASH-RT) is emerg
 
 ---
 
-## 8. Consensus statement on the exploration of clinical translation and application of electron ultra-high dose rate FLASH radiotherapy.
+## 10. Consensus statement on the exploration of clinical translation and application of electron ultra-high dose rate FLASH radiotherapy.
 Authors: Luo H, Yang C, Yue J, Ge H
 Journal: Precision radiation oncology (2025)
 Identifiers: PMID 41163974; DOI 10.1002/pro6.70001; PMC PMC12559927 (open access)
@@ -93,7 +115,7 @@ Abstract: Ultra-high dose rate FLASH Radiotherapy (FLASH-RT) has attracted wide 
 
 ---
 
-## 9. Quality assurance and reporting for FLASH clinical trials: The experience of the FEATHER trial.
+## 11. Quality assurance and reporting for FLASH clinical trials: The experience of the FEATHER trial.
 Authors: Colizzi I, Schäfer R, Brückner J, Dellepiane G, Grossmann M, Körner M, Lomax AJ, Meer D et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40904039; DOI 10.1002/mp.18100; PMC PMC12409223 (open access)
@@ -104,7 +126,7 @@ Abstract: BACKGROUND: Research on ultra-high dose rate (UHDR) radiation therapy 
 
 ---
 
-## 10. Requirements and Study Design for the Next Proton FLASH Clinical Trials: an International Multidisciplinary Delphi Consensus.
+## 12. Requirements and Study Design for the Next Proton FLASH Clinical Trials: an International Multidisciplinary Delphi Consensus.
 Authors: Klaver YLB, Hoogeman MS, Lu QR, Bradley JD, Choi JI, Ferris MJ, Grau C, Guha C et al.
 Journal: International journal of radiation oncology, biology, physics (2025)
 Identifiers: PMID 40174648; DOI 10.1016/j.ijrobp.2025.03.047
@@ -115,7 +137,7 @@ Abstract: PURPOSE: The FLASH effect, defined as normal tissue sparing while main
 
 ---
 
-## 11. Rapid Sterilization of Clinical Apheresis Blood Products Using Ultra-High Dose Rate Radiation.
+## 13. Rapid Sterilization of Clinical Apheresis Blood Products Using Ultra-High Dose Rate Radiation.
 Authors: Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau HD, Ashraf MR, Manjappa R et al.
 Journal: International journal of molecular sciences (2025)
 Identifiers: PMID 40141066; DOI 10.3390/ijms26062424; PMC PMC11942528 (open access)
@@ -126,7 +148,7 @@ Abstract: Blood products, including apheresis platelets and plasma, are essentia
 
 ---
 
-## 12. The Radiosurgery Society Working Groups on GRID, LATTICE, Microbeam, and FLASH Radiotherapies: Advancements Symposium and Subsequent Progress Made.
+## 14. The Radiosurgery Society Working Groups on GRID, LATTICE, Microbeam, and FLASH Radiotherapies: Advancements Symposium and Subsequent Progress Made.
 Authors: Snider JW, Mayr NA, Molitoris J, Chhabra AM, Mossahebi S, Griffin R, Mohiuddin M, Zhang H et al.
 Journal: Practical radiation oncology (2025)
 Identifiers: PMID 39447865; DOI 10.1016/j.prro.2024.09.015; PMC PMC12128894 (open access)
@@ -137,7 +159,7 @@ Abstract: PURPOSE: Since the inaugural workshop "Understanding High-Dose, Ultra-
 
 ---
 
-## 13. Rapid Sterilization of Clinical Apheresis Blood Products using Ultra-High Dose Rate Radiation.
+## 15. Rapid Sterilization of Clinical Apheresis Blood Products using Ultra-High Dose Rate Radiation.
 Authors: Melemenidis S, Nguyen KD, Baraceros-Pineda R, Barclay CK, Bautista J, Lau H, Ashraf MR, Manjappa R et al.
 Journal: bioRxiv : the preprint server for biology (2024)
 Identifiers: PMID 39713317; DOI 10.1101/2024.12.14.628469; PMC PMC11661200 (open access)
@@ -148,7 +170,7 @@ Abstract: BACKGROUND AND OBJECTIVES: Apheresis platelets products and plasma are
 
 ---
 
-## 14. Long-term toxicity and efficacy of FLASH radiotherapy in dogs with superficial malignant tumors.
+## 16. Long-term toxicity and efficacy of FLASH radiotherapy in dogs with superficial malignant tumors.
 Authors: Gjaldbæk BW, Arendt ML, Konradsson E, Bastholm Jensen K, Bäck SÅJ, Munck Af Rosenschöld P, Ceberg C, Petersson K et al.
 Journal: Frontiers in oncology (2024)
 Identifiers: PMID 39077466; DOI 10.3389/fonc.2024.1425240; PMC PMC11284943 (open access)
@@ -159,7 +181,7 @@ Abstract: INTRODUCTION: FLASH radiotherapy (RT) has emerged as a promising modal
 
 ---
 
-## 15. Innovations in Physics, Biology and Clinical Translation of Spatially Fractionated and FLASH Radiotherapy.
+## 17. Innovations in Physics, Biology and Clinical Translation of Spatially Fractionated and FLASH Radiotherapy.
 Authors: Griffin RJ, Guha C
 Journal: Seminars in radiation oncology (2024)
 Identifiers: PMID 38880533; DOI 10.1016/j.semradonc.2024.05.005
@@ -170,7 +192,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 16. Unrestricted molecular motions enable mild photothermy for recurrence-resistant FLASH antitumor radiotherapy.
+## 18. Unrestricted molecular motions enable mild photothermy for recurrence-resistant FLASH antitumor radiotherapy.
 Authors: Shen H, Wang H, Mo J, Zhang J, Xu C, Sun F, Ou X, Zhu X et al.
 Journal: Bioactive materials (2024)
 Identifiers: PMID 38694765; DOI 10.1016/j.bioactmat.2024.03.024; PMC PMC11061705 (open access)
@@ -181,7 +203,7 @@ Abstract: Ultrahigh dose-rate (FLASH) radiotherapy is an emerging technology wit
 
 ---
 
-## 17. Minimum and optimal requirements for a safe clinical implementation of ultra-high dose rate radiotherapy: A focus on patient's safety and radiation protection.
+## 19. Minimum and optimal requirements for a safe clinical implementation of ultra-high dose rate radiotherapy: A focus on patient's safety and radiation protection.
 Authors: Garibaldi C, Beddar S, Bizzocchi N, Tobias Böhlen T, Iliaskou C, Moeckli R, Psoroulas S, Subiel A et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)
 Identifiers: PMID 38648991; DOI 10.1016/j.radonc.2024.110291
@@ -192,18 +214,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 18. IOeRT conventional and FLASH treatment planning system implementation exploiting fast GPU Monte Carlo: The case of breast cancer.
-Authors: Franciosini G, Carlotti D, Cattani F, De Gregorio A, De Liso V, De Rosa F, Di Francesco M, Di Martino F et al.
-Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)
-Identifiers: PMID 38608421; DOI 10.1016/j.ejmp.2024.103346
-URL: https://pubmed.ncbi.nlm.nih.gov/38608421/
-Category: Clinical & Translational | Tags: Clinical & Translational, Modeling & Mechanisms, Treatment Planning & Optimization
-
-Abstract: Partial breast irradiation for the treatment of early-stage breast cancer patients can be performed by means of Intra Operative electron Radiation Therapy (IOeRT). One of the main limitations of this technique is the absence of a treatment planning system (TPS) that could greatly help in ensuring a proper coverage of the target volume during irradiation. An IOeRT TPS has been developed using a fast Monte Carlo (MC) and an ultrasound imaging system to provide the best irradiation strategy (electron beam energy, applicator position and bevel angle) and to facilitate the optimisation of dose prescription and delivery to the target volume while maximising the organs at risk sparing. The study has been performed in silico, exploiting MC simulations of a breast cancer treatment. Ultrasound-based input has been used to compute the absorbed dose maps in different irradiation strategies and a quantitative comparison between the different options was carried out using Dose Volume Histograms. The system was capable of exploring different beam energies and applicator positions in few minutes, identifying the best strategy with an overall computation time that was found to be completely compatible with clinical implementation. The systematic uncertainty related to tissue deformation during treatment delivery with respect to imaging acquisition was taken into account. The potential and feasibility of a GPU based full MC TPS implementation of IOeRT breast cancer treatments has been demonstrated in-silico. This long awaited tool will greatly improve the treatment safety and efficacy, overcoming the limits identified within the clinical trials carried out so far.
-
----
-
-## 19. FLASH radiotherapy for the treatment of symptomatic bone metastases in the thorax (FAST-02): protocol for a prospective study of a novel radiotherapy approach.
+## 20. FLASH radiotherapy for the treatment of symptomatic bone metastases in the thorax (FAST-02): protocol for a prospective study of a novel radiotherapy approach.
 Authors: Daugherty EC, Zhang Y, Xiao Z, Mascia AE, Sertorio M, Woo J, McCann C, Russell KJ et al.
 Journal: Radiation oncology (London, England) (2024)
 Identifiers: PMID 38475815; DOI 10.1186/s13014-024-02419-4; PMC PMC10935811 (open access)
@@ -214,7 +225,18 @@ Abstract: BACKGROUND: FLASH therapy is a treatment technique in which radiation 
 
 ---
 
-## 20. Randomized phase II selection trial of FLASH and conventional radiotherapy for patients with localized cutaneous squamous cell carcinoma or basal cell carcinoma: A study protocol.
+## 21. Biomimetic Nano-Cancer Stem Cell Scavenger for Inhibition of Breast Cancer Recurrence and Metastasis after FLASH-Radiotherapy.
+Authors: Suo M, Shen H, Lyu M, Jiang Y, Liao X, Tang W, Pan Y, Zhang T et al.
+Journal: Small (Weinheim an der Bergstrasse, Germany) (2024)
+Identifiers: PMID 38368259; DOI 10.1002/smll.202400666
+URL: https://pubmed.ncbi.nlm.nih.gov/38368259/
+Category: Clinical & Translational | Tags: Radiobiology
+
+Abstract: Compared to conventional radiotherapy (RT), FLASH-RT delivers ultra-high dose radiation, significantly reducing damage to normal tissue while guaranteeing the effect of cancer treatment. However, cancer recurrence and metastasis frequently occur after all RT due to the existence of intractable cancer stem cells (CSCs). To address this, a biomimetic nanoplatform (named TAFL) of tumor-derived exosome fusion liposomes is designed by co-loading aggregation-induced emission photothermal agents, TPE-BBT, and anti-cancer drugs, aspirin, aiming to clear CSCs for inhibiting cancer recurrence and metastasis after FLASH-RT therapy . Aspirin released in TAFL system triggered by laser irradiation can induce apoptosis and DNA damage of 4T1 CSCs, comprehensively downregulate their stemness phenotype, and inhibit their sphericity. Furthermore, the TPE-BBT mediated mild-photothermal therapy can alleviate the hypoxic tumor microenvironment, inhibit the DNA repair of CSCs, which further amplifies the effect of aspirin against CSCs, therefore reduces the effective dose of aspirin, making TAFL more biologically safe. In vivo experimental results demonstrated that decreased CSCs population mediated by TAFL system treatment significantly inhibited tumor recurrence and metastasis after FLASH-RT therapy. In summary, this TAFL system   provides a new idea for the future clinical application of FLASH-RT therapy.
+
+---
+
+## 22. Randomized phase II selection trial of FLASH and conventional radiotherapy for patients with localized cutaneous squamous cell carcinoma or basal cell carcinoma: A study protocol.
 Authors: Kinj R, Gaide O, Jeanneret-Sozzi W, Dafni U, Viguet-Carrin S, Sagittario E, Kypriotou M, Chenal J et al.
 Journal: Clinical and translational radiation oncology (2024)
 Identifiers: PMID 38362466; DOI 10.1016/j.ctro.2024.100743; PMC PMC10867306 (open access)
@@ -225,18 +247,40 @@ Abstract: BACKGROUND: Cutaneous basal cell carcinoma (BCC) and squamous cell car
 
 ---
 
-## 21. Multi-institutional consensus on machine QA for isochronous cyclotron-based systems delivering ultra-high dose rate (FLASH) pencil beam scanning proton therapy in transmission mode.
-Authors: Spruijt K, Mossahebi S, Lin H, Lee E, Kraus J, Dhabaan A, Poulsen P, Lowe M et al.
-Journal: Medical physics (2024)
-Identifiers: PMID 38103260; DOI 10.1002/mp.16854
-URL: https://pubmed.ncbi.nlm.nih.gov/38103260/
-Category: Clinical & Translational | Tags: Clinical & Translational, Physics & Dosimetry, Beam Delivery & Technology, Radiobiology
+## 23. Novel Combination Treatment for Melanoma: FLASH Radiotherapy and Immunotherapy Delivered by a Radiopaque and Radiation Responsive Hydrogel.
+Authors: Dong YC, Nieves LM, Hsu JC, Kumar A, Bouché M, Krishnan U, Mossburg KJ, Saxena D et al.
+Journal: Chemistry of materials : a publication of the American Chemical Society (2023)
+Identifiers: PMID 38933522; DOI 10.1021/acs.chemmater.3c01390; PMC PMC11198981 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/38933522/
+Category: Clinical & Translational | Tags: Radiobiology, Clinical & Translational
 
-Abstract: BACKGROUND: The first clinical trials to assess the feasibility of FLASH radiotherapy in humans have started (FAST-01, FAST-02) and more trials are foreseen. To increase comparability between trials it is important to assure treatment quality and therefore establish a standard for machine quality assurance (QA). Currently, the AAPM TG-224 report is considered as the standard on machine QA for proton therapy, however, it was not intended to be used for ultra-high dose rate (UHDR) proton beams, which have gained interest due to the observation of the FLASH effect. PURPOSE: The aim of this study is to find consensus on practical guidelines on machine QA for UHDR proton beams in transmission mode in terms of which QA is required, how they should be done, which detectors are suitable for UHDR machine QA, and what tolerance limits should be applied. METHODS: A risk assessment to determine the gaps in the current standard for machine QA was performed by an international group of medical physicists. Based on that, practical guidelines on how to perform machine QA for UHDR proton beams were proposed. RESULTS: The risk assessment clearly identified the need for additional guidance on temporal dosimetry, addressing dose rate (constancy), dose spillage, and scanning speed. In addition, several minor changes from AAPM TG-224 were identified; define required dose rate levels, the use of clinically relevant dose levels, and the use of adapted beam settings to minimize activation of detector and phantom materials or to avoid saturation effects of specific detectors. The final report was created based on discussions and consensus. CONCLUSIONS: Consensus was reached on what QA is required for UHDR scanning proton beams in transmission mode for isochronous cyclotron-based systems and how they should be performed. However, the group discussions also showed that there is a lack of high temporal resolution detectors and sufficient QA data to set appropriate limits for some of the proposed QA procedures.
+Abstract: Immunotherapies have become the standard treatment for melanoma. To further improve patient responses, combinations of immunotherapies and radiotherapy (RT) are being studied, since radiotherapies can potentially provide additional immune stimulation, in addition to direct antitumor effects. FLASH-RT is a novel, ultrahigh dose rate, radiation delivery approach, with the potential of at least equivalent tumor control efficacy and reduced damage to healthy tissue. However, the effects of combining FLASH-RT and immunotherapy have not been extensively studied in melanoma. Toll-like receptor (TLR) agonists, such as imiquimod (IMQ), are potent immunostimulatory agents, although their utility is limited due to poor solubility and systemic side effects. We therefore developed a novel combination therapy for melanoma consisting of IMQ delivered to the tumor via a radiopaque and radiation responsive hydrogel combined with FLASH-RT. We found that FLASH was able to effectively stimulate IMQ release from the hydrogel. In addition, we found that the combination of FLASH and released IMQ resulted in synergistic melanoma cell killing in vitro. The combination therapy reduced tumor growth compared to controls, enhanced survival, and resulted in remarkable enhancements in certain tumor cytokine levels. CT imaging allowed the hydrogel to be monitored in vivo. In addition, no adverse effects of the treatment were observed. Overall, this IMQ-gel and FLASH-RT combination may have potential as an improved treatment for melanoma and indicates that the interactions of FLASH-RT and TLR agonists merit further study.
 
 ---
 
-## 22. Evaluation of intensity-modulated electron FLASH radiotherapy in a clinical setting using veterinary cases.
+## 24. Stereotactic body proton therapy for non-small cell lung cancer: Clinical indications and recommendations.
+Authors: McMillan MT, Kang M, Shepherd AF, Liu W, Lin L, Lin H, Simone CB
+Journal: Journal of radiosurgery and SBRT (2023)
+Identifiers: PMID 38029014; PMC PMC10681144 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/38029014/
+Category: Clinical & Translational | Tags: Radiobiology, Physics & Dosimetry
+
+Abstract: Stereotactic body radiation therapy (SBRT) has emerged as a standard treatment approach for early-stage lung cancer and intrathoracic oligometastatic or oligoprogressive disease. While local control is often excellent with this modality when delivered with photon therapy, toxicities for select patients can be significant. Proton therapy offers a unique opportunity to widen the therapeutic window when treating patients with thoracic malignancies requiring or benefitting from ultra-high doses per fraction. Thoracic proton SBRT may be particularly beneficial in cases requiring dose escalation, for tumors >5 cm, for central or ultra-central tumors, for reirradiation, in patients with interstitial lung diseases, and when combining radiation with immunotherapy. These clinical indications are detailed, along with supporting literature and clinical recommendations. Other considerations, future directions and potential benefits of proton SBRT, including sparing lymphocytes, when delivered as intensity-modulated proton therapy or as FLASH, and for the treatment of locally advanced non-small cell lung cancer or in patients with homologous recombination repair deficiencies, are also discussed.
+
+---
+
+## 25. New insights on clinical perspectives of FLASH radiotherapy: from low- to very high electron energy.
+Authors: Ursino S, Gadducci G, Giannini N, Gonnelli A, Fuentes T, Di Martino F, Paiar F
+Journal: Frontiers in oncology (2023)
+Identifiers: PMID 37936603; DOI 10.3389/fonc.2023.1254601; PMC PMC10626470 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/37936603/
+Category: Clinical & Translational | Tags: Radiobiology, Beam Delivery & Technology, Clinical & Translational, Physics & Dosimetry
+
+Abstract: Radiotherapy (RT) is performed in approximately 75% of patients with cancer, and its efficacy is often hampered by the low tolerance of the surrounding normal tissues. Recent advancements have demonstrated the potential to widen the therapeutic window using "very short" radiation treatment delivery (from a conventional dose rate between 0.5 Gy/min and 2 Gy/min to more than 40 Gy/s) causing a significant increase of normal tissue tolerance without varying the tumor effect. This phenomenon is called "FLASH Effect (FE)" and has been discovered by using electrons. Although several physical, dosimetric, and radiobiological aspects need to be clarified, current preclinical "in vivo" studies have reported a significant protective effect of FLASH RT on neurocognitive function, skin toxicity, lung fibrosis, and bowel injury. Therefore, the current radiobiological premises lay the foundation for groundbreaking potentials in clinical translation, which could be addressed to an initial application of Low Energy Electron FLASH (LEE) for the treatment of superficial tumors to a subsequent Very High Energy Electron FLASH (VHEE) for the treatment of deep tumors. Herein, we report a clinical investigational scenario that, if supported by preclinical studies, could be drawn in the near future.
+
+---
+
+## 26. Evaluation of intensity-modulated electron FLASH radiotherapy in a clinical setting using veterinary cases.
 Authors: Konradsson E, Szecsenyi RE, Adrian G, Coskun M, Børresen B, Arendt ML, Erhart K, Bäck SÅ et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37696040; DOI 10.1002/mp.16737
@@ -247,7 +291,7 @@ Abstract: PURPOSE: The increased normal tissue tolerance for FLASH radiotherapy 
 
 ---
 
-## 23. Definition of dose rate for FLASH pencil-beam scanning proton therapy: A comparative study.
+## 27. Definition of dose rate for FLASH pencil-beam scanning proton therapy: A comparative study.
 Authors: Deffet S, Hamaide V, Sterpin E
 Journal: Medical physics (2023)
 Identifiers: PMID 37439504; DOI 10.1002/mp.16607
@@ -258,7 +302,7 @@ Abstract: BACKGROUND: FLASH proton therapy has the potential to reduce side effe
 
 ---
 
-## 24. Emerging technologies for cancer therapy using accelerated particles.
+## 28. Emerging technologies for cancer therapy using accelerated particles.
 Authors: Graeff C, Volz L, Durante M
 Journal: Progress in particle and nuclear physics (2023)
 Identifiers: PMID 37207092; DOI 10.1016/j.ppnp.2023.104046; PMC PMC7614547 (open access)
@@ -269,7 +313,7 @@ Abstract: Cancer therapy with accelerated charged particles is one of the most v
 
 ---
 
-## 25. Surface guided electron FLASH radiotherapy for canine cancer patients.
+## 29. Surface guided electron FLASH radiotherapy for canine cancer patients.
 Authors: Mannerberg A, Konradsson E, Kügele M, Edvardsson A, Kadhim M, Ceberg C, Peterson K, Thomasson HM et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37190907; DOI 10.1002/mp.16453
@@ -280,7 +324,7 @@ Abstract: BACKGROUND: During recent years FLASH radiotherapy (FLASH-RT) has show
 
 ---
 
-## 26. Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
+## 30. Proton FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases: The FAST-01 Nonrandomized Trial.
 Authors: Mascia AE, Daugherty EC, Zhang Y, Lee E, Xiao Z, Sertorio M, Woo J, Backus LR et al.
 Journal: JAMA oncology (2023)
 Identifiers: PMID 36273324; DOI 10.1001/jamaoncol.2022.5843; PMC PMC9589460 (open access)
@@ -291,7 +335,7 @@ Abstract: IMPORTANCE: To our knowledge, there have been no clinical trials of ul
 
 ---
 
-## 27. FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases (FAST-01): Protocol for the First Prospective Feasibility Study.
+## 31. FLASH Radiotherapy for the Treatment of Symptomatic Bone Metastases (FAST-01): Protocol for the First Prospective Feasibility Study.
 Authors: Daugherty EC, Mascia A, Zhang Y, Lee E, Xiao Z, Sertorio M, Woo J, McCann C et al.
 Journal: JMIR research protocols (2023)
 Identifiers: PMID 36206189; DOI 10.2196/41812; PMC PMC9893728 (open access)
@@ -302,7 +346,7 @@ Abstract: BACKGROUND: In preclinical studies, FLASH therapy, in which radiation 
 
 ---
 
-## 28. Clinical feasibility of combining intraoperative electron radiation therapy with minimally invasive surgery: a potential for electron-FLASH clinical development.
+## 32. Clinical feasibility of combining intraoperative electron radiation therapy with minimally invasive surgery: a potential for electron-FLASH clinical development.
 Authors: Calvo Manuel FÁ, Serrano J, Solé C, Cambeiro M, Palma J, Aristu J, Garcia-Sabrido JL, Cuesta MA et al.
 Journal: Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico (2023)
 Identifiers: PMID 36169803; DOI 10.1007/s12094-022-02955-z; PMC PMC9873754 (open access)
@@ -313,7 +357,7 @@ Abstract: BACKGROUND: Local cancer therapy by combining real-time surgical explo
 
 ---
 
-## 29. Evaluation of a conventionally shielded proton treatment room for FLASH radiotherapy.
+## 33. Evaluation of a conventionally shielded proton treatment room for FLASH radiotherapy.
 Authors: Xiao Z, Zhang Y, Speth J, Lee E, Mascia A, Lamba M
 Journal: Medical physics (2022)
 Identifiers: PMID 36114793; DOI 10.1002/mp.15964; PMC PMC10091931 (open access)
@@ -324,7 +368,7 @@ Abstract: PURPOSE: FLASH radiotherapy (FLASH-RT) is the potential for a major br
 
 ---
 
-## 30. Comparable Long-Term Tumor Control for Hypofractionated FLASH Versus Conventional Radiation Therapy in an Immunocompetent Rat Glioma Model.
+## 34. Comparable Long-Term Tumor Control for Hypofractionated FLASH Versus Conventional Radiation Therapy in an Immunocompetent Rat Glioma Model.
 Authors: Konradsson E, Liljedahl E, Gustafsson E, Adrian G, Beyer S, Ilaahi SE, Petersson K, Ceberg C et al.
 Journal: Advances in radiation oncology (2022)
 Identifiers: PMID 36092986; DOI 10.1016/j.adro.2022.101011; PMC PMC9449779 (open access)
@@ -335,7 +379,7 @@ Abstract: PURPOSE: To ensure a clinical translation of FLASH radiation therapy (
 
 ---
 
-## 31. Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
+## 35. Shining a FLASHlight on Ultrahigh Dose-Rate Radiation and Possible Late Toxicity.
 Authors: Maity A, Koumenis C
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2022)
 Identifiers: PMID 35736814; DOI 10.1158/1078-0432.CCR-22-1255; PMC PMC9444945 (open access)
@@ -346,7 +390,7 @@ Abstract: A recent study reported results from a clinical trial in cats and from
 
 ---
 
-## 32. Establishment and Initial Experience of Clinical FLASH Radiotherapy in Canine Cancer Patients.
+## 36. Establishment and Initial Experience of Clinical FLASH Radiotherapy in Canine Cancer Patients.
 Authors: Konradsson E, Arendt ML, Bastholm Jensen K, Børresen B, Hansen AE, Bäck S, Kristensen AT, Munck Af Rosenschöld P et al.
 Journal: Frontiers in oncology (2021)
 Identifiers: PMID 34055624; DOI 10.3389/fonc.2021.658004; PMC PMC8155542 (open access)
@@ -357,7 +401,7 @@ Abstract: FLASH radiotherapy has emerged as a treatment technique with great pot
 
 ---
 
-## 33. Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
+## 37. Re: Differential impact of FLASH versus conventional dose rate irradiation: Spitz et al.
 Authors: Koch CJ
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31431380; DOI 10.1016/j.radonc.2019.07.004
@@ -368,7 +412,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 34. Ultrahigh Dose-rate Radiotherapy: Next Steps for FLASH-RT.
+## 38. Ultrahigh Dose-rate Radiotherapy: Next Steps for FLASH-RT.
 Authors: Harrington KJ
 Journal: Clinical cancer research : an official journal of the American Association for Cancer Research (2019)
 Identifiers: PMID 30093447; DOI 10.1158/1078-0432.CCR-18-1796
