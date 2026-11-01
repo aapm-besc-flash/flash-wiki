@@ -1,22 +1,66 @@
 # FLASH Radiotherapy Literature — Physics & Dosimetry
-AAPM BESC FLASH Working Group. Corpus generated 2026-10-01. 243 papers.
+AAPM BESC FLASH Working Group. Corpus generated 2026-11-01. 251 papers.
 
 Each entry below is one peer-reviewed publication: title, authors, journal/year, identifiers, and the authors' abstract.
 
 ---
 
-## 1. Characterization and Mitigation of Boundary Sampling Artifacts in Electron Phase Space Generation for Clinical FLASH-RT Deployment.
+## 1. VHEE beam parameter extraction from depth-dose and lateral profile measurements: a Monte Carlo parametric study.
+Authors: Rezzoug M, Oulhouq Y, Hamzaoui O, Zerfaoui M, Rrhioua A, Bakari D
+Journal: Radiological physics and technology (2026)
+Identifiers: PMID 42965639; DOI 10.1007/s12194-026-01160-9
+URL: https://pubmed.ncbi.nlm.nih.gov/42965639/
+Category: Physics & Dosimetry | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Physics & Dosimetry
+
+Abstract: Very High Energy Electrons (VHEE, 50-300 MeV) are a promising modality for deep-seated tumour irradiation. Accurate Monte Carlo (MC) dose calculation requires precise determination of five primary beam parameters: Energy (E), Source size (σ₀), angular divergence (θ), energy spread (ΔE), and source-to-surface distance (SSD). This study quantified the independent influence of each parameter and derived inverse formulae enabling their reconstruction from measured percentage depth-dose (PDD) curves and lateral dose profiles. GATE v9.3 simulations were performed for 50-300 MeV electron beams in a homogeneous water phantom (30 × 30 × 30 cm³, 1 mm³ voxels). A one-factor-at-a-time approach varied E, σ₀ (0-10 mm), θ (0-80 mrad), ΔE (0-50 MeV), and SSD (0-100 cm). For each configuration, 2 × 10⁹ primary electrons were simulated, yielding uncertainties < 1% at Dmax and < 3% distally. Longitudinal observables (R100, R90, R80, R50, R20, surface dose, distal width W=R20 - R80) and lateral observables (FWHM, penumbra) were extracted. Inverse relationships - relating beam energy to R50, source size to FWHM, divergence to R90, and energy spread to the distal width W - were derived by weighted least-squares regression - expressing beam energy as a function of R50, source size as a function of the lateral field size (FWHM), divergence as a function of R90, and energy spread as a function of the distal fall-off width (W = R20 - R80) - and validated using five independent datasets. Longitudinal observables followed a quadratic model in σ₀ (adjusted R²>0.98, RMSE < 2 mm). For the reference configuration, energy was related to R50 by E=(R50 - 38.97)/0.5699. Source size was obtained from σ₀=FWHM/2.355, divergence from R90, and energy spread from W. Validation showed energy agreement within ± 4% for five datasets. The proposed inverse formulae enable rapid and accurate extraction of VHEE beam parameters from routine dosimetric measurements, supporting beam commissioning, quality assurance, and TPS validation for VHEE and FLASH-VHEE systems.
+
+---
+
+## 2. Analysis on radiation protection of FLASH treatment in conventional proton therapy facilities.
+Authors: Wang Y, Deng C, Gao N, Zhang Y, Wang Y, Liu M, Zhou T, Lu YM et al.
+Journal: Medical physics (2026)
+Identifiers: PMID 42961338; DOI 10.1002/mp.70747
+URL: https://pubmed.ncbi.nlm.nih.gov/42961338/
+Category: Physics & Dosimetry | Tags: Radiobiology, Physics & Dosimetry, Beam Delivery & Technology, Clinical & Translational
+
+Abstract: BACKGROUND: FLASH radiotherapy is an advanced radiotherapy technique featuring ultra-high dose-rate irradiation. Previous preclinical studies have shown that it can significantly reduce damage to normal tissues while preserving the ability to kill tumor cells. Due to the very high current intensity of FLASH radiotherapy, the effectiveness of radiation shielding in current proton therapy facilities needs to be evaluated prior to clinical studies. PURPOSE: Based on the existing shielding conditions of a ProBeam proton therapy system for conventional proton therapy treatment, we studied the shielding effectiveness of FLASH treatment in both the transmission and Bragg-peak modes. METHODS: Under the conditions of single-point irradiation using a proton beam with the highest clinical energy of 244MeV, and the beam intensity of 5nA, 10nA, and 20nA at the nozzle, the ambient equivalent dose rate outside the shielding door was measured with neutron and γ detector, in order to determine the linear relationship between the current intensity and the ambient dose rate. In addition, a gantry room was used as the study object, and the layout design of the points of interest was carried out according to the layout of the proton treatment facility and the transport path and direction of the proton beam, and the most unfavorable working conditions were set for each point of interest. The beam energy was set to 244 MeV, with a cylindrical water phantom (20 cm in diameter) and a solid water block (40 × 40 × 40 cm3) placed at the isocenter. The current at the nozzle was set to 20 nA, and comprehensive environmental dose rate measurements were carried out for the proton radiation workplace. RESULTS: A linear relationship was observed between nozzle current and ambient dose equivalent rate. Based on the linear relationship, when the current was extrapolated to a FLASH current of 170 nA, the measured instantaneous dose rates at some locations were relatively high, with the maximum value of 74.04 µSv/h recorded outside the shielding door. Under the conservative assumption that the total annual beam delivery time is 5 h (treating 6 patients per hour), the maximum annual occupational exposure doses for radiation workers under the transmission and Bragg Peak modes are 0.370 mSv and 0.236 mSv, respectively, which are well below the annual occupational dose limit. CONCLUSIONS: The results indicate that, under existing conventional shielding conditions, the radiation risk posed to the environment outside the treatment room by FLASH irradiation using the Varian ProBeam proton therapy system is safe and controllable, and the annual occupational radiation dose for radiation workers is well below the annual dose equivalent limit. This provides important radiation safety justification for the clinical implementation of FLASH technology in existing proton therapy facilities.
+
+---
+
+## 3. Scintillating Micro-Probe Detectors for Conventional and FLASH Proton Dosimetry: Optical Transport and Geometry Modeling.
+Authors: Subedi SK, Debnath SBC
+Journal: Bioengineering (Basel, Switzerland) (2026)
+Identifiers: PMID 42939044; DOI 10.3390/bioengineering13101189; PMC PMC13701824 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/42939044/
+Category: Physics & Dosimetry | Tags: Physics & Dosimetry, Modeling & Mechanisms
+
+Abstract: Optical fiber-based inorganic scintillating detectors (ISDs) are increasingly investigated for radiation therapy applications, including microbeam and ultra-high-dose-rate dosimetry. Accurate characterization of these compact detectors is particularly important for proton beams delivered under high-flux and FLASH conditions. Simplified analytical and ray-tracing models can estimate detector saturation limits but may inadequately account for internal optical scattering and the fiber insertion geometry within the scintillating volume, leading to inaccurate estimates of the effective sensitive volume and dose-rate response. In this study, we developed a detailed computational framework that explicitly models the fiber-scintillator geometry and volumetric optical photon transport. Five detector geometries with different sensitive volumes were evaluated under 25 and 230 MeV proton irradiation using a fully volumetric GATE Monte Carlo optical transport model incorporating intra-dosimeter optical scattering. The results revealed a clear inverse relationship between detector sensitive volume and maximum measurable dose rate before saturation. At 25 MeV, the maximum measurable dose rate (D˙max) ranged from 364.5 ± 7.6 Gy/s for the smallest detector to 13.5 ± 0.2 Gy/s for the largest detector, while at 230 MeV, it ranged from 392.6 ± 8.1 Gy/s down to 15.6 ± 0.3 Gy/s at 230 MeV, respectively. These findings demonstrate that fiber insertion geometry and volumetric optical scattering significantly influence the dose-rate response and saturation threshold of scintillating micro-probes. Accurate modeling of these effects is therefore essential for optimizing detector geometry, establishing reliable quantitative dosimetry across conventional and proton-FLASH dose-rate regimes.
+
+---
+
+## 4. Charge collection efficiency in air-vented plane-parallel ionisation chambers at ultra-high dose rates: a self-consistent Garfield++ Monte Carlo model including space-charge effects and ion recombination.
+Authors: Gérard Ortega P, De Lentdecker G, Flandroy Q, Nys J
+Journal: Physics in medicine and biology (2026)
+Identifiers: PMID 42933125; DOI 10.1088/1361-6560/aeb99e
+URL: https://pubmed.ncbi.nlm.nih.gov/42933125/
+Category: Physics & Dosimetry | Tags: Physics & Dosimetry, Modeling & Mechanisms
+
+Abstract: Ultra-high dose rate (UHDR) irradiation used in FLASH radiotherapy can lead to significant reductions in charge collection efficiency (CCE) in plane-parallel ionisation chambers (PPICs) due to enhanced ion recombination, while the high charge densities involved can also induce strong space-charge-induced electric-field distortions. This work aims to develop a Monte Carlo framework for investigating these coupled effects.&#xD;&#xD;Approach: We extended the Garfield++ Monte Carlo particle-transport framework by implementing ion-ion recombination and self-consistent space-charge electric field calculations. The resulting model couples particle transport, electron attachment, recombination processes, and dynamic electric-field distortions. The implementation was validated against analytical and numerical models from the literature.&#xD;&#xD;Main results: Excellent agreement was obtained for the free electron fraction (FEF), CCE, induced current, and electric field evolution under UHDR conditions. The simulations show that space charge can locally increase the electric field by more than a factor of four or reduce it to nearly zero in some regions of the chamber. The results further suggest that the decrease in the FEF caused by electric-field-dependent electron attachment plays a major role in the reduction of the CCE under UHDR conditions.&#xD;&#xD;Significance: These findings highlight the importance of accurately describing the evolution of the FEF for modelling recombination under UHDR conditions, opening up prospects for improved analytical models and real-time correction methods for ionisation chamber dosimetry. More broadly, this work provides a flexible and self-consistent Monte Carlo framework for investigating recombination phenomena and improving dosimetry models for FLASH radiotherapy.
+
+---
+
+## 5. Characterization and Mitigation of Boundary Sampling Artifacts in Electron Phase Space Generation for Clinical FLASH-RT Deployment.
 Authors: Carballeira R, Zhang R, Willy KJ, Cash H, Gladstone DJ
 Journal: ArXiv (2026)
 Identifiers: PMID 42818460; PMC PMC13622438 (open access)
 URL: https://pubmed.ncbi.nlm.nih.gov/42818460/
-Category: Physics & Dosimetry | Tags: Modeling & Mechanisms, Beam Delivery & Technology
+Category: Physics & Dosimetry | Tags: Modeling & Mechanisms, Treatment Planning & Optimization, Beam Delivery & Technology
 
-Abstract: Applicator-specific phase space (PHSP) files recorded at the aperture exit reduce Monte Carlo dose calculation time by 30-50% for electron FLASH radiotherapy. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts. This study characterizes these artifacts in Geant4-based simulations and demonstrates their mitigation. PHSP files were generated using GAMOS 6.2.0 for a 9 MeV Mobetron UHDR model across twelve clinical aperture configurations (2.5-10 cm diameter). Three scoring plane positions were evaluated relative to the physical aperture exit: coincident with the interface, 0.1 mm downstream, and 1 mm downstream. Scoring at the exact interface produced proximal R50 shifts of up to 2.2 mm and Distance-to-Agreement (DTA) values of 4-6 mm, exceeding clinical acceptance criteria. Artifact severity scaled inversely with aperture diameter, with the smallest configurations most severely affected. A 0.1 mm offset partially restored the primary electron energy spectrum but failed to recover the bremsstrahlung tail. A 1 mm offset fully resolved all artifacts, achieving mean DTA values within 2.0 mm, equivalent to or better than linac-exit references. These artifacts arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety equals zero at exact material boundaries, producing incomplete secondary electron equilibration and suppressed bremsstrahlung production. Angular distribution analysis revealed a near-forward particle pileup in the 0 mm PHSP and a deficit of large-angle secondaries recovered by the 1 mm offset. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics. This requirement applies to any Geant4-based framework (including TOPAS and GATE) scoring PHSP files at material exit surfaces.
+Abstract: BACKGROUND: Clinical implementation of Monte Carlo (MC)-based treatment planning for electron FLASH radiotherapy requires computationally efficient phase space (PHSP) generation strategies to meet the planning timelines of ultra-high-dose-rate (UHDR) delivery. Applicator-specific PHSP files, recorded at the aperture exit, reduce dose calculation time by 30-50% relative to traditional placement at the linac-exit window, enabling clinically practical planning cycles for FLASH treatment planning system (TPS) deployment. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts that have not been previously characterized in the electron PHSP literature. PURPOSE: To identify and characterize a boundary sampling artifact arising in Geant4-based Monte Carlo simulations when PHSP scoring planes are positioned coincident with material-air interfaces, and to demonstrate its mitigation through systematic scoring plane offset, enabling clinical deployment of applicator-specific electron beam PHSP libraries for FLASH-RT treatment planning. METHODS: Applicator-specific PHSP files were generated using GAMOS 6.2.0 for a commissioned 9 MeV Mobetron UHDR Monte Carlo model across twelve clinical aperture configurations (2.5-10 cm diameter) intended for deployment in the GMV Radiance treatment planning system. The scoring plane sensitivity analysis was performed on the A6 short cone (aperture exit at 397 mm) across three positions: coincident with the material-air interface (397 mm), 0.1 mm downstream (397.1 mm), and 1 mm downstream (398 mm). The corresponding 1 mm offset was subsequently applied to the A10 long cone (aperture exit at 406 mm, scoring plane at 407 mm) for global validation. Dose calculations were benchmarked against linac-exit PHSP references and experimental water phantom measurements via distance-to-agreement (DTA) analysis against the 3 mm clinical acceptance criterion established by AAPM TG-105. RESULTS: Scoring at the exact interface produced systematic proximal R50 shifts of up to 2.2 mm and DTA values of 4-6 mm for small-aperture configurations, exceeding the clinical acceptance criterion and rendering the PHSP library unsuitable for clinical deployment. A 0.1 mm offset partially corrected the angular distribution at the boundary but failed to resolve the energy-loss artifact affecting the distal falloff region. A 1 mm offset fully resolved all artifacts, achieving mean DTA values of 1.45 ± 0.63 mm (A6 series PDDs) and 2.00 ± 0.61 mm (A10 series PDDs), equivalent to or better than the linac-exit reference across all twelve configurations. CONCLUSIONS: Boundary sampling artifacts in Geant4-based PHSP generation arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety = 0 at exact material boundaries, producing incomplete secondary electron equilibration and a systematic energy-loss artifact in the scored particle population that manifests as a proximal shift of the distal dose falloff. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics, enabling clinical deployment of the resulting applicator-specific PHSP library in the GMV Radiance TPS for FLASH-RT treatment planning. This offset requirement warrants investigation in other Geant4-based frameworks (including TOPAS and GATE) scoring PHSP files at applicator or collimator exit surfaces.
 
 ---
 
-## 2. Evaluation of a Faraday cup-style detector as a beam diagnostic system for ultra-high dose rate (FLASH) electron beams.
+## 6. Evaluation of a Faraday cup-style detector as a beam diagnostic system for ultra-high dose rate (FLASH) electron beams.
 Authors: Lopez A, Baikalov A, Liu K, Esplen N, Bartzsch S, Schüler E
 Journal: Journal of applied clinical medical physics (2026)
 Identifiers: PMID 42786706; DOI 10.1002/acm2.70819; PMC PMC13612965 (open access)
@@ -27,29 +71,29 @@ Abstract: BACKGROUND: Beam diagnostic systems are essential for the development 
 
 ---
 
-## 3. Toward quantitative reconstruction of delivered dose in a 3D digital water phantom for electron FLASH-RT via annular-array electron-induced acoustic imaging.
+## 7. Toward quantitative reconstruction of delivered dose in a 3D digital water phantom for electron FLASH-RT via annular-array electron-induced acoustic imaging.
 Authors: Hu X, Liu H, Wang Y, Yang Q, Cheng D, Zhang Y, Nie X, Wang J et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42777767; DOI 10.1088/1361-6560/aeabec
 URL: https://pubmed.ncbi.nlm.nih.gov/42777767/
 Category: Physics & Dosimetry | Tags: Physics & Dosimetry, Radiobiology, Modeling & Mechanisms
 
-Abstract: Electron FLASH radiotherapy (FLASH-RT) represents a revolutionary and disruptive radiotherapy modality. It delivers high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to healthy normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. To overcome this dosimetric bottleneck, we propose and validate an electron-induced acoustic (EA) reconstruction framework that synergistically integrates adaptive denoising regularization (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, enabling robust quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a three-dimensional (3D) digital water phantom, which serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer's frequency response and the dosimetry system's independent response characteristics. The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion, indicating its promising potential for clinical dose distribution verification and beam parameter characterization in electron-based FLASH-RT.
+Abstract: Objective. Electron FLASH radiotherapy (FLASH-RT) represents a disruptive radiotherapy modality. It enables high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. This study aims to evaluate the feasibility of quantitatively reconstructing dose distributions in electron-based FLASH-RT from multi-angle electron-induced acoustic (EA) signals in a three-dimensional (3D) digital water phantom, systematically assessing the effects of transducer configuration, the efficacy of deconvolution for signal restoration, and the depth dependence of reconstruction accuracy.Approach.We propose and validate an electron-induced acoustic imaging (EAI) reconstruction framework that synergistically integrates adaptive denoising preprocessing (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, to enable quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a 3D digital water phantom; these signals serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer's frequency response and the dosimetry system's independent response characteristics.Main results.The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion. Also, the central-profile dose curve was in good agreement with the reference dose curve, with an average dose difference of less than 6.35%.Significance.The results demonstrate the potential of this EAI-based dosimetry method for quantitative dose assessment and beam parameter characterization in electron-based FLASH-RT.
 
 ---
 
-## 4. Study of three-dimensional dose distribution measurement of ultra-high dose rate electron beam.
+## 8. Study of three-dimensional dose distribution measurement of ultra-high dose rate electron beam.
 Authors: Zhang W, Cheng C, Mao R, Ma L, Li D, Peng Z, Zhu K, Liu W et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42777766; DOI 10.1088/1361-6560/aeabeb
 URL: https://pubmed.ncbi.nlm.nih.gov/42777766/
 Category: Physics & Dosimetry | Tags: Physics & Dosimetry, Radiobiology, Treatment Planning & Optimization
 
-Abstract: FLASH radiotherapy which employs an ultra-high dose rate (>40 Gy/s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for three-dimensional dose reconstruction. &#xD;Approach: A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization (OSEM) iterative algorithm was adopted to obtain three-dimensional dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate X-rays, as well as 9 MeV electron with an ultra-high dose rate (UHDR) of 120 Gy/s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold). &#xD;Results: The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional X-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution. &#xD;Significance: The proposed three-dimensional dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It shows high accuracy in the evaluation of lateral parameters such as field shape, field size, flatness and uniformity, and can meet the basic requirements for field consistency verification in clinical UHDR radiotherapy QA.
+Abstract: Objective. FLASH radiotherapy which employs an ultra-high dose rate (UHDR) (Gy s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional (3D) dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for 3D dose reconstruction.Approach. A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization iterative algorithm was adopted to obtain 3D dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate x-rays, as well as 9 MeV electron with an UHDR of 120 Gy s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold).Results. The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional x-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution.Significance. The proposed 3D dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It demonstrates favourable performance when evaluating lateral parameters including field shape, field size, flatness and uniformity, which is promising for field consistency verification in clinical UHDR radiotherapy QA.
 
 ---
 
-## 5. Pulse-resolved spatial dosimetry of ultra-high dose rate electron FLASH beams using optical imaging.
+## 9. Pulse-resolved spatial dosimetry of ultra-high dose rate electron FLASH beams using optical imaging.
 Authors: Schneider F, Bauer CJ, Giordano FA, Fleckenstein J
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)
 Identifiers: PMID 42731540; DOI 10.1016/j.ejmp.2026.107179
@@ -60,7 +104,7 @@ Abstract: PURPOSE: Ultra-high dose rate FLASH radiotherapy has shown the potenti
 
 ---
 
-## 6. Evaluation of the Exradin A30 Parallel Plate Ion Chamber as a Reference Dosimeter in Ultra-High Dose Rate (UHDR) Electron Beams.
+## 10. Evaluation of the Exradin A30 Parallel Plate Ion Chamber as a Reference Dosimeter in Ultra-High Dose Rate (UHDR) Electron Beams.
 Authors: Alharbi M, Liu K, Hooten B, Holmes S, Alarcon-Nunez S, Radtke J, DeWerd L, Beddar S et al.
 Journal: ArXiv (2026)
 Identifiers: PMID 42687884; PMC PMC13532702 (open access)
@@ -71,7 +115,7 @@ Abstract: BACKGROUND: Establishing reliable reference dosimetry for ultra-high d
 
 ---
 
-## 7. Conventional and ultra-high dose rate proton beam energy and output characterization using a high-resolution multi-layer Faraday cup.
+## 11. Conventional and ultra-high dose rate proton beam energy and output characterization using a high-resolution multi-layer Faraday cup.
 Authors: Teng X, Friberg A, Alexander DA, Ota K, Nichols M, Boisseau P, Stappen FV, Gao Y et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42551487; DOI 10.1088/1361-6560/ae94d9
@@ -82,7 +126,7 @@ Abstract: Objective.Proton radiotherapy requires accurate quality assurance (QA)
 
 ---
 
-## 8. Evaluation of a simple graphite calorimeter for ultra-high dose-rate electron beam dosimetry.
+## 12. Evaluation of a simple graphite calorimeter for ultra-high dose-rate electron beam dosimetry.
 Authors: Subiel A, Douralis A, Bass G, Shipley D, Flynn S, Romano F, Milluzzo G, Martino FD et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42526495; DOI 10.1088/1361-6560/ae9238
@@ -93,7 +137,7 @@ Abstract: Objective.This study evaluates the performance of a simple secondary-s
 
 ---
 
-## 9. Lighting up FLASH and beyond: TLD response across four orders of magnitude in proton dose rate.
+## 13. Lighting up FLASH and beyond: TLD response across four orders of magnitude in proton dose rate.
 Authors: Guan F, Tang J, Brookner A, Scott H, Vazquez I, Campelo S, Liu D, Mathew J et al.
 Journal: Medical physics (2026)
 Identifiers: PMID 42525493; DOI 10.1002/mp.70556; PMC PMC13420986 (open access)
@@ -104,7 +148,7 @@ Abstract: BACKGROUND: Thermoluminescent dosimeters (TLDs) are widely used for pr
 
 ---
 
-## 10. Dosimetric Characterization and Workflow Optimization of the FLASH-SARRP for Reliable Preclinical Radiobiological Studies.
+## 14. Dosimetric Characterization and Workflow Optimization of the FLASH-SARRP for Reliable Preclinical Radiobiological Studies.
 Authors: Knol M, Gonçalves-Jorge P, Kunz LV, Korysko P, Petit B, Durham A, Vozenin MC, Tsoutsou P et al.
 Journal: bioRxiv : the preprint server for biology (2026)
 Identifiers: PMID 42465350; DOI 10.64898/2026.07.06.736680; PMC PMC13370466 (open access)
@@ -115,7 +159,7 @@ Abstract: OBJECTIVE: Preclinical small-animal irradiators such as the FLASH-SARR
 
 ---
 
-## 11. Thick Gas Electron Multiplier-based Air Ionization Chamber for Online Dose Monitoring in Conventional and FLASH radiation therapy.
+## 15. Thick Gas Electron Multiplier-based Air Ionization Chamber for Online Dose Monitoring in Conventional and FLASH radiation therapy.
 Authors: Qiu T, Yang F, Peng Y, Luo W, Wu J, Tang B, Wu K, Yang H et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 42409270; DOI 10.1016/j.ijrobp.2026.06.3079
@@ -126,7 +170,7 @@ Abstract: PURPOSE: The aim of this work was to develop an online dose monitoring
 
 ---
 
-## 12. Development and evaluation of an in vivo dose-based monitoring system for electron FLASH radiation therapy.
+## 16. Development and evaluation of an in vivo dose-based monitoring system for electron FLASH radiation therapy.
 Authors: DeFrancisco J, Richeson M, Javidtash T, Bartee C, Ma T, Kim S
 Journal: Medical physics (2026)
 Identifiers: PMID 42381116; DOI 10.1002/mp.70549; PMC PMC13320112 (open access)
@@ -137,7 +181,7 @@ Abstract: BACKGROUND: FLASH radiotherapy requires further preclinical and clinic
 
 ---
 
-## 13. Development of in situ dosimetry for FLASH proton radiotherapy via organic scintillating fibers.
+## 17. Development of in situ dosimetry for FLASH proton radiotherapy via organic scintillating fibers.
 Authors: Olson C, Strong J, Paxton A, Nelson G, Cazalas E
 Journal: The British journal of radiology (2026)
 Identifiers: PMID 42319906; DOI 10.1093/bjr/tqag152; PMC PMC13623240 (open access)
@@ -148,7 +192,7 @@ Abstract: OBJECTIVES: This work presents the design, development, and initial pr
 
 ---
 
-## 14. Volumetric FLASH dosimetryin vivousing real-time radiacoustic imaging.
+## 18. Volumetric FLASH dosimetryin vivousing real-time radiacoustic imaging.
 Authors: Bjegovic K, Whitmore L, Pandey PK, Sun L, Connell L, Xu Y, Aguilar EA, Velasquez BD et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42302829; DOI 10.1088/1361-6560/ae7e38; PMC PMC13475674 (open access)
@@ -159,7 +203,7 @@ Abstract: Objective.The main goal of this research is to verify the spatial fide
 
 ---
 
-## 15. Design, optimization, and validation of a novel applicator integrating real-time dose monitoring for ultra-high dose rate (FLASH) electron radiotherapy.
+## 19. Design, optimization, and validation of a novel applicator integrating real-time dose monitoring for ultra-high dose rate (FLASH) electron radiotherapy.
 Authors: Chiasson J, Audet S, Zerouali K, Guillet D, Renaud J, Muir B, Lalonde A
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42128006; DOI 10.1088/1361-6560/ae6d6e
@@ -170,7 +214,7 @@ Abstract: Objective.To develop, optimize, and validate a novel applicator for ul
 
 ---
 
-## 16. Correction: Range quality assurance measurements for clinical and FLASH proton beam therapy using the quality assurance range calorimeter.
+## 20. Correction: Range quality assurance measurements for clinical and FLASH proton beam therapy using the quality assurance range calorimeter.
 Authors: Shaikh S, Escribano-Rodriguez S, Radogna R, Saakyan R, Manger S, Henthorn N, Warmenhoven JW, Taylor M et al.
 Journal: Frontiers in oncology (2026)
 Identifiers: PMID 42109677; DOI 10.3389/fonc.2026.1824636; PMC PMC13155078 (open access)
@@ -181,7 +225,7 @@ Abstract: [This corrects the article DOI: 10.3389/fonc.2025.1622231.].
 
 ---
 
-## 17. Time-resolved point dosimetry for spread-out Bragg-peak proton FLASH using fibre-coupled scintillators.
+## 21. Time-resolved point dosimetry for spread-out Bragg-peak proton FLASH using fibre-coupled scintillators.
 Authors: Steenholdt SR, Johansen JG, Kanouta E, Poulsen PR
 Journal: Medical physics (2026)
 Identifiers: PMID 42108226; DOI 10.1002/mp.70464; PMC PMC13158171 (open access)
@@ -192,7 +236,7 @@ Abstract: BACKGROUND: In FLASH radiotherapy, the dose is delivered using ultra-h
 
 ---
 
-## 18. Fiber-Tip Surface-Micromachined Optical Ultrasound Transducer (SMOUT) Probe for Acoustic Detection Induced by Ultrahigh Dose Rate (UHDR) Electron Beam.
+## 22. Fiber-Tip Surface-Micromachined Optical Ultrasound Transducer (SMOUT) Probe for Acoustic Detection Induced by Ultrahigh Dose Rate (UHDR) Electron Beam.
 Authors: Fang C, Li B, Litzenberg DW, El Naqa I, Zhang W, Wang X, Zou J
 Journal: IEEE sensors journal (2026)
 Identifiers: PMID 42037989; DOI 10.1109/jsen.2026.3661852; PMC PMC13105313 (open access)
@@ -203,7 +247,7 @@ Abstract: Online dose mapping is essential for safe and accurate beam delivery i
 
 ---
 
-## 19. Radioluminescence 3D dose reconstruction for FLASH and conventional radiotherapy.
+## 23. Radioluminescence 3D dose reconstruction for FLASH and conventional radiotherapy.
 Authors: Pizzardi S, Alborghetti L, Vurro F, Perna L, Broggi S, Di Martino F, Masturzo L, Cavalieri A et al.
 Journal: Scientific reports (2026)
 Identifiers: PMID 42026122; DOI 10.1038/s41598-026-48566-4; PMC PMC13272964 (open access)
@@ -214,7 +258,7 @@ Abstract: FLASH radiotherapy requires dosimetric techniques capable of operating
 
 ---
 
-## 20. Feasibility of proton ultra-high-dose-rate spatially fractionated radiotherapy system for preclinical experiments on a compact proton synchrocyclotron.
+## 24. Feasibility of proton ultra-high-dose-rate spatially fractionated radiotherapy system for preclinical experiments on a compact proton synchrocyclotron.
 Authors: Setianegara J, Wang A, Li W, Gerard N, Nys J, Chen RC, Gao H, Lin Y
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 42009045; DOI 10.1088/1361-6560/ae6224
@@ -225,7 +269,7 @@ Abstract: Objective.This study aims to investigate the feasibility of ultra-high
 
 ---
 
-## 21. Development and application of in-vivo dose and time-resolved measurements for clinical application of ultra-high dose rate radiotherapy.
+## 25. Development and application of in-vivo dose and time-resolved measurements for clinical application of ultra-high dose rate radiotherapy.
 Authors: Dal Bello R, Psoroulas S, Flückiger D, Krayenbühl J, Kemper A, Kranzer R, Côté B, von der Grün J et al.
 Journal: Physics and imaging in radiation oncology (2026)
 Identifiers: PMID 42005725; DOI 10.1016/j.phro.2026.100959; PMC PMC13085076 (open access)
@@ -236,7 +280,7 @@ Abstract: BACKGROUND AND PURPOSE: Ultra-high-dose-rate (UHDR) radiotherapy (RT) 
 
 ---
 
-## 22. The Quasi-Adiabatic Graphite Calorimeter for Absolute Dosimetry in Ultrahigh Dose Rate FLASH X-Ray Radiation Therapy.
+## 26. The Quasi-Adiabatic Graphite Calorimeter for Absolute Dosimetry in Ultrahigh Dose Rate FLASH X-Ray Radiation Therapy.
 Authors: Huang J, Zhang G, Wang K, Tian B, Yang Y, Wu D, Jin S, Wang Z et al.
 Journal: International journal of radiation oncology, biology, physics (2026)
 Identifiers: PMID 41876068; DOI 10.1016/j.ijrobp.2026.03.028
@@ -247,7 +291,7 @@ Abstract: PURPOSE: FLASH radiation therapy using high-energy x rays combines ult
 
 ---
 
-## 23. A high-precision image-guided platform for studying spinal cord toxicity under ultra-high dose rate electron irradiation.
+## 27. A high-precision image-guided platform for studying spinal cord toxicity under ultra-high dose rate electron irradiation.
 Authors: Zhou B, Guo L, Tsai YC, van der Kogel A, Wong JW, Iordachita I, Jiang K, Lu W et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41875551; DOI 10.1088/1361-6560/ae56cb; PMC PMC13249001 (open access)
@@ -258,7 +302,7 @@ Abstract: Objective.While FLASH radiotherapy (FLASH-RT) is recognized for normal
 
 ---
 
-## 24. Atmospheric pressure influence on the charge collection efficiency of air-vented ionization chambers in ultra-high dose per pulse electron beams for FLASH radiotherapy.
+## 28. Atmospheric pressure influence on the charge collection efficiency of air-vented ionization chambers in ultra-high dose per pulse electron beams for FLASH radiotherapy.
 Authors: Flores-Mancera MA, Schüller A, Paz-Martín J, Gago-Arias A, Culberson W, Gómez F
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41861403; DOI 10.1088/1361-6560/ae556b
@@ -269,7 +313,7 @@ Abstract: Objective.This work studies the dependency of the charge collection ef
 
 ---
 
-## 25. Multileaf Faraday cup for beam energy verification in radiation therapy with ultra-high dose-rate electron beams and ion beams.
+## 29. Multileaf Faraday cup for beam energy verification in radiation therapy with ultra-high dose-rate electron beams and ion beams.
 Authors: Makowski C, Deutsch M, Schmitzer CS, Schüller A
 Journal: Medical physics (2026)
 Identifiers: PMID 41795689; DOI 10.1002/mp.70362; PMC PMC12967689 (open access)
@@ -280,7 +324,7 @@ Abstract: BACKGROUND: In radiotherapy and particle therapy, the stability of the
 
 ---
 
-## 26. Small dose monitor based on silicon-carbide diodes for FLASH radiotherapy.
+## 30. Small dose monitor based on silicon-carbide diodes for FLASH radiotherapy.
 Authors: Lopez Paz I, Fleta C, Henao Á, Heinrich S, Guardiola C
 Journal: Medical physics (2026)
 Identifiers: PMID 41757409; DOI 10.1002/mp.70354; PMC PMC12947054 (open access)
@@ -291,7 +335,7 @@ Abstract: BACKGROUND: The FLASH biological effect in radiotherapy has been obser
 
 ---
 
-## 27. Combining proton FLASH and spatially fractionated radiotherapy: experimental and simulation-based dosimetric characterization.
+## 31. Combining proton FLASH and spatially fractionated radiotherapy: experimental and simulation-based dosimetric characterization.
 Authors: Hamad G, Poirier Y, Mossahebi S, Sawant A
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41713021; DOI 10.1088/1361-6560/ae4848
@@ -302,7 +346,7 @@ Abstract: Background.Ultra-high dose rate (UHDR) proton therapy and spatially fr
 
 ---
 
-## 28. Study of the over-response of radiochromic films in ultra-high dose rate and dose per pulse electron beams.
+## 32. Study of the over-response of radiochromic films in ultra-high dose rate and dose per pulse electron beams.
 Authors: Horst F, Schüller A, Kapsch RP, Hackel T, Pehlivan J, Schott C, Beyreuther E, Pawelke J
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41707317; DOI 10.1088/1361-6560/ae47b6
@@ -313,7 +357,7 @@ Abstract: Objective.Many pre-clinical experiments on FLASH radiotherapy, in whic
 
 ---
 
-## 29. Assessment of FLASH Radiation Doses Using Polycrystalline Alanine Powder as a Passive Dosimeter.
+## 33. Assessment of FLASH Radiation Doses Using Polycrystalline Alanine Powder as a Passive Dosimeter.
 Authors: Bos E, Ghimire L, Waller E
 Journal: Health physics (2026)
 Identifiers: PMID 41705973; DOI 10.1097/HP.0000000000002128
@@ -324,7 +368,7 @@ Abstract: FLASH radiation therapy is a promising modality that delivers radiatio
 
 ---
 
-## 30. Experimental characterization of proton minibeam therapy delivery under FLASH dose-rate conditions.
+## 34. Experimental characterization of proton minibeam therapy delivery under FLASH dose-rate conditions.
 Authors: Lin Y, Wu W, Setianegara J, Wang A, Gerard N, Nys J, Gan GN, Gao H
 Journal: Scientific reports (2026)
 Identifiers: PMID 41656319; DOI 10.1038/s41598-026-36739-0; PMC PMC12949032 (open access)
@@ -335,7 +379,7 @@ Abstract: Proton minibeam radiation therapy (pMBRT) introduces spatial fractiona
 
 ---
 
-## 31. A Physics-Informed Neural Network for In Vivo Dosimetry Using Quantitative Radiacoustic Imaging.
+## 35. A Physics-Informed Neural Network for In Vivo Dosimetry Using Quantitative Radiacoustic Imaging.
 Authors: Sun L, Bjegovic K, Rodriguez-Gonzalez L, Xu Y, Yan Y, Gonzalez G, Whitmore L, Connell L et al.
 Journal: Research square (2026)
 Identifiers: PMID 41646377; DOI 10.21203/rs.3.rs-8503498/v1; PMC PMC12869649 (open access)
@@ -346,7 +390,7 @@ Abstract: Accurate dosimetry is critical for safe and effective radiotherapy, ye
 
 ---
 
-## 32. InAlN/GaN Detectors for Real-Time Dosimetry in Ultra-High Dose Rate FLASH Radiotherapy.
+## 36. InAlN/GaN Detectors for Real-Time Dosimetry in Ultra-High Dose Rate FLASH Radiotherapy.
 Authors: Choi SY, Anderson C, Dai K, Fratelli I, Liu YC, Ballentine P, Tan Y, Bardash M et al.
 Journal: IEEE sensors letters (2026)
 Identifiers: PMID 41623525; DOI 10.1109/lsens.2025.3636392; PMC PMC12857886 (open access)
@@ -357,7 +401,7 @@ Abstract: This letter reports the first characterization of InAlN/GaN-on-Si soli
 
 ---
 
-## 33. First experimental characterization of a low-pressure nitrogen filled parallel-plate ionization chamber for UHDP electron beam dosimetry.
+## 37. First experimental characterization of a low-pressure nitrogen filled parallel-plate ionization chamber for UHDP electron beam dosimetry.
 Authors: Montefiori M, Baldini L, Bisogni MG, Cavalieri A, Celentano M, Felici G, Gómez F, Lucchesi L et al.
 Journal: Medical physics (2026)
 Identifiers: PMID 41619266; DOI 10.1002/mp.70287; PMC PMC12860524 (open access)
@@ -368,7 +412,7 @@ Abstract: BACKGROUND: Ultra-high dose-per-pulse (UHDP) dosimetry remains a key c
 
 ---
 
-## 34. The dual gap ionization chamber: a novel ionization chamber design for reference dosimetry to automatically correct for recombination losses in emerging radiotherapy modalities.
+## 38. The dual gap ionization chamber: a novel ionization chamber design for reference dosimetry to automatically correct for recombination losses in emerging radiotherapy modalities.
 Authors: Orts M, Rossomme S, Souris K, de Beco V, Haas T, Durny N, Houyoux G, Penninckx S et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41558168; DOI 10.1088/1361-6560/ae3b05
@@ -379,7 +423,7 @@ Abstract: Objective.Current dosimetry protocols typically recommend multiple mea
 
 ---
 
-## 35. Performance evaluation of EBT3, EBT-XD, and OrthoChromic OC-1 films for reference dosimetry in Ultra-High dose rate electron beams radiotherapy.
+## 39. Performance evaluation of EBT3, EBT-XD, and OrthoChromic OC-1 films for reference dosimetry in Ultra-High dose rate electron beams radiotherapy.
 Authors: Schott C, Said-Mansour I, Maury P, de Kermenguy F, Deutsch E, Colnot J, Robert C
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)
 Identifiers: PMID 41518781; DOI 10.1016/j.ejmp.2026.105723
@@ -390,7 +434,7 @@ Abstract: PURPOSE: This study evaluates EBT3, EBT-XD (Ashland) and OC-1 (OrthoCh
 
 ---
 
-## 36. Numerical simulations of charge transport in low-pressure noble gases for ultra-high dose per pulse applications.
+## 40. Numerical simulations of charge transport in low-pressure noble gases for ultra-high dose per pulse applications.
 Authors: Montefiori M, Baldini L, Giuseppina Bisogni M, Felici G, Gómez F, Lucchesi L, Morrocchi M, Orsini L et al.
 Journal: Physics in medicine and biology (2026)
 Identifiers: PMID 41512458; DOI 10.1088/1361-6560/ae365b
@@ -401,7 +445,7 @@ Abstract: Objective.ultra-high dose-per-pulse (UHDP) dosimetry remains a key cha
 
 ---
 
-## 37. High-resolution scintillation imaging for detecting delivery errors in preclinical ultrahigh dose rate proton beam therapy.
+## 41. High-resolution scintillation imaging for detecting delivery errors in preclinical ultrahigh dose rate proton beam therapy.
 Authors: Clark M, Vasyltsiv R, Gladstone D, Kraus J, Harms J, Bruza P
 Journal: Medical physics (2026)
 Identifiers: PMID 41506897; DOI 10.1002/mp.70266; PMC PMC12985973 (open access)
@@ -412,7 +456,7 @@ Abstract: BACKGROUND: Ultrahigh dose rate (UHDR) pencil beam scanning (PBS) prot
 
 ---
 
-## 38. Using hydrated electron temporal measurement as dosimetry of individual electron FLASH beam pulses.
+## 42. Using hydrated electron temporal measurement as dosimetry of individual electron FLASH beam pulses.
 Authors: Cao X, Parks A, Thomas W, Reed MS, Culberson WS, Pogue BW
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2026)
 Identifiers: PMID 41494333; DOI 10.1016/j.ejmp.2026.105725; PMC PMC12980768 (open access)
@@ -423,7 +467,7 @@ Abstract: PURPOSE: This study explores the use of hydrated electron absorbance f
 
 ---
 
-## 39. 3D Imaging of Proton FLASH Radiation Using a Multi-Detector Small Animal PET System.
+## 43. 3D Imaging of Proton FLASH Radiation Using a Multi-Detector Small Animal PET System.
 Authors: Li W, Zhong Y, Lai Y, Yin L, Sforza D, Miles D, Li H, Jia X
 Journal: Tomography (Ann Arbor, Mich.) (2025)
 Identifiers: PMID 41441383; DOI 10.3390/tomography11120131; PMC PMC12737159 (open access)
@@ -434,7 +478,7 @@ Abstract: Objectives: Ultra-high dose-rate FLASH radiotherapy has demonstrated s
 
 ---
 
-## 40. Pulse-by-pulse ultra-high resolution scintillation imaging of proton FLASH beams produced by a gantry-mounted synchrocyclotron.
+## 44. Pulse-by-pulse ultra-high resolution scintillation imaging of proton FLASH beams produced by a gantry-mounted synchrocyclotron.
 Authors: Goddu SM, Holloingsworth S, Green W, Goddu M, Mazur TR, Owen D, Zhang H, Hao Y et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41376535; DOI 10.1088/1361-6560/ae25b3; PMC PMC12696583 (open access)
@@ -445,7 +489,7 @@ Abstract: Objective. Radiation therapy at ultra-high dose rate (UHDR) has emerge
 
 ---
 
-## 41. Validation of a FLASH-ready 25 MeV proton beamline for preclinical radiobiology experiments.
+## 45. Validation of a FLASH-ready 25 MeV proton beamline for preclinical radiobiology experiments.
 Authors: Simonin G, Jbara R, Pellicioli M, Schuler J, Brasse D, Rousseau M
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41364976; DOI 10.1088/1361-6560/ae2aa2
@@ -456,7 +500,7 @@ Abstract: Objective. Ultra-high dose rate irradiation (FLASH) is a promising way
 
 ---
 
-## 42. Towards real-time beam monitoring and quality assurance of proton beams using radioluminescent silica fiber.
+## 46. Towards real-time beam monitoring and quality assurance of proton beams using radioluminescent silica fiber.
 Authors: Grandvillain M, Mady F, Hofverberg P, Angellier G, Mélin G, Benabdesselam M, Herault J, Vidal M
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41360067; DOI 10.1088/1361-6560/ae29e3
@@ -467,7 +511,7 @@ Abstract: Objective.Due to the emergence of ultra-high dose rate proton therapy 
 
 ---
 
-## 43. Range quality assurance measurements for clinical and FLASH proton beam therapy using the quality assurance range calorimeter.
+## 47. Range quality assurance measurements for clinical and FLASH proton beam therapy using the quality assurance range calorimeter.
 Authors: Shaikh S, Escribano-Rodriguez S, Radogna R, Saakyan R, Manger S, Henthorn N, Warmenhoven JW, Taylor M et al.
 Journal: Frontiers in oncology (2025)
 Identifiers: PMID 41357610; DOI 10.3389/fonc.2025.1622231; PMC PMC12678157 (open access)
@@ -478,7 +522,7 @@ Abstract: OBJECTIVE: This work demonstrated the design and performance of a full
 
 ---
 
-## 44. Supersonic gas curtain based ionization beam profile monitor for FLASH proton beam therapy.
+## 48. Supersonic gas curtain based ionization beam profile monitor for FLASH proton beam therapy.
 Authors: Patel M, Kumar N, Thesni F, Butcher W, Price T, McLauchlan R, Welsch CP
 Journal: Frontiers in oncology (2025)
 Identifiers: PMID 41220944; DOI 10.3389/fonc.2025.1694310; PMC PMC12597723 (open access)
@@ -489,7 +533,7 @@ Abstract: INTRODUCTION: FLASH Proton Beam Therapy (FLASH-PBT) combines the preci
 
 ---
 
-## 45. Proton boron capture therapy: microdosimetry and treatment planning study with boron.
+## 49. Proton boron capture therapy: microdosimetry and treatment planning study with boron.
 Authors: Yoo SH, Sedliarou I, MacDiarmid JA, Brahmbhatt H, Han S, Kim KB, Tran LT, Rosenfeld AB et al.
 Journal: Frontiers in oncology (2025)
 Identifiers: PMID 41211429; DOI 10.3389/fonc.2025.1615241; PMC PMC12589801 (open access)
@@ -500,7 +544,7 @@ Abstract: BACKGROUND: Proton-boron capture therapy (PBCT) has been proposed as a
 
 ---
 
-## 46. A procedure for accurate dose measurement in radiotherapy research at millimetre-sized synchrotron beams.
+## 50. A procedure for accurate dose measurement in radiotherapy research at millimetre-sized synchrotron beams.
 Authors: Mewes C, Lerch M, Petasecca M, Klingenberg J, Abreu Faria G, Lienert U, Schültke E, Paino J et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 41101336; DOI 10.1088/1361-6560/ae143a
@@ -511,7 +555,7 @@ Abstract: Objective.Synchrotron-based spatially fractionated radiotherapy and ul
 
 ---
 
-## 47. Three-dimensional proton FLASH dose rate measurement at high spatiotemporal resolution using a novel multi-layer strip ionization chamber (MLSIC) device.
+## 51. Three-dimensional proton FLASH dose rate measurement at high spatiotemporal resolution using a novel multi-layer strip ionization chamber (MLSIC) device.
 Authors: Zhou S, Darafsheh A, Xiao Z, Mascia A, Zhang Y, Zhou J, Lin L, Zhang D et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 41046471; DOI 10.1002/mp.70033; PMC PMC12679469 (open access)
@@ -522,7 +566,7 @@ Abstract: BACKGROUND: Currently, proton therapy is the main radiation treatment 
 
 ---
 
-## 48. Design and validation of an integrated reference dosimetry and monitoring system for ultra-high dose-rate proton beams ranging from 20 Gy/s to 230 Gy/s.
+## 52. Design and validation of an integrated reference dosimetry and monitoring system for ultra-high dose-rate proton beams ranging from 20 Gy/s to 230 Gy/s.
 Authors: Petringa G, Catalano R, Amato A, Russo AD, Fustaino GF, Guarrera M, Cuttone G, Messina GE et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)
 Identifiers: PMID 41045820; DOI 10.1016/j.ejmp.2025.105187
@@ -533,7 +577,7 @@ Abstract: PURPOSE: This study aims to design, develop, and test an integrated re
 
 ---
 
-## 49. Development and characterization of phantoms to investigate the Flash effect with Drosophila melanogaster at an ultra-high dose rate radiotherapy linac.
+## 53. Development and characterization of phantoms to investigate the Flash effect with Drosophila melanogaster at an ultra-high dose rate radiotherapy linac.
 Authors: Dal Bello R, Kreuzer M, Vetrugno I, Little JC, Kranzer R, Schischke S, Bossin L, Yukihara EG et al.
 Journal: Physics and imaging in radiation oncology (2025)
 Identifiers: PMID 41035802; DOI 10.1016/j.phro.2025.100835; PMC PMC12481075 (open access)
@@ -544,7 +588,7 @@ Abstract: BACKGROUND AND PURPOSE: Ultra-high dose rate (UHDR) radiotherapy may w
 
 ---
 
-## 50. Emulating Clinical Workflow of Scintillator Array Dosimetry for FLASH Pencil-Beam Scanning Proton Therapy.
+## 54. Emulating Clinical Workflow of Scintillator Array Dosimetry for FLASH Pencil-Beam Scanning Proton Therapy.
 Authors: Vasyltsiv R, Harms J, Clark M, Gladstone DJ, Pogue BW, Zhang R, Bruza P
 Journal: International journal of radiation oncology, biology, physics (2025)
 Identifiers: PMID 41026068; DOI 10.1016/j.ijrobp.2025.05.084; PMC PMC12969705 (open access)
@@ -555,7 +599,7 @@ Abstract: PURPOSE: The emergence of ultra-high dose rate (UHDR) pencil-beam scan
 
 ---
 
-## 51. First experience with third-party validations: A robust calibration and QA procedure for proton FLASH delivery.
+## 55. First experience with third-party validations: A robust calibration and QA procedure for proton FLASH delivery.
 Authors: Chang CC, Selvaraj B, Zhao X, Rembish J, Taylor PA, Bookbinder A, Cheng C, Choi JI et al.
 Journal: Journal of applied clinical medical physics (2025)
 Identifiers: PMID 41014172; DOI 10.1002/acm2.70269; PMC PMC12475972 (open access)
@@ -566,7 +610,7 @@ Abstract: BACKGROUND: Proton FLASH radiotherapy, delivering ultra-high dose rate
 
 ---
 
-## 52. Electron and proton FLASH beam dosimetry using unified alanine, EBT-XD, and HD-V2 Gafchromic film dosimeters.
+## 56. Electron and proton FLASH beam dosimetry using unified alanine, EBT-XD, and HD-V2 Gafchromic film dosimeters.
 Authors: Jung S, Kim IJ, Yi CY, Kim YH, Seong YM, Solomon R, Choi SH, Jang YJ et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40999628; DOI 10.1002/mp.70022; PMC PMC12464357 (open access)
@@ -577,7 +621,7 @@ Abstract: BACKGROUND: Ultra-high dose rate (UHDR) radiotherapy, or FLASH RT, has
 
 ---
 
-## 53. Comprehensive characterization and validation of a fast-resolving (1000 Hz) plastic scintillator for ultra-high dose rate electron dosimetry.
+## 57. Comprehensive characterization and validation of a fast-resolving (1000 Hz) plastic scintillator for ultra-high dose rate electron dosimetry.
 Authors: Guo L, Zhou B, Tsai YC, Jiang K, Iakovenko V, Wang KK
 Journal: Medical physics (2025)
 Identifiers: PMID 40983874; DOI 10.1002/mp.70006; PMC PMC12454735 (open access)
@@ -588,7 +632,7 @@ Abstract: BACKGROUND: The normal tissue sparing effect of ultra-high dose rate i
 
 ---
 
-## 54. Performance evaluation of ESR dosimeters under proton beam FLASH irradiation conditions.
+## 58. Performance evaluation of ESR dosimeters under proton beam FLASH irradiation conditions.
 Authors: Kumagai J, Iwata H, Komaguchi K, Omachi C, Toshito T, Umezawa M, Yamada M, Kondo T
 Journal: Journal of radiation research (2025)
 Identifiers: PMID 40973058; DOI 10.1093/jrr/rraf054; PMC PMC12648059 (open access)
@@ -599,7 +643,7 @@ Abstract: Two chemical dosimeters, lithium formate monohydride (LFM) and L-alani
 
 ---
 
-## 55. Dosimetric characterization of an encapsulated waterproof silicon carbide detector with UHDR electron and proton beams for FLASH radiotherapy.
+## 59. Dosimetric characterization of an encapsulated waterproof silicon carbide detector with UHDR electron and proton beams for FLASH radiotherapy.
 Authors: Milluzzo G, Zitelli D, Cavalieri A, Celentano M, Di Martino F, Masturzo L, Okpuwe C, Pensavalle JH et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40961965; DOI 10.1088/1361-6560/ae0860
@@ -610,7 +654,7 @@ Abstract: Silicon carbide (SiC) detectors have been widely demonstrated to be su
 
 ---
 
-## 56. Corrigendum to "Ultra-high dose rate dosimetry for pre-clinical experiments with mm-small proton fields" [Phys. Med. 104 (2022) 101-111].
+## 60. Corrigendum to "Ultra-high dose rate dosimetry for pre-clinical experiments with mm-small proton fields" [Phys. Med. 104 (2022) 101-111].
 Authors: Togno M, Nesteruk KP, Schäfer R, Psoroulas S, Meer D, Grossmann M, Christensen JB, Yukihara EG et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)
 Identifiers: PMID 40925823; DOI 10.1016/j.ejmp.2025.105100
@@ -621,7 +665,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 57. Feasibility of prototype diamond detectors for pulsed UHDR PBS small-field proton dosimetry for proton FLASH experiments.
+## 61. Feasibility of prototype diamond detectors for pulsed UHDR PBS small-field proton dosimetry for proton FLASH experiments.
 Authors: Setianegara J, Wang A, Gerard N, Nys J, Szczepanski M, Gao H, Lin Y
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40897358; DOI 10.1088/1361-6560/ae023b; PMC PMC12451744 (open access)
@@ -632,7 +676,7 @@ Abstract: Objective.This study aims to investigate the responses of prototype di
 
 ---
 
-## 58. Plastic scintillator sheets for quality assurance in electron FLASH and minibeam radiation therapy.
+## 62. Plastic scintillator sheets for quality assurance in electron FLASH and minibeam radiation therapy.
 Authors: Morrocchi M, Ciarrocchi E, Anzalone R, Cavalieri A, Martino FD, D'Orazio C, Massa M, Moggi A et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40781738; DOI 10.1002/mp.18033
@@ -643,7 +687,7 @@ Abstract: BACKGROUND: FLASH radiotherapy has a significant potential in changing
 
 ---
 
-## 59. Radiation damage evaluation of materials for radiotherapy quality assurance devices under high dose and ultra-high dose rate electron and proton beams.
+## 63. Radiation damage evaluation of materials for radiotherapy quality assurance devices under high dose and ultra-high dose rate electron and proton beams.
 Authors: Orts M, Gedik YC, Bourgouin A, Kapsch RP, Koumeir C, Sounalet T, Rossomme S, Souris K et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40759154; DOI 10.1088/1361-6560/adf796
@@ -654,7 +698,7 @@ Abstract: Objective.FLASH radiotherapy is a promising technique based on the del
 
 ---
 
-## 60. Commissioning of a 142.4 MeV ultra-high dose rate (UHDR) proton beamline in a synchrotron-based proton therapy system.
+## 64. Commissioning of a 142.4 MeV ultra-high dose rate (UHDR) proton beamline in a synchrotron-based proton therapy system.
 Authors: Yin L, Sforza D, Miles D, Masumi U, Ota K, Jia X, Li H
 Journal: Medical physics (2025)
 Identifiers: PMID 40665655; DOI 10.1002/mp.18008; PMC PMC12264465 (open access)
@@ -665,7 +709,7 @@ Abstract: BACKGROUND: Recent studies suggest that radiotherapy at ultrahigh dose
 
 ---
 
-## 61. Characterization of silicon carbide diodes as cost-effective active detectors for proton UHDR dosimetry.
+## 65. Characterization of silicon carbide diodes as cost-effective active detectors for proton UHDR dosimetry.
 Authors: Lopez Paz I, Fleta C, Ibáñez P, Henao Á, Sanchez-Parcerisa D, Zazpe A, Del Monte-Garcia I, Guardiola C
 Journal: Medical physics (2025)
 Identifiers: PMID 40665527; DOI 10.1002/mp.17986; PMC PMC12271001 (open access)
@@ -676,7 +720,7 @@ Abstract: BACKGROUND: Proton therapy allows for better localization of the dose 
 
 ---
 
-## 62. Characterization of a shielded beam current transformer for ultra-high dose rate (FLASH) electron beam monitoring and dose reporting.
+## 66. Characterization of a shielded beam current transformer for ultra-high dose rate (FLASH) electron beam monitoring and dose reporting.
 Authors: Bernelin T, Muir B, Renaud J, Zerouali K, Guillet D, Archambault L, Lalonde A
 Journal: Medical physics (2025)
 Identifiers: PMID 40473411; DOI 10.1002/mp.17927; PMC PMC12257996 (open access)
@@ -687,7 +731,7 @@ Abstract: BACKGROUND: Real-time beam monitoring and accurate dose reporting is c
 
 ---
 
-## 63. Commissioning and performance evaluation of the new electron UHDR FLASHKNiFE® system for FLASH radiation therapy.
+## 67. Commissioning and performance evaluation of the new electron UHDR FLASHKNiFE® system for FLASH radiation therapy.
 Authors: Colnot J, Mansour IS, Schott C, Martin S, Maury P, Dijoud T, Caliendo M, Couturier M et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)
 Identifiers: PMID 40460760; DOI 10.1016/j.ejmp.2025.105014
@@ -698,7 +742,7 @@ Abstract: OBJECTIVE: This study aimed to evaluate and validate the new FLASHKNiF
 
 ---
 
-## 64. Characterizing diamond detectors for various dose and dose rate measurements in scanned carbon and oxygen beams.
+## 68. Characterizing diamond detectors for various dose and dose rate measurements in scanned carbon and oxygen beams.
 Authors: Karle C, Verona-Rinati G, Brons S, Cee R, Scheloske S, Schömers C, Kranzer R, Haberer T et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40454743; DOI 10.1002/mp.17893; PMC PMC12257998 (open access)
@@ -709,7 +753,7 @@ Abstract: BACKGROUND: The emerging FLASH radiotherapy technique employs "Ultra-H
 
 ---
 
-## 65. Design and characterization of a novel scintillator array for UHDR PBS proton therapy surface dosimetry.
+## 69. Design and characterization of a novel scintillator array for UHDR PBS proton therapy surface dosimetry.
 Authors: Vasyltsiv R, Harms J, Clark M, Gladstone DJ, Pogue BW, Zhang R, Bruza P
 Journal: Medical physics (2025)
 Identifiers: PMID 40450336; DOI 10.1002/mp.17922; PMC PMC12330891 (open access)
@@ -720,7 +764,7 @@ Abstract: BACKGROUND: Ultrahigh dose rate (UHDR) proton therapy has shown promis
 
 ---
 
-## 66. Ultra-High Dose Rate Electron Beam Dosimetry Using Ag Nanoparticle-Enhanced nPAG and NIBMAGAT Gels.
+## 70. Ultra-High Dose Rate Electron Beam Dosimetry Using Ag Nanoparticle-Enhanced nPAG and NIBMAGAT Gels.
 Authors: Merkis M, Slektaite-Kisone A, Burkanas M, Cicinas A, Dziugelis M, Klimkevicius V, Adliene D, Venius J
 Journal: Gels (Basel, Switzerland) (2025)
 Identifiers: PMID 40422357; DOI 10.3390/gels11050336; PMC PMC12111760 (open access)
@@ -731,7 +775,7 @@ Abstract: FLASH radiation therapy is an emerging technique that provides several
 
 ---
 
-## 67. The proton therapy research beamline at the Christie NHS foundation trust.
+## 71. The proton therapy research beamline at the Christie NHS foundation trust.
 Authors: Henthorn NT, Warmenhoven JW, Ingram SP, Manger SP, Merchant MJ, Owen H, Mackay RI, Kirkby KJ et al.
 Journal: Biomedical physics & engineering express (2025)
 Identifiers: PMID 40403749; DOI 10.1088/2057-1976/addbe8; PMC PMC12296266 (open access)
@@ -742,7 +786,7 @@ Abstract: Proton therapy is a relatively new modality for cancer treatment and h
 
 ---
 
-## 68. Determination of beam quality correction factors for alanine dosimetry in clinical proton beams.
+## 72. Determination of beam quality correction factors for alanine dosimetry in clinical proton beams.
 Authors: Kim CE, Park JI, Jung S, Pak SI, Jeong S, An S, Kim C, Jeong JH et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)
 Identifiers: PMID 40349668; DOI 10.1016/j.ejmp.2025.104992
@@ -753,7 +797,7 @@ Abstract: INTRODUCTION: With the advent of FLASH radiotherapy, alanine dosimetry
 
 ---
 
-## 69. Dosimetric commissioning of small animal FLASH radiation research platform.
+## 73. Dosimetric commissioning of small animal FLASH radiation research platform.
 Authors: Tajik Mansoury MA, Sforza D, Wong J, Iordachita I, Rezaee M
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40341277; DOI 10.1088/1361-6560/add641
@@ -764,7 +808,7 @@ Abstract: Objective.The FLASH-SARRP, a new small animal radiation research platf
 
 ---
 
-## 70. Implementation of a proton FLASH platform for pre-clinical studies using a gantry-mounted synchrocyclotron.
+## 74. Implementation of a proton FLASH platform for pre-clinical studies using a gantry-mounted synchrocyclotron.
 Authors: Darafsheh A, Bey A
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40329915; DOI 10.1088/1361-6560/add106; PMC PMC12056584 (open access)
@@ -775,7 +819,7 @@ Abstract: Objective. External beam radiation therapy (RT) at ultra-high dose rat
 
 ---
 
-## 71. Characterization of commercial detectors for absolute proton UHDR dosimetry on a compact clinical proton synchrocyclotron.
+## 75. Characterization of commercial detectors for absolute proton UHDR dosimetry on a compact clinical proton synchrocyclotron.
 Authors: Setianegara J, Wang A, Gerard N, Nys J, Harold Li H, Chen RC, Gao H, Lin Y
 Journal: Medical physics (2025)
 Identifiers: PMID 40268691; DOI 10.1002/mp.17847; PMC PMC12817210 (open access)
@@ -786,7 +830,7 @@ Abstract: BACKGROUND: Modern compact proton synchrocyclotrons can achieve ultra-
 
 ---
 
-## 72. Machine stability and dosimetry for ultra-high dose rate FLASH radiotherapy human clinical protocol.
+## 76. Machine stability and dosimetry for ultra-high dose rate FLASH radiotherapy human clinical protocol.
 Authors: Gonçalves Jorge P, Geyer R, Kinj R, Schiappacasse L, Jeanneret-Sozzi W, Bourhis J, Herrera F, Bochud F et al.
 Journal: Journal of applied clinical medical physics (2025)
 Identifiers: PMID 40208633; DOI 10.1002/acm2.70102; PMC PMC12148758 (open access)
@@ -797,7 +841,7 @@ Abstract: BACKGROUND: The FLASH effect, induced by ultra-high dose rate (UHDR) i
 
 ---
 
-## 73. Verification of dose and dose rate for quality assurance of spread-out-Bragg-peak proton FLASH radiotherapy using machine log files.
+## 77. Verification of dose and dose rate for quality assurance of spread-out-Bragg-peak proton FLASH radiotherapy using machine log files.
 Authors: Oliaei Motlagh SA, Vander Stappen F, Kim MM, Labarbe R, Hotoiu L, Pin A, Nilsson R, Traneus E et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 40170430; DOI 10.1002/mp.17792; PMC PMC12149695 (open access)
@@ -808,7 +852,7 @@ Abstract: BACKGROUND: Ultra-high dose rate radiotherapy elicits a biological eff
 
 ---
 
-## 74. Imaging system for real-time, full-field pulse-by-pulse surface dosimetry of UHDR electron beams.
+## 78. Imaging system for real-time, full-field pulse-by-pulse surface dosimetry of UHDR electron beams.
 Authors: Clark M, Daniel N, Bruza P, Zhang R, Jarvis L, Hoopes PJ, Gladstone D
 Journal: Medical physics (2025)
 Identifiers: PMID 40170414; DOI 10.1002/mp.17784; PMC PMC12151750 (open access)
@@ -819,7 +863,7 @@ Abstract: BACKGROUND: The interest in ultra-high dose rate (UHDR) radiation ther
 
 ---
 
-## 75. Physics-based energy spectrum optimization (PESO): a new method to model the energy spectrum of a compact ultra-high dose rate electron linac for Monte Carlo dose calculation.
+## 79. Physics-based energy spectrum optimization (PESO): a new method to model the energy spectrum of a compact ultra-high dose rate electron linac for Monte Carlo dose calculation.
 Authors: Audet S, Beaulieu W, Zerouali K, Guillet D, Bouchard H, Lalonde A
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40127540; DOI 10.1088/1361-6560/adc4b9
@@ -830,7 +874,7 @@ Abstract: Objective.FLASH radiotherapy (FLASH-RT) is an emerging treatment modal
 
 ---
 
-## 76. Radiation damage and recovery of plastic scintillators under ultra-high dose rate 200 MeV electrons at CERN CLEAR facility.
+## 80. Radiation damage and recovery of plastic scintillators under ultra-high dose rate 200 MeV electrons at CERN CLEAR facility.
 Authors: Giguère C, Hart A, Bateman J, Korysko P, Farabolini W, LeChasseur Y, Bazalova-Carter M, Beaulieu L
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 40101360; DOI 10.1088/1361-6560/adc234
@@ -841,7 +885,7 @@ Abstract: Objective.The FLASH effect holds significant potential in improving ra
 
 ---
 
-## 77. What's in a Proton FLASH Beam? Characterizing Ultra-High Dose Rate Protons Using a Commercial Plastic Scintillator.
+## 81. What's in a Proton FLASH Beam? Characterizing Ultra-High Dose Rate Protons Using a Commercial Plastic Scintillator.
 Authors: Poirier Y, Byrne KE, Hamad G, Therriault-Proulx F, Jiang K, Deng W, Sawant A, Mossahebi S
 Journal: Radiation research (2025)
 Identifiers: PMID 40073911; DOI 10.1667/RADE-24-00117.1
@@ -852,7 +896,7 @@ Abstract: While biological studies of the FLASH effect in proton beams have main
 
 ---
 
-## 78. Real-time radiation beam imaging on an MR linear accelerator using quantitative T1 mapping.
+## 82. Real-time radiation beam imaging on an MR linear accelerator using quantitative T1 mapping.
 Authors: Tran BTT, Lawrence LSP, Binda S, Oglesby RT, Chugh BP, Lau AZ
 Journal: Medical physics (2025)
 Identifiers: PMID 40014043; DOI 10.1002/mp.17720; PMC PMC12149674 (open access)
@@ -863,7 +907,7 @@ Abstract: BACKGROUND: Direct three-dimensional imaging of radiation beams could 
 
 ---
 
-## 79. Systematic Study of Silicon Carbide Detectors and Beam Current Transformer Signals for UHDR Single Electron Pulse Monitoring.
+## 83. Systematic Study of Silicon Carbide Detectors and Beam Current Transformer Signals for UHDR Single Electron Pulse Monitoring.
 Authors: Okpuwe C, Milluzzo G, Coves D, Delaviere T, Del Sarto D, De Napoli M, Di Martino F, Felici G et al.
 Journal: Radiation research (2025)
 Identifiers: PMID 39996278; DOI 10.1667/RADE-24-00139.1
@@ -874,7 +918,7 @@ Abstract: The use of ultra-high dose rate beams (UHDR) (> 40 Gy/s) for radiother
 
 ---
 
-## 80. Demonstration of ultra-high dose rate electron irradiation at FLASHlab@PITZ.
+## 84. Demonstration of ultra-high dose rate electron irradiation at FLASHlab@PITZ.
 Authors: Li XK, Amirkhanyan Z, Grebinyk A, Gross M, Komar Y, Riemer F, Asoyan A, Boonpornprasert P et al.
 Journal: Physics in medicine and biology (2025)
 Identifiers: PMID 39907068; DOI 10.1088/1361-6560/adb276
@@ -885,7 +929,7 @@ Abstract: Objective.The photo injector test facility at DESY in Zeuthen (PITZ) i
 
 ---
 
-## 81. Electron beam monitoring of a modified conventional medical accelerator with a portable current transformer system traceable to primary electrical standards.
+## 85. Electron beam monitoring of a modified conventional medical accelerator with a portable current transformer system traceable to primary electrical standards.
 Authors: Renaud J, Muir BR, Williams A, McEwen M
 Journal: Medical physics (2025)
 Identifiers: PMID 39904607; DOI 10.1002/mp.17653; PMC PMC11972034 (open access)
@@ -896,7 +940,7 @@ Abstract: BACKGROUND: Ultra-high dose rate radiotherapy (UHDR) delivers therapeu
 
 ---
 
-## 82. A 2D detector array for relative dosimetry and beam steering for FLASH radiotherapy with electrons.
+## 86. A 2D detector array for relative dosimetry and beam steering for FLASH radiotherapy with electrons.
 Authors: Schönfeld AA, Hildreth J, Bourgouin A, Flatten V, Kozelka J, Simon W, Schüller A
 Journal: Medical physics (2025)
 Identifiers: PMID 39688375; DOI 10.1002/mp.17573; PMC PMC11880641 (open access)
@@ -907,7 +951,7 @@ Abstract: BACKGROUND: FLASH radiotherapy is an emerging treatment modality using
 
 ---
 
-## 83. Dosimetric and temporal beam characterization of individual pulses in FLASH radiotherapy using Timepix3 pixelated detector placed out-of-field.
+## 87. Dosimetric and temporal beam characterization of individual pulses in FLASH radiotherapy using Timepix3 pixelated detector placed out-of-field.
 Authors: Oancea C, Sykorova K, Jakubek J, Pivec J, Riemer F, Worm S, Bourgouin A
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2025)
 Identifiers: PMID 39667142; DOI 10.1016/j.ejmp.2024.104872
@@ -918,7 +962,7 @@ Abstract: BACKGROUND: FLASH radiotherapy necessitates the development of advance
 
 ---
 
-## 84. Pulsed beam monitoring for electron FLASH.
+## 88. Pulsed beam monitoring for electron FLASH.
 Authors: Morris T, Rajapakse A, Lyatskaya Y, Zygmanski P, Bredfeldt J, Sajo E, Brivio D
 Journal: Medical physics (2025)
 Identifiers: PMID 39625232; DOI 10.1002/mp.17553
@@ -929,7 +973,7 @@ Abstract: BACKGROUND: Safe implementation and translation of FLASH radiotherapy 
 
 ---
 
-## 85. Characterization of a Time-Resolved, Real-Time Scintillation Dosimetry System for Ultra-High Dose-Rate Radiation Therapy Applications.
+## 89. Characterization of a Time-Resolved, Real-Time Scintillation Dosimetry System for Ultra-High Dose-Rate Radiation Therapy Applications.
 Authors: Baikalov A, Tho D, Liu K, Bartzsch S, Beddar S, Schüler E
 Journal: International journal of radiation oncology, biology, physics (2025)
 Identifiers: PMID 39615658; DOI 10.1016/j.ijrobp.2024.11.092; PMC PMC12335921 (open access)
@@ -940,7 +984,7 @@ Abstract: PURPOSE: Scintillation dosimetry has promising qualities for ultra-hig
 
 ---
 
-## 86. Development of patient-specific pre-treatment verification procedure for FLASH proton therapy based on time resolved film dosimetry.
+## 90. Development of patient-specific pre-treatment verification procedure for FLASH proton therapy based on time resolved film dosimetry.
 Authors: Spruijt KH, Godart J, Rovituso M, Wang Y, van der Wal E, Habraken SJM, Hoogeman M
 Journal: Medical physics (2025)
 Identifiers: PMID 39601486; DOI 10.1002/mp.17534; PMC PMC11788253 (open access)
@@ -951,7 +995,7 @@ Abstract: BACKGROUND: Pre-clinical studies demonstrate that delivering a high do
 
 ---
 
-## 87. On the acceptance, commissioning, and quality assurance of electron FLASH units.
+## 91. On the acceptance, commissioning, and quality assurance of electron FLASH units.
 Authors: Palmiero A, Liu K, Colnot J, Chopra N, Neill D, Connell L, Velasquez B, Koong AC et al.
 Journal: Medical physics (2025)
 Identifiers: PMID 39462477; DOI 10.1002/mp.17483; PMC PMC11788050 (open access)
@@ -962,7 +1006,7 @@ Abstract: BACKGROUND AND PURPOSE: FLASH or ultra-high dose rate (UHDR) radiation
 
 ---
 
-## 88. Characterization of an Inorganic Powder-Based Scintillation Detector Under a UHDR Electron Beam.
+## 92. Characterization of an Inorganic Powder-Based Scintillation Detector Under a UHDR Electron Beam.
 Authors: Tho D, Beddar S
 Journal: Sensors (Basel, Switzerland) (2024)
 Identifiers: PMID 39771799; DOI 10.3390/s24248064; PMC PMC11679140 (open access)
@@ -973,7 +1017,7 @@ Abstract: (1) Background: Ultra-high dose rate (UHDR) radiation therapy needs a 
 
 ---
 
-## 89. Commissioning a clinical proton pencil beam scanning beamline for pre-clinical ultra-high dose rate irradiations on a cyclotron-based system.
+## 93. Commissioning a clinical proton pencil beam scanning beamline for pre-clinical ultra-high dose rate irradiations on a cyclotron-based system.
 Authors: Saini J, Erickson DPJ, Vander Stappen F, Ruth M, Cui S, Gorman V, Rossomme S, Cao N et al.
 Journal: Frontiers in oncology (2024)
 Identifiers: PMID 39678495; DOI 10.3389/fonc.2024.1460288; PMC PMC11638781 (open access)
@@ -984,7 +1028,7 @@ Abstract: BACKGROUND: This manuscript describes modifications to a pencil beam s
 
 ---
 
-## 90. Dosimetric calibration of anatomy-specific ultra-high dose rate electron irradiation platform for preclinical FLASH radiobiology experiments.
+## 94. Dosimetric calibration of anatomy-specific ultra-high dose rate electron irradiation platform for preclinical FLASH radiobiology experiments.
 Authors: Wang J, Melemenidis S, Manjappa R, Viswanathan V, Ashraf RM, Levy K, Skinner LB, Soto LA et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 39331834; DOI 10.1002/mp.17432; PMC PMC12231743 (open access)
@@ -995,7 +1039,7 @@ Abstract: BACKGROUND: FLASH radiation therapy (RT) offers a promising avenue for
 
 ---
 
-## 91. Development of novel ionization chambers for reference dosimetry in electron flash radiotherapy.
+## 95. Development of novel ionization chambers for reference dosimetry in electron flash radiotherapy.
 Authors: Liu K, Holmes S, Khan AU, Hooten B, DeWerd L, Schüler E, Beddar S
 Journal: Medical physics (2024)
 Identifiers: PMID 39311014; DOI 10.1002/mp.17425; PMC PMC11659051 (open access)
@@ -1006,7 +1050,7 @@ Abstract: BACKGROUND: Reference dosimetry in ultra-high dose rate (UHDR) beamlin
 
 ---
 
-## 92. Investigation of Ionization Chamber Characteristics for Ultrahigh-dose-rate Scanned Carbon-ion Beams.
+## 96. Investigation of Ionization Chamber Characteristics for Ultrahigh-dose-rate Scanned Carbon-ion Beams.
 Authors: Hamatani N, Yagi M, Shimizu S, Ishino N, Shimizu M, Kuwana Y, Tsubouchi T, Takashina M et al.
 Journal: In vivo (Athens, Greece) (2024)
 Identifiers: PMID 39187321; DOI 10.21873/invivo.13686; PMC PMC11363756 (open access)
@@ -1017,7 +1061,7 @@ Abstract: BACKGROUND/AIM: There are only a few studies on dosimetry with ultrahi
 
 ---
 
-## 93. Characterizing devices for validation of dose, dose rate, and LET in ultra high dose rate proton irradiations.
+## 97. Characterizing devices for validation of dose, dose rate, and LET in ultra high dose rate proton irradiations.
 Authors: Harrison N, Charyyev S, Oancea C, Stanforth A, Gelover E, Zhou S, Dynan WS, Zhang T et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 39153223; DOI 10.1002/mp.17359
@@ -1028,7 +1072,7 @@ Abstract: BACKGROUND: Ultra high dose rate (UHDR) radiotherapy using ridge filte
 
 ---
 
-## 94. Toward real-time, volumetric dosimetry for FLASH-capable clinical synchrocyclotrons using protoacoustic imaging.
+## 98. Toward real-time, volumetric dosimetry for FLASH-capable clinical synchrocyclotrons using protoacoustic imaging.
 Authors: Wang S, Gonzalez G, Owen DR, Sun L, Liu Y, Zwart T, Chen Y, Xiang L
 Journal: Medical physics (2024)
 Identifiers: PMID 39073707; DOI 10.1002/mp.17318; PMC PMC11530303 (open access)
@@ -1039,7 +1083,7 @@ Abstract: BACKGROUND: Radiation delivery with ultra-high dose rate (FLASH) radio
 
 ---
 
-## 95. Characterization of a commercial plastic scintillator for electron FLASH dosimetry.
+## 99. Characterization of a commercial plastic scintillator for electron FLASH dosimetry.
 Authors: Oh K, Hyun MA, Gallagher KJ, Yan Y, Zhou S
 Journal: Journal of applied clinical medical physics (2024)
 Identifiers: PMID 38952057; DOI 10.1002/acm2.14451; PMC PMC11302813 (open access)
@@ -1050,7 +1094,7 @@ Abstract: PURPOSE: This study investigated the potential of a commercially avail
 
 ---
 
-## 96. Validation and reproducibility of in vivo dosimetry for pencil beam scanned FLASH proton treatment in mice.
+## 100. Validation and reproducibility of in vivo dosimetry for pencil beam scanned FLASH proton treatment in mice.
 Authors: Bookbinder A, Selvaraj B, Zhao X, Yang Y, Bell BI, Pennock M, Tsai P, Tomé WA et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2024)
 Identifiers: PMID 38942121; DOI 10.1016/j.radonc.2024.110404
@@ -1061,7 +1105,7 @@ Abstract: PURPOSE: To investigate quality assurance (QA) techniques for in vivo 
 
 ---
 
-## 97. Preliminary study of luminescence phenomena from various materials under ultra-high dose rate proton beam irradiation for dose management.
+## 101. Preliminary study of luminescence phenomena from various materials under ultra-high dose rate proton beam irradiation for dose management.
 Authors: Yamada R, Nishio T, Kinkawa D, Tanaka T, Omura M, Tabata Y, Yoshimura H, Kataoka J
 Journal: Scientific reports (2024)
 Identifiers: PMID 38914610; DOI 10.1038/s41598-024-65513-3; PMC PMC11196681 (open access)
@@ -1072,7 +1116,7 @@ Abstract: This research aimed to identify materials capable of emitting visible 
 
 ---
 
-## 98. Quantitative, real-time scintillation imaging for experimental comparison of different dose and dose rate estimations in UHDR proton pencil beams.
+## 102. Quantitative, real-time scintillation imaging for experimental comparison of different dose and dose rate estimations in UHDR proton pencil beams.
 Authors: Clark M, Harms J, Vasyltsiv R, Sloop A, Kozelka J, Simon B, Zhang R, Gladstone D et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 38860497; DOI 10.1002/mp.17247; PMC PMC12403906 (open access)
@@ -1083,7 +1127,7 @@ Abstract: BACKGROUND: Ultra-high dose rate radiotherapy (UHDR-RT) has demonstrat
 
 ---
 
-## 99. Radiation hardness of open Fabry-Pérot microcavities.
+## 103. Radiation hardness of open Fabry-Pérot microcavities.
 Authors: Rodrigues-Machado FC, Janitz E, Bernard S, Bekerat H, McEwen M, Renaud J, Enger SA, Childress L et al.
 Journal: Optics express (2024)
 Identifiers: PMID 38858908; DOI 10.1364/OE.522332
@@ -1094,7 +1138,7 @@ Abstract: High-finesse microcavities offer a platform for compact, high-precisio
 
 ---
 
-## 100. Proton 3D dose measurement with a multi-layer strip ionization chamber (MLSIC) device.
+## 104. Proton 3D dose measurement with a multi-layer strip ionization chamber (MLSIC) device.
 Authors: Zhou S, Chen Q, Haefner J, Smith W, Darafsheh A, Zhao T, Harrison NA, Zhou J et al.
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38843812; DOI 10.1088/1361-6560/ad550f
@@ -1105,7 +1149,7 @@ Abstract: Objective. In current clinical practice for quality assurance (QA), in
 
 ---
 
-## 101. A comprehensive pre-clinical treatment quality assurance program using unique spot patterns for proton pencil beam scanning FLASH radiotherapy.
+## 105. A comprehensive pre-clinical treatment quality assurance program using unique spot patterns for proton pencil beam scanning FLASH radiotherapy.
 Authors: Tsai P, Yang Y, Wu M, Chen CC, Yu F, Simone CB, Choi JI, Tomé WA et al.
 Journal: Journal of applied clinical medical physics (2024)
 Identifiers: PMID 38831639; DOI 10.1002/acm2.14400; PMC PMC11302823 (open access)
@@ -1116,7 +1160,7 @@ Abstract: BACKGROUND: Quality assurance (QA) for ultra-high dose rate (UHDR) irr
 
 ---
 
-## 102. On the acceptance, commissioning, and quality assurance of electron FLASH units.
+## 106. On the acceptance, commissioning, and quality assurance of electron FLASH units.
 Authors: Palmiero A, Liu K, Colnot J, Chopra N, Neill D, Connell L, Velasquez B, Koong AC et al.
 Journal: ArXiv (2024)
 Identifiers: PMID 38827455; PMC PMC11142322 (open access)
@@ -1127,7 +1171,7 @@ Abstract: BACKGROUND & PURPOSE: FLASH or ultra-high dose rate (UHDR) radiation t
 
 ---
 
-## 103. Cerenkov free micro-dosimetry in small-field radiation therapy technique.
+## 107. Cerenkov free micro-dosimetry in small-field radiation therapy technique.
 Authors: Debnath SBC, Tonneau D, Fauquet C, Tallet A, Darréon J
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38810619; DOI 10.1088/1361-6560/ad51c6
@@ -1138,7 +1182,7 @@ Abstract: Objective. Optical fiber-based scintillating dosimetry is a recent pro
 
 ---
 
-## 104. Development and characterization of a dedicated dose monitor for ultrahigh-dose-rate scanned carbon-ion beams.
+## 108. Development and characterization of a dedicated dose monitor for ultrahigh-dose-rate scanned carbon-ion beams.
 Authors: Yagi M, Shimizu S, Hamatani N, Miyoshi T, Nomura T, Toyoda T, Nakatani M, Tsubouchi T et al.
 Journal: Scientific reports (2024)
 Identifiers: PMID 38773165; DOI 10.1038/s41598-024-62148-2; PMC PMC11109334 (open access)
@@ -1149,7 +1193,7 @@ Abstract: The current monochromatic beam mode (i.e., uHDR irradiation mode) of t
 
 ---
 
-## 105. Comprehensive dosimetric characterization of novel silicon carbide detectors with UHDR electron beams for FLASH radiotherapy.
+## 109. Comprehensive dosimetric characterization of novel silicon carbide detectors with UHDR electron beams for FLASH radiotherapy.
 Authors: Milluzzo G, De Napoli M, Di Martino F, Amato A, Del Sarto D, D'Oca MC, Marrale M, Masturzo L et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 38772134; DOI 10.1002/mp.17172
@@ -1160,7 +1204,7 @@ Abstract: BACKGROUND: The extremely fast delivery of doses with ultra high dose 
 
 ---
 
-## 106. Toward a multi-layer micro-structured detector for high-energy electron radiotherapy.
+## 110. Toward a multi-layer micro-structured detector for high-energy electron radiotherapy.
 Authors: Brivio D, Liles A, Gagne M, Sajo E, Zygmanski P
 Journal: Medical physics (2024)
 Identifiers: PMID 38772041; DOI 10.1002/mp.17134
@@ -1171,7 +1215,7 @@ Abstract: BACKGROUND: The use of electron beams has been rekindled by the advent
 
 ---
 
-## 107. Electron beam response corrections for an ultra-high-dose-rate capable diode dosimeter.
+## 111. Electron beam response corrections for an ultra-high-dose-rate capable diode dosimeter.
 Authors: Dai T, Sloop AM, Schönfeld A, Flatten V, Kozelka J, Hildreth J, Bill S, Sunnerberg JP et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 38762909; DOI 10.1002/mp.17121; PMC PMC11752437 (open access)
@@ -1182,7 +1226,7 @@ Abstract: BACKGROUND: Ultra-high-dose-rate (UHDR) electron beams have been commo
 
 ---
 
-## 108. High spatiotemporal resolution scintillation imaging of pulsed pencil beam scanning proton beams produced by a gantry-mounted synchrocyclotron.
+## 112. High spatiotemporal resolution scintillation imaging of pulsed pencil beam scanning proton beams produced by a gantry-mounted synchrocyclotron.
 Authors: Goddu SM, Hao Y, Ji Z, Setianegara J, Liu F, Green W, Sobotka LG, Zhao T et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 38748998; DOI 10.1002/mp.17116; PMC PMC13160180 (open access)
@@ -1193,7 +1237,7 @@ Abstract: BACKGROUND: A dosimeter with high spatial and temporal resolution woul
 
 ---
 
-## 109. 4Din vivodosimetry for a FLASH electron beam using radiation-induced acoustic imaging.
+## 113. 4Din vivodosimetry for a FLASH electron beam using radiation-induced acoustic imaging.
 Authors: Bjegovic K, Sun L, Pandey P, Grilj V, Ballesteros-Zebadua P, Paisley R, Gonzalez G, Wang S et al.
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38722574; DOI 10.1088/1361-6560/ad4950; PMC PMC12588382 (open access)
@@ -1204,7 +1248,7 @@ Abstract: Objective. The primary goal of this research is to demonstrate the fea
 
 ---
 
-## 110. Plastic scintillator-based dosimeters for ultra-high dose rate (UHDR) electron radiotherapy.
+## 114. Plastic scintillator-based dosimeters for ultra-high dose rate (UHDR) electron radiotherapy.
 Authors: Ciarrocchi E, Ravera E, Cavalieri A, Celentano M, Del Sarto D, Di Martino F, Linsalata S, Massa M et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)
 Identifiers: PMID 38692114; DOI 10.1016/j.ejmp.2024.103360
@@ -1215,7 +1259,18 @@ Abstract: This paper reports the development of dosimeters based on plastic scin
 
 ---
 
-## 111. Automated determination of the ion-recombination correction factor (ksat) in ultra-high dose rate electron radiation therapy.
+## 115. The effect of electron backscatter and charge build up in media on beam current transformer signal for ultra-high dose rate (FLASH) electron beam monitoring.
+Authors: Pageot C, Zerouali K, Guillet D, Muir B, Renaud J, Lalonde A
+Journal: Physics in medicine and biology (2024)
+Identifiers: PMID 38640916; DOI 10.1088/1361-6560/ad40f7
+URL: https://pubmed.ncbi.nlm.nih.gov/38640916/
+Category: Physics & Dosimetry | Tags: Modeling & Mechanisms, Physics & Dosimetry, Beam Delivery & Technology
+
+Abstract: Objective.Beam current transformers (BCT) are promising detectors for real-time beam monitoring in ultra-high dose rate (UHDR) electron radiotherapy. However, previous studies have reported a significant sensitivity of the BCT signal to changes in source-to-surface distance (SSD), field size, and phantom material which have until now been attributed to the fluctuating levels of electrons backscattered within the BCT. The purpose of this study is to evaluate this hypothesis, with the goal of understanding and mitigating the variations in BCT signal due to changes in irradiation conditions.Approach.Monte Carlo simulations and experimental measurements were conducted with a UHDR-capable intra-operative electron linear accelerator to analyze the impact of backscattered electrons on BCT signal. The potential influence of charge accumulation in media as a mechanism affecting BCT signal perturbation was further investigated by examining the effects of phantom conductivity and electrical grounding. Finally, the effectiveness of Faraday shielding to mitigate BCT signal variations is evaluated.Main Results.Monte Carlo simulations indicated that the fraction of electrons backscattered in water and on the collimator plastic at 6 and 9 MeV is lower than 1%, suggesting that backscattered electrons alone cannot account for the observed BCT signal variations. However, our experimental measurements confirmed previous findings of BCT response variation up to 15% for different field diameters. A significant impact of phantom type on BCT response was also observed, with variations in BCT signal as high as 14.1% when comparing measurements in water and solid water. The introduction of a Faraday shield to our applicators effectively mitigated the dependencies of BCT signal on SSD, field size, and phantom material.Significance.Our results indicate that variations in BCT signal as a function of SSD, field size, and phantom material are likely driven by an electric field originating in dielectric materials exposed to the UHDR electron beam. Strategies such as Faraday shielding were shown to effectively prevent these electric fields from affecting BCT signal, enabling reliable BCT-based electron UHDR beam monitoring.
+
+---
+
+## 116. Automated determination of the ion-recombination correction factor (ksat) in ultra-high dose rate electron radiation therapy.
 Authors: Claessens M, Vanreusel V, Gasparini A, Nascimento LF, Yalvec B, Reniers B, Verellen D
 Journal: Medical physics (2024)
 Identifiers: PMID 38639653; DOI 10.1002/mp.17085
@@ -1226,7 +1281,7 @@ Abstract: BACKGROUND: Plane-parallel ionization chambers are the recommended sec
 
 ---
 
-## 112. Secondary neutron dosimetry for conformal FLASH proton therapy.
+## 117. Secondary neutron dosimetry for conformal FLASH proton therapy.
 Authors: Chen D, Motlagh SAO, Stappen FV, Labarbe R, Bell B, Kim M, Teo BK, Dong L et al.
 Journal: Medical physics (2024)
 Identifiers: PMID 38597815; DOI 10.1002/mp.17050; PMC PMC12086008 (open access)
@@ -1237,7 +1292,7 @@ Abstract: BACKGROUND: Cyclotron-based proton therapy systems utilize the highest
 
 ---
 
-## 113. Two-dimensional time-resolved scintillating sheet monitoring of proton pencil beam scanning FLASH mouse irradiations.
+## 118. Two-dimensional time-resolved scintillating sheet monitoring of proton pencil beam scanning FLASH mouse irradiations.
 Authors: Kanouta E, Bruza P, Johansen JG, Kristensen L, Sørensen BS, Poulsen PR
 Journal: Medical physics (2024)
 Identifiers: PMID 38569159; DOI 10.1002/mp.17049; PMC PMC13046562 (open access)
@@ -1248,7 +1303,7 @@ Abstract: BACKGROUND: Dosimetry in pre-clinical FLASH studies is essential for u
 
 ---
 
-## 114. State-of-the-art silicon carbide diode dosimeters for ultra-high dose-per-pulse radiation at FLASH radiotherapy.
+## 119. State-of-the-art silicon carbide diode dosimeters for ultra-high dose-per-pulse radiation at FLASH radiotherapy.
 Authors: Fleta C, Pellegrini G, Godignon P, Rodríguez FG, Paz-Martín J, Kranzer R, Schüller A
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38530300; DOI 10.1088/1361-6560/ad37eb
@@ -1259,7 +1314,18 @@ Abstract: Objective.The successful implementation of FLASH radiotherapy in clini
 
 ---
 
-## 115. A comprehensive investigation of the performance of a commercial scintillator system for applications in electron FLASH radiotherapy.
+## 120. Methodology for small animals targeted irradiations at conventional and ultra-high dose rates 65 MeV proton beam.
+Authors: Evin M, Koumeir C, Bongrand A, Delpon G, Haddad F, Mouchard Q, Potiron V, Saade G et al.
+Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2024)
+Identifiers: PMID 38518627; DOI 10.1016/j.ejmp.2024.103332
+URL: https://pubmed.ncbi.nlm.nih.gov/38518627/
+Category: Physics & Dosimetry | Tags: Radiobiology, Physics & Dosimetry, Modeling & Mechanisms, Beam Delivery & Technology, Treatment Planning & Optimization, Clinical & Translational
+
+Abstract: As part of translational research projects, mice may be irradiated on radiobiology platforms such as the one at the ARRONAX cyclotron. Generally, these platforms do not feature an integrated imaging system. Moreover, in the context of ultra-high dose-rate radiotherapy (FLASH-RT), treatment planning should consider potential changes in the beam characteristics and internal movements in the animal. A patient-like set-up and methodology has been implemented to ensure target coverage during conformal irradiations of the brain, lungs and intestines. In addition, respiratory cycle amplitudes were quantified by fluoroscopic acquisitions on a mouse, to ensure organ coverage and to assess the impact of respiration during FLASH-RT using the 4D digital phantom MOBY. Furthermore, beam incidence direction was studied from mice µCBCT and Monte Carlo simulations. Finally,in vivodosimetry with dose-rate independent radiochromic films (OC-1) and their LET dependency were investigated. The immobilization system ensures that the animal is held in a safe and suitable position. The geometrical evaluation of organ coverage, after the addition of the margins around the organs, was satisfactory. Moreover, no measured differences were found between CONV and FLASH beams enabling a single model of the beamline for all planning studies. Finally, the LET-dependency of the OC-1 film was determined and experimentally verified with phantoms, as well as the feasibility of using these filmsin vivoto validate the targeting. The methodology developed ensures accurate and reproducible preclinical irradiations in CONV and FLASH-RT without in-room image guidance in terms of positioning, dose calculation andin vivodosimetry.
+
+---
+
+## 121. A comprehensive investigation of the performance of a commercial scintillator system for applications in electron FLASH radiotherapy.
 Authors: Liu K, Holmes S, Schüler E, Beddar S
 Journal: Medical physics (2024)
 Identifiers: PMID 38507253; DOI 10.1002/mp.17030; PMC PMC11147715 (open access)
@@ -1270,7 +1336,7 @@ Abstract: BACKGROUND: Dosimetry in ultra-high dose rate (UHDR) beamlines is sign
 
 ---
 
-## 116. Characterization of a novel time-resolved, real-time scintillation dosimetry system for ultra-high dose rate radiation therapy applications.
+## 122. Characterization of a novel time-resolved, real-time scintillation dosimetry system for ultra-high dose rate radiation therapy applications.
 Authors: Baikalov A, Tho D, Liu K, Bartzsch S, Beddar S, Schüler E
 Journal: ArXiv (2024)
 Identifiers: PMID 38495573; PMC PMC10942482 (open access)
@@ -1281,7 +1347,7 @@ Abstract: BACKGROUND: Scintillation dosimetry has promising qualities for ultra-
 
 ---
 
-## 117. Multi-Institutional Audit of FLASH and Conventional Dosimetry With a 3D Printed Anatomically Realistic Mouse Phantom.
+## 123. Multi-Institutional Audit of FLASH and Conventional Dosimetry With a 3D Printed Anatomically Realistic Mouse Phantom.
 Authors: Ashraf MR, Melemenidis S, Liu K, Grilj V, Jansen J, Velasquez B, Connell L, Schulz JB et al.
 Journal: International journal of radiation oncology, biology, physics (2024)
 Identifiers: PMID 38493902; DOI 10.1016/j.ijrobp.2024.03.017; PMC PMC12359262 (open access)
@@ -1292,7 +1358,7 @@ Abstract: PURPOSE: We conducted a multi-institutional dosimetric audit between F
 
 ---
 
-## 118. Development of a novel fibre optic beam profile and dose monitor for very high energy electron radiotherapy at ultrahigh dose rates.
+## 124. Development of a novel fibre optic beam profile and dose monitor for very high energy electron radiotherapy at ultrahigh dose rates.
 Authors: Bateman JJ, Buchanan E, Corsini R, Farabolini W, Korysko P, Garbrecht Larsen R, Malyzhenkov A, Ortega Ruiz I et al.
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38478998; DOI 10.1088/1361-6560/ad33a0
@@ -1303,7 +1369,7 @@ Abstract: Objective. Very high energy electrons (VHEE) in the range of 50-250 Me
 
 ---
 
-## 119. A prototype scintillator real-time beam monitor for ultra-high dose rate radiotherapy.
+## 125. A prototype scintillator real-time beam monitor for ultra-high dose rate radiotherapy.
 Authors: Levin DS, Friedman PS, Ferretti C, Ristow N, Tecchio M, Litzenberg DW, Bashkirov V, Schulte R
 Journal: Medical physics (2024)
 Identifiers: PMID 38456622; DOI 10.1002/mp.17018; PMC PMC11992679 (open access)
@@ -1314,7 +1380,7 @@ Abstract: BACKGROUND: FLASH Radiotherapy (RT) is an emergent cancer RT modality 
 
 ---
 
-## 120. A semi-analytical procedure to determine the ion recombination correction factor in high dose-per-pulse beams.
+## 126. A semi-analytical procedure to determine the ion recombination correction factor in high dose-per-pulse beams.
 Authors: Bancheri J, Seuntjens J
 Journal: Medical physics (2024)
 Identifiers: PMID 38446555; DOI 10.1002/mp.17005
@@ -1325,7 +1391,18 @@ Abstract: BACKGROUND: The conventional theories and methods of determining the i
 
 ---
 
-## 121. A readout system for highly sensitive diamond detectors for FLASH dosimetry.
+## 127. Imaging and characterization of optical emission fromex vivotissue during conventional and UHDR PBS proton therapy.
+Authors: Vasyltsiv R, Rahman M, Harms J, Clark M, Gladstone DJ, Pogue BW, Zhang R, Bruza P
+Journal: Physics in medicine and biology (2024)
+Identifiers: PMID 38422545; DOI 10.1088/1361-6560/ad2ee6; PMC PMC10945384 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/38422545/
+Category: Physics & Dosimetry | Tags: Treatment Planning & Optimization, Beam Delivery & Technology
+
+Abstract: Objective. Imaging of optical photons emitted from tissue during radiotherapy is a promising technique for real-time visualization of treatment delivery, offering applications in dose verification, treatment monitoring, and retrospective treatment plan comparison. This research aims to explore the feasibility of intensified imaging of tissue luminescence during proton therapy (PT), under both conventional and ultra-high dose rate (UHDR) conditions.Approach. Conventional and UHDR pencil beam scanning (PBS) PT irradiation of freshex vivoporcine tissue and tissue-mimicking plastic phantom was imaged using intensified complementary metal-oxide-semiconductor(CMOS) cameras. The optical emission from tissue was characterized during conventional irradiation using both blue and red-sensitive intensifiers to ensure adequate spectral coverage. Spectral characterization was performed using bandpass filters between the lens and sensor. Imaging of conventional proton fields (240 MeV, 10 nA) was performed at 100 Hz frame rate, while UHDR PBS proton delivery (250 MeV, 99 nA) was recorded at 1 kHz frame rate. Dependence of optical emission yield on proton energy was studied using an optical tissue-mimicking plastic phantom and a range shifter. Finally, we demonstrated fast beam tracking capability of fast camera towardsin vivomonitoring of FLASH PT.Main results. Under conventional treatment dose rates optical emission was imaged with single spot resolution. Spot profiles were found to agree with the treatment planning system calculation within >90% for all spectral bands and spot intensity was found to vary with spectral filtration. The resultant polychromatic emission presented a maximum intensity at 650 nm and decreasing signal at lower wavelengths, which is consistent with expected attenuation patterns of high fat and muscle tissue. For UHDR beam imaging, optical yield increased with higher proton energy. Imaging at 1 kHz allowed continuous monitoring of delivery during porcine tissue irradiation, with clear identification of individual dwell positions. The number of dwell positions matched the treatment plan in total and per row showing adequate temporal capability of iCMOS imaging.Significance. For the first time, this study characterizes optical emission from tissue during PT and demonstrates our capability of fast optical tracking of pencil proton beam on the tissue anatomy in both conventional and UHDR setting. Similar to the Cherenkov imaging in radiotherapy, this imaging modality could enable a seamless, independent validation of PT treatments.
+
+---
+
+## 128. A readout system for highly sensitive diamond detectors for FLASH dosimetry.
 Authors: Pettinato S, Felici G, Galluzzo L, Rossi MC, Girolami M, Salvatori S
 Journal: Physics and imaging in radiation oncology (2024)
 Identifiers: PMID 38317851; DOI 10.1016/j.phro.2024.100538; PMC PMC10839766 (open access)
@@ -1336,7 +1413,7 @@ Abstract: Accurate dosimetry of ultra-high dose-rate beams using diamond detecto
 
 ---
 
-## 122. Reconfiguring a Plane-Parallel Transmission Ionization Chamber to Extend the Operating Range into the Ultra-High Dose-per-pulse Regime.
+## 129. Reconfiguring a Plane-Parallel Transmission Ionization Chamber to Extend the Operating Range into the Ultra-High Dose-per-pulse Regime.
 Authors: Konradsson E, Ericsson Szecsenyi R, Wahlqvist P, Thoft A, Blad B, Bäck SÅ, Ceberg C, Petersson K
 Journal: Radiation research (2024)
 Identifiers: PMID 38308528; DOI 10.1667/RADE-23-00177.1
@@ -1347,7 +1424,18 @@ Abstract: This study aims to investigate the feasibility of enhancing the charge
 
 ---
 
-## 123. Multi-point calorimeter using distributed fiber Bragg gratings for small field dosimetry in radiotherapy.
+## 130. Extending deterministic transport capabilities for very-high and ultra-high energy electron beams.
+Authors: Naceur A, Bienvenue C, Romano P, Chilian C, Carrier JF
+Journal: Scientific reports (2024)
+Identifiers: PMID 38307920; DOI 10.1038/s41598-023-51143-8; PMC PMC11226718 (open access)
+URL: https://pubmed.ncbi.nlm.nih.gov/38307920/
+Category: Physics & Dosimetry | Tags: Beam Delivery & Technology, Modeling & Mechanisms, Clinical & Translational, Radiobiology
+
+Abstract: Focused Very-High Energy Electron (VHEE, 50-300 MeV) and Ultra-High Energy Electron (UHEE, > 300 MeV) beams can accurately target both large and deeply seated human tumors with high sparing properties, while avoiding the spatial requirements and cost of proton and heavy ion facilities. Advanced testing phases are underway at the CLEAR facilities at CERN (Switzerland), NLCTA at Stanford (USA), and SPARC at INFN (Italy), aiming to accelerate the transition to clinical application. Currently, Monte Carlo (MC) transport is the sole paradigm supporting preclinical trials and imminent clinical deployment. In this paper, we propose an alternative: the first extension of the nuclear-reactor deterministic chain NJOY-DRAGON for VHEE and UHEE applications. We have extended the Boltzmann-Fokker-Planck (BFP) multigroup formalism and validated it using standard radio-oncology benchmarks, complex assemblies with a wide range of atomic numbers, and comprehensive irradiation of the entire periodic table. We report that [Formula: see text] of water voxels exhibit a BFP-MC deviation below [Formula: see text] for electron energies under [Formula: see text]. Additionally, we demonstrate that at least [Formula: see text] of voxels of bone, lung, adipose tissue, muscle, soft tissue, tumor, steel, and aluminum meet the same criterion between [Formula: see text] and [Formula: see text]. For water, the thorax, and the breast intra-operative benchmark, typical average BFP-MC deviations of [Formula: see text] and [Formula: see text] were observed at [Formula: see text] and [Formula: see text], respectively. By irradiating the entire periodic table, we observed similar performance between lithium ([Formula: see text]) and cerium ([Formula: see text]). Deficiencies observed between praseodymium ([Formula: see text]) and einsteinium ([Formula: see text]) have been reported, analyzed, and quantified, offering critical insights for the ongoing development of the Evaluated Nuclear Data File mode in NJOY.
+
+---
+
+## 131. Multi-point calorimeter using distributed fiber Bragg gratings for small field dosimetry in radiotherapy.
 Authors: Lebel-Cormier MA, Boilard T, Bernier M, Beaulieu L
 Journal: Medical physics (2024)
 Identifiers: PMID 38295013; DOI 10.1002/mp.16955
@@ -1358,18 +1446,7 @@ Abstract: BACKGROUND: The interest of using fiber Bragg gratings (FBGs) dosimete
 
 ---
 
-## 124. Feasibility of Synchrotron-Based Ultra-High Dose Rate (UHDR) Proton Irradiation with Pencil Beam Scanning for FLASH Research.
-Authors: Yin L, Masumi U, Ota K, Sforza DM, Miles D, Rezaee M, Wong JW, Jia X et al.
-Journal: Cancers (2024)
-Identifiers: PMID 38201648; DOI 10.3390/cancers16010221; PMC PMC10778151 (open access)
-URL: https://pubmed.ncbi.nlm.nih.gov/38201648/
-Category: Physics & Dosimetry | Tags: Physics & Dosimetry, Beam Delivery & Technology
-
-Abstract: BACKGROUND: This study aims to present the feasibility of developing a synchrotron-based proton ultra-high dose rate (UHDR) pencil beam scanning (PBS) system. METHODS: The RF extraction power in the synchrotron system was increased to generate 142.4 MeV pulsed proton beams for UHDR irradiation at ~100 nA beam current. The charge per spill was measured using a Faraday cup. The spill length and microscopic time structure of each spill was measured with a 2D strip transmission ion chamber. The measured UHDR beam fluence was used to derive the spot dwell time for pencil beam scanning. Absolute dose distributions at various depths and spot spacings were measured using Gafchromic films in a solid-water phantom. RESULTS: For proton UHDR beams at 142.4 MeV, the maximum charge per spill is 4.96 ± 0.10 nC with a maximum spill length of 50 ms. This translates to an average beam current of approximately 100 nA during each spill. Using a 2 × 2 spot delivery pattern, the delivered dose per spill at 5 cm and 13.5 cm depth is 36.3 Gy (726.3 Gy/s) and 56.2 Gy (1124.0 Gy/s), respectively. CONCLUSIONS: The synchrotron-based proton therapy system has the capability to deliver pulsed proton UHDR PBS beams. The maximum deliverable dose and field size per pulse are limited by the spill length and extraction charge.
-
----
-
-## 125. Dosimetry of ultra-high dose rate electron beams using thermoluminescence and optically stimulated luminescence detectors.
+## 132. Dosimetry of ultra-high dose rate electron beams using thermoluminescence and optically stimulated luminescence detectors.
 Authors: Motta S, Dal Bello R, Christensen JB, Bossin L, Yukihara EG
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38198704; DOI 10.1088/1361-6560/ad1cf5
@@ -1380,7 +1457,7 @@ Abstract: Objective.The aim of this work is to investigate the dose rate depende
 
 ---
 
-## 126. Dosimetric characterization of a novel UHDR megavoltage X-ray source for FLASH radiobiological experiments.
+## 133. Dosimetric characterization of a novel UHDR megavoltage X-ray source for FLASH radiobiological experiments.
 Authors: Esplen N, Egoriti L, Planche T, Rädel S, Koay HW, Humphries B, Ren X, Ford N et al.
 Journal: Scientific reports (2024)
 Identifiers: PMID 38191885; DOI 10.1038/s41598-023-50412-w; PMC PMC10774358 (open access)
@@ -1391,7 +1468,7 @@ Abstract: A first irradiation platform capable of delivering 10 MV X-ray beams a
 
 ---
 
-## 127. Technical note: Commissioning of a linear accelerator producing ultra-high dose rate electrons.
+## 134. Technical note: Commissioning of a linear accelerator producing ultra-high dose rate electrons.
 Authors: Cetnar AJ, Jain S, Gupta N, Chakravarti A
 Journal: Medical physics (2024)
 Identifiers: PMID 38159300; DOI 10.1002/mp.16925
@@ -1402,7 +1479,7 @@ Abstract: BACKGROUND: Ultra-high dose rate radiation (UHDR) is being explored by
 
 ---
 
-## 128. Simulation study of protoacoustics as a real-time in-line dosimetry tool for FLASH proton therapy.
+## 135. Simulation study of protoacoustics as a real-time in-line dosimetry tool for FLASH proton therapy.
 Authors: Kim K, Pandey PK, Gonzalez G, Chen Y, Xiang L
 Journal: Medical physics (2024)
 Identifiers: PMID 38116792; DOI 10.1002/mp.16894; PMC PMC11186976 (open access)
@@ -1413,7 +1490,18 @@ Abstract: BACKGROUND: Applying ultra-high dose rates to radiation therapy, other
 
 ---
 
-## 129. Preliminary study of low-pressure ionization chamber for online dose monitoring in FLASH carbon ion radiotherapy.
+## 136. Multi-institutional consensus on machine QA for isochronous cyclotron-based systems delivering ultra-high dose rate (FLASH) pencil beam scanning proton therapy in transmission mode.
+Authors: Spruijt K, Mossahebi S, Lin H, Lee E, Kraus J, Dhabaan A, Poulsen P, Lowe M et al.
+Journal: Medical physics (2024)
+Identifiers: PMID 38103260; DOI 10.1002/mp.16854
+URL: https://pubmed.ncbi.nlm.nih.gov/38103260/
+Category: Physics & Dosimetry | Tags: Clinical & Translational, Physics & Dosimetry, Beam Delivery & Technology, Radiobiology
+
+Abstract: BACKGROUND: The first clinical trials to assess the feasibility of FLASH radiotherapy in humans have started (FAST-01, FAST-02) and more trials are foreseen. To increase comparability between trials it is important to assure treatment quality and therefore establish a standard for machine quality assurance (QA). Currently, the AAPM TG-224 report is considered as the standard on machine QA for proton therapy, however, it was not intended to be used for ultra-high dose rate (UHDR) proton beams, which have gained interest due to the observation of the FLASH effect. PURPOSE: The aim of this study is to find consensus on practical guidelines on machine QA for UHDR proton beams in transmission mode in terms of which QA is required, how they should be done, which detectors are suitable for UHDR machine QA, and what tolerance limits should be applied. METHODS: A risk assessment to determine the gaps in the current standard for machine QA was performed by an international group of medical physicists. Based on that, practical guidelines on how to perform machine QA for UHDR proton beams were proposed. RESULTS: The risk assessment clearly identified the need for additional guidance on temporal dosimetry, addressing dose rate (constancy), dose spillage, and scanning speed. In addition, several minor changes from AAPM TG-224 were identified; define required dose rate levels, the use of clinically relevant dose levels, and the use of adapted beam settings to minimize activation of detector and phantom materials or to avoid saturation effects of specific detectors. The final report was created based on discussions and consensus. CONCLUSIONS: Consensus was reached on what QA is required for UHDR scanning proton beams in transmission mode for isochronous cyclotron-based systems and how they should be performed. However, the group discussions also showed that there is a lack of high temporal resolution detectors and sufficient QA data to set appropriate limits for some of the proposed QA procedures.
+
+---
+
+## 137. Preliminary study of low-pressure ionization chamber for online dose monitoring in FLASH carbon ion radiotherapy.
 Authors: Lang X, Hu Z, Zhao Z, Zhou K, Xu Z, Li M, Mao R, Luo F et al.
 Journal: Physics in medicine and biology (2024)
 Identifiers: PMID 38064745; DOI 10.1088/1361-6560/ad13d0
@@ -1424,7 +1512,7 @@ Abstract: The FLASH effect of carbon ion therapy has recently attracted signific
 
 ---
 
-## 130. Technical note: High-dose and ultra-high dose rate (UHDR) evaluation of Al2 O3 :C optically stimulated luminescent dosimeter nanoDots and powdered LiF:Mg,Ti thermoluminescent dosimeters for radiation therapy applications.
+## 138. Technical note: High-dose and ultra-high dose rate (UHDR) evaluation of Al2 O3 :C optically stimulated luminescent dosimeter nanoDots and powdered LiF:Mg,Ti thermoluminescent dosimeters for radiation therapy applications.
 Authors: Liu K, Velasquez B, Schüler E
 Journal: Medical physics (2024)
 Identifiers: PMID 37991111; DOI 10.1002/mp.16832; PMC PMC10939935 (open access)
@@ -1435,7 +1523,7 @@ Abstract: BACKGROUND: Dosimetry in ultra-high dose rate (UHDR) electron beamline
 
 ---
 
-## 131. Simulation-guided development of an optical calorimeter for high dose rate dosimetry.
+## 139. Simulation-guided development of an optical calorimeter for high dose rate dosimetry.
 Authors: Roberts J, Moggre A, Meyer J, Marsh S
 Journal: Physical and engineering sciences in medicine (2024)
 Identifiers: PMID 37938519; DOI 10.1007/s13246-023-01349-x
@@ -1446,7 +1534,7 @@ Abstract: Optical Calorimetry (OC) is based on interferometry and provides a dir
 
 ---
 
-## 132. Diamond detectors for dose and instantaneous dose-rate measurements for ultra-high dose-rate scanned helium ion beams.
+## 140. Diamond detectors for dose and instantaneous dose-rate measurements for ultra-high dose-rate scanned helium ion beams.
 Authors: Tessonnier T, Verona-Rinati G, Rank L, Kranzer R, Mairani A, Marinelli M
 Journal: Medical physics (2024)
 Identifiers: PMID 37742343; DOI 10.1002/mp.16757; PMC PMC10922163 (open access)
@@ -1457,7 +1545,7 @@ Abstract: BACKGROUND: The possible emergence of the FLASH effect-the sparing of 
 
 ---
 
-## 133. Initial experience with an electron FLASH research extension (FLEX) for the Clinac system.
+## 141. Initial experience with an electron FLASH research extension (FLEX) for the Clinac system.
 Authors: Oh K, Gallagher KJ, Hyun M, Schott D, Wisnoskie S, Lei Y, Hendley S, Wong J et al.
 Journal: Journal of applied clinical medical physics (2024)
 Identifiers: PMID 37735808; DOI 10.1002/acm2.14159; PMC PMC10860433 (open access)
@@ -1468,7 +1556,7 @@ Abstract: PURPOSE: Radiotherapy delivered at ultra-high-dose-rates (≥40 Gy/s)
 
 ---
 
-## 134. Evaluation of ion chamber response for applications in electron FLASH radiotherapy.
+## 142. Evaluation of ion chamber response for applications in electron FLASH radiotherapy.
 Authors: Liu K, Holmes S, Hooten B, Schüler E, Beddar S
 Journal: Medical physics (2024)
 Identifiers: PMID 37696271; DOI 10.1002/mp.16726; PMC PMC10840726 (open access)
@@ -1479,7 +1567,7 @@ Abstract: Ion chambers are required for calibration and reference dosimetry appl
 
 ---
 
-## 135. Dosimetric characterization of a rotating anode x-ray tube for FLASH radiotherapy research.
+## 143. Dosimetric characterization of a rotating anode x-ray tube for FLASH radiotherapy research.
 Authors: Miles D, Sforza D, Wong J, Rezaee M
 Journal: Medical physics (2024)
 Identifiers: PMID 37458068; DOI 10.1002/mp.16609; PMC PMC10792113 (open access)
@@ -1490,7 +1578,7 @@ Abstract: PURPOSE: Most current research toward ultra-high dose rate (FLASH) rad
 
 ---
 
-## 136. A Prototype Scintillator Real-Time Beam Monitor for Ultra-high Dose Rate Radiotherapy.
+## 144. A Prototype Scintillator Real-Time Beam Monitor for Ultra-high Dose Rate Radiotherapy.
 Authors: Levin DS, Friedman PS, Ferretti C, Ristow N, Tecchio M, Litzenberg DW, Bashkirov V, Schulte R
 Journal: ArXiv (2024)
 Identifiers: PMID 37292473; PMC PMC10246063 (open access)
@@ -1501,7 +1589,7 @@ Abstract: BACKGROUND: FLASH Radiotherapy (RT) is an emergent cancer radiotherapy
 
 ---
 
-## 137. FLASH radiotherapy using high-energy X-rays: Current status of PARTER platform in FLASH research.
+## 145. FLASH radiotherapy using high-energy X-rays: Current status of PARTER platform in FLASH research.
 Authors: Yang Y, Wang J, Gao F, Liu Z, Dai T, Zhang H, Zhu H, Wang T et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2023)
 Identifiers: PMID 39491239; DOI 10.1016/j.radonc.2023.109967
@@ -1512,7 +1600,7 @@ Abstract: PURPOSE: Recent studies indicated that ultrahigh dose rate (FLASH) rad
 
 ---
 
-## 138. Monte Carlo modelling of a prototype small-body portable graphite calorimeter for ultra-high dose rate proton beams.
+## 146. Monte Carlo modelling of a prototype small-body portable graphite calorimeter for ultra-high dose rate proton beams.
 Authors: Cotterill J, Flynn S, Thomas R, Subiel A, Lee N, Shipley D, Palmans H, Lourenço A
 Journal: Physics and imaging in radiation oncology (2023)
 Identifiers: PMID 38045641; DOI 10.1016/j.phro.2023.100506; PMC PMC10692912 (open access)
@@ -1523,7 +1611,7 @@ Abstract: BACKGROUND AND PURPOSE: Accurate dosimetry in Ultra-High Dose Rate (UH
 
 ---
 
-## 139. Charge collection efficiency of commercially available parallel-plate ionisation chambers in ultra-high dose-per-pulse electron beams.
+## 147. Charge collection efficiency of commercially available parallel-plate ionisation chambers in ultra-high dose-per-pulse electron beams.
 Authors: Bourgouin A, Paz-Martín J, Gedik YC, Frei F, Peier P, Rossomme S, Schönfeld AA, Schüller A et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37934049; DOI 10.1088/1361-6560/ad0a58
@@ -1534,7 +1622,7 @@ Abstract: Objective. This investigation aims to experimentally determine the cha
 
 ---
 
-## 140. The first probe of a FLASH proton beam by PET.
+## 148. The first probe of a FLASH proton beam by PET.
 Authors: Abouzahr F, Cesar JP, Crespo P, Gajda M, Hu Z, Klein K, Kuo AS, Majewski S et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37918021; DOI 10.1088/1361-6560/ad0901
@@ -1545,7 +1633,7 @@ Abstract: The recently observed FLASH effect related to high doses delivered wit
 
 ---
 
-## 141. Dosimetric response of Gafchromic™ EBT-XD film to therapeutic protons.
+## 149. Dosimetric response of Gafchromic™ EBT-XD film to therapeutic protons.
 Authors: Guan F, Wang X, Yang M, Draeger E, Han D, Iga K, Guo F, Perles L et al.
 Journal: Precision radiation oncology (2023)
 Identifiers: PMID 37868341; DOI 10.1002/pro6.1187; PMC PMC10586355 (open access)
@@ -1556,7 +1644,7 @@ Abstract: EBT-XD model of Gafchromic™ films has a broader optimal dynamic dose
 
 ---
 
-## 142. Multi-Institutional Audit of FLASH and Conventional Dosimetry with a 3D-Printed Anatomically Realistic Mouse Phantom.
+## 150. Multi-Institutional Audit of FLASH and Conventional Dosimetry with a 3D-Printed Anatomically Realistic Mouse Phantom.
 Authors: Ashraf MR, Melemenidis S, Liu K, Grilj V, Jansen J, Velasquez B, Connell L, Schulz JB et al.
 Journal: ArXiv (2023)
 Identifiers: PMID 37808098; PMC PMC10557797 (open access)
@@ -1567,7 +1655,7 @@ Abstract: We conducted a multi-institutional audit of dosimetric variability bet
 
 ---
 
-## 143. Optically stimulated luminescence system as an alternative for radiochromic film for 2D reference dosimetry in UHDR electron beams.
+## 151. Optically stimulated luminescence system as an alternative for radiochromic film for 2D reference dosimetry in UHDR electron beams.
 Authors: Vanreusel V, Gasparini A, Galante F, Mariani G, Pacitti M, Colijn A, Reniers B, Yalvac B et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2023)
 Identifiers: PMID 37804712; DOI 10.1016/j.ejmp.2023.103147
@@ -1578,7 +1666,7 @@ Abstract: Radiotherapy is part of the treatment of over 50% of cancer patients. 
 
 ---
 
-## 144. Pulse parameter optimizer: an efficient tool for achieving prescribed dose and dose rate with electron FLASH platforms.
+## 152. Pulse parameter optimizer: an efficient tool for achieving prescribed dose and dose rate with electron FLASH platforms.
 Authors: Jain S, Cetnar A, Woollard J, Gupta N, Blakaj D, Chakravarti A, Ayan AS
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37735967; DOI 10.1088/1361-6560/acf63e
@@ -1589,7 +1677,7 @@ Abstract: Purpose. Commercial electron FLASH platforms deliver ultra-high dose r
 
 ---
 
-## 145. Thermal neutron detection and track recognition method in reference and out-of-field radiotherapy FLASH electron fields using Timepix3 detectors.
+## 153. Thermal neutron detection and track recognition method in reference and out-of-field radiotherapy FLASH electron fields using Timepix3 detectors.
 Authors: Oancea C, Solc J, Bourgouin A, Granja C, Jakubek J, Pivec J, Riemer F, Vykydal Z et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37607560; DOI 10.1088/1361-6560/acf2e1
@@ -1600,7 +1688,7 @@ Abstract: Objective.This work presents a method for enhanced detection, imaging,
 
 ---
 
-## 146. Dosimetry for radiobiologicalin vivoexperiments at laser plasma-based proton accelerators.
+## 154. Dosimetry for radiobiologicalin vivoexperiments at laser plasma-based proton accelerators.
 Authors: Reimold M, Assenbaum S, Bernert C, Beyreuther E, Brack FE, Karsch L, Kraft SD, Kroll F et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37579761; DOI 10.1088/1361-6560/acf025
@@ -1611,7 +1699,7 @@ Abstract: Objective.Laser plasma-based accelerators (LPAs) of protons can contri
 
 ---
 
-## 147. Proton Bragg Peak FLASH Enables Organ Sparing and Ultra-High Dose-Rate Delivery: Proof of Principle in Recurrent Head and Neck Cancer.
+## 155. Proton Bragg Peak FLASH Enables Organ Sparing and Ultra-High Dose-Rate Delivery: Proof of Principle in Recurrent Head and Neck Cancer.
 Authors: Pennock M, Wei S, Cheng C, Lin H, Hasan S, Chhabra AM, Choi JI, Bakst RL et al.
 Journal: Cancers (2023)
 Identifiers: PMID 37568644; DOI 10.3390/cancers15153828; PMC PMC10417542 (open access)
@@ -1622,7 +1710,7 @@ Abstract: Proton pencil-beam scanning (PBS) Bragg peak FLASH combines ultra-high
 
 ---
 
-## 148. Characterisation of the UK high energy proton research beamline for high and ultra-high dose rate (FLASH) irradiation.
+## 156. Characterisation of the UK high energy proton research beamline for high and ultra-high dose rate (FLASH) irradiation.
 Authors: Aylward JD, Henthorn N, Manger S, Warmenhoven JW, Merchant MJ, Taylor MJ, Mackay RI, Kirkby KJ
 Journal: Biomedical physics & engineering express (2023)
 Identifiers: PMID 37567152; DOI 10.1088/2057-1976/acef25
@@ -1633,7 +1721,7 @@ Abstract: Objective. This work sets out the capabilities of the high energy prot
 
 ---
 
-## 149. A diamond detector based dosimetric system for instantaneous dose rate measurements in FLASH electron beams.
+## 157. A diamond detector based dosimetric system for instantaneous dose rate measurements in FLASH electron beams.
 Authors: Marinelli M, di Martino F, Del Sarto D, Pensavalle JH, Felici G, Giunti L, De Liso V, Kranzer R et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37494946; DOI 10.1088/1361-6560/acead0
@@ -1644,7 +1732,7 @@ Abstract: Objective.A reliable determination of the instantaneous dose rate (I-D
 
 ---
 
-## 150. FLASH dose rate calculation based on log files in proton pencil beam scanning therapy.
+## 158. FLASH dose rate calculation based on log files in proton pencil beam scanning therapy.
 Authors: Jeon C, Ahn S, Amano D, Kamiguchi N, Cho S, Sheen H, Park HC, Han Y
 Journal: Medical physics (2023)
 Identifiers: PMID 37431587; DOI 10.1002/mp.16575
@@ -1655,7 +1743,7 @@ Abstract: BACKGROUND: In radiation therapy, irradiating healthy normal tissues i
 
 ---
 
-## 151. Development of a Real-Time Pixel Array-Type Detector for Ultrahigh Dose-Rate Beams.
+## 159. Development of a Real-Time Pixel Array-Type Detector for Ultrahigh Dose-Rate Beams.
 Authors: Jang YJ, Yang TK, Kim JH, Jang HS, Jeong JH, Kim KB, Kim GB, Park SH et al.
 Journal: Sensors (Basel, Switzerland) (2023)
 Identifiers: PMID 37430512; DOI 10.3390/s23104596; PMC PMC10220794 (open access)
@@ -1666,7 +1754,7 @@ Abstract: Although research into ultrahigh dose-rate (UHDR) radiation therapy is
 
 ---
 
-## 152. Investigation of TL and OSL detectors in ultra-high dose rate electron beams.
+## 160. Investigation of TL and OSL detectors in ultra-high dose rate electron beams.
 Authors: Motta S, Christensen JB, Frei F, Peier P, Yukihara EG
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37336230; DOI 10.1088/1361-6560/acdfb2
@@ -1677,7 +1765,7 @@ Abstract: Objective.This work aims at investigating the response of various ther
 
 ---
 
-## 153. Measurement of the time structure of FLASH beams using prompt gamma rays and secondary neutrons as surrogates.
+## 161. Measurement of the time structure of FLASH beams using prompt gamma rays and secondary neutrons as surrogates.
 Authors: Charyyev S, Liu R, Yang X, Zhou J, Dhabaan A, Dynan WS, Oancea C, Lin L
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37285847; DOI 10.1088/1361-6560/acdc7c
@@ -1688,7 +1776,7 @@ Abstract: Objective. The aim of this study was to investigate the feasibility of
 
 ---
 
-## 154. Erratum: Implementation and validation of a beam-current transformer on a medical pulsed electron beam LINAC for FLASH-RT beam monitoring.
+## 162. Erratum: Implementation and validation of a beam-current transformer on a medical pulsed electron beam LINAC for FLASH-RT beam monitoring.
 Authors: 
 Journal: Journal of applied clinical medical physics (2023)
 Identifiers: PMID 37278647; DOI 10.1002/acm2.13946; PMC PMC10243319 (open access)
@@ -1699,7 +1787,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 155. Characterization of a diode dosimeter for UHDR FLASH radiotherapy.
+## 163. Characterization of a diode dosimeter for UHDR FLASH radiotherapy.
 Authors: Rahman M, Kozelka J, Hildreth J, Schönfeld A, Sloop AM, Ashraf MR, Bruza P, Gladstone DJ et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37249058; DOI 10.1002/mp.16474; PMC PMC11748214 (open access)
@@ -1710,7 +1798,7 @@ Abstract: BACKGROUND: Ultra-high dose rate (UHDR) FLASH beams typically deliver 
 
 ---
 
-## 156. Detailed Monte-Carlo characterization of a Faraday cup for proton therapy.
+## 164. Detailed Monte-Carlo characterization of a Faraday cup for proton therapy.
 Authors: Ehwald J, Togno M, Lomax AJ, Weber DC, Safai S, Winterhalter C
 Journal: Medical physics (2023)
 Identifiers: PMID 37227735; DOI 10.1002/mp.16464
@@ -1721,7 +1809,7 @@ Abstract: BACKGROUND: Experiments with ultra-high dose rates in proton therapy a
 
 ---
 
-## 157. Towards quantitative in vivo dosimetry using x-ray acoustic computed tomography.
+## 165. Towards quantitative in vivo dosimetry using x-ray acoustic computed tomography.
 Authors: Sun L, Gonzalez G, Pandey PK, Wang S, Kim K, Limoli C, Chen Y, Xiang L
 Journal: Medical physics (2023)
 Identifiers: PMID 37203253; DOI 10.1002/mp.16476; PMC PMC10656364 (open access)
@@ -1732,7 +1820,7 @@ Abstract: BACKGROUND: Radiation dosimetry is essential for radiation therapy (RT
 
 ---
 
-## 158. Implementation of novel measurement-based patient-specific QA for pencil beam scanning proton FLASH radiotherapy.
+## 166. Implementation of novel measurement-based patient-specific QA for pencil beam scanning proton FLASH radiotherapy.
 Authors: Huang S, Yang Y, Wei S, Kang M, Tsai P, Chen CC, Yuan Z, Choi JI et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 37198998; DOI 10.1002/mp.16458
@@ -1743,7 +1831,7 @@ Abstract: BACKGROUND: Several studies have shown pencil beam scanning (PBS) prot
 
 ---
 
-## 159. Characterization of 250 MeV Protons from the Varian ProBeam PBS System for FLASH Radiation Therapy.
+## 167. Characterization of 250 MeV Protons from the Varian ProBeam PBS System for FLASH Radiation Therapy.
 Authors: Charyyev S, Chang CW, Zhu M, Lin L, Langen K, Dhabaan A
 Journal: International journal of particle therapy (2023)
 Identifiers: PMID 37169007; DOI 10.14338/IJPT-22-00027.1; PMC PMC10166018 (open access)
@@ -1754,7 +1842,7 @@ Abstract: Shoot-through proton FLASH radiation therapy has been proposed where t
 
 ---
 
-## 160. The first PET glimpse of a proton FLASH beam.
+## 168. The first PET glimpse of a proton FLASH beam.
 Authors: Abouzahr F, Cesar JP, Crespo P, Gajda M, Hu Z, Kaye W, Klein K, Kuo AS et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37141903; DOI 10.1088/1361-6560/acd29e
@@ -1765,7 +1853,7 @@ Abstract: We demonstrate the first ever recorded positron-emission tomography (P
 
 ---
 
-## 161. Clinical Linear Accelerator-Based Electron FLASH: Pathway for Practical Translation to FLASH Clinical Trials.
+## 169. Clinical Linear Accelerator-Based Electron FLASH: Pathway for Practical Translation to FLASH Clinical Trials.
 Authors: No HJ, Wu YF, Dworkin ML, Manjappa R, Skinner L, Ashraf MR, Lau B, Melemenidis S et al.
 Journal: International journal of radiation oncology, biology, physics (2023)
 Identifiers: PMID 37105403; DOI 10.1016/j.ijrobp.2023.04.011; PMC PMC12359654 (open access)
@@ -1776,7 +1864,7 @@ Abstract: PURPOSE: Ultrahigh-dose-rate (UHDR) radiation therapy (RT) has produce
 
 ---
 
-## 162. In situcorrection of recombination effects in ultra-high dose rate irradiations with protons.
+## 170. In situcorrection of recombination effects in ultra-high dose rate irradiations with protons.
 Authors: Schaefer R, Psoroulas S, Weber DC
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37084737; DOI 10.1088/1361-6560/accf5c
@@ -1787,7 +1875,7 @@ Abstract: Background.At the Center for Proton Therapy at the Paul Scherrer Insti
 
 ---
 
-## 163. The PTB water calorimeter for determining the absolute absorbed dose to water in ultra-high pulse dose rate electron beams.
+## 171. The PTB water calorimeter for determining the absolute absorbed dose to water in ultra-high pulse dose rate electron beams.
 Authors: Bourgouin A, Hackel T, Kapsch RP
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 37072007; DOI 10.1088/1361-6560/acce1d
@@ -1798,7 +1886,7 @@ Abstract: Objective. The purpose of this investigation is to establish the water
 
 ---
 
-## 164. Impact of respiratory motion on proton pencil beam scanning FLASH radiotherapy: anin silicoand phantom measurement study.
+## 172. Impact of respiratory motion on proton pencil beam scanning FLASH radiotherapy: anin silicoand phantom measurement study.
 Authors: Yang Y, Kang M, Huang S, Chen CC, Tsai P, Hu L, Yu F, Hajj C et al.
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 36944258; DOI 10.1088/1361-6560/acc632
@@ -1809,7 +1897,7 @@ Abstract: Objective. To investigate the effects of respiratory motion on the del
 
 ---
 
-## 165. Commissioning a 250 MeV research beamline for proton FLASH radiotherapy preclinical experiments.
+## 173. Commissioning a 250 MeV research beamline for proton FLASH radiotherapy preclinical experiments.
 Authors: Yang Y, Kang M, Chen CC, Hu L, Yu F, Tsai P, Huang S, Liu J et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 36932693; DOI 10.1002/mp.16364
@@ -1820,7 +1908,7 @@ Abstract: BACKGROUND: The potential reduction of normal tissue toxicities during
 
 ---
 
-## 166. Erratum: Technical note: Validation of an ultrahigh dose rate pulsed electron beam monitoring system using a current transformer for FLASH preclinical studies.
+## 174. Erratum: Technical note: Validation of an ultrahigh dose rate pulsed electron beam monitoring system using a current transformer for FLASH preclinical studies.
 Authors: 
 Journal: Medical physics (2023)
 Identifiers: PMID 36843383; DOI 10.1002/mp.16315; PMC PMC10479975 (open access)
@@ -1831,7 +1919,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 167. Absolute dosimetry for FLASH proton pencil beam scanning radiotherapy.
+## 175. Absolute dosimetry for FLASH proton pencil beam scanning radiotherapy.
 Authors: Lourenço A, Subiel A, Lee N, Flynn S, Cotterill J, Shipley D, Romano F, Speth J et al.
 Journal: Scientific reports (2023)
 Identifiers: PMID 36739297; DOI 10.1038/s41598-023-28192-0; PMC PMC9899251 (open access)
@@ -1842,7 +1930,7 @@ Abstract: A paradigm shift is occurring in clinical oncology exploiting the rece
 
 ---
 
-## 168. Ultra-fast, high spatial resolution single-pulse scintillation imaging of synchrocyclotron pencil beam scanning proton delivery.
+## 176. Ultra-fast, high spatial resolution single-pulse scintillation imaging of synchrocyclotron pencil beam scanning proton delivery.
 Authors: Clark M, Ding X, Zhao L, Pogue B, Gladstone D, Rahman M, Zhang R, Bruza P
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 36716492; DOI 10.1088/1361-6560/acb753; PMC PMC9935801 (open access)
@@ -1853,7 +1941,7 @@ Abstract: Objective.To demonstrates the ability of an ultra-fast imaging system 
 
 ---
 
-## 169. Characterization of LiF:Mg,Ti thermoluminescence detectors in low-LET proton beams at ultra-high dose rates.
+## 177. Characterization of LiF:Mg,Ti thermoluminescence detectors in low-LET proton beams at ultra-high dose rates.
 Authors: Motta S, Christensen JB, Togno M, Schäfer R, Safai S, Lomax AJ, Yukihara EG
 Journal: Physics in medicine and biology (2023)
 Identifiers: PMID 36696696; DOI 10.1088/1361-6560/acb634
@@ -1864,7 +1952,7 @@ Abstract: Objective.This work aims at characterizing LiF:Mg,Ti thermoluminescenc
 
 ---
 
-## 170. Out-of-field measurements and simulations of a proton pencil beam in a wide range of dose rates using a Timepix3 detector: Dose rate, flux and LET.
+## 178. Out-of-field measurements and simulations of a proton pencil beam in a wide range of dose rates using a Timepix3 detector: Dose rate, flux and LET.
 Authors: Oancea C, Granja C, Marek L, Jakubek J, Šolc J, Bodenstein E, Gantz S, Pawelke J et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2023)
 Identifiers: PMID 36657235; DOI 10.1016/j.ejmp.2023.102529
@@ -1875,7 +1963,7 @@ Abstract: Stray radiation produced by ultra-high dose-rates (UHDR) proton pencil
 
 ---
 
-## 171. Ion recombination correction factors and detector comparison in a very-high dose rate proton scanning beam.
+## 179. Ion recombination correction factors and detector comparison in a very-high dose rate proton scanning beam.
 Authors: Leite AMM, Cavallone M, Ronga MG, Trompier F, Ristic Y, Patriarca A, De Marzi L
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2023)
 Identifiers: PMID 36638707; DOI 10.1016/j.ejmp.2022.102518
@@ -1886,7 +1974,7 @@ Abstract: PURPOSE: Accurate dosimetry is paramount to study the FLASH biological
 
 ---
 
-## 172. Dual beam-current transformer design for monitoring and reporting of electron ultra-high dose rate (FLASH) beam parameters.
+## 180. Dual beam-current transformer design for monitoring and reporting of electron ultra-high dose rate (FLASH) beam parameters.
 Authors: Liu K, Palmiero A, Chopra N, Velasquez B, Li Z, Beddar S, Schüler E
 Journal: Journal of applied clinical medical physics (2023)
 Identifiers: PMID 36601691; DOI 10.1002/acm2.13891; PMC PMC9924113 (open access)
@@ -1897,7 +1985,7 @@ Abstract: PURPOSE: To investigate the usefulness and effectiveness of a dual bea
 
 ---
 
-## 173. Development of a compact linear accelerator to generate ultrahigh dose rate high-energy X-rays for FLASH radiotherapy applications.
+## 181. Development of a compact linear accelerator to generate ultrahigh dose rate high-energy X-rays for FLASH radiotherapy applications.
 Authors: Liu F, Shi J, Zha H, Li G, Li A, Gu W, Hu A, Gao Q et al.
 Journal: Medical physics (2023)
 Identifiers: PMID 36583665; DOI 10.1002/mp.16199
@@ -1908,7 +1996,7 @@ Abstract: PURPOSE: In recent years, the FLASH effect, in which ultrahigh dose ra
 
 ---
 
-## 174. Time-resolved dose rate measurements in pencil beam scanning proton FLASH therapy with a fiber-coupled scintillator detector system.
+## 182. Time-resolved dose rate measurements in pencil beam scanning proton FLASH therapy with a fiber-coupled scintillator detector system.
 Authors: Kanouta E, Poulsen PR, Kertzscher G, Sitarz MK, Sørensen BS, Johansen JG
 Journal: Medical physics (2023)
 Identifiers: PMID 36508162; DOI 10.1002/mp.16156
@@ -1919,7 +2007,7 @@ Abstract: BACKGROUND: The spatial and temporal dose rate distribution of pencil 
 
 ---
 
-## 175. Validation of a High-Throughput Dicentric Chromosome Assay Using Complex Radiation Exposures.
+## 183. Validation of a High-Throughput Dicentric Chromosome Assay Using Complex Radiation Exposures.
 Authors: Royba E, Repin M, Balajee AS, Shuryak I, Pampou S, Karan C, Wang YF, Lemus OD et al.
 Journal: Radiation research (2023)
 Identifiers: PMID 35994701; DOI 10.1667/RADE-22-00007.1; PMC PMC9947868 (open access)
@@ -1930,7 +2018,7 @@ Abstract: Validation of biodosimetry assays is routinely performed using primari
 
 ---
 
-## 176. Reduction of recombination effects in large plane parallel beam monitors for FLASH radiotherapy with scanned ion beams.
+## 184. Reduction of recombination effects in large plane parallel beam monitors for FLASH radiotherapy with scanned ion beams.
 Authors: Baack L, Schuy C, Brons S, Horst F, Voss B, Zink K, Haberer T, Durante M et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36403543; DOI 10.1016/j.ejmp.2022.10.029
@@ -1941,7 +2029,7 @@ Abstract: PURPOSE: Radiotherapy escalating dose rates above 50Gys-1, might offer
 
 ---
 
-## 177. Ultra-high dose rate dosimetry for pre-clinical experiments with mm-small proton fields.
+## 185. Ultra-high dose rate dosimetry for pre-clinical experiments with mm-small proton fields.
 Authors: Togno M, Nesteruk KP, Schäfer R, Psoroulas S, Meer D, Grossmann M, Christensen JB, Yukihara EG et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36395638; DOI 10.1016/j.ejmp.2022.10.019
@@ -1952,7 +2040,7 @@ Abstract: PURPOSE: To characterize an experimental setup for ultra-high dose rat
 
 ---
 
-## 178. A new calculation method for the free electron fraction of an ionization chamber in the ultra-high-dose-per-pulse regimen.
+## 186. A new calculation method for the free electron fraction of an ionization chamber in the ultra-high-dose-per-pulse regimen.
 Authors: Di Martino F, Del Sarto D, Barone S, Giuseppina Bisogni M, Capaccioli S, Galante F, Gasparini A, Mariani G et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36370686; DOI 10.1016/j.ejmp.2022.11.001
@@ -1963,7 +2051,7 @@ Abstract: The free electron fraction is the fraction of electrons, produced insi
 
 ---
 
-## 179. Charge collection efficiency, underlying recombination mechanisms, and the role of electrode distance of vented ionization chambers under ultra-high dose-per-pulse conditions.
+## 187. Charge collection efficiency, underlying recombination mechanisms, and the role of electrode distance of vented ionization chambers under ultra-high dose-per-pulse conditions.
 Authors: Kranzer R, Schüller A, Gómez Rodríguez F, Weidner J, Paz-Martín J, Looe HK, Poppe B
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36356499; DOI 10.1016/j.ejmp.2022.10.021; PMC PMC9719440 (open access)
@@ -1974,7 +2062,7 @@ Abstract: PURPOSE: Investigating and understanding of the underlying mechanisms 
 
 ---
 
-## 180. Numerical modeling of air-vented parallel plate ionization chambers for ultra-high dose rate applications.
+## 188. Numerical modeling of air-vented parallel plate ionization chambers for ultra-high dose rate applications.
 Authors: Paz-Martín J, Schüller A, Bourgouin A, González-Castaño DM, Gómez-Fernández N, Pardo-Montero J, Gómez F
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36327676; DOI 10.1016/j.ejmp.2022.10.006
@@ -1985,7 +2073,7 @@ Abstract: PURPOSE: Air-vented ionization chambers have been the secondary standa
 
 ---
 
-## 181. Point scintillator dosimetry in ultra-high dose rate electron "FLASH" radiation therapy: A first characterization.
+## 189. Point scintillator dosimetry in ultra-high dose rate electron "FLASH" radiation therapy: A first characterization.
 Authors: Vanreusel V, Gasparini A, Galante F, Mariani G, Pacitti M, Cociorb M, Giammanco A, Reniers B et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36302279; DOI 10.1016/j.ejmp.2022.10.005
@@ -1996,7 +2084,7 @@ Abstract: FLASH radiation therapy is a novel technique combining ultra-high dose
 
 ---
 
-## 182. Design and validation of a dosimetric comparison scheme tailored for ultra-high dose-rate electron beams to support multicenter FLASH preclinical studies.
+## 190. Design and validation of a dosimetric comparison scheme tailored for ultra-high dose-rate electron beams to support multicenter FLASH preclinical studies.
 Authors: Jorge PG, Melemenidis S, Grilj V, Buchillier T, Manjappa R, Viswanathan V, Gondré M, Vozenin MC et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2022)
 Identifiers: PMID 36030934; DOI 10.1016/j.radonc.2022.08.023
@@ -2007,7 +2095,7 @@ Abstract: BACKGROUND AND PURPOSE: We describe a multicenter cross validation of 
 
 ---
 
-## 183. A new solution for UHDP and UHDR (Flash) measurements: Theory and conceptual design of ALLS chamber.
+## 191. A new solution for UHDP and UHDR (Flash) measurements: Theory and conceptual design of ALLS chamber.
 Authors: Di Martino F, Del Sarto D, Giuseppina Bisogni M, Capaccioli S, Galante F, Gasperini A, Linsalata S, Mariani G et al.
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2022)
 Identifiers: PMID 36030665; DOI 10.1016/j.ejmp.2022.08.010
@@ -2018,7 +2106,7 @@ Abstract: Ultra-High dose-per-pulse regimens (UHDP), necessary to trigger the "F
 
 ---
 
-## 184. COMPARISON OF OSL AND TL DOSEMETERS WITH DATA COLLECTED AT THE MT25 CYCLIC ELECTRON ACCELERATOR.
+## 192. COMPARISON OF OSL AND TL DOSEMETERS WITH DATA COLLECTED AT THE MT25 CYCLIC ELECTRON ACCELERATOR.
 Authors: Cimmino A, Ambrožová I, Motta S, Versaci R, Olšovcová V, Chvátil D, Olšanský V, Truneček R et al.
 Journal: Radiation protection dosimetry (2022)
 Identifiers: PMID 36005969; DOI 10.1093/rpd/ncac117
@@ -2029,7 +2117,7 @@ Abstract: The Microtron MT25 is a cyclic electron accelerator with a Kapitza res
 
 ---
 
-## 185. The probe-format graphite calorimeter, Aerrow, for absolute dosimetry in ultrahigh pulse dose rate electron beams.
+## 193. The probe-format graphite calorimeter, Aerrow, for absolute dosimetry in ultrahigh pulse dose rate electron beams.
 Authors: Bourgouin A, Keszti F, Schönfeld AA, Hackel T, Kozelka J, Hildreth J, Simon W, Schüller A et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35912973; DOI 10.1002/mp.15899
@@ -2040,7 +2128,7 @@ Abstract: PURPOSE: The purpose of this investigation is to evaluate the use of a
 
 ---
 
-## 186. Adaptation and dosimetric commissioning of a synchrotron-based proton beamline for FLASH experiments.
+## 194. Adaptation and dosimetric commissioning of a synchrotron-based proton beamline for FLASH experiments.
 Authors: Yang M, Wang X, Guan F, Titt U, Iga K, Jiang D, Takaoka T, Tootake S et al.
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35853442; DOI 10.1088/1361-6560/ac8269; PMC PMC9422888 (open access)
@@ -2051,7 +2139,7 @@ Abstract: Objective. Irradiation with ultra-high dose rates (>40 Gy s-1), also k
 
 ---
 
-## 187. Corrigendum: Response of diamond detectors in ultra-high dose-per-pulse electron beams for dosimetry at FLASH radiotherapy (2022Phys. Med. Biol.67075002).
+## 195. Corrigendum: Response of diamond detectors in ultra-high dose-per-pulse electron beams for dosimetry at FLASH radiotherapy (2022Phys. Med. Biol.67075002).
 Authors: Kranzer R, Schüller A, Bourgouin A, Hackel T, Poppinga D, Lapp M, Looe HK, Poppe B
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35801626; DOI 10.1088/1361-6560/ac73d1
@@ -2062,7 +2150,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 188. Ultrahigh dose rate pencil beam scanning proton dosimetry using ion chambers and a calorimeter in support of first in-human FLASH clinical trial.
+## 196. Ultrahigh dose rate pencil beam scanning proton dosimetry using ion chambers and a calorimeter in support of first in-human FLASH clinical trial.
 Authors: Lee E, Lourenço AM, Speth J, Lee N, Subiel A, Romano F, Thomas R, Amos RA et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35780318; DOI 10.1002/mp.15844; PMC PMC9546035 (open access)
@@ -2073,7 +2161,7 @@ Abstract: PURPOSE: To provide ultrahigh dose rate (UHDR) pencil beam scanning (P
 
 ---
 
-## 189. Nontarget and Out-of-Field Doses from Electron Beam Radiotherapy.
+## 197. Nontarget and Out-of-Field Doses from Electron Beam Radiotherapy.
 Authors: Matuszak N, Kruszyna-Mochalska M, Skrobala A, Ryczkowski A, Romanski P, Piotrowski I, Kulcenty K, Suchorska WM et al.
 Journal: Life (Basel, Switzerland) (2022)
 Identifiers: PMID 35743890; DOI 10.3390/life12060858; PMC PMC9225003 (open access)
@@ -2084,7 +2172,7 @@ Abstract: In clinical radiotherapy, the most important aspects are the dose dist
 
 ---
 
-## 190. Application of a novel diamond detector for commissioning of FLASH radiotherapy electron beams.
+## 198. Application of a novel diamond detector for commissioning of FLASH radiotherapy electron beams.
 Authors: Verona Rinati G, Felici G, Galante F, Gasparini A, Kranzer R, Mariani G, Pacitti M, Prestopino G et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35652248; DOI 10.1002/mp.15782; PMC PMC9543846 (open access)
@@ -2095,7 +2183,7 @@ Abstract: PURPOSE: A diamond detector prototype was recently proposed by Marinel
 
 ---
 
-## 191. A 2D strip ionization chamber array with high spatiotemporal resolution for proton pencil beam scanning FLASH radiotherapy.
+## 199. A 2D strip ionization chamber array with high spatiotemporal resolution for proton pencil beam scanning FLASH radiotherapy.
 Authors: Yang Y, Shi C, Chen CC, Tsai P, Kang M, Huang S, Lin CH, Chang FX et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35593052; DOI 10.1002/mp.15706
@@ -2106,7 +2194,7 @@ Abstract: PURPOSE: Experimental measurements of two-dimensional (2D) dose rate d
 
 ---
 
-## 192. Monitoring of Ultra-High Dose Rate Pulsed X-ray Facilities with Radioluminescent Nitrogen-Doped Optical Fiber.
+## 200. Monitoring of Ultra-High Dose Rate Pulsed X-ray Facilities with Radioluminescent Nitrogen-Doped Optical Fiber.
 Authors: Vidalot J, Campanella C, Dachicourt J, Marcandella C, Duhamel O, Morana A, Poujols D, Assaillit G et al.
 Journal: Sensors (Basel, Switzerland) (2022)
 Identifiers: PMID 35590883; DOI 10.3390/s22093192; PMC PMC9103820 (open access)
@@ -2117,7 +2205,7 @@ Abstract: We exploited the potential of radiation-induced emissions (RIEs) in th
 
 ---
 
-## 193. Technical note: Characterization and practical applications of a novel plastic scintillator for online dosimetry for an ultrahigh dose rate (FLASH).
+## 201. Technical note: Characterization and practical applications of a novel plastic scintillator for online dosimetry for an ultrahigh dose rate (FLASH).
 Authors: Poirier Y, Xu J, Mossahebi S, Therriault-Proulx F, Sawant A
 Journal: Medical physics (2022)
 Identifiers: PMID 35462420; DOI 10.1002/mp.15671
@@ -2128,7 +2216,7 @@ Abstract: PURPOSE: Although flash radiation therapy (FLASH-RT) is a promising no
 
 ---
 
-## 194. Lead-doped scintillator dosimeters for detection of ultrahigh dose-rate x-rays.
+## 202. Lead-doped scintillator dosimeters for detection of ultrahigh dose-rate x-rays.
 Authors: Hart A, Cecchi D, Giguère C, Larose F, Therriault-Proulx F, Esplen N, Beaulieu L, Bazalova-Carter M
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35453128; DOI 10.1088/1361-6560/ac69a5
@@ -2139,7 +2227,7 @@ Abstract: Objective.Lead-doped scintillator dosimeters may be well suited for th
 
 ---
 
-## 195. Determination of the ion collection efficiency of the Razor Nano Chamber for ultra-high dose-rate electron beams.
+## 203. Determination of the ion collection efficiency of the Razor Nano Chamber for ultra-high dose-rate electron beams.
 Authors: Cavallone M, Gonçalves Jorge P, Moeckli R, Bailat C, Flacco A, Prezado Y, Delorme R
 Journal: Medical physics (2022)
 Identifiers: PMID 35441716; DOI 10.1002/mp.15675; PMC PMC9539950 (open access)
@@ -2150,7 +2238,7 @@ Abstract: BACKGROUND: Ultra-high dose-rate (UHDR) irradiations (>40 Gy/s) have
 
 ---
 
-## 196. Development of an ultra-thin parallel plate ionization chamber for dosimetry in FLASH radiotherapy.
+## 204. Development of an ultra-thin parallel plate ionization chamber for dosimetry in FLASH radiotherapy.
 Authors: Gómez F, Gonzalez-Castaño DM, Fernández NG, Pardo-Montero J, Schüller A, Gasparini A, Vanreusel V, Verellen D et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35416306; DOI 10.1002/mp.15668; PMC PMC9545838 (open access)
@@ -2161,7 +2249,7 @@ Abstract: BACKGROUND: Conventional air ionization chambers (ICs) exhibit ion rec
 
 ---
 
-## 197. Ultra-high dose rate dosimetry: Challenges and opportunities for FLASH radiation therapy.
+## 205. Ultra-high dose rate dosimetry: Challenges and opportunities for FLASH radiation therapy.
 Authors: Romano F, Bailat C, Jorge PG, Lerch MLF, Darafsheh A
 Journal: Medical physics (2022)
 Identifiers: PMID 35404484; DOI 10.1002/mp.15649; PMC PMC9544810 (open access)
@@ -2172,7 +2260,7 @@ Abstract: The clinical translation of FLASH radiotherapy (RT) requires challenge
 
 ---
 
-## 198. Individual pulse monitoring and dose control system for pre-clinical implementation of FLASH-RT.
+## 206. Individual pulse monitoring and dose control system for pre-clinical implementation of FLASH-RT.
 Authors: Ashraf MR, Rahman M, Cao X, Duval K, Williams BB, Jack Hoopes P, Gladstone DJ, Pogue BW et al.
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35313290; DOI 10.1088/1361-6560/ac5f6f; PMC PMC10305796 (open access)
@@ -2183,7 +2271,7 @@ Abstract: Objective.Existing ultra-high dose rate (UHDR) electron sources lack d
 
 ---
 
-## 199. Characterization of the PTB ultra-high pulse dose rate reference electron beam.
+## 207. Characterization of the PTB ultra-high pulse dose rate reference electron beam.
 Authors: Bourgouin A, Knyziak A, Marinelli M, Kranzer R, Schüller A, Kapsch RP
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35290962; DOI 10.1088/1361-6560/ac5de8
@@ -2194,7 +2282,7 @@ Abstract: Purpose. This investigation aims to present the characterisation and o
 
 ---
 
-## 200. Determination of beam quality correction factors for the Roos plane-parallel ionisation chamber exposed to very high energy electron (VHEE) beams using Geant4.
+## 208. Determination of beam quality correction factors for the Roos plane-parallel ionisation chamber exposed to very high energy electron (VHEE) beams using Geant4.
 Authors: McManus M, Romano F, Royle G, Botnariuc D, Shipley D, Palmans H, Subiel A
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35240589; DOI 10.1088/1361-6560/ac5a94
@@ -2205,7 +2293,7 @@ Abstract: Detailed characterisation of the Roos secondary standard plane-paralle
 
 ---
 
-## 201. Response of diamond detectors in ultra-high dose-per-pulse electron beams for dosimetry at FLASH radiotherapy.
+## 209. Response of diamond detectors in ultra-high dose-per-pulse electron beams for dosimetry at FLASH radiotherapy.
 Authors: Kranzer R, Schüller A, Bourgouin A, Hackel T, Poppinga D, Lapp M, Looe HK, Poppe B
 Journal: Physics in medicine and biology (2022)
 Identifiers: PMID 35226892; DOI 10.1088/1361-6560/ac594e
@@ -2216,7 +2304,7 @@ Abstract: Objective.With increasing investigation of the so-called FLASH effect,
 
 ---
 
-## 202. Technical note: Proton beam dosimetry at ultra-high dose rates (FLASH): Evaluation of GAFchromic™ (EBT3, EBT-XD) and OrthoChromic (OC-1) film performances.
+## 210. Technical note: Proton beam dosimetry at ultra-high dose rates (FLASH): Evaluation of GAFchromic™ (EBT3, EBT-XD) and OrthoChromic (OC-1) film performances.
 Authors: Villoing D, Koumeir C, Bongrand A, Guertin A, Haddad F, Métivier V, Poirier F, Potiron V et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35179234; DOI 10.1002/mp.15526
@@ -2227,7 +2315,7 @@ Abstract: PURPOSE: The ARRONAX cyclotron facility offers the possibility to deli
 
 ---
 
-## 203. Time structure of pencil beam scanning proton FLASH beams measured with scintillator detectors and compared with log files.
+## 211. Time structure of pencil beam scanning proton FLASH beams measured with scintillator detectors and compared with log files.
 Authors: Kanouta E, Johansen JG, Kertzscher G, Sitarz MK, Sørensen BS, Poulsen PR
 Journal: Medical physics (2022)
 Identifiers: PMID 35076947; DOI 10.1002/mp.15486
@@ -2238,7 +2326,7 @@ Abstract: PURPOSE: Key factors in FLASH treatments are the ultra-high dose rate 
 
 ---
 
-## 204. Design, realization, and characterization of a novel diamond detector prototype for FLASH radiotherapy dosimetry.
+## 212. Design, realization, and characterization of a novel diamond detector prototype for FLASH radiotherapy dosimetry.
 Authors: Marinelli M, Felici G, Galante F, Gasparini A, Giuliano L, Heinrich S, Pacitti M, Prestopino G et al.
 Journal: Medical physics (2022)
 Identifiers: PMID 35064594; DOI 10.1002/mp.15473; PMC PMC9306529 (open access)
@@ -2249,7 +2337,7 @@ Abstract: PURPOSE: FLASH radiotherapy (RT) is an emerging technique in which bea
 
 ---
 
-## 205. Characterization of an x-ray tube-based ultrahigh dose-rate system for in vitro irradiations.
+## 213. Characterization of an x-ray tube-based ultrahigh dose-rate system for in vitro irradiations.
 Authors: Cecchi DD, Therriault-Proulx F, Lambert-Girard S, Hart A, Macdonald A, Pfleger M, Lenckowski M, Bazalova-Carter M
 Journal: Medical physics (2021)
 Identifiers: PMID 34528283; DOI 10.1002/mp.15234
@@ -2260,7 +2348,7 @@ Abstract: PURPOSE: To present an x-ray tube system capable of in vitro ultrahigh
 
 ---
 
-## 206. Optical Filter-Embedded Fiber-Optic Radiation Sensor for Ultra-High Dose Rate Electron Beam Dosimetry.
+## 214. Optical Filter-Embedded Fiber-Optic Radiation Sensor for Ultra-High Dose Rate Electron Beam Dosimetry.
 Authors: Jeong DH, Lee M, Lim H, Kang SK, Lee K, Lee SJ, Kim H, Han WK et al.
 Journal: Sensors (Basel, Switzerland) (2021)
 Identifiers: PMID 34502730; DOI 10.3390/s21175840; PMC PMC8434457 (open access)
@@ -2271,7 +2359,7 @@ Abstract: FLASH radiotherapy is an emerging radiotherapy technique used to spare
 
 ---
 
-## 207. A simulation study of ionizing radiation acoustic imaging (iRAI) as a real-time dosimetric technique for ultra-high dose rate radiotherapy (UHDR-RT).
+## 215. A simulation study of ionizing radiation acoustic imaging (iRAI) as a real-time dosimetric technique for ultra-high dose rate radiotherapy (UHDR-RT).
 Authors: Ba Sunbul NH, Zhang W, Oraiqat I, Litzenberg DW, Lam KL, Cuneo K, Moran JM, Carson PL et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 34431520; DOI 10.1002/mp.15188; PMC PMC8943858 (open access)
@@ -2282,7 +2370,7 @@ Abstract: PURPOSE: Electron-based ultra-high dose rate radiation therapy (UHDR-R
 
 ---
 
-## 208. Spread-out Bragg peak proton FLASH irradiation using a clinical synchrocyclotron: Proof of concept and ion chamber characterization.
+## 216. Spread-out Bragg peak proton FLASH irradiation using a clinical synchrocyclotron: Proof of concept and ion chamber characterization.
 Authors: Darafsheh A, Hao Y, Zhao X, Zwart T, Wagner M, Evans T, Reynoso F, Zhao T
 Journal: Medical physics (2021)
 Identifiers: PMID 34077590; DOI 10.1002/mp.15021
@@ -2293,7 +2381,7 @@ Abstract: PURPOSE: The purpose of this work is to (a) demonstrate the feasibilit
 
 ---
 
-## 209. Dosimetry with a clinical linac adapted to FLASH electron beams.
+## 217. Dosimetry with a clinical linac adapted to FLASH electron beams.
 Authors: Szpala S, Huang V, Zhao Y, Kyle A, Minchinton A, Karan T, Kohli K
 Journal: Journal of applied clinical medical physics (2021)
 Identifiers: PMID 34028969; DOI 10.1002/acm2.13270; PMC PMC8200504 (open access)
@@ -2304,7 +2392,7 @@ Abstract: PURPOSE: To assess dosimetric properties and identify required updates
 
 ---
 
-## 210. Spatial and temporal dosimetry of individual electron FLASH beam pulses using radioluminescence imaging.
+## 218. Spatial and temporal dosimetry of individual electron FLASH beam pulses using radioluminescence imaging.
 Authors: Rahman M, Ashraf MR, Zhang R, Gladstone DJ, Cao X, Williams BB, Jack Hoopes P, Pogue BW et al.
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 34015774; DOI 10.1088/1361-6560/ac0390; PMC PMC10468779 (open access)
@@ -2315,7 +2403,7 @@ Abstract: Purpose.In this study, spatio-temporal beam profiling for electron ult
 
 ---
 
-## 211. Miniaturized scintillator dosimeter for small field radiation therapy.
+## 219. Miniaturized scintillator dosimeter for small field radiation therapy.
 Authors: Gonod M, Chacon Avila C, Angel Suarez M, Crouzilles J, Laskri S, Vinchant JF, Aubignac L, Grosjean T
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 33971635; DOI 10.1088/1361-6560/abffbb
@@ -2326,7 +2414,7 @@ Abstract: The concept of a miniaturized inorganic scintillator detector is demon
 
 ---
 
-## 212. Faraday cup for commissioning and quality assurance for proton pencil beam scanning beams at conventional and ultra-high dose rates.
+## 220. Faraday cup for commissioning and quality assurance for proton pencil beam scanning beams at conventional and ultra-high dose rates.
 Authors: Winterhalter C, Togno M, Nesteruk KP, Emert F, Psoroulas S, Vidal M, Meer D, Weber DC et al.
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 33906166; DOI 10.1088/1361-6560/abfbf2
@@ -2337,7 +2425,7 @@ Abstract: Recently, proton therapy treatments delivered with ultra-high dose rat
 
 ---
 
-## 213. Commissioning of an ultra-high dose rate pulsed electron beam medical LINAC for FLASH RT preclinical animal experiments and future clinical human protocols.
+## 221. Commissioning of an ultra-high dose rate pulsed electron beam medical LINAC for FLASH RT preclinical animal experiments and future clinical human protocols.
 Authors: Moeckli R, Gonçalves Jorge P, Grilj V, Oesterle R, Cherbuin N, Bourhis J, Vozenin MC, Germond JF et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 33866565; DOI 10.1002/mp.14885
@@ -2348,7 +2436,7 @@ Abstract: PURPOSE: To present the acceptance and the commissioning, to define th
 
 ---
 
-## 214. Characterization of a high-resolution 2D transmission ion chamber for independent validation of proton pencil beam scanning of conventional and FLASH dose delivery.
+## 222. Characterization of a high-resolution 2D transmission ion chamber for independent validation of proton pencil beam scanning of conventional and FLASH dose delivery.
 Authors: Zou W, Diffenderfer ES, Ota K, Boisseau P, Kim MM, Cai Y, Avery SM, Carlson DJ et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 33843065; DOI 10.1002/mp.14882
@@ -2359,7 +2447,7 @@ Abstract: INTRODUCTION: Ultra-high dose rate (FLASH) radiotherapy has become a p
 
 ---
 
-## 215. Technical Note: Single-pulse beam characterization for FLASH-RT using optical imaging in a water tank.
+## 223. Technical Note: Single-pulse beam characterization for FLASH-RT using optical imaging in a water tank.
 Authors: Ashraf MR, Rahman M, Zhang R, Cao X, Williams BB, Hoopes PJ, Gladstone DJ, Pogue BW et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 33730367; DOI 10.1002/mp.14843; PMC PMC10771323 (open access)
@@ -2370,7 +2458,7 @@ Abstract: PURPOSE: High dose rate conditions, coupled with problems related to s
 
 ---
 
-## 216. Al2O3:C optically stimulated luminescence dosimeters (OSLDs) for ultra-high dose rate proton dosimetry.
+## 224. Al2O3:C optically stimulated luminescence dosimeters (OSLDs) for ultra-high dose rate proton dosimetry.
 Authors: Christensen JB, Togno M, Nesteruk KP, Psoroulas S, Meer D, Weber DC, Lomax T, Yukihara EG et al.
 Journal: Physics in medicine and biology (2021)
 Identifiers: PMID 33571973; DOI 10.1088/1361-6560/abe554
@@ -2381,7 +2469,7 @@ Abstract: The response of Al2O3:C optically stimulated luminescence detectors (O
 
 ---
 
-## 217. FLASH proton irradiation setup with a modulator wheel for a single mouse eye.
+## 225. FLASH proton irradiation setup with a modulator wheel for a single mouse eye.
 Authors: Kourkafas G, Bundesmann J, Fanselow T, Denker A, Ehrhardt VH, Gollrad J, Budach V, Weber A et al.
 Journal: Medical physics (2021)
 Identifiers: PMID 33480028; DOI 10.1002/mp.14730
@@ -2392,7 +2480,7 @@ Abstract: PURPOSE: Recent studies indicate that FLASH irradiation, which involve
 
 ---
 
-## 218. Electron FLASH Delivery at Treatment Room Isocenter for Efficient Reversible Conversion of a Clinical LINAC.
+## 226. Electron FLASH Delivery at Treatment Room Isocenter for Efficient Reversible Conversion of a Clinical LINAC.
 Authors: Rahman M, Ashraf MR, Zhang R, Bruza P, Dexter CA, Thompson L, Cao X, Williams BB et al.
 Journal: International journal of radiation oncology, biology, physics (2021)
 Identifiers: PMID 33444695; DOI 10.1016/j.ijrobp.2021.01.011; PMC PMC10416223 (open access)
@@ -2403,7 +2491,7 @@ Abstract: PURPOSE: In this study, procedures were developed to achieve efficient
 
 ---
 
-## 219. Technical Note: FLASH radiotherapy monitor chamber signal conditioning.
+## 227. Technical Note: FLASH radiotherapy monitor chamber signal conditioning.
 Authors: Snyder M, Vadas J, Musselwhite J, Halford R, Wilson G, Stevens C, Yan D
 Journal: Medical physics (2021)
 Identifiers: PMID 33296516; DOI 10.1002/mp.14650
@@ -2414,7 +2502,7 @@ Abstract: PURPOSE: Recent studies of ultra-high dose rate FLASH radiotherapy sho
 
 ---
 
-## 220. Ion collection efficiency of ionization chambers in ultra-high dose-per-pulse electron beams.
+## 228. Ion collection efficiency of ionization chambers in ultra-high dose-per-pulse electron beams.
 Authors: Kranzer R, Poppinga D, Weidner J, Schüller A, Hackel T, Looe HK, Poppe B
 Journal: Medical physics (2021)
 Identifiers: PMID 33251606; DOI 10.1002/mp.14620
@@ -2425,7 +2513,7 @@ Abstract: PURPOSE: The ion collection efficiency of vented ionization chambers h
 
 ---
 
-## 221. VHEE beam dosimetry at CERN Linear Electron Accelerator for Research under ultra-high dose rate conditions.
+## 229. VHEE beam dosimetry at CERN Linear Electron Accelerator for Research under ultra-high dose rate conditions.
 Authors: Poppinga D, Kranzer R, Farabolini W, Gilardi A, Corsini R, Wyrwoll V, Looe HK, Delfs B et al.
 Journal: Biomedical physics & engineering express (2020)
 Identifiers: PMID 34037536; DOI 10.1088/2057-1976/abcae5
@@ -2436,7 +2524,7 @@ Abstract: The aim of this work is the dosimetric characterization of a plane par
 
 ---
 
-## 222. Correction for Ion Recombination in a Built-in Monitor Chamber of a Clinical Linear Accelerator at Ultra-High Dose Rates.
+## 230. Correction for Ion Recombination in a Built-in Monitor Chamber of a Clinical Linear Accelerator at Ultra-High Dose Rates.
 Authors: Konradsson E, Ceberg C, Lempart M, Blad B, Bäck S, Knöös T, Petersson K
 Journal: Radiation research (2020)
 Identifiers: PMID 33348371; DOI 10.1667/RADE-19-00012; PMC PMC7612000 (open access)
@@ -2447,7 +2535,7 @@ Abstract: In the novel and promising radiotherapy technique known as FLASH, ultr
 
 ---
 
-## 223. Optimization of Alanine Measurements for Fast and Accurate Dosimetry in FLASH Radiation Therapy.
+## 231. Optimization of Alanine Measurements for Fast and Accurate Dosimetry in FLASH Radiation Therapy.
 Authors: Gondré M, Jorge PG, Vozenin MC, Bourhis J, Bochud F, Bailat C, Moeckli R
 Journal: Radiation research (2020)
 Identifiers: PMID 33348370; DOI 10.1667/RR15568.1
@@ -2458,7 +2546,7 @@ Abstract: FLASH radiation therapy (FLASH-RT) reference dosimetry to obtain trace
 
 ---
 
-## 224. Corrigendum to "Challenges of dosimetry of ultra-short pulsed very high energy electron beams" [Phys. Med. 42 (2017) 327-331].
+## 232. Corrigendum to "Challenges of dosimetry of ultra-short pulsed very high energy electron beams" [Phys. Med. 42 (2017) 327-331].
 Authors: Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, DesRosiers C, Jaroszynski DA
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32624349; DOI 10.1016/j.ejmp.2020.06.022
@@ -2469,7 +2557,7 @@ Abstract: (no abstract available)
 
 ---
 
-## 225. An ionizing radiation acoustic imaging (iRAI) technique for real-time dosimetric measurements for FLASH radiotherapy.
+## 233. An ionizing radiation acoustic imaging (iRAI) technique for real-time dosimetric measurements for FLASH radiotherapy.
 Authors: Oraiqat I, Zhang W, Litzenberg D, Lam K, Ba Sunbul N, Moran J, Cuneo K, Carson P et al.
 Journal: Medical physics (2020)
 Identifiers: PMID 32592212; DOI 10.1002/mp.14358; PMC PMC7722001 (open access)
@@ -2480,7 +2568,7 @@ Abstract: PURPOSE: FLASH radiotherapy (FLASH-RT) is a novel irradiation modality
 
 ---
 
-## 226. Using a small-core graphite calorimeter for dosimetry and scintillator quenching corrections in a therapeutic proton beam.
+## 234. Using a small-core graphite calorimeter for dosimetry and scintillator quenching corrections in a therapeutic proton beam.
 Authors: Christensen JB, Vestergaard A, Andersen CE
 Journal: Physics in medicine and biology (2020)
 Identifiers: PMID 32526719; DOI 10.1088/1361-6560/ab9bc3
@@ -2491,7 +2579,7 @@ Abstract: Organic plastic scintillation detectors (PSDs) are known to produce le
 
 ---
 
-## 227. The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams.
+## 235. The challenge of ionisation chamber dosimetry in ultra-short pulsed high dose-rate Very High Energy Electron beams.
 Authors: McManus M, Romano F, Lee ND, Farabolini W, Gilardi A, Royle G, Palmans H, Subiel A
 Journal: Scientific reports (2020)
 Identifiers: PMID 32493952; DOI 10.1038/s41598-020-65819-y; PMC PMC7270129 (open access)
@@ -2502,7 +2590,7 @@ Abstract: High dose-rate radiotherapy, known as FLASH, has been shown to increas
 
 ---
 
-## 228. Feasibility of proton FLASH irradiation using a synchrocyclotron for preclinical studies.
+## 236. Feasibility of proton FLASH irradiation using a synchrocyclotron for preclinical studies.
 Authors: Darafsheh A, Hao Y, Zwart T, Wagner M, Catanzano D, Williamson JF, Knutson N, Sun B et al.
 Journal: Medical physics (2020)
 Identifiers: PMID 32452558; DOI 10.1002/mp.14253
@@ -2513,7 +2601,7 @@ Abstract: PURPOSE: It has been recently shown that radiotherapy at ultrahigh dos
 
 ---
 
-## 229. A comparative dosimetry study of an alanine dosimeter with a PTW PinPoint chamber at ultra-high dose rates of synchrotron radiation.
+## 237. A comparative dosimetry study of an alanine dosimeter with a PTW PinPoint chamber at ultra-high dose rates of synchrotron radiation.
 Authors: Soliman YS, Pellicioli P, Beshir WB, Abdel-Fattah AA, Fahim RA, Krisch M, Bräuer-Krisch E
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2020)
 Identifiers: PMID 32163884; DOI 10.1016/j.ejmp.2020.03.007
@@ -2524,7 +2612,7 @@ Abstract: The use of synchrotron X-ray sources provides innovative approaches in
 
 ---
 
-## 230. Develop a high energy proton beam position monitor using linear contact image sensor.
+## 238. Develop a high energy proton beam position monitor using linear contact image sensor.
 Authors: Hsiao TY, Niu H, Chen TY, Chen CH
 Journal: MethodsX (2020)
 Identifiers: PMID 32140438; DOI 10.1016/j.mex.2019.100773; PMC PMC7046811 (open access)
@@ -2535,7 +2623,7 @@ Abstract: A compact beam-position monitor was constructed using a linear contact
 
 ---
 
-## 231. Design, Implementation, and in Vivo Validation of a Novel Proton FLASH Radiation Therapy System.
+## 239. Design, Implementation, and in Vivo Validation of a Novel Proton FLASH Radiation Therapy System.
 Authors: Diffenderfer ES, Verginadis II, Kim MM, Shoniyozov K, Velalopoulou A, Goia D, Putt M, Hagan S et al.
 Journal: International journal of radiation oncology, biology, physics (2020)
 Identifiers: PMID 31928642; DOI 10.1016/j.ijrobp.2019.10.049; PMC PMC7325740 (open access)
@@ -2546,7 +2634,7 @@ Abstract: PURPOSE: Recent studies suggest that ultrahigh-dose-rate, "FLASH," ele
 
 ---
 
-## 232. Technique for inferring angle change as a function of time for high-current electron beams using a dose-rate monitor array.
+## 240. Technique for inferring angle change as a function of time for high-current electron beams using a dose-rate monitor array.
 Authors: Renk TJ, Weber BV, Rittersdorf IM, Webb TJ
 Journal: The Review of scientific instruments (2019)
 Identifiers: PMID 31779426; DOI 10.1063/1.5110413
@@ -2557,7 +2645,7 @@ Abstract: Intense electron beams striking a high-atomic number target produce hi
 
 ---
 
-## 233. On the capabilities of conventional x-ray tubes to deliver ultra-high (FLASH) dose rates.
+## 241. On the capabilities of conventional x-ray tubes to deliver ultra-high (FLASH) dose rates.
 Authors: Bazalova-Carter M, Esplen N
 Journal: Medical physics (2019)
 Identifiers: PMID 31600830; DOI 10.1002/mp.13858
@@ -2568,7 +2656,7 @@ Abstract: PURPOSE: By means of Monte Carlo (MC) simulations and indirect measure
 
 ---
 
-## 234. Treatment of a first patient with FLASH-radiotherapy.
+## 242. Treatment of a first patient with FLASH-radiotherapy.
 Authors: Bourhis J, Sozzi WJ, Jorge PG, Gaide O, Bailat C, Duclos F, Patin D, Ozsahin M et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31303340; DOI 10.1016/j.radonc.2019.06.019
@@ -2579,7 +2667,7 @@ Abstract: BACKGROUND: When compared to conventional radiotherapy (RT) in pre-cli
 
 ---
 
-## 235. Dosimetric and preparation procedures for irradiating biological models with pulsed electron beam at ultra-high dose-rate.
+## 243. Dosimetric and preparation procedures for irradiating biological models with pulsed electron beam at ultra-high dose-rate.
 Authors: Jorge PG, Jaccard M, Petersson K, Gondré M, Durán MT, Desorgher L, Germond JF, Liger P et al.
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2019)
 Identifiers: PMID 31174897; DOI 10.1016/j.radonc.2019.05.004
@@ -2590,7 +2678,7 @@ Abstract: PURPOSE: Preclinical studies using a new treatment modality called FLA
 
 ---
 
-## 236. Simulation and experimental validation of a prototype electron beam linear accelerator for preclinical studies.
+## 244. Simulation and experimental validation of a prototype electron beam linear accelerator for preclinical studies.
 Authors: Lansonneur P, Favaudon V, Heinrich S, Fouillade C, Verrelle P, De Marzi L
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2019)
 Identifiers: PMID 31000086; DOI 10.1016/j.ejmp.2019.03.016
@@ -2601,7 +2689,7 @@ Abstract: PURPOSE: Measurements and Monte-Carlo simulations were carried out to 
 
 ---
 
-## 237. Experimental Set-up for FLASH Proton Irradiation of Small Animals Using a Clinical System.
+## 245. Experimental Set-up for FLASH Proton Irradiation of Small Animals Using a Clinical System.
 Authors: Patriarca A, Fouillade C, Auger M, Martin F, Pouzoulet F, Nauraye C, Heinrich S, Favaudon V et al.
 Journal: International journal of radiation oncology, biology, physics (2018)
 Identifiers: PMID 30017793; DOI 10.1016/j.ijrobp.2018.06.403
@@ -2612,7 +2700,7 @@ Abstract: PURPOSE: Recent in vivo investigations have shown that short pulses o
 
 ---
 
-## 238. Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
+## 246. Challenges of dosimetry of ultra-short pulsed very high energy electron beams.
 Authors: Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, DesRosiers C, Jaroszynski DA
 Journal: Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB) (2017)
 Identifiers: PMID 28506453; DOI 10.1016/j.ejmp.2017.04.029
@@ -2623,7 +2711,7 @@ Abstract: Very high energy electrons (VHEE) in the range from 100 to 250MeV have
 
 ---
 
-## 239. High dose-per-pulse electron beam dosimetry - A model to correct for the ion recombination in the Advanced Markus ionization chamber.
+## 247. High dose-per-pulse electron beam dosimetry - A model to correct for the ion recombination in the Advanced Markus ionization chamber.
 Authors: Petersson K, Jaccard M, Germond JF, Buchillier T, Bochud F, Bourhis J, Vozenin MC, Bailat C
 Journal: Medical physics (2017)
 Identifiers: PMID 28094853; DOI 10.1002/mp.12111
@@ -2634,7 +2722,7 @@ Abstract: PURPOSE: The purpose of this work was to establish an empirical model 
 
 ---
 
-## 240. Assessment of the quality of very high-energy electron radiotherapy planning.
+## 248. Assessment of the quality of very high-energy electron radiotherapy planning.
 Authors: Palma B, Bazalova-Carter M, Hårdemark B, Hynning E, Qu B, Loo BW, Maxim PG
 Journal: Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology (2016)
 Identifiers: PMID 26898508; DOI 10.1016/j.radonc.2016.01.017
@@ -2645,7 +2733,7 @@ Abstract: BACKGROUND AND PURPOSE: To assess the quality of very-high energy elec
 
 ---
 
-## 241. Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.
+## 249. Dosimetry of very high energy electrons (VHEE) for radiotherapy applications: using radiochromic film measurements and Monte Carlo simulations.
 Authors: Subiel A, Moskvin V, Welsh GH, Cipiccia S, Reboredo D, Evans P, Partridge M, DesRosiers C et al.
 Journal: Physics in medicine and biology (2014)
 Identifiers: PMID 25207591; DOI 10.1088/0031-9155/59/19/5811
@@ -2656,7 +2744,7 @@ Abstract: Very high energy electrons (VHEE) in the range from 100-250 MeV have
 
 ---
 
-## 242. [Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces].
+## 250. [Study of dose-rate effects of neutron radiation in a wild-type and a repair-deficient yeasts saccharomyces].
 Authors: Tsyb TS, Komarova EV, Malinova IV, Potetnia VI
 Journal: Radiatsionnaia biologiia, radioecologiia (2007)
 Identifiers: PMID 18051688
@@ -2667,7 +2755,7 @@ Abstract: We report here a comparative analysis of RBE for lethality of a single
 
 ---
 
-## 243. Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
+## 251. Survival of mammalian cells exposed to ultrahigh dose rates from a laser-produced plasma x-ray source.
 Authors: Tillman C, Grafström G, Jonsson AC, Jönsson BA, Mercer I, Mattsson S, Strand SE, Svanberg S
 Journal: Radiology (1999)
 Identifiers: PMID 10580967; DOI 10.1148/radiology.213.3.r99dc13860

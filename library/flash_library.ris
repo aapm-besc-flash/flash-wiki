@@ -1,4 +1,538 @@
 TY  - JOUR
+TI  - FLASH reduces radiation-induced oral mucositis in a mouse model of Fanconi anemia.
+AU  - Loo P
+AU  - Pan M
+AU  - Zhao M
+AU  - Melemenidis S
+AU  - Schulz JB
+AU  - Chen D
+AU  - Whitmore L
+AU  - Richter S
+AU  - Dirbas FM
+AU  - Casey KM
+AU  - Graves EE
+AU  - Epperly MW
+AU  - Greenberger J
+AU  - Loo BW
+AU  - Rankin EB
+PY  - 2027
+JO  - Clinical and translational radiation oncology
+AB  - This study demonstrates that FLASH radiotherapy reduces oral mucositis in both wild-type and Fanca-deficient mice. At the cellular level, FLASH attenuated radiation-induced inflammation in the tongue relative to conventional irradiation in both genotypes, indicating that FLASH mitigates inflammatory processes associated with oral mucositis. Collectively, these findings support the potential of FLASH radiotherapy to reduce radiation-induced oral mucositis in the context of Fanca deficiency and the Fanconi anemia genomic background.
+DO  - 10.1016/j.ctro.2026.101334
+AN  - 42964716
+UR  - https://pubmed.ncbi.nlm.nih.gov/42964716/
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - VHEE beam parameter extraction from depth-dose and lateral profile measurements: a Monte Carlo parametric study.
+AU  - Rezzoug M
+AU  - Oulhouq Y
+AU  - Hamzaoui O
+AU  - Zerfaoui M
+AU  - Rrhioua A
+AU  - Bakari D
+PY  - 2026
+JO  - Radiological physics and technology
+AB  - Very High Energy Electrons (VHEE, 50-300 MeV) are a promising modality for deep-seated tumour irradiation. Accurate Monte Carlo (MC) dose calculation requires precise determination of five primary beam parameters: Energy (E), Source size (σ₀), angular divergence (θ), energy spread (ΔE), and source-to-surface distance (SSD). This study quantified the independent influence of each parameter and derived inverse formulae enabling their reconstruction from measured percentage depth-dose (PDD) curves and lateral dose profiles. GATE v9.3 simulations were performed for 50-300 MeV electron beams in a homogeneous water phantom (30 × 30 × 30 cm³, 1 mm³ voxels). A one-factor-at-a-time approach varied E, σ₀ (0-10 mm), θ (0-80 mrad), ΔE (0-50 MeV), and SSD (0-100 cm). For each configuration, 2 × 10⁹ primary electrons were simulated, yielding uncertainties < 1% at Dmax and < 3% distally. Longitudinal observables (R100, R90, R80, R50, R20, surface dose, distal width W=R20 - R80) and lateral observables (FWHM, penumbra) were extracted. Inverse relationships - relating beam energy to R50, source size to FWHM, divergence to R90, and energy spread to the distal width W - were derived by weighted least-squares regression - expressing beam energy as a function of R50, source size as a function of the lateral field size (FWHM), divergence as a function of R90, and energy spread as a function of the distal fall-off width (W = R20 - R80) - and validated using five independent datasets. Longitudinal observables followed a quadratic model in σ₀ (adjusted R²>0.98, RMSE < 2 mm). For the reference configuration, energy was related to R50 by E=(R50 - 38.97)/0.5699. Source size was obtained from σ₀=FWHM/2.355, divergence from R90, and energy spread from W. Validation showed energy agreement within ± 4% for five datasets. The proposed inverse formulae enable rapid and accurate extraction of VHEE beam parameters from routine dosimetric measurements, supporting beam commissioning, quality assurance, and TPS validation for VHEE and FLASH-VHEE systems.
+DO  - 10.1007/s12194-026-01160-9
+AN  - 42965639
+UR  - https://pubmed.ncbi.nlm.nih.gov/42965639/
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
+TI  - Analysis on radiation protection of FLASH treatment in conventional proton therapy facilities.
+AU  - Wang Y
+AU  - Deng C
+AU  - Gao N
+AU  - Zhang Y
+AU  - Wang Y
+AU  - Liu M
+AU  - Zhou T
+AU  - Lu YM
+AU  - Lu HM
+PY  - 2026
+JO  - Medical physics
+AB  - BACKGROUND: FLASH radiotherapy is an advanced radiotherapy technique featuring ultra-high dose-rate irradiation. Previous preclinical studies have shown that it can significantly reduce damage to normal tissues while preserving the ability to kill tumor cells. Due to the very high current intensity of FLASH radiotherapy, the effectiveness of radiation shielding in current proton therapy facilities needs to be evaluated prior to clinical studies. PURPOSE: Based on the existing shielding conditions of a ProBeam proton therapy system for conventional proton therapy treatment, we studied the shielding effectiveness of FLASH treatment in both the transmission and Bragg-peak modes. METHODS: Under the conditions of single-point irradiation using a proton beam with the highest clinical energy of 244MeV, and the beam intensity of 5nA, 10nA, and 20nA at the nozzle, the ambient equivalent dose rate outside the shielding door was measured with neutron and γ detector, in order to determine the linear relationship between the current intensity and the ambient dose rate. In addition, a gantry room was used as the study object, and the layout design of the points of interest was carried out according to the layout of the proton treatment facility and the transport path and direction of the proton beam, and the most unfavorable working conditions were set for each point of interest. The beam energy was set to 244 MeV, with a cylindrical water phantom (20 cm in diameter) and a solid water block (40 × 40 × 40 cm3) placed at the isocenter. The current at the nozzle was set to 20 nA, and comprehensive environmental dose rate measurements were carried out for the proton radiation workplace. RESULTS: A linear relationship was observed between nozzle current and ambient dose equivalent rate. Based on the linear relationship, when the current was extrapolated to a FLASH current of 170 nA, the measured instantaneous dose rates at some locations were relatively high, with the maximum value of 74.04 µSv/h recorded outside the shielding door. Under the conservative assumption that the total annual beam delivery time is 5 h (treating 6 patients per hour), the maximum annual occupational exposure doses for radiation workers under the transmission and Bragg Peak modes are 0.370 mSv and 0.236 mSv, respectively, which are well below the annual occupational dose limit. CONCLUSIONS: The results indicate that, under existing conventional shielding conditions, the radiation risk posed to the environment outside the treatment room by FLASH irradiation using the Varian ProBeam proton therapy system is safe and controllable, and the annual occupational radiation dose for radiation workers is well below the annual dose equivalent limit. This provides important radiation safety justification for the clinical implementation of FLASH technology in existing proton therapy facilities.
+DO  - 10.1002/mp.70747
+AN  - 42961338
+UR  - https://pubmed.ncbi.nlm.nih.gov/42961338/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Experimental validation of time-driven proton PBS FLASH delivery on a clinical proton therapy system.
+AU  - Krzempek D
+AU  - Gajewski J
+AU  - Jabłoński H
+AU  - Spaleniak A
+AU  - Komenda W
+AU  - Guguła K
+AU  - Kamiński M
+AU  - Hankiewicz M
+AU  - Pasiecznik T
+AU  - Suder K
+AU  - Malinowski L
+AU  - Nowak T
+AU  - Mojżeszek N
+AU  - Bałamut M
+AU  - Rogalski P
+AU  - Kopeć R
+AU  - Rydygier M
+PY  - 2026
+JO  - Physics and imaging in radiation oncology
+AB  - BACKGROUND AND PURPOSE: Clinical proton pencil beam scanning systems use dose-driven delivery, limiting operation at ultra-high dose rates required for FLASH radiotherapy. Time-driven spot delivery, controlled by irradiation time rather than monitor chamber feedback, may enable FLASH operation. We implemented a non-clinical time-driven FLASH strategy on a clinical proton PBS system and experimentally validated its performance. MATERIALS AND METHODS: FLASH delivery was achieved by increasing beamline transmission through the energy-selection system and replacing dose-driven spot control with time-driven delivery in the Scanning Controller Diagnostic mode. Beam transmission was evaluated at gantry angle 0°. Depth-dose distributions, beam optics, scanning accuracy and uniform field generation were assessed for 228.4 MeV protons at gantry angles of 0°, 180° and 270°. RESULTS: Opening the ESS divergence-limiting slits increased beamline transmission from 8% to 57%, resulting in approximately 273 nA at the isocentre (1.7 × 1012 protons s-1) and an estimated peak on-axis average dose rate of 2.0 × 103 Gy s-1. An 11 × 11 spot field delivered 25 Gy in approximately 0.6 s, corresponding to an average field dose rate of 42 Gy s-1, with up to 90 Gy s-1 measured at higher doses. Proton range and Bragg peak width remained unchanged. Spot position deviations were below 0.5 mm, and uniform 4 × 4 cm2 fields with <3% flatness were achieved. CONCLUSIONS: Time-driven delivery enables experimental proton PBS operation at UHDR while maintaining beam characteristics suitable for reproducible dosimetry and radiobiological studies, providing a practical and experimentally characterised platform for preclinical proton PBS FLASH research.
+DO  - 10.1016/j.phro.2026.101110
+AN  - 42959518
+UR  - https://pubmed.ncbi.nlm.nih.gov/42959518/
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Differences in Biological Responses to Ultra-high Dose Rate Proton Irradiation Between Entrance and SOBP Regions In Vitro.
+AU  - Nomura S
+AU  - Hasegawa M
+AU  - Inoue J
+AU  - Inoue K
+AU  - Yoshimura H
+AU  - Isohashi F
+AU  - Mori E
+PY  - 2026
+JO  - Anticancer research
+AB  - BACKGROUND/AIM: Ultra-high dose rate (FLASH) radiotherapy has been reported to reduce normal tissue toxicity while maintaining tumor control. However, whether proton FLASH induces different biological responses in the entrance versus spread-out Bragg peak (SOBP) regions under controlled irradiation conditions remains unclear. This study compared biological responses to ultra-high dose rate proton irradiation in the entrance and SOBP regions at matched dose and time-averaged dose rate conditions. MATERIALS AND METHODS: Non-tumor V79 Chinese hamster lung fibroblasts cells were irradiated with 230 MeV protons using pencil beam scanning under hypoxic (1% O2) conditions. Dose-rate conditions of 1, 40, and 100 Gy/s were applied for entrance irradiation, and 1 and 100 Gy/s for SOBP irradiation. The surviving fraction was analyzed using a clonogenic cell survival assay. RESULTS: Clonogenic survival decreased dose-dependently at all dose rates. In the entrance region, no consistent dose-rate differences were observed up to 21 Gy; at 24 Gy, 100 Gy/s yielded a significantly higher surviving fraction than 1 Gy/s. In the SOBP region, the surviving fraction did not differ significantly between 1 and 100 Gy/s at 24 Gy. CONCLUSION: Under controlled conditions, a significant dose-rate-associated difference in clonogenic survival was observed in the entrance region at 24 Gy but not in the SOBP region. Further studies are required to determine whether the dose rate effect differs according to irradiation depth.
+DO  - 10.21873/anticanres.18439
+AN  - 42946440
+UR  - https://pubmed.ncbi.nlm.nih.gov/42946440/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - Scintillating Micro-Probe Detectors for Conventional and FLASH Proton Dosimetry: Optical Transport and Geometry Modeling.
+AU  - Subedi SK
+AU  - Debnath SBC
+PY  - 2026
+JO  - Bioengineering (Basel, Switzerland)
+AB  - Optical fiber-based inorganic scintillating detectors (ISDs) are increasingly investigated for radiation therapy applications, including microbeam and ultra-high-dose-rate dosimetry. Accurate characterization of these compact detectors is particularly important for proton beams delivered under high-flux and FLASH conditions. Simplified analytical and ray-tracing models can estimate detector saturation limits but may inadequately account for internal optical scattering and the fiber insertion geometry within the scintillating volume, leading to inaccurate estimates of the effective sensitive volume and dose-rate response. In this study, we developed a detailed computational framework that explicitly models the fiber-scintillator geometry and volumetric optical photon transport. Five detector geometries with different sensitive volumes were evaluated under 25 and 230 MeV proton irradiation using a fully volumetric GATE Monte Carlo optical transport model incorporating intra-dosimeter optical scattering. The results revealed a clear inverse relationship between detector sensitive volume and maximum measurable dose rate before saturation. At 25 MeV, the maximum measurable dose rate (D˙max) ranged from 364.5 ± 7.6 Gy/s for the smallest detector to 13.5 ± 0.2 Gy/s for the largest detector, while at 230 MeV, it ranged from 392.6 ± 8.1 Gy/s down to 15.6 ± 0.3 Gy/s at 230 MeV, respectively. These findings demonstrate that fiber insertion geometry and volumetric optical scattering significantly influence the dose-rate response and saturation threshold of scintillating micro-probes. Accurate modeling of these effects is therefore essential for optimizing detector geometry, establishing reliable quantitative dosimetry across conventional and proton-FLASH dose-rate regimes.
+DO  - 10.3390/bioengineering13101189
+AN  - 42939044
+UR  - https://pubmed.ncbi.nlm.nih.gov/42939044/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Preclinical highlights from the 64th Annual Meeting of the Particle Therapy Co-Operative Group (PTCOG 64): Breakthroughs and timelines for potential applications in radiotherapy.
+AU  - Geoffrin-Tanner B
+AU  - Frelin AM
+AU  - Chevalier F
+AU  - Haghdoost S
+AU  - Rodriguez-Lafrasse C
+AU  - Marcatili S
+AU  - Vanstalle M
+AU  - Vanhaezebrouck IF
+AU  - Valable S
+AU  - Vogin G
+AU  - Thariat J
+PY  - 2026
+JO  - Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique
+AB  - PURPOSE OF THE RESEARCH: Particle therapy is rapidly evolving beyond highly conformal dose delivery toward biologically informed, image-guided, and patient-specific treatment strategies. MATERIALS AND METHODS: Selected preclinical and translational advances presented at the 64th Annual Meeting of the Particle Therapy Co-Operative Group (PTCOG 64) are reported with emphasis on their potential impact and expected timeline for clinical implementation. RESULTS: Recent developments span accelerator technologies, treatment delivery, dosimetry, imaging, radiobiology, and predictive modeling. Near-term innovations include compact accelerator concepts, software-driven treatment acceleration, photon-counting computed tomography, prompt-gamma range verification, linear energy transfer-aware quality assurance, and uncertainty-aware normal tissue complication probability models for proton therapy selection. Emerging approaches such as optically stimulated luminescence detectors, nanodroplet ultrasound imaging, radioactive and mixed-ion beams, and mechanistic digital twins expand capabilities for biological dosimetry, adaptive imaging, and prediction of late toxicity events. Carbon-ion research is simultaneously progressing toward biologically optimized treatment through advances in immunoradiobiology, flash irradiation, predictive biomarkers, functional imaging, and multi-ion optimization. Quantum technologies represent a longer-term perspective for imaging, dosimetry, and treatment planning. CONCLUSION: Particle therapy is transitioning from a dose-centered discipline to an integrated framework combining advanced imaging, radiation quality, biological modeling, and patient-specific decision support. Several technologies are sufficiently mature for near-term clinical translation, with digital twins, biologically optimized multi-ion therapy, and quantum-enabled systems represent innovations likely to shape the next generation of precision particle therapy and guide future priorities within the RadioTransNet network.
+DO  - 10.1016/j.canrad.2026.104897
+AN  - 42933259
+UR  - https://pubmed.ncbi.nlm.nih.gov/42933259/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Radiobiology
+KW  - FLASH:Treatment Planning & Optimization
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Clinical & Translational
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - Charge collection efficiency in air-vented plane-parallel ionisation chambers at ultra-high dose rates: a self-consistent Garfield++ Monte Carlo model including space-charge effects and ion recombination.
+AU  - Gérard Ortega P
+AU  - De Lentdecker G
+AU  - Flandroy Q
+AU  - Nys J
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Ultra-high dose rate (UHDR) irradiation used in FLASH radiotherapy can lead to significant reductions in charge collection efficiency (CCE) in plane-parallel ionisation chambers (PPICs) due to enhanced ion recombination, while the high charge densities involved can also induce strong space-charge-induced electric-field distortions. This work aims to develop a Monte Carlo framework for investigating these coupled effects.&#xD;&#xD;Approach: We extended the Garfield++ Monte Carlo particle-transport framework by implementing ion-ion recombination and self-consistent space-charge electric field calculations. The resulting model couples particle transport, electron attachment, recombination processes, and dynamic electric-field distortions. The implementation was validated against analytical and numerical models from the literature.&#xD;&#xD;Main results: Excellent agreement was obtained for the free electron fraction (FEF), CCE, induced current, and electric field evolution under UHDR conditions. The simulations show that space charge can locally increase the electric field by more than a factor of four or reduce it to nearly zero in some regions of the chamber. The results further suggest that the decrease in the FEF caused by electric-field-dependent electron attachment plays a major role in the reduction of the CCE under UHDR conditions.&#xD;&#xD;Significance: These findings highlight the importance of accurately describing the evolution of the FEF for modelling recombination under UHDR conditions, opening up prospects for improved analytical models and real-time correction methods for ionisation chamber dosimetry. More broadly, this work provides a flexible and self-consistent Monte Carlo framework for investigating recombination phenomena and improving dosimetry models for FLASH radiotherapy.
+DO  - 10.1088/1361-6560/aeb99e
+AN  - 42933125
+UR  - https://pubmed.ncbi.nlm.nih.gov/42933125/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Mind the data: pitfalls and perspectives in acquiring and interpreting preclinical evidence for the FLASH effect.
+AU  - Böhlen TT
+AU  - Sesink A
+AU  - Adrian G
+AU  - Beyreuther E
+AU  - Desmet A
+AU  - Grilj V
+AU  - Guckenberger M
+AU  - Montay-Gruel P
+AU  - Petersson K
+AU  - Poulsen PR
+AU  - Psoroulas S
+AU  - Sørensen BS
+AU  - Tinganelli W
+AU  - Moeckli R
+PY  - 2026
+JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
+AB  - FLASH radiotherapy (FLASH-RT) has rapidly emerged as a promising approach to widen the therapeutic window through differential sparing of normal tissue. However, despite substantial experimental activity, uncertainties remain regarding the magnitude, reproducibility, and determinants of the FLASH effect. This work reviews common pitfalls and sources of ambiguity in the acquisition and interpretation of preclinical FLASH data to support clinical application. In particular, the widespread use of fixed single-dose study designs, over-reliance on differential endpoint-based metrics, and limited quantification of effect size may obscure the true magnitude and clinical relevance of observed effects. Moreover, small dose-modifying effects are highly susceptible to experimental and biological variability, including dosimetric uncertainties, endpoint sensitivity, and environmental factors such as oxygenation. Heterogeneity in experimental protocols and endpoints further complicates cross-study comparisons. Addressing these challenges through improved quantitative characterisation, harmonised methodologies, and transparent reporting will be essential to enable robust interpretation and support the clinical translation of FLASH-RT.
+DO  - 10.1016/j.radonc.2026.111819
+AN  - 42925959
+UR  - https://pubmed.ncbi.nlm.nih.gov/42925959/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Photon FLASH spares radiation-induced lung injury and pulmonary hypertension in a preclinical model.
+AU  - Brown KH
+AU  - Ghita-Pettigrew M
+AU  - McCabe L
+AU  - McDowell MP
+AU  - Kerr BN
+AU  - Walls GM
+AU  - McMahon SJ
+AU  - Butterworth KT
+PY  - 2026
+JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
+AB  - INTRODUCTION: Ultra-high dose rate (UHDR) radiotherapy has shown significant promise in reducing normal tissue toxicities with equivalent tumour control compared to conventional (CONV) dose rates termed the FLASH effect. In this study, we compared radiation-induced lung injury and changes in the pulmonary circulation following localised right lung irradiation at UHDR and CONV exposures using photons. METHODS: Acute and late pulmonary radiation responses were assessed in pneumonitis (C3H/NeJ) and fibrosis prone (C57BL/6) mice. 18 Gy was delivered to the right lung at CONV (0.05 Gy/s), FLASH (76.2 Gy/s) and FLASH split dose (FSD, average 2.6 Gy/s) exposures. Early responses (72 h and 4 weeks after irradiation) were investigated by immunohistochemistry (Ly6G, F4/80), fluorescence staining (EdU) and serum profiling (cytokines and lipid peroxidation assays). Fibrosis was assessed at 30 weeks after irradiation by cone-beam CT (CBCT) analysis and quantification of collagen, senescence (p21) and TGF-β levels. Changes in pulmonary vasculature and transthoracic echocardiography (TTE) was assessed in C57BL/6 mice at 30 weeks to characterise changes in the pulmonary circulation associated with pulmonary hypertension (PH). RESULTS: At early timepoints, UHDR exposures led to reduced immune cell infiltration (neutrophils and macrophages) and tissue damage in comparison to CONV and FSD groups. Serum analysis supported FLASH sparing with decreased levels of markers associated with chronic inflammation and increased markers of tissue repair in comparison to CONV and FSD groups. At 30 weeks after irradiation at a UHDR, the lung parenchyma was structurally similar to controls (p = 0.33) with minimal collagen deposition supported by CBCT tissue density analysis. In contrast, CONV and FSD animals showed significant collagen deposition (p < 0.01) with thickened alveolar septa and reduced alveolar air spaces. UHDR exposures significantly reduced functional and histological metrics of PH (p < 0.05) compared to CONV. CONCLUSIONS: UHDR photons significantly reduce radiation-induced pneumonitis and fibrosis with secondary effects on the pulmonary circulation sparing PH.
+DO  - 10.1016/j.radonc.2026.111822
+AN  - 42925958
+UR  - https://pubmed.ncbi.nlm.nih.gov/42925958/
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Ultra-high-dose-rate pulsed irradiation and the conditional FLASH effect: dosimetry, multiscale biology, and clinical translation.
+AU  - Zhang J
+AU  - Lu H
+AU  - Dong G
+AU  - Wang C
+PY  - 2026
+JO  - Frontiers in oncology
+AB  - Ultra-high-dose-rate (UHDR) pulsed irradiation can deliver therapeutic doses within an extremely short time window, but UHDR is a physical delivery state, whereas the FLASH effect is a conditional comparative phenotype in which normal-tissue injury is reduced relative to a spatially dose-comparable conventional-dose-rate (CDR) irradiation comparator without loss of tumor control. This Review integrates evidence across four levels: physical exposure characterization, dosimetric measurement, biological comparison, and clinical translation. We examine the temporal structure and quality-assurance requirements of electron, very-high-energy electron, photon, proton, and heavy-ion UHDR platforms; synthesize positive, negative, and conditional findings across normal-tissue and tumor models; and integrate mechanistic studies spanning multiple time scales. Current evidence does not support 40 Gy/s, or any single average dose-rate metric, as either a sufficient or a necessary threshold for the FLASH effect. Effect magnitude and reproducibility are more likely determined jointly by dose per pulse, pulse structure, total delivery time, fractionation, irradiated volume, radiation quality, tissue-specific radiobiological characteristics, and biological state. Mechanistic data likewise favor multiscale coupling across time rather than a single explanatory pathway, although several causal links from early oxygen and radical dynamics to cellular and tissue outcomes still lack direct interventional validation. Human studies have established the feasibility of clinical UHDR delivery on selected electron and proton platforms and have provided preliminary safety data, but comparative clinical benefit over CDR irradiation has not yet been demonstrated. Further translation should therefore prioritize pulse-resolved traceable dosimetry, organ-specific normal-tissue dose-response relationships, late toxicity, comparable tumor control, and concurrent comparative clinical endpoints, with expansion guided by prespecified stage-gated translational criteria.
+DO  - 10.3389/fonc.2026.1990706
+AN  - 42909922
+UR  - https://pubmed.ncbi.nlm.nih.gov/42909922/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Clinical & Translational
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - End-to-end film-based characterization of gated delivery latencies in a spot-scanned synchrotron-based proton therapy system.
+AU  - Stottler ZS
+AU  - Kruse JJ
+AU  - Deisher AJ
+PY  - 2026
+JO  - Journal of applied clinical medical physics
+AB  - BACKGROUND: Temporal mismatches between gating signals and beam activation-beam-on and beam-off latencies-in gated particle beam therapy can compromise dose integrity. Yet standardized measurement techniques are lacking, and system-specific characterization, particularly for synchrotron-based proton systems, remains limited. PURPOSE: To implement a novel strategy for precise end-to-end gating latency measurements of a spot-scanned proton beam using Gafchromic film. METHODS: Gating latencies have been measured for a Hitachi ProBeat accelerator equipped with a Varian RPM gating system. EBT4 films were positioned within a stack of acrylic blocks on a QUASAR respiratory motion platform operated with a 1.5 cm amplitude and 12 bpm sinusoidal pattern. A stainless-steel ball bearing (BB), positioned atop the film, facilitated localization. During irradiation, the BB produced a dose shadow on the film that indicated the phantom position. A proton plan consisting of a single 85.3 MeV spot was delivered to isocenter during a single gate-on/off interval initiated near the 25% phase, to maximize phantom velocity. Fifty-one measurements were made with a variety of gating intervals. Beam-on latency and delivery time produced a separation between the BB-shadow and the centroid of the Gaussian proton spot. Spot duration information was extracted from accelerator log files. BB-shadow/spot separation is modeled analytically based on phantom motion enabling the direct calculation of the total beam-on and beam-off latencies. Accelerator latency was measured directly with an oscilloscope, enabling isolation of the relative contributions of the RPM gating system. RESULTS: An average beam-on latency of 142 ± 27  ms is observed for the RPM+ProBeat system for the first gate of a delivery, which includes a known 69 ms beam extraction judgment time for the first proton spot in a spill from the Hitachi synchrotron. The corresponding average beam-off latency is 87 ± 30  ms  . The average gate-on and gate-off latencies of the RPM system are calculated as 72 ± 27  ms  and 81 ± 30  ms  , respectively. The associated average contributions of the accelerator to the beam-on latencies are measured as 69.3 ± 0.2  ms  (first gate in new spill) and 0.53 ± 0.07  ms  (subsequent gates in existing spill) and similarly 6 ± 4  ms  for beam-off latency. CONCLUSION: A novel, high-precision method for gating-latency measurements has been implemented using film to characterize gating latencies in a spot-scanned particle beam. Commissioning and regular quality assurance methods to precisely characterize the temporal accuracy of a gating system ensure treatment accuracy and will become increasingly vital to consider for higher-frequency applications, such as cardiac gating or FLASH-capable systems.
+DO  - 10.1002/acm2.70826
+AN  - 42905951
+UR  - https://pubmed.ncbi.nlm.nih.gov/42905951/
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Beam Delivery & Technology
+ER  - 
+
+TY  - JOUR
+TI  - Impact of proton LET and ultrahigh dose-rate on the structural integrity of DNA in solution.
+AU  - Adhikary A
+AU  - Sforza DM
+AU  - Yin L
+AU  - Bunz F
+AU  - Rezaee M
+PY  - 2026
+JO  - International journal of radiation biology
+AB  - PURPOSE: Ultra-high dose-rate (UHDR) irradiation reduces normal tissue toxicity while maintaining tumor control under isodose conditions with respect to conventional dose-rate (CONV) irradiation (the FLASH effect). But its underlying physicochemical mechanism remains highly debated. This study evaluates whether radical-radical recombination can explain this sparing without invoking bulk oxygen depletion by decoupling the roles of track structure (linear energy transfer, LET) and particle fluence and velocity on free-radical kinetics and DNA damage. MATERIALS AND METHODS: Highly purified pUC19 plasmid DNA in aqueous oxygenated buffer was irradiated with 142.4 MeV protons at CONV (∼1.0 Gy/s) or UHDR (>455 Gy/s). Samples were positioned in a water phantom and received doses ranging from 0 to 160 Gy at LETd (dose-averaged LET) values of 1.7, 4.4, and 6.5 keV/µm. Strand breaks and formamidopyrimidine-DNA glycosylase (Fpg) and endonuclease III (Nth) -sensitive base lesions were quantified by gel electrophoresis. At low LET, fluence was estimated from Φ = ρD/LET and mean nearest-track distance from dNN = 1/(2√Φ), using the dose delivered during one OH• lifetime (approximately 0.91 µs). RESULTS: At LETd = 1.7 keV/µm, the estimated mean nearest-track distance during one OH• lifetime was ∼275 µm at 1.0 Gy/s and ∼13 µm at 455 Gy/s. Even the UHDR value was ∼100 times larger than the ∼0.1-0.13 µm OH• diffusion distance. Above ∼40 Gy cumulative dose, UHDR produced lower strand-break and enzyme-sensitive lesion values than CONV, and the CONV-UHDR difference decreased as LETd increased. CONCLUSIONS: Proton dose-rate alone is insufficient to predict the FLASH effect-mediated tissue sparing. Our results demonstrate that sparing is a track-structure-dependent kinetic phenomenon. LET, fluence, spill structure, solution chemistry, and oxygen history must be considered together. The data constrain candidate FLASH mechanisms but do not identify a unique chemical pathway. DEFINITIONS: Spur: a localized cluster of closely spaced ionizations and excitations.Branch: a lateral secondary-electron trajectory containing one or more additional spurs.Intra-track recombination: reactions among species generated within the same primary-particle track and its branches.Inter-track recombination: reactions between species generated by different primary-particle tracks. Track coincidence requires two tracks to be created close enough in both space and time for their reactive species to meet.Mean nearest-track distance: for randomly and independently positioned, approximately parallel tracks, the average center-to-center distance from one track to its closest neighboring track.
+DO  - 10.1080/09553002.2026.2747690
+AN  - 42905122
+UR  - https://pubmed.ncbi.nlm.nih.gov/42905122/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
+TI  - FLASH effect on the liver and spleen of mice-a transcriptional perspective.
+AU  - Ma Y
+AU  - Zhu X
+AU  - Yang T
+AU  - Lv J
+AU  - Yan X
+AU  - Yang G
+AU  - Lin X
+AU  - Cao Z
+PY  - 2026
+JO  - Medical physics
+AB  - BACKGROUND: FLASH radiotherapy (FLASH-RT), delivered at an ultra-high dose rate (typically ≥ 40 Gy/s), has been shown to reduce normal tissue toxicity compared with conventional dose-rate radiotherapy (CONV-RT). However, the transcriptomic mechanisms underlying FLASH-mediated protection remain incompletely understood. PURPOSE: This study aimed to compare the biological effects of FLASH and CONV irradiation on mouse liver and spleen tissues and to identify molecular pathways associated with the FLASH effect from a transcriptional perspective. METHODS: C57BL/6J male mice received a single 12 Gy abdominal dose delivered at either 2 Gy/min (CONV) or 100 Gy/s (FLASH). Twelve days after irradiation, spleen and liver tissues were harvested for histological section analysis and RNA-seq. Inflammatory responses in the spleen and liver were assessed by hematoxylin-eosin staining (H&E staining) and immunohistochemical quantification. A series of bioinformatic analyses, such as gene enrichment, protein-protein interaction (PPI) analysis, and transcription factor prediction, were performed to explore the effect of FLASH irradiation. Subsequently, reverse transcription quantitative PCR (RT-qPCR), western blot analysis, and immunohistochemical quantification were used to verify the bioinformatic results. RESULTS: Histological and immunohistochemical analyses showed less prominent inflammatory changes and lower immune-cell marker staining in mouse spleen and liver after FLASH than after CONV irradiation at 12 days post-irradiation. Bioinformatic analysis and corresponding experimental results revealed that compared to CONV irradiation, FLASH irradiation induced down-regulation of oxidative phosphorylation and cytoplasmic translation pathways in both mouse liver and spleen. Meanwhile, immune-related pathways, especially interferon β (IFNβ) signaling pathways, were significantly activated in both tissues after FLASH than after CONV irradiation. For these three pathways, key transcription factors were further identified and verified. Notably, STAT1 was found to play a potentially critical role in the upregulation of the IFNβ-related pathway under FLASH irradiation conditions in both liver and spleen. CONCLUSIONS: FLASH irradiation induces distinct metabolic and immune adaptations in normal mouse liver and spleen tissues compared with CONV irradiation. The coordinated suppression of metabolic and translational pathways, together with activation of IFNβ-STAT1 signaling program, provides transcriptomic evidence for potential mechanisms underlying FLASH-mediated normal tissue sparing. These findings offer candidate pathways and molecular markers for future functional validation and support the clinical translation of FLASH-RT.
+DO  - 10.1002/mp.70720
+AN  - 42904553
+UR  - https://pubmed.ncbi.nlm.nih.gov/42904553/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Geant4-DNA Simulation of the Oxygen Depletion Coefficient and the Relative Change in OER in Proton-Irradiated Oxygenated Water.
+AU  - Wu C
+AU  - Han Y
+AU  - Zhou F
+AU  - Zhou Y
+AU  - Tang Q
+PY  - 2026
+JO  - International journal of molecular sciences
+AB  - FLASH radiotherapy delivers therapeutic doses at ultra-high dose rates and may reduce normal tissue injury while preserving tumor control, but its mechanisms remain unclear. Radiolytic oxygen depletion has been proposed as one contributor, yet the combined effects of initial oxygen conditions and the spatial distribution of protons on oxygen depletion remain insufficiently understood. Geant4-DNA was used to simulate water radiolysis induced by 100 MeV protons in oxygenated water. All primary protons were introduced simultaneously, representing an idealized limiting case of zero pulse duration. Initial dissolved oxygen concentration and source radius were varied to evaluate oxygen depletion coefficients and the temporal evolution of chemical species. Relative changes in oxygen enhancement ratio were estimated using the Grimes model. Oxygen depletion coefficients increased with initial dissolved oxygen concentration, whereas reducing the source radius and increasing proton spatial aggregation decreased net oxygen depletion per unit dose. Species evolution supported enhanced radical recombination or termination at the smaller source radius and competition with oxygen scavenging pathways. The relative change in OER was jointly determined by initial oxygen conditions, oxygen depletion coefficients, and absorbed dose, with greater sensitivity under hypoxic conditions. These findings show that initial oxygen conditions and proton spatial distribution jointly regulate microsecond-scale oxygen depletion and the associated relative change in OER.
+DO  - 10.3390/ijms27198716
+AN  - 42883961
+UR  - https://pubmed.ncbi.nlm.nih.gov/42883961/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing Particle Ions for FLASH Radiotherapy.
+AU  - Bembridge AJ
+AU  - Hughes JR
+AU  - Parsons JL
+PY  - 2026
+JO  - Cells
+AB  - FLASH radiotherapy continues to be an emerging clinical treatment that utilises ultra-high dose rate radiation (>40 Gy/s) to elicit normal tissue sparing compared to conventional (CONV) dose rate delivery. This is termed the FLASH effect, which has also been demonstrated to lead to effective tumour control. FLASH sparing has been demonstrated in many studies using electrons and now increasingly with particle ions, particularly protons. Due to unique properties such as deeper penetrance and a narrow range of energy deposition providing more precision targeting, this makes hadron radiotherapy using FLASH an exciting innovation for cancer treatment to help improve outcomes for cancer patients. Furthermore, through the use of higher linear energy transfer (LET) particles such as helium and carbon ions, FLASH offers the potential to combine sparing of normal tissues with enhanced biological effectiveness in tumour cell killing, important for tumours that are more resistant to conventional photon radiotherapy. However, the physical and biological parameters by which the FLASH sparing effect occurs is complex and has not been fully characterised. Factors including total dose, pulse structure (dose and duration), beam energy and LET have all been reported to impact tissue sparing. Additionally, the underlying biological mechanism of action of FLASH remains a point of contention within the field. In this review, we provide an up-to-date report on FLASH studies conducted with particle ion therapies, including in vitro and in vivo studies, using different experimental models. We present both the cellular and molecular outcomes of the studies performed using protons, helium and carbon ions, plus other ion sources, and the accumulating evidence that demonstrate the strong clinical potential for these modalities in cancer treatment.
+DO  - 10.3390/cells15191729
+AN  - 42882427
+UR  - https://pubmed.ncbi.nlm.nih.gov/42882427/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Selective lipid metabolic remodelling in radiosensitive normal tissues after FLASH radiotherapy.
+AU  - Aramaki S
+AU  - Dubail M
+AU  - Sertorio M
+AU  - Rahman MM
+AU  - Afroz MS
+AU  - Zhang C
+AU  - Tang L
+AU  - Wakabayashi K
+AU  - Konishi K
+AU  - Kahyo T
+AU  - Boivin G
+AU  - Vilalta M
+AU  - Sharma RA
+AU  - Nakamura K
+AU  - Setou M
+PY  - 2026
+JO  - Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology
+AB  - BACKGROUND AND PURPOSE: FLASH radiotherapy, delivered at ultra-high dose rates, spares normal tissues while maintaining tumor control, but the molecular basis of this differential response remains poorly defined, particularly at timepoints relevant to tissue repair. We investigated whether lipid metabolism contributes to the FLASH effect in head and neck cancer. MATERIALS AND METHODS: MOC2 tumor-bearing mice received a single 10 Gy fraction of conventional (CONV) or ultra-high dose-rate FLASH protons, with non-irradiated controls (CTRL). Tongue and contralateral tumors were collected two weeks later and analyzed by bulk lipidomics, spatial lipidomics and proteomics. After biochemical filtering, 1,547 lipid species across 37 classes were quantified. RESULTS: At two weeks, CONV irradiation was associated with a triglyceride-catabolic, oxidative-stress signature in tongue tissue, marked by loss of the lipid-droplet hydrolase Ces1d alongside induction of the peroxisomal β-oxidation enzyme Acox1. FLASH irradiation was instead associated with a distinct lipid-remodelling signature: suppression of Mgll, induction of Apoe, membrane phospholipid remodelling (increased phosphatidylcholine and phosphatidylethanolamine), and Lypla2 upregulation. Spatial lipidomics provided illustrative spatial context consistent with concentration of these changes in minor salivary gland acini. Tumor tissue showed no comparable modality-specific divergence. CONCLUSIONS: These correlative multi-omics data indicate that FLASH is associated with remodelling of lipid metabolism in radiosensitive normal tissue, beyond a simple reduction of acute oxidative damage. We propose a Lipid Metabolic Remodelling Hypothesis for testing: the remodelling of lipid metabolism observed after FLASH may contribute to normal-tissue sparing rather than representing solely a downstream consequence of reduced acute oxidative damage. This model complements existing physicochemical models and offers a basis for radioprotection strategies in head and neck radiotherapy.
+DO  - 10.1016/j.radonc.2026.111825
+AN  - 42874779
+UR  - https://pubmed.ncbi.nlm.nih.gov/42874779/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Evolving role of proton therapy in contemporary oncology.
+AU  - Lebow ES
+AU  - Shih HA
+PY  - 2026
+JO  - Cancer
+AB  - Proton therapy offers a distinct physical advantage over photon radiotherapy through the Bragg peak dose concentration in target with both lower integral dose and finite path length, and sharper penumbra as compared to photons, collectively reducing radiation exposure to surrounding normal tissues and potentially improving the therapeutic ratio. However, this advantage is tempered by uncertainties, including range uncertainty and variable relative biological effectiveness. In this review, the authors summarize contemporary evidence supporting proton therapy across pediatric, central nervous system (CNS), head and neck, thoracic, breast, gastrointestinal, genitourinary, and hematologic malignancies, as well as reirradiation. The strength of evidence varies substantially by disease site. Proton therapy is well established in pediatric cancers and selected CNS tumors, where minimizing integral dose and late toxicity is especially important. Randomized trials have demonstrated clinically meaningful benefits in selected settings, including improved disease control and survival with proton craniospinal irradiation for leptomeningeal metastases and reduced toxicity with preserved disease control and survival benefit in oropharyngeal cancer. Conversely, randomized data in localized prostate cancer have not shown improved patient reported outcomes compared with intensity modulated photon therapy. Ongoing phase 3 trials across multiple disease sites are expected to further define the role of protons by clarifying comparative effectiveness, toxicity reduction, and cost-effectiveness relative to advanced photon techniques. Future progress will depend on improved patient selection, robust treatment planning, and emerging technologies including adaptive proton therapy, proton arc therapy, and FLASH radiotherapy.
+DO  - 10.1002/cncr.70622
+AN  - 42870507
+UR  - https://pubmed.ncbi.nlm.nih.gov/42870507/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Treatment Planning & Optimization
+KW  - FLASH:Radiobiology
+ER  - 
+
+TY  - JOUR
+TI  - Radiation protection considerations for ultra-high dose rate proton beam FLASH research: consensus from multi-institutional experience.
+AU  - Taylor MJ
+AU  - Bayer C
+AU  - Paquet G
+AU  - Gupta N
+AU  - Lamba MA
+AU  - Lin H
+AU  - Mossahebi S
+AU  - Poirier Y
+AU  - Xiao Z
+AU  - Yu F
+AU  - Owen DR
+AU  - Amos RA
+AU  - Smith WL
+PY  - 2026
+JO  - Frontiers in oncology
+AB  - The use of ultra-high dose rate (UHDR) radiation for radiotherapy could potentially improve outcomes for cancer patients by increasing healthy tissue sparing, known as the FLASH effect. As UHDR use expands in FLASH research and clinical translation, reassessing existing radiation safety programs is essential to determine whether UHDR beams introduce any new radiation safety requirements. This manuscript outlines the lessons learnt through investigations performed by members of the Varian FLASH forward consortium radiation protection working group. The information contained within is the consensus of the working group, as agreed, through discussions and reports during the monthly meetings. The paper brings together multi-institutional radiation protection experience from five Varian ProBeam type facilities engaged in preclinical and clinical proton FLASH research. Three main aspects of radiation protection are considered: shielding, activation, and accident scenarios. Lessons learned from the collective experience gained are presented to benefit those embarking on new proton FLASH research programs.
+DO  - 10.3389/fonc.2026.1862653
+AN  - 42866240
+UR  - https://pubmed.ncbi.nlm.nih.gov/42866240/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - FLASH radiotherapy for electrons and protons: roadmap towards the clinical introduction.
+AU  - Petoukhova AL
+AU  - Penninckx S
+AU  - Schuemann J
+AU  - Di Martino F
+AU  - Paiar F
+AU  - Sesink A
+AU  - Calvo FA
+AU  - Romano F
+AU  - Milluzzo G
+AU  - Schwarz M
+AU  - Habraken S
+AU  - Rahman MR
+AU  - Simone Ii CB
+AU  - Spruijt K
+AU  - Lin H
+AU  - Kiderlen M
+AU  - Desmet A
+AU  - Kim MM
+AU  - Mascia A
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Radiation therapy (RT) is a crucial component of cancer management, with most patients receiving RT at some point, often in combination with surgery or systemic treatments. Cell sparing at ultrahigh dose rates was found in in vitro cell survival fraction experiments dating back to the 1960s. In the 1970s, studies revealed an unexpected dose-rate effect on radiation-induced mortality in mice and a dose-rate-dependent response in rat skin. This effect was assumed to be affecting healthy and tumour tissue equally and was not pursued further. Decades later, this modality of RT was rediscovered using ultra-high dose-rate irradiation (average dose rate >40 Gy/s) and it was demonstrated that this improves the therapeutic ratio, sparing healthy tissue while being isoeffective for tumours. This effect is referred to as the FLASH effect. Currently, the first human trials using electron and proton beams are ongoing, although significant challenges remain in fully understanding the radiobiological and chemical mechanisms behind this phenomenon. This roadmap provides an overview of the current and future challenges of FLASH radiation therapy and outlines research directions to optimally advance the field and design future clinical trials: radiobiology of the FLASH effect, opportunities and beam parameters for the future in FLASH with electrons, intraoperative FLASH radiotherapy with electrons, ultra-high dose-rate dosimetry, opportunities for the future in FLASH with protons, FLASH treatment planning and machine QA with protons, clinical translation of FLASH with electrons and first experiences and challenges of initial proton FLASH trials.
+DO  - 10.1088/1361-6560/aeb29d
+AN  - 42854716
+UR  - https://pubmed.ncbi.nlm.nih.gov/42854716/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Clinical & Translational
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Treatment Planning & Optimization
+ER  - 
+
+TY  - JOUR
+TI  - Metrology, Standards, and Mission: Synopsis of the 2026 Annual Meeting of the Council on Ionizing Radiation Measurements and Standards (CIRMS).
+AU  - Culberson WS
+AU  - Mickum S
+AU  - Walter-Denzin A
+AU  - Becker SJ
+AU  - Morató S
+AU  - Lambeck J
+AU  - Mate-Kole E
+AU  - Fifield LS
+AU  - Christofaro M
+AU  - Adhikary A
+AU  - Dewji S
+AU  - Wilson C
+AU  - Mille MM
+PY  - 2026
+JO  - Health physics
+AB  - The Council on Ionizing Radiation Measurements and Standards (CIRMS) is an independent, non-profit council composed of experts from academia, government, and industry across all areas of ionizing radiation science and technology, providing leadership, focus, and coordinated action on emerging radiation metrology needs. This mission is achieved through the organization of an annual scientific conference and the periodic publication of a Needs Report which identifies priority areas in ionizing radiation measurements and standards. This article summarizes the outcomes from the CIRMS 2026 meeting which was held 13-15 April 2026 at The Universities at Shady Grove in Rockville, Maryland, United States. Participants represented a broad cross-section of the radiation science community, including radiation metrologists, academic researchers, government scientists, and industry stakeholders. The meeting featured plenary presentations, topical breakouts, and poster sessions. The breakout sessions were organized by the three subcommittees of the CIRMS Science and Technology Committee: Medical Applications, Radiation Protection and Homeland Security, and Radiation Processing and Material Effects. Topics covered during the meeting included cobalt-60 (60Co) and cesium-137 (137Cs) production, medical device sterilization, FLASH radiotherapy dosimetry, neutron dosimetry, radiation standards for next-generation fusion power systems, Monte Carlo modeling, and other topics relevant to radiation measurements and standards. The CIRMS 2026 meeting highlighted challenges that must be addressed to advance ionizing radiation science and technology and provide important input for the next Needs Report.
+DO  - 10.1097/HP.0000000000002218
+AN  - 42841774
+UR  - https://pubmed.ncbi.nlm.nih.gov/42841774/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Physics & Dosimetry
+ER  - 
+
+TY  - JOUR
+TI  - Expanding dose and dose-rate capabilities of a synchrotron-based pre-clinical proton FLASH irradiation platform.
+AU  - Hu Z
+AU  - Li Y
+AU  - Wang X
+AU  - Mohan R
+AU  - Titt U
+PY  - 2026
+JO  - Medical physics
+AB  - BACKGROUND: Proton FLASH radiotherapy has demonstrated promising normal tissue sparing for similar tumor control at ultra-high dose rates (> 40 Gy/s), but systematic investigation of dose-rate-dependent biological mechanisms is limited. Most existing proton platforms operate within a narrow dose-rate range. Synchrotron-based systems are further constrained by limited beam current and cyclic ("spill-based") delivery. PURPOSE: To develop and validate a synchrotron-based small-animal proton irradiation platform with expanded and controllable dose and dose-rate capabilities, enabling systematic studies across conventional, intermediate (meso)-dose-rate (μDR: 1-40 Gy/s) and FLASH regimes. METHODS: The beamline was redesigned to incorporate three beam modulation modes (low, mid, and high dose) by modifying initial scattering conditions and re-optimizing and repositioning downstream components, including cone-shaped flattening filters, ridge filters, and range compensators. 14 discrete synchrotron beam extraction settings (denoted as "IDs") with different beam fluxes were developed and combined with 3 beam modulation modes, resulting in 42 dose and dose-rate combinations. Ridge filters were fabricated using resin-based 3D printing with an iterative geometric correction workflow. Depth-dose distributions were measured using an Advanced Markus ionization chamber, and lateral dose profiles were verified using radiochromic film. RESULTS: The low-, mid-, and high-dose modes achieved maximum single-spill doses of 20.8 Gy (205 Gy/s), 30.2 Gy (297 Gy/s), and 53.8 Gy (531 Gy/s), respectively. Across all beam IDs and modulation modes, dose rates ranged from approximately 13 Gy/s to 2200 Gy/s, spanning μDR and FLASH regimes. Measured depth-dose profiles agreed with Monte Carlo simulations within ± 4%, and lateral dose flatness was within ± 3.7%. CONCLUSIONS: This modular beamline redesign significantly expands the achievable dose and dose-rate combinations of a synchrotron-based proton irradiation platform without requiring accelerator modifications. The system enables 42 reproducible dose and dose-rate configurations with single-spill delivery, providing a flexible framework for systematic investigation of dose-rate-dependent radiobiological proton FLASH effects.
+DO  - 10.1002/mp.70695
+AN  - 42837388
+UR  - https://pubmed.ncbi.nlm.nih.gov/42837388/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - A generalized phenomenological model of oxygen depletion for FLASH particle radiotherapy: evidence fromin vitrodata.
+AU  - Fu K
+AU  - Gan JK
+AU  - Yagi M
+AU  - Chua CGA
+AU  - Lee KH
+AU  - Lew KS
+AU  - Koh CWY
+AU  - Minami K
+AU  - Lin YP
+AU  - Wibawa A
+AU  - Master Z
+AU  - Lew WS
+AU  - Lee JCL
+AU  - Shimizu S
+AU  - Park SY
+AU  - Tan HQ
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Objective.Ultra-high dose rate (uHDR: FLASH) radiotherapy reduces normal tissue toxicity while preserving tumor control. The oxygen depletion hypothesis posits that rapid oxygen consumption during FLASH irradiation transiently reduces radiosensitivity. However, experimental measurements suggest oxygen depletion may be limited, particularly under normoxia. This study quantitatively assesses the adequacy of this hypothesis in reproducing experimentally observed sparing effects by comparing mechanistic simulations within vitrocell survival data across a wide range of irradiation conditions.Approach.We developed a phenomenological framework for radiolytic oxygen depletion incorporating temporal dose delivery, dose rate, and linear energy transfer (LET). LET dependence was included through oxygen consumption efficiency and the maximum oxygen enhancement ratio. For direct comparison, simulation results were linked to clonogenic cell survival using a damage reduction factor (DRF) derived from the linear-quadratic model. Simulated DRFs were compared with experimental DRFs from six independentin vitrostudies involving electrons, protons, helium ions, and carbon ions over broad ranges of LET, oxygenation, and dose rates using parity plots, residual analyses, stratified weighted statistics, and correlation analyses.Main results.Under most irradiation conditions, simulated DRFs remained close to unity (minimum values approximately 0.96), indicating limited predicted protection from oxygen depletion. Conversely, experimental DRFs exhibited substantially larger deviations. Stratified analyses revealed systematic discrepancies between simulated and experimental DRFs across oxygenation, LET, and dose rate, with pronounced disagreement under normoxia, high LET, and uHDRs. Residual analyses demonstrated underestimation of the sparing effect by the model. Correlation analyses showed statistically insignificant associations between simulated and experimental metrics.Significance.The oxygen depletion model considered in this work insufficiently reproduces the observed sparing effect under thein vitroconditions considered. Additional biological and physicochemical mechanisms likely play a significant role. This framework provides a quantitative basis for evaluating alternative mechanisms and integrating future experimental data toward a more complete understanding of FLASH radiotherapy.
+DO  - 10.1088/1361-6560/aeb05e
+AN  - 42833250
+UR  - https://pubmed.ncbi.nlm.nih.gov/42833250/
+KW  - FLASH:Radiobiology
+KW  - FLASH:Modeling & Mechanisms
+ER  - 
+
+TY  - JOUR
+TI  - Radiolytic yields and peroxyl-radical kinetics predict the LET and oxygenation dependence of FLASH radiotherapy normal-tissue sparing.
+AU  - Younous K
+AU  - Sebihi R
+AU  - Kafhali ME
+AU  - Allah AW
+PY  - 2026
+JO  - Physics in medicine and biology
+AB  - Objective.FLASH radiotherapy spares normal tissue at ultra-high dose rates, but the dependence of this protection on linear energy transfer (LET) and tissue oxygenation is not mechanistically understood. We developed a model coupling Geant4-DNA track-structureG-values to the Labarbe peroxyl-radical (ROO•) kinetic framework to predict FLASH normal-tissue sparing as a joint function of LET and oxygenation.Approach. G-values for •OH, e-aq, H• and H2O2were computed with Geant4-DNA chem6 for electrons (0.16-8.70 keVµm-1) and protons (0.69-9.5 keVµm-1), with 500 primary events per LET point, and taken from published Monte Carlo data for carbon ions (10-200 keVµm-1). These were supplied to the Labarbe ordinary differential equation system using the published rate constants without adjustment and integrated across dose rates of 0.03-105Gy s-1, doses of 5-30 Gy and oxygen concentrations of 2-200µM. FLASH sparing was quantified as the fractional reduction in time-integrated ROO• exposure. The mechanism was tested by removing individual reactions from the kinetic system, and predictions were compared with three independent preclinical datasets.Main results.Using the NTCP parameters published by Labarbeet al(2020Radiother. Oncol.153153303-10), with no quantity fitted in the present work, the model gives a dose-modifying factor of 1.42; with the parameters refitted here, it gives 1.44, against experimentally reported values of 1.30-1.40. Sparing decreases monotonically with LET, from 32.3% at 0.16 keVµm-1to 11.2% at 200 keVµm-1. At matched LET, proton and electron yields converge below 2 keVµm-1but diverge by up to 19% in G(e-aq) at 8.7 keVµm-1, setting a validity limit on LET-only parameterization. Removing the ROO•-ROO• recombination term collapses sparing from 32.3% to 2.4%, identifying second-order peroxyl recombination as the operative mechanism. The oxygen dependence is dose- and dose-rate-gated, with the sparing difference across 2-200µM ranging from below 1 to approximately 40 percentage points (pp); at 30 Gy and 100 Gy s-1, the model predicts 8.2 pp less sparing in bone osteocytes (15µM) than in normoxic tissue, consistent with the absence of FLASH bone sparing reported in canine mandible.Significance.Peroxyl-radical bimolecular recombination, driven by LET-dependent track-structure yields, provides a parameter-free chemical basis for the modality dependence of the FLASH effect. The predicted dose-, dose-rate- and oxygen-gating of sparing gives testable criteria for where FLASH protection should and should not occur.
+DO  - 10.1088/1361-6560/aeafa6
+AN  - 42826755
+UR  - https://pubmed.ncbi.nlm.nih.gov/42826755/
+KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Radiobiology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Clinical & Translational
+ER  - 
+
+TY  - JOUR
+TI  - Dosimetric Comparison of Contemporary Stereotactic Radiotherapy Platforms for Brain Metastases: Towards Personalized Technology Selection.
+AU  - Duan W
+AU  - Wang Z
+AU  - Wang R
+PY  - 2026
+JO  - Technology in cancer research & treatment
+AB  - Stereotactic radiosurgery and radiotherapy (SRS/SRT) for brain metastases is a rapidly evolving field, driven by continuous refinement of dosimetric strategies and technological advances in treatment platforms. This narrative review synthesizes current evidence on the dosimetric characteristics of major SRS/SRT platforms-Gamma Knife, CyberKnife, ZAP-X, linear accelerators, helical tomotherapy, and proton therapy-and evaluates their comparative strengths, limitations, and optimal clinical applications. We identify distinct dosimetric trade-offs among platforms with respect to dose conformity, gradient fall-off, normal tissue sparing, and treatment efficiency. Gamma Knife remains a dosimetric benchmark for dose gradient steepness, particularly for small targets (e.g., <1 cm in diameter). CyberKnife offers high conformity and may benefit lesions adjacent to critical organs, although treatment efficiency diminishes with increasing numbers of metastases. The novel, self-shielded ZAP-X system delivers a dose gradient comparable to that of Gamma Knife and achieves favorable sparing of normal brain tissue at intermediate-to-high dose levels. Linear accelerator-based techniques-especially single-isocenter non-coplanar volumetric modulated arc therapy and dynamic conformal arc therapy-are widely adopted for multiple brain metastases owing to their high delivery efficiency and continually improving plan quality. Helical tomotherapy provides reliable plan deliverability, whereas proton therapy offers a theoretical advantage in reducing low-dose exposure to the whole brain and sparing adjacent organs at risk, owing to the Bragg peak. The available evidence indicates that no single platform is universally optimal, and dosimetric differences should be interpreted with caution given the absence of prospective comparative clinical outcome data. Treatment platform selection should therefore be individualized, integrating disease characteristics (e.g., number, volume, location, and geometry of targets), institutional resources, and established clinical priorities. Future integration of advanced technologies-including FLASH radiotherapy and artificial intelligence-may further personalize the management of brain metastases.
+DO  - 10.1177/15330338261493387
+AN  - 42822518
+UR  - https://pubmed.ncbi.nlm.nih.gov/42822518/
+KW  - FLASH:Reviews & Consensus
+KW  - FLASH:Radiobiology
+KW  - FLASH:Beam Delivery & Technology
+KW  - FLASH:Physics & Dosimetry
+KW  - FLASH:Treatment Planning & Optimization
+ER  - 
+
+TY  - JOUR
 TI  - Characterization and Mitigation of Boundary Sampling Artifacts in Electron Phase Space Generation for Clinical FLASH-RT Deployment.
 AU  - Carballeira R
 AU  - Zhang R
@@ -7,10 +541,11 @@ AU  - Cash H
 AU  - Gladstone DJ
 PY  - 2026
 JO  - ArXiv
-AB  - Applicator-specific phase space (PHSP) files recorded at the aperture exit reduce Monte Carlo dose calculation time by 30-50% for electron FLASH radiotherapy. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts. This study characterizes these artifacts in Geant4-based simulations and demonstrates their mitigation. PHSP files were generated using GAMOS 6.2.0 for a 9 MeV Mobetron UHDR model across twelve clinical aperture configurations (2.5-10 cm diameter). Three scoring plane positions were evaluated relative to the physical aperture exit: coincident with the interface, 0.1 mm downstream, and 1 mm downstream. Scoring at the exact interface produced proximal R50 shifts of up to 2.2 mm and Distance-to-Agreement (DTA) values of 4-6 mm, exceeding clinical acceptance criteria. Artifact severity scaled inversely with aperture diameter, with the smallest configurations most severely affected. A 0.1 mm offset partially restored the primary electron energy spectrum but failed to recover the bremsstrahlung tail. A 1 mm offset fully resolved all artifacts, achieving mean DTA values within 2.0 mm, equivalent to or better than linac-exit references. These artifacts arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety equals zero at exact material boundaries, producing incomplete secondary electron equilibration and suppressed bremsstrahlung production. Angular distribution analysis revealed a near-forward particle pileup in the 0 mm PHSP and a deficit of large-angle secondaries recovered by the 1 mm offset. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics. This requirement applies to any Geant4-based framework (including TOPAS and GATE) scoring PHSP files at material exit surfaces.
+AB  - BACKGROUND: Clinical implementation of Monte Carlo (MC)-based treatment planning for electron FLASH radiotherapy requires computationally efficient phase space (PHSP) generation strategies to meet the planning timelines of ultra-high-dose-rate (UHDR) delivery. Applicator-specific PHSP files, recorded at the aperture exit, reduce dose calculation time by 30-50% relative to traditional placement at the linac-exit window, enabling clinically practical planning cycles for FLASH treatment planning system (TPS) deployment. However, positioning PHSP scoring planes coincident with the applicator-air interface introduces boundary sampling artifacts that have not been previously characterized in the electron PHSP literature. PURPOSE: To identify and characterize a boundary sampling artifact arising in Geant4-based Monte Carlo simulations when PHSP scoring planes are positioned coincident with material-air interfaces, and to demonstrate its mitigation through systematic scoring plane offset, enabling clinical deployment of applicator-specific electron beam PHSP libraries for FLASH-RT treatment planning. METHODS: Applicator-specific PHSP files were generated using GAMOS 6.2.0 for a commissioned 9 MeV Mobetron UHDR Monte Carlo model across twelve clinical aperture configurations (2.5-10 cm diameter) intended for deployment in the GMV Radiance treatment planning system. The scoring plane sensitivity analysis was performed on the A6 short cone (aperture exit at 397 mm) across three positions: coincident with the material-air interface (397 mm), 0.1 mm downstream (397.1 mm), and 1 mm downstream (398 mm). The corresponding 1 mm offset was subsequently applied to the A10 long cone (aperture exit at 406 mm, scoring plane at 407 mm) for global validation. Dose calculations were benchmarked against linac-exit PHSP references and experimental water phantom measurements via distance-to-agreement (DTA) analysis against the 3 mm clinical acceptance criterion established by AAPM TG-105. RESULTS: Scoring at the exact interface produced systematic proximal R50 shifts of up to 2.2 mm and DTA values of 4-6 mm for small-aperture configurations, exceeding the clinical acceptance criterion and rendering the PHSP library unsuitable for clinical deployment. A 0.1 mm offset partially corrected the angular distribution at the boundary but failed to resolve the energy-loss artifact affecting the distal falloff region. A 1 mm offset fully resolved all artifacts, achieving mean DTA values of 1.45 ± 0.63 mm (A6 series PDDs) and 2.00 ± 0.61 mm (A10 series PDDs), equivalent to or better than the linac-exit reference across all twelve configurations. CONCLUSIONS: Boundary sampling artifacts in Geant4-based PHSP generation arise from the degenerate behavior of the fUseSafety step-limitation algorithm when safety = 0 at exact material boundaries, producing incomplete secondary electron equilibration and a systematic energy-loss artifact in the scored particle population that manifests as a proximal shift of the distal dose falloff. A 1 mm downstream offset fully mitigates these artifacts while introducing negligible perturbation to primary beam characteristics, enabling clinical deployment of the resulting applicator-specific PHSP library in the GMV Radiance TPS for FLASH-RT treatment planning. This offset requirement warrants investigation in other Geant4-based frameworks (including TOPAS and GATE) scoring PHSP files at applicator or collimator exit surfaces.
 AN  - 42818460
 UR  - https://pubmed.ncbi.nlm.nih.gov/42818460/
 KW  - FLASH:Modeling & Mechanisms
+KW  - FLASH:Treatment Planning & Optimization
 KW  - FLASH:Beam Delivery & Technology
 ER  - 
 
@@ -125,12 +660,12 @@ TY  - JOUR
 TI  - Physicochemical modeling of electron FLASH to identify the roles of oxygen, aqueous electrons and causal radical recombination effects underlying them.
 AU  - Thomas WS
 AU  - Cao X
-AU  - Gladstone D
+AU  - Gladstone DJ
 AU  - Swartz HM
 AU  - Pogue BW
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - &#xD;Background: Ultra high dose rate (UHDR) irradiation reduces normal tissue toxicity as compared conventional dose rate (CDR) irradiation-known as the FLASH effect, yet the underlying radiochemical mechanisms remain poorly understood. Direct measurements rely upon longer lived water radiolysis species such as aqueous electrons (eaq-) and oxygen, to infer behaviors of toxic species leading to tissue damage. This study uses kinetic modeling to identify which chemical pathways exhibit dose rate dependent behavior and can be used to correlate experiments.&#xD;Methods: A comprehensive physicochemical model of water radiolysis was developed, incorporating 17 molecular species and 56 coupled reaction rate equations, with pulsed beam structures matched to published UHDR electron irradiation experiments. Simulations were performed across a range of oxygen tensions (0.1-10% O₂) and dose rate conditions (0.3-300 Gy/s). Model predictions were validated against experimental measurements of eaq- transients,and oxygen consumption in vitro and in vivo. They also were compared to prior computational models.&#xD;Results: Modeled lifetimes of eaq- matched experiments across O2 concentrations and showed that >90% of scavenging occurs via O2 and reactions with proteins, with radical-radical recombination contributing <5% even at 300 Gy/s. The lifetimes of OH• radicals were similarly dominated by protein scavenging, with recombination pathways remaining minor (<5%) with UHDR. Modeled oxygen consumption matched the magnitude and dose rate dependence observed in published experiments. The results indicated a primary dose rate sensitive pathway, the reaction between hydroperoxyl radical (HO₂•) and superoxide (O₂•⁻). Peroxyl radical formation decreased at UHDR within oxygen tensions (≈5-20 mmHg) corresponding to the experimentally observed FLASH oxygen window. &#xD;Conclusion: This work identifies specific radiochemical pathways that exhibit true dose rate sensitivity and clarifies which proposed FLASH mechanisms are unsupported by homogeneous phase radical kinetics. Radical-radical recombination contributes too little (<5%) to account for known FLASH sparing at UHDR, whereas peroxyl radical and HO₂•/O₂•⁻ chemistry shows dose rate dependent behavior within physiologic oxygen tensions associated with FLASH. Although constrained by simplified aqueous conditions lacking scavengers and tissue heterogeneity, the model provides mechanistic insight into the radiochemical regimes dominating the homogeneous phase chemistry.&#xD.
+AB  - Objective.Ultra-high dose-rate (UHDR) irradiation reduces normal-tissue toxicity as compared conventional dose-rate irradiation, known as the FLASH effect, yet the underlying radiochemical mechanisms remain poorly understood. Direct measurements rely upon longer lived water-radiolysis species such as aqueous electrons (eaq-) and oxygen, to infer behaviors of toxic species leading to tissue damage. This study uses kinetic modeling to identify which chemical pathways exhibit dose-rate-dependent behavior and can be used to correlate experiments.Approach.A comprehensive physicochemical model of water radiolysis was developed, incorporating 16 molecular species and 56 coupled reaction rate equations, with pulsed-beam structures matched to published UHDR electron irradiation experiments. Simulations were performed across a range of oxygen tensions (0.1%-10% O2) and dose-rate conditions (0.3-300 Gy s-1). Model predictions were validated against experimental measurements of eaq-transients, and oxygen-consumptionin vitroandin vivo. They also were compared to prior computational models.Main results.Modeled lifetimes of eaq-matched experiments across O2concentrations and showed that >90% of scavenging occurs via O2and reactions with proteins, with radical-radical recombination contributing <5% even at 300 Gy s-1. The lifetimes of OH· radicals were similarly dominated by protein scavenging, with recombination pathways remaining minor (<5%) with UHDR. Modeled oxygen consumption matched the magnitude and dose-rate dependence observed in published experiments. The results indicated a primary dose-rate sensitive pathway, the reaction between hydroperoxyl radical (HO2·) and superoxide (O2·-). Peroxyl-radical formation decreased at UHDR within oxygen tensions (≈5-20 mmHg) corresponding to the experimentally observed FLASH oxygen-window.Significance.This work identifies specific radiochemical pathways that exhibit true dose-rate sensitivity and clarifies which proposed FLASH mechanisms are unsupported by homogeneous-phase radical kinetics. Radical-radical recombination contributes too little (<5%) to account for known FLASH sparing at UHDR, whereas peroxyl-radical and HO2·/O2·-chemistry shows dose-rate-dependent behavior within physiologic oxygen tensions associated with FLASH. Although constrained by simplified aqueous conditions lacking scavengers and tissue heterogeneity, the model provides mechanistic insight into the radiochemical regimes dominating the homogeneous phase chemistry.
 DO  - 10.1088/1361-6560/aeabe5
 AN  - 42777776
 UR  - https://pubmed.ncbi.nlm.nih.gov/42777776/
@@ -143,10 +678,10 @@ TY  - JOUR
 TI  - Fractal geometry-governed oxygen diffusion: tumors vs. normal tissues.
 AU  - Valizadeh N
 AU  - Rahimi R
-AU  - Abolfath RM
+AU  - Abolfath R
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - To develop a geometry-governed diffusion framework that explains differential tissue response under FLASH ultra-high dose rate (UHDR) irradiation by explicitly accounting for structural heterogeneity and anomalous transport in biological tissues.&#xD;Approach: We formulate a generalized diffusion-reaction model on fractal substrates to describe molecular transport in heterogeneous media. Tissue architecture is characterized by a fractal (Hausdorff) dimension D, while scale-dependent transport inefficiency and memory effects are captured by a fractional parameter θ. Analytical solutions for radially symmetric geometries are derived and&#xD;compared with classical normal (Euclidean) diffusion and a Gaussian reference model under identical physical conditions. Transport behavior is quantified through transient probability distributions and steady-state spatial profiles.&#xD;Main results: The model reveals systematic suppression of long-range transport and enhanced localization as tissue structural complexity increases. Increasing θ leads to subdiffusive dynamics, reduced effective diffusion lengths, and persistent non-Gaussian concentration profiles, even in the steady state. While increasing D alone enhances spatial accessibility, fractional dynamics dominate&#xD;transport behavior when θ > 0, counteracting geometric connectivity. These effects produce a separation between regimes characterized by efficient inter-track overlap and rapid homogenization, and regimes marked by isolated, long-lived reactive domains.&#xD;Conclusion: Fractal geometry provides a unifying physical framework for understanding tissue-dependent transport and differential response under FLASH UHDR irradiation. Normal tissues, characterized by near-Euclidean geometry and weak anomalous effects, permit greater inter-track interaction and recombination, whereas tumor-like tissues with elevated structural complexity exhibit localized transport and reduced collective chemical reactivity. This proof-of-principle study establishes tissue architecture as a fundamental determinant of transport efficiency and offers a mechanistic basis for experimentally observed FLASH tissue sparing, motivating geometry-aware modeling of radiobiological response.&#xD;Significance: This work shifts the emphasis from purely chemical kinetics toward a geometry-governed description of oxygen and reactive oxygen species transport in cells and tissues.
+AB  - Objective.To develop a geometry-governed diffusion framework that explains differential tissue response under FLASH ultra-high dose rate (UHDR) irradiation by explicitly accounting for structural heterogeneity and anomalous transport in biological tissues.Approach.We formulate a generalized diffusion-reaction model on fractal substrates to describe molecular transport in heterogeneous media. Tissue architecture is characterized by a fractal (Hausdorff) dimension, while scale-dependent transport inefficiency and memory effects are captured by a fractional parameter. Analytical solutions for radially symmetric geometries are derived and compared with classical normal (Euclidean) diffusion and a Gaussian reference model under identical physical conditions. Transport behavior is quantified through transient probability distributions and steady-state spatial profiles.Main results.The model reveals systematic suppression of long-range transport and enhanced localization as tissue structural complexity increases. Increasingleads to subdiffusive dynamics, reduced effective diffusion lengths, and persistent non-Gaussian concentration profiles, even in the steady state. While increasingalone enhances spatial accessibility, fractional dynamics dominate transport behavior when, counteracting geometric connectivity. These effects produce a separation between regimes characterized by efficient inter-track overlap and rapid homogenization, and regimes marked by isolated, long-lived reactive domains.Conclusion.Fractal geometry provides a unifying physical framework for understanding tissue-dependent transport and differential response under FLASH UHDR irradiation. Normal tissues, characterized by near-Euclidean geometry and weak anomalous effects, permit greater inter-track interaction and recombination, whereas tumor-like tissues with elevated structural complexity exhibit localized transport and reduced collective chemical reactivity. This proof-of-principle study establishes tissue architecture as a fundamental determinant of transport efficiency and offers a mechanistic basis for experimentally observed FLASH tissue sparing, motivating geometry-aware modeling of radiobiological response.Significance.This work shifts the emphasis from purely chemical kinetics toward a geometry-governed description of oxygen and reactive oxygen species transport in cells and tissues.
 DO  - 10.1088/1361-6560/aeabe7
 AN  - 42777768
 UR  - https://pubmed.ncbi.nlm.nih.gov/42777768/
@@ -169,7 +704,7 @@ AU  - Zhou L
 AU  - Wu D
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - Electron FLASH radiotherapy (FLASH-RT) represents a revolutionary and disruptive radiotherapy modality. It delivers high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to healthy normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. To overcome this dosimetric bottleneck, we propose and validate an electron-induced acoustic (EA) reconstruction framework that synergistically integrates adaptive denoising regularization (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, enabling robust quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a three-dimensional (3D) digital water phantom, which serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer's frequency response and the dosimetry system's independent response characteristics. The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion, indicating its promising potential for clinical dose distribution verification and beam parameter characterization in electron-based FLASH-RT.
+AB  - Objective. Electron FLASH radiotherapy (FLASH-RT) represents a disruptive radiotherapy modality. It enables high-dose radiation to tumor lesions over an extremely short duration, ensuring therapeutic efficacy while markedly mitigating damage to normal tissues. However, the accurate dosimetry of FLASH-RT is severely challenged under ultra-high-dose-rate (UHDR) and ultra-short-pulse conditions, where conventional ionization chambers suffer from dose saturation and spatial-averaging artifacts that fundamentally undermine their ability to resolve the delivered volumetric dose distribution. This study aims to evaluate the feasibility of quantitatively reconstructing dose distributions in electron-based FLASH-RT from multi-angle electron-induced acoustic (EA) signals in a three-dimensional (3D) digital water phantom, systematically assessing the effects of transducer configuration, the efficacy of deconvolution for signal restoration, and the depth dependence of reconstruction accuracy.Approach.We propose and validate an electron-induced acoustic imaging (EAI) reconstruction framework that synergistically integrates adaptive denoising preprocessing (via bandpass filtering and Savitzky-Golay smoothing), Wiener deconvolution for signal restoration, and time-reversal imaging for spatial mapping, to enable quantitative characterization of the delivered dose in electron-based FLASH-RT. An annular array transducer is employed to acquire time-variant acoustic matrix signals induced by UHDR pulsed electron-beam irradiation in a 3D digital water phantom; these signals serve as the input data for reconstructing the dose distribution and profiles. Comparative simulations are conducted to evaluate the influence of array transducer parameters on dose reconstruction performance, accounting for the transducer's frequency response and the dosimetry system's independent response characteristics.Main results.The results demonstrate that, for acoustic array signals acquired by a 128-element annular array transducer, the gamma passing rate of the dose distribution reconstructed by the proposed method was above 95% under the 5%/5 mm and 3%/3 mm criteria, and remained above 89% even under the most stringent 3%/2 mm criterion. Also, the central-profile dose curve was in good agreement with the reference dose curve, with an average dose difference of less than 6.35%.Significance.The results demonstrate the potential of this EAI-based dosimetry method for quantitative dose assessment and beam parameter characterization in electron-based FLASH-RT.
 DO  - 10.1088/1361-6560/aeabec
 AN  - 42777767
 UR  - https://pubmed.ncbi.nlm.nih.gov/42777767/
@@ -194,7 +729,7 @@ AU  - Xu X
 AU  - Qu W
 PY  - 2026
 JO  - Physics in medicine and biology
-AB  - FLASH radiotherapy which employs an ultra-high dose rate (>40 Gy/s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for three-dimensional dose reconstruction. &#xD;Approach: A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization (OSEM) iterative algorithm was adopted to obtain three-dimensional dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate X-rays, as well as 9 MeV electron with an ultra-high dose rate (UHDR) of 120 Gy/s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold). &#xD;Results: The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional X-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution. &#xD;Significance: The proposed three-dimensional dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It shows high accuracy in the evaluation of lateral parameters such as field shape, field size, flatness and uniformity, and can meet the basic requirements for field consistency verification in clinical UHDR radiotherapy QA.
+AB  - Objective. FLASH radiotherapy which employs an ultra-high dose rate (UHDR) (Gy s), effectively protects normal tissues and organs while maintaining robust tumor control. However, it also presents serious challenges for quality assurance (QA). Currently, dosimeters face various limitations under FLASH radiotherapy conditions which make it difficult to meet the demand for rapid and high-precision three-dimensional (3D) dose verification. In this paper, CMOS cameras were used to capture luminescence images generated by irradiated water and for 3D dose reconstruction.Approach. A tri-orthogonal view camera imaging setup was designed and constructed to collect radioluminescence signals in water phantom. The ordered subsets expectation maximization iterative algorithm was adopted to obtain 3D dose reconstruction. The experiments were performed by 6 MV and 10 MV conventional dose rate x-rays, as well as 9 MeV electron with an UHDR of 120 Gy s. The dose distribution was verified by treatment planning system calculations and film measurements, respectively. Quantitative evaluations were performed through percentage depth dose (PDD), lateral dose profiles, and two-dimensional gamma analysis (3%/3 mm, 10% threshold).Results. The luminescence intensity of water phantom shows high linearity with the irradiation dose and exhibits independent characteristics with dose rate. The PDD curve of conventional x-ray reconstruction underestimates the dose in the dose fall-off region, and the transverse dose distribution shows high consistency with the reference distribution. Under different irradiation fields, the difference in the full width at half maximum (FWHM) of the lateral dose distribution curves at each depth is less than 1.25 mm. The PDD curve of the UHDR electron beam reconstruction result underestimates the dose in the shallow region. The deviation of the half-peak dose depth from the film measurement result is less than 0.7 mm. Calculations of the gamma passing rate on each plane of the reconstruction result indicate that the method used shows high accuracy for the transverse distribution.Significance. The proposed 3D dose distribution measurement method is applicable to both conventional dose rate radiotherapy and UHDR radiotherapy conditions. It demonstrates favourable performance when evaluating lateral parameters including field shape, field size, flatness and uniformity, which is promising for field consistency verification in clinical UHDR radiotherapy QA.
 DO  - 10.1088/1361-6560/aeabeb
 AN  - 42777766
 UR  - https://pubmed.ncbi.nlm.nih.gov/42777766/
@@ -6413,7 +6948,7 @@ AU  - Graves EE
 AU  - Shi M
 AU  - Maxim PG
 AU  - Currell A
-AU  - Jr BWL
+AU  - Loo BW
 AU  - Skinner L
 AU  - Ashraf MR
 PY  - 2025
@@ -15910,7 +16445,7 @@ AU  - Maxim PG
 AU  - Kry SF
 AU  - Vozenin MC
 AU  - Schüler E
-AU  - Jr BWL
+AU  - Loo BW
 PY  - 2023
 JO  - ArXiv
 AB  - We conducted a multi-institutional audit of dosimetric variability between FLASH and conventional dose rate (CONV) electron irradiations by using an anatomically realistic 3D-printed mouse phantom. A CT scan of a live mouse was used to create a 3D model of bony anatomy, lungs, and soft tissue. A dual-nozzle 3D printer was used to print the mouse phantom using acrylonitrile butadiene styrene ($~1.02 g/cm^3$) and polylactic acid ($~1.24 g/cm^3$) simultaneously to simulate soft tissue and bone densities, respectively. The lungs were printed separately using lightweight polylactic acid ($~0.64 g/cm^3$). Hounsfield units (HU) and densities were compared with the reference CT scan of the live mouse. Print-to-print reproducibility of the phantom was assessed. Three institutions were each provided a phantom, and each institution performed two replicates of irradiations at selected mouse anatomic regions. The average dose difference between FLASH and CONV dose distributions and deviation from the prescribed dose were measured with radiochromic film. Compared to the reference CT scan, CT scans of the phantom demonstrated mass density differences of $0.10 g/cm^3$ for bone, $0.12 g/cm^3$ for lung, and $0.03 g/cm^3$ for soft tissue regions. Between phantoms, the difference in HU for soft tissue and bone was <10 HU from print to print. Lung exhibited the most variation (54 HU) but minimally affected dose distribution (<0.5% dose differences between phantoms). The mean difference between FLASH and CONV from the first replicate to the second decreased from 4.3% to 1.2%, and the mean difference from the prescribed dose decreased from 3.6% to 2.5% for CONV and 6.4% to 2.7% for FLASH. The framework presented here is promising for credentialing of multi-institutional studies of FLASH preclinical research to maximize the reproducibility of biological findings.

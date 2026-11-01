@@ -2,7 +2,102 @@
 
 Review articles, roadmaps, consensus statements and guidance documents.
 
-*200 records. Newest first.*
+*205 records. Newest first.*
+
+---
+
+### Preclinical highlights from the 64th Annual Meeting of the Particle Therapy Co-Operative Group (PTCOG 64): Breakthroughs and timelines for potential applications in radiotherapy.
+
+*Geoffrin-Tanner B, Frelin AM, Chevalier F, Haghdoost S, Rodriguez-Lafrasse C, Marcatili S et al.* — Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique (2026)  
+
+<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Treatment Planning &amp; Optimization</span>
+
+
+**TL;DR.** Particle therapy is rapidly evolving beyond highly conformal dose delivery toward biologically informed, image-guided, and patient-specific treatment strategies. MATERIALS AND METHODS: Selected preclinical and translational advances presented at the 64th Annual Meeting of the Particle Therapy Co-Operative Group (PTCOG 64) are reported with emphasis on their potential impact and expected timeline f…
+
+
+??? note "Abstract"
+    PURPOSE OF THE RESEARCH: Particle therapy is rapidly evolving beyond highly conformal dose delivery toward biologically informed, image-guided, and patient-specific treatment strategies. MATERIALS AND METHODS: Selected preclinical and translational advances presented at the 64th Annual Meeting of the Particle Therapy Co-Operative Group (PTCOG 64) are reported with emphasis on their potential impact and expected timeline for clinical implementation. RESULTS: Recent developments span accelerator technologies, treatment delivery, dosimetry, imaging, radiobiology, and predictive modeling. Near-term innovations include compact accelerator concepts, software-driven treatment acceleration, photon-counting computed tomography, prompt-gamma range verification, linear energy transfer-aware quality assurance, and uncertainty-aware normal tissue complication probability models for proton therapy selection. Emerging approaches such as optically stimulated luminescence detectors, nanodroplet ultrasound imaging, radioactive and mixed-ion beams, and mechanistic digital twins expand capabilities for biological dosimetry, adaptive imaging, and prediction of late toxicity events. Carbon-ion research is simultaneously progressing toward biologically optimized treatment through advances in immunoradiobiology, flash irradiation, predictive biomarkers, functional imaging, and multi-ion optimization. Quantum technologies represent a longer-term perspective for imaging, dosimetry, and treatment planning. CONCLUSION: Particle therapy is transitioning from a dose-centered discipline to an integrated framework combining advanced imaging, radiation quality, biological modeling, and patient-specific decision support. Several technologies are sufficiently mature for near-term clinical translation, with digital twins, biologically optimized multi-ion therapy, and quantum-enabled systems represent innovations likely to shape the next generation of precision particle therapy and guide future priorities within the RadioTransNet network.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42933259/) · [DOI](https://doi.org/10.1016/j.canrad.2026.104897)
+
+
+---
+
+### Ultra-high-dose-rate pulsed irradiation and the conditional FLASH effect: dosimetry, multiscale biology, and clinical translation.
+
+*Zhang J, Lu H, Dong G, Wang C* — Frontiers in oncology (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Physics &amp; Dosimetry</span> <span class="badge tag">Clinical &amp; Translational</span>
+
+
+**TL;DR.** Ultra-high-dose-rate (UHDR) pulsed irradiation can deliver therapeutic doses within an extremely short time window, but UHDR is a physical delivery state, whereas the FLASH effect is a conditional comparative phenotype in which normal-tissue injury is reduced relative to a spatially dose-comparable conventional-dose-rate (CDR) irradiation comparator without loss of tumor control. This Review integ…
+
+
+??? note "Abstract"
+    Ultra-high-dose-rate (UHDR) pulsed irradiation can deliver therapeutic doses within an extremely short time window, but UHDR is a physical delivery state, whereas the FLASH effect is a conditional comparative phenotype in which normal-tissue injury is reduced relative to a spatially dose-comparable conventional-dose-rate (CDR) irradiation comparator without loss of tumor control. This Review integrates evidence across four levels: physical exposure characterization, dosimetric measurement, biological comparison, and clinical translation. We examine the temporal structure and quality-assurance requirements of electron, very-high-energy electron, photon, proton, and heavy-ion UHDR platforms; synthesize positive, negative, and conditional findings across normal-tissue and tumor models; and integrate mechanistic studies spanning multiple time scales. Current evidence does not support 40 Gy/s, or any single average dose-rate metric, as either a sufficient or a necessary threshold for the FLASH effect. Effect magnitude and reproducibility are more likely determined jointly by dose per pulse, pulse structure, total delivery time, fractionation, irradiated volume, radiation quality, tissue-specific radiobiological characteristics, and biological state. Mechanistic data likewise favor multiscale coupling across time rather than a single explanatory pathway, although several causal links from early oxygen and radical dynamics to cellular and tissue outcomes still lack direct interventional validation. Human studies have established the feasibility of clinical UHDR delivery on selected electron and proton platforms and have provided preliminary safety data, but comparative clinical benefit over CDR irradiation has not yet been demonstrated. Further translation should therefore prioritize pulse-resolved traceable dosimetry, organ-specific normal-tissue dose-response relationships, late toxicity, comparable tumor control, and concurrent comparative clinical endpoints, with expansion guided by prespecified stage-gated translational criteria.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42909922/) · [DOI](https://doi.org/10.3389/fonc.2026.1990706) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13684859/)
+
+
+---
+
+### Harnessing Particle Ions for FLASH Radiotherapy.
+
+*Bembridge AJ, Hughes JR, Parsons JL* — Cells (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** FLASH radiotherapy continues to be an emerging clinical treatment that utilises ultra-high dose rate radiation (&gt;40 Gy/s) to elicit normal tissue sparing compared to conventional (CONV) dose rate delivery. This is termed the FLASH effect, which has also been demonstrated to lead to effective tumour control.
+
+
+??? note "Abstract"
+    FLASH radiotherapy continues to be an emerging clinical treatment that utilises ultra-high dose rate radiation (&gt;40 Gy/s) to elicit normal tissue sparing compared to conventional (CONV) dose rate delivery. This is termed the FLASH effect, which has also been demonstrated to lead to effective tumour control. FLASH sparing has been demonstrated in many studies using electrons and now increasingly with particle ions, particularly protons. Due to unique properties such as deeper penetrance and a narrow range of energy deposition providing more precision targeting, this makes hadron radiotherapy using FLASH an exciting innovation for cancer treatment to help improve outcomes for cancer patients. Furthermore, through the use of higher linear energy transfer (LET) particles such as helium and carbon ions, FLASH offers the potential to combine sparing of normal tissues with enhanced biological effectiveness in tumour cell killing, important for tumours that are more resistant to conventional photon radiotherapy. However, the physical and biological parameters by which the FLASH sparing effect occurs is complex and has not been fully characterised. Factors including total dose, pulse structure (dose and duration), beam energy and LET have all been reported to impact tissue sparing. Additionally, the underlying biological mechanism of action of FLASH remains a point of contention within the field. In this review, we provide an up-to-date report on FLASH studies conducted with particle ion therapies, including in vitro and in vivo studies, using different experimental models. We present both the cellular and molecular outcomes of the studies performed using protons, helium and carbon ions, plus other ion sources, and the accumulating evidence that demonstrate the strong clinical potential for these modalities in cancer treatment.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42882427/) · [DOI](https://doi.org/10.3390/cells15191729) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13664593/)
+
+
+---
+
+### Evolving role of proton therapy in contemporary oncology.
+
+*Lebow ES, Shih HA* — Cancer (2026)  
+
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Treatment Planning &amp; Optimization</span> <span class="badge tag">Radiobiology</span>
+
+
+**TL;DR.** Proton therapy offers a distinct physical advantage over photon radiotherapy through the Bragg peak dose concentration in target with both lower integral dose and finite path length, and sharper penumbra as compared to photons, collectively reducing radiation exposure to surrounding normal tissues and potentially improving the therapeutic ratio. However, this advantage is tempered by uncertainties…
+
+
+??? note "Abstract"
+    Proton therapy offers a distinct physical advantage over photon radiotherapy through the Bragg peak dose concentration in target with both lower integral dose and finite path length, and sharper penumbra as compared to photons, collectively reducing radiation exposure to surrounding normal tissues and potentially improving the therapeutic ratio. However, this advantage is tempered by uncertainties, including range uncertainty and variable relative biological effectiveness. In this review, the authors summarize contemporary evidence supporting proton therapy across pediatric, central nervous system (CNS), head and neck, thoracic, breast, gastrointestinal, genitourinary, and hematologic malignancies, as well as reirradiation. The strength of evidence varies substantially by disease site. Proton therapy is well established in pediatric cancers and selected CNS tumors, where minimizing integral dose and late toxicity is especially important. Randomized trials have demonstrated clinically meaningful benefits in selected settings, including improved disease control and survival with proton craniospinal irradiation for leptomeningeal metastases and reduced toxicity with preserved disease control and survival benefit in oropharyngeal cancer. Conversely, randomized data in localized prostate cancer have not shown improved patient reported outcomes compared with intensity modulated photon therapy. Ongoing phase 3 trials across multiple disease sites are expected to further define the role of protons by clarifying comparative effectiveness, toxicity reduction, and cost-effectiveness relative to advanced photon techniques. Future progress will depend on improved patient selection, robust treatment planning, and emerging technologies including adaptive proton therapy, proton arc therapy, and FLASH radiotherapy.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42870507/) · [DOI](https://doi.org/10.1002/cncr.70622) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13662491/)
+
+
+---
+
+### Dosimetric Comparison of Contemporary Stereotactic Radiotherapy Platforms for Brain Metastases: Towards Personalized Technology Selection.
+
+*Duan W, Wang Z, Wang R* — Technology in cancer research &amp; treatment (2026)  
+
+<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Radiobiology</span> <span class="badge tag">Beam Delivery &amp; Technology</span> <span class="badge tag">Physics &amp; Dosimetry</span>
+
+
+**TL;DR.** Stereotactic radiosurgery and radiotherapy (SRS/SRT) for brain metastases is a rapidly evolving field, driven by continuous refinement of dosimetric strategies and technological advances in treatment platforms. This narrative review synthesizes current evidence on the dosimetric characteristics of major SRS/SRT platforms-Gamma Knife, CyberKnife, ZAP-X, linear accelerators, helical tomotherapy, and…
+
+
+??? note "Abstract"
+    Stereotactic radiosurgery and radiotherapy (SRS/SRT) for brain metastases is a rapidly evolving field, driven by continuous refinement of dosimetric strategies and technological advances in treatment platforms. This narrative review synthesizes current evidence on the dosimetric characteristics of major SRS/SRT platforms-Gamma Knife, CyberKnife, ZAP-X, linear accelerators, helical tomotherapy, and proton therapy-and evaluates their comparative strengths, limitations, and optimal clinical applications. We identify distinct dosimetric trade-offs among platforms with respect to dose conformity, gradient fall-off, normal tissue sparing, and treatment efficiency. Gamma Knife remains a dosimetric benchmark for dose gradient steepness, particularly for small targets (e.g., &lt;1 cm in diameter). CyberKnife offers high conformity and may benefit lesions adjacent to critical organs, although treatment efficiency diminishes with increasing numbers of metastases. The novel, self-shielded ZAP-X system delivers a dose gradient comparable to that of Gamma Knife and achieves favorable sparing of normal brain tissue at intermediate-to-high dose levels. Linear accelerator-based techniques-especially single-isocenter non-coplanar volumetric modulated arc therapy and dynamic conformal arc therapy-are widely adopted for multiple brain metastases owing to their high delivery efficiency and continually improving plan quality. Helical tomotherapy provides reliable plan deliverability, whereas proton therapy offers a theoretical advantage in reducing low-dose exposure to the whole brain and sparing adjacent organs at risk, owing to the Bragg peak. The available evidence indicates that no single platform is universally optimal, and dosimetric differences should be interpreted with caution given the absence of prospective comparative clinical outcome data. Treatment platform selection should therefore be individualized, integrating disease characteristics (e.g., number, volume, location, and geometry of targets), institutional resources, and established clinical priorities. Future integration of advanced technologies-including FLASH radiotherapy and artificial intelligence-may further personalize the management of brain metastases.
+
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42822518/) · [DOI](https://doi.org/10.1177/15330338261493387)
+
 
 ---
 
@@ -181,7 +276,7 @@ Review articles, roadmaps, consensus statements and guidance documents.
 
 *Zhang Y, Li H, Lv S, Meng W, Guo J, Lu Y et al.* — Molecular cancer (2026)  
 
-<span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
+<span class="badge oa">Open access</span> <span class="badge tag">Reviews &amp; Consensus</span> <span class="badge tag">Modeling &amp; Mechanisms</span> <span class="badge tag">Radiobiology</span>
 
 
 **TL;DR.** Cancer immunotherapy, exemplified by immune checkpoint blockade (ICB), remains strongly influenced by the pre-existing immune organization of the tumor microenvironment. Tertiary lymphoid structures (TLSs) are ectopic lymphoid aggregates whose density, maturation state, and spatial localization correlate with clinical prognosis and ICB response across several malignancies.
@@ -191,7 +286,7 @@ Review articles, roadmaps, consensus statements and guidance documents.
     Cancer immunotherapy, exemplified by immune checkpoint blockade (ICB), remains strongly influenced by the pre-existing immune organization of the tumor microenvironment. Tertiary lymphoid structures (TLSs) are ectopic lymphoid aggregates whose density, maturation state, and spatial localization correlate with clinical prognosis and ICB response across several malignancies. Radiotherapy (RT) can reshape this immune context in opposing directions. By inducing immunogenic cell death, antigen release, cGAS-STING/type I interferon signaling, vascular remodeling, and lymphocyte recruitment, RT can create conditions that support TLS-associated antitumor immunity in selected settings. Conversely, high-dose or large-volume irradiation, poorly timed nodal exposure, and collateral injury to lymphocytes, tumor-draining lymph nodes, stromal scaffolds, and high endothelial venules can disrupt established TLSs or prevent their maturation. This review summarizes current evidence on the bidirectional relationship between RT and TLS biology, differentiating validated mechanisms from indirect evidence and hypothesis-generating translational concepts. We expound on how dose, fractionation, timing, irradiated volume, nodal management and radiation modality may influence antigen presentation, lymphocyte availability, and local immune architecture. Potential strategies such as lymph-node-aware planning, proton or heavy-ion therapy, FLASH RT, vascular normalization, STING or LTβR agonism, and ICB combinations are evaluated as investigational approaches rather than established TLS-directed clinical interventions. Future studies should evaluate whether optimized RT regimens can preserve or promote the functional maturation of TLSs, integrating paired tissue biopsies, spatial transcriptomics, advanced imaging, and circulating biomarkers to definitively correlate TLS remodeling with clinical outcomes.
 
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/42482188/) · [DOI](https://doi.org/10.1186/s12943-026-02735-1)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42482188/) · [DOI](https://doi.org/10.1186/s12943-026-02735-1) · [Full text (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13682009/)
 
 
 ---
